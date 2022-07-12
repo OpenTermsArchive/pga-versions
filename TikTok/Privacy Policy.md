@@ -1,7 +1,5 @@
 Datenschutzerklärung
 
-[Unsere neue Datenschutzrichtlinie finden Sie hier. Sie tritt am 13. Juli 2022 in Kraft](https://www.tiktok.com/legal/new-privacy-policy?lang=de-DE)  
-
 **_Letzte Aktualisierung_**_: 5. Oktober 2021_
 
 **Einleitung**
