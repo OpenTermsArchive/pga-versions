@@ -1,4 +1,4 @@
-[Submit](http://chirpdevchallenge.devpost.com/?ref=web-dtc-DevChallenge&utm_source=dtc&utm_medium=web&utm_campaign=DevChallenge&utm_content=announcement-banner) your app to the Chirp Developer Challenge by August 19!
+Don’t miss out! Apply for the [Chirp Developer Conference](https://developer.twitter.com/chirp?ref=web-dtc-chirp-2022-banner&utm_source=dtc&utm_medium=web&utm_campaign=chirp-2022-banner).
 
 **Developer terms**
 
