@@ -29,7 +29,7 @@ The authorised recipient in accordance with § 20 UrhDaG for service in court pr
 **Impressum**  
 The websites under www.facebook.com and the services on these page are being offered to you by: Meta Platforms Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland  
   
-Authorized representative: Gareth Lambe  
+Authorized representative: Richard Kelley  
 Registered in Ireland (Companies Registration Office)  
 Company No. 462932  
   
@@ -66,7 +66,7 @@ For help or information about how to make a report:
 *   Information about [page admin issues](https://www.facebook.com/help/www/738660629556925)
 
 To contact us by email:  
-![](https://scontent-frt3-1.xx.fbcdn.net/v/t39.2365-6/10574689_373883339436400_1359386031_n.png?_nc_cat=107&ccb=1-7&_nc_sid=ad8a9d&_nc_ohc=yKhvqxHzk2AAX-R0x2w&_nc_ht=scontent-frt3-1.xx&oh=00_AT_rOb1OvK9cGEG0EPwnuwhZ-fL2THmmoz_vpKANi9AV9Q&oe=62F03105)  
+![](https://scontent-frt3-1.xx.fbcdn.net/v/t39.2365-6/10574689_373883339436400_1359386031_n.png?_nc_cat=107&ccb=1-7&_nc_sid=ad8a9d&_nc_ohc=yKhvqxHzk2AAX-R0x2w&_nc_ht=scontent-frt3-1.xx&oh=00_AT-O5FB-ujnFkqxLdHOf5oaX1mhG-BtBLUJK96boaQ0ZQA&oe=62F22B45)  
   
 **Information for the state media authorities**  
 Administrative notifications under IMT (German Interstate Media Treaty) to Meta Platforms Ireland Ltd. can be served on: Facebook Germany GmbH, c/o Freshfields Bruckhaus Deringer Rechtsanwälte Steuerberater PartG mbB, Hohe Bleichen 7, 20354 Hamburg.  
