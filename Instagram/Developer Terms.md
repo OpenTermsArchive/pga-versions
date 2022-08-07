@@ -324,7 +324,7 @@ Meta Platform Terms
         i. You must always have in effect and maintain administrative, physical, and technical safeguards that do the following:
         
         *     
-            1\. Meet or exceed industry standards given the sensitivity of the Platform Data; [![](https://scontent-frt3-1.xx.fbcdn.net/v/t39.2178-6/851547_537948159656190_540847388_n.png?ccb=1-7&_nc_ohc=WXiW67F_BgkAX8N0jgi&_nc_ht=scontent-frt3-1.xx&oh=00_AT9DvifrX1A4pw-QJ21gRFiuAM5Tp0iSFDs57dUbLmgVrg&oe=62F3AD4A)](https://developers.facebook.com/docs/datasecurity) 
+            1\. Meet or exceed industry standards given the sensitivity of the Platform Data; [![](https://scontent-frt3-1.xx.fbcdn.net/v/t39.2178-6/851547_537948159656190_540847388_n.png?ccb=1-7&_nc_ohc=WXiW67F_BgkAX8N0jgi&_nc_ht=scontent-frt3-1.xx&oh=00_AT-B6Bxyr1F0_JXSgnsVwbNgCBKNDNSBoKV6CsYyPB_NgQ&oe=62F5A78A)](https://developers.facebook.com/docs/datasecurity) 
             
         *   2\. Comply with applicable law and regulations, including data security and privacy laws, rules, and regulations; and
             
