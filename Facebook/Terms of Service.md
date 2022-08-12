@@ -66,7 +66,7 @@ For help or information about how to make a report:
 *   Information about [page admin issues](https://www.facebook.com/help/www/738660629556925)
 
 To contact us by email:  
-![](https://scontent-frt3-1.xx.fbcdn.net/v/t39.2365-6/10574689_373883339436400_1359386031_n.png?_nc_cat=107&ccb=1-7&_nc_sid=ad8a9d&_nc_ohc=TxBYk-M6BOIAX9USCcD&_nc_ht=scontent-frt3-1.xx&oh=00_AT_ciOHgI9w4BzB92DCY0oYkO_IaAc_is_Fn85ZFFwQpvg&oe=62FA1445)  
+![](https://scontent-frt3-1.xx.fbcdn.net/v/t39.2365-6/10574689_373883339436400_1359386031_n.png?_nc_cat=107&ccb=1-7&_nc_sid=ad8a9d&_nc_ohc=TxBYk-M6BOIAX9USCcD&_nc_ht=scontent-frt3-1.xx&oh=00_AT8Q46tmK-I2zzdclU6gEOH5i--dAmXIqtV2vVOK1enqYQ&oe=62FC0E85)  
   
 **Information for the state media authorities**  
 Administrative notifications under IMT (German Interstate Media Treaty) to Meta Platforms Ireland Ltd. can be served on: Facebook Germany GmbH, c/o Freshfields Bruckhaus Deringer Rechtsanwälte Steuerberater PartG mbB, Hohe Bleichen 7, 20354 Hamburg.  
