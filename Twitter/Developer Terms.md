@@ -1,5 +1,3 @@
-Don’t miss out! Apply for the [Chirp Developer Conference](https://chirpapplication.splashthat.com/?ref=web-dtc-chirp-2022-banner&utm_source=dtc&utm_medium=web&utm_campaign=chirp-2022-banner).
-
 **Developer terms**
 
 Developer Agreement
