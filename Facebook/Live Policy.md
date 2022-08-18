@@ -45,3 +45,38 @@ Example:
 *   A broadcast that is limited to a photo and has no other auditory or visual elements
 
 *   A broadcast that only contains a poll
+
+English (UK)
+
+Deutsch
+
+Türkçe
+
+Polski
+
+Italiano
+
+Română
+
+Français (France)
+
+Русский
+
+العربية
+
+Español
+
+Português (Brasil)
+
+[Sign Up](https://www.facebook.com/reg/)[Log In](https://www.facebook.com/login/)[Messenger](https://l.facebook.com/l.php?u=https%3A%2F%2Fmessenger.com%2F&h=AT29vb-DbxRinZ77uHxnvY1Q3OC3Dwk_NZZk0zHJJHmHqwuO_2WM8ptCG9q-W0opxPiz83lKoK9bp8dBknfOuMKIZY2KYykYn0ljgyjmhc8wdeEa45K21NW-aVDXqWyFUu2l1zT4h9g8nJfzxAWRDg)[Facebook Lite](https://www.facebook.com/lite/)[Watch](https://en-gb.facebook.com/watch/)[Places](https://www.facebook.com/places/)[Games](https://www.facebook.com/games/)[Marketplace](https://www.facebook.com/marketplace/)[Facebook Pay](https://pay.facebook.com/)[Oculus](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.oculus.com%2F&h=AT29vb-DbxRinZ77uHxnvY1Q3OC3Dwk_NZZk0zHJJHmHqwuO_2WM8ptCG9q-W0opxPiz83lKoK9bp8dBknfOuMKIZY2KYykYn0ljgyjmhc8wdeEa45K21NW-aVDXqWyFUu2l1zT4h9g8nJfzxAWRDg)[Portal](https://portal.facebook.com/)[Instagram](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2F&h=AT29vb-DbxRinZ77uHxnvY1Q3OC3Dwk_NZZk0zHJJHmHqwuO_2WM8ptCG9q-W0opxPiz83lKoK9bp8dBknfOuMKIZY2KYykYn0ljgyjmhc8wdeEa45K21NW-aVDXqWyFUu2l1zT4h9g8nJfzxAWRDg)[Bulletin](https://www.bulletin.com/)[Local](https://www.facebook.com/local/lists/245019872666104/)[Fundraisers](https://www.facebook.com/fundraisers/)[Services](https://www.facebook.com/biz/directory/)[Voting Information Centre](https://www.facebook.com/votinginformationcenter/?entry_point=c2l0ZQ%3D%3D)[Groups](https://www.facebook.com/groups/explore/)
+
+*   [Privacy](https://en-gb.facebook.com/privacy/explanation/) ·
+*   [Impressum/Terms/NetzDG/UrhDaG](https://en-gb.facebook.com/terms?ref=pf) ·
+*   [Advertising](https://en-gb.facebook.com/business/) ·
+*   [Ad choices](https://en-gb.facebook.com/help/568137493302217)   ·
+*   [Cookies](https://en-gb.facebook.com/policies/cookies/) ·
+*   More
+    
+     ·
+
+Meta © 2022
