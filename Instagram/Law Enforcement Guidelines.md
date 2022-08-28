@@ -70,7 +70,7 @@ Submission of Requests
 
 Online:
 
-Law enforcement officials may use the [Law Enforcement Online Request System](https://l.instagram.com/?u=https%3A%2F%2Fwww.facebook.com%2Frecords&e=AT1rB3AVYxBMiAXz6M4ZtghViyobUEi5_qr_kiMhUlbfDDDDnD8JV6UpdPmMBTqLglAthFrvyQSW2SUOPfIGt6WnAweSI5DNR3x7fu0ARmrK1NrCBCx5wlyjl3bdBhZAmXINCsqGI7e1NDMM7hyzxg) for the submission, tracking and processing of requests. A government-issued email address is required to access the Law Enforcement Online Request System.
+Law enforcement officials may use the [Law Enforcement Online Request System](https://l.instagram.com/?u=https%3A%2F%2Fwww.facebook.com%2Frecords&e=AT1VIqKwDlvcbPHHz_XxyR5p_w4G9x6f6VQRxqRtJaOxefV1Y37q6cHs3xpWbwkd3JX9N2L--j4oTHX2Bs_J9AN5Kd42SUCn2fKUPEUJPMDYS070Xi8YUa1RQQm2b8Vts3IpnNFjEz2BPinihkANpg) for the submission, tracking and processing of requests. A government-issued email address is required to access the Law Enforcement Online Request System.
 
 Please note:
 
@@ -88,4 +88,4 @@ Menlo Park, CA 94025.
 
 Mail:
 
-Law enforcement officials who do not submit requests through the [Law Enforcement Online Request System](https://l.instagram.com/?u=https%3A%2F%2Fwww.facebook.com%2Frecords&e=AT1rB3AVYxBMiAXz6M4ZtghViyobUEi5_qr_kiMhUlbfDDDDnD8JV6UpdPmMBTqLglAthFrvyQSW2SUOPfIGt6WnAweSI5DNR3x7fu0ARmrK1NrCBCx5wlyjl3bdBhZAmXINCsqGI7e1NDMM7hyzxg) should expect longer response times.
+Law enforcement officials who do not submit requests through the [Law Enforcement Online Request System](https://l.instagram.com/?u=https%3A%2F%2Fwww.facebook.com%2Frecords&e=AT1VIqKwDlvcbPHHz_XxyR5p_w4G9x6f6VQRxqRtJaOxefV1Y37q6cHs3xpWbwkd3JX9N2L--j4oTHX2Bs_J9AN5Kd42SUCn2fKUPEUJPMDYS070Xi8YUa1RQQm2b8Vts3IpnNFjEz2BPinihkANpg) should expect longer response times.
