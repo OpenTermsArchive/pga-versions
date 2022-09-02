@@ -1,3 +1,5 @@
+Help us build a better experience for you! [Take the 2-minute Developer survey.](https://adsandpublisherscx.sjc1.qualtrics.com/jfe/form/SV_6FjFfNHwAtBBvRY)
+
 **Developer terms**
 
 Developer Agreement
