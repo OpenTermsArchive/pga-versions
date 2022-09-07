@@ -6,6 +6,8 @@ _Facebook Ireland Limited has changed its name to Meta Platforms Ireland Limited
 
 **Terms of Service**
 
+For messaging, voice and video calling services included in Meta Products, please click [here](https://www.facebook.com/legal/terms/eecc/contract_summary) for a contract summary and [here](https://www.facebook.com/legal/terms/eecc/flyout) for other information required by the European Electronic Communications Code.
+
 Meta builds technologies and services that enable people to connect with each other, build communities, and grow businesses. These Terms of Service (the "Terms") govern your use of Facebook, Messenger, and the other products, features, apps, services, technologies, and software we offer (the [Meta Products](https://www.facebook.com/help/1561485474074139?ref=tos) or [Products](https://www.facebook.com/help/1561485474074139?ref=tos)), except where we expressly state that separate terms (and not these) apply. These Products are provided to you by Meta Platforms Ireland Limited.
 
 We don’t charge you to use Facebook or the other products and services covered by these Terms, unless we state otherwise. Instead, businesses,organizations, and other persons pay us to show you ads for their products and services. Our products and services enable you to connect with your friends and communities and to receive personalized content and ads that we think may be relevant to you and your interests. You acknowledge that by using our Products, we will show you ads that we think may be relevant to you and your interests. We use your personal data to help determine which personalized ads to show you.
@@ -21,7 +23,7 @@ To learn about the NetzDG, visit the [NetzDG Help Center](https://www.facebook.c
   
 Law enforcement officials may submit requests for information under the NetzDG through the [Law Enforcement Online Request System](https://www.facebook.com/records).  
   
-Service agent for administrative proceedings and civil court proceedings within the meaning of § 5 (1) NetzDG: Freshfields Bruckhaus Deringer Rechtsanwälte Steuerberater PartG mbB (Berlin), Potsdamer Platz 1, 10785 Berlin.  
+Service agent for administrative proceedings and civil court proceedings within the meaning of § 5 (1) NetzDG: ARQIS Rechtsanwälte Partnerschaftsgesellschaft mbB, Breite Straße 28, 40213 Düsseldorf.  
   
 **Copyright Service Provider Act (“UrhDaG”)**  
 The authorised recipient in accordance with § 20 UrhDaG for service in court proceedings is: Freshfields Bruckhaus Deringer Rechtsanwälte Steuerberater PartG mbB (Düsseldorf), Feldmühleplatz 1, 40545 Düsseldorf.  
@@ -66,7 +68,7 @@ For help or information about how to make a report:
 *   Information about [page admin issues](https://www.facebook.com/help/www/738660629556925)
 
 To contact us by email:  
-![](https://scontent-frt3-1.xx.fbcdn.net/v/t39.2365-6/10574689_373883339436400_1359386031_n.png?_nc_cat=107&ccb=1-7&_nc_sid=ad8a9d&_nc_ohc=E_FPSj8uhRkAX9De_uF&_nc_ht=scontent-frt3-1.xx&oh=00_AT8-QtwzvHSp3NzU2HLeBLQXvhIPUAXzB-Lvjq0HSyuoCQ&oe=6301FD45)  
+![](https://scontent-frt3-1.xx.fbcdn.net/v/t39.2365-6/10574689_373883339436400_1359386031_n.png?_nc_cat=107&ccb=1-7&_nc_sid=ad8a9d&_nc_ohc=QQt_h0MVL0sAX_ELgDY&_nc_ht=scontent-frt3-1.xx&oh=00_AT-6UUVqltFivr7OoxlhyQ6pIzySgqcm2HEIgLW4XCFBSQ&oe=631DACC5)  
   
 **Information for the state media authorities**  
 Administrative notifications under IMT (German Interstate Media Treaty) to Meta Platforms Ireland Ltd. can be served on: Facebook Germany GmbH, c/o Freshfields Bruckhaus Deringer Rechtsanwälte Steuerberater PartG mbB, Hohe Bleichen 7, 20354 Hamburg.  
@@ -300,27 +302,3 @@ We provide these services to you and others to help advance our mission. In exch
 
   
 Date of Last Revision: July 26, 2022
-
-English (US)
-
-Deutsch
-
-Türkçe
-
-Polski
-
-Italiano
-
-Română
-
-Français (France)
-
-Русский
-
-العربية
-
-Español
-
-Português (Brasil)
-
-[Sign Up](https://www.facebook.com/reg/)[Log In](https://www.facebook.com/login/)[Messenger](https://messenger.com/)[Facebook Lite](https://www.facebook.com/lite/)[Watch](https://www.facebook.com/watch/)[Places](https://www.facebook.com/places/)[Games](https://www.facebook.com/games/)[Marketplace](https://www.facebook.com/marketplace/)[Facebook Pay](https://pay.facebook.com/)[Oculus](https://www.oculus.com/)[Portal](https://portal.facebook.com/)[Instagram](https://www.instagram.com/)[Bulletin](https://www.bulletin.com/)[Local](https://www.facebook.com/local/lists/245019872666104/)[Fundraisers](https://www.facebook.com/fundraisers/)[Services](https://www.facebook.com/biz/directory/)[Voting Information Center](https://www.facebook.com/votinginformationcenter/?entry_point=c2l0ZQ%3D%3D)[Groups](https://www.facebook.com/groups/explore/)
