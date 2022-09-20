@@ -14,7 +14,7 @@ Facebook Live must not be used to mislead users to think that specific footage i
 
 Example:
 
-*   Misrepresenting footage of an event that occurred a year ago as currently happening
+* Misrepresenting footage of an event that occurred a year ago as currently happening
 
 **Inaccurate location**
 
@@ -22,7 +22,7 @@ Facebook Live must not be used to mislead users to think that specific footage i
 
 Example:
 
-*   Misrepresenting footage from a different country as footage from the United States
+* Misrepresenting footage from a different country as footage from the United States
 
 **Pre-recorded content**
 
@@ -30,9 +30,9 @@ All pre-recorded content contained in a broadcast streamed to Facebook Live must
 
 Example:
 
-*   Adding a graphic to mark specific footage as pre-recorded
+* Adding a graphic to mark specific footage as pre-recorded
 
-*   Including a disclaimer in the video description or title that specific content is pre-recorded
+* Including a disclaimer in the video description or title that specific content is pre-recorded
 
 **Looping or static content**
 
@@ -40,11 +40,11 @@ Facebook Live should not be used to broadcast looping videos, static images or p
 
 Example:
 
-*   Streaming a 20-minute clip that is continuously looped
+* Streaming a 20-minute clip that is continuously looped
 
-*   A broadcast that is limited to a photo and has no other auditory or visual elements
+* A broadcast that is limited to a photo and has no other auditory or visual elements
 
-*   A broadcast that only contains a poll
+* A broadcast that only contains a poll
 
 English (UK)
 
@@ -70,13 +70,13 @@ Português (Brasil)
 
 [Sign Up](https://www.facebook.com/reg/)[Log in](https://www.facebook.com/login/)[Messenger](https://l.facebook.com/l.php?u=https%3A%2F%2Fmessenger.com%2F&h=AT1_0mkzHrGJ5v5PubQPzJsUPQrm4saax6jl8lvceMkToJqYbah_pj1XAPl1bZMyGXIH42-l1k5_4PBVvo5CFBGjPxQDWj_3saVpxi3w6COmeqwJljqLlMcRHlTu2sC7J6Q0LJVPwFkAspCDfQR-Nw)[Facebook Lite](https://www.facebook.com/lite/)[Watch](https://en-gb.facebook.com/watch/)[Places](https://www.facebook.com/places/)[Games](https://www.facebook.com/games/)[Marketplace](https://www.facebook.com/marketplace/)[Facebook Pay](https://pay.facebook.com/)[Oculus](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.oculus.com%2F&h=AT1_0mkzHrGJ5v5PubQPzJsUPQrm4saax6jl8lvceMkToJqYbah_pj1XAPl1bZMyGXIH42-l1k5_4PBVvo5CFBGjPxQDWj_3saVpxi3w6COmeqwJljqLlMcRHlTu2sC7J6Q0LJVPwFkAspCDfQR-Nw)[Portal](https://portal.facebook.com/)[Instagram](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2F&h=AT1_0mkzHrGJ5v5PubQPzJsUPQrm4saax6jl8lvceMkToJqYbah_pj1XAPl1bZMyGXIH42-l1k5_4PBVvo5CFBGjPxQDWj_3saVpxi3w6COmeqwJljqLlMcRHlTu2sC7J6Q0LJVPwFkAspCDfQR-Nw)[Bulletin](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.bulletin.com%2F&h=AT1_0mkzHrGJ5v5PubQPzJsUPQrm4saax6jl8lvceMkToJqYbah_pj1XAPl1bZMyGXIH42-l1k5_4PBVvo5CFBGjPxQDWj_3saVpxi3w6COmeqwJljqLlMcRHlTu2sC7J6Q0LJVPwFkAspCDfQR-Nw)[Local](https://www.facebook.com/local/lists/245019872666104/)[Fundraisers](https://www.facebook.com/fundraisers/)[Services](https://www.facebook.com/biz/directory/)[Voting Information Centre](https://www.facebook.com/votinginformationcenter/?entry_point=c2l0ZQ%3D%3D)[Groups](https://www.facebook.com/groups/explore/)
 
-*   [Privacy](https://en-gb.facebook.com/privacy/explanation/) ·
-*   [Impressum/Terms/NetzDG/UrhDaG](https://en-gb.facebook.com/terms?ref=pf) ·
-*   [Advertising](https://en-gb.facebook.com/business/) ·
-*   [Ad choices](https://en-gb.facebook.com/help/568137493302217)   ·
-*   [Cookies](https://en-gb.facebook.com/policies/cookies/) ·
-*   More
+* [Privacy](https://en-gb.facebook.com/privacy/explanation/)  ·
+* [Impressum/Terms/NetzDG/UrhDaG](https://en-gb.facebook.com/terms?ref=pf)  ·
+* [Advertising](https://en-gb.facebook.com/business/)  ·
+* [Ad choices](https://en-gb.facebook.com/help/568137493302217)   ·
+* [Cookies](https://en-gb.facebook.com/policies/cookies/)  ·
+* More
     
-     ·
+      ·
 
 Meta © 2022
