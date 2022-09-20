@@ -17,9 +17,9 @@ _Kurz gesagt: Dies ist ein Vertrag zwischen Ihnen und TikTok. Sie sollten ihn le
 
 Mit welchem Unternehmen Sie einen Vertrag abschließen, hängt davon ab, wo Sie Ihren Wohnsitz haben:
 
-*   Wenn Sie Ihren Wohnsitz in einem der Länder, [die dem Europäischer Wirtschaftsraum](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:European_Economic_Area_(EEA)&action=statexp-seat&lang=de) („**EWR**“) angehören oder in der Schweiz haben, besteht Ihr Vertrag mit TikTok Technology Limited, einem in der Republik Irland eingetragenen Unternehmen mit Sitz in 10 Earlsfort Terrace, Dublin, D02 T380, Irland und der Firmennummer 635755.
+* Wenn Sie Ihren Wohnsitz in einem der Länder, [die dem Europäischer Wirtschaftsraum](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:European_Economic_Area_(EEA)&action=statexp-seat&lang=de) („**EWR**“) angehören oder in der Schweiz haben, besteht Ihr Vertrag mit TikTok Technology Limited, einem in der Republik Irland eingetragenen Unternehmen mit Sitz in 10 Earlsfort Terrace, Dublin, D02 T380, Irland und der Firmennummer 635755.
 
-*   Wenn Sie Ihren Wohnsitz im Vereinigten Königreich haben, besteht Ihr Vertrag mit TikTok Information Technologies UK Limited, einem in England eingetragenen Unternehmen mit Sitz in 6th Floor, One London Wall, London, EC2Y 5EB, Vereinigtes Königreich und der Firmennummer 10165711.
+* Wenn Sie Ihren Wohnsitz im Vereinigten Königreich haben, besteht Ihr Vertrag mit TikTok Information Technologies UK Limited, einem in England eingetragenen Unternehmen mit Sitz in 6th Floor, One London Wall, London, EC2Y 5EB, Vereinigtes Königreich und der Firmennummer 10165711.
 
 _Kurz gesagt: Mit welchem der TikTok-Unternehmen Sie einen Vertrag haben, hängt von Ihrem Wohnsitz ab. Wenn wir in diesen Nutzungsbedingungen von „TikTok“, „wir“ oder „uns“ sprechen, beziehen wir uns auf dieses spezifische Unternehmen, sofern wir nicht etwas anderes sagen._
 
@@ -37,19 +37,19 @@ _Kurz gesagt: Diese Nutzungsbedingungen gelten für Ihre Nutzung der TikTok App,
 
 Für bestimmte Produkte oder Funktionen der Plattform gelten zusätzliche Bedingungen und Richtlinien. Zusätzliche Bedingungen und Richtlinien können auch dann gelten, wenn Sie bestimmte Arten von Inhalten posten oder live streamen oder wenn Sie die Plattform für geschäftliche oder kommerzielle Zwecke nutzen. Die wichtigsten dieser zusätzlichen Bedingungen und Richtlinien, die Sie kennen sollten und die Bestandteil dieser Nutzungsbedingungen sind, sind die Folgenden:
 
-*   [Münzenrichtlinie](https://www.tiktok.com/legal/coin-policy-eea?lang=de): Diese Richtlinie regelt den Kauf und die Verwendung von virtuellen Münzen, um Funktionen auf der Plattform zu aktivieren oder darauf zuzugreifen.
+* [Münzenrichtlinie](https://www.tiktok.com/legal/coin-policy-eea?lang=de): Diese Richtlinie regelt den Kauf und die Verwendung von virtuellen Münzen, um Funktionen auf der Plattform zu aktivieren oder darauf zuzugreifen.
 
-*   [Prämienrichtlinie](https://www.tiktok.com/legal/rewards-policy-eea?lang=de): Diese Richtlinie regelt den Erhalt von Prämien von TikTok, wie zum Beispiel virtuelle Diamanten.
+* [Prämienrichtlinie](https://www.tiktok.com/legal/rewards-policy-eea?lang=de): Diese Richtlinie regelt den Erhalt von Prämien von TikTok, wie zum Beispiel virtuelle Diamanten.
 
-*   [Nutzungsbedingungen für Musik](https://www.tiktok.com/legal/music-terms-eea?lang=de): Diese Bedingungen gelten, wenn Sie Inhalte, die Musik enthalten, auf der Plattform veröffentlichen oder live streamen.
+* [Nutzungsbedingungen für Musik](https://www.tiktok.com/legal/music-terms-eea?lang=de): Diese Bedingungen gelten, wenn Sie Inhalte, die Musik enthalten, auf der Plattform veröffentlichen oder live streamen.
 
-*   [Regeln zum geistigen Eigentum](https://www.tiktok.com/legal/copyright-policy?lang=de): Diese Regeln gilt für alle Inhalte auf der Plattform, die durch geistige Eigentumsrechte geschützt sind.
+* [Regeln zum geistigen Eigentum](https://www.tiktok.com/legal/copyright-policy?lang=de): Diese Regeln gilt für alle Inhalte auf der Plattform, die durch geistige Eigentumsrechte geschützt sind.
 
-*   TikTok Shop-Käuferbedingungen: Diese Bedingungen gelten, wenn Sie Artikel im TikTok Shop kaufen.
+* TikTok Shop-Käuferbedingungen: Diese Bedingungen gelten, wenn Sie Artikel im TikTok Shop kaufen.
 
-*   [Richtlinie zu Markeninhalten](https://www.tiktok.com/legal/bc-policy?lang=de-DE): Diese Richtlinie gilt, wenn Sie auf der Plattform Inhalte über eine Marke oder ein Produkt als Gegenleistung für eine Zahlung oder einen anderen Anreiz veröffentlichen.
+* [Richtlinie zu Markeninhalten](https://www.tiktok.com/legal/bc-policy?lang=de-DE): Diese Richtlinie gilt, wenn Sie auf der Plattform Inhalte über eine Marke oder ein Produkt als Gegenleistung für eine Zahlung oder einen anderen Anreiz veröffentlichen.
 
-*   [Bedingungen für die geschäftliche oder kommerzielle Nutzung](https://www.tiktok.com/legal/business-terms-eea): Diese Bedingungen gelten, wenn Sie die Plattform für Zwecke im Rahmen Ihres Handels, Geschäfts, Handwerks oder Berufs nutzen, einschließlich der Verwaltung Ihres eigenen Unternehmens über Ihr Konto auf der Plattform oder der Verwaltung eines Kontos im Namen eines Unternehmens.
+* [Bedingungen für die geschäftliche oder kommerzielle Nutzung](https://www.tiktok.com/legal/business-terms-eea): Diese Bedingungen gelten, wenn Sie die Plattform für Zwecke im Rahmen Ihres Handels, Geschäfts, Handwerks oder Berufs nutzen, einschließlich der Verwaltung Ihres eigenen Unternehmens über Ihr Konto auf der Plattform oder der Verwaltung eines Kontos im Namen eines Unternehmens.
 
 _Kurz gesagt: Die Nutzungsbedingungen gelten für Ihre Nutzung der Plattform. Es können zusätzliche Bedingungen und Richtlinien gelten, wenn Sie auf zusätzliche Funktionen zugreifen, bestimmte Arten von Inhalten veröffentlichen oder live streamen oder die Plattform für geschäftliche oder kommerzielle Zwecke nutzen möchten._
 
@@ -94,33 +94,33 @@ _Kurz gesagt: Sie müssen 13 Jahre oder älter sein, um unsere Plattform nutzen 
 
 Gemäß diesen Nutzungsbedingungen können Sie die Plattform nutzen, um:
 
-*   Inhalte zu erstellen und zu teilen;
+* Inhalte zu erstellen und zu teilen;
 
-*   mit anderen Nutzern zu interagieren;
+* mit anderen Nutzern zu interagieren;
 
-*   von anderen erstellte Inhalte anzusehen; und
+* von anderen erstellte Inhalte anzusehen; und
 
-*   die Features und Funktionen der Plattform zu nutzen, die Ihnen zur Verfügung gestellt werden.
+* die Features und Funktionen der Plattform zu nutzen, die Ihnen zur Verfügung gestellt werden.
 
 Weitere Informationen über die Funktionen der Plattform und deren Verwendung finden Sie in unserem [Hilfe-Center](https://support.tiktok.com/de).
 
 Die Erlaubnis zur Nutzung der Plattform:
 
-*   ist auf das beschränkt, was wir in diesen Nutzungsbedingungen erlaubt haben;
+* ist auf das beschränkt, was wir in diesen Nutzungsbedingungen erlaubt haben;
 
-*   gilt nur für Sie;
+* gilt nur für Sie;
 
-*   kann nicht von Ihnen an andere Personen weitergegeben werden; und
+* kann nicht von Ihnen an andere Personen weitergegeben werden; und
 
-*   kann aus den in diesen Nutzungsbedingungen genannten Gründen zurückgezogen werden.
+* kann aus den in diesen Nutzungsbedingungen genannten Gründen zurückgezogen werden.
 
 Der Zugang zu einigen Funktionen der Plattform hängt von Ihrem Alter ab. Zum Beispiel:
 
-*   Direktnachrichten: Sie müssen mindestens 16 Jahre alt sein, um die Direktnachrichtenfunktion nutzen zu können.
+* Direktnachrichten: Sie müssen mindestens 16 Jahre alt sein, um die Direktnachrichtenfunktion nutzen zu können.
 
-*   TikTok LIVE: Sie müssen 16 Jahre oder älter sein, um live zu streamen und die Live-Streaming-Funktionen zu nutzen.
+* TikTok LIVE: Sie müssen 16 Jahre oder älter sein, um live zu streamen und die Live-Streaming-Funktionen zu nutzen.
 
-*   Virtuelle Gegenstände: Sie müssen mindestens 18 Jahre alt sein, um mit virtuellen Gegenständen zu interagieren.
+* Virtuelle Gegenstände: Sie müssen mindestens 18 Jahre alt sein, um mit virtuellen Gegenständen zu interagieren.
 
 _Kurz gesagt: Sie können auf unserer Plattform viele Dinge tun, aber möglicherweise können Sie nicht alle Funktionen nutzen, wenn Sie nicht alt genug sind._
 
@@ -130,56 +130,56 @@ Unsere [Community-Richtlinien](https://www.tiktok.com/community-guidelines?lang=
 
 In jedem Fall dürfen Sie die Plattform nicht nutzen, um:
 
-*   etwas Illegales zu tun;
+* etwas Illegales zu tun;
 
-*   die Freude der anderen Nutzer zu beeinträchtigen;
+* die Freude der anderen Nutzer zu beeinträchtigen;
 
-*   mit Minderjährigen in ausbeuterischer oder unangemessener Weise zu interagieren;
+* mit Minderjährigen in ausbeuterischer oder unangemessener Weise zu interagieren;
 
-*   den Betrieb oder die Sicherheit der Plattform zu untergraben;
+* den Betrieb oder die Sicherheit der Plattform zu untergraben;
 
-*   Daten oder Inhalte von der Plattform mit Hilfe eines automatisierten Systems oder einer Software zu extrahieren; oder
+* Daten oder Inhalte von der Plattform mit Hilfe eines automatisierten Systems oder einer Software zu extrahieren; oder
 
-*   das Konto eines anderen Nutzers ohne Genehmigung zu verwenden oder zu versuchen, es zu verwenden.
+* das Konto eines anderen Nutzers ohne Genehmigung zu verwenden oder zu versuchen, es zu verwenden.
 
 Sie dürfen auch keine Inhalte auf der Plattform veröffentlichen, live streamen oder anderweitig verbreiten, die:
 
-*   die Rechte anderer verletzen (z. B. geistiges Eigentum, Privatsphäre und/oder Persönlichkeitsrechte lebender oder verstorbener Personen);
+* die Rechte anderer verletzen (z. B. geistiges Eigentum, Privatsphäre und/oder Persönlichkeitsrechte lebender oder verstorbener Personen);
 
-*   eine Straftat verwirklichen, dazu auffordern oder Anweisungen für eine Straftat oder gefährliche Aktivitäten geben, die zu schweren Verletzungen, zum Tod oder zu Selbstverletzungen führen können;
+* eine Straftat verwirklichen, dazu auffordern oder Anweisungen für eine Straftat oder gefährliche Aktivitäten geben, die zu schweren Verletzungen, zum Tod oder zu Selbstverletzungen führen können;
 
-*   schädliche Fehlinformationen verbreiten, wie z. B. Fehlinformationen, die zu Hass oder Vorurteilen aufstacheln oder über Wahlen oder andere staatsbürgerliche Vorgänge irreführen oder diese unzulässig beeinflussen;
+* schädliche Fehlinformationen verbreiten, wie z. B. Fehlinformationen, die zu Hass oder Vorurteilen aufstacheln oder über Wahlen oder andere staatsbürgerliche Vorgänge irreführen oder diese unzulässig beeinflussen;
 
-*   eine Drohung jeglicher Art enthalten oder andere einschüchtern oder belästigen, einschließlich der Veröffentlichung von Materialien, die eine Person verspotten, demütigen, in Verlegenheit bringen, einschüchtern oder verletzen sollen,
+* eine Drohung jeglicher Art enthalten oder andere einschüchtern oder belästigen, einschließlich der Veröffentlichung von Materialien, die eine Person verspotten, demütigen, in Verlegenheit bringen, einschüchtern oder verletzen sollen,
 
-*   obszön, pornografisch, hasserfüllt oder aufrührerisch sind oder sexuell explizite Inhalte fördern (z. B. durch Verlinkung zu Webseiten für Erwachsene oder Pornografie);
+* obszön, pornografisch, hasserfüllt oder aufrührerisch sind oder sexuell explizite Inhalte fördern (z. B. durch Verlinkung zu Webseiten für Erwachsene oder Pornografie);
 
-*   Gewalt oder Diskriminierung aus Gründen u.a. der Rasse, der ethnischen Zugehörigkeit, der nationalen Herkunft, der Religion, der Kaste, der sexuellen Ausrichtung, des Geschlechts, der Geschlechtsidentität, einer schweren Krankheit, einer Behinderung, des Einwanderungsstatus oder des Alters enthalten oder fördern; oder
+* Gewalt oder Diskriminierung aus Gründen u.a. der Rasse, der ethnischen Zugehörigkeit, der nationalen Herkunft, der Religion, der Kaste, der sexuellen Ausrichtung, des Geschlechts, der Geschlechtsidentität, einer schweren Krankheit, einer Behinderung, des Einwanderungsstatus oder des Alters enthalten oder fördern; oder
 
-*   anderweitig schädliche Inhalte enthalten (z. B. Inhalte, die Minderjährigen körperlichen, geistigen oder moralischen Schaden zufügen können).
+* anderweitig schädliche Inhalte enthalten (z. B. Inhalte, die Minderjährigen körperlichen, geistigen oder moralischen Schaden zufügen können).
 
 Wenn Sie auf der Plattform Inhalte über eine Marke oder ein Produkt als Gegenleistung für eine Zahlung oder einen anderen Anreiz veröffentlichen, müssen Sie sich an die [Richtlinie zu Markeninhalten](https://www.tiktok.com/legal/bc-policy?lang=de-DE) halten. Sie müssen solche Inhalte, die z. B. gesponsert sind, eindeutig kennzeichnen und dafür insbesondere die Funktionen der Plattform nutzen. Weitere Details zu Markeninhalten auf der Plattform [finden sie hier.](https://support.tiktok.com/de/business-and-creator/creator-and-business-accounts/branded-content-on-tiktok) Darüber hinaus dürfen diese Inhalte:
 
-*   keine Schleichwerbung oder unterschwellige Techniken enthalten;
+* keine Schleichwerbung oder unterschwellige Techniken enthalten;
 
-*   die Achtung der Menschenwürde nicht beeinträchtigen;
+* die Achtung der Menschenwürde nicht beeinträchtigen;
 
-*   keine Diskriminierung aufgrund von u.a. Geschlecht, Rasse oder ethnischer Herkunft, Nationalität, Religion oder Weltanschauung, Behinderung, Alter oder sexueller Orientierung beinhalten oder fördern;
+* keine Diskriminierung aufgrund von u.a. Geschlecht, Rasse oder ethnischer Herkunft, Nationalität, Religion oder Weltanschauung, Behinderung, Alter oder sexueller Orientierung beinhalten oder fördern;
 
-*   keine Verhaltensweisen fördern, die der Gesundheit oder Sicherheit abträglich sind oder den Schutz der Umwelt in grober Weise beeinträchtigen;
+* keine Verhaltensweisen fördern, die der Gesundheit oder Sicherheit abträglich sind oder den Schutz der Umwelt in grober Weise beeinträchtigen;
 
-*   Minderjährigen keine körperlichen, geistigen oder moralischen Schaden zufügen können;
+* Minderjährigen keine körperlichen, geistigen oder moralischen Schaden zufügen können;
 
-*   Minderjährige nicht direkt zum Kauf oder zur Anmietung eines Produkts oder einer Dienstleistung auffordern oder Minderjährige direkt dazu ermutigen, ihre Eltern oder andere Personen zum Kauf der beworbenen Waren oder Dienstleistungen zu überreden; oder
+* Minderjährige nicht direkt zum Kauf oder zur Anmietung eines Produkts oder einer Dienstleistung auffordern oder Minderjährige direkt dazu ermutigen, ihre Eltern oder andere Personen zum Kauf der beworbenen Waren oder Dienstleistungen zu überreden; oder
 
-*   das besondere Vertrauen nicht ausnutzen, das Minderjährige in Eltern, Lehrer oder andere Personen setzen, oder Minderjährige in gefährlichen Situationen zeigen.
+* das besondere Vertrauen nicht ausnutzen, das Minderjährige in Eltern, Lehrer oder andere Personen setzen, oder Minderjährige in gefährlichen Situationen zeigen.
 
 Wir respektieren Urheberrechte und andere geistige Eigentumsrechte. Bitte lesen Sie unsere [Richtlinie zum geistigen Eigentum](https://www.tiktok.com/legal/copyright-policy?lang=de). Sie können mutmaßliche Verletzungen von Rechten an geistigem Eigentum hier melden:
 
-*   Urheberrecht: [https://www.tiktok.com/legal/report/Copyright?lang=de-DE](https://www.tiktok.com/legal/report/Copyright?lang=de-DE)  
+* Urheberrecht: [https://www.tiktok.com/legal/report/Copyright?lang=de-DE](https://www.tiktok.com/legal/report/Copyright?lang=de-DE)  
     
 
-*   Markenzeichen: [https://www.tiktok.com/legal/report/Trademark?lang=de-DE](https://www.tiktok.com/legal/report/Trademark?lang=de-DE)  
+* Markenzeichen: [https://www.tiktok.com/legal/report/Trademark?lang=de-DE](https://www.tiktok.com/legal/report/Trademark?lang=de-DE)  
     
 
 Sie können mutmaßlich illegale Inhalte oder Inhalte, die anderweitig gegen diese Nutzungsbedingungen oder unsere Community-Richtlinien verstoßen, über die auf der Plattform bereitgestellten Meldefunktionen oder [hier](https://www.tiktok.com/legal/report/feedback?lang=de) melden.
@@ -190,17 +190,17 @@ _Kurz gesagt: Wir wünschen Ihnen viel Spaß bei der Nutzung unserer Plattform, 
 
 Es ist wichtig, dass Sie verstehen, was mit den Inhalten geschieht, die Sie auf der Plattform erstellen, veröffentlichen oder teilen:
 
-*   Sie sind für die Inhalte verantwortlich, die Sie auf der Plattform zur Verfügung stellen, und müssen über alle erforderlichen Rechte verfügen, um Inhalte auf der Plattform zu erstellen, zu veröffentlichen oder zu teilen.
+* Sie sind für die Inhalte verantwortlich, die Sie auf der Plattform zur Verfügung stellen, und müssen über alle erforderlichen Rechte verfügen, um Inhalte auf der Plattform zu erstellen, zu veröffentlichen oder zu teilen.
 
-*   Für Nutzer mit Wohnsitz in der Bundesrepublik Deutschland gilt anstelle dieses und des nächsten Absatzes die Regelung unter Ziffer 2 der [Zusätzlichen Bestimmungen für Nutzer mit Wohnsitz in der Bundesrepublik Deutschland](https://www.tiktok.com/legal/additional-provisions-eea?lang=de-DE). Wir können Inhalte entfernen oder den Zugang zu Inhalten einschränken, wenn wir nach vernünftigem Ermessen davon ausgehen können, dass (i) diese Inhalte gegen unsere Nutzungsbedingungen oder [Community-Richtlinien](https://www.tiktok.com/community-guidelines?lang=de) verstoßen oder (ii) diese Inhalte uns, unseren Verbundenen Unternehmen, unseren Nutzern oder anderen Dritten Schaden zufügen.
+* Für Nutzer mit Wohnsitz in der Bundesrepublik Deutschland gilt anstelle dieses und des nächsten Absatzes die Regelung unter Ziffer 2 der [Zusätzlichen Bestimmungen für Nutzer mit Wohnsitz in der Bundesrepublik Deutschland](https://www.tiktok.com/legal/additional-provisions-eea?lang=de-DE). Wir können Inhalte entfernen oder den Zugang zu Inhalten einschränken, wenn wir nach vernünftigem Ermessen davon ausgehen können, dass (i) diese Inhalte gegen unsere Nutzungsbedingungen oder [Community-Richtlinien](https://www.tiktok.com/community-guidelines?lang=de) verstoßen oder (ii) diese Inhalte uns, unseren Verbundenen Unternehmen, unseren Nutzern oder anderen Dritten Schaden zufügen.
 
-*   Wenn wir Inhalte entfernen oder den Zugang zu Inhalten einschränken, werden wir Sie unverzüglich benachrichtigen und die Gründe für unsere Entscheidung angeben, es sei denn, dies ist nicht angemessen für uns oder wir sind der Meinung, dass dies uns, unseren Verbundenen Unternehmen, unseren Nutzern oder anderen Dritten schaden würde, oder wir rechtlich daran gehindert sind, dies zu tun. Wenn Sie der Meinung sind, dass wir bei der Entfernung Ihrer Inhalte oder der Einschränkung des Zugriffs auf Ihre Inhalte einen Fehler gemacht haben, können Sie über die auf der Plattform bereitgestellten Beschwerdefunktionen eine Überprüfung verlangen, und wir werden unsere Entscheidung überprüfen und neu entscheiden.
+* Wenn wir Inhalte entfernen oder den Zugang zu Inhalten einschränken, werden wir Sie unverzüglich benachrichtigen und die Gründe für unsere Entscheidung angeben, es sei denn, dies ist nicht angemessen für uns oder wir sind der Meinung, dass dies uns, unseren Verbundenen Unternehmen, unseren Nutzern oder anderen Dritten schaden würde, oder wir rechtlich daran gehindert sind, dies zu tun. Wenn Sie der Meinung sind, dass wir bei der Entfernung Ihrer Inhalte oder der Einschränkung des Zugriffs auf Ihre Inhalte einen Fehler gemacht haben, können Sie über die auf der Plattform bereitgestellten Beschwerdefunktionen eine Überprüfung verlangen, und wir werden unsere Entscheidung überprüfen und neu entscheiden.
 
-*   Es steht Ihnen jederzeit frei, Ihre Inhalte von der Plattform zu entfernen.
+* Es steht Ihnen jederzeit frei, Ihre Inhalte von der Plattform zu entfernen.
 
-*   Für den Fall dass - abhängig von Ihren Einstellungen auf der Plattform - andere Nutzer der Plattform Ihre Inhalte verwendet haben, um neue Inhalte zu erstellen (z. B. durch die Verwendung von "Duett" oder "Stitch"), oder Ihre Inhalte auf Diensten Dritter geteilt haben, können diese (neuen) Inhalte auf der Plattform oder auf diesen Diensten Dritter verbleiben, auch wenn Sie Ihre Inhalte oder Ihr Konto anschließend löschen. Sie können einen separaten Antrag auf Löschung von "Duett"- oder "Stitch"-Videos stellen, die Ihre Inhalte enthalten.
+* Für den Fall dass - abhängig von Ihren Einstellungen auf der Plattform - andere Nutzer der Plattform Ihre Inhalte verwendet haben, um neue Inhalte zu erstellen (z. B. durch die Verwendung von "Duett" oder "Stitch"), oder Ihre Inhalte auf Diensten Dritter geteilt haben, können diese (neuen) Inhalte auf der Plattform oder auf diesen Diensten Dritter verbleiben, auch wenn Sie Ihre Inhalte oder Ihr Konto anschließend löschen. Sie können einen separaten Antrag auf Löschung von "Duett"- oder "Stitch"-Videos stellen, die Ihre Inhalte enthalten.
 
-*   In Ihren Einstellungen auf der Plattform können Sie einschränken, wie andere Nutzer mit Ihren Inhalten interagieren und diese nutzen. Sie sollten sich mit diesen Einstellungen vertraut machen, bevor Sie Inhalte auf der Plattform veröffentlichen.
+* In Ihren Einstellungen auf der Plattform können Sie einschränken, wie andere Nutzer mit Ihren Inhalten interagieren und diese nutzen. Sie sollten sich mit diesen Einstellungen vertraut machen, bevor Sie Inhalte auf der Plattform veröffentlichen.
 
 ### **Eigentumsrechte an den Inhalten und Vergabe von Lizenzen**
 
@@ -210,15 +210,15 @@ Um die Plattform bereitstellen zu können, benötigen wir bestimmte Rechte von I
 
 Indem Sie Inhalte erstellen, veröffentlichen oder anderweitig auf der Plattform zur Verfügung stellen, gewähren Sie TikTok eine:
 
-*   nicht-exklusive (was bedeutet, dass Sie weiterhin Ihre Inhalte an andere lizenzieren können),
+* nicht-exklusive (was bedeutet, dass Sie weiterhin Ihre Inhalte an andere lizenzieren können),
 
-*   lizenzgebührfreie (was bedeutet, dass wir Sie für diese Lizenz nicht bezahlen),
+* lizenzgebührfreie (was bedeutet, dass wir Sie für diese Lizenz nicht bezahlen),
 
-*   übertragbare (was bedeutet, dass wir die Rechte, die Sie uns geben, an eine andere Person weitergeben können),
+* übertragbare (was bedeutet, dass wir die Rechte, die Sie uns geben, an eine andere Person weitergeben können),
 
-*   unterlizenzierbare (was bedeutet, dass wir Ihre Inhalte an andere lizenzieren können, z. B. an Dienstleister, die uns bei der Bereitstellung der Plattform helfen, oder an vertrauenswürdige Dritte, die mit uns Vereinbarungen zum Betrieb, zur Entwicklung und zur Bereitstellung der Plattform getroffen haben) und
+* unterlizenzierbare (was bedeutet, dass wir Ihre Inhalte an andere lizenzieren können, z. B. an Dienstleister, die uns bei der Bereitstellung der Plattform helfen, oder an vertrauenswürdige Dritte, die mit uns Vereinbarungen zum Betrieb, zur Entwicklung und zur Bereitstellung der Plattform getroffen haben) und
 
-*   weltweite (was bedeutet, dass die Lizenz überall auf der Welt gilt)
+* weltweite (was bedeutet, dass die Lizenz überall auf der Welt gilt)
 
 Lizenz zur Nutzung Ihrer Inhalte, einschließlich der Vervielfältigung (z. B. Kopieren), der Bearbeitung, Umgestaltung oder der Erstellung abgeleiteter Werke (z. B. Übersetzung und/oder Erstellen von Untertiteln), der Aufführung und des öffentlichen Zugänglichmachens Ihrer Inhalte (z. B. diese anzuzeigen, also öffentlich wahrnehmbar zu machen), zum Zweck des Betriebs, der Entwicklung und der Bereitstellung der Plattform - abhängig von Ihren Einstellungen auf der Plattform.
 
@@ -228,9 +228,9 @@ Sie gewähren außerdem jedem Nutzer der Plattform eine nicht-exklusive, gebühr
 
 Ihre Lizenzen an TikTok und an die Nutzer enden, wenn Sie Ihr Konto schließen oder wenn Sie oder wir Ihre Inhalte in Übereinstimmung mit diesen Nutzungsbedingungen von der Plattform entfernen. Aufgrund der Beschaffenheit der Plattform und unserer rechtlichen Verpflichtungen bleibt die gewährte Lizenz jedoch bestehen, nachdem Sie Ihre Inhalte entfernt haben, sofern:
 
-*   Sie über Ihre Einstellungen auf der Plattform anderen Nutzern der Plattform erlaubt haben, Ihre Inhalte zu verwenden oder wiederzuverwenden (z. B. durch die Nutzung von "Duett", "Stitch", Download- oder Teilen-Funktionen); oder
+* Sie über Ihre Einstellungen auf der Plattform anderen Nutzern der Plattform erlaubt haben, Ihre Inhalte zu verwenden oder wiederzuverwenden (z. B. durch die Nutzung von "Duett", "Stitch", Download- oder Teilen-Funktionen); oder
 
-*   wir aus rechtlichen Gründen verpflichtet sind, Ihre Inhalte zu speichern oder zu verarbeiten.
+* wir aus rechtlichen Gründen verpflichtet sind, Ihre Inhalte zu speichern oder zu verarbeiten.
 
 Wenn Sie uns Kommentare, Ideen oder Feedback zusenden, erklären Sie sich damit einverstanden, dass wir diese für den Betrieb, die Entwicklung, die Verbesserung und die Bereitstellung der Plattform verwenden dürfen, ohne dass Sie dafür eine Vergütung erhalten.
 
@@ -243,13 +243,13 @@ Wir verpflichten uns, Ihnen die Plattform mit angemessener Sachkenntnis und Sorg
 
 Bei den Inhalten auf der Plattform handelt es sich größtenteils um nutzergenerierte Inhalte oder um Inhalte, die von Drittanbietern bereitgestellt werden. Mit anderen Worten: TikTok ist nicht der Schöpfer der meisten Inhalte auf der Plattform (obwohl TikTok einige Inhalte produzieren kann). Vorbehaltlich zwingender Vorschriften oder Gesetze (einschließlich etwaiger sektor-spezifischer Vorschriften oder Gesetze), die auf TikTok Anwendung finden, kann und wird TikTok daher nicht versprechen, dass die von Nutzern erstellten Inhalte, die Sie auf der Plattform finden:
 
-*   richtig, vollständig oder aktuell sind;
+* richtig, vollständig oder aktuell sind;
 
-*   nicht gegen die Rechte Dritter verstoßen;
+* nicht gegen die Rechte Dritter verstoßen;
 
-*   legal sind; oder dass sie
+* legal sind; oder dass sie
 
-*   sie von Ihnen nicht als anstößig empfunden werden.
+* sie von Ihnen nicht als anstößig empfunden werden.
 
 Inhalte, die Sie auf der Plattform sehen, repräsentieren nicht unsere Ansichten oder Werte und eignen sich möglicherweise nicht für Ihre Nutzungszwecke.
 
@@ -259,9 +259,9 @@ Die folgenden Absätze in dieser Ziffer finden für Nutzer mit Wohnsitz in der B
 
 Unter der Voraussetzung, dass wir mit professioneller Sorgfalt gehandelt haben, übernehmen wir keine Verantwortung für von uns verursachte Verluste oder Schäden, es sei denn, es handelt sich um Schäden:
 
-*   die durch eine Verletzung dieser Nutzungsbedingungen durch uns verursacht wurden; oder
+* die durch eine Verletzung dieser Nutzungsbedingungen durch uns verursacht wurden; oder
 
-*   die zum Zeitpunkt des Abschlusses dieser Nutzungsbedingungen vernünftigerweise vorhersehbar waren (d. h. entweder ist es offensichtlich, dass es passieren wird, oder es ist zum Zeitpunkt des Vertragsabschlusses bekannt, dass es passieren könnte).
+* die zum Zeitpunkt des Abschlusses dieser Nutzungsbedingungen vernünftigerweise vorhersehbar waren (d. h. entweder ist es offensichtlich, dass es passieren wird, oder es ist zum Zeitpunkt des Vertragsabschlusses bekannt, dass es passieren könnte).
 
 Wir übernehmen keine Verantwortung für Verlust oder Beschädigung, wenn diese durch Ereignisse außerhalb unserer Kontrolle verursacht wurden.
 
@@ -292,13 +292,13 @@ Im Falle eines vermuteten Verstoßes gegen diese Nutzungsbedingungen und unsere 
 
 Wir können in der Folge beschließen, Ihr Konto vorübergehend oder dauerhaft zu sperren oder zu kündigen oder Ihren Zugang zu Funktionen der Plattform zu be- oder einzuschränken, wenn:
 
-*   wir nach vernünftigem und objektivem Ermessen feststellen, dass Sie in erheblichem Maße oder wiederholt gegen diese Nutzungsbedingungen oder unsere Community-Richtlinien verstoßen;
+* wir nach vernünftigem und objektivem Ermessen feststellen, dass Sie in erheblichem Maße oder wiederholt gegen diese Nutzungsbedingungen oder unsere Community-Richtlinien verstoßen;
 
-*   wir objektive Gründe für die Annahme haben, dass Sie im Begriff sind, diese Nutzungsbedingungen oder unsere Community-Richtlinien ernsthaft zu verletzen;
+* wir objektive Gründe für die Annahme haben, dass Sie im Begriff sind, diese Nutzungsbedingungen oder unsere Community-Richtlinien ernsthaft zu verletzen;
 
-*   wir gesetzlich dazu verpflichtet sind; oder
+* wir gesetzlich dazu verpflichtet sind; oder
 
-*   es vernünftigerweise erforderlich ist, um ein ernstes technisches oder Sicherheitsproblem zu lösen.
+* es vernünftigerweise erforderlich ist, um ein ernstes technisches oder Sicherheitsproblem zu lösen.
 
 Wenn wir Ihr Konto bereits zuvor wegen Verstößen gegen diese Nutzungsbedingungen oder die Community-Richtlinien gekündigt haben, Sie aber unsere Plattform erneut nutzen (z. B. indem Sie ein weiteres Konto eröffnen), sind wir berechtigt, solche Konten zu sperren oder zu kündigen.
 
@@ -329,17 +329,17 @@ _Kurz gesagt: Wenn sich diese Nutzungsbedingungen ändern, werden wir Sie darüb
 
 Wir können Änderungen an diesen Nutzungsbedingungen oder der Plattform aus folgenden Gründen vornehmen:
 
-*   Änderungen von Umständen, die sich unserer Kontrolle entziehen;
+* Änderungen von Umständen, die sich unserer Kontrolle entziehen;
 
-*   Änderungen der Gesetzgebung;
+* Änderungen der Gesetzgebung;
 
-*   Änderungen, die wir an der Plattform im Rahmen der üblichen Entwicklung unseres Produkts vornehmen;
+* Änderungen, die wir an der Plattform im Rahmen der üblichen Entwicklung unseres Produkts vornehmen;
 
-*   zur Anpassung an neue Technologien,
+* zur Anpassung an neue Technologien,
 
-*   um Änderungen hinsichtlich der Anzahl der Personen, die die Plattform nutzen oder Änderungen von Features oder Funktionalitäten der Plattform, widerzuspiegeln; oder
+* um Änderungen hinsichtlich der Anzahl der Personen, die die Plattform nutzen oder Änderungen von Features oder Funktionalitäten der Plattform, widerzuspiegeln; oder
 
-*   um ein Sicherheitsproblem zu lösen.
+* um ein Sicherheitsproblem zu lösen.
 
 _Kurz gesagt: Unsere Plattform wird nicht ewig gleich bleiben, aber wir werden transparent sein, wenn wir größere Änderungen vornehmen._
 
@@ -352,9 +352,9 @@ Sollte es zu Streitigkeiten kommt, werden wir zunächst versuchen, diese gütlic
 
 Sollten wir unsere Streitigkeiten nicht beilegen können, können Sie oder wir uns an Ihr örtliches Gericht wenden. Sie können sich auch an die folgenden Gerichte wenden:
 
-*   die Gerichte der Republik Irland haben die nicht-ausschließliche Zuständigkeit für Streitigkeiten mit TikTok Ireland Limited; und
+* die Gerichte der Republik Irland haben die nicht-ausschließliche Zuständigkeit für Streitigkeiten mit TikTok Ireland Limited; und
 
-*   die Gerichte von England und Wales haben die nicht-ausschließliche Zuständigkeit für Streitigkeiten mit TikTok Information Technologies UK Limited.
+* die Gerichte von England und Wales haben die nicht-ausschließliche Zuständigkeit für Streitigkeiten mit TikTok Information Technologies UK Limited.
 
 Wenn Sie Ihren Wohnsitz im EWR haben, können Sie den Streitfall auch bei einer alternativen Streitbeilegungsstelle über die [Plattform der EU-Kommission zur Online-Streitbeilegung (ODR)](https://ec.europa.eu/consumers/odr/main/?event=main.home2.show) anfordern.
 
