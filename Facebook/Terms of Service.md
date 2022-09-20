@@ -37,35 +37,35 @@ Company No. 462932
   
 For help or information about how to make a report:
 
-*   General information about how to [report an issue](https://www.facebook.com/help/181495968648557) to Facebook
+* General information about how to [report an issue](https://www.facebook.com/help/181495968648557) to Facebook
     
-*   Reporting a [copyright infringement](https://www.facebook.com/help/400287850027717/)
+* Reporting a [copyright infringement](https://www.facebook.com/help/400287850027717/)
     
-*   Reporting a [trademark infringement](https://www.facebook.com/help/440684869305015/)
+* Reporting a [trademark infringement](https://www.facebook.com/help/440684869305015/)
     
-*   Information about [intellectual property](https://www.facebook.com/help/399224883474207/)
+* Information about [intellectual property](https://www.facebook.com/help/399224883474207/)
     
-*   How to download your [personal data](https://www.facebook.com/help/330229433729799/)
+* How to download your [personal data](https://www.facebook.com/help/330229433729799/)
     
-*   Reporting an [impostor account](https://www.facebook.com/help/www/174210519303259)
+* Reporting an [impostor account](https://www.facebook.com/help/www/174210519303259)
     
-*   Reporting a [hacked account](https://www.facebook.com/help/www/131719720300233)
+* Reporting a [hacked account](https://www.facebook.com/help/www/131719720300233)
     
-*   Information about [abuse and harassment](https://www.facebook.com/safety)
+* Information about [abuse and harassment](https://www.facebook.com/safety)
     
-*   Information about [privacy rights](https://www.facebook.com/help/www/217091804975136)
+* Information about [privacy rights](https://www.facebook.com/help/www/217091804975136)
     
-*   Reporting [functionality issues](https://www.facebook.com/help/www/326603310765065)
+* Reporting [functionality issues](https://www.facebook.com/help/www/326603310765065)
     
-*   Information about [usernames and web addresses](https://www.facebook.com/help/www/329992603752372)
+* Information about [usernames and web addresses](https://www.facebook.com/help/www/329992603752372)
     
-*   Reporting accounts of [deceased users](https://www.facebook.com/help/150486848354038)
+* Reporting accounts of [deceased users](https://www.facebook.com/help/150486848354038)
     
-*   Information about [login and password issues](https://www.facebook.com/help/105487009541643)
+* Information about [login and password issues](https://www.facebook.com/help/105487009541643)
     
-*   Information about [pages](https://www.facebook.com/help/583181978367528)
+* Information about [pages](https://www.facebook.com/help/583181978367528)
     
-*   Information about [page admin issues](https://www.facebook.com/help/www/738660629556925)
+* Information about [page admin issues](https://www.facebook.com/help/www/738660629556925)
 
 To contact us by email:  
 ![](https://scontent-frt3-1.xx.fbcdn.net/v/t39.2365-6/10574689_373883339436400_1359386031_n.png?_nc_cat=107&ccb=1-7&_nc_sid=ad8a9d&_nc_ohc=iqOesBaoN-4AX8Danre&_nc_ht=scontent-frt3-1.xx&oh=00_AT8IwwsrvJc17hxEdPOpCPkEcgE5JrGfiSBC33er4-5LNA&oe=632F7905)  
@@ -80,25 +80,25 @@ Administrative notifications under IMT (German Interstate Media Treaty) to Meta 
 
 Our mission is to give people the power to build community and bring the world closer together. To help advance this mission, we provide the Products and services described below to you:
 
-*   **Provide a personalized experience for you:** Your experience on Facebook is unlike anyone else's: from the posts, stories, events, ads, and other content you see in Facebook News Feed or our video platform to the Facebook Pages you follow and other features you might use, such as Facebook Marketplace, and search. For example, we data about the connections you make, the choices and settings you select, and what you share and do on and off our Products - to personalize your experience.
+* **Provide a personalized experience for you:** Your experience on Facebook is unlike anyone else's: from the posts, stories, events, ads, and other content you see in Facebook News Feed or our video platform to the Facebook Pages you follow and other features you might use, such as Facebook Marketplace, and search. For example, we data about the connections you make, the choices and settings you select, and what you share and do on and off our Products - to personalize your experience.
     
-*   **Connect you with people and organizations you care about:** We help you find and connect with people, groups, businesses, organizations, and others that matter to you across the Meta Products you use. We use data to make suggestions for you and others - for example, groups to join, events to attend, Facebook Pages to follow or send a message to, shows to watch, and people you may want to become friends with. Stronger ties make for better communities, and we believe our services are most useful when people are connected to people, groups, and organizations they care about.
+* **Connect you with people and organizations you care about:** We help you find and connect with people, groups, businesses, organizations, and others that matter to you across the Meta Products you use. We use data to make suggestions for you and others - for example, groups to join, events to attend, Facebook Pages to follow or send a message to, shows to watch, and people you may want to become friends with. Stronger ties make for better communities, and we believe our services are most useful when people are connected to people, groups, and organizations they care about.
     
-*   **Empower you to express yourself and communicate about what matters to you:** There are many ways to express yourself on Facebook to communicate with friends, family, and others about what matters to you - for example, sharing status updates, photos, videos, and stories across the Meta Products (consistent with your settings), sending messages or making voice or video calls to a friend or several people, creating events or groups, or adding content to your profile as well as showing you insights on how others engage with your content. We have also developed, and continue to explore, new ways for people to use technology, such as augmented reality and 360 video to create and share more expressive and engaging content on Meta Products.
+* **Empower you to express yourself and communicate about what matters to you:** There are many ways to express yourself on Facebook to communicate with friends, family, and others about what matters to you - for example, sharing status updates, photos, videos, and stories across the Meta Products (consistent with your settings), sending messages or making voice or video calls to a friend or several people, creating events or groups, or adding content to your profile as well as showing you insights on how others engage with your content. We have also developed, and continue to explore, new ways for people to use technology, such as augmented reality and 360 video to create and share more expressive and engaging content on Meta Products.
     
-*   **Help you discover content, products, and services that may interest you:** We show you personalized ads, offers, and other sponsored or commercial content to help you discover content, products, and services that are offered by the many businesses and organizations that use Facebook and other Meta Products. Section 2 below explains this in more detail.
+* **Help you discover content, products, and services that may interest you:** We show you personalized ads, offers, and other sponsored or commercial content to help you discover content, products, and services that are offered by the many businesses and organizations that use Facebook and other Meta Products. Section 2 below explains this in more detail.
     
-*   **Promote the safety, security, and integrity of our services, combat harmful conduct and keep our community of users safe:** People will only build community on Meta Products if they feel safe and secure. We work hard to maintain the security (including the availability, authenticity, integrity, and confidentiality) of our Products and services. We employ dedicated teams around the world, work with external service providers, partners and other relevant entities, and develop advanced technical systems to detect potential misuse of our Products, harmful conduct towards others, and situations where we may be able to help support or protect our community, including to respond to user reports of potentially violating content. If we learn of content or conduct like this, we will take appropriate action that may include notifying you, offering help, removing content, removing or restricting access to certain features, disabling an account, or contacting law enforcement. We share data with other [Meta Companies](https://www.facebook.com/help/111814505650678?ref=tos) when we detect misuse or harmful conduct by someone using one of our Products or to help keep Meta Products, users and the community safe. For example, we share information with Meta Companies that provide financial products and services to help them promote safety, security and integrity and comply with applicable law. Meta may access, preserve, use and share any information it collects about you where it has a good faith belief it is required or permitted by law to do so. For more information, please review our [Privacy Policy](https://www.facebook.com/about/privacy/update).
+* **Promote the safety, security, and integrity of our services, combat harmful conduct and keep our community of users safe:** People will only build community on Meta Products if they feel safe and secure. We work hard to maintain the security (including the availability, authenticity, integrity, and confidentiality) of our Products and services. We employ dedicated teams around the world, work with external service providers, partners and other relevant entities, and develop advanced technical systems to detect potential misuse of our Products, harmful conduct towards others, and situations where we may be able to help support or protect our community, including to respond to user reports of potentially violating content. If we learn of content or conduct like this, we will take appropriate action that may include notifying you, offering help, removing content, removing or restricting access to certain features, disabling an account, or contacting law enforcement. We share data with other [Meta Companies](https://www.facebook.com/help/111814505650678?ref=tos) when we detect misuse or harmful conduct by someone using one of our Products or to help keep Meta Products, users and the community safe. For example, we share information with Meta Companies that provide financial products and services to help them promote safety, security and integrity and comply with applicable law. Meta may access, preserve, use and share any information it collects about you where it has a good faith belief it is required or permitted by law to do so. For more information, please review our [Privacy Policy](https://www.facebook.com/about/privacy/update).
     
     In some cases, the Oversight Board may review our decisions, subject to its terms and bylaws. Learn more [here](https://www.oversightboard.com/).
     
-*   **Use and develop advanced technologies to provide safe and functional services for everyone:** We use and develop advanced technologies - such as artificial intelligence, machine learning systems, and augmented reality - so that people can use our Products safely regardless of physical ability or geographic location. For example, technology like this helps people who have visual impairments understand what or who is in photos or videos shared on Facebook or Instagram. We also build sophisticated network and communication technology to help more people connect to the internet in areas with limited access. And we develop automated systems to improve our ability to protect our community and our Products.
+* **Use and develop advanced technologies to provide safe and functional services for everyone:** We use and develop advanced technologies - such as artificial intelligence, machine learning systems, and augmented reality - so that people can use our Products safely regardless of physical ability or geographic location. For example, technology like this helps people who have visual impairments understand what or who is in photos or videos shared on Facebook or Instagram. We also build sophisticated network and communication technology to help more people connect to the internet in areas with limited access. And we develop automated systems to improve our ability to protect our community and our Products.
     
-*   **Research ways to make our services better:** We engage in research to develop, test, and improve our Products. This includes analyzing data we have about our users and understanding how people use our Products, for example by conducting surveys and testing and troubleshooting new features. Our [Privacy Policy](https://www.facebook.com/about/privacy/update) explains how we use data to support this research for the purposes of developing and improving our services.
+* **Research ways to make our services better:** We engage in research to develop, test, and improve our Products. This includes analyzing data we have about our users and understanding how people use our Products, for example by conducting surveys and testing and troubleshooting new features. Our [Privacy Policy](https://www.facebook.com/about/privacy/update) explains how we use data to support this research for the purposes of developing and improving our services.
     
-*   **Provide consistent and seamless experiences across the Meta Company Products:** Our Products help you find and connect with people, groups, businesses, organizations, and others that are important to you. We design our systems so that your experience is consistent and seamless across the different [Meta Company Products](https://www.facebook.com/help/195227921252400?ref=tos) that you use. For example, we use data about the people you engage with on Facebook to make it easier for you to connect with them on Instagram or Messenger, and we enable you to communicate with a business you follow on Facebook through Messenger.
+* **Provide consistent and seamless experiences across the Meta Company Products:** Our Products help you find and connect with people, groups, businesses, organizations, and others that are important to you. We design our systems so that your experience is consistent and seamless across the different [Meta Company Products](https://www.facebook.com/help/195227921252400?ref=tos) that you use. For example, we use data about the people you engage with on Facebook to make it easier for you to connect with them on Instagram or Messenger, and we enable you to communicate with a business you follow on Facebook through Messenger.
     
-*   **Ensuring access to our services:** To operate our global services and enable you to connect with people around the world, we need to transfer, store and distribute content and data to our data centers, partners, service providers, vendors and systems around the world, including outside your country of residence. The use of this global infrastructure is necessary and essential to provide our services. This infrastructure may be owned, operated, or controlled by Meta Platforms, Inc., Meta Platforms Ireland Limited, or its affiliates.
+* **Ensuring access to our services:** To operate our global services and enable you to connect with people around the world, we need to transfer, store and distribute content and data to our data centers, partners, service providers, vendors and systems around the world, including outside your country of residence. The use of this global infrastructure is necessary and essential to provide our services. This infrastructure may be owned, operated, or controlled by Meta Platforms, Inc., Meta Platforms Ireland Limited, or its affiliates.
 
   
 
@@ -119,45 +119,45 @@ We collect and use your personal data in order to provide the services described
 
 We provide these services to you and others to help advance our mission. In exchange, we need you to make the following commitments:
 
-*   Who can use Facebook  
+* Who can use Facebook  
     When people stand behind their opinions and actions, our community is safer and more accountable. For this reason, you must:
     
-    *   Provide for your account the same name that you use in everyday life.
-    *   Provide accurate information about yourself.
-    *   Create only one account (your own) and use it for personal purposes.
-    *   Not share your password, give access to your Facebook account to others, or transfer your account to anyone else (without our permission).
+    * Provide for your account the same name that you use in everyday life.
+    * Provide accurate information about yourself.
+    * Create only one account (your own) and use it for personal purposes.
+    * Not share your password, give access to your Facebook account to others, or transfer your account to anyone else (without our permission).
     
     We try to make Facebook broadly available to everyone, but you cannot use Facebook if:
     
-    *   You are under 13 years old.
-    *   You are a convicted sex offender.
-    *   We've previously suspended or terminated your account for breaches of our Terms, the [Community Standards](https://www.facebook.com/communitystandards), or other terms and policie that apply to your use of Facebook. If we disable your account for a violation of our Terms, the Community Standards, or other terms and policies, you agree not to create another account without our permission. Receiving permission to create a new account is provided at our sole discretion, and does not mean or imply that the disciplinary action was wrong or without cause.
-    *   You are prohibited from receiving our products, services, or software under applicable laws.
+    * You are under 13 years old.
+    * You are a convicted sex offender.
+    * We've previously suspended or terminated your account for breaches of our Terms, the [Community Standards](https://www.facebook.com/communitystandards), or other terms and policie that apply to your use of Facebook. If we disable your account for a violation of our Terms, the Community Standards, or other terms and policies, you agree not to create another account without our permission. Receiving permission to create a new account is provided at our sole discretion, and does not mean or imply that the disciplinary action was wrong or without cause.
+    * You are prohibited from receiving our products, services, or software under applicable laws.
     
       
     
-*   What you can share and do on Meta Products  
+* What you can share and do on Meta Products  
     We want people to use Meta Products to express themselves and to share content that is important to them, but not at the expense of the safety and well-being of others or the integrity of our community. You therefore agree not to engage in the conduct described below (or to facilitate or support others in doing so):
     
-    *   You may not use our Products to do or share anything:
+    * You may not use our Products to do or share anything:
         
-        *   That breaches these Terms, the [Community Standards](https://www.facebook.com/communitystandards), and [other terms and policies](#other-terms-policies) that apply to your use of our Products.
+        * That breaches these Terms, the [Community Standards](https://www.facebook.com/communitystandards), and [other terms and policies](#other-terms-policies) that apply to your use of our Products.
             
-        *   That is unlawful, misleading, discriminatory, or fraudulent (or assists someone else in using our Products in such a way).
+        * That is unlawful, misleading, discriminatory, or fraudulent (or assists someone else in using our Products in such a way).
             
-        *   That you do not own or have the necessary rights to share.
+        * That you do not own or have the necessary rights to share.
             
-        *   That infringes or breaches someone else's rights, including their intellectual property rights (such as by infringing another’s copyright or trademark, or distributing or selling counterfeit or pirated goods), unless an exception or limitation applies under applicable law.
+        * That infringes or breaches someone else's rights, including their intellectual property rights (such as by infringing another’s copyright or trademark, or distributing or selling counterfeit or pirated goods), unless an exception or limitation applies under applicable law.
         
-    *   You may not upload viruses or malicious code, use the services to send spam, or do anything else that could disable, overburden, interfere with, or impair the proper working, integrity, operation, or appearance of our services, systems, or Products.
+    * You may not upload viruses or malicious code, use the services to send spam, or do anything else that could disable, overburden, interfere with, or impair the proper working, integrity, operation, or appearance of our services, systems, or Products.
         
-    *   You may not access or collect data from our Products using automated means (without our prior permission) or attempt to access data you do not have permission to access. We also reserve all of our rights against text and data mining.
+    * You may not access or collect data from our Products using automated means (without our prior permission) or attempt to access data you do not have permission to access. We also reserve all of our rights against text and data mining.
         
-    *   You may not proxy, request, or collect Product usernames or passwords, or misappropriate access tokens.
+    * You may not proxy, request, or collect Product usernames or passwords, or misappropriate access tokens.
         
-    *   You may not sell, license, or purchase any data obtained from us or our services, except as provided in the Platform Terms.
+    * You may not sell, license, or purchase any data obtained from us or our services, except as provided in the Platform Terms.
         
-    *   You may not misuse any reporting, flagging, dispute, or appeals channel, such as by making fraudulent, duplicative, or groundless reports or appeals.
+    * You may not misuse any reporting, flagging, dispute, or appeals channel, such as by making fraudulent, duplicative, or groundless reports or appeals.
         
     
     We can remove or block content that is in breach of these provisions.
@@ -172,10 +172,10 @@ We provide these services to you and others to help advance our mission. In exch
     
       
     
-*   The permissions you give us  
+* The permissions you give us  
     We need certain permissions from you to provide our services:
     
-    *   Permission to use content you create and share: You retain ownership of the content that you create and share on Facebook and other [Meta Company Products](https://www.facebook.com/help/195227921252400?ref=tos) you use, and nothing in these Terms takes away the rights you have to your own content. You are free to share your content with anyone else, wherever you want. To provide our services, though, we need you to give us some legal permissions to use that content.
+    * Permission to use content you create and share: You retain ownership of the content that you create and share on Facebook and other [Meta Company Products](https://www.facebook.com/help/195227921252400?ref=tos) you use, and nothing in these Terms takes away the rights you have to your own content. You are free to share your content with anyone else, wherever you want. To provide our services, though, we need you to give us some legal permissions to use that content.
         
         Specifically, when you share, post, or upload content that is covered by intellectual property rights (like photos or videos) on or in connection with our Products, you grant us a non-exclusive, transferable, sub-licensable, and worldwide license to host, use, distribute, modify, run, copy, publicly perform or display, translate, and create derivative works of your content (consistent with your [privacy](https://www.facebook.com/help/325807937506242?ref=tos) and [application](https://www.facebook.com/help/1727608884153160?ref=tos) settings). This license is only for the purpose of making our Products available to you. This means, for example, that if you share a photo on Facebook, you give us permission to store, copy, and share it with others (again, consistent with your settings) such as Meta Products or service providers that support those products and service you use.
         
@@ -187,14 +187,14 @@ We provide these services to you and others to help advance our mission. In exch
         
         Content will not be deleted within 90 days of the account deletion or content deletion process beginning in the following situations:
         
-        *   where your content has been used by others in accordance with this license and they have not deleted it (in which case this license will continue to apply until that content is deleted);
-        *   where deletion within 90 days is not possible due to technical limitations of our systems, in which case, we will complete the deletion as soon as technically feasible; or
-        *   where immediate deletion would restrict our ability to:
+        * where your content has been used by others in accordance with this license and they have not deleted it (in which case this license will continue to apply until that content is deleted);
+        * where deletion within 90 days is not possible due to technical limitations of our systems, in which case, we will complete the deletion as soon as technically feasible; or
+        * where immediate deletion would restrict our ability to:
             
-            *   investigate or identify illegal activity or violations of our terms and policies (for example, to identify or investigate misuse of our Products or systems);
-            *   protect the safety, integrity, and security of our Products, systems, services, and users, and to defend ourselves;
-            *   comply with legal obligations for the preservation of evidence, including data Meta Companies providing financial products and services preserve to comply with any record keeping obligations required by law; or
-            *   comply with a request of a judicial or administrative authority, law enforcement, or a government agency;
+            * investigate or identify illegal activity or violations of our terms and policies (for example, to identify or investigate misuse of our Products or systems);
+            * protect the safety, integrity, and security of our Products, systems, services, and users, and to defend ourselves;
+            * comply with legal obligations for the preservation of evidence, including data Meta Companies providing financial products and services preserve to comply with any record keeping obligations required by law; or
+            * comply with a request of a judicial or administrative authority, law enforcement, or a government agency;
             
         
     
@@ -202,20 +202,20 @@ We provide these services to you and others to help advance our mission. In exch
     
     In each of the above cases, this license will continue until the content has been fully deleted.
     
-    *   Use of your name, profile picture, and information about your actions with ads and sponsored or commercial content: Your name and profile picture and information about actions you have taken on Facebook can be used next to or in connection with ads, offers, and other sponsored or commercial content that we display across our Products, without any compensation to you. For example, we may show your friends that you are interested in an advertised event or have liked a Facebook Page created by a brand that has paid us to display its ads on Facebook. Ads and content like this can be seen only by people who have your permission to see the actions you've taken on Meta Products. You can [learn more](https://www.facebook.com/about/ads) about your ad settings and preferences.
+    * Use of your name, profile picture, and information about your actions with ads and sponsored or commercial content: Your name and profile picture and information about actions you have taken on Facebook can be used next to or in connection with ads, offers, and other sponsored or commercial content that we display across our Products, without any compensation to you. For example, we may show your friends that you are interested in an advertised event or have liked a Facebook Page created by a brand that has paid us to display its ads on Facebook. Ads and content like this can be seen only by people who have your permission to see the actions you've taken on Meta Products. You can [learn more](https://www.facebook.com/about/ads) about your ad settings and preferences.
         
-    *   Permission to update software you use or download: If you download or use our software, you give us permission to download and install updates to the software where available.
+    * Permission to update software you use or download: If you download or use our software, you give us permission to download and install updates to the software where available.
     
       
     
-*   Limits on using our intellectual property  
+* Limits on using our intellectual property  
     If you use content covered by intellectual property rights that we have and make available in our Products (for example, images, designs, videos, or sounds we provide that you add to content you create or share on Facebook), we retain all rights to that content (but not yours). You can only use our copyrights or [trademarks (or any similar marks)](https://en.facebookbrand.com/trademarks/) as expressly permitted by our [Brand Usage Guidelines](https://en.facebookbrand.com/guidelines/brand) or with our prior written permission. You must obtain our written permission (or permission under an open source license) to modify, translate, create derivative works of, decompile, or reverse engineer our products or their components, or otherwise attempt to extract source code from us, unless an exception or limitation applies under applicable law or your conduct relates to the [Meta Bug Bounty Program](https://m.facebook.com/whitehat).
 
   
 
 **4\. Additional provisions**
 
-*   Updating our Terms  
+* Updating our Terms  
     
     We work constantly to improve our services and develop new features to make our Products better for you and our community. As a result, we may need to update these Terms from time to time to accurately reflect our services and practices to promote a safe and secure experience on our Products and services, and/or to comply with applicable law. We will only make any changes if the provisions are no longer appropriate or if they are incomplete, and only if the changes are reasonable for you in consideration of your interests or if the changes are required for safety and security purposes or to comply with applicable law.
     
@@ -225,7 +225,7 @@ We provide these services to you and others to help advance our mission. In exch
     
       
     
-*   Account suspension or termination
+* Account suspension or termination
     
       
     We want Facebook to be a place where people feel welcome and safe to express themselves and share their thoughts and ideas.
@@ -240,39 +240,39 @@ We provide these services to you and others to help advance our mission. In exch
     
       
     
-*   Limits on liability  
+* Limits on liability  
     We are liable only as follows: We have unlimited liability in accordance with statutory provisions: arising out of injury damaging to life, limb or health; in case of intent; of gross negligence; and in accordance with the Product Liability Act.
     
     Without limiting any of the above, we shall be liable for slight negligence only in the case of violation of an "essential" obligation under this agreement. "Essential" obligations in this sense are obligations necessary for the fulfillment of the agreement, the breach of which would jeopardize the purpose of the agreement in question, and which you can trust to be complied with. In these cases, liability is limited to typical and foreseeable damages; in other cases, there is no liability for slight negligence.
     
       
     
-*   Disputes  
+* Disputes  
     If a claim or dispute arises out of or relates to your use of the Meta Products as a consumer, both you and us agree that you may resolve your individual claim or dispute against us, and we may resolve our claim or dispute against you, in any competent court in the country of your main residence that has jurisdiction over your claim or dispute, and the laws of that country will apply without regard to conflict of law provisions.
     
     If a claim or dispute arises between us that relates to use of the Meta Products in any other capacity, including, but not limited to, access or use of the Meta Products for a business or commercial purpose, or that an entity brings on your behalf, you agree that any such claim or dispute must be resolved in a competent court in Ireland and Irish law will apply to such claim or dispute without regard to conflict of law provisions.
     
       
     
-*   Other  
+* Other  
     
-    *   These Terms (formerly known as the Statement of Rights and Responsibilities) make up the entire agreement between you and Meta Platforms Ireland Limited regarding your use of our Products. They supersede any prior agreements.
+    * These Terms (formerly known as the Statement of Rights and Responsibilities) make up the entire agreement between you and Meta Platforms Ireland Limited regarding your use of our Products. They supersede any prior agreements.
         
-    *   Some of the Products we offer are also governed by supplemental terms. If you use any of these Products, you will be provided with an opportunity to agree to supplemental terms that will become part of our agreement with you. For instance, if you access or use our Products for commercial or business purposes, such as buying ads, selling products, developing apps, managing a group or Page for your business, or using our measurement services, you must agree to our [Commercial Terms](https://www.facebook.com/legal/commercial_terms). If you post or share content containing music, you must comply with our [Music Guidelines](https://www.facebook.com/legal/music_guidelines). To the extent any supplemental terms conflict with these Terms, the supplemental terms shall govern to the extent of the conflict.
+    * Some of the Products we offer are also governed by supplemental terms. If you use any of these Products, you will be provided with an opportunity to agree to supplemental terms that will become part of our agreement with you. For instance, if you access or use our Products for commercial or business purposes, such as buying ads, selling products, developing apps, managing a group or Page for your business, or using our measurement services, you must agree to our [Commercial Terms](https://www.facebook.com/legal/commercial_terms). If you post or share content containing music, you must comply with our [Music Guidelines](https://www.facebook.com/legal/music_guidelines). To the extent any supplemental terms conflict with these Terms, the supplemental terms shall govern to the extent of the conflict.
         
-    *   If any portion of these Terms is found to be unenforceable, the remaining portion will remain in full force and effect. If we fail to enforce any of these Terms, it will not be considered a waiver. Any amendment to or waiver of these Terms must be made in writing and signed by us.
+    * If any portion of these Terms is found to be unenforceable, the remaining portion will remain in full force and effect. If we fail to enforce any of these Terms, it will not be considered a waiver. Any amendment to or waiver of these Terms must be made in writing and signed by us.
         
-    *   You will not transfer any of your rights or obligations under these Terms to anyone else without our consent.
+    * You will not transfer any of your rights or obligations under these Terms to anyone else without our consent.
         
-    *   You may designate a person (called a legacy contact) to manage your account if it is memorialized. If you enable it in your settings, only your legacy contact or a person who you have identified in a valid will or similar legal document expressing clear consent to disclose your content to that person upon death or incapacity will be able to seek limited [disclosure](https://www.facebook.com/help/1506822589577997?ref=tos) of information from your account after it is memorialized.
+    * You may designate a person (called a legacy contact) to manage your account if it is memorialized. If you enable it in your settings, only your legacy contact or a person who you have identified in a valid will or similar legal document expressing clear consent to disclose your content to that person upon death or incapacity will be able to seek limited [disclosure](https://www.facebook.com/help/1506822589577997?ref=tos) of information from your account after it is memorialized.
         
-    *   These Terms do not confer any third-party beneficiary rights. All of our contractual rights and obligations under these Terms are freely assignable by us in connection with a merger, acquisition, or sale of assets, or by operation of law or otherwise.
+    * These Terms do not confer any third-party beneficiary rights. All of our contractual rights and obligations under these Terms are freely assignable by us in connection with a merger, acquisition, or sale of assets, or by operation of law or otherwise.
         
-    *   We may change the username for your account in certain circumstances (for example, if someone else claims the username and it appears unrelated to the name you use in everyday life).
+    * We may change the username for your account in certain circumstances (for example, if someone else claims the username and it appears unrelated to the name you use in everyday life).
         
-    *   We always appreciate your feedback and other suggestions about our products and services. But we may use feedback and other suggestions without any restriction, and we are under no obligation to keep them confidential.
+    * We always appreciate your feedback and other suggestions about our products and services. But we may use feedback and other suggestions without any restriction, and we are under no obligation to keep them confidential.
         
-    *   If the ownership or control of all or part of our Products or their assets changes, this could result in a transfer of your information to the new owner.
+    * If the ownership or control of all or part of our Products or their assets changes, this could result in a transfer of your information to the new owner.
         
     
 
@@ -281,24 +281,24 @@ We provide these services to you and others to help advance our mission. In exch
 
 **5\. Other terms and policies that may apply to you**
 
-*   [Community Standards](https://www.facebook.com/communitystandards): These guidelines outline our standards regarding the content you post to Facebook and your activity on Facebook and other Meta Products.
-*   [Commercial Terms](https://www.facebook.com/legal/commercial_terms): These terms apply if you also access or use our Products for any commercial or business purpose, including advertising, operating an app on our Platform, using our measurement services, managing a group or a Page for a business, or selling goods or services.
-*   [Community Payment Terms](https://www.facebook.com/payments_terms): These terms apply to payments made on or through Meta Products.
+* [Community Standards](https://www.facebook.com/communitystandards): These guidelines outline our standards regarding the content you post to Facebook and your activity on Facebook and other Meta Products.
+* [Commercial Terms](https://www.facebook.com/legal/commercial_terms): These terms apply if you also access or use our Products for any commercial or business purpose, including advertising, operating an app on our Platform, using our measurement services, managing a group or a Page for a business, or selling goods or services.
+* [Community Payment Terms](https://www.facebook.com/payments_terms): These terms apply to payments made on or through Meta Products.
     
-*   [Commerce Policies](https://www.facebook.com/policies/commerce): These guidelines outline the policies that apply when you offer products or services for sale on Facebook, Instagram, and WhatsApp.
+* [Commerce Policies](https://www.facebook.com/policies/commerce): These guidelines outline the policies that apply when you offer products or services for sale on Facebook, Instagram, and WhatsApp.
     
-*   [Music Guidelines](https://www.facebook.com/legal/music_guidelines): These guidelines outline the policies that apply if you post or share content containing music on any Meta Products.
+* [Music Guidelines](https://www.facebook.com/legal/music_guidelines): These guidelines outline the policies that apply if you post or share content containing music on any Meta Products.
     
-*   [Advertising Policies](https://www.facebook.com/ad_guidelines.php): These policies apply to partners who advertise across the Meta Products and specify what types of ad content are allowed by partners who advertise across the Meta Products.
-*   [Self-Serve Ad Terms](https://www.facebook.com/legal/self_service_ads_terms): These terms apply when you use self-serve advertising interfaces to create, submit, or deliver advertising or other commercial or sponsored activity or content.
-*   [Facebook Pages, Groups and Events Policy](https://www.facebook.com/policies/pages_groups_events): These guidelines apply if you create or administer a Facebook Page, group, or event, or if you use Facebook to communicate or administer a promotion.
-*   [Meta Platform Policy](https://developers.facebook.com/policy/): These terms apply to the use of the set of APIs, SDKs, tools, plugins, code, technology, content, and services that enables others to develop functionality, retrieve data from MetaProducts, or provide data to us.
-*   [Developer Payment Terms](https://developers.facebook.com/policy/credits): These terms apply to developers of applications that use Facebook Payments.
-*   [Meta Brand Resources](https://www.facebookbrand.com/): These guidelines outline the policies that apply to use of Meta trademarks, logos, and screenshots.
-*   Recommendations Guidelines: The [Facebook Recommendations Guidelines](https://www.facebook.com/help/1257205004624246/) and [Instagram Recommendations Guidelines](https://help.instagram.com/313829416281232/) outline our standards for recommending and not recommending content.
-*   [Live Policies](https://www.facebook.com/policies/live): These policies apply to all content broadcast to Facebook Live.
+* [Advertising Policies](https://www.facebook.com/ad_guidelines.php): These policies apply to partners who advertise across the Meta Products and specify what types of ad content are allowed by partners who advertise across the Meta Products.
+* [Self-Serve Ad Terms](https://www.facebook.com/legal/self_service_ads_terms): These terms apply when you use self-serve advertising interfaces to create, submit, or deliver advertising or other commercial or sponsored activity or content.
+* [Facebook Pages, Groups and Events Policy](https://www.facebook.com/policies/pages_groups_events): These guidelines apply if you create or administer a Facebook Page, group, or event, or if you use Facebook to communicate or administer a promotion.
+* [Meta Platform Policy](https://developers.facebook.com/policy/): These terms apply to the use of the set of APIs, SDKs, tools, plugins, code, technology, content, and services that enables others to develop functionality, retrieve data from MetaProducts, or provide data to us.
+* [Developer Payment Terms](https://developers.facebook.com/policy/credits): These terms apply to developers of applications that use Facebook Payments.
+* [Meta Brand Resources](https://www.facebookbrand.com/): These guidelines outline the policies that apply to use of Meta trademarks, logos, and screenshots.
+* Recommendations Guidelines: The [Facebook Recommendations Guidelines](https://www.facebook.com/help/1257205004624246/) and [Instagram Recommendations Guidelines](https://help.instagram.com/313829416281232/) outline our standards for recommending and not recommending content.
+* [Live Policies](https://www.facebook.com/policies/live): These policies apply to all content broadcast to Facebook Live.
     
-*   Messaging services terms relevant for EU, EEA and UK users: terms applicable to the messaging, voice and video calling services included in Facebook Products are listed [here](https://www.facebook.com/legal/terms/eecc/contract_summary) and [here](https://www.facebook.com/legal/terms/eecc/flyout) in accordance with EU rules.
+* Messaging services terms relevant for EU, EEA and UK users: terms applicable to the messaging, voice and video calling services included in Facebook Products are listed [here](https://www.facebook.com/legal/terms/eecc/contract_summary) and [here](https://www.facebook.com/legal/terms/eecc/flyout) in accordance with EU rules.
 
   
 Date of Last Revision: July 26, 2022
