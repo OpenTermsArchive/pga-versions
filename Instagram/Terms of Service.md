@@ -28,7 +28,7 @@ Meta Platforms Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland
 Meta Platforms Ireland Limited is a company registered under the laws of the Republic of Ireland.  
 File Number: 462932  
 To contact us by email:  
-![](https://scontent-frt3-1.xx.fbcdn.net/v/t39.8562-6/294775528_577945190457336_7937423008395807477_n.png?_nc_cat=108&ccb=1-7&_nc_sid=6825c5&_nc_ohc=NLarwMjrJH8AX8UiLeB&_nc_ht=scontent-frt3-1.xx&oh=00_AT92KJQdGScTwOBqYuQoZ1wZWWG7-7xkpuIVUsvHT77sog&oe=633BCAC8)  
+![](https://scontent-frt3-1.xx.fbcdn.net/v/t39.8562-6/294775528_577945190457336_7937423008395807477_n.png?_nc_cat=108&ccb=1-7&_nc_sid=6825c5&_nc_ohc=NLarwMjrJH8AX8UiLeB&_nc_ht=scontent-frt3-1.xx&oh=00_AT8V3mhy58UOYrcD8G844k-9S-WFMjgRDJBWkOhKPuNUzg&oe=633DC508)  
 
 **Network Enforcement Act ("NetzDG”)**
 
