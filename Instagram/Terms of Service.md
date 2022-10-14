@@ -1,9 +1,11 @@
 * [Terms and Policies](https://help.instagram.com/1417489251945243/?helpref=breadcrumb)
 
-Terms of Use
-============
+Terms and Imprint
+=================
 
 Copy link
+
+Terms and Imprint
 
 _Facebook Ireland Limited has changed its name to Meta Platforms Ireland Limited. We’ve updated our Terms of Use, Data Policy, and Cookies Policy to reflect the new name on January 4, 2022. While our company name has changed, we are continuing to offer the same products, including Instagram from Meta. Our Data Policy and Terms of Use remain in effect, and this name change does not affect how we use or share data. [_Learn more about Meta_](https://help.instagram.com/https%3A%2F%2Fabout.facebook.com%2Fmeta=) and our vision for the metaverse._
 
@@ -12,41 +14,27 @@ _Facebook Ireland Limited has changed its name to Meta Platforms Ireland Limited
 
 **Terms of Use**
 
-Welcome to Instagram!  
-  
-These Terms of Use (or “Terms”) govern your use of Instagram, except where we expressly state that separate terms (and not these) apply, and provide information about the Instagram Service (the “Service”), outlined below. When you create an Instagram account or use Instagram, you agree to these terms. The Meta Terms of Service do not apply to this Service.  
-  
-Click [here](https://help.instagram.com/http%3A%2F%2Fhelp.instagram.com%2F1190972084654673%3Fhelpref=faq_content) for a Contract Summary and [here](https://help.instagram.com/http%3A%2F%2Fhelp.instagram.com%2F430517971668717%3Fhelpref=faq_content) for other information we are required by the European Electronic Communications Code to provide.  
-  
-If you are a business established in the EU and use Instagram Shopping to sell goods to consumers located in the EU, you can learn more about your commercial relationship with us by reviewing the [Platform to Business Notice](https://help.instagram.com/https%3A%2F%2Fwww.facebook.com%2Flegal%2Fplatformtobusinessnotice=) which supplements our Terms of Use.  
-  
+Welcome to Instagram!
+
+These Terms of Use (or “Terms”) govern your use of Instagram, except where we expressly state that separate terms (and not these) apply, and provide information about the Instagram Service (the “Service”), outlined below. When you create an Instagram account or use Instagram, you agree to these terms. The Meta Terms of Service do not apply to this Service.
+
+Click [here](https://help.instagram.com/http%3A%2F%2Fhelp.instagram.com%2F1190972084654673%3Fhelpref=faq_content) for a Contract Summary and [here](https://help.instagram.com/http%3A%2F%2Fhelp.instagram.com%2F430517971668717%3Fhelpref=faq_content) for other information we are required by the European Electronic Communications Code to provide.
+
+If you are a business established in the EU and use Instagram Shopping to sell goods to consumers located in the EU, you can learn more about your commercial relationship with us by reviewing the [Platform to Business Notice](https://help.instagram.com/https%3A%2F%2Fwww.facebook.com%2Flegal%2Fplatformtobusinessnotice=) which supplements our Terms of Use.
+
 The Instagram Service is one of the [Meta Products](https://help.instagram.com/https%3A%2F%2Fwww.facebook.com%2Fhelp%2F1561485474074139%3Fref=igtos&helpref=faq_content), provided to you by Meta Platforms Ireland Limited. These Terms of Use therefore constitute an agreement between you and Meta Platforms Ireland Limited.
 
 **Impressum**
 
-Meta Platforms Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland  
-Meta Platforms Ireland Limited is a company registered under the laws of the Republic of Ireland.  
-File Number: 462932  
-To contact us by email:  
-  
+Meta Platforms Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland
 
-**Network Enforcement Act ("NetzDG”)**
+Meta Platforms Ireland Limited is a company registered under the laws of the Republic of Ireland.
 
-To learn about the NetzDG, including how to submit reports against content you believe is unlawful under the NetzDG, visit our [NetzDG Help Center](https://help.instagram.com/130785144276082?helpref=faq_content) page. Law enforcement officials may submit requests for information under the NetzDG through the [Law Enforcement Online Request System](https://help.instagram.com/https%3A%2F%2Fwww.facebook.com%2Frecords=).  
-  
-Service agent for administrative proceedings and civil court proceedings within the meaning of § 5 (1) NetzDG: ARQIS Rechtsanwälte Partnerschaftsgesellschaft mbB, Breite Straße 28, 40213 Düsseldorf.
+File Number: 462932
 
-**Copyright Service Provider Act (“UrhDaG”)**
+To contact us by email:
 
-The authorised recipient in accordance with § 20 UrhDaG for service in court proceedings is: Freshfields Bruckhaus Deringer Rechtsanwälte Steuerberater PartG mbB (Düsseldorf), Feldmühleplatz 1, 40545 Düsseldorf.
-
-**Information for the State Media Authorities**
-
-Administrative notifications under IMT (German Interstate Media Treaty) to Meta Platforms Ireland Ltd. can be served on: Facebook Germany GmbH, c/o Freshfields Bruckhaus Deringer Rechtsanwälte Steuerberater PartG mbB, Hohe Bleichen 7, 20354 Hamburg.
-
-**Ranking of Content**
-
-[Here](https://help.instagram.com/https%3A%2F%2Fwww.facebook.com%2Fhelp%2Finstagram%2F4185332254915923%3Fhelpref=faq_content), we have provided information on the ranking of content.  
+![](https://static.xx.fbcdn.net/assets/?revision=1493059091158630&name=impressum&density=1)  
   
 
 **The Instagram Service**
