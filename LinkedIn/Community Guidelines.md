@@ -159,7 +159,7 @@ Last updated: 5 months ago
 Nudity and adult content
 ========================
 
-Last updated: 17 hours ago
+Last updated: 18 hours ago
 
 We remove content containing nudity or sexual activity.
 
@@ -177,7 +177,7 @@ Do not share material depicting nudity or sexual activity. We don’t allow cont
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
 
-Last updated: 17 hours ago
+Last updated: 18 hours ago
 
 Illegal, dangerous, and inappropriate commercial activity
 =========================================================
