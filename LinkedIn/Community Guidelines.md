@@ -53,8 +53,6 @@ Thank you for using LinkedIn, where the world’s professionals come together to
     
     **Do not share material depicting the exploitation of children:** We have zero tolerance for content that depicts the sexual exploitation of children. Do not share, post, transmit, or solicit child exploitation material through or using our platform. Do not use LinkedIn in any way to facilitate, encourage, or engage in the abuse or exploitation of children. When we become aware of apparent child exploitation, we report it to the National Center for Missing and Exploited Children (NCMEC).
     
-    Learn more about our [child sexual exploitation, abuse, and nudity policies](https://www.linkedin.com/help/linkedin/answer/137376)**.**
-    
     **Do not promote, sell or attempt to purchase illegal or dangerous goods or services.** We don't allow content that facilitates the purchase of illegal or dangerous goods and/or services, prostitution, and escort services. We don't allow content that promotes or distributes fake educational and/or professional certifications, sale of scraped data, proxy test-taking, or instructions on creating forged official documents. You may not use LinkedIn to hold lotteries, contests, sweepstakes, or giveaways. Do not use LinkedIn to sensationalize or capitalize on tragic events for commercial purposes.
     
     Learn more about our [illegal and inappropriate commercial activity policy](https://www.linkedin.com/help/linkedin/answer/137373)**.**
@@ -91,9 +89,9 @@ Thank you for using LinkedIn, where the world’s professionals come together to
     
     Learn more about our [sexual harassment and unwanted advances policy](https://www.linkedin.com/help/linkedin/answer/137370)**.**
     
-    **Do not share harmful or shocking material.** We don't allow content that is excessively gruesome or shocking. This includes content that is sadistic or gratuitously graphic, such as the depiction of bodily injury, severe physical or sexual violence. We don't allow content, activities, or events that promote, organize, depict, or facilitate criminal activity. We also don't allow content depicting or promoting instructional weapon making, drug abuse, and threats of theft. Do not engage in or promote escort services, prostitution, exploitation of children, or human trafficking. Do not share content or activities that promote or encourage suicide or any type of self-injury, including self-mutilation and eating disorders. If you see signs that someone may be considering self-harm, please report it using our reporting tools and consider also reporting it to your local law enforcement authorities.
+    **Do not share harmful or shocking material.** We don't allow content that is excessively gruesome or shocking. This includes content that is sadistic or gratuitously graphic, such as the depiction of bodily injury, severe physical or sexual violence. We don't allow content, activities, or events that promote, organize, depict, or facilitate criminal activity. We also don't allow content depicting or promoting instructional weapon making, drug abuse, and threats of theft. Do not engage in or promote escort services, prostitution, exploitation of children, or human trafficking. Do not share content or activities that promote or encourage suicide or any type of self-injury, including self-mutilation and eating disorders. If you see signs that someone may be considering self-harm, please report it using our reporting tools and consider also reporting it to your local law enforcement authorities. Do not share material depicting nudity or sexual activity.
     
-    Learn more about our [violent and graphic content policies](https://www.linkedin.com/help/linkedin/answer/137374)**.**
+    Learn more about our [violent and graphic content policies](https://www.linkedin.com/help/linkedin/answer/137374) and our [nudity and adult content policies](https://www.linkedin.com/help/linkedin/answer/137376).
     
     **Do not spam members or the platform.** We don't allow untargeted, irrelevant, obviously unwanted, unauthorized, in appropriately commercial or promotional, or gratuitously repetitive messages or similar content. Do not use our invitation feature to send promotional messages to people you don't know or to otherwise spam people. Please make the effort to create original, professional, relevant, and interesting content in order to gain engagement. Don't do things to artificially increase engagement with your content. Respond authentically to others’ content and don’t agree with others ahead of time to like or re-share each other’s content.
     
@@ -159,7 +157,7 @@ Last updated: 5 months ago
 Nudity and adult content
 ========================
 
-Last updated: 18 hours ago
+Last updated: 1 day ago
 
 We remove content containing nudity or sexual activity.
 
@@ -169,15 +167,11 @@ We remove content containing nudity or sexual activity.
 * Implied sex acts are activities that indicated by inference, association, or consequence rather than by direct depiction
 * Full adult nudity or exposure of intimate body parts, including visible genitalia, buttocks, and breasts (excluding breastfeeding)
 
-* Sexually gratifying content, including pornography, simulated sex acts, erotic literature, and other graphic depictions of sex acts performed alone or with others
-* Implied sex acts are activities that indicated by inference, association, or consequence rather than by direct depiction
-* Full adult nudity or exposure of intimate body parts, including visible genitalia, buttocks, and breasts (excluding breastfeeding)
-
 Do not share material depicting nudity or sexual activity. We don’t allow content that depicts exposed human genitalia, female breasts, and/or human buttocks. We also don’t allow content that depicts, describes, or facilitates access to sexually gratifying material. Content that depicts sexual activity is prohibited. Instances of Adult nudity that align with topics relevant to professional conversations on LinkedIn may be allowed when not gratuitous.
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
 
-Last updated: 18 hours ago
+Last updated: 1 day ago
 
 Illegal, dangerous, and inappropriate commercial activity
 =========================================================
