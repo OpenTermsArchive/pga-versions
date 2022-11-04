@@ -21,7 +21,7 @@ The goal of our Community Standards is to create a place for expression and give
 
 Our commitment to expression is paramount, but we recognize the internet creates new and increased opportunities for abuse. For these reasons, when we limit expression, we do it in service of one or more of the following values:
 
-![](https://scontent-frt3-1.xx.fbcdn.net/v/t39.8562-6/136893606_849918935579882_213472362566516880_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6825c5&_nc_ohc=k-Mtkgk-Q80AX_H2PvE&_nc_ht=scontent-frt3-1.xx&oh=00_AfCq5uAk2uUWfCdV0gY7sqBeCGRP_VeEuwaq61Ft23yPEw&oe=6368730F)
+![](https://scontent-frt3-1.xx.fbcdn.net/v/t39.8562-6/136893606_849918935579882_213472362566516880_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6825c5&_nc_ohc=DwB0G3rWAKMAX_vHGST&_nc_ht=scontent-frt3-1.xx&oh=00_AfDUQQ0JuqoXkxzTZcALbWOwr2zhPEl8-ivXWx_GaOgLKA&oe=6368730F)
 
 AUTHENTICITY
 ------------
@@ -35,14 +35,14 @@ SAFETY
 
 We’re committed to making Facebook a safe place. We remove content that could contribute to a risk of harm to the physical security of persons. Content that threatens people has the potential to intimidate, exclude or silence others and isn’t allowed on Facebook.
 
-![](https://scontent-frt3-1.xx.fbcdn.net/v/t39.8562-6/137145103_308994903869841_4708570808613729754_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6825c5&_nc_ohc=Y_55TzY1RU0AX8qeddC&_nc_ht=scontent-frt3-1.xx&oh=00_AfAYeWCLJKriUFgKb1ZdUirM-fc5XJYcqwa7S9X7ToPQ0w&oe=6368944C)
+![](https://scontent-frt3-1.xx.fbcdn.net/v/t39.8562-6/137145103_308994903869841_4708570808613729754_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6825c5&_nc_ohc=k9bavkkr1kcAX_L5hIr&_nc_ht=scontent-frt3-1.xx&oh=00_AfDTTYG1JSrDmjaLIES6LBeYYhSij-rLYa4GnrsyhhPR2g&oe=6368944C)
 
 PRIVACY
 -------
 
 We’re committed to protecting personal privacy and information. Privacy gives people the freedom to be themselves, choose how and when to share on Facebook and connect more easily.
 
-![](https://scontent-frt3-1.xx.fbcdn.net/v/t39.8562-6/137151366_203760844736656_1882032595123025998_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6825c5&_nc_ohc=N4Yo7iLp6f8AX8t4HZB&_nc_ht=scontent-frt3-1.xx&oh=00_AfASDjAwe9suAZ7uprP9ltqi2tAeLXoEPkecdJaG-uufxg&oe=6367550B)
+![](https://scontent-frt3-1.xx.fbcdn.net/v/t39.8562-6/137151366_203760844736656_1882032595123025998_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6825c5&_nc_ohc=N4Yo7iLp6f8AX8t4HZB&_nc_ht=scontent-frt3-1.xx&oh=00_AfDtaLvhPnDGaT0DuxodoYnmMN532rzpasYIF7ByWgJ-0A&oe=63694F4B)
 
 DIGNITY
 -------
