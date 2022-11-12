@@ -21,7 +21,7 @@ The goal of our Community Standards is to create a place for expression and give
 
 Our commitment to expression is paramount, but we recognize the internet creates new and increased opportunities for abuse. For these reasons, when we limit expression, we do it in service of one or more of the following values:
 
-![](https://scontent-frt3-1.xx.fbcdn.net/v/t39.8562-6/136893606_849918935579882_213472362566516880_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6825c5&_nc_ohc=6e5T_FOv_98AX-ZhKHb&_nc_ht=scontent-frt3-1.xx&oh=00_AfDhgVcDWOvcffg3o-HdyCTnil3vM_JzcUFpfHWBDhFwTw&oe=6374508F)
+![](https://scontent-frt3-1.xx.fbcdn.net/v/t39.8562-6/136893606_849918935579882_213472362566516880_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6825c5&_nc_ohc=fC-0hfCldKQAX9mt76b&_nc_ht=scontent-frt3-1.xx&oh=00_AfAeaEQ9Ej0VreG1zJ2fZZVsE5LZMG-R64hLFa_8QnztVw&oe=6374508F)
 
 AUTHENTICITY
 ------------
@@ -42,7 +42,7 @@ PRIVACY
 
 We’re committed to protecting personal privacy and information. Privacy gives people the freedom to be themselves, choose how and when to share on Facebook and connect more easily.
 
-![](https://scontent-frt3-1.xx.fbcdn.net/v/t39.8562-6/137151366_203760844736656_1882032595123025998_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6825c5&_nc_ohc=jMcVSKParJwAX-aU3jc&_nc_ht=scontent-frt3-1.xx&oh=00_AfCqMtCdkbYcwbXg2heK0IMBMfHcT-y2CoQiafzuqnCukA&oe=6373328B)
+![](https://scontent-frt3-1.xx.fbcdn.net/v/t39.8562-6/137151366_203760844736656_1882032595123025998_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6825c5&_nc_ohc=jMcVSKParJwAX-aU3jc&_nc_ht=scontent-frt3-1.xx&oh=00_AfCATpBlvOAsOgW0YFgjSx91n6EV20Q36njy9Dam7-IyNA&oe=63752CCB)
 
 DIGNITY
 -------
