@@ -21,28 +21,28 @@ The goal of our Community Standards is to create a place for expression and give
 
 Our commitment to expression is paramount, but we recognize the internet creates new and increased opportunities for abuse. For these reasons, when we limit expression, we do it in service of one or more of the following values:
 
-![](https://scontent-frt3-1.xx.fbcdn.net/v/t39.8562-6/136893606_849918935579882_213472362566516880_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6825c5&_nc_ohc=FiTuuboAE_IAX8DsAT5&_nc_ht=scontent-frt3-1.xx&oh=00_AfBM0l3wqsJZAnjNKdzWYZdXSMiL99Y3fOi1WgI_ydNmfw&oe=636E61CF)
+![](https://scontent-frt3-1.xx.fbcdn.net/v/t39.8562-6/136893606_849918935579882_213472362566516880_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6825c5&_nc_ohc=6e5T_FOv_98AX-ZhKHb&_nc_ht=scontent-frt3-1.xx&oh=00_AfDhgVcDWOvcffg3o-HdyCTnil3vM_JzcUFpfHWBDhFwTw&oe=6374508F)
 
 AUTHENTICITY
 ------------
 
 We want to make sure the content people see on Facebook is authentic. We believe that authenticity creates a better environment for sharing, and that’s why we don’t want people using Facebook to misrepresent who they are or what they’re doing.
 
-![](https://scontent-frt3-1.xx.fbcdn.net/v/t39.8562-6/137256059_2800543870233431_455035967167740410_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6825c5&_nc_ohc=quLxxaGrwiIAX-cpD5z&_nc_ht=scontent-frt3-1.xx&oh=00_AfDXAcnZOezTmd0-Wle-1ssoDabOuM42QW6DbB-TKk0H_A&oe=636E593E)
+![](https://scontent-frt3-1.xx.fbcdn.net/v/t39.8562-6/137256059_2800543870233431_455035967167740410_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6825c5&_nc_ohc=_CpmFarJVboAX-G5gNg&_nc_ht=scontent-frt3-1.xx&oh=00_AfAu8TKQ7OIcqEfz9qIJzX0zyx-1MAite0wLmMCx0NI6Pg&oe=637447FE)
 
 SAFETY
 ------
 
 We’re committed to making Facebook a safe place. We remove content that could contribute to a risk of harm to the physical security of persons. Content that threatens people has the potential to intimidate, exclude or silence others and isn’t allowed on Facebook.
 
-![](https://scontent-frt3-1.xx.fbcdn.net/v/t39.8562-6/137145103_308994903869841_4708570808613729754_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6825c5&_nc_ohc=IJPcp2lL9wsAX-snYkN&_nc_ht=scontent-frt3-1.xx&oh=00_AfBFrlXkx7gt-P6KHmQkv4kcputhbkfo3162o86TFuHxww&oe=636E830C)
+![](https://scontent-frt3-1.xx.fbcdn.net/v/t39.8562-6/137145103_308994903869841_4708570808613729754_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6825c5&_nc_ohc=cByyanMElUwAX8KoiG2&_nc_ht=scontent-frt3-1.xx&oh=00_AfD9dYuM5T8yMWTS-1BGWAe7b7J5tWFFoOp0iRdo7OF5Pg&oe=637471CC)
 
 PRIVACY
 -------
 
 We’re committed to protecting personal privacy and information. Privacy gives people the freedom to be themselves, choose how and when to share on Facebook and connect more easily.
 
-![](https://scontent-frt3-1.xx.fbcdn.net/v/t39.8562-6/137151366_203760844736656_1882032595123025998_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6825c5&_nc_ohc=n-_Il0NFFPUAX_KQwoi&_nc_ht=scontent-frt3-1.xx&oh=00_AfBC_IblqobN9S64d7He-ajX9Ykjvi2u9T79qyUAySKw1Q&oe=636D43CB)
+![](https://scontent-frt3-1.xx.fbcdn.net/v/t39.8562-6/137151366_203760844736656_1882032595123025998_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6825c5&_nc_ohc=jMcVSKParJwAX-aU3jc&_nc_ht=scontent-frt3-1.xx&oh=00_AfCqMtCdkbYcwbXg2heK0IMBMfHcT-y2CoQiafzuqnCukA&oe=6373328B)
 
 DIGNITY
 -------
