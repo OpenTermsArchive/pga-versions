@@ -59,6 +59,82 @@ Learn more about [our approach to enforcement](https://help.twitter.com/en/rules
   
 You may not submit, post, or display any video content on or through our services that includes third-party advertising, such as pre-roll video ads or sponsorship graphics, without our prior consent.
 
+Violent threats policy
+======================
+
+### Overview 
+
+**March 2019**
+
+**You may not threaten violence against an individual or a group of people. We also prohibit the glorification of violence.**
+
+Healthy conversation is only possible when people feel safe from abuse and don’t resort to using violent language. For this reason, we have a policy against threatening violence on Twitter. We define violent threats as statements of an intent to kill or inflict serious physical harm on a specific person or group of people.   
+  
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t state an intention to inflict violence on a specific person or group of people. We define intent to include statements like “I will”, “I’m going to”, or “I plan to”, as well as conditional statements like “If you do X, I will”. Violations of this policy include, but are not limited to:
+
+* threatening to kill someone; 
+* threatening to sexually assault someone;
+* threatening to seriously hurt someone and/or commit a other violent act that could lead to someone’s death or serious physical injury; and
+* asking for or offering a financial reward in exchange for inflicting violence on a specific person or group of people.  
+     
+
+### What is not a violation of this policy? 
+
+We recognize that some people use violent language as part of hyperbolic speech or between friends, so  we also allow some forms of violent speech where it’s clear that there is no abusive or violent intent, e.g., “I’ll kill you for sending me that plot spoiler!”. 
+
+This policy is enforced in tandem with our policies on [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) and [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy). Statements that express a wish or hope that someone experiences physical harm, making vague or indirect threats, or threatening actions that are unlikely to cause serious or lasting injury are not actionable under this policy, but may be reviewed and actioned under those policies. **Note:** we also have a policy against [encouraging self-harm and suicide](https://help.twitter.com/rules-and-policies/glorifying-self-harm).  
+  
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have a Twitter account or not.   
+ 
+
+### How can I report violations of this policy? 
+
+**In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report Tweet** from the  icon.
+2. Select **It’s abusive or harmful**.
+3. Select **Threatening violence or physical harm**.
+4. Select the relevant option depending on who you are reporting on behalf of.
+5. Select up to 5 Tweets to report for review.
+6. Submit your report.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report Tweet** from the  icon.
+2. Select **It’s abusive or harmful**.
+3. Select **Threatening violence or physical harm**.
+4. Select the relevant option depending on who you are reporting on behalf of.
+5. Select up to 5 Tweets to report for review.
+6. Submit your report.  
+     
+
+**Report form**
+
+You can also report this content for review via [our abusive behavior reporting form](https://help.twitter.com/forms/abusiveuser), by selecting the **Specific violent threats involving physical safety or well-being** option.  
+ 
+
+### What happens if you violate this policy? 
+
+**We will immediately and permanently suspend any account** found to be posting violent threats.
+
+**In rare cases, we may not suspend an account immediately.** For example, if the reported content is a form of hyperbolic speech. In such cases, we may require you to remove this content. We may also temporarily lock you out of your account before you can Tweet again. If you continue to violate this policy after receiving a warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+  
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
 Glorification of violence policy
 ================================
 
@@ -503,6 +579,29 @@ Learn more about our [range of enforcement options](https://help.twitter.com/en/
 
 If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
 
+Perpetrators of violent attacks policy
+======================================
+
+Overview
+
+**April 2022**
+
+**[Twitter Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html): We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, and may also remove Tweets disseminating manifestos or other content produced by perpetrators.** 
+
+We want Twitter to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
+
+The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
+
+We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Tweets that include manifestos or other similar material produced by perpetrators, even if the intention behind the Tweet is not abusive. However, if there is a clear and explicit intent to provide additional context and counterspeech, we may consider keeping the Tweet up. 
+
+**What is a manifesto?**
+
+We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
+
+**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
+
+Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [violent organizations policy](https://help.twitter.com/en/rules-and-policies/violent-groups.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent groups, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
+
 Suicide and Self-harm policy
 ============================
 
@@ -650,6 +749,172 @@ Learn more about our [range of enforcement options](https://help.twitter.com/rul
 [Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
 
 Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Sensitive media policy
+======================
+
+### Overview
+
+**  
+October 2022  
+**
+
+**You may not post media that is excessively gory or share violent or adult content within live video or in profile header, List banner images, or Community cover photos. Media depicting sexual violence and/or assault is also not permitted.**
+
+People use Twitter to show what’s happening in the world, often sharing images and videos as part of the conversation. Sometimes, this media can depict sensitive topics, including violent and adult content. We recognize that some people may not want to be exposed to sensitive content, which is why we balance allowing people to share this type of media with helping people who want to avoid it to do so. 
+
+For this reason, you can’t include violent, hateful, or adult content within areas that are highly visible on Twitter, including in live video, profile, header, List banner images, or Community cover photos. If you share this content on Twitter, you need to [mark your account as sensitive](https://help.twitter.com/en/rules-and-policies/media-settings.html). Doing so places images and videos behind an interstitial (or warning message), that needs to be acknowledged before your media can be viewed. Using this feature means that people who don’t want to see sensitive media can avoid it, or make an informed decision before they choose to view it. We also restrict specific sensitive media, such as adult content, for viewers who are under 18 or viewers who do not include a birth date on their profile. Learn more about age restricted content [here](https://help.twitter.com/en/rules-and-policies/notices-on-twitter.html).
+
+Under this policy, there are also some types of sensitive media content that we don’t allow at all, because they have the potential to normalize violence and cause distress to those who view them. 
+
+We group sensitive media content into the following categories: 
+
+**  
+Graphic violence**
+
+Graphic violence is any media that depicts death, violence, medical procedures, or serious physical injury in graphic detail. Some examples include, but are not limited to, depictions of:
+
+* violent crimes or accidents; 
+* physical fights;
+* physical child abuse;
+* bodily fluids including blood, feces, semen etc.;
+* serious physical harm, including visible wounds; and
+* severely injured or mutilated animals.   
+     
+
+**Note:** exceptions may be made for documentary or educational content.   
+  
+
+**Adult content**
+
+Adult content is any consensually produced and distributed media that is pornographic or intended to cause sexual arousal. Some examples include, but are not limited to, depictions of:
+
+* full or partial nudity, including close-ups of genitals, buttocks, or breasts (excluding content related to breastfeeding);
+* simulated sexual acts; and
+* sexual intercourse or other sexual acts – this also applies to cartoons, hentai, or anime involving humans or depictions of animals with human-like features.  
+     
+
+**Note:** exceptions may be made for artistic, medical, health, or educational content.   
+  
+
+For content that was created or distributed without the consent of those featured, please refer to our [non-consensual nudity policy](https://help.twitter.com/en/rules-and-policies/intimate-media.html).   
+  
+
+**Violent sexual conduct**
+
+Violent sexual conduct is any media that depicts violence, whether real or simulated, in association with sexual acts. Some examples include, but are not limited to, depictions of:
+
+* rape and other forms of violent sexual assault, or sexual acts that occur without the consent of participants, including a simulated lack of consent; and
+* sexualized violence – inflicting physical harm on an individual within an intimate setting, where it is not immediately obvious if those involved have consented to take part.  
+     
+
+**Gratuitous gore**
+
+Gratuitous gore is any media that depicts excessively graphic or gruesome content related to death, violence or severe physical harm, or violent content that is shared for sadistic purposes. Some examples include, but are not limited to, depictions of:
+
+* dismembered or mutilated humans;
+* charred or burned human remains;
+* exposed internal organs or bones; and
+* animal torture or killing. **Note:** exceptions may be made for religious sacrifice, food preparation or processing, and hunting.   
+    
+
+**Hateful imagery**
+
+Hateful imagery is any logo, symbol, or image that has the intention to promote hostility against people on the basis of race, religious affiliation, disability, sexual orientation, gender/gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
+
+* symbols historically associated with hate groups, e.g., the Nazi swastika;
+* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
+* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.  
+     
+
+### What is in violation of this policy?
+
+  
+Our aim is to limit exposure to sensitive images and videos and to prevent the sharing of potentially disturbing types of sensitive media. For this reason, we differentiate our enforcement approach depending on the type of media that has been shared and where it has been shared.   
+ 
+
+**Graphic violence, adult content, and hateful imagery**  
+
+* you can’t target people with unsolicited images or videos that contain graphic violence, adult content, or hateful imagery; and
+* you can’t include graphic violence, adult content, or hateful imagery within live video, profile, header, List banner images, or Community cover photos.  
+     
+
+**Violent sexual conduct and gratuitous gore**
+
+We prohibit violent sexual conduct to prevent the normalization of sexual assault and non-consensual violence associated with sexual acts. We prohibit gratuitous gore content because research has shown that repeated exposure to violent content online may negatively impact an individual’s wellbeing. For these reasons, you can’t share images or videos that depict violent sexual conduct or gratuitous gore on Twitter. **Note:** very limited exceptions may be made for gory media associated with newsworthy events. 
+
+### What is not a violation of this policy?
+
+  
+You can share graphic violence and consensually produced adult content within your Tweets, provided that you mark this media as sensitive. We may also allow limited sharing of hateful imagery, provided that it is not used to promote a terrorist or violent extremist group, that you mark this content as sensitive and don’t target it at an individual (via mentioning someone or including an identifiable individual within such images). 
+
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you Tweet as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we will do so manually if your content is reported for review. 
+
+### Who can report violations of this policy?
+
+  
+Anyone can report potential violations of this policy via our dedicated reporting flows. 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report Tweet** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select the relevant option depending on what you are reporting.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report Tweet** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select the relevant option depending on what you are reporting.  
+     
+
+**To report Lists:**
+
+1. Navigate to the List you’d like to report.  
+    
+2. Click or tap the **More** icon.
+3. Select **Report List**.
+
+### What happens if you violate this policy?
+
+  
+The enforcement action we take depends on the type of media you have shared, and where you have shared it.   
+ 
+
+**Graphic violence, adult content, and hateful imagery  
+**
+
+* live video and profile images – the first time you violate this policy, we will require you to remove this content. We will also temporarily lock you out of your account before you can Tweet again. If you violate this policy again after your first warning, your account will be permanently suspended; 
+* sending someone unsolicited violent or adult content – if you target someone with sensitive media in a clearly abusive or unsolicited way, we’ll require you to remove it under our [abusive behavior policy](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html); and 
+* accounts dedicated to posting sensitive media – your account may be permanently suspended if the majority of your activity on Twitter is sharing sensitive media.   
+     
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+ 
+
+**Violent sexual conduct and gratuitous gore  
+**
+
+* if you share media that depicts violent sexual conduct or gratuitous gore anywhere on Twitter, we will require you to remove this content. 
+* if your account is dedicated to posting this type of content, your account will be immediately permanently suspended.   
+     
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+Adult content that was created or shared without the consent of those depicted is reviewed under our [non-consensual nudity policy](https://help.twitter.com/en/rules-and-policies/intimate-media.html).
 
 Illegal or certain regulated goods or services
 ==============================================
@@ -843,6 +1108,112 @@ Learn more about [our range of enforcement options](https://help.twitter.com/en/
 
 The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
 
+Non-consensual nudity policy
+============================
+
+[Take the survey](https://www.research.net/r/QFBQSNC)
+
+### Overview
+
+**  
+December 2021**
+
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
+
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [Twitter Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
+
+### What is a violation of this policy?
+
+  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
+
+Examples of the types of content that violate this policy include, but are not limited to:  
+
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
+     
+
+### What is not a violation of this policy?
+
+  
+Pornography and other forms of consensually produced adult content are allowed on Twitter, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
+
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you Tweet as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
+
+### Who can report violations of this policy?
+
+  
+Because Twitter allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
+
+**Content reportable by anyone**
+
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
+
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
+     
+
+**Content reportable by featured individual(s)**
+
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+ 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report Tweet** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 Tweets to report for review.
+7. Submit your report.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report Tweet** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 Tweets to report for review.
+7. Submit your report.  
+     
+
+**Report form**  
+
+You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
+ 
+
+### What happens if you violate this policy?
+
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
+
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can Tweet again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+  
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
 Platform manipulation and spam policy
 =====================================
 
@@ -1020,3 +1391,342 @@ If you believe that your account was locked or suspended in error, you can [subm
 Learn more about our [automation rules](https://help.twitter.com/en/rules-and-policies/twitter-automation.html) for developers, our [election integrity](https://about.twitter.com/en/values/elections-integrity.html) efforts, our [financial scam policy](https://help.twitter.com/en/rules-and-policies/financial-scam.html), our [hacked materials policy](https://help.twitter.com/en/rules-and-policies/hacked-materials.html), our approach to [coordinated harmful activity](https://help.twitter.com/en/rules-and-policies/coordinated-harmful-activity.html), and our [guidelines for promotions and contests](https://help.twitter.com/en/rules-and-policies/twitter-contest-rules.html).
 
 Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+Civic integrity policy
+======================
+
+### Overview
+
+**  
+October 2021**
+
+**You may not use Twitter’s services for the purpose of manipulating or interfering in elections or other civic processes. This includes posting or sharing content that may suppress participation or mislead people about when, where, or how to participate in a civic process. In addition, we may label and reduce the visibility of Tweets containing false or misleading information about civic processes in order to provide additional context.**
+
+The public conversation occurring on Twitter is never more important than during elections and other civic events. Any attempts to undermine the integrity of our service is antithetical to our fundamental rights and undermines the core tenets of freedom of expression, the value upon which our company is based.
+
+We believe we have a responsibility to protect the integrity of those conversations from interference and manipulation. Therefore, we prohibit attempts to use our services to manipulate or disrupt civic processes, including through the distribution of false or misleading information about the procedures or circumstances around participation in a civic process. In instances where misleading information does not seek to directly manipulate or disrupt civic processes, but leads to confusion on our service, we may label the Tweets to give additional context. Given the significant risks of confusion about key election information, we may take these actions even if Tweets contain (or attempt to contain) satirical or humorous elements.
+
+### What is a civic process? 
+
+  
+Twitter considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
+
+* Political elections
+* Censuses 
+* Major referenda and ballot initiatives 
+
+### What is in violation of this policy?
+
+  
+This policy addresses 4 categories of misleading behavior and content:   
+ 
+
+**Misleading information about how to participate**
+
+We will label or remove false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
+
+* misleading information about procedures to participate in a civic process (for example, that you can vote by Tweet, text message, email, or phone call in jurisdictions where these are not a possibility);
+* misleading information about requirements for participation, including identification or citizenship requirements;
+* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
+* misleading statements or information about the official, announced date or time of a civic process.  
+     
+
+**Suppression and intimidation**
+
+We will label or remove false or misleading information intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
+
+* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted;
+* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information;
+* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+* misleading claims about process procedures or techniques which could dissuade people from participating; and
+* threats regarding voting locations or other key places or events (note that our [violent threats policy](https://help.twitter.com/rules-and-policies/violent-threats-glorification) may also be relevant for threats not covered by this policy).  
+     
+
+**Misleading information about outcomes** 
+
+We will label or remove false or misleading information intended to undermine public confidence in an election or other civic process. This includes but is not limited to:
+
+* disputed claims that could undermine faith in the process itself, such as unverified information about election rigging, ballot tampering, vote tallying, or certification of election results; and
+* misleading claims about the results or outcome of a civic process which calls for or could lead to interference with the implementation of the results of the process, e.g. claiming victory before election results have been certified, inciting unlawful conduct to prevent the procedural or practical implementation of election results (note that our violent threats policy may also be relevant for threats not covered by this policy).  
+     
+
+**False or misleading affiliation**
+
+You can’t create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [parody, commentary, and fan account policy.](https://help.twitter.com/rules-and-policies/parody-account-policy)
+
+### What is not a violation of this policy?
+
+  
+Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
+
+* inaccurate statements about an elected or appointed official, candidate, or political party;
+* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics;
+* discussion of public polling information; 
+* voting and audience participation for competitions, game shows, or other entertainment purposes; and
+* using Twitter pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/rules-and-policies/parody-account-policy) to discuss elections or politics.
+
+### Who can report violations of this policy?
+
+  
+Accurate reporting of suspected violations of this policy requires information and knowledge specific to an election or civic process. Therefore, we enable reporting of false or misleading information about civic processes in advance of major events, for people located in the relevant countries and locations. We also work with select government and civil society partners in these countries to provide additional channels for reporting and expedited review.
+
+For civic processes with multiple stages or parts, such as primary elections or lengthy campaigns, reporting will be enabled leading up to the first officially-sanctioned event associated with the civic process.
+
+### How can I report violations of this policy?
+
+  
+If the reporting option for this policy is enabled in your country at the relevant time, you can report this content in-app or on desktop.  
+ 
+
+**In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report Tweet** from the  icon.
+2. Select **It's misleading about a political election or other civic event**.
+3. Select the option that best tells us how the Tweet is misleading about voting or participation in civic processes.
+4. Submit your report.  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select **Report Tweet** from the  icon.
+2. Select **It's misleading about a political election or other civic event**. 
+3. Select the option that best tells us how the Tweet is misleading about voting or participation in a civic process.
+4. Submit your report.  
+     
+
+### What happens if you violate this policy?
+
+  
+The consequences for violating our civic integrity policy depends on the severity and type of the violation and the accounts’ history of previous violations. In instances where accounts repeatedly violate this policy, we will use a strike system to determine if further enforcement actions should be applied. We believe this system further helps to reduce the spread of potentially harmful and misleading information on Twitter, particularly for high-severity violations of our rules.
+
+The actions we take may include the following:
+
+**Tweet deletion** 
+
+For high-severity violations of this policy, including (1) misleading information about how to participate, and (2) suppression and intimidation, we will require you to remove this content. We will also temporarily lock you out of your account before you can Tweet again. Tweet deletions accrue 2 strikes.
+
+**  
+Profile modifications**
+
+If you violate this policy within your profile information (e.g., your bio), we will require you to remove this content. We will also temporarily lock you out of your account before you can Tweet again. If you violate this policy again after your first warning, your account will be permanently suspended.
+
+**  
+Labeling**
+
+In circumstances where we do not remove content which violates this policy, we may provide additional context on Tweets sharing the content where they appear on Twitter. This means we may:
+
+* Apply a label and/or warning message to the content where it appears in the Twitter product;
+* Show a warning to people before they share or like the content;
+* Turn off people’s ability to reply, Retweet, or like the Tweet;
+* Reduce the visibility of the content on Twitter and/or prevent it from being recommended;
+* Provide a link to additional explanations or clarifications, such as in a Twitter Moment or relevant Twitter policies; and/or
+* Turn off likes, replies, and Retweets.  
+     
+
+In most cases, we will take all of the above actions on Tweets we label. In some instances, we’ll also turn off your ability to reply, Retweet, or like the Tweet. We prioritize producing Twitter Moments in cases where misleading content on Twitter is gaining significant attention and has caused public confusion on our service. Labels applied to Tweets accrue 1 strike.
+
+**  
+Account locks and permanent suspension**
+
+For severe or repeated violations of this policy, accounts will be permanently suspended.
+
+Repeated violations of this policy are enforced against on the basis of the number of strikes an account has accrued for violations of this policy:
+
+* 1 strike: No account-level action
+* 2 strikes: 12-hour account lock
+* 3 strikes: 12-hour account lock
+* 4 strikes: 7-day account lock
+* 5 or more strikes: Permanent suspension  
+     
+
+If you believe that your account was locked or suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+Misleading and deceptive identities policy
+==========================================
+
+Overview
+--------
+
+**You may not impersonate individuals, groups, or organizations to mislead, confuse, or deceive others, nor use a fake identity in a manner that disrupts the experience of others on Twitter.**  
+
+===================================================================================================================================================================================================
+
+We want Twitter to be a place where people can find authentic voices. That means one should be able to trust that the person or organization featured in an account’s profile genuinely represents the account owner. While you are not required to display your real name or image on your profile, your account should not engage in impersonation or pose as someone who doesn’t exist in order to deceive others. Accounts that use deceptive identities can create confusion, as well as undermine the integrity of conversations on Twitter. For this reason, you may not misappropriate the identity of another person, group, or organization, or create a fake identity for deceptive purposes.
+
+Synthetic and manipulated media policy
+======================================
+
+### Overview 
+
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label Tweets containing misleading media to help people understand their authenticity and to provide additional context.**
+
+Trademark policy
+================
+
+### Overview 
+
+**March 2019**
+
+**You may not violate others’ intellectual property rights, including copyright and trademark.**
+
+A trademark is a word, logo, phrase, or device that distinguishes a trademark holder’s good or service in the marketplace. Trademark law may prevent others from using a trademark in an unauthorized or confusing manner.    
+  
+
+### What is in violation of this policy? 
+
+Using another’s trademark in a way that may mislead or confuse people about your affiliation may be a violation of our trademark policy.  
+ 
+
+### What is not a violation of this policy? 
+
+Referencing another’s trademark is not automatically a violation of Twitter's trademark policy. Examples of non-violations include:
+
+* using a trademark in a way that is outside the scope of the trademark registration e.g., in a different territory, or a different class of goods or services than that identified in the registration; and
+* using a trademark in a nominative or other fair use manner. For more information, see our [parody, newsfeed, commentary, and fan account policy](https://help.twitter.com/rules-and-policies/parody-account-policy).
+
+Copyright policy
+================
+
+#### What types of copyright complaints does Twitter respond to?
+
+Twitter responds to copyright complaints submitted under the Digital Millennium Copyright Act (“DMCA”). Section 512 of the DMCA outlines the statutory requirements necessary for formally reporting copyright infringement, as well as providing instructions on how an affected party can appeal a removal by submitting a compliant counter-notice.
+
+Twitter will respond to reports of alleged copyright infringement, such as allegations concerning the unauthorized use of a copyrighted image as a profile or header photo, allegations concerning the unauthorized use of a copyrighted video or image uploaded through our media hosting services, or Tweets containing links to allegedly infringing materials. Note that not all unauthorized uses of copyrighted materials are infringements (see our [fair use](https://help.twitter.com/en/rules-and-policies/fair-use-policy.html) article for more information).
+
+If you are concerned about the use of your brand or entity’s name, please review [Twitter’s trademark policy](https://help.twitter.com/en/rules-and-policies/twitter-trademark-policy.html). If you are concerned about a parody, newsfeed, commentary, or fan account, please see the relevant policy [here](https://help.twitter.com/enrules-and-policies/parody-account-policy.html). These are generally not copyright issues.
+
+#### Am I a copyright holder? How do I know?
+
+If you are unsure whether you hold rights to a particular work, please consult an attorney or another adviser as Twitter cannot provide legal advice. There are plenty of resources to learn more about copyright law including [http://copyright.gov](http://copyright.gov/), [https://lumendatabase.org/](https://lumendatabase.org/), and [http://www.eff.org/issues/bloggers/legal/liability/IP](http://www.eff.org/issues/bloggers/legal/liability/IP), to name a few.
+
+#### What to consider before submitting a copyright complaint
+
+Before submitting a copyright complaint to us, please consider whether or not the use could be considered [fair use](https://help.twitter.com/en/rules-and-policies/fair-use-policy.html). 
+
+If you have considered fair use, and you still wish to continue with a copyright complaint, you may want to first reach out to the user in question to see if you can resolve the matter directly with the user. You can reply to the user’s Tweet or send the user a Direct Message and ask for them to remove your copyrighted content without having to contact Twitter. 
+
+Prior to submitting a formal complaint with Twitter, please be aware that under 17 U.S.C. § 512(f), you may be liable for any damages, including costs and attorneys’ fees incurred by us or our users, if you knowingly materially misrepresent that material or activity is infringing. If you are unsure whether the material you are reporting is in fact infringing, you may wish to contact an attorney before filing a notification with us.
+
+Note: In general, the photographer and NOT the subject of a photograph is the actual rights holder of the resulting photograph. If you’re unsure whether or not you own the copyrights to a work, or if you’re infringing upon someone else’s work, please consult an attorney or another advisor.
+
+#### What information do you need to process a copyright complaint?
+
+To submit a notice of claimed copyright infringement, you will need to provide us with the following information:
+
+1. A physical or electronic signature (typing your full name will suffice) of the copyright owner or a person authorized to act on their behalf;
+2. Identification of the copyrighted work claimed to have been infringed (e.g., a link to your original work or clear description of the materials allegedly being infringed upon);
+3. Identification of the infringing material and information reasonably sufficient to permit Twitter to locate the material on our website or services;
+4. Your contact information, including your address, telephone number, and an email address;
+5. A statement that you have a good faith belief that the use of the material in the manner asserted is not authorized by the copyright owner, its agent, or the law; and
+6. A statement that the information in the complaint is accurate, and, under penalty of perjury, that you are authorized to act on behalf of the copyright owner.  
+     
+
+If you are reporting the content of a Tweet, please give us a [direct link](https://help.twitter.com/en/using-twitter/tweet-and-moment-url.html) to that Tweet. Or please specify if the alleged infringement is in the header, avatar, etc. A LINK TO A PROFILE PAGE IS INSUFFICIENT FOR TWITTER TO IDENTIFY INFRINGING MATERIALS.
+
+#### How do I file a copyright complaint?
+
+You can report alleged copyright infringement by visiting Twitter’s Help Center and [filing a copyright complaint](https://help.twitter.com/forms/ipi). If you are logged in to twitter.com, you can visit the Twitter Help Center directly from your Twitter account by clicking the ‘Help’ link located in the sidebar.
+
+Filing a DMCA complaint is the start of a pre-defined legal process. Your complaint will be reviewed for accuracy, validity, and completeness. If your complaint has satisfied these requirements, we will take action on your request - which includes forwarding a full copy of your notice (including your name, address, phone and email address) to the user(s) who posted the allegedly infringing material in question.
+
+If you are concerned about your contact information being forwarded, you may wish to use an agent to report for you.
+
+Please be aware that under 17 U.S.C. § 512(f), you may be liable for any damages, including costs and attorneys’ fees incurred by us or our users, if you knowingly materially misrepresent that material or activity is infringing. If you are unsure whether the material you are reporting is in fact infringing, you may wish to contact an attorney before filing a copyright complaint.
+
+#### How are claims processed?
+
+We process copyright complaints in the order in which they are received. Once you've submitted your ticket, we will email you a ticket confirmation. If you do not receive a ticket confirmation that means we did not receive your complaint and you should re-submit your complaint. However, please note, submitting duplicate copyright complaints will result in a delay in processing.
+
+If we decide to remove or disable access to the material, we will notify the affected user(s) and provide them with a full copy of the reporter’s complaint (including the provided contact information) along with instructions on how to file a counter-notice. We will also forward a redacted copy of the complaint to [Lumen](https://lumendatabase.org/twitter), with your personal information removed.
+
+#### What information gets forwarded to the reported user(s)?
+
+If we remove or disable access to the materials reported in a copyright complaint, the reported user(s) will receive a copy of the complaint, including the reporter’s full name, email, street address, and any other information included in the complaint. 
+
+If you are uncomfortable sharing your contact information with the reported user(s), you may wish to consider appointing an agent to submit your DMCA notice on your behalf. Your agent will be required to submit the DMCA notice with valid contact information, and identify you as the content owner that they are representing. 
+
+#### What happens next?
+
+Twitter’s response to copyright complaints may include the removal or restriction of access to allegedly infringing material. If we remove or restrict access to user content in response to a copyright complaint, Twitter will make a good faith effort to contact the affected account holder with information concerning the removal or restriction of access, including a full copy of the complaint, along with instructions for filing a counter-notice.
+
+If you’ve not yet received a copy of the copyright complaint regarding the content removed from your account, please respond to the support ticket we sent you.
+
+In an effort to be as transparent as possible regarding the removal or restriction of access to user-posted content, we clearly mark withheld Tweets and media to indicate to viewers when content has been withheld (examples below). We also send a redacted copy of each copyright complaint and counter-notice that we process to Lumen, where they are posted to a public-facing website (with your personal information removed).
+
+  ![](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 530 86%22%3E%3C/svg%3E)
+
+  ![](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 161%22%3E%3C/svg%3E)
+
+#### Why did I receive a copyright complaint?
+
+If you receive a copyright complaint, it means that access to the content described in the complaint has been restricted. Please take the time to read through our correspondence to you, which includes information on the complaint we received as well as instructions on how to file a counter-notice. Please ensure that you are monitoring the email address associated with your Twitter account.
+
+Tip: Removing the material reported in a copyright complaint will not resolve that complaint
+
+#### What if I want to contest the takedown?
+
+If you believe that the materials reported in the copyright complaints  
+were misidentified or removed in error, you may send us a [counter-notification(s)](https://help.twitter.com/en/forms/ipi/dmca-counternotice.html) through our Help Center. A counter-notice is a request for Twitter to reinstate the removed material, and it has legal consequences. Alternatively, you may be able to seek a retraction of the copyright complaint from the reporter.
+
+#### How do I seek a retraction?
+
+The DMCA complaint you received includes the contact information of the reporter. You may want to reach out and ask them to retract their notice using our [retraction form](https://help.twitter.com/en/forms/ipi/dmca-retraction). This is the fastest and most efficient means of resolving an unresolved copyright complaint. Alternatively, the reporter can also send a retraction notice to [copyright@twitter.com](mailto:copyright@twitter.com).  Such notice should include: (1) identification of the material that was disabled, and (2) a statement that the reporter would like to retract their DMCA notice.  A retraction is at the sole discretion of the original reporter, and only that reporter can issue a retraction.  If a portion of your tweet has been withheld, the violation will not be resolved just by deleting the remaining portion.
+
+#### When should I file a counter-notice?
+
+A counter-notice is a request for Twitter to reinstate the removed material, and is the start of a legal process that has legal consequences.  For example, submitting a counter notice indicates that you consent to the jurisdiction of a U.S. Federal court and that you consent to the disclosure of your personal information to the reporter and Lumen website.
+
+With these considerations in mind, you may file a counter-notice if you believe that this material was misidentified, or you have a good faith belief that the material should not have been removed.  If you’re unsure whether or not you should file a counter-notice, you may want to consult with an attorney.
+
+Tip: Re-posting material removed in response to a copyright complaint may result in permanent account suspension. If you believe the content was removed in error, please file a counter-notice rather than re-posting the material. 
+
+#### What information do you need to process a counter-notice?
+
+To submit a counter-notice, you will need to provide us with the following information:
+
+1. A physical or electronic signature (typing your full name will suffice);
+2. Your full name, address (including country), telephone number, and for verification purposes, your Twitter username and associated email;
+3. Identification of the material that has been removed or to which access has been disabled, and the location at which the material appeared before that removal or disabling (the description from the copyright notice will suffice);
+4. A statement under penalty of perjury that you have a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled; and
+5. One of the following jurisdictional consent statements:
+
+(If your address is in the United States) 
+
+“I consent to the jurisdiction of the Federal District Court for the judicial district in which my address is located and I’ll accept service of process from the person who provided notice under 17 U.S.C. 512 (c)(1)(C) or an agent of such person.”
+
+OR
+
+(If your address is outside of the United States) 
+
+"I consent to any judicial district in which Twitter may be found, and I’ll accept service of process from the person who provided notice under 17 U.S.C. 512 (c)(1)(C) or an agent of such person."
+
+To submit a counter-notice, please provide all of the above information using our web form, located [here](https://help.twitter.com/en/forms/ipi/dmca-counternotice.html).
+
+#### What happens after I submit a counter-notice?
+
+Upon receipt of a valid counter-notice, we will promptly forward a copy to the person who filed the original notice. This means that the contact information that is submitted in your counter-notice will be shared to the person who filed the original notice. 
+
+If the copyright owner disagrees that the content was removed in error or misidentification, they may pursue legal action against you.  If we do not receive notice within 10 business days that the original reporter is seeking a court order to prevent further infringement of the material at issue, we may replace or cease disabling access to the material that was removed.
+
+We cannot offer any legal advice. Should you have questions, please consult an attorney.
+
+#### Filing a copyright complaint or counter-notice is serious business!
+
+Please think twice before submitting a claim or counter-notice, especially if you are unsure whether you are the actual rights holder or authorized to act on a rights holder’s behalf. There are legal and financial consequences for fraudulent and/or bad faith submissions. Please be sure that you are the actual rights holder, or that you have a good faith belief that the material was removed in error, and that you understand the repercussions of submitting a false claim.
+
+#### What happens if my account receives one or more copyright complaints?
+
+If multiple copyright complaints are received about an account, or other evidence suggests a pattern of repeat infringement, Twitter may suspend that account in accordance with our Repeat Infringer Policy. Our Repeat Infringer Policy takes valid retractions and counter-notices into account. Users suspended under that policy may file a suspension appeal using [this form](https://help.twitter.com/forms/general?subtopic=suspended).
+
+Additionally, re-posting material that was already removed in response to a copyright complaint, indicating where to access copyrighted material on third party websites, or certain other actions that demonstrate your account is intended solely or primarily to infringe the copyrighted material of others may result in permanent account suspension. If you are suspended on this basis, you may file an appeal using [this form](https://help.twitter.com/forms/general?subtopic=suspended). Please be aware that appealing a suspension does not guarantee your account will be reinstated.
+
+Our approach to policy development and enforcement philosophy
+=============================================================
+
+Twitter is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
+
+We have the [Twitter Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
