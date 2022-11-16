@@ -1,5 +1,7 @@
 Nutzungsbedingungen
 
+_Mit Wirkung zum 23 November 2022 aktualisieren wir diese Nutzungsbedingungen, um die von uns bereitgestellten Dienste um TikTok Now zu erweitern und um das Mindestalter um LIVE zu gehen von 16 auf 18 Jahre zu ändern. Bitte klicken Sie_ _[hier](https://www.tiktok.com/legal/page/eea/terms-of-service-nov/de-DE)__, um die neuen Bedingungen zu lesen._
+
 **(Für Nutzer mit Wohnsitz im Europäischen Wirtschaftsraum, in der Schweiz und in Großbritannien)**
 
 _Zuletzt geändert: Juni 2022_
