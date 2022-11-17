@@ -21,21 +21,21 @@ The goal of our Community Standards is to create a place for expression and give
 
 Our commitment to expression is paramount, but we recognize the internet creates new and increased opportunities for abuse. For these reasons, when we limit expression, we do it in service of one or more of the following values:
 
-![](https://scontent-fra5-2.xx.fbcdn.net/v/t39.8562-6/136893606_849918935579882_213472362566516880_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6825c5&_nc_ohc=P4sBlgOIGwAAX9yWMNM&_nc_ht=scontent-fra5-2.xx&oh=00_AfDyRd9P31cqzyD5L2eetvZ3RA1p05l6wvVXn18S2jyGzw&oe=637A3F4F)
+![](https://scontent-fra5-2.xx.fbcdn.net/v/t39.8562-6/136893606_849918935579882_213472362566516880_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6825c5&_nc_ohc=P4sBlgOIGwAAX9yWMNM&_nc_ht=scontent-fra5-2.xx&oh=00_AfD0LagvGfenoQ74n_sJMQZ_PrsMsYYp4ZLvh341RYqKYg&oe=637C398F)
 
 AUTHENTICITY
 ------------
 
 We want to make sure the content people see on Facebook is authentic. We believe that authenticity creates a better environment for sharing, and that’s why we don’t want people using Facebook to misrepresent who they are or what they’re doing.
 
-![](https://scontent-fra5-2.xx.fbcdn.net/v/t39.8562-6/137256059_2800543870233431_455035967167740410_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6825c5&_nc_ohc=RXr5OofV5AsAX8JKXKW&_nc_ht=scontent-fra5-2.xx&oh=00_AfAOtJ2nOnCb7J02YC9nHRqSrQpQA2I3CGC7LWWOqiEK6A&oe=637A36BE)
+![](https://scontent-fra5-2.xx.fbcdn.net/v/t39.8562-6/137256059_2800543870233431_455035967167740410_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6825c5&_nc_ohc=RXr5OofV5AsAX8JKXKW&_nc_ht=scontent-fra5-2.xx&oh=00_AfBm6J-0SKxDV97b-CIJoQ-5peYY0dQcqET6OmWDvSqFnA&oe=637C30FE)
 
 SAFETY
 ------
 
 We’re committed to making Facebook a safe place. We remove content that could contribute to a risk of harm to the physical security of persons. Content that threatens people has the potential to intimidate, exclude or silence others and isn’t allowed on Facebook.
 
-![](https://scontent-fra5-2.xx.fbcdn.net/v/t39.8562-6/137145103_308994903869841_4708570808613729754_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6825c5&_nc_ohc=iPAUEzNj7koAX_ZO5Is&_nc_ht=scontent-fra5-2.xx&oh=00_AfBjt-JwArfMkVA4p11djxDTb0RQmmz3yshE2W4lvYxMfQ&oe=637A608C)
+![](https://scontent-fra5-2.xx.fbcdn.net/v/t39.8562-6/137145103_308994903869841_4708570808613729754_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6825c5&_nc_ohc=iPAUEzNj7koAX_ZO5Is&_nc_ht=scontent-fra5-2.xx&oh=00_AfBru5IEHe3CGZDemFYyebKnsOTjvfOQG1wltl6q1C9hvA&oe=637C5ACC)
 
 PRIVACY
 -------
