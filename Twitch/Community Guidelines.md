@@ -672,7 +672,7 @@ Using the mature content flag, setting the broadcast or VOD to a different title
 Prohibited Gambling Content
 ---------------------------
 
-We do not allow users to share links or affiliate codes to sites that contain slots, roulette, or dice games.
+**We do not allow users to share links or affiliate codes to sites that contain slots, roulette, or dice games.**
 
 [](#)
 
@@ -682,9 +682,11 @@ We do not allow users to share links or affiliate codes to sites that contain sl
 * Include a banner with a link to online roulette games
 * Verbally refer your chat to a site containing dice games
 
-Furthermore, similar to our [prohibited games policy](https://safety.twitch.tv/s/article/Prohibited-Games) , we do not allow the sites below to be streamed on Twitch, or linked to in chat. We consider many factors in determining whether a site is allowed, including whether the site includes safety protections, such as deposit limits, waiting periods, and age verification systems. We also take into account whether streamers use or encourage VPNs to evade geoblocking, and whether the site is licensed in the US or other jurisdictions that provide sufficient consumer protections.
+Furthermore, similar to our [prohibited games policy](https://safety.twitch.tv/s/article/Prohibited-Games), **we do not allow the sites below to be streamed on Twitch, or linked to in chat.** We consider many factors in determining whether a site is allowed, including whether the site includes safety protections, such as deposit limits, waiting periods, and age verification systems. We also take into account whether streamers use or encourage VPNs to evade geoblocking, and whether the site is licensed in the US or other jurisdictions that provide sufficient consumer protections.
 
-We do not allow the following sites or associated domains:
+[](#)
+
+  We do not allow the following sites or associated domains:
 
 * stake.com
 * rollbit.com
