@@ -104,7 +104,7 @@ As a professional network, LinkedIn maintains a high standard for safe and civil
 
 We remove content that personally attacks, intimidates, shames, bullies, disparages other LinkedIn members, or is otherwise abusive or uncivil.
 
-### Examples of harassment or abusive content
+Examples of harassment or abusive content
 
 * Directing abusive language, including negative profanity, at other members
 * Insulting another member’s intelligence or mental capacity (e.g., calling other members “stupid,” “idiot,” “moron,” or “dumb”)
@@ -126,7 +126,7 @@ Violent and graphic content
 
 We remove depictions of extreme violence, along with image or video content that is excessively gory, gruesome, or disturbingly shocking.
 
-### Examples of violent and graphic content
+Examples of violent and graphic content
 
 * Depictions of mutilated and/or deceased persons or body parts (including scenes of crimes or accidents)
 * Blood, gore, and human or animal fluids or waste
@@ -151,7 +151,7 @@ Nudity and adult content
 
 We remove content containing nudity or sexual activity.
 
-### Examples of nudity and adult content
+Examples of nudity and adult content
 
 * Sexually gratifying content, including pornography, simulated sex acts, erotic literature, and other graphic depictions of sex acts performed alone or with others
 * Implied sex acts are activities that indicated by inference, association, or consequence rather than by direct depiction
@@ -166,7 +166,7 @@ Illegal, dangerous, and inappropriate commercial activity
 
 We don’t allow individuals or entities to engage in inappropriate or unsafe commercial transactions on our platform. We remove content that promotes, distributes, facilitates access to, or attempts to sell illegal or regulated goods and services.
 
-### Examples of illegal, dangerous, and inappropriate commercial content
+Examples of illegal, dangerous, and inappropriate commercial content
 
 * Providing direct-to-purchase links and/or private contact information to facilitate the sale of illegal or dangerous goods or services such as
 
@@ -192,7 +192,7 @@ Dangerous organizations and individuals
 
 We do not allow organizations or individuals that espouse violence on LinkedIn, including terrorist organizations, violent extremist groups, and individuals affiliated with such groups or activity. We also restrict profiles and pages associated with dangerous organizations and individuals regardless of whether they have posted violative content.
 
-### Examples of dangerous organizations and individuals content types
+Examples of dangerous organizations and individuals content types
 
 * Content that visually depicts acts or terrorism or that promotes or propagandizes terrorist groups, individuals, or activities
 * Glorification or incitement of dangerous organizations and individuals, acts of terror or violent extremism
@@ -211,7 +211,7 @@ False or misleading content
 
 It is a violation of [LinkedIn’s Professional Community Policies](https://www.linkedin.com/legal/professional-community-policies) to post false or misleading content. We remove specific claims, presented as fact, that are demonstrably false or substantially misleading. We also remove or label content that contains disputed claims relating to sensitive political or socially divisive topics.
 
-### Examples of false or misleading content
+Examples of false or misleading content
 
 * False claims that undermine trust and discourage participation in civic processes or misleads voters about the time, location, means, or eligibility requirements for voting
 * Claims that may induce panic or discourage others from taking safety precautions during an emergency, such as unfounded claims of threats, violence, or danger that could cause harm (e.g. looters are prevalent in an area subject to forest fires)
@@ -242,7 +242,7 @@ Scams and fraud content
 
 We don’t tolerate content intended to scam, defraud, or deceive others for monetary gain. We remove phishing links, malware, known or suspected scam content, and fraudulent content and permanently restrict the accounts of known fraudsters or scammers.
 
-### Examples of scams and fraud
+Examples of scams and fraud
 
 * Cash gifting schemes, including Pyramid or Ponzi schemes
 * Payday loan or advance payment scams
@@ -260,7 +260,7 @@ Hateful and derogatory content
 
 Hate speech, symbols, and groups are prohibited on LinkedIn. We remove content that attacks, denigrates, intimidates, dehumanizes, incites or threatens hatred, violence, prejudicial or discriminatory action against individuals or groups because of their actual or perceived race, ethnicity, national origin, caste, gender, gender identity, sexual orientation, religious affiliation, or disability status.
 
-### Examples of hateful and derogatory content
+Examples of hateful and derogatory content
 
 * Slurs and pejoratives used to demean others on the basis of their inherent traits
 * Promoting or expressing support for hate groups or ideology via symbol or otherwise
@@ -284,7 +284,7 @@ Sexual innuendos and unwanted advances
 
 Members come to LinkedIn to foster professional connections, learn new skills, and connect to economic opportunity, not to be sexually harassed or subjected to unwanted advances. We remove content that expresses physical or sexual attraction towards others, requests a romantic relationship, or subjects others to sexually suggestive or explicit content.
 
-### Examples of sexual innuendos and unwanted advances
+Examples of sexual innuendos and unwanted advances
 
 * Content that expresses an interest in pursuing romantic or sexual relationships, romantic connections, unwelcomed requests for dating, engagement, or marriage
 * Unsolicited praise or admiration directed at another member’s physical appearance including beauty, face, body, or sexuality
@@ -299,7 +299,7 @@ Violent and graphic content
 
 We remove depictions of extreme violence, along with image or video content that is excessively gory, gruesome, or disturbingly shocking.
 
-### Examples of violent and graphic content
+Examples of violent and graphic content
 
 * Depictions of mutilated and/or deceased persons or body parts (including scenes of crimes or accidents)
 * Blood, gore, and human or animal fluids or waste
@@ -324,7 +324,7 @@ Spam
 
 The quality of conversations on LinkedIn depends on healthy, relevant content. We may remove or limit the distribution of content designed to artificially increase engagement through misuse or misrepresentation of LinkedIn’s features.
 
-### Examples of spam
+Examples of spam
 
 * Emoji / reaction polls that artificially boost engagement
 * Posts that misrepresent the functionality of the LinkedIn platform (e.g. double-tap feature) to artificially increase engagement
