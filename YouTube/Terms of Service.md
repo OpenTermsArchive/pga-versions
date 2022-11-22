@@ -66,7 +66,7 @@ Thank you for using the YouTube platform and the products, services and features
 **Our Service**
 ---------------
 
-The Service allows you to discover, watch and share videos and other content, provides a forum for people to connect, inform, and inspire others across the globe, and acts as a distribution platform for original content creators and advertisers large and small. We provide lots of information about our products and how to use them in our [Help Center](https://support.google.com/youtube/). Amongst other things, you can find out about [YouTube Kids](https://support.google.com/youtubekids/), the [YouTube Partner Program](https://support.google.com/youtube/topic/9223152) and [YouTube Paid Memberships and Purchases](https://support.google.com/youtube/topic/9223117). You can also read all about enjoying content on [other devices](https://support.google.com/youtube/topic/9257096?ref_topic=9257500) [like your television, your games console, or even](https://support.google.com/youtube/topic/9257096?ref_topic=9257500) [Google Home](https://support.google.com/googlehome/answer/7029380).  
+The Service allows you to discover, watch and share videos and other content, provides a forum for people to connect, inform, and inspire others across the globe, and acts as a distribution platform for original content creators and advertisers large and small. We provide lots of information about our products and how to use them in our [Help Center](https://support.google.com/youtube/#topic=7505892). Amongst other things, you can find out about [YouTube Kids](https://support.google.com/youtubekids/#topic=6130504), the [YouTube Partner Program](https://support.google.com/youtube/topic/9223152) and [YouTube Paid Memberships and Purchases](https://support.google.com/youtube/topic/9223117). You can also read all about enjoying content on [other devices](https://support.google.com/youtube/topic/9257096?ref_topic=9257500) [like your television, your games console, or even](https://support.google.com/youtube/topic/9257096?ref_topic=9257500) [Google Home](https://support.google.com/googlehome/answer/7029380).  
 
 **Your Service Provider**
 -------------------------
@@ -357,11 +357,17 @@ Model withdrawal form
 
 **Country         Phone number**
 
+Åland Island        0800526683
+
 Austria                      0800-001-180          
 
 Belgium              0800-58-142        
 
 Bulgaria          0800-14-744
+
+Canary Islands        +34912158627
+
+Ceuta & Melilla        +34912158627
 
 Czechia         800-720-070
 
@@ -377,9 +383,19 @@ Finland                 0800-520-030
 
 France                 0805-98-03-38
 
+French Guiana        0805980338
+
+French Polynesia        +33185149665
+
+French Southern Territories        +33185149665
+
 Germany         0800-627-0502
 
+Gibraltar        +442076601216
+
 Greece                00800-4920-00536
+
+Guadeloupe        0805980338
 
 Hungary        06-80-200-148
 
@@ -399,7 +415,13 @@ Luxemburg        800-40005
 
 Malta                800-62-257
 
+Martinique        0805980338
+
+Mayotte                +33185149665
+
 Netherlands        0800-360-0010
+
+New Caledonia        +33185149665
 
 Norway                800-620-68
 
@@ -407,14 +429,28 @@ Poland                800-410-575
 
 Portugal        808-203-430
 
+Réunion        0805980338
+
 Romania        0800-672-350
 
 Slovakia         0800-500-932
 
 Slovenia        080-688-882
 
+St. Barthélemy        +33185149665
+
+St. Martin        +33185149665
+
 Spain                   900-906-451
 
+St. Pierre & Miquelon        +33185149665
+
+Svalbard & Jan Mayen        80062425
+
 Sweden             020-012-5241  
+
+Vatican City        800599102
+
+Wallis & Futuna        +33185149665
 
 #### Effective as of January 5, 2022 ([view previous version](https://www.youtube.com/t/terms?archive=20210601))
