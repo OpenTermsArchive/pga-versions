@@ -755,12 +755,12 @@ Content that is implicitly or indirectly offering or asking for sexual solicitat
 * **Criteria 1: Offer or ask**
     * Content that implicitly or indirectly (typically through providing a method of contact) offers or asks for sexual solicitation.
 * **Criteria 2: Suggestive Elements**
-    * Content that makes the aforementioned offer or ask using one of the following sexually suggestive elements:
-        * Contextually specific and commonly sexual emojis or emoji strings, or
-        * Regional sexualized slang, or
-        * Mentions or depictions of sexual activity (including hand drawn, digital, or real-world art) such as sexual roles, sex positions, fetish scenarios, state of arousal, act of sexual intercourse or activity (e.g. sexual penetration or self-pleasuring), or
-        * Poses.
-        * Audio of sexual activity or other content that violates the [Adult Nudity and Sexual Activity](https://transparency.fb.com/policies/community-standards/adult-nudity-sexual-activity/)
+    * Content that makes the aforementioned offer or ask using one or more of the following sexually suggestive elements:
+        * Regional sexualized slang,
+        * Mentions or depictions of sexual activity such as sexual roles, sex positions, fetish scenarios, state of arousal, act of sexual intercourse or activity (e.g. sexual penetration or self-pleasuring), commonly sexual emojis
+        * Including content (hand drawn, digital or real-world art) that depicts sexual activity as defined in [Adult Nudity and Sexual Activity policy](https://transparency.fb.com/policies/community-standards/adult-nudity-sexual-activity/)
+        * Poses,
+        * Audio of sexual activity or other content that violates the [Adult Nudity and Sexual Activity policy](https://transparency.fb.com/policies/community-standards/adult-nudity-sexual-activity/)
 
 An offer or ask for pornographic material (including, but not limited to, sharing of links to external pornographic websites)
 
@@ -1126,7 +1126,9 @@ Providing instructions on how to make or use explosives, unless there is clear c
 
 Any content containing statements of intent, calls for action, conditional or aspirational statements, or advocating for violence due to voting, voter registration or the administration or outcome of an election
 
-Statements of intent or advocacy, calls to action, or aspirational or conditional statements to bring weapons to locations, including but not limited to places of worship, educational facilities, polling places or locations used to count votes or administer an election (or encouraging others to do the same).
+Statements of intent or advocacy, calls to action, or aspirational or conditional statements to bring or take up armaments to locations (including but not limited to places of worship, educational facilities, polling places or locations used to count votes or administer an election) or locations where there are temporary signals of a heightened risk of violence or offline harm. This may be the case, for example, when there is a known protest and counter-protest planned or violence broke out at a protest in the same city within the last 7 days. This includes a visual of an armament or method that represents violence that targets these locations.
+
+Statements of intent or advocacy, calls to action, or aspirational or conditional statements to forcibly enter locations (including but not limited to places of worship, educational facilities, polling places or locations used to count votes or administer an election) where there are temporary signals of a heightened risk of violence or offline harm. This may be the case, for example, when there is a known protest and counter-protest planned or violence broke out at a protest in the same city within the last 7 days.
 
 #### For the following Community Standards, we require additional information and/or context to enforce:
 
@@ -1170,28 +1172,20 @@ Content targeting a person or group of people (including all groups except those
 
 * Violent speech or support in written or visual form
 * Dehumanizing speech or imagery in the form of comparisons, generalizations, or unqualified behavioral statements (in written or visual form) to or about:
-    * Insects.
-    * Animals that are culturally perceived as intellectually or physically inferior.
-    * Filth, bacteria, disease and feces.
-    * Sexual predator.
-    * Subhumanity.
-    * Violent and sexual criminals
+    * Insects (including but not limited to: cockroaches, locusts)
+    * Animals in general or specific types of animals that are culturally perceived as intellectually or physically inferior (including but not limited to: Black people and apes or ape-like creatures; Jewish people and rats; Muslim people and pigs; Mexican people and worms)
+    * Filth (including but not limited to: dirt, grime)
+    * Bacteria, viruses, or microbes
+    * Disease (including but not limited to: cancer, sexually transmitted diseases)
+    * Feces (including but not limited to: shit, crap)
+    * Subhumanity (including but not limited to: savages, devils, monsters, primitives)
+    * Sexual predators (including but not limited to: Muslim people having sex with goats or pigs)
+    * Violent criminals (including but not limited to: terrorists, murderers, members of hate or criminal organizations)
     * Other criminals (including but not limited to “thieves,” “bank robbers,” or saying “All \[protected characteristic or quasi-protected characteristic\] are ‘criminals’”).
-    * Statements denying existence.
+    * Certain objects (women as household objects or property or objects in general; Black people as farm equipment; transgender or non-binary people as “it”)
+    * Statements denying existence (including but not limited to: "\[protected characteristic(s) or quasi-protected characteristic\] do not exist", "no such thing as \[protected charactic(s) or quasi-protected characteristic\]" )
+    * Harmful stereotypes historically linked to intimidation, exclusion, or violence on the basis of a protected characteristic, such as Blackface; Holocaust denial; claims that Jewish people control financial, political, or media institutions; and references to Dalits as menial laborers
 * Mocking the concept, events or victims of hate crimes even if no real person is depicted in an image.
-* Designated dehumanizing comparisons, generalizations, or behavioral statements (in written or visual form) that include:
-    * Black people and apes or ape-like creatures.
-    * Black people and farm equipment.
-    * Caricatures of Black people in the form of blackface.
-    * Jewish people and rats.
-    * Jewish people running the world or controlling major institutions such as media networks, the economy or the government.
-    * Denying or distorting information about the Holocaust.
-    * Muslim people and pigs.
-    * Muslim person and sexual relations with goats or pigs.
-    * Mexican people and worm-like creatures.
-    * Women as household objects or referring to women as property or "objects".
-    * Transgender or non-binary people referred to as "it".
-    * Dalits, scheduled caste or ‘lower caste’ people as menial laborers.
 
 **Tier 2**
 
@@ -1558,5 +1552,6 @@ Imagery of animals in a ritual slaughter context showing dismemberment, or visib
 We remove:
 
 * Videos and photos that show the violent death of someone when a family member requests its removal.
+* Videos of violent death of humans where the violent death is not visible in the video but the audio is fully or partially captured and the death is confirmed by either a law enforcement record, death certificate, [Trusted Partner](https://transparency.fb.com/policies/improving/bringing-local-context) report or media report.
 
 Read lessRead more
