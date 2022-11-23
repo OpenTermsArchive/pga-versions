@@ -28,7 +28,7 @@ Effective as of 8 June 2022
 [](#1-about-this-policy)**1\. About this Policy**
 -------------------------------------------------
 
-This Policy describes how we process your personal data at USA Inc.
+This Policy describes how we process your personal data at Spotify USA Inc.
 
 It applies to your use of:
 
