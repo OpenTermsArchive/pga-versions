@@ -154,11 +154,8 @@ We remove content containing nudity or sexual activity.
 Examples of nudity and adult content
 
 * Sexually gratifying content, including pornography, simulated sex acts, erotic literature, and other graphic depictions of sex acts performed alone or with others
-    
 * Implied sex acts are activities that indicated by inference, association, or consequence rather than by direct depiction
-    
 * Full adult nudity or exposure of intimate body parts, including visible genitalia, buttocks, and breasts (excluding breastfeeding)
-    
 
 Do not share material depicting nudity or sexual activity. We don’t allow content that depicts exposed human genitalia, female breasts, and/or human buttocks. We also don’t allow content that depicts, describes, or facilitates access to sexually gratifying material. Content that depicts sexual activity is prohibited. Instances of Adult nudity that align with topics relevant to professional conversations on LinkedIn may be allowed when not gratuitous.
 
