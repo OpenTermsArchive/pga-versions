@@ -169,21 +169,24 @@ We don’t allow individuals or entities to engage in inappropriate or unsafe co
 Examples of illegal, dangerous, and inappropriate commercial content
 
 * Providing direct-to-purchase links and/or private contact information to facilitate the sale of illegal or dangerous goods or services such as
-
-* Weapons and firearms
-* Recreational drugs and paraphernalia
-* Prescription drugs and pharmaceuticals, subject to our [Advertising policies](https://www.linkedin.com/legal/ads-policy)
-* Alcohol and tobacco products
-* Human body parts, organs, and fluids
-* Live animals, livestock, or animal parts
-* Gambling sites and services
-* Counterfeit items
-* Pirated software and media
-* Fabricated official documents, scraped member data, and/or financial instruments
-
+    
+    * Weapons and firearms
+    * Recreational drugs and paraphernalia
+    * Prescription drugs and pharmaceuticals, subject to our [Advertising policies](https://www.linkedin.com/legal/ads-policy)
+    * Alcohol and tobacco products
+    * Human body parts, organs, and fluids
+    * Live animals, livestock, or animal parts
+    * Gambling sites and services
+    * Counterfeit items
+    * Pirated software and media
+    * Fabricated official documents, scraped member data, and/or financial instruments
+    
 * Any content that promotes or facilitates human trafficking, exploitation, or criminal sex acts, including escort, prostitution, or mail-order bride services
+    
 * Monetization and/or exploitation of a sensitive global event, such as famine, natural disaster, pandemic, or economic collapse
+    
 * Sweepstakes, giveaways, lotteries, and contests
+    
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
 
