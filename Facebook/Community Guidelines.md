@@ -21,21 +21,21 @@ The goal of our Community Standards is to create a place for expression and give
 
 Our commitment to expression is paramount, but we recognize the internet creates new and increased opportunities for abuse. For these reasons, when we limit expression, we do it in service of one or more of the following values:
 
-![](https://scontent-fra5-2.xx.fbcdn.net/v/t39.8562-6/136893606_849918935579882_213472362566516880_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6825c5&_nc_ohc=HqJRQNZsyiQAX-P6U9e&_nc_ht=scontent-fra5-2.xx&oh=00_AfC9CiYORo1Vi0Di_y_FFkWXIIG59OKaS-WW1URkr3MIYA&oe=6382284F)
+![](https://scontent-fra5-2.xx.fbcdn.net/v/t39.8562-6/136893606_849918935579882_213472362566516880_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6825c5&_nc_ohc=HqJRQNZsyiQAX-P6U9e&_nc_ht=scontent-fra5-2.xx&oh=00_AfD8Iv1RY-ZIPLiTSkukUaIs4B4i3oDc48JuZZm2X8G8Vw&oe=6384228F)
 
 AUTHENTICITY
 ------------
 
 We want to make sure the content people see on Facebook is authentic. We believe that authenticity creates a better environment for sharing, and that’s why we don’t want people using Facebook to misrepresent who they are or what they’re doing.
 
-![](https://scontent-fra5-2.xx.fbcdn.net/v/t39.8562-6/137256059_2800543870233431_455035967167740410_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6825c5&_nc_ohc=RrgbVZ8QAMcAX_oun6y&_nc_ht=scontent-fra5-2.xx&oh=00_AfAAb9dREtnO0BKglb9C80reJ1O8vX17UPjVhOKTzOcvUw&oe=63821FBE)
+![](https://scontent-fra5-2.xx.fbcdn.net/v/t39.8562-6/137256059_2800543870233431_455035967167740410_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6825c5&_nc_ohc=RrgbVZ8QAMcAX_oun6y&_nc_ht=scontent-fra5-2.xx&oh=00_AfBpu2P2D0bZ_EjWLWWELr92WDxFmQMS-hadPWp6eaZQNQ&oe=638419FE)
 
 SAFETY
 ------
 
 We’re committed to making Facebook a safe place. We remove content that could contribute to a risk of harm to the physical security of persons. Content that threatens people has the potential to intimidate, exclude or silence others and isn’t allowed on Facebook.
 
-![](https://scontent-fra5-2.xx.fbcdn.net/v/t39.8562-6/137145103_308994903869841_4708570808613729754_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6825c5&_nc_ohc=g1m03zQA1ZwAX-fBIT9&_nc_ht=scontent-fra5-2.xx&oh=00_AfA8O4sFR0nsg3h_qE4RCzkuf_lFzS8H2YE_ysK7oHeB3Q&oe=6382498C)
+![](https://scontent-fra5-2.xx.fbcdn.net/v/t39.8562-6/137145103_308994903869841_4708570808613729754_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6825c5&_nc_ohc=g1m03zQA1ZwAX-fBIT9&_nc_ht=scontent-fra5-2.xx&oh=00_AfBXPnkT9Me3fBC23ZZfcWDLf-mkE8FYNVlx4usjwcDY_w&oe=638443CC)
 
 PRIVACY
 -------
@@ -116,7 +116,9 @@ Providing instructions on how to make or use explosives, unless there is clear c
 
 Any content containing statements of intent, calls for action, conditional or aspirational statements, or advocating for violence due to voting, voter registration or the administration or outcome of an election
 
-Statements of intent or advocacy, calls to action, or aspirational or conditional statements to bring weapons to locations, including but not limited to places of worship, educational facilities, polling places or locations used to count votes or administer an election (or encouraging others to do the same).
+Statements of intent or advocacy, calls to action, or aspirational or conditional statements to bring or take up armaments to locations (including but not limited to places of worship, educational facilities, polling places or locations used to count votes or administer an election) or locations where there are temporary signals of a heightened risk of violence or offline harm. This may be the case, for example, when there is a known protest and counter-protest planned or violence broke out at a protest in the same city within the last 7 days. This includes a visual of an armament or method that represents violence that targets these locations.
+
+Statements of intent or advocacy, calls to action, or aspirational or conditional statements to forcibly enter locations (including but not limited to places of worship, educational facilities, polling places or locations used to count votes or administer an election) where there are temporary signals of a heightened risk of violence or offline harm. This may be the case, for example, when there is a known protest and counter-protest planned or violence broke out at a protest in the same city within the last 7 days.
 
 #### For the following Community Standards, we require additional information and/or context to enforce:
 
@@ -1068,28 +1070,20 @@ Content targeting a person or group of people (including all groups except those
 
 * Violent speech or support in written or visual form
 * Dehumanizing speech or imagery in the form of comparisons, generalizations, or unqualified behavioral statements (in written or visual form) to or about:
-    * Insects.
-    * Animals that are culturally perceived as intellectually or physically inferior.
-    * Filth, bacteria, disease and feces.
-    * Sexual predator.
-    * Subhumanity.
-    * Violent and sexual criminals
+    * Insects (including but not limited to: cockroaches, locusts)
+    * Animals in general or specific types of animals that are culturally perceived as intellectually or physically inferior (including but not limited to: Black people and apes or ape-like creatures; Jewish people and rats; Muslim people and pigs; Mexican people and worms)
+    * Filth (including but not limited to: dirt, grime)
+    * Bacteria, viruses, or microbes
+    * Disease (including but not limited to: cancer, sexually transmitted diseases)
+    * Feces (including but not limited to: shit, crap)
+    * Subhumanity (including but not limited to: savages, devils, monsters, primitives)
+    * Sexual predators (including but not limited to: Muslim people having sex with goats or pigs)
+    * Violent criminals (including but not limited to: terrorists, murderers, members of hate or criminal organizations)
     * Other criminals (including but not limited to “thieves,” “bank robbers,” or saying “All \[protected characteristic or quasi-protected characteristic\] are ‘criminals’”).
-    * Statements denying existence.
+    * Certain objects (women as household objects or property or objects in general; Black people as farm equipment; transgender or non-binary people as “it”)
+    * Statements denying existence (including but not limited to: "\[protected characteristic(s) or quasi-protected characteristic\] do not exist", "no such thing as \[protected charactic(s) or quasi-protected characteristic\]" )
+    * Harmful stereotypes historically linked to intimidation, exclusion, or violence on the basis of a protected characteristic, such as Blackface; Holocaust denial; claims that Jewish people control financial, political, or media institutions; and references to Dalits as menial laborers
 * Mocking the concept, events or victims of hate crimes even if no real person is depicted in an image.
-* Designated dehumanizing comparisons, generalizations, or behavioral statements (in written or visual form) that include:
-    * Black people and apes or ape-like creatures.
-    * Black people and farm equipment.
-    * Caricatures of Black people in the form of blackface.
-    * Jewish people and rats.
-    * Jewish people running the world or controlling major institutions such as media networks, the economy or the government.
-    * Denying or distorting information about the Holocaust.
-    * Muslim people and pigs.
-    * Muslim person and sexual relations with goats or pigs.
-    * Mexican people and worm-like creatures.
-    * Women as household objects or referring to women as property or "objects".
-    * Transgender or non-binary people referred to as "it".
-    * Dalits, scheduled caste or ‘lower caste’ people as menial laborers.
 
 **Tier 2**
 
@@ -1243,6 +1237,7 @@ Imagery of animals in a ritual slaughter context showing dismemberment, or visib
 We remove:
 
 * Videos and photos that show the violent death of someone when a family member requests its removal.
+* Videos of violent death of humans where the violent death is not visible in the video but the audio is fully or partially captured and the death is confirmed by either a law enforcement record, death certificate, [Trusted Partner](https://transparency.fb.com/policies/improving/bringing-local-context) report or media report.
 
 Read lessRead more
 
@@ -1338,12 +1333,12 @@ Content that is implicitly or indirectly offering or asking for sexual solicitat
 * **Criteria 1: Offer or ask**
     * Content that implicitly or indirectly (typically through providing a method of contact) offers or asks for sexual solicitation.
 * **Criteria 2: Suggestive Elements**
-    * Content that makes the aforementioned offer or ask using one of the following sexually suggestive elements:
-        * Contextually specific and commonly sexual emojis or emoji strings, or
-        * Regional sexualized slang, or
-        * Mentions or depictions of sexual activity (including hand drawn, digital, or real-world art) such as sexual roles, sex positions, fetish scenarios, state of arousal, act of sexual intercourse or activity (e.g. sexual penetration or self-pleasuring), or
-        * Poses.
-        * Audio of sexual activity or other content that violates the [Adult Nudity and Sexual Activity](https://transparency.fb.com/policies/community-standards/adult-nudity-sexual-activity/)
+    * Content that makes the aforementioned offer or ask using one or more of the following sexually suggestive elements:
+        * Regional sexualized slang,
+        * Mentions or depictions of sexual activity such as sexual roles, sex positions, fetish scenarios, state of arousal, act of sexual intercourse or activity (e.g. sexual penetration or self-pleasuring), commonly sexual emojis
+        * Including content (hand drawn, digital or real-world art) that depicts sexual activity as defined in [Adult Nudity and Sexual Activity policy](https://transparency.fb.com/policies/community-standards/adult-nudity-sexual-activity/)
+        * Poses,
+        * Audio of sexual activity or other content that violates the [Adult Nudity and Sexual Activity policy](https://transparency.fb.com/policies/community-standards/adult-nudity-sexual-activity/)
 
 An offer or ask for pornographic material (including, but not limited to, sharing of links to external pornographic websites)
 
@@ -1550,7 +1545,7 @@ Memorialization
 
 #### Policy Rationale
 
-When someone passes away, friends and family can request that we [memorialize](https://www.facebook.com/help/150486848354038?ref=ccs) the Facebook account. Once memorialized, the word "Remembering" appears above the name on the person's profile so the account is now a memorial site and protects against attempted logins and fraudulent activity. To respect the choices someone made while alive, we aim to preserve their account after they pass away.
+When someone passes away, Facebook friends and family can request that we [memorialize](https://www.facebook.com/help/150486848354038?ref=ccs) the Facebook account. Once memorialized, the word "Remembering" appears above the name on the person's profile so the account is now a memorial site and protects against attempted logins and fraudulent activity. To respect the choices someone made while alive, we aim to preserve their account after they pass away.
 
 We have also made it possible for people to identify a [legacy contact](https://www.facebook.com/help/1568013990080948?ref=ccs) to look after their account after they pass away. To support the bereaved, in some instances we may remove or change certain content when the legacy contact or family members request it.
 
