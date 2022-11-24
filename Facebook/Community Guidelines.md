@@ -92,7 +92,7 @@ Threats that lead to serious injury (mid-severity violence) and admission of pas
 * Statements advocating violence, or
 * Calls for mid-severity violence including content where no target is specified but a symbol represents the target, or
 * Aspirational or conditional statements to commit violence, or
-* Statements admitting to committing mid-severity violence except when shared in a context of redemption, self-defene, fight-sports context or when committed by law enforcement, military or state security personnel.
+* Statements admitting to committing mid-severity violence except when shared in a context of redemption, self-defense, fight-sports context or when committed by law enforcement, military or state security personnel.
 
 Content about other target(s) apart from private individuals, minor public figures, high-risk persons or high-risk groups and any credible:
 
