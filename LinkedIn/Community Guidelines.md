@@ -287,10 +287,15 @@ Members come to LinkedIn to foster professional connections, learn new skills, a
 Examples of sexual innuendos and unwanted advances
 
 * Content that expresses an interest in pursuing romantic or sexual relationships, romantic connections, unwelcomed requests for dating, engagement, or marriage
+    
 * Unsolicited praise or admiration directed at another member’s physical appearance including beauty, face, body, or sexuality
+    
 * Posting or sharing jokes, memes, emojis, or symbols with overt sexual connotations or otherwise commonly associated with sex acts or genitalia
+    
 * Posting or sharing sexually explicit media or language, including pornography, sexual cartoons, depictions of sex acts, or genitalia
+    
 * Statements like “you are pretty,” “we should go on a date,” “your eyes are sexy,” or any other unwanted advances of expressions of desire are likely to violate this policy
+    
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
 
