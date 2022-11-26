@@ -129,20 +129,16 @@ We remove depictions of extreme violence, along with image or video content that
 Examples of violent and graphic content
 
 * Depictions of mutilated and/or deceased persons or body parts (including scenes of crimes or accidents)
-    
 * Blood, gore, and human or animal fluids or waste
-    
 * Depictions of animal cruelty
-    
 * Realistic depictions of severe physical violence against a human being, including:
-    
-    * Murder or attempted murder
-    * Rape
-    * Torture
-    * Beatings
-    * Mass shootings
-    * Extreme brutality
-    
+
+* Murder or attempted murder
+* Rape
+* Torture
+* Beatings
+* Mass shootings
+* Extreme brutality
 
 Conversations on LinkedIn are often reflective of the world around us; which means that at any given time, our global member base may be impacted by military conflict, state actor violence, natural disasters, or catastrophic incidents. In cases where violent or graphic content is shared in connection with a newsworthy event, we may label such content instead of removing it from LinkedIn.
 
@@ -249,17 +245,11 @@ We don’t tolerate content intended to scam, defraud, or deceive others for mon
 Examples of scams and fraud
 
 * Cash gifting schemes, including Pyramid or Ponzi schemes
-    
 * Payday loan or advance payment scams
-    
 * Cash flips, "money muling", and investment scams promising high rates of return
-    
 * Individual requests for payment, loans, and financial details, through public content or private messaging, made on false or misleading premises with the intent to defraud
-    
 * Phishing attempts, including links posted in unpaid Live Events, collecting member payment details for fraudulent purposes
-    
 * Suspicious job posts, such as those advertising “too good to be true” compensation and benefits
-    
 
 We allow members to raise awareness and educate others about scams, as well as condemn fraudulent activities. However, we’ll remove such content when it contains sensitive information, such as personally identifiable information, or functional phishing, malware, or scam links.
 
@@ -312,20 +302,16 @@ We remove depictions of extreme violence, along with image or video content that
 Examples of violent and graphic content
 
 * Depictions of mutilated and/or deceased persons or body parts (including scenes of crimes or accidents)
-    
 * Blood, gore, and human or animal fluids or waste
-    
 * Depictions of animal cruelty
-    
 * Realistic depictions of severe physical violence against a human being, including:
-    
-    * Murder or attempted murder
-    * Rape
-    * Torture
-    * Beatings
-    * Mass shootings
-    * Extreme brutality
-    
+
+* Murder or attempted murder
+* Rape
+* Torture
+* Beatings
+* Mass shootings
+* Extreme brutality
 
 Conversations on LinkedIn are often reflective of the world around us; which means that at any given time, our global member base may be impacted by military conflict, state actor violence, natural disasters, or catastrophic incidents. In cases where violent or graphic content is shared in connection with a newsworthy event, we may label such content instead of removing it from LinkedIn.
 
