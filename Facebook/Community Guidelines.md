@@ -42,7 +42,7 @@ PRIVACY
 
 We’re committed to protecting personal privacy and information. Privacy gives people the freedom to be themselves, choose how and when to share on Facebook and connect more easily.
 
-![](https://scontent-fra5-2.xx.fbcdn.net/v/t39.8562-6/137151366_203760844736656_1882032595123025998_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6825c5&_nc_ohc=kIr9774LjkwAX-Y2L5Z&_nc_ht=scontent-fra5-2.xx&oh=00_AfDHRfEp7nRiRLLwHKVPFSjlPvWnU32NFd1Wuc8tEsmqtw&oe=6384FECB)
+![](https://scontent-fra5-2.xx.fbcdn.net/v/t39.8562-6/137151366_203760844736656_1882032595123025998_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6825c5&_nc_ohc=kIr9774LjkwAX-Y2L5Z&_nc_ht=scontent-fra5-2.xx&oh=00_AfA6Zi53ayVjFyenbb0f_t6emGd0ZLr7nHYx2i4htMEmMw&oe=6386F90B)
 
 DIGNITY
 -------
