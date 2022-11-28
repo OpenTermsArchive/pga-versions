@@ -107,21 +107,13 @@ We remove content that personally attacks, intimidates, shames, bullies, dispara
 Examples of harassment or abusive content
 
 * Directing abusive language, including negative profanity, at other members
-    
 * Insulting another member’s intelligence or mental capacity (e.g., calling other members “stupid,” “idiot,” “moron,” or “dumb”)
-    
 * Disparaging another member’s appearance, including perceived physical attractiveness, weight, height, or other bodily attributes
-    
 * Wishing death or suffering upon other members or their families
-    
 * “Doxxing” or sharing personal information about others
-    
 * Trolling, pestering, and otherwise repetitive or disruptive behavior that undermines constructive conversations between members
-    
 * Comparing people or groups to Nazis, hate or extremist groups, or sexual predators
-    
 * Calling for social or political exclusion, deportation, or banishment of any individual or group because of their political (or other non-inherent) beliefs or affiliation
-    
 
 We do allow for disagreements, commentary or criticism on policies and matters of public interest or organizations as long as they do not insult or vilify. Members may express heightened negative criticism and disapproval towards public figures, such as politicians, celebrities, prominent business leaders, or other individuals voluntarily in the public eye.
 
@@ -137,20 +129,16 @@ We remove depictions of extreme violence, along with image or video content that
 Examples of violent and graphic content
 
 * Depictions of mutilated and/or deceased persons or body parts (including scenes of crimes or accidents)
-    
 * Blood, gore, and human or animal fluids or waste
-    
 * Depictions of animal cruelty
-    
 * Realistic depictions of severe physical violence against a human being, including:
-    
-    * Murder or attempted murder
-    * Rape
-    * Torture
-    * Beatings
-    * Mass shootings
-    * Extreme brutality
-    
+
+* Murder or attempted murder
+* Rape
+* Torture
+* Beatings
+* Mass shootings
+* Extreme brutality
 
 Conversations on LinkedIn are often reflective of the world around us; which means that at any given time, our global member base may be impacted by military conflict, state actor violence, natural disasters, or catastrophic incidents. In cases where violent or graphic content is shared in connection with a newsworthy event, we may label such content instead of removing it from LinkedIn.
 
@@ -226,33 +214,26 @@ It is a violation of [LinkedIn’s Professional Community Policies](https://www.
 Examples of false or misleading content
 
 * False claims that undermine trust and discourage participation in civic processes or misleads voters about the time, location, means, or eligibility requirements for voting
-    
 * Claims that may induce panic or discourage others from taking safety precautions during an emergency, such as unfounded claims of threats, violence, or danger that could cause harm (e.g. looters are prevalent in an area subject to forest fires)
-    
 * Content inaccurately presented as evidence of human rights abuses or military conflict in a specific location that is actually content from another location, event, or timeframe
-    
 * Synthetic or manipulated media, such as doctored images or videos that distort real-life events and likely to cause harm to the subject, other individuals or groups, or society at large
-    
 * Content that promotes harmful remedies or miracle cures, or otherwise discourages individuals from seeking or heeding professional medical advice
-    
 * Claims or statements that directly contradict medical guidance from local health authorities or the World Health Organization (WHO)
-    
 * Medical misinformation about the treatment, prevention, variants, and transmission of COVID-19, including claims that:
-    
-    * Medical or non-medical grade masks cause negative physical side effects
-    * Ivermectin or Hydroxychloroquine are effective in the treatment or prevention of COVID-19
-    * Approved COVID-19 vaccines may cause death, infertility, miscarriage, autism, or contraction of infectious diseases, including COVID-19
-    * Approved COVID-19 vaccines implant tracking/surveillance devices or cause magnetism in patients
-    * Those vaccinated against COVID-19 are more likely to spread the virus than unvaccinated individuals
-    * COVID-19 was developed with funding or support from specific world leaders, public figures, or global health authorities
-    
+
+* Medical or non-medical grade masks cause negative physical side effects
+* Ivermectin or Hydroxychloroquine are effective in the treatment or prevention of COVID-19
+* Approved COVID-19 vaccines may cause death, infertility, miscarriage, autism, or contraction of infectious diseases, including COVID-19
+* Approved COVID-19 vaccines implant tracking/surveillance devices or cause magnetism in patients
+* Those vaccinated against COVID-19 are more likely to spread the virus than unvaccinated individuals
+* COVID-19 was developed with funding or support from specific world leaders, public figures, or global health authorities
+
 * Medical misinformation about the prevalence or severity of COVID-19, including claims that:
-    
-    * COVID-19 does not exist or is a hoax
-    * The virus and all variants have been eradicated or that the pandemic has ended
-    * The symptoms, mortality rate, or infection rate of COVID-19 are no more severe than the seasonal flu
-    * No one has died or become severely ill after contracting COVID-19
-    
+
+* COVID-19 does not exist or is a hoax
+* The virus and all variants have been eradicated or that the pandemic has ended
+* The symptoms, mortality rate, or infection rate of COVID-19 are no more severe than the seasonal flu
+* No one has died or become severely ill after contracting COVID-19
 
 To learn more about when we label potentially false or misleading content, rather than remove it, see [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
 
@@ -321,20 +302,16 @@ We remove depictions of extreme violence, along with image or video content that
 Examples of violent and graphic content
 
 * Depictions of mutilated and/or deceased persons or body parts (including scenes of crimes or accidents)
-    
 * Blood, gore, and human or animal fluids or waste
-    
 * Depictions of animal cruelty
-    
 * Realistic depictions of severe physical violence against a human being, including:
-    
-    * Murder or attempted murder
-    * Rape
-    * Torture
-    * Beatings
-    * Mass shootings
-    * Extreme brutality
-    
+
+* Murder or attempted murder
+* Rape
+* Torture
+* Beatings
+* Mass shootings
+* Extreme brutality
 
 Conversations on LinkedIn are often reflective of the world around us; which means that at any given time, our global member base may be impacted by military conflict, state actor violence, natural disasters, or catastrophic incidents. In cases where violent or graphic content is shared in connection with a newsworthy event, we may label such content instead of removing it from LinkedIn.
 
