@@ -15,7 +15,7 @@ TikTok is a platform for creating and sharing short-form videos (the “**Platfo
 **What Information We Collect**
 -------------------------------
 
-We collect three categories of information: [Information You Provide](#info-you-provide), [Automatically Collected Information](#auto-collect-info), and [Information From Other Sources](#info-from-other). More detail about each of the categories is provided below.
+We collect three categories of information: [Information You Provide](#user-content-info-you-provide), [Automatically Collected Information](#user-content-auto-collect-info), and [Information From Other Sources](#user-content-info-from-other). More detail about each of the categories is provided below.
 
 ### **Information You Provide**
 
