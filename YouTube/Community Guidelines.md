@@ -1005,7 +1005,6 @@ Don’t post content on YouTube if it fits any of the descriptions noted below.
 * **Instructions to kill or harm**: Showing viewers how to perform activities meant to kill or maim others. For example, giving instructions to build a bomb meant to injure or kill others.
 * **Hard drug use or creation**: Content that depicts abuse of or giving instructions on how to create hard drugs such as cocaine or opioids. Hard drugs are defined as drugs that can (mostly) lead to physical addiction.
 * **Eating Disorders**: Content that praises, glorifies, or encourages viewers to imitate anorexia or other eating disorders. Eating disorders are characterized by abnormal or disturbed eating habits which negatively affect a person's health (including eating non-food items).
-* **Violent Events**: Promoting or glorifying violent tragedies, such as school shootings.
 * **Instructional theft or cheating**: Showing viewers how to steal tangible goods or promoting dishonest behavior.
 * **Hacking**: Demonstrating how to use computers or information technology with the intent to steal credentials, compromise personal data or cause serious harm to others such as (but not limited to) hacking into social media accounts.
 * **Bypassing payment for digital content or services:** Showing viewers how to use apps, websites, or other information technology to gain unauthorized access to audio content, audiovisual content, full video games, software, or streaming services that normally require payment.
@@ -1042,28 +1041,28 @@ This policy applies to videos, video descriptions, comments, live streams, and a
 Extremely dangerous challenges
 ------------------------------
 
-The following types of content are not allowed on YouTube. This isn't a complete list. 
+The following types of content are not allowed on YouTube. This isn't a complete list.
 
 * **Asphyxiation**: Any activity that prevents breathing or can lead to suffocation like:
     * Choking, drowning, or hanging games
     * Eating non-food items
-* **Misuse of weapons:** Using weapons, like guns or knives, without proper safety precautions or in a way that could cause physical harm. Includes the "No Lackin'" challenge. 
-* **Ingesting Harmful Substances:** Eating, consuming, or inserting non-food objects or chemicals that may cause illness or poisoning. Includes detergent-eating challenges. 
-* **Burning, Freezing & Electrocution**: Activities with inherent risk of severe burns, freezing, frostbite, or electrocution. Includes the fire challenge and hot water challenge. 
+* **Misuse of weapons:** Using weapons, like guns or knives, without proper safety precautions or in a way that could cause physical harm. Includes the "No Lackin'" challenge.
+* **Ingesting Harmful Substances:** Eating, consuming, or inserting non-food objects or chemicals that may cause illness or poisoning. Includes detergent-eating challenges.
+* **Burning, Freezing & Electrocution**: Activities with inherent risk of severe burns, freezing, frostbite, or electrocution. Includes the fire challenge and hot water challenge.
 * **Mutilation & Blunt Force Trauma**: Activities like:
     * Self-mutilation
     * Abstaining from normal health practices
     * Falling, impalement, collision, blunt force trauma, or crushing
-* **Challenges featuring children:** Showing minors drinking alcohol, using vaporizers, e-cigarettes, tobacco or marijuana, or misusing fireworks. 
+* **Challenges featuring children:** Showing minors drinking alcohol, using vaporizers, e-cigarettes, tobacco or marijuana, or misusing fireworks.
 
-**Note:** We may age-restrict content that explains this type of content in an educational or documentary way. For example, a documentary about self-mutilation may be allowed but it won't be available to all audiences. 
+**Note:** We may age-restrict content that explains this type of content in an educational or documentary way. For example, a documentary about self-mutilation may be allowed but it won't be available to all audiences.
 
-Dangerous or threatening pranks 
---------------------------------
+Dangerous or threatening pranks
+-------------------------------
 
-The following types of content are not allowed on YouTube. This isn't a complete list. 
+The following types of content are not allowed on YouTube. This isn't a complete list.
 
-* **Intentional physical harm:** Inflicting physical harm on unsuspecting prank victims through actions like punching attacks, drugging food or drinks with laxatives, or shock pranks. 
+* **Intentional physical harm:** Inflicting physical harm on unsuspecting prank victims through actions like punching attacks, drugging food or drinks with laxatives, or shock pranks.
 * **Making someone feel in immediate danger:** Tricking others into believing they're in real danger, even if no physical harm comes to them. This includes:
     * Threats with weapons
     * Bomb scares
@@ -1076,10 +1075,10 @@ The following types of content are not allowed on YouTube. This isn't a complet
     * Pretending that a parent or caregiver will abandon a child
     * Showing a parent or caregiver verbally abuse or shame a child
 
-**Note:** We may age-restrict pranks involving adults that don't violate our policies. For example, a prank with a realistic looking injury may be allowed. But, it won't be available to all audiences. 
+**Note:** We may age-restrict pranks involving adults that don't violate our policies. For example, a prank with a realistic looking injury may be allowed. But, it won't be available to all audiences.
 
-Violent events or instructions to harm 
----------------------------------------
+Violent events or instructions to harm
+--------------------------------------
 
 The following types of content are not allowed on YouTube. This isn't a complete list.
 
@@ -1088,12 +1087,12 @@ The following types of content are not allowed on YouTube. This isn't a complete
     * Package bombs
     * Explosive vests
     * Molotov cocktails
-* **Violence involving children:** Any real fights or violence between children. 
+* **Violence involving children:** Any real fights or violence between children.
 
-**Note:** We may age-restrict this type of content if it's documentary or educational. For example, content that gives medical, academic, historical, philosophical, or news perspective on a violent act may be allowed. But, it won't be available to all audiences. 
+**Note:** We may age-restrict this type of content if it's documentary or educational. For example, content that gives medical, academic, historical, philosophical, or news perspective on a violent act may be allowed. But, it won't be available to all audiences.
 
-Drug use 
----------
+Drug use
+--------
 
 The following types of content are not allowed on YouTube. This isn't a complete list.
 
@@ -1246,14 +1245,14 @@ If we think your content comes close to hate speech, we may limit YouTube featur
 * [Recent transparency report](https://transparencyreport.google.com/youtube-policy/removals)
 * [Limited features for certain videos](https://support.google.com/youtube/answer/7458465)
 
-Violent criminal organizations policy
-=====================================
+Violent extremist or criminal organizations policy
+==================================================
 
   
 
 The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. **T****ake the time to carefully read the policy below**. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
 
-Content intended to praise, promote, or aid violent criminal organizations is not allowed on YouTube. These organizations are not allowed to use YouTube for any purpose, including recruitment.
+Content intended to praise, promote, or aid violent extremist or criminal organizations is not allowed on YouTube. These organizations are not allowed to use YouTube for any purpose, including recruitment.
 
 If you find content that violates this policy, report it. Instructions for reporting violations of our Community Guidelines [are available here](https://support.google.com/youtube/answer/2802027). If you've found a few videos or comments that you would like to report, you can [report the channel](https://support.google.com/youtube/answer/2802027#report_channel).
 
@@ -1266,12 +1265,13 @@ What this means for you
 
 Don’t post content on YouTube if it fits any of the descriptions noted below.
 
-* Content produced by violent criminal or terrorist organizations
-* Content praising or memorializing prominent terrorist or criminal figures in order to encourage others to carry out acts of violence
-* Content praising or justifying violent acts carried out by violent criminal or terrorist organizations
-* Content aimed at recruiting new members to violent criminal or terrorist organizations
-* Content depicting hostages or posted with the intent to solicit, threaten, or intimidate on behalf of a violent criminal or terrorist organization
-* Content that depicts the insignia, logos, or symbols of violent criminal or terrorist organizations in order to praise or promote them
+* Content produced by violent extremist, criminal, or terrorist organizations
+* Content praising or memorializing prominent terrorist, extremist, or criminal figures in order to encourage others to carry out acts of violence
+* Content praising or justifying violent acts carried out by violent extremist, criminal, or terrorist organizations
+* Content aimed at recruiting new members to violent extremist, criminal, or terrorist organizations
+* Content depicting hostages or posted with the intent to solicit, threaten, or intimidate on behalf of a criminal, extremist, or terrorist organization
+* Content that depicts the insignia, logos, or symbols of violent extremist, criminal, or terrorist organizations in order to praise or promote them
+* Content that glorifies or promotes violent tragedies, such as school shootings
 
 If posting content related to terrorism or crime for an educational, documentary, scientific, or artistic purpose, be mindful to provide enough information in the video or audio itself so viewers understand the context. Graphic or controversial footage with sufficient context may be subject to age-restrictions or a warning screen.
 
@@ -1282,11 +1282,13 @@ Examples
 
 Here are some examples of content that’s not allowed on YouTube.
 
-* Raw and unmodified reuploads of content created by terrorist or criminal organizations
+* Raw and unmodified reuploads of content created by terrorist, criminal, or extremist organizations
 * Celebrating terrorist leaders or their crimes in songs or memorials
 * Celebrating terrorist or criminal organizations in songs or memorials
 * Content directing users to sites that espouse terrorist ideology, are used to disseminate prohibited content, or are used for recruitment
 * Video game content which has been developed or modified (“modded”) to glorify a violent event, its perpetrators, or support violent criminal or terrorist organizations
+* Glorifying violence against civilians
+* Fundraising for violent criminal, extremist, or terrorist organizations
 
 Please remember these are just some examples, and don't post content if you think it might violate this policy.
 
