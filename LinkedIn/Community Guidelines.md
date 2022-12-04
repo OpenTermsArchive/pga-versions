@@ -166,8 +166,11 @@ We remove content containing nudity or sexual activity.
 Examples of nudity and adult content
 
 * Sexually gratifying content, including pornography, simulated sex acts, erotic literature, and other graphic depictions of sex acts performed alone or with others
+    
 * Implied sex acts are activities that indicated by inference, association, or consequence rather than by direct depiction
+    
 * Full adult nudity or exposure of intimate body parts, including visible genitalia, buttocks, and breasts (excluding breastfeeding)
+    
 
 Do not share material depicting nudity or sexual activity. We don’t allow content that depicts exposed human genitalia, female breasts, and/or human buttocks. We also don’t allow content that depicts, describes, or facilitates access to sexually gratifying material. Content that depicts sexual activity is prohibited. Instances of Adult nudity that align with topics relevant to professional conversations on LinkedIn may be allowed when not gratuitous.
 
@@ -226,33 +229,26 @@ It is a violation of [LinkedIn’s Professional Community Policies](https://www.
 Examples of false or misleading content
 
 * False claims that undermine trust and discourage participation in civic processes or misleads voters about the time, location, means, or eligibility requirements for voting
-    
 * Claims that may induce panic or discourage others from taking safety precautions during an emergency, such as unfounded claims of threats, violence, or danger that could cause harm (e.g. looters are prevalent in an area subject to forest fires)
-    
 * Content inaccurately presented as evidence of human rights abuses or military conflict in a specific location that is actually content from another location, event, or timeframe
-    
 * Synthetic or manipulated media, such as doctored images or videos that distort real-life events and likely to cause harm to the subject, other individuals or groups, or society at large
-    
 * Content that promotes harmful remedies or miracle cures, or otherwise discourages individuals from seeking or heeding professional medical advice
-    
 * Claims or statements that directly contradict medical guidance from local health authorities or the World Health Organization (WHO)
-    
 * Medical misinformation about the treatment, prevention, variants, and transmission of COVID-19, including claims that:
-    
-    * Medical or non-medical grade masks cause negative physical side effects
-    * Ivermectin or Hydroxychloroquine are effective in the treatment or prevention of COVID-19
-    * Approved COVID-19 vaccines may cause death, infertility, miscarriage, autism, or contraction of infectious diseases, including COVID-19
-    * Approved COVID-19 vaccines implant tracking/surveillance devices or cause magnetism in patients
-    * Those vaccinated against COVID-19 are more likely to spread the virus than unvaccinated individuals
-    * COVID-19 was developed with funding or support from specific world leaders, public figures, or global health authorities
-    
+
+* Medical or non-medical grade masks cause negative physical side effects
+* Ivermectin or Hydroxychloroquine are effective in the treatment or prevention of COVID-19
+* Approved COVID-19 vaccines may cause death, infertility, miscarriage, autism, or contraction of infectious diseases, including COVID-19
+* Approved COVID-19 vaccines implant tracking/surveillance devices or cause magnetism in patients
+* Those vaccinated against COVID-19 are more likely to spread the virus than unvaccinated individuals
+* COVID-19 was developed with funding or support from specific world leaders, public figures, or global health authorities
+
 * Medical misinformation about the prevalence or severity of COVID-19, including claims that:
-    
-    * COVID-19 does not exist or is a hoax
-    * The virus and all variants have been eradicated or that the pandemic has ended
-    * The symptoms, mortality rate, or infection rate of COVID-19 are no more severe than the seasonal flu
-    * No one has died or become severely ill after contracting COVID-19
-    
+
+* COVID-19 does not exist or is a hoax
+* The virus and all variants have been eradicated or that the pandemic has ended
+* The symptoms, mortality rate, or infection rate of COVID-19 are no more severe than the seasonal flu
+* No one has died or become severely ill after contracting COVID-19
 
 To learn more about when we label potentially false or misleading content, rather than remove it, see [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
 
@@ -264,11 +260,17 @@ We don’t tolerate content intended to scam, defraud, or deceive others for mon
 Examples of scams and fraud
 
 * Cash gifting schemes, including Pyramid or Ponzi schemes
+    
 * Payday loan or advance payment scams
+    
 * Cash flips, "money muling", and investment scams promising high rates of return
+    
 * Individual requests for payment, loans, and financial details, through public content or private messaging, made on false or misleading premises with the intent to defraud
+    
 * Phishing attempts, including links posted in unpaid Live Events, collecting member payment details for fraudulent purposes
+    
 * Suspicious job posts, such as those advertising “too good to be true” compensation and benefits
+    
 
 We allow members to raise awareness and educate others about scams, as well as condemn fraudulent activities. However, we’ll remove such content when it contains sensitive information, such as personally identifiable information, or functional phishing, malware, or scam links.
 
@@ -282,15 +284,25 @@ Hate speech, symbols, and groups are prohibited on LinkedIn. We remove content t
 Examples of hateful and derogatory content
 
 * Slurs and pejoratives used to demean others on the basis of their inherent traits
+    
 * Promoting or expressing support for hate groups or ideology via symbol or otherwise
+    
 * Expressions of disgust towards or superiority over people or groups on the basis of inherent traits
+    
 * Misgendering or deadnaming of transgender individuals
+    
 * Calls for exclusion or banishment of a specific group based on inherent traits
+    
 * Wishing that members of an inherent group die or suffer as a result of violence or serious disease
+    
 * Negative stereotypes, rooted in inherent traits, that reinforce harmful attitudes or behaviors against individuals or groups
+    
 * Subhuman characterizations, including comparisons to insects, animals, filth, disease, and denial of existence
+    
 * Holocaust denial or misappropriation of Holocaust symbology
+    
 * Denial of slavery in the United States
+    
 
 We may label rather than remove content that evokes hateful rhetoric (including slurs) in the context of counter speech, reclamation, or members’ personal experiences with racism, sexism, ableism, and other forms of prejudice or discrimination.
 
@@ -306,15 +318,10 @@ Members come to LinkedIn to foster professional connections, learn new skills, a
 Examples of sexual innuendos and unwanted advances
 
 * Content that expresses an interest in pursuing romantic or sexual relationships, romantic connections, unwelcomed requests for dating, engagement, or marriage
-    
 * Unsolicited praise or admiration directed at another member’s physical appearance including beauty, face, body, or sexuality
-    
 * Posting or sharing jokes, memes, emojis, or symbols with overt sexual connotations or otherwise commonly associated with sex acts or genitalia
-    
 * Posting or sharing sexually explicit media or language, including pornography, sexual cartoons, depictions of sex acts, or genitalia
-    
 * Statements like “you are pretty,” “we should go on a date,” “your eyes are sexy,” or any other unwanted advances of expressions of desire are likely to violate this policy
-    
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
 
