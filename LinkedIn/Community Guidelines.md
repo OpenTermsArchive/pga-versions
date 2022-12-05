@@ -107,21 +107,13 @@ We remove content that personally attacks, intimidates, shames, bullies, dispara
 Examples of harassment or abusive content
 
 * Directing abusive language, including negative profanity, at other members
-    
 * Insulting another member’s intelligence or mental capacity (e.g., calling other members “stupid,” “idiot,” “moron,” or “dumb”)
-    
 * Disparaging another member’s appearance, including perceived physical attractiveness, weight, height, or other bodily attributes
-    
 * Wishing death or suffering upon other members or their families
-    
 * “Doxxing” or sharing personal information about others
-    
 * Trolling, pestering, and otherwise repetitive or disruptive behavior that undermines constructive conversations between members
-    
 * Comparing people or groups to Nazis, hate or extremist groups, or sexual predators
-    
 * Calling for social or political exclusion, deportation, or banishment of any individual or group because of their political (or other non-inherent) beliefs or affiliation
-    
 
 We do allow for disagreements, commentary or criticism on policies and matters of public interest or organizations as long as they do not insult or vilify. Members may express heightened negative criticism and disapproval towards public figures, such as politicians, celebrities, prominent business leaders, or other individuals voluntarily in the public eye.
 
@@ -177,24 +169,21 @@ We don’t allow individuals or entities to engage in inappropriate or unsafe co
 Examples of illegal, dangerous, and inappropriate commercial content
 
 * Providing direct-to-purchase links and/or private contact information to facilitate the sale of illegal or dangerous goods or services such as
-    
-    * Weapons and firearms
-    * Recreational drugs and paraphernalia
-    * Prescription drugs and pharmaceuticals, subject to our [Advertising policies](https://www.linkedin.com/legal/ads-policy)
-    * Alcohol and tobacco products
-    * Human body parts, organs, and fluids
-    * Live animals, livestock, or animal parts
-    * Gambling sites and services
-    * Counterfeit items
-    * Pirated software and media
-    * Fabricated official documents, scraped member data, and/or financial instruments
-    
+
+* Weapons and firearms
+* Recreational drugs and paraphernalia
+* Prescription drugs and pharmaceuticals, subject to our [Advertising policies](https://www.linkedin.com/legal/ads-policy)
+* Alcohol and tobacco products
+* Human body parts, organs, and fluids
+* Live animals, livestock, or animal parts
+* Gambling sites and services
+* Counterfeit items
+* Pirated software and media
+* Fabricated official documents, scraped member data, and/or financial instruments
+
 * Any content that promotes or facilitates human trafficking, exploitation, or criminal sex acts, including escort, prostitution, or mail-order bride services
-    
 * Monetization and/or exploitation of a sensitive global event, such as famine, natural disaster, pandemic, or economic collapse
-    
 * Sweepstakes, giveaways, lotteries, and contests
-    
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
 
@@ -319,10 +308,15 @@ Members come to LinkedIn to foster professional connections, learn new skills, a
 Examples of sexual innuendos and unwanted advances
 
 * Content that expresses an interest in pursuing romantic or sexual relationships, romantic connections, unwelcomed requests for dating, engagement, or marriage
+    
 * Unsolicited praise or admiration directed at another member’s physical appearance including beauty, face, body, or sexuality
+    
 * Posting or sharing jokes, memes, emojis, or symbols with overt sexual connotations or otherwise commonly associated with sex acts or genitalia
+    
 * Posting or sharing sexually explicit media or language, including pornography, sexual cartoons, depictions of sex acts, or genitalia
+    
 * Statements like “you are pretty,” “we should go on a date,” “your eyes are sexy,” or any other unwanted advances of expressions of desire are likely to violate this policy
+    
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
 
@@ -359,8 +353,12 @@ The quality of conversations on LinkedIn depends on healthy, relevant content. W
 Examples of spam
 
 * Emoji / reaction polls that artificially boost engagement
+    
 * Posts that misrepresent the functionality of the LinkedIn platform (e.g. double-tap feature) to artificially increase engagement
+    
 * Widely circulated “chain letter”-type content, requesting likes, reactions, and shares
+    
 * Excessive, irrelevant, or repetitive comments or messages
+    
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
