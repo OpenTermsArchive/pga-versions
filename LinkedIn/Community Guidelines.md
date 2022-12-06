@@ -137,20 +137,16 @@ We remove depictions of extreme violence, along with image or video content that
 Examples of violent and graphic content
 
 * Depictions of mutilated and/or deceased persons or body parts (including scenes of crimes or accidents)
-    
 * Blood, gore, and human or animal fluids or waste
-    
 * Depictions of animal cruelty
-    
 * Realistic depictions of severe physical violence against a human being, including:
-    
-    * Murder or attempted murder
-    * Rape
-    * Torture
-    * Beatings
-    * Mass shootings
-    * Extreme brutality
-    
+
+* Murder or attempted murder
+* Rape
+* Torture
+* Beatings
+* Mass shootings
+* Extreme brutality
 
 Conversations on LinkedIn are often reflective of the world around us; which means that at any given time, our global member base may be impacted by military conflict, state actor violence, natural disasters, or catastrophic incidents. In cases where violent or graphic content is shared in connection with a newsworthy event, we may label such content instead of removing it from LinkedIn.
 
@@ -166,11 +162,8 @@ We remove content containing nudity or sexual activity.
 Examples of nudity and adult content
 
 * Sexually gratifying content, including pornography, simulated sex acts, erotic literature, and other graphic depictions of sex acts performed alone or with others
-    
 * Implied sex acts are activities that indicated by inference, association, or consequence rather than by direct depiction
-    
 * Full adult nudity or exposure of intimate body parts, including visible genitalia, buttocks, and breasts (excluding breastfeeding)
-    
 
 Do not share material depicting nudity or sexual activity. We don’t allow content that depicts exposed human genitalia, female breasts, and/or human buttocks. We also don’t allow content that depicts, describes, or facilitates access to sexually gratifying material. Content that depicts sexual activity is prohibited. Instances of Adult nudity that align with topics relevant to professional conversations on LinkedIn may be allowed when not gratuitous.
 
@@ -184,24 +177,21 @@ We don’t allow individuals or entities to engage in inappropriate or unsafe co
 Examples of illegal, dangerous, and inappropriate commercial content
 
 * Providing direct-to-purchase links and/or private contact information to facilitate the sale of illegal or dangerous goods or services such as
-    
-    * Weapons and firearms
-    * Recreational drugs and paraphernalia
-    * Prescription drugs and pharmaceuticals, subject to our [Advertising policies](https://www.linkedin.com/legal/ads-policy)
-    * Alcohol and tobacco products
-    * Human body parts, organs, and fluids
-    * Live animals, livestock, or animal parts
-    * Gambling sites and services
-    * Counterfeit items
-    * Pirated software and media
-    * Fabricated official documents, scraped member data, and/or financial instruments
-    
+
+* Weapons and firearms
+* Recreational drugs and paraphernalia
+* Prescription drugs and pharmaceuticals, subject to our [Advertising policies](https://www.linkedin.com/legal/ads-policy)
+* Alcohol and tobacco products
+* Human body parts, organs, and fluids
+* Live animals, livestock, or animal parts
+* Gambling sites and services
+* Counterfeit items
+* Pirated software and media
+* Fabricated official documents, scraped member data, and/or financial instruments
+
 * Any content that promotes or facilitates human trafficking, exploitation, or criminal sex acts, including escort, prostitution, or mail-order bride services
-    
 * Monetization and/or exploitation of a sensitive global event, such as famine, natural disaster, pandemic, or economic collapse
-    
 * Sweepstakes, giveaways, lotteries, and contests
-    
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
 
@@ -298,25 +288,15 @@ Hate speech, symbols, and groups are prohibited on LinkedIn. We remove content t
 Examples of hateful and derogatory content
 
 * Slurs and pejoratives used to demean others on the basis of their inherent traits
-    
 * Promoting or expressing support for hate groups or ideology via symbol or otherwise
-    
 * Expressions of disgust towards or superiority over people or groups on the basis of inherent traits
-    
 * Misgendering or deadnaming of transgender individuals
-    
 * Calls for exclusion or banishment of a specific group based on inherent traits
-    
 * Wishing that members of an inherent group die or suffer as a result of violence or serious disease
-    
 * Negative stereotypes, rooted in inherent traits, that reinforce harmful attitudes or behaviors against individuals or groups
-    
 * Subhuman characterizations, including comparisons to insects, animals, filth, disease, and denial of existence
-    
 * Holocaust denial or misappropriation of Holocaust symbology
-    
 * Denial of slavery in the United States
-    
 
 We may label rather than remove content that evokes hateful rhetoric (including slurs) in the context of counter speech, reclamation, or members’ personal experiences with racism, sexism, ableism, and other forms of prejudice or discrimination.
 
@@ -332,10 +312,15 @@ Members come to LinkedIn to foster professional connections, learn new skills, a
 Examples of sexual innuendos and unwanted advances
 
 * Content that expresses an interest in pursuing romantic or sexual relationships, romantic connections, unwelcomed requests for dating, engagement, or marriage
+    
 * Unsolicited praise or admiration directed at another member’s physical appearance including beauty, face, body, or sexuality
+    
 * Posting or sharing jokes, memes, emojis, or symbols with overt sexual connotations or otherwise commonly associated with sex acts or genitalia
+    
 * Posting or sharing sexually explicit media or language, including pornography, sexual cartoons, depictions of sex acts, or genitalia
+    
 * Statements like “you are pretty,” “we should go on a date,” “your eyes are sexy,” or any other unwanted advances of expressions of desire are likely to violate this policy
+    
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
 
@@ -347,20 +332,16 @@ We remove depictions of extreme violence, along with image or video content that
 Examples of violent and graphic content
 
 * Depictions of mutilated and/or deceased persons or body parts (including scenes of crimes or accidents)
-    
 * Blood, gore, and human or animal fluids or waste
-    
 * Depictions of animal cruelty
-    
 * Realistic depictions of severe physical violence against a human being, including:
-    
-    * Murder or attempted murder
-    * Rape
-    * Torture
-    * Beatings
-    * Mass shootings
-    * Extreme brutality
-    
+
+* Murder or attempted murder
+* Rape
+* Torture
+* Beatings
+* Mass shootings
+* Extreme brutality
 
 Conversations on LinkedIn are often reflective of the world around us; which means that at any given time, our global member base may be impacted by military conflict, state actor violence, natural disasters, or catastrophic incidents. In cases where violent or graphic content is shared in connection with a newsworthy event, we may label such content instead of removing it from LinkedIn.
 
@@ -376,8 +357,12 @@ The quality of conversations on LinkedIn depends on healthy, relevant content. W
 Examples of spam
 
 * Emoji / reaction polls that artificially boost engagement
+    
 * Posts that misrepresent the functionality of the LinkedIn platform (e.g. double-tap feature) to artificially increase engagement
+    
 * Widely circulated “chain letter”-type content, requesting likes, reactions, and shares
+    
 * Excessive, irrelevant, or repetitive comments or messages
+    
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
