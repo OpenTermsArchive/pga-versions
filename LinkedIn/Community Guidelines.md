@@ -107,13 +107,21 @@ We remove content that personally attacks, intimidates, shames, bullies, dispara
 Examples of harassment or abusive content
 
 * Directing abusive language, including negative profanity, at other members
+    
 * Insulting another member’s intelligence or mental capacity (e.g., calling other members “stupid,” “idiot,” “moron,” or “dumb”)
+    
 * Disparaging another member’s appearance, including perceived physical attractiveness, weight, height, or other bodily attributes
+    
 * Wishing death or suffering upon other members or their families
+    
 * “Doxxing” or sharing personal information about others
+    
 * Trolling, pestering, and otherwise repetitive or disruptive behavior that undermines constructive conversations between members
+    
 * Comparing people or groups to Nazis, hate or extremist groups, or sexual predators
+    
 * Calling for social or political exclusion, deportation, or banishment of any individual or group because of their political (or other non-inherent) beliefs or affiliation
+    
 
 We do allow for disagreements, commentary or criticism on policies and matters of public interest or organizations as long as they do not insult or vilify. Members may express heightened negative criticism and disapproval towards public figures, such as politicians, celebrities, prominent business leaders, or other individuals voluntarily in the public eye.
 
@@ -129,16 +137,20 @@ We remove depictions of extreme violence, along with image or video content that
 Examples of violent and graphic content
 
 * Depictions of mutilated and/or deceased persons or body parts (including scenes of crimes or accidents)
+    
 * Blood, gore, and human or animal fluids or waste
+    
 * Depictions of animal cruelty
+    
 * Realistic depictions of severe physical violence against a human being, including:
-
-* Murder or attempted murder
-* Rape
-* Torture
-* Beatings
-* Mass shootings
-* Extreme brutality
+    
+    * Murder or attempted murder
+    * Rape
+    * Torture
+    * Beatings
+    * Mass shootings
+    * Extreme brutality
+    
 
 Conversations on LinkedIn are often reflective of the world around us; which means that at any given time, our global member base may be impacted by military conflict, state actor violence, natural disasters, or catastrophic incidents. In cases where violent or graphic content is shared in connection with a newsworthy event, we may label such content instead of removing it from LinkedIn.
 
@@ -154,8 +166,11 @@ We remove content containing nudity or sexual activity.
 Examples of nudity and adult content
 
 * Sexually gratifying content, including pornography, simulated sex acts, erotic literature, and other graphic depictions of sex acts performed alone or with others
+    
 * Implied sex acts are activities that indicated by inference, association, or consequence rather than by direct depiction
+    
 * Full adult nudity or exposure of intimate body parts, including visible genitalia, buttocks, and breasts (excluding breastfeeding)
+    
 
 Do not share material depicting nudity or sexual activity. We don’t allow content that depicts exposed human genitalia, female breasts, and/or human buttocks. We also don’t allow content that depicts, describes, or facilitates access to sexually gratifying material. Content that depicts sexual activity is prohibited. Instances of Adult nudity that align with topics relevant to professional conversations on LinkedIn may be allowed when not gratuitous.
 
@@ -169,21 +184,24 @@ We don’t allow individuals or entities to engage in inappropriate or unsafe co
 Examples of illegal, dangerous, and inappropriate commercial content
 
 * Providing direct-to-purchase links and/or private contact information to facilitate the sale of illegal or dangerous goods or services such as
-
-* Weapons and firearms
-* Recreational drugs and paraphernalia
-* Prescription drugs and pharmaceuticals, subject to our [Advertising policies](https://www.linkedin.com/legal/ads-policy)
-* Alcohol and tobacco products
-* Human body parts, organs, and fluids
-* Live animals, livestock, or animal parts
-* Gambling sites and services
-* Counterfeit items
-* Pirated software and media
-* Fabricated official documents, scraped member data, and/or financial instruments
-
+    
+    * Weapons and firearms
+    * Recreational drugs and paraphernalia
+    * Prescription drugs and pharmaceuticals, subject to our [Advertising policies](https://www.linkedin.com/legal/ads-policy)
+    * Alcohol and tobacco products
+    * Human body parts, organs, and fluids
+    * Live animals, livestock, or animal parts
+    * Gambling sites and services
+    * Counterfeit items
+    * Pirated software and media
+    * Fabricated official documents, scraped member data, and/or financial instruments
+    
 * Any content that promotes or facilitates human trafficking, exploitation, or criminal sex acts, including escort, prostitution, or mail-order bride services
+    
 * Monetization and/or exploitation of a sensitive global event, such as famine, natural disaster, pandemic, or economic collapse
+    
 * Sweepstakes, giveaways, lotteries, and contests
+    
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
 
@@ -195,12 +213,16 @@ We do not allow organizations or individuals that espouse violence on LinkedIn, 
 Examples of dangerous organizations and individuals content types
 
 * Content that visually depicts acts or terrorism or that promotes or propagandizes terrorist groups, individuals, or activities
+    
 * Glorification or incitement of dangerous organizations and individuals, acts of terror or violent extremism
+    
 * Recruitment for terrorist groups or other organizations that espouse violence
+    
 * Profiles or pages created and maintained by or in support of terrorist organizations or terrorist individuals, including:
-
-* Any non-state group that (1) identifies through its stated purpose, publications, or actions as an extremist group, (2) engages or has engaged in violence and / or the promotion of violence to further its cause, and (3) targets civilians (non-military)
-* Any individual that appears in the U.S. Federal Bureau of Investigation’s [Domestic Terrorism or Most Wanted Terrorists Lists](https://www.fbi.gov/wanted/terrorism) or is a Specially Designated Global Terrorist (SDGT) by the United States Department of State or the US Department of the Treasury
+    
+    * Any non-state group that (1) identifies through its stated purpose, publications, or actions as an extremist group, (2) engages or has engaged in violence and / or the promotion of violence to further its cause, and (3) targets civilians (non-military)
+    * Any individual that appears in the U.S. Federal Bureau of Investigation’s [Domestic Terrorism or Most Wanted Terrorists Lists](https://www.fbi.gov/wanted/terrorism) or is a Specially Designated Global Terrorist (SDGT) by the United States Department of State or the US Department of the Treasury
+    
 
 Depictions of terrorist or violent extremist acts can sometimes raise awareness or condemn and there are instances when the context indicates that it was shared for one or both of those purposes. We won’t penalize members for posting content in these circumstances, but we may take steps to label and obscure such content to protect other members who may not wish to see it.
 
@@ -325,16 +347,20 @@ We remove depictions of extreme violence, along with image or video content that
 Examples of violent and graphic content
 
 * Depictions of mutilated and/or deceased persons or body parts (including scenes of crimes or accidents)
+    
 * Blood, gore, and human or animal fluids or waste
+    
 * Depictions of animal cruelty
+    
 * Realistic depictions of severe physical violence against a human being, including:
-
-* Murder or attempted murder
-* Rape
-* Torture
-* Beatings
-* Mass shootings
-* Extreme brutality
+    
+    * Murder or attempted murder
+    * Rape
+    * Torture
+    * Beatings
+    * Mass shootings
+    * Extreme brutality
+    
 
 Conversations on LinkedIn are often reflective of the world around us; which means that at any given time, our global member base may be impacted by military conflict, state actor violence, natural disasters, or catastrophic incidents. In cases where violent or graphic content is shared in connection with a newsworthy event, we may label such content instead of removing it from LinkedIn.
 
@@ -350,12 +376,8 @@ The quality of conversations on LinkedIn depends on healthy, relevant content. W
 Examples of spam
 
 * Emoji / reaction polls that artificially boost engagement
-    
 * Posts that misrepresent the functionality of the LinkedIn platform (e.g. double-tap feature) to artificially increase engagement
-    
 * Widely circulated “chain letter”-type content, requesting likes, reactions, and shares
-    
 * Excessive, irrelevant, or repetitive comments or messages
-    
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
