@@ -17,7 +17,7 @@ We collect your information in three ways: [Information You Provide](#info-you-p
 ### **Information You Provide**
 
 * **Profile Information.** We collect information that you provide when you set up an account, such as your date of birth, username, email address and/or telephone number, and password. You can add other information to your profile, such as a bio or a profile photo.
-* **User Content.** We collect the content you create or publish through the Platform, such as photographs, videos, audio recordings, livestreams, and comments, and the associated metadata (such as when, where, and by whom the content was created). Even if you are not a user, information about you may appear in content created or published by users on the Platform. We collect [User Content](#user-content) through pre-loading at the time of creation, import, or upload, regardless of whether you choose to save or upload that [User Content](#user-content), for example, to recommend music based on the video. We also collect content (such as text, images, and video) from your device's clipboard if you choose to copy and paste content to or from the Platform or share content between it and a third party platform. In addition, we collect location information (such as tourist attractions, shops, or other points of interest) if you choose to add the location information to your [User Content](#user-content).
+* **User Content.** We collect the content you create or publish through the Platform, such as photographs, videos, audio recordings, livestreams, and comments, and the associated metadata (such as when, where, and by whom the content was created). Even if you are not a user, information about you may appear in content created or published by users on the Platform. We collect [User Content](#user) through pre-loading at the time of creation, import, or upload, regardless of whether you choose to save or upload that [User Content](#user), for example, to recommend music based on the video. We also collect content (such as text, images, and video) from your device's clipboard if you choose to copy and paste content to or from the Platform or share content between it and a third party platform. In addition, we collect location information (such as tourist attractions, shops, or other points of interest) if you choose to add the location information to your [User Content](#user).
 
 * **Direct Messages.** If you communicate with others using direct messages, we collect the content of the message and the associated metadata (such as the time the message was sent, received and/or read, as well as the participants in the communication). We do this to block spam, detect crime, and to safeguard our users.
 
@@ -37,7 +37,7 @@ We collect your information in three ways: [Information You Provide](#info-you-p
 
 * **Usage Information.** We collect information about how you engage with the Platform, including information about the content you view, the duration and frequency of your use, your engagement with other users, your search history and your settings.
 
-* **Content Characteristics and Features.** We detect and collect characteristics and features about the videos, images, and audio recordings that are part of your [User Content](#user-content), for example, by identifying objects and scenery, the existence or location within an image of a face or other body parts; and the text of words spoken in your [User Content](#user-content). We do this, for example, for content moderation and to provide special effects (such as video filters and avatars) and captions.
+* **Content Characteristics and Features.** We detect and collect characteristics and features about the videos, images, and audio recordings that are part of your [User Content](#user), for example, by identifying objects and scenery, the existence or location within an image of a face or other body parts; and the text of words spoken in your [User Content](#user). We do this, for example, for content moderation and to provide special effects (such as video filters and avatars) and captions.
 
 * **Inferred Information.** We infer your attributes (such as age-range and gender) and interests based on the information we have about you. We use inferences, for example, to keep the Platform safe, for content moderation and, where permitted, to serve you personalised ads based on your interests.
 
@@ -49,7 +49,7 @@ We collect your information in three ways: [Information You Provide](#info-you-p
 
 * **Third Party Platforms and Partners.** Third party platforms provide us with information (such as your email address, user ID, and public profile) when you choose to sign up for or log in to the Platform using sign-in features provided by those third parties. We may also receive contact information that you hold or is held about you when contact information is synced with our Platform by you or another user. When you interact with any third party service (such as third party apps, websites or products) that integrate [TikTok Developer Tools](https://developers.tiktok.com/), we will receive the information necessary to provide you with features like cross-service authentication or cross-posting. For example, this will happen if you log in to another platform with your TikTok account or if you use TikTok’s “share” button on a third party platform to share content from there to the Platform.
 
-* **Others.** We may receive information about you from others, for example, where you are included or mentioned in [User Content](#user-content), [Direct Messages](#dm), in a complaint, appeal, request or feedback submitted by a user or third party, or if your contact information is provided to us by a user.
+* **Others.** We may receive information about you from others, for example, where you are included or mentioned in [User Content](#user), [Direct Messages](#dm), in a complaint, appeal, request or feedback submitted by a user or third party, or if your contact information is provided to us by a user.
 
 **How We Use Your Information**
 -------------------------------
@@ -62,7 +62,7 @@ We use your information to operate, provide, develop, and improve the Platform, 
 
 * Process, facilitate, or fulfil requests of purchases of products, goods, and services.
 
-* Enforce our Terms, Guidelines, and other policies that apply to you. We review [User Content](#user-content) and other information to protect the safety and well-being of our community.
+* Enforce our Terms, Guidelines, and other policies that apply to you. We review [User Content](#user) and other information to protect the safety and well-being of our community.
 
 * Provide certain interactive features, such as enabling your content to be used in other users’ videos, and to suggest your account to other users to help connect you with other users.
 
@@ -93,7 +93,7 @@ We engage service providers that help us provide, support, and develop the Platf
 
 * sign-up or log-in to the Platform using your account details from a third party platform (such as Facebook or Google), we will share certain [Technical Information](#tech-info) to facilitate this,
 
-* share [User Content](#user-content) you publish on the Platform on other social media platforms, we will share your [User Content](#user-content) and related information.
+* share [User Content](#user) you publish on the Platform on other social media platforms, we will share your [User Content](#user) and related information.
 
 **Advertisers.** We provide advertisers with aggregate information about the performance of their ads and other content on the Platform in order to help them measure their effectiveness. We create this aggregate information using [Information You Provide](#info-you-provide), [Automatically Collected Information](#auto-collect-info), and [Information From Other Sources](#info-from-other). We share your information directly with advertisers where you give us your permission.
 
@@ -107,7 +107,7 @@ As a global company, the Platform is supported by certain entities within our co
 
 We share your information in other limited scenarios as follows:
 
-**Other Users and the Public.** Based on your privacy settings, your [Profile Information](#profile-info) and [User Content](#user-content) may be visible to other users and the public. You can learn about account types and privacy settings, including how to limit the audience for your videos [here](https://support.tiktok.com/en/account-and-privacy/account-privacy-settings). Your profile and content may also be visible to third parties, such as search engines, content aggregators, and news sites. You and other individuals may be able to share your [User Content](#user-content) both on and off the Platform, depending on the choices you make in your privacy settings.
+**Other Users and the Public.** Based on your privacy settings, your [Profile Information](#profile-info) and [User Content](#user) may be visible to other users and the public. You can learn about account types and privacy settings, including how to limit the audience for your videos [here](https://support.tiktok.com/en/account-and-privacy/account-privacy-settings). Your profile and content may also be visible to third parties, such as search engines, content aggregators, and news sites. You and other individuals may be able to share your [User Content](#user) both on and off the Platform, depending on the choices you make in your privacy settings.
 
 **Users of Our Analytics Services.** We provide aggregated statistics and insights to help people and businesses understand how people are engaging with the Platform. For example, creators and advertisers can receive information about the number of views, likes, comments and shares of their videos, as well as aggregate demographic information about their followers and the viewers of their videos. We create this aggregate information using [Information You Provide](#info-you-provide) and [Automatically Collected Information](#auto-collect-info)**.**
 
@@ -182,7 +182,7 @@ We use your information where this is necessary to achieve legitimate interests 
 
 **Ensure the safety and well-being of our community**.
 
-* We use your information to ensure the safety and well-being of our community, including by reviewing [User Content](https://www.tiktok.com/%22#user-content%5C%22) (and if permitted under applicable law, [Direct Messages](https://www.tiktok.com/%22#dm%5C%22) and associated metadata) for breaches of our Terms, Guidelines, and other policies. We also infer your age range, and under certain circumstances, may ask you to provide additional information to confirm your age.
+* We use your information to ensure the safety and well-being of our community, including by reviewing [User Content](#user) (and if permitted under applicable law, [Direct Messages](https://www.tiktok.com/%22#dm%5C%22) and associated metadata) for breaches of our Terms, Guidelines, and other policies. We also infer your age range, and under certain circumstances, may ask you to provide additional information to confirm your age.
 
 * **Legitimate Interest relied upon**: To keep our community safe, review compliance with our Guidelines, and identify misuse of the Platform.
 
@@ -210,7 +210,7 @@ We use your information where this is necessary to achieve legitimate interests 
 
 * **Legitimate Interest relied upon**: To provide you with a seamless experience, allow your content to be shared on other platforms, enable third parties to authenticate users, and optimise user experience.
 
-* **Information used**: [Information You Provide](#info-you-provide), [Automatically Collected Information](https://www.tiktok.com/%22#auto-collect-info%5C%22), and [Information From Other Sources](https://www.tiktok.com/%22#info-from-other%5C%22).
+* **Information used**: [Information You Provide](#info-you-provide), [Automatically Collected Information](#auto-collect-info), and [Information From Other Sources](#info-from-other).
 
 **Marketing communications**.
 
@@ -230,7 +230,7 @@ We ask for your consent to access or use your information for specific purposes.
 
 * With your consent, we will serve you with personalised ads based on your activity on and off the Platform.
 
-* **Information used**: [Information You Provide](https://www.tiktok.com/legal/%22#info-you-provide%22), [Automatically Collected Information](#auto-collect-info), and [Information From Other Sources](#info-from-other) for this purpose.
+* **Information used**: [Information You Provide](#info-you-provide), [Automatically Collected Information](#auto-collect-info), and [Information From Other Sources](#info-from-other) for this purpose.
 
 **Your rights**: Whenever we use your information based on your consent, you can withdraw your consent at any time. However, your withdrawal of consent will not affect the lawfulness of processing your information based on your consent prior to your withdrawal of consent. You can withdraw your consent for applicable personalised ads related settings by following these [instructions](https://support.tiktok.com/en/account-and-privacy/personalized-ads-and-data/personalization-and-data).
 
@@ -238,7 +238,7 @@ You also have the right to port information you have provided to us that we use 
 
 ### **Compliance with a legal obligation**
 
-We may use your information including your [Profile Information](#profile-info) or [User Content](#user-content) where it is necessary to comply with a legal obligation. This includes situations where we have obligations to take measures to ensure the safety of our users or comply with a valid legal request such as an order from law enforcement agencies or courts. We generally use [Information You Provide](#info-you-provide) and [Automatically Collected Information](#auto-collect-info), although it depends on the specific situation.
+We may use your information including your [Profile Information](#profile-info) or [User Content](#user) where it is necessary to comply with a legal obligation. This includes situations where we have obligations to take measures to ensure the safety of our users or comply with a valid legal request such as an order from law enforcement agencies or courts. We generally use [Information You Provide](#info-you-provide) and [Automatically Collected Information](#auto-collect-info), although it depends on the specific situation.
 
 ### **To perform a task in the public interest**
 
@@ -263,7 +263,7 @@ You have rights and choices when it comes to your information. Some of these rig
 
 **Delete your information.** You can delete or ask us to delete some or all of your information. In-app controls enable you to:
 
-* delete the content posted on your profile, such as your [User Content](#user-content) and your [Profile Information](#profile-info).
+* delete the content posted on your profile, such as your [User Content](#user) and your [Profile Information](#profile-info).
 
 * delete your full account. Click [here](https://support.tiktok.com/en/account-and-privacy/deleting-an-account) for detailed instructions.
 
@@ -290,7 +290,7 @@ Security of your information is important to us. We maintain appropriate technic
 
 We retain information for as long as necessary to provide the Platform and for the other purposes set out in this Privacy Policy. We also retain information when necessary to comply with contractual and legal obligations, when we have a legitimate business interest to do so (such as improving and developing the Platform, and enhancing its safety, security and stability), and for the exercise or defence of legal claims.
 
-The retention periods will be different depending on the type of information and the purposes for which we use the information. For example, when we process your information to provide you with the Platform, we keep this information for as long as you have an account. This information includes your [Profile Information](#profile-info), [User Content](#user-content), and [Direct Messages](#dm). If you violate our Guidelines or Terms, we may remove your [Profile Information](#profile-info) and/or [User Content](#user-content) from public view immediately but keep your information as is necessary to process the violation.
+The retention periods will be different depending on the type of information and the purposes for which we use the information. For example, when we process your information to provide you with the Platform, we keep this information for as long as you have an account. This information includes your [Profile Information](#profile-info), [User Content](#user), and [Direct Messages](#dm). If you violate our Guidelines or Terms, we may remove your [Profile Information](#profile-info) and/or [User Content](#user) from public view immediately but keep your information as is necessary to process the violation.
 
 **Our Global Operations and Data Transfers**
 --------------------------------------------
@@ -330,21 +330,21 @@ We may amend or update this Privacy Policy from time to time. We will notify you
 
 (please also see the language settings for other available languages)
 
-Bulgarian: [Политика за защита на личните данни](https://www.tiktok.com/legal/bg-privacy-policy-eea?lang=en)
+Bulgarian: [Политика за защита на личните данни](https://www.tiktok.com/legal/bg-privacy-policy-eea?lang=en)  
 
-Croatian: [Politika privatnosti](https://www.tiktok.com/legal/croatia-privacy-policy-eea?lang=en)
+Croatian: [Politika privatnosti](https://www.tiktok.com/legal/croatia-privacy-policy-eea?lang=en)  
 
-Danish: [Privatlivspolitik](https://www.tiktok.com/legal/dadk-privacy-policy-eea?lang=en)
+Danish: [Privatlivspolitik](https://www.tiktok.com/legal/dadk-privacy-policy-eea?lang=en)  
 
-Estonian: [Privaatsuspoliitika](https://www.tiktok.com/legal/eree-privacy-policy-eea?lang=en)
+Estonian: [Privaatsuspoliitika](https://www.tiktok.com/legal/eree-privacy-policy-eea?lang=en)  
 
-Latvian: [Privātuma politika](https://www.tiktok.com/legal/lv-privacy-policy-eea?lang=en)
+Latvian: [Privātuma politika](https://www.tiktok.com/legal/lv-privacy-policy-eea?lang=en)  
 
-Lithuanian: [Privatumo politika](https://www.tiktok.com/legal/lt-privacy-policy-eea?lang=en)
+Lithuanian: [Privatumo politika](https://www.tiktok.com/legal/lt-privacy-policy-eea?lang=en)  
 
-Norwegian: [Personvernerklæring](https://www.tiktok.com/legal/no-privacy-policy-eea?lang=en)
+Norwegian: [Personvernerklæring](https://www.tiktok.com/legal/no-privacy-policy-eea?lang=en)  
 
-Slovakian: [Predpis o ochrane osobných údajov](https://www.tiktok.com/legal/sk-privacy-policy-eea?lang=en)
+Slovakian: [Predpis o ochrane osobných údajov](https://www.tiktok.com/legal/sk-privacy-policy-eea?lang=en)  
 
 **Contact Us**
 --------------
