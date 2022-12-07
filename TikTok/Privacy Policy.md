@@ -218,7 +218,7 @@ We use your information where this is necessary to achieve legitimate interests 
 
 * **Legitimate Interest relied upon**: To promote the Platform or third party products and services.
 
-* **Information used**: [Information You Provide](https://www.tiktok.com/%22#info-you-provide%5C%22), [Automatically Collected Information](#auto-collect-info), and [Information From Other Sources](https://www.tiktok.com/%22#info-from-other%5C%22).
+* **Information used**: [Information You Provide](https://www.tiktok.com/legal/%22#info-you-provide%22), [Automatically Collected Information](#auto-collect-info), and [Information From Other Sources](#info-from-other).
 
 **Your Rights**: Whenever we use your information on the basis that it is necessary for legitimate interests, you can object to, and request restriction of, such usage.
 
@@ -230,7 +230,7 @@ We ask for your consent to access or use your information for specific purposes.
 
 * With your consent, we will serve you with personalised ads based on your activity on and off the Platform.
 
-* **Information used**: [Information You Provide](https://www.tiktok.com/%22#info-you-provide%5C%22), [Automatically Collected Information](#auto-collect-info), and [Information From Other Sources](#info-from-other) for this purpose.
+* **Information used**: [Information You Provide](https://www.tiktok.com/legal/%22#info-you-provide%22), [Automatically Collected Information](#auto-collect-info), and [Information From Other Sources](#info-from-other) for this purpose.
 
 **Your rights**: Whenever we use your information based on your consent, you can withdraw your consent at any time. However, your withdrawal of consent will not affect the lawfulness of processing your information based on your consent prior to your withdrawal of consent. You can withdraw your consent for applicable personalised ads related settings by following these [instructions](https://support.tiktok.com/en/account-and-privacy/personalized-ads-and-data/personalization-and-data).
 
@@ -330,21 +330,21 @@ We may amend or update this Privacy Policy from time to time. We will notify you
 
 (please also see the language settings for other available languages)
 
-Bulgarian: [Политика за защита на личните данни](https://www.tiktok.com/legal/bg-privacy-policy-eea?lang=en)  
+Bulgarian: [Политика за защита на личните данни](https://www.tiktok.com/legal/bg-privacy-policy-eea?lang=en)
 
-Croatian: [Politika privatnosti](https://www.tiktok.com/legal/croatia-privacy-policy-eea?lang=en)  
+Croatian: [Politika privatnosti](https://www.tiktok.com/legal/croatia-privacy-policy-eea?lang=en)
 
-Danish: [Privatlivspolitik](https://www.tiktok.com/legal/dadk-privacy-policy-eea?lang=en)  
+Danish: [Privatlivspolitik](https://www.tiktok.com/legal/dadk-privacy-policy-eea?lang=en)
 
-Estonian: [Privaatsuspoliitika](https://www.tiktok.com/legal/eree-privacy-policy-eea?lang=en)  
+Estonian: [Privaatsuspoliitika](https://www.tiktok.com/legal/eree-privacy-policy-eea?lang=en)
 
-Latvian: [Privātuma politika](https://www.tiktok.com/legal/lv-privacy-policy-eea?lang=en)  
+Latvian: [Privātuma politika](https://www.tiktok.com/legal/lv-privacy-policy-eea?lang=en)
 
-Lithuanian: [Privatumo politika](https://www.tiktok.com/legal/lt-privacy-policy-eea?lang=en)  
+Lithuanian: [Privatumo politika](https://www.tiktok.com/legal/lt-privacy-policy-eea?lang=en)
 
-Norwegian: [Personvernerklæring](https://www.tiktok.com/legal/no-privacy-policy-eea?lang=en)  
+Norwegian: [Personvernerklæring](https://www.tiktok.com/legal/no-privacy-policy-eea?lang=en)
 
-Slovakian: [Predpis o ochrane osobných údajov](https://www.tiktok.com/legal/sk-privacy-policy-eea?lang=en)  
+Slovakian: [Predpis o ochrane osobných údajov](https://www.tiktok.com/legal/sk-privacy-policy-eea?lang=en)
 
 **Contact Us**
 --------------
