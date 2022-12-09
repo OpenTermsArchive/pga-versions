@@ -210,16 +210,12 @@ We do not allow organizations or individuals that espouse violence on LinkedIn, 
 Examples of dangerous organizations and individuals content types
 
 * Content that visually depicts acts or terrorism or that promotes or propagandizes terrorist groups, individuals, or activities
-    
 * Glorification or incitement of dangerous organizations and individuals, acts of terror or violent extremism
-    
 * Recruitment for terrorist groups or other organizations that espouse violence
-    
 * Profiles or pages created and maintained by or in support of terrorist organizations or terrorist individuals, including:
-    
-    * Any non-state group that (1) identifies through its stated purpose, publications, or actions as an extremist group, (2) engages or has engaged in violence and / or the promotion of violence to further its cause, and (3) targets civilians (non-military)
-    * Any individual that appears in the U.S. Federal Bureau of Investigation’s [Domestic Terrorism or Most Wanted Terrorists Lists](https://www.fbi.gov/wanted/terrorism) or is a Specially Designated Global Terrorist (SDGT) by the United States Department of State or the US Department of the Treasury
-    
+
+* Any non-state group that (1) identifies through its stated purpose, publications, or actions as an extremist group, (2) engages or has engaged in violence and / or the promotion of violence to further its cause, and (3) targets civilians (non-military)
+* Any individual that appears in the U.S. Federal Bureau of Investigation’s [Domestic Terrorism or Most Wanted Terrorists Lists](https://www.fbi.gov/wanted/terrorism) or is a Specially Designated Global Terrorist (SDGT) by the United States Department of State or the US Department of the Treasury
 
 Depictions of terrorist or violent extremist acts can sometimes raise awareness or condemn and there are instances when the context indicates that it was shared for one or both of those purposes. We won’t penalize members for posting content in these circumstances, but we may take steps to label and obscure such content to protect other members who may not wish to see it.
 
@@ -233,33 +229,26 @@ It is a violation of [LinkedIn’s Professional Community Policies](https://www.
 Examples of false or misleading content
 
 * False claims that undermine trust and discourage participation in civic processes or misleads voters about the time, location, means, or eligibility requirements for voting
-    
 * Claims that may induce panic or discourage others from taking safety precautions during an emergency, such as unfounded claims of threats, violence, or danger that could cause harm (e.g. looters are prevalent in an area subject to forest fires)
-    
 * Content inaccurately presented as evidence of human rights abuses or military conflict in a specific location that is actually content from another location, event, or timeframe
-    
 * Synthetic or manipulated media, such as doctored images or videos that distort real-life events and likely to cause harm to the subject, other individuals or groups, or society at large
-    
 * Content that promotes harmful remedies or miracle cures, or otherwise discourages individuals from seeking or heeding professional medical advice
-    
 * Claims or statements that directly contradict medical guidance from local health authorities or the World Health Organization (WHO)
-    
 * Medical misinformation about the treatment, prevention, variants, and transmission of COVID-19, including claims that:
-    
-    * Medical or non-medical grade masks cause negative physical side effects
-    * Ivermectin or Hydroxychloroquine are effective in the treatment or prevention of COVID-19
-    * Approved COVID-19 vaccines may cause death, infertility, miscarriage, autism, or contraction of infectious diseases, including COVID-19
-    * Approved COVID-19 vaccines implant tracking/surveillance devices or cause magnetism in patients
-    * Those vaccinated against COVID-19 are more likely to spread the virus than unvaccinated individuals
-    * COVID-19 was developed with funding or support from specific world leaders, public figures, or global health authorities
-    
+
+* Medical or non-medical grade masks cause negative physical side effects
+* Ivermectin or Hydroxychloroquine are effective in the treatment or prevention of COVID-19
+* Approved COVID-19 vaccines may cause death, infertility, miscarriage, autism, or contraction of infectious diseases, including COVID-19
+* Approved COVID-19 vaccines implant tracking/surveillance devices or cause magnetism in patients
+* Those vaccinated against COVID-19 are more likely to spread the virus than unvaccinated individuals
+* COVID-19 was developed with funding or support from specific world leaders, public figures, or global health authorities
+
 * Medical misinformation about the prevalence or severity of COVID-19, including claims that:
-    
-    * COVID-19 does not exist or is a hoax
-    * The virus and all variants have been eradicated or that the pandemic has ended
-    * The symptoms, mortality rate, or infection rate of COVID-19 are no more severe than the seasonal flu
-    * No one has died or become severely ill after contracting COVID-19
-    
+
+* COVID-19 does not exist or is a hoax
+* The virus and all variants have been eradicated or that the pandemic has ended
+* The symptoms, mortality rate, or infection rate of COVID-19 are no more severe than the seasonal flu
+* No one has died or become severely ill after contracting COVID-19
 
 To learn more about when we label potentially false or misleading content, rather than remove it, see [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
 
@@ -295,15 +284,25 @@ Hate speech, symbols, and groups are prohibited on LinkedIn. We remove content t
 Examples of hateful and derogatory content
 
 * Slurs and pejoratives used to demean others on the basis of their inherent traits
+    
 * Promoting or expressing support for hate groups or ideology via symbol or otherwise
+    
 * Expressions of disgust towards or superiority over people or groups on the basis of inherent traits
+    
 * Misgendering or deadnaming of transgender individuals
+    
 * Calls for exclusion or banishment of a specific group based on inherent traits
+    
 * Wishing that members of an inherent group die or suffer as a result of violence or serious disease
+    
 * Negative stereotypes, rooted in inherent traits, that reinforce harmful attitudes or behaviors against individuals or groups
+    
 * Subhuman characterizations, including comparisons to insects, animals, filth, disease, and denial of existence
+    
 * Holocaust denial or misappropriation of Holocaust symbology
+    
 * Denial of slavery in the United States
+    
 
 We may label rather than remove content that evokes hateful rhetoric (including slurs) in the context of counter speech, reclamation, or members’ personal experiences with racism, sexism, ableism, and other forms of prejudice or discrimination.
 
@@ -368,12 +367,8 @@ The quality of conversations on LinkedIn depends on healthy, relevant content. W
 Examples of spam
 
 * Emoji / reaction polls that artificially boost engagement
-    
 * Posts that misrepresent the functionality of the LinkedIn platform (e.g. double-tap feature) to artificially increase engagement
-    
 * Widely circulated “chain letter”-type content, requesting likes, reactions, and shares
-    
 * Excessive, irrelevant, or repetitive comments or messages
-    
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
