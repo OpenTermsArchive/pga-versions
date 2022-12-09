@@ -870,22 +870,45 @@ YouTube may show features or resources to users when content contains suicide or
 Vulgar language policy
 ======================
 
-Some language may not be appropriate for viewers under 18. We may consider the following factors when deciding whether to age-restrict, remove content, or issue a strike on the channel.
+The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. **T****ake the time to carefully read the policy below**. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
+
+Some language may not be appropriate for viewers under 18.
+
+If you find content that violates this policy, report it. Instructions for reporting violations of our Community Guidelines [are available here](https://support.google.com/youtube/answer/2802027). If you've found a few videos or comments that you would like to report, you can [report the channel](https://support.google.com/youtube/answer/2802027#report_channel).
+
+What this policy means for you
+------------------------------
+
+**If you're posting content**
+
+Explicit content that violates this policy could result in [age restriction](https://support.google.com/youtube/answer/2802167), content removal, or a [strike](https://support.google.com/youtube/answer/2802032). We may consider the following factors when deciding whether to age-restrict, remove content, or issue a strike.
 
 * Use of sexually explicit language or narratives
-* Use of excessive profanity in your video 
-* Use of heavy profanity or sexually suggestive terms in your video’s title, thumbnail, or associated metadata
+* Use of excessive profanity in the content 
+* Use of heavy profanity or sexually suggestive terms in the content’s title, thumbnail, or associated metadata
 * Use of excessive sexual sounds
 
 **Note**: The above list isn’t complete.
 
-### Examples
+Age-restricted content
+----------------------
 
 Here are some examples of content that may be age-restricted:
 
-* A video focused on the use of profanities, like a compilation or clip taken out of context
-* A video that features road rage or a sustained rant with heavy profanities
-* A video that features the use of heavy profanities during a physical confrontation or to describe acts of violence
+* A video focused on the use of profanities, like a compilation, song, or clip taken out of context
+* A video that uses heavy profanities in the title 
+* A video that repeatedly uses vulgar or sexual language
+
+This policy applies to videos, video descriptions, comments, live streams, audio, and any other YouTube product or feature. Remember these are just some examples, and don't post content if you think it might violate this policy.
+
+We may allow vulgar language when the primary purpose is educational, documentary, scientific, or artistic, and it isn’t gratuitous. For example, the title of a song with a curse word or a song that contains large amounts of profanity. Remember that giving context in the content, title, and description will help us and your viewers determine the primary purpose of the video.
+
+What happens if content violates this policy
+--------------------------------------------
+
+If your content violates this policy, we’ll remove the content and send you an email to let you know. If this is your first time violating our Community Guidelines, you’ll likely get a warning with no penalty to your channel. If it’s not, we may issue a strike against your channel. If you get 3 strikes within 90 days, your channel will be terminated. You can learn more about [our strikes system here](https://support.google.com/youtube/answer/2802032).
+
+We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. You can learn more about [channel or account terminations here](https://support.google.com/youtube/answer/2802168).
 
 Harassment & cyberbullying policies
 ===================================
