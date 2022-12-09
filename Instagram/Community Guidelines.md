@@ -131,11 +131,7 @@ Learn more about [copyright and what copyright laws protect.](https://help.insta
 
 If we remove content you posted because of an intellectual property report submitted through our online form, you’ll receive a notification from Instagram that may include the name and email address of the rights owner who made the report and/or other details of the report. If you believe the content shouldn't have been removed, you can follow up with the rights owner directly to try to resolve the issue.
 
-Appealing the removal of content
-
-If your content was removed because of a copyright report, you can submit an appeal. You'll receive instructions about how to appeal in the messaging we send you. Similarly, if the content was removed under the notice and counter-notice procedures of the [United States Digital Millennium Copyright Act (DMCA)](https://help.instagram.com/697328657009330?helpref=faq_content), you may be able to file a DMCA counter-notification. Again, instructions will be available for you in the messaging we send you.
-
-Learn more about [our appeals process](https://help.instagram.com/https%3A%2F%2Fl.instagram.com%2F%3Fu=https%3A%2F%2Fwww.facebook.com%2Fhelp%2Finstagram%2F1417735471763678%3Flocale%3Den_US%26helpref%3Dfaq_content) or [how to use music in your videos on Instagram.](https://help.instagram.com/https%3A%2F%2Fl.instagram.com%2F%3Fu=https%3A%2F%2Fwww.facebook.com%2Fhelp%2Finstagram%2F629037417957828%3Fhelpref%3Dfaq_content)
+If your content was removed because of a copyright report, you can submit an appeal. Learn more about [our appeals process](https://help.instagram.com/https%3A%2F%2Fl.instagram.com%2F%3Fu=https%3A%2F%2Fwww.facebook.com%2Fhelp%2Finstagram%2F1417735471763678%3Flocale%3Den_US%26helpref%3Dfaq_content) or [how to use music in your videos on Instagram.](https://help.instagram.com/https%3A%2F%2Fl.instagram.com%2F%3Fu=https%3A%2F%2Fwww.facebook.com%2Fhelp%2Finstagram%2F629037417957828%3Fhelpref%3Dfaq_content)
 
 By using Instagram, you have agreed to our [Terms of Use](https://help.instagram.com/581066165581870?helpref=faq_content), which prohibit people from taking any action on Instagram that infringes or violates someone else's intellectual property rights or otherwise violates the law.
 
