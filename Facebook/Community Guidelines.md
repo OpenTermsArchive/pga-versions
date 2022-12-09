@@ -21,28 +21,28 @@ The goal of our Community Standards is to create a place for expression and give
 
 Our commitment to expression is paramount, but we recognize the internet creates new and increased opportunities for abuse. For these reasons, when we limit expression, we do it in service of one or more of the following values:
 
-![](https://scontent-fra5-2.xx.fbcdn.net/v/t39.8562-6/136893606_849918935579882_213472362566516880_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6825c5&_nc_ohc=QbvAmNN_rxsAX8ioyr4&_nc_ht=scontent-fra5-2.xx&oh=00_AfDgSXXLOz6V7HE2u6ak8U3BPIhZSxFM0AuIbi4RYD5uWg&oe=6393F48F)
+![](https://scontent-fra5-2.xx.fbcdn.net/v/t39.8562-6/136893606_849918935579882_213472362566516880_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6825c5&_nc_ohc=fLpOf1oatnQAX83v-ui&_nc_ht=scontent-fra5-2.xx&oh=00_AfC3kXU-RbUUdJbrWM2K7fxCKlG2NPo_drVe1cPBryw8LA&oe=6397E90F)
 
 AUTHENTICITY
 ------------
 
 We want to make sure the content people see on Facebook is authentic. We believe that authenticity creates a better environment for sharing, and that’s why we don’t want people using Facebook to misrepresent who they are or what they’re doing.
 
-![](https://scontent-fra5-2.xx.fbcdn.net/v/t39.8562-6/137256059_2800543870233431_455035967167740410_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6825c5&_nc_ohc=mXEH-LiTkfIAX9dLauJ&_nc_ht=scontent-fra5-2.xx&oh=00_AfD02E7BgWZhcsSDALgRcl63qYjnGPHX3XInAc3ppUVIXQ&oe=6393EBFE)
+![](https://scontent-fra5-2.xx.fbcdn.net/v/t39.8562-6/137256059_2800543870233431_455035967167740410_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6825c5&_nc_ohc=KxOHmiQJibsAX_DHOW1&_nc_ht=scontent-fra5-2.xx&oh=00_AfDLMgiNHw2VpMuaEo_Pgd_OG5LpmV47u7lpbhQgqJ2PQQ&oe=6397E07E)
 
 SAFETY
 ------
 
 We’re committed to making Facebook a safe place. We remove content that could contribute to a risk of harm to the physical security of persons. Content that threatens people has the potential to intimidate, exclude or silence others and isn’t allowed on Facebook.
 
-![](https://scontent-fra5-2.xx.fbcdn.net/v/t39.8562-6/137145103_308994903869841_4708570808613729754_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6825c5&_nc_ohc=pRoLuPD-5tUAX92JiEd&_nc_ht=scontent-fra5-2.xx&oh=00_AfAwZBdBOV2-xdDNjpVgP97sEvOtUZE9fXwxjLPyiANbwg&oe=639415CC)
+![](https://scontent-fra5-2.xx.fbcdn.net/v/t39.8562-6/137145103_308994903869841_4708570808613729754_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6825c5&_nc_ohc=oG1H5E1JB8MAX80PUWd&_nc_ht=scontent-fra5-2.xx&oh=00_AfAdSwZ3hhT7YPQ0myXkO5Z06uENkFqBLbA-UfjoZ0-R7Q&oe=63980A4C)
 
 PRIVACY
 -------
 
 We’re committed to protecting personal privacy and information. Privacy gives people the freedom to be themselves, choose how and when to share on Facebook and connect more easily.
 
-![](https://scontent-fra5-2.xx.fbcdn.net/v/t39.8562-6/137151366_203760844736656_1882032595123025998_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6825c5&_nc_ohc=9uHM-TJ8hWkAX_8WvUn&_nc_ht=scontent-fra5-2.xx&oh=00_AfAPDKdRkLrm7Nu0d3wmg6pMsZA4w2RbDDXZqCM98B8uEg&oe=6392D68B)
+![](https://scontent-fra5-2.xx.fbcdn.net/v/t39.8562-6/137151366_203760844736656_1882032595123025998_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6825c5&_nc_ohc=yS6tlChShaUAX_LB6tp&_nc_ht=scontent-fra5-2.xx&oh=00_AfCzR_UCpqveLAn1u5zvmO7FlgF4fN4VHBS9lbYYxZEeRw&oe=6396CB0B)
 
 DIGNITY
 -------
@@ -935,37 +935,35 @@ Human Exploitation
 
 #### Policy Rationale
 
-After consulting with outside experts from around the world, we are consolidating several existing exploitation policies, that were previously housed in different sections of the Community Standards into one dedicated section that focuses on human exploitation and captures a broad range of harmful activities that may manifest on our platform. Experts think and talk about these issues under one umbrella human exploitation.
-
 In an effort to disrupt and prevent harm, we remove content that facilitates or coordinates the exploitation of humans, including human trafficking. We define human trafficking as the business of depriving someone of liberty for profit. It is the exploitation of humans in order to force them to engagein commercial sex, labor or other activities against their will. It relies on deception, force and coercion, and degrades humans by depriving them of their freedom while economically or materially benefiting others.
 
 Human trafficking is multi-faceted and global; it can affect anyone regardless of age, socioeconomic background, ethnicity, gender or location. It takes many forms, and any given trafficking situation can involve various stages of development. By the coercive nature of this abuse, victims cannot consent.
 
 While we need to be careful not to conflate human trafficking and smuggling, they can be related and exhibit overlap. The United Nations defines human smuggling as the procurement or facilitation of illegal entry into a state across international borders. Without necessity for coercion or force, it may still result in the exploitation of vulnerable individuals who are trying to leave their country of origin, often in pursuit of a better life. Human smuggling is a crime against a state, relying on movement, and human trafficking is a crime against a person, relying on exploitation.
 
+In addition to content condemning or raising awareness about human trafficking or smuggling issues, we allow content asking for or sharing information about personal safety and border crossing, seeking asylum or how to leave a country.
+
 #### Do not post:
 
-Content or exhibited behavior that may lead to human exploitation, which includes any of the following:
+Content that recruits people for, facilitates or exploits people through any of the following forms of human trafficking:
 
-* Sex trafficking, covering minors and adults.
+* Sex trafficking
 * Sales of children or illegal adoption.
 * Orphanage trafficking and orphanage volun-tourism.
 * Forced marriages.
 * Labor exploitation (including bonded labor).
 * Domestic servitude.
-* Non-regenerative organ trafficking.
+* Non-regenerative organ trafficking, not including organ removal, donation, or transplant in a non-exploitative organ donation context.
 * Forced criminal activity (e.g. forced begging, forced drug trafficking).
 * Recruitment of child soldiers.
 
-Content geared towards the:
-
-* Recruitment of potential victims through force, fraud, coercion, enticement, deception, blackmail or other non-consensual acts.
-* Facilitation of human exploitation by coordinating, transporting, transferring, harboring or brokering of victims prior or during the exploitation.
-* Exploitation of humans by promoting, depicting or advocating for it.
-
 Content that offers to provide or facilitate human smuggling
 
+Content that asks for human smuggling services
+
 Read lessRead more
+
+578462292695485
 
 Privacy Violations
 ==================
