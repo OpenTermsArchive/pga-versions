@@ -107,21 +107,13 @@ We remove content that personally attacks, intimidates, shames, bullies, dispara
 Examples of harassment or abusive content
 
 * Directing abusive language, including negative profanity, at other members
-    
 * Insulting another member’s intelligence or mental capacity (e.g., calling other members “stupid,” “idiot,” “moron,” or “dumb”)
-    
 * Disparaging another member’s appearance, including perceived physical attractiveness, weight, height, or other bodily attributes
-    
 * Wishing death or suffering upon other members or their families
-    
 * “Doxxing” or sharing personal information about others
-    
 * Trolling, pestering, and otherwise repetitive or disruptive behavior that undermines constructive conversations between members
-    
 * Comparing people or groups to Nazis, hate or extremist groups, or sexual predators
-    
 * Calling for social or political exclusion, deportation, or banishment of any individual or group because of their political (or other non-inherent) beliefs or affiliation
-    
 
 We do allow for disagreements, commentary or criticism on policies and matters of public interest or organizations as long as they do not insult or vilify. Members may express heightened negative criticism and disapproval towards public figures, such as politicians, celebrities, prominent business leaders, or other individuals voluntarily in the public eye.
 
@@ -184,21 +176,24 @@ We don’t allow individuals or entities to engage in inappropriate or unsafe co
 Examples of illegal, dangerous, and inappropriate commercial content
 
 * Providing direct-to-purchase links and/or private contact information to facilitate the sale of illegal or dangerous goods or services such as
-
-* Weapons and firearms
-* Recreational drugs and paraphernalia
-* Prescription drugs and pharmaceuticals, subject to our [Advertising policies](https://www.linkedin.com/legal/ads-policy)
-* Alcohol and tobacco products
-* Human body parts, organs, and fluids
-* Live animals, livestock, or animal parts
-* Gambling sites and services
-* Counterfeit items
-* Pirated software and media
-* Fabricated official documents, scraped member data, and/or financial instruments
-
+    
+    * Weapons and firearms
+    * Recreational drugs and paraphernalia
+    * Prescription drugs and pharmaceuticals, subject to our [Advertising policies](https://www.linkedin.com/legal/ads-policy)
+    * Alcohol and tobacco products
+    * Human body parts, organs, and fluids
+    * Live animals, livestock, or animal parts
+    * Gambling sites and services
+    * Counterfeit items
+    * Pirated software and media
+    * Fabricated official documents, scraped member data, and/or financial instruments
+    
 * Any content that promotes or facilitates human trafficking, exploitation, or criminal sex acts, including escort, prostitution, or mail-order bride services
+    
 * Monetization and/or exploitation of a sensitive global event, such as famine, natural disaster, pandemic, or economic collapse
+    
 * Sweepstakes, giveaways, lotteries, and contests
+    
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
 
@@ -229,33 +224,26 @@ It is a violation of [LinkedIn’s Professional Community Policies](https://www.
 Examples of false or misleading content
 
 * False claims that undermine trust and discourage participation in civic processes or misleads voters about the time, location, means, or eligibility requirements for voting
-    
 * Claims that may induce panic or discourage others from taking safety precautions during an emergency, such as unfounded claims of threats, violence, or danger that could cause harm (e.g. looters are prevalent in an area subject to forest fires)
-    
 * Content inaccurately presented as evidence of human rights abuses or military conflict in a specific location that is actually content from another location, event, or timeframe
-    
 * Synthetic or manipulated media, such as doctored images or videos that distort real-life events and likely to cause harm to the subject, other individuals or groups, or society at large
-    
 * Content that promotes harmful remedies or miracle cures, or otherwise discourages individuals from seeking or heeding professional medical advice
-    
 * Claims or statements that directly contradict medical guidance from local health authorities or the World Health Organization (WHO)
-    
 * Medical misinformation about the treatment, prevention, variants, and transmission of COVID-19, including claims that:
-    
-    * Medical or non-medical grade masks cause negative physical side effects
-    * Ivermectin or Hydroxychloroquine are effective in the treatment or prevention of COVID-19
-    * Approved COVID-19 vaccines may cause death, infertility, miscarriage, autism, or contraction of infectious diseases, including COVID-19
-    * Approved COVID-19 vaccines implant tracking/surveillance devices or cause magnetism in patients
-    * Those vaccinated against COVID-19 are more likely to spread the virus than unvaccinated individuals
-    * COVID-19 was developed with funding or support from specific world leaders, public figures, or global health authorities
-    
+
+* Medical or non-medical grade masks cause negative physical side effects
+* Ivermectin or Hydroxychloroquine are effective in the treatment or prevention of COVID-19
+* Approved COVID-19 vaccines may cause death, infertility, miscarriage, autism, or contraction of infectious diseases, including COVID-19
+* Approved COVID-19 vaccines implant tracking/surveillance devices or cause magnetism in patients
+* Those vaccinated against COVID-19 are more likely to spread the virus than unvaccinated individuals
+* COVID-19 was developed with funding or support from specific world leaders, public figures, or global health authorities
+
 * Medical misinformation about the prevalence or severity of COVID-19, including claims that:
-    
-    * COVID-19 does not exist or is a hoax
-    * The virus and all variants have been eradicated or that the pandemic has ended
-    * The symptoms, mortality rate, or infection rate of COVID-19 are no more severe than the seasonal flu
-    * No one has died or become severely ill after contracting COVID-19
-    
+
+* COVID-19 does not exist or is a hoax
+* The virus and all variants have been eradicated or that the pandemic has ended
+* The symptoms, mortality rate, or infection rate of COVID-19 are no more severe than the seasonal flu
+* No one has died or become severely ill after contracting COVID-19
 
 To learn more about when we label potentially false or misleading content, rather than remove it, see [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
 
@@ -267,11 +255,17 @@ We don’t tolerate content intended to scam, defraud, or deceive others for mon
 Examples of scams and fraud
 
 * Cash gifting schemes, including Pyramid or Ponzi schemes
+    
 * Payday loan or advance payment scams
+    
 * Cash flips, "money muling", and investment scams promising high rates of return
+    
 * Individual requests for payment, loans, and financial details, through public content or private messaging, made on false or misleading premises with the intent to defraud
+    
 * Phishing attempts, including links posted in unpaid Live Events, collecting member payment details for fraudulent purposes
+    
 * Suspicious job posts, such as those advertising “too good to be true” compensation and benefits
+    
 
 We allow members to raise awareness and educate others about scams, as well as condemn fraudulent activities. However, we’ll remove such content when it contains sensitive information, such as personally identifiable information, or functional phishing, malware, or scam links.
 
@@ -285,15 +279,25 @@ Hate speech, symbols, and groups are prohibited on LinkedIn. We remove content t
 Examples of hateful and derogatory content
 
 * Slurs and pejoratives used to demean others on the basis of their inherent traits
+    
 * Promoting or expressing support for hate groups or ideology via symbol or otherwise
+    
 * Expressions of disgust towards or superiority over people or groups on the basis of inherent traits
+    
 * Misgendering or deadnaming of transgender individuals
+    
 * Calls for exclusion or banishment of a specific group based on inherent traits
+    
 * Wishing that members of an inherent group die or suffer as a result of violence or serious disease
+    
 * Negative stereotypes, rooted in inherent traits, that reinforce harmful attitudes or behaviors against individuals or groups
+    
 * Subhuman characterizations, including comparisons to insects, animals, filth, disease, and denial of existence
+    
 * Holocaust denial or misappropriation of Holocaust symbology
+    
 * Denial of slavery in the United States
+    
 
 We may label rather than remove content that evokes hateful rhetoric (including slurs) in the context of counter speech, reclamation, or members’ personal experiences with racism, sexism, ableism, and other forms of prejudice or discrimination.
 
