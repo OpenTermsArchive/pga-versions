@@ -107,13 +107,21 @@ We remove content that personally attacks, intimidates, shames, bullies, dispara
 Examples of harassment or abusive content
 
 * Directing abusive language, including negative profanity, at other members
+    
 * Insulting another member’s intelligence or mental capacity (e.g., calling other members “stupid,” “idiot,” “moron,” or “dumb”)
+    
 * Disparaging another member’s appearance, including perceived physical attractiveness, weight, height, or other bodily attributes
+    
 * Wishing death or suffering upon other members or their families
+    
 * “Doxxing” or sharing personal information about others
+    
 * Trolling, pestering, and otherwise repetitive or disruptive behavior that undermines constructive conversations between members
+    
 * Comparing people or groups to Nazis, hate or extremist groups, or sexual predators
+    
 * Calling for social or political exclusion, deportation, or banishment of any individual or group because of their political (or other non-inherent) beliefs or affiliation
+    
 
 We do allow for disagreements, commentary or criticism on policies and matters of public interest or organizations as long as they do not insult or vilify. Members may express heightened negative criticism and disapproval towards public figures, such as politicians, celebrities, prominent business leaders, or other individuals voluntarily in the public eye.
 
@@ -129,16 +137,20 @@ We remove depictions of extreme violence, along with image or video content that
 Examples of violent and graphic content
 
 * Depictions of mutilated and/or deceased persons or body parts (including scenes of crimes or accidents)
+    
 * Blood, gore, and human or animal fluids or waste
+    
 * Depictions of animal cruelty
+    
 * Realistic depictions of severe physical violence against a human being, including:
-
-* Murder or attempted murder
-* Rape
-* Torture
-* Beatings
-* Mass shootings
-* Extreme brutality
+    
+    * Murder or attempted murder
+    * Rape
+    * Torture
+    * Beatings
+    * Mass shootings
+    * Extreme brutality
+    
 
 Conversations on LinkedIn are often reflective of the world around us; which means that at any given time, our global member base may be impacted by military conflict, state actor violence, natural disasters, or catastrophic incidents. In cases where violent or graphic content is shared in connection with a newsworthy event, we may label such content instead of removing it from LinkedIn.
 
@@ -172,21 +184,24 @@ We don’t allow individuals or entities to engage in inappropriate or unsafe co
 Examples of illegal, dangerous, and inappropriate commercial content
 
 * Providing direct-to-purchase links and/or private contact information to facilitate the sale of illegal or dangerous goods or services such as
-
-* Weapons and firearms
-* Recreational drugs and paraphernalia
-* Prescription drugs and pharmaceuticals, subject to our [Advertising policies](https://www.linkedin.com/legal/ads-policy)
-* Alcohol and tobacco products
-* Human body parts, organs, and fluids
-* Live animals, livestock, or animal parts
-* Gambling sites and services
-* Counterfeit items
-* Pirated software and media
-* Fabricated official documents, scraped member data, and/or financial instruments
-
+    
+    * Weapons and firearms
+    * Recreational drugs and paraphernalia
+    * Prescription drugs and pharmaceuticals, subject to our [Advertising policies](https://www.linkedin.com/legal/ads-policy)
+    * Alcohol and tobacco products
+    * Human body parts, organs, and fluids
+    * Live animals, livestock, or animal parts
+    * Gambling sites and services
+    * Counterfeit items
+    * Pirated software and media
+    * Fabricated official documents, scraped member data, and/or financial instruments
+    
 * Any content that promotes or facilitates human trafficking, exploitation, or criminal sex acts, including escort, prostitution, or mail-order bride services
+    
 * Monetization and/or exploitation of a sensitive global event, such as famine, natural disaster, pandemic, or economic collapse
+    
 * Sweepstakes, giveaways, lotteries, and contests
+    
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
 
@@ -252,11 +267,17 @@ We don’t tolerate content intended to scam, defraud, or deceive others for mon
 Examples of scams and fraud
 
 * Cash gifting schemes, including Pyramid or Ponzi schemes
+    
 * Payday loan or advance payment scams
+    
 * Cash flips, "money muling", and investment scams promising high rates of return
+    
 * Individual requests for payment, loans, and financial details, through public content or private messaging, made on false or misleading premises with the intent to defraud
+    
 * Phishing attempts, including links posted in unpaid Live Events, collecting member payment details for fraudulent purposes
+    
 * Suspicious job posts, such as those advertising “too good to be true” compensation and benefits
+    
 
 We allow members to raise awareness and educate others about scams, as well as condemn fraudulent activities. However, we’ll remove such content when it contains sensitive information, such as personally identifiable information, or functional phishing, malware, or scam links.
 
@@ -324,16 +345,20 @@ We remove depictions of extreme violence, along with image or video content that
 Examples of violent and graphic content
 
 * Depictions of mutilated and/or deceased persons or body parts (including scenes of crimes or accidents)
+    
 * Blood, gore, and human or animal fluids or waste
+    
 * Depictions of animal cruelty
+    
 * Realistic depictions of severe physical violence against a human being, including:
-
-* Murder or attempted murder
-* Rape
-* Torture
-* Beatings
-* Mass shootings
-* Extreme brutality
+    
+    * Murder or attempted murder
+    * Rape
+    * Torture
+    * Beatings
+    * Mass shootings
+    * Extreme brutality
+    
 
 Conversations on LinkedIn are often reflective of the world around us; which means that at any given time, our global member base may be impacted by military conflict, state actor violence, natural disasters, or catastrophic incidents. In cases where violent or graphic content is shared in connection with a newsworthy event, we may label such content instead of removing it from LinkedIn.
 
