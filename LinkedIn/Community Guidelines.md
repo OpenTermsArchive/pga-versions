@@ -107,13 +107,21 @@ We remove content that personally attacks, intimidates, shames, bullies, dispara
 Examples of harassment or abusive content
 
 * Directing abusive language, including negative profanity, at other members
+    
 * Insulting another member’s intelligence or mental capacity (e.g., calling other members “stupid,” “idiot,” “moron,” or “dumb”)
+    
 * Disparaging another member’s appearance, including perceived physical attractiveness, weight, height, or other bodily attributes
+    
 * Wishing death or suffering upon other members or their families
+    
 * “Doxxing” or sharing personal information about others
+    
 * Trolling, pestering, and otherwise repetitive or disruptive behavior that undermines constructive conversations between members
+    
 * Comparing people or groups to Nazis, hate or extremist groups, or sexual predators
+    
 * Calling for social or political exclusion, deportation, or banishment of any individual or group because of their political (or other non-inherent) beliefs or affiliation
+    
 
 We do allow for disagreements, commentary or criticism on policies and matters of public interest or organizations as long as they do not insult or vilify. Members may express heightened negative criticism and disapproval towards public figures, such as politicians, celebrities, prominent business leaders, or other individuals voluntarily in the public eye.
 
@@ -158,11 +166,8 @@ We remove content containing nudity or sexual activity.
 Examples of nudity and adult content
 
 * Sexually gratifying content, including pornography, simulated sex acts, erotic literature, and other graphic depictions of sex acts performed alone or with others
-    
 * Implied sex acts are activities that indicated by inference, association, or consequence rather than by direct depiction
-    
 * Full adult nudity or exposure of intimate body parts, including visible genitalia, buttocks, and breasts (excluding breastfeeding)
-    
 
 Do not share material depicting nudity or sexual activity. We don’t allow content that depicts exposed human genitalia, female breasts, and/or human buttocks. We also don’t allow content that depicts, describes, or facilitates access to sexually gratifying material. Content that depicts sexual activity is prohibited. Instances of Adult nudity that align with topics relevant to professional conversations on LinkedIn may be allowed when not gratuitous.
 
@@ -202,12 +207,16 @@ We do not allow organizations or individuals that espouse violence on LinkedIn, 
 Examples of dangerous organizations and individuals content types
 
 * Content that visually depicts acts or terrorism or that promotes or propagandizes terrorist groups, individuals, or activities
+    
 * Glorification or incitement of dangerous organizations and individuals, acts of terror or violent extremism
+    
 * Recruitment for terrorist groups or other organizations that espouse violence
+    
 * Profiles or pages created and maintained by or in support of terrorist organizations or terrorist individuals, including:
-
-* Any non-state group that (1) identifies through its stated purpose, publications, or actions as an extremist group, (2) engages or has engaged in violence and / or the promotion of violence to further its cause, and (3) targets civilians (non-military)
-* Any individual that appears in the U.S. Federal Bureau of Investigation’s [Domestic Terrorism or Most Wanted Terrorists Lists](https://www.fbi.gov/wanted/terrorism) or is a Specially Designated Global Terrorist (SDGT) by the United States Department of State or the US Department of the Treasury
+    
+    * Any non-state group that (1) identifies through its stated purpose, publications, or actions as an extremist group, (2) engages or has engaged in violence and / or the promotion of violence to further its cause, and (3) targets civilians (non-military)
+    * Any individual that appears in the U.S. Federal Bureau of Investigation’s [Domestic Terrorism or Most Wanted Terrorists Lists](https://www.fbi.gov/wanted/terrorism) or is a Specially Designated Global Terrorist (SDGT) by the United States Department of State or the US Department of the Treasury
+    
 
 Depictions of terrorist or violent extremist acts can sometimes raise awareness or condemn and there are instances when the context indicates that it was shared for one or both of those purposes. We won’t penalize members for posting content in these circumstances, but we may take steps to label and obscure such content to protect other members who may not wish to see it.
 
@@ -283,15 +292,25 @@ Hate speech, symbols, and groups are prohibited on LinkedIn. We remove content t
 Examples of hateful and derogatory content
 
 * Slurs and pejoratives used to demean others on the basis of their inherent traits
+    
 * Promoting or expressing support for hate groups or ideology via symbol or otherwise
+    
 * Expressions of disgust towards or superiority over people or groups on the basis of inherent traits
+    
 * Misgendering or deadnaming of transgender individuals
+    
 * Calls for exclusion or banishment of a specific group based on inherent traits
+    
 * Wishing that members of an inherent group die or suffer as a result of violence or serious disease
+    
 * Negative stereotypes, rooted in inherent traits, that reinforce harmful attitudes or behaviors against individuals or groups
+    
 * Subhuman characterizations, including comparisons to insects, animals, filth, disease, and denial of existence
+    
 * Holocaust denial or misappropriation of Holocaust symbology
+    
 * Denial of slavery in the United States
+    
 
 We may label rather than remove content that evokes hateful rhetoric (including slurs) in the context of counter speech, reclamation, or members’ personal experiences with racism, sexism, ableism, and other forms of prejudice or discrimination.
 
@@ -307,15 +326,10 @@ Members come to LinkedIn to foster professional connections, learn new skills, a
 Examples of sexual innuendos and unwanted advances
 
 * Content that expresses an interest in pursuing romantic or sexual relationships, romantic connections, unwelcomed requests for dating, engagement, or marriage
-    
 * Unsolicited praise or admiration directed at another member’s physical appearance including beauty, face, body, or sexuality
-    
 * Posting or sharing jokes, memes, emojis, or symbols with overt sexual connotations or otherwise commonly associated with sex acts or genitalia
-    
 * Posting or sharing sexually explicit media or language, including pornography, sexual cartoons, depictions of sex acts, or genitalia
-    
 * Statements like “you are pretty,” “we should go on a date,” “your eyes are sexy,” or any other unwanted advances of expressions of desire are likely to violate this policy
-    
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
 
@@ -356,12 +370,8 @@ The quality of conversations on LinkedIn depends on healthy, relevant content. W
 Examples of spam
 
 * Emoji / reaction polls that artificially boost engagement
-    
 * Posts that misrepresent the functionality of the LinkedIn platform (e.g. double-tap feature) to artificially increase engagement
-    
 * Widely circulated “chain letter”-type content, requesting likes, reactions, and shares
-    
 * Excessive, irrelevant, or repetitive comments or messages
-    
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
