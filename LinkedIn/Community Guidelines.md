@@ -129,6 +129,9 @@ We also allow members to call out the harassing, hateful, or otherwise abusive c
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
 
+More help
+---------
+
 Violent and graphic content
 ===========================
 
@@ -158,6 +161,9 @@ We also recognize that graphic content or content that may otherwise be sensitiv
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
 
+More help
+---------
+
 Nudity and adult content
 ========================
 
@@ -175,6 +181,9 @@ Examples of nudity and adult content
 Do not share material depicting nudity or sexual activity. We don’t allow content that depicts exposed human genitalia, female breasts, and/or human buttocks. We also don’t allow content that depicts, describes, or facilitates access to sexually gratifying material. Content that depicts sexual activity is prohibited. Instances of Adult nudity that align with topics relevant to professional conversations on LinkedIn may be allowed when not gratuitous.
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
+
+More help
+---------
 
 Illegal, dangerous, and inappropriate commercial activity
 =========================================================
@@ -205,6 +214,9 @@ Examples of illegal, dangerous, and inappropriate commercial content
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
 
+More help
+---------
+
 Dangerous organizations and individuals
 =======================================
 
@@ -227,6 +239,9 @@ Examples of dangerous organizations and individuals content types
 Depictions of terrorist or violent extremist acts can sometimes raise awareness or condemn and there are instances when the context indicates that it was shared for one or both of those purposes. We won’t penalize members for posting content in these circumstances, but we may take steps to label and obscure such content to protect other members who may not wish to see it.
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
+
+More help
+---------
 
 False or misleading content
 ===========================
@@ -266,6 +281,9 @@ Examples of false or misleading content
 
 To learn more about when we label potentially false or misleading content, rather than remove it, see [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
 
+More help
+---------
+
 Scams and fraud content
 =======================
 
@@ -289,6 +307,9 @@ Examples of scams and fraud
 We allow members to raise awareness and educate others about scams, as well as condemn fraudulent activities. However, we’ll remove such content when it contains sensitive information, such as personally identifiable information, or functional phishing, malware, or scam links.
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
+
+More help
+---------
 
 Hateful and derogatory content
 ==============================
@@ -324,6 +345,9 @@ We also allow members to call out actual or perceived hateful, prejudicial, or d
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
 
+More help
+---------
+
 Sexual innuendos and unwanted advances
 ======================================
 
@@ -343,6 +367,9 @@ Examples of sexual innuendos and unwanted advances
     
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
+
+More help
+---------
 
 Violent and graphic content
 ===========================
@@ -373,6 +400,9 @@ We also recognize that graphic content or content that may otherwise be sensitiv
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
 
+More help
+---------
+
 Spam
 ====
 
@@ -390,3 +420,6 @@ Examples of spam
     
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
+
+More help
+---------
