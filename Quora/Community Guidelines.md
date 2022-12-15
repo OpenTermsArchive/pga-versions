@@ -29,7 +29,7 @@ Platform Policies
 
 Official Quora Account
 
-* 2022-10-21T05:17:30Z
+* 2022-12-15T16:58:48Z
 
 Quora is a place that empowers people to share and grow the world's knowledge. In order to provide everyone with a safe and authentic experience using Quora, the following types of content and behaviors are prohibited:
 
@@ -56,7 +56,6 @@ Posting content or engaging in behaviors with the intent to harass, intimidate, 
 * Finding a way to repeatedly message or engage with someone after being blocked
 * Creating a Space for the sole purpose of harassing a private individual
 * Adding questions about a private individual, that would appear to a reasonable observer, to be harassment
-* Repeatedly editing someone’s questions or reverting someone’s edits when the content is policy compliant
 * Targeted insults or profanity directed at private individuals based on personal attributes, such as physical appearance.
 * Revealing someone’s personal or confidential information without permission (also known as doxxing). Examples of what we consider personal information under this policy include:
 
