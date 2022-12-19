@@ -18,15 +18,10 @@ We collect your information in three ways: [Information You Provide](#info-you-p
 
 * **Profile Information.** We collect information that you provide when you set up an account, such as your date of birth, username, email address and/or telephone number, and password. You can add other information to your profile, such as a bio or a profile photo.
 * **User Content.** We collect the content you create or publish through the Platform, such as photographs, videos, audio recordings, livestreams, and comments, and the associated metadata (such as when, where, and by whom the content was created). Even if you are not a user, information about you may appear in content created or published by users on the Platform. We collect [User Content](#user) through pre-loading at the time of creation, import, or upload, regardless of whether you choose to save or upload that [User Content](#user), for example, to recommend music based on the video. We also collect content (such as text, images, and video) from your device's clipboard if you choose to copy and paste content to or from the Platform or share content between it and a third party platform. In addition, we collect location information (such as tourist attractions, shops, or other points of interest) if you choose to add the location information to your [User Content](#user).
-
 * **Direct Messages.** If you communicate with others using direct messages, we collect the content of the message and the associated metadata (such as the time the message was sent, received and/or read, as well as the participants in the communication). We do this to block spam, detect crime, and to safeguard our users.
-
 * **Your Contacts.** If you choose to import your contacts, we will collect information from your device’s phone book or your social media contacts. We use this information to help you make connections, including when you are using our “Find Friends” function and to suggest accounts to you.
-
 * **Purchase Information.** We collect your payment card information or other third-party payment information (such as PayPal) where payment is required. We also collect your transaction and purchase history.
-
 * **Surveys, Research, and Promotions.** We collect information you provide if you choose to participate in a survey, research, promotion, contest, marketing campaign, or event conducted or sponsored by us.
-
 * **Information When You Contact Us.** When you contact us, we collect the information you send us, such as proof of identity or age, feedback or inquiries about your use of the Platform or information about possible violations of our [Terms of Service](https://www.tiktok.com/legal/terms-of-service-eea?lang=en) (our “**Terms**”), [Community Guidelines](https://www.tiktok.com/community-guidelines?lang=en) (our “**Guidelines**”), or other policies.
 
 ### **Automatically Collected Information**
@@ -101,7 +96,7 @@ We engage service providers that help us provide, support, and develop the Platf
 
 ### **Our Corporate Group**
 
-As a global company, the Platform is supported by certain entities within our corporate group (“**Corporate Group**”). These entities process [Information You Provide](#info-you-provide), [Automatically Collected Information](#auto-collect-info), and [Information From Other Sources](#info-from-other) for us as necessary to provide important functions, such as storage, content delivery, security, research and development, analytics, online payments, customer and technical support, and content moderation. See [Our Global Operations and Data Transfers](#data-transfer) for additional information.
+As a global company, the Platform is supported by certain entities within our corporate group (“**Corporate Group**”). These entities process [Information You Provide](#info-you-provide), [Automatically Collected Information](#auto-collect-info), and [Information From Other Sources](#info-from-other) for us as necessary to provide important functions, such as storage, content delivery, security, research and development, analytics, online payments, customer and technical support, and content moderation. See [Our Global Operations and Data Transfers](#toc-header-7) for additional information.
 
 ### **Others**
 
@@ -130,7 +125,7 @@ To learn more about how we handle requests from law enforcement agencies and pub
 
 We may only use your information when we have a “legal basis” to do so. We use different legal bases depending on why we use your information (in other words, the “purpose” of our processing). These legal bases are contractual necessity, legitimate interests (ours, yours or those of another party), consent, compliance with a legal obligation, performing a task in the public interest, and protection of vital interests.
 
-Here we explain the legal bases we rely on when we process your information. This section also describes why we use your information, how this information is processed, the categories of information involved, and the associated rights (which always includes the right to access your information). For more information on how to exercise any of your rights, please check out the “[Your Rights and Choices](#your-rights)” section in the Privacy Policy.
+Here we explain the legal bases we rely on when we process your information. This section also describes why we use your information, how this information is processed, the categories of information involved, and the associated rights (which always includes the right to access your information). For more information on how to exercise any of your rights, please check out the “[Your Rights and Choices](#toc-header-5)” section in the Privacy Policy.
 
 ### **Contractual Necessity**
 
@@ -330,21 +325,21 @@ We may amend or update this Privacy Policy from time to time. We will notify you
 
 (please also see the language settings for other available languages)
 
-Bulgarian: [Политика за защита на личните данни](https://www.tiktok.com/legal/bg-privacy-policy-eea?lang=en)  
+Bulgarian: [Политика за защита на личните данни](https://www.tiktok.com/legal/bg-privacy-policy-eea?lang=en)
 
-Croatian: [Politika privatnosti](https://www.tiktok.com/legal/croatia-privacy-policy-eea?lang=en)  
+Croatian: [Politika privatnosti](https://www.tiktok.com/legal/croatia-privacy-policy-eea?lang=en)
 
-Danish: [Privatlivspolitik](https://www.tiktok.com/legal/dadk-privacy-policy-eea?lang=en)  
+Danish: [Privatlivspolitik](https://www.tiktok.com/legal/dadk-privacy-policy-eea?lang=en)
 
-Estonian: [Privaatsuspoliitika](https://www.tiktok.com/legal/eree-privacy-policy-eea?lang=en)  
+Estonian: [Privaatsuspoliitika](https://www.tiktok.com/legal/eree-privacy-policy-eea?lang=en)
 
-Latvian: [Privātuma politika](https://www.tiktok.com/legal/lv-privacy-policy-eea?lang=en)  
+Latvian: [Privātuma politika](https://www.tiktok.com/legal/lv-privacy-policy-eea?lang=en)
 
-Lithuanian: [Privatumo politika](https://www.tiktok.com/legal/lt-privacy-policy-eea?lang=en)  
+Lithuanian: [Privatumo politika](https://www.tiktok.com/legal/lt-privacy-policy-eea?lang=en)
 
-Norwegian: [Personvernerklæring](https://www.tiktok.com/legal/no-privacy-policy-eea?lang=en)  
+Norwegian: [Personvernerklæring](https://www.tiktok.com/legal/no-privacy-policy-eea?lang=en)
 
-Slovakian: [Predpis o ochrane osobných údajov](https://www.tiktok.com/legal/sk-privacy-policy-eea?lang=en)  
+Slovakian: [Predpis o ochrane osobných údajov](https://www.tiktok.com/legal/sk-privacy-policy-eea?lang=en)
 
 **Contact Us**
 --------------
