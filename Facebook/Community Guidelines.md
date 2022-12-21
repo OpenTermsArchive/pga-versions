@@ -21,7 +21,7 @@ The goal of our Community Standards is to create a place for expression and give
 
 Our commitment to expression is paramount, but we recognize the internet creates new and increased opportunities for abuse. For these reasons, when we limit expression, we do it in service of one or more of the following values:
 
-![](https://scontent-fra5-2.xx.fbcdn.net/v/t39.8562-6/136893606_849918935579882_213472362566516880_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6825c5&_nc_ohc=aUnSPgjIQhsAX8BI1Ts&_nc_ht=scontent-fra5-2.xx&oh=00_AfCTra2dzq-8SLwHTNp6lPJPQmxrVkGkHX3wq8smAwv1Rg&oe=63A7BB0F)
+![](https://scontent-fra5-2.xx.fbcdn.net/v/t39.8562-6/136893606_849918935579882_213472362566516880_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6825c5&_nc_ohc=aUnSPgjIQhsAX8BI1Ts&_nc_ht=scontent-fra5-2.xx&oh=00_AfCTra2dzq-8SLwHTNp6lPJPQmxrVkGkHX3wq8smAwv1Rg&oe=63A7BB0F)
 
 AUTHENTICITY
 ------------
