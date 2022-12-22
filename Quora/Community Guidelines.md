@@ -29,7 +29,7 @@ Platform Policies
 
 Official Quora Account
 
-* 2022-12-15T16:58:48Z
+* 2022-12-19T19:21:31Z
 
 Quora is a place that empowers people to share and grow the world's knowledge. In order to provide everyone with a safe and authentic experience using Quora, the following types of content and behaviors are prohibited:
 
@@ -46,7 +46,7 @@ Spam negatively impacts interaction on the platform, reduces trust, and inhibits
 * Doing any of the following for the purpose of driving traffic to an external site or for monetary gain:
 
 * Posting irrelevant answers or comments
-* Editing existing questions to include links or irrelevant information
+* Editing your questions to include links or irrelevant information
 
 ### [Harassment and Bullying](#h_01GFWFFH6XDYCRCYR30NBF6WBM)
 
@@ -202,7 +202,7 @@ Spaces Policies
 
 Official Quora Account
 
-* 2022-09-27T18:20:44Z
+* 2022-12-19T19:21:34Z
 
 On Quora, people share questions, answers, and other content to collectively build knowledge and community within a Space. Quora generally moderates items within Spaces at a content-level, however, repeated or serious violations may result in the removal of the entire Space. Note that Space admins may decide to set more restrictive policies for individual Spaces that they manage. Below are the following policies for Quora Spaces:
 
@@ -226,7 +226,6 @@ Posting content or engaging in behaviors with the intent to harass, intimidate, 
 * Finding a way to repeatedly message or engage with someone after being blocked
 * Creating a Space for the sole purpose of harassing a private individual
 * Adding questions about a private individual, that would appear to a reasonable observer, to be harassment
-* Repeatedly editing someone’s questions or reverting someone’s edits when the content is policy compliant
 * Targeted insults or profanity directed at private individuals based on personal attributes, such as physical appearance.
 * Revealing someone’s personal or confidential information without permission (also known as doxxing). Examples of what we consider personal information under this policy include:
 
@@ -330,7 +329,7 @@ Spam negatively impacts interaction on the platform, reduces trust, and inhibits
 * Doing any of the following for the purpose of driving traffic to an external site or for monetary gain:
 
 * Posting irrelevant answers or comments
-* Editing existing questions to include links or irrelevant information
+* Editing your questions to include links or irrelevant information
 
 ### [Impersonation](#h_01FSDDZ1HT20K0EZWQHPPWVJGK)
 
