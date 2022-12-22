@@ -264,29 +264,29 @@ Spam
 Paid Partnership guidelines
 ---------------------------
 
-* What is a Paid Partnership?
-    ---------------------------
+* #### What is a paid partnership?
     
-    We define a Paid Partnership as any sponsored or branded content on Pinterest that features or is influenced by a business partner for an exchange of value, such as if a business partner has paid or otherwise incentivized a user to save the content.
+    We define a paid partnership as any sponsored or branded content on Pinterest that features or is influenced by a business partner for an exchange of value, such as if a business partner has paid or otherwise incentivized a user to save the content.
     
-    What are the Guidelines?
-    ------------------------
+    #### What are the guidelines?
     
-    All Paid Partnerships must disclose the commercial nature of their content. In addition to abiding by the [Community Guidelines](https://policy.pinterest.com/community-guidelines), users that participate in Paid Partnerships are responsible for complying with:
+    All paid partnerships must disclose the commercial nature of their content. In addition to abiding by the [Community guidelines](https://policy.pinterest.com/community-guidelines), users that participate in paid partnerships must:
     
-    * All applicable laws and regulations, including but not limited to, all advertising laws and Federal Trade Commission regulations including the [FTC’s Endorsement Guidelines](https://www.ftc.gov/tips-advice/business-center/guidance/ftcs-endorsement-guides-what-people-are-asking).
-    * All applicable disclosures required to indicate the commercial nature of your content (such as the use of #ad to indicate that your content is a Paid Partnership).
-    * Paid Partnerships must adhere to our [Advertising guidelines](https://policy.pinterest.com/advertising-guidelines), including the Prohibited and Restricted content guidelines.
+    * Comply with all applicable advertising laws and regulations
+    * Include a clear disclosure to indicate the commercial nature of your content (such as the use of #ad to indicate that your content is a paid partnership, or applying a label to your content using Pinterest’s [paid partnership tool](https://help.pinterest.com/business/article/paid-partnerships-for-creators))
+    * Adhere to our [Advertising guidelines](https://policy.pinterest.com/advertising-guidelines), including the prohibited and restricted content guidelines
     
     To prevent inauthentic content and behavior:
     
-    * Make sure you’re posting relevant content to relevant boards. 
-    * Keep the content of your posts high-quality and avoid spammy behavior. 
-    * Save content you have an authentic interest in.
+    * Make sure you’re posting relevant content to relevant boards
+    * Keep the content of your posts high-quality and avoid spammy behavior 
+    * Save content you have an authentic interest in
     
     Don't incentivize or pay people to distribute content in large volumes, in spammy ways or for each Pin they save.
     
     * For example, a business can't pay people for each board they follow or Pin they save. It's okay for a business to pay a guest blogger to curate a board for their brand or through pay-per-click payment structures (such as affiliate links), but they can't pay large groups of people to save specific Pins to artificially inflate the popularity of their content.
+    
+    We may remove, limit or block the distribution of content or accounts that violate our paid partnership guidelines. If you have questions or encounter problems on Pinterest, you can [contact us](https://help.pinterest.com/contact).
     
 
 Affiliate guidelines
