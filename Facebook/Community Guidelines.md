@@ -441,7 +441,10 @@ Content that:
 
 * Content that attempts to buy, sell, trade, donate or gift or asks for historical artifacts.
 
-Except when any of the above occurs in a fictional or documentary context
+**Entheogens**
+
+* Content that attempts to buy, sell, trade, donate or gift or asks for entheogens.
+* Note: Debating or advocating for the legality or discussing scientific or medical merits of entheogens is allowed.
 
 **Hazardous Goods and Materials**
 
@@ -480,6 +483,11 @@ Content that
 **Real money gambling**
 
 * Content that attempts to sell or promote online gaming and gambling services where anything of monetary value (including cash or digital/virtual currencies, e.g. bitcoin) is required to play and anything of monetary value forms part of the prize.
+
+**Entheogens**
+
+* Content that shows admission to personal use of, coordinates or promotes (by which we mean speaks positively about), or encourages the use of) entheogens.
+* Except when any of the above occurs in a fictional or documentary context.
 
 #### For the following Community Standards, we require additional information and/or context to enforce:
 
@@ -671,10 +679,8 @@ Content that attempts to exploit minors by:
 
 **Sexualization of children**
 
-Content that solicits imagery of child sexual exploitation, or nude or sexualized images or videos of children
-
-* Content (including photos, videos, real-world art, digital content, and verbal depictions) that shows children in a sexualized context.
-* Groups, Pages and profiles targeted to sexualizing children.
+* Content (including photos, videos, real-world art, digital content, and verbal depictions) that sexualizes children.
+* Groups, Pages and profiles dedicated to sexualizing children.
 
 **Child nudity**
 
@@ -1172,10 +1178,12 @@ Live streams of capital punishment of a person
 
 **Sadistic Remarks**
 
-* Sadistic remarks towards imagery that is deleted or put behind a warning screen under this policy, unless there is a self-defense context or explicit educational context in a medical setting.
-* Sadistic remarks towards imagery of one or more persons subjected to violence and/or humiliating acts by one or more uniformed personnel doing a police function.
+* Sadistic remarks towards imagery that is put behind a warning screen under this policy advising people that the content may be disturbing, unless there is a self-defense context or medical setting.
+* Sadistic remarks towards the following content which includes a label so that people are aware it may be sensitive:
+    * Imagery of one or more persons subjected to violence and/or humiliating acts by one or more uniformed personnel doing a police function.
+    * Imagery of fetuses or newborn babies.
+    * Explicit sadistic remarks towards the suffering of animals depicted in the imagery.
 * Offering or soliciting imagery that is deleted or put behind a warning screen under this policy, when accompanied by sadistic remarks.
-* Explicit sadistic remarks towards the suffering of animals depicted in the imagery.
 
 #### For the following content, we include a warning screen so that people are aware the content may be disturbing. We also limit the ability to view the content to adults, ages 18 and older:
 
@@ -1372,6 +1380,11 @@ Because account level removal is a severe action, whenever possible, we aim to g
 * Create or use an account that demonstrates an intent to violate our Community Standards.
 * Create or use an account by scripted or other inauthentic means.
 * Create an account, Page, Group or Event to evade our enforcement actions, including creating an account to bypass a restriction or after we have disabled your previous account, Page, Group or Event.
+* Create or use an account that deliberately misrepresents your identity in order to mislead or deceive others, or to evade enforcement or violate our other Community Standards. We consider a number of factors when assessing misleading identity misrepresentation, such as:
+    * Repeated or significant changes to identity details, such as name or age
+    * Misleading profile information, such as bio details and profile location
+    * Using stock imagery or stolen photos
+    * Other related account activity
 * Impersonate others by:
     * Using their photos with the explicit aim to deceive others.
     * Creating an account assuming to be or speak for another person or entity.
