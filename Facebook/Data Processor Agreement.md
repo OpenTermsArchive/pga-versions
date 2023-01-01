@@ -60,4 +60,4 @@ Português (Brasil)
     
       ·
 
-Meta © 2022
+Meta © 2023
