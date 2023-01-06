@@ -901,7 +901,7 @@ Content that
 
 **Entheogens**
 
-* Content that shows admission to personal use of, coordinates or promotes (by which we mean speaks positively about), or encourages the use of) entheogens.
+* Content that shows admission to personal use of, coordinates or promotes (by which we mean speaks positively about), or encourages the use of entheogens.
 * Except when any of the above occurs in a fictional or documentary context.
 
 #### For the following Community Standards, we require additional information and/or context to enforce:
