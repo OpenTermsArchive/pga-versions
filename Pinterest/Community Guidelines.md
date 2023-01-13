@@ -232,11 +232,8 @@ Site security and access
     * Don’t try to reverse engineer our software.
     * Don’t try to interfere with people on Pinterest or our hosts or networks, like sending a virus, overloading, spamming or mail-bombing.
     * Don’t collect or store personally identifiable information from Pinterest or people on Pinterest without permission.
-        
     * Don’t share your password, let anyone access your account or do anything that might put your account at risk.
-        
     * Don’t attempt to buy or sell access to your account, boards, or usernames, or otherwise transfer account features for compensation.
-        
     
     You can’t use Pinterest if it would be prohibited by [US sanctions](https://www.treasury.gov/resource-center/sanctions/Pages/default.aspx). Personal accounts and business accounts are currently not available in North Korea.  Business accounts are currently not available in Crimea, Cuba, Iran, North Korea or Syria.
     
@@ -315,8 +312,6 @@ Contest guidelines
 * * Don't require people to save a specific image. Give people the ability to choose Pins based on their tastes and preferences, even if it's from a selection or a given website.
     * Don't allow more than one entry per person.
     * Don't suggest that Pinterest sponsors or endorses you or the promotion.
-        
     * Do review our [brand guidelines](https://business.pinterest.com/brand-guidelines) for general rules about using the Pinterest brand.
-        
     
     Lastly, be sure to follow all relevant laws and regulations.
