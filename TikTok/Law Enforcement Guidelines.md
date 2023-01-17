@@ -20,10 +20,10 @@ First, requests must be addressed to the correct TikTok entity. This is based on
 
 |     |     |
 | --- | --- |
-| **TikTok Inc.**  <br>5800 Bristol Parkway, Suite 100  <br>Culver CIty, CA 90230  <br>UNITED STATES | Requests for data of users located in the United States |
+| **TikTok Inc.**  <br>5800 Bristol Parkway, Suite 100  <br>Culver City, CA 90230  <br>UNITED STATES | Requests for data of users located in the United States |
 | **TikTok Information Technologies UK Limited**  <br>6th Floor  <br>One London Wall  <br>London, EC2Y 5EB  <br>UNITED KINGDOM | Requests for data of users located in the United Kingdom |
 | **TikTok Technology Limited**  <br>10 Earlsfort Terrace  <br>Dublin, D02 T380  <br>IRELAND | Requests for data of users located in the European Economic Area (EU Member States, plus Iceland, Liechtenstein, and Norway) and Switzerland. |
-| **TikTok Pte. Limited**  <br>1 Raffles Quay,  <br>#19-11, South Tower,  <br>SINGAPORE 048583 | Requests for data of users located outside the US, the UK, EEA or Switzerland. |
+| **TikTok Pte. Limited**  <br>One Raffles Quay,  <br>#26-10, South Tower,  <br>SINGAPORE 048583 | Requests for data of users located outside the US, the UK, EEA or Switzerland. |
 
 Please note that requests addressed to the incorrect TikTok entity may not be processed until this error has been rectified, which may cause unnecessary delay.
 
