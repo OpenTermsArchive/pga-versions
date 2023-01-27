@@ -118,7 +118,7 @@ TikTok Law Enforcement Frequently Asked Questions (“FAQS”)
 
   
 
-_These FAQS should be read together with TikTok’s_ [Law Enforcement Guidelines](#Guidelines)
+_These FAQS should be read together with TikTok’s_ [Law Enforcement Guidelines](#Guidelines)  
 
   
 
@@ -133,6 +133,8 @@ All requests received undergo a case-by-case assessment by TikTok’s dedicated 
 TikTok’s requirements for disclosing user data to law enforcement authorities are clearly set out in our [Law Enforcement Guidelines](#Guidelines) (in particular see Sections 1 and 3). These requirements reflect our internal policies and procedures for handling requests from law enforcement authorities, and are based on applicable legal requirements. Because the applicable laws vary from one country to another, the rules on when data can legally be disclosed will also vary to some extent and our internal policies and procedures reflect this.
 
 ### **Q: How do I find the TikTok username?**
+
+![](https://p16-tiktokcdn-com.akamaized.net/obj/tiktok-obj/3e0c93efbcbe2a9bafaf6f1f59f6eb4c.png)
 
 ### **Q: Does TikTok ever reject data requests from law enforcement authorities?**
 
