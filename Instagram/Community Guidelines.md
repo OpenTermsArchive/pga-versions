@@ -1093,7 +1093,7 @@ Threats that could lead to death (and other forms of high-severity violence) and
 * Aspirational or conditional statements to commit high-severity violence.
 * Statements admitting to committing high-severity violence except when shared in a context of redemption, self-defense or when committed by law enforcement, military or state security personnel.
 
-Content that asks, admits to offering or offers services for hire to kill others (for example, hitmen, mercenaries, assassins) or advocates for the use of a hitman, mercenary or assassin against a target
+Content that asks for, offers, or admits to offering services of high-severity violence (for example, hitmen, mercenaries, assassins, female genital mutilation) or advocates for the use of these services
 
 Admissions, statements of intent or advocacy, calls to action, or aspirational or conditional statements to kidnap or abduct a target or that promotes, supports or advocates for kidnapping or abduction
 
@@ -1125,7 +1125,7 @@ Instructions on how to make or use weapons if there is evidence of a goal to ser
 
 * Language explicitly stating that goal, or
 * Photos or videos that show or simulate the end result (serious injury or death) as part of the instruction.
-* Unless the aforementioned content is shared as part of recreational self defense, for military training purposes, commercial video games, or news coverage (posted by a Page or with a news logo).
+* Unless when shared in a context of recreational self defense, for military training purposes, commercial video games, or news coverage (posted by a Page or with a news logo).
 
 Providing instructions on how to make or use explosives, unless there is clear context that the content is for a non-violent purpose (for example, part of commercial video games, clear scientific/educational purpose, fireworks or specifically for fishing)
 
@@ -1287,7 +1287,7 @@ Note: This policy does not apply to individuals who are part of designated organ
     * Acting/pretending to be a victim of an event.
     * Otherwise paid or employed to mislead people about their role in the event.
 
-* Threatening to release an individual's private phone number, residential address or email address.
+* Threatening to release an individual's private phone number, residential address, email address or medical records (as defined in the Privacy Violations policy).
 * Making statements of intent to engage in a sexual activity or advocating for them to engage in a sexual activity.
 * Making severe sexualized commentary
 * Sharing derogatory sexualized photoshopped imagery or drawings
@@ -1363,7 +1363,7 @@ Note: This policy does not apply to individuals who are part of designated organ
 * Claims about religious identity or blasphemy.
 * Comparisons to animals or insects that are not culturally perceived as intellectually or physically inferior (“tiger," “lion").
 * Neutral or positive physical descriptions.
-* Non-negative character or ability claims.
+* Non-negative character or ability claims (including claims about mental illness).
 * Any bullying or harassment violation, when shared in an endearing context.
 * Attacks through derogatory terms related to a lack of sexual activity.
 
