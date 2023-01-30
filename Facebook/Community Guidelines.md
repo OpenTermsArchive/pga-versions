@@ -314,7 +314,7 @@ In an effort to prevent and disrupt offline harm and copycat behavior, we prohib
 Coordinating (statements of intent, calls to action, representing, supporting or advocacy), or depicting, admitting to or promoting acts of physical harm against animals committed by you or your associates except in cases of:
 
 * Redemption
-* hunting or fishing
+* Hunting or fishing
 * Religious sacrifice
 * Food preparation or processing
 * Pests or vermin
@@ -334,7 +334,7 @@ Statements of intent, calls to action, representing, supporting or advocating fo
 * Hacking when the intent is to hijack a domain, corrupt or disrupt cyber systems, seek ransoms or gain unauthorized access to data systems.
 * Theft when committed by you or your associates, as well as positive statements about theft when committed by a third party.
 
-Voter and/or census fraud
+**Voter and/or census fraud**
 
 * Offers to buy or sell votes with cash or gifts
 * Statements that advocate, provide instructions, or show explicit intent to illegally participate in a voting or census process
@@ -817,7 +817,7 @@ Note: This policy does not apply to individuals who are part of designated organ
     * Acting/pretending to be a victim of an event.
     * Otherwise paid or employed to mislead people about their role in the event.
 
-* Threatening to release an individual's private phone number, residential address, email address or medical records (as defined in the Privacy Violations policy).
+* Threatening to release an individual's private phone number, residential address, email address or medical records (as defined in the [Privacy Violations policy](https://transparency.fb.com/policies/community-standards/privacy-violations-image-privacy-rights/)).
 * Making statements of intent to engage in a sexual activity or advocating for them to engage in a sexual activity.
 * Making severe sexualized commentary
 * Sharing derogatory sexualized photoshopped imagery or drawings
