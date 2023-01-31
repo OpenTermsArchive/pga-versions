@@ -29,7 +29,7 @@ On our Products, you can send messages, take photos and videos, buy or sell thin
 
 * Content you create, like posts, comments or [audio\[5\]](#annotation-5)
 * Content you provide through our camera feature or your camera roll settings, or through our voice-enabled features. [Learn more\[6\]](#annotation-6) about what we collect from these features, and how we use information from the camera for masks, filters, avatars and effects.
-* Messages you send and receive, including their content, subject to [applicable law](https://mbasic.facebook.com/privacy/policy/printable/https%3A%2F%2Flm.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fabout.fb.com%2Fnews%2F2020%2F12%2Fchanges-to-facebook-messaging-services-in-europe%2F). We can't see the content of [end-to-end encrypted](https://www.facebook.com/help/messenger-app/786613221989782) messages unless users report them to us for review. [Learn more](http://www.messenger.com/privacy).
+* Messages you send and receive, including their content, subject to [applicable law](https://mbasic.facebook.com/privacy/policy/printable/https%3A%2F%2Flm.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fabout.fb.com%2Fnews%2F2020%2F12%2Fchanges-to-facebook-messaging-services-in-europe%2F). We can't see the content of [end-to-end encrypted](https://www.facebook.com/help/messenger-app/786613221989782) messages unless users report them to us for review. [Learn more](https://www.messenger.com/privacy).
 * [Metadata\[7\]](#annotation-7) about content and messages, subject to applicable law
 * Types of content you view or interact with, and how you interact with it
 * Apps and features you use, and what actions you take in them. [See examples\[8\]](#annotation-8).
@@ -670,7 +670,7 @@ We process information for the following legal bases:
 Performance of a contract
 -------------------------
 
-We process your information that’s necessary to fulfil our contracts with you. This means providing the services laid out in the Facebook [Terms of Service](https://www.facebook.com/terms.php?ref=dp), the Instagram [Terms of Use](https://mbasic.facebook.com/privacy/policy/printable/http%3A%2F%2Flm.facebook.com%2Fl.php%3Fu=http%3A%2F%2Fhelp.instagram.com%2F581066165581870%2F%3Fhelpref%3Duf_share), the [Supplemental Oculus Terms of Service](https://www.oculus.com/legal/terms-of-service/?locale=en_GB), the [Supplemental Portal Terms of Service](https://portal.facebook.com/gb/legal/terms-of-service/) and the [Supplemental Facebook View Terms of Service](https://www.facebook.com/help/ray-ban-stories/1247963662288636), together, the “terms.”
+We process your information that’s necessary to fulfil our contracts with you. This means providing the services laid out in the Facebook [Terms of Service](https://www.facebook.com/terms.php?ref=dp), the Instagram [Terms of Use](https://mbasic.facebook.com/privacy/policy/printable/https%3A%2F%2Flm.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fhelp.instagram.com%2F581066165581870%2F%3Fhelpref%3Duf_share), the [Supplemental Oculus Terms of Service](https://www.oculus.com/legal/terms-of-service/?locale=en_GB), the [Supplemental Portal Terms of Service](https://portal.facebook.com/gb/legal/terms-of-service/) and the [Supplemental Facebook View Terms of Service](https://www.facebook.com/help/ray-ban-stories/1247963662288636), together, the “terms.”
 
 [Learn more](#18.2-PerformanceOfAContract)
 
