@@ -1287,7 +1287,7 @@ Note: This policy does not apply to individuals who are part of designated organ
     * Acting/pretending to be a victim of an event.
     * Otherwise paid or employed to mislead people about their role in the event.
 
-* Threatening to release an individual's private phone number, residential address, email address or medical records (as defined in the Privacy Violations policy).
+* Threatening to release an individual's private phone number, residential address, email address or medical records (as defined in the [Privacy Violations policy](https://transparency.fb.com/policies/community-standards/privacy-violations-image-privacy-rights/)).
 * Making statements of intent to engage in a sexual activity or advocating for them to engage in a sexual activity.
 * Making severe sexualized commentary
 * Sharing derogatory sexualized photoshopped imagery or drawings
