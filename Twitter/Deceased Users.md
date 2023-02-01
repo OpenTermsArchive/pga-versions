@@ -4,7 +4,7 @@ Deceased individuals
 ### Overview
 
 **  
-March 2019**
+January 2023**
 
 Sharing images or videos of a deceased individual can cause serious distress to the deceased’s family and can also negatively impact the well-being of others who view this content. Out of respect for the deceased and those impacted by their death, as well as to decrease the impact of unintended exposure to graphic media, we may ask you to remove images and videos that depict the death of an identifiable person.   
 
@@ -51,10 +51,14 @@ You can report this content for review via [our private information report form]
 
 ### What happens if you violate this policy?  
 
-**  
-We will immediately and permanently suspend any account** that is dedicated to sharing media of deceased individuals for sadistic purposes. 
+  
+We may permanently suspend your account if the majority of your activity on Twitter is sharing this type of media.
 
-**In other cases, we may not suspend an account immediately.** This is because some people share this content inadvertently, to express shock, disbelief or to denounce violent events. In these cases, we will require you to remove this content. We may also temporarily lock you out of your account before you can Tweet again. If you violate this policy again after a second warning, your account will be permanently suspended. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+If you share this type of media in live video and profile images – the first time you violate this policy, we will require you to remove this content. If you violate this policy again after your first warning, your account may be permanently suspended.
+
+If shared in a Tweet, we may require you to remove this content, even if  shared inadvertently or to express shock, disbelief, or to denounce violent events.
+
+If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
   
 
 ### Additional resources  
