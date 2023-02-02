@@ -18,7 +18,7 @@ Sexual Content
     
 * We prohibit any activity that involves sexual exploitation or abuse of a minor, including sharing child sexual exploitation or abuse imagery, grooming, or sexual extortion (sextortion).  We report all instances of child sexual exploitation to authorities, including attempts to engage in such conduct. Never post, save, send, forward, distribute, or ask for nude or sexually explicit content involving anyone under the age of 18 (this includes sending or saving such images of yourself). 
     
-* For more information about sexual conduct and content that violates our Community Guidelines, please review [this explainer](https://www.snap.com/en-GB/values.snap.com/privacy/transparency/community-guidelines/sexual-content).
+* For more information about sexual conduct and content that violates our Community Guidelines, please review [this explainer](https://values.snap.com/privacy/transparency/community-guidelines/sexual-content).
     
 
   
@@ -28,7 +28,7 @@ Harassment & Bullying
     
 * Sharing another person’s private information, or images of a person in a private space — like a bathroom, bedroom, locker room, or medical facility — without their knowledge and consent is disallowed.
     
-* If someone is depicted in your Snap and asks you to remove it, please do! Respect the privacy rights of others. Please also do not harass another Snapchatter by abusing our reporting mechanisms, such as intentionally reporting content that is permissible.For more information about bullying and harassment that violates our Community Guidelines, please review [this explainer](https://www.snap.com/en-GB/values.snap.com/privacy/transparency/community-guidelines/harassment-and-bullying).
+* If someone is depicted in your Snap and asks you to remove it, please do! Respect the privacy rights of others. Please also do not harass another Snapchatter by abusing our reporting mechanisms, such as intentionally reporting content that is permissible.For more information about bullying and harassment that violates our Community Guidelines, please review [this explainer](https://values.snap.com/privacy/transparency/community-guidelines/harassment-and-bullying).
     
 
   
@@ -40,7 +40,7 @@ Threats, Violence & Harm
     
 * We don’t allow the glorification of self-harm, including the promotion of self-injury, suicide or eating disorders.
     
-* For more information about threats, violence, and harm that violate our Community Guidelines, please review [this explainer](https://www.snap.com/en-GB/values.snap.com/privacy/transparency/community-guidelines/threats).
+* For more information about threats, violence, and harm that violate our Community Guidelines, please review [this explainer](https://values.snap.com/privacy/transparency/community-guidelines/threats).
     
 
   
@@ -52,7 +52,7 @@ Harmful False or Deceptive Information
     
 * We prohibit spam and deceptive practices, including imitating Snapchat or Snap Inc.
     
-* For more information about harmful false or deceptive content that violates our Community Guidelines, please review [this explainer](https://www.snap.com/en-GB/values.snap.com/privacy/transparency/community-guidelines/harmful-false-information).
+* For more information about harmful false or deceptive content that violates our Community Guidelines, please review [this explainer](https://values.snap.com/privacy/transparency/community-guidelines/harmful-false-information).
     
 
   
@@ -62,7 +62,7 @@ Illegal or Regulated Activities
     
 * We prohibit the illegal promotion of regulated goods or industries, including unauthorized promotion of gambling, tobacco or vape products, and alcohol.
     
-* For more information about prohibited illegal or regulated activities that violate our Community Guidelines, please review [this explainer](https://www.snap.com/en-GB/values.snap.com/privacy/transparency/community-guidelines/illegal-or-regulated-activities).
+* For more information about prohibited illegal or regulated activities that violate our Community Guidelines, please review [this explainer](https://values.snap.com/privacy/transparency/community-guidelines/illegal-or-regulated-activities).
     
 
   
@@ -72,7 +72,7 @@ Hateful Content, Terrorism, and Violent Extremism
     
 * Hate speech or content that demeans, defames, or promotes discrimination or violence on the basis of race, color, caste, ethnicity, national origin, religion, sexual orientation, gender identity, disability, or veteran status, immigration status, socio-economic status, age, weight, or pregnancy status is prohibited.
     
-* For more information about hateful content, terrorism, and violent extremism that violates our Community Guidelines, please review [this explainer](https://www.snap.com/en-GB/values.snap.com/privacy/transparency/community-guidelines/hateful-content).
+* For more information about hateful content, terrorism, and violent extremism that violates our Community Guidelines, please review [this explainer](https://values.snap.com/privacy/transparency/community-guidelines/hateful-content).
     
 
   
