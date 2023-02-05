@@ -246,7 +246,7 @@ More help
 False or misleading content
 ===========================
 
-It is a violation of [LinkedIn’s Professional Community Policies](https://www.linkedin.com/legal/professional-community-policies) to post false or misleading content. We remove specific claims, presented as fact, that are demonstrably false or substantially misleading. We also remove or label content that contains disputed claims relating to sensitive political or socially divisive topics.
+It is a violation of [LinkedIn’s Professional Community Policies](https://www.linkedin.com/legal/professional-community-policies) to post false or misleading content. We remove specific claims, presented as fact, that are demonstrably false or substantially misleading. We also remove content that contains disputed claims relating to sensitive political or socially divisive topics that we are unable to establish as true or untrue and are likely to cause physical harm or violence.
 
 Examples of false or misleading content
 
@@ -279,7 +279,7 @@ Examples of false or misleading content
     * No one has died or become severely ill after contracting COVID-19
     
 
-To learn more about when we label potentially false or misleading content, rather than remove it, see [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
+To learn more about when we remove content that violates our Professional Community Policies, see [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
 
 More help
 ---------
