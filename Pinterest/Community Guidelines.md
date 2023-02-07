@@ -206,7 +206,7 @@ To protect the Pinterest platform, we ask that you please:
 * Don’t share your password, let anyone access your account or do anything that might put your account at risk.
 * Don’t attempt to buy or sell access to your account, boards, or usernames, or otherwise transfer account features for compensation.
 
-You can’t use Pinterest if it would be prohibited by US sanctions. Personal accounts and business accounts are currently not available in North Korea.  Business accounts are currently not available in Crimea, Cuba, Iran, North Korea or Syria.
+You can’t use Pinterest if it would be prohibited by US sanctions. Personal accounts and business accounts are currently not available in North Korea.  Business accounts are currently not available in Crimea, Cuba, Donetsk People's Republic, Iran, Luhansk People's Republic, North Korea or Syria.
 
 Spam
 
