@@ -65,11 +65,7 @@ Pinterest isn’t a place for misinformation, disinformation, mal-information or
 * False or misleading information about public safety that is intended to deter people from exercising their right to vote or participate in a census.
 * Content that encourages or instructs voters or participants to misrepresent themselves or illegally participate.
 * Content apparently intended to delegitimize election results on the basis of false or misleading claims.
-* Threats against voting locations, census or voting personnel, voters or census participants, including intimidation of vulnerable or protected group voters or participants.
-
-**Climate misinformation:**
-
-* Content that denies the existence or impacts of climate change, the human influence on climate change, or that climate change is backed by scientific consensus.
+* Threats against voting locations, census or voting personnel, voters or census participants, including intimidation of vulnerable or protected group voters or participants.Climate misinformation:* Content that denies the existence or impacts of climate change, the human influence on climate change, or that climate change is backed by scientific consensus.
 * False or misleading content about climate change solutions that contradict well-established scientific consensus.
 * Content that misrepresents scientific data, including by omission or cherry-picking, in order to erode trust in climate science and experts.
 * Harmful false or misleading content about public safety emergencies including natural disasters and extreme weather events.
