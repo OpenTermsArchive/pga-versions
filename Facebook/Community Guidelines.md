@@ -17,7 +17,7 @@ These standards are based on feedback from people and the advice of experts in f
 
 ### Our commitment to voice
 
-The goal of our Community Standards is to create a place for expression and give people a voice. Meta wants people to be able to talk openly about the issues that matter to them, even if some may disagree or find them objectionable. In some cases, we allow content—which would otherwise go against our standards—if it’s [newsworthy](https://transparency.fb.com/features/approach-to-newsworthy-content/) and in the public interest. We do this only after weighing the public interest value against the risk of harm, and we look to international human rights standards to make these judgments.
+The goal of our Community Standards is to create a place for expression and give people a voice. Meta wants people to be able to talk openly about the issues that matter to them, whether through written comments, photos, music, or other artistic mediums, even if some may disagree or find them objectionable. In some cases, we allow content—which would otherwise go against our standards—if it’s [newsworthy](https://transparency.fb.com/features/approach-to-newsworthy-content/) and in the public interest. We do this only after weighing the public interest value against the risk of harm, and we look to international human rights standards to make these judgments. In other cases, we may remove content that uses ambiguous or implicit language when additional context allows us to reasonably understand that the content goes against our standards.
 
 Our commitment to expression is paramount, but we recognize the internet creates new and increased opportunities for abuse. For these reasons, when we limit expression, we do it in service of one or more of the following values:
 
@@ -1050,6 +1050,8 @@ The following content also may be removed:
 Do not post:
 
 * Depictions of someone in a medical or health facility if reported by the person pictured or an authorized representative.
+* Source material that purports to reveal nonpublic information relevant to an election shared as part of a foreign government influence operation.
+    * We remove reporting on such a leak by state-controlled media entities from the country behind the leak.
 
 In certain cases, we will allow content that may otherwise violate the Community Standards when it is determined that the content is satirical. Content will only be allowed if the violating elements of the content are being satirized or attributed to something or someone else in order to mock or criticize them.
 
