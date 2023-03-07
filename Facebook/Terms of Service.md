@@ -18,17 +18,8 @@ Our [Privacy Policy](https://www.facebook.com/about/privacy/update) explains how
 
   
 
-**Network Enforcement Act ("NetzDG”)**  
-To learn about the NetzDG, visit the [NetzDG Help Center](https://www.facebook.com/help/285230728652028) page. To let us know about content you believe is unlawful under the NetzDG, please [submit a report](https://www.facebook.com/help/contact/1909333712721103).  
+**Imprint**  
   
-Law enforcement officials may submit requests for information under the NetzDG through the [Law Enforcement Online Request System](https://www.facebook.com/records).  
-  
-Service agent for administrative proceedings and civil court proceedings within the meaning of § 5 (1) NetzDG: ARQIS Rechtsanwälte Partnerschaftsgesellschaft mbB, Breite Straße 28, 40213 Düsseldorf.  
-  
-**Copyright Service Provider Act (“UrhDaG”)**  
-The authorised recipient in accordance with § 20 UrhDaG for service in court proceedings is: Freshfields Bruckhaus Deringer Rechtsanwälte Steuerberater PartG mbB (Düsseldorf), Feldmühleplatz 1, 40545 Düsseldorf.  
-  
-**Impressum**  
 The websites under www.facebook.com and the services on these page are being offered to you by: Meta Platforms Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland  
   
 Authorized representative: Richard Kelley  
@@ -70,11 +61,6 @@ For help or information about how to make a report:
 To contact us by email:  
 ℹ️  
   
-**Information for the state media authorities**  
-Administrative notifications under IMT (German Interstate Media Treaty) to Meta Platforms Ireland Ltd. can be served on: Facebook Germany GmbH, c/o Freshfields Bruckhaus Deringer Rechtsanwälte Steuerberater PartG mbB, Hohe Bleichen 7, 20354 Hamburg.  
-  
-**Ranking of Content**  
-[Here](https://www.facebook.com/help/2856031874648203), we have provided information on the ranking of content.
 
 **1\. The services we provide**
 
