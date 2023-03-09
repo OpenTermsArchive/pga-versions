@@ -17,7 +17,7 @@ Pinterest isn’t a place for pornography. We limit the distribution of or remov
 * Graphic depictions of sexual activity
 * Images of nudity where the poses, camera angles, or props suggest pornographic intent
 
-We do our best to to differentiate between pornography and other mature content. For example, you can save content about sexual health, breastfeeding, mastectomies, art, education and well-being with adult nudity given the non-pornographic context, but we may limit its distribution so people don’t run into it accidentally.
+We do our best to differentiate between pornography and other content that could involve some nudity. For example, you can save content about sexual health, breastfeeding, mastectomies, etc.
 
 Exploitation
 
