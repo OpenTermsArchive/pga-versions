@@ -191,7 +191,7 @@ The fastest and easiest way to send a DMCA report of copyright infringement to o
 
 If you wish to reach our designated agent through other (and slower) methods, you can contact:
 
-Instagram, LLC  
+Meta Platforms, Inc.  
 Attn: Instagram Designated Agent  
 1601 Willow Road  
 Menlo Park, California 94025  
