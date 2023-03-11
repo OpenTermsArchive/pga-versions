@@ -29,7 +29,7 @@ Platform Policies
 
 Official Quora Account
 
-* 2022-12-19T19:21:31Z
+* 2023-03-10T22:08:32Z
 
 Quora is a place that empowers people to share and grow the world's knowledge. In order to provide everyone with a safe and authentic experience using Quora, the following types of content and behaviors are prohibited:
 
@@ -67,6 +67,8 @@ Posting content or engaging in behaviors with the intent to harass, intimidate, 
 * Credit card details
 * Medical records
 * Biometric data
+* Private phone numbers
+* Private email addresses
 * Real name of a pseudonymous account
 
 If there is a question about you on Quora, you have the right to have the entire question and its contents removed. However, we allow questions about lawsuits or any topic mentioned in the media that may reference individuals.
