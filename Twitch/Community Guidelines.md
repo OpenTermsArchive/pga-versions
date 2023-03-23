@@ -12,6 +12,9 @@ These guidelines set the guardrails for what behavior is and is not allowed on o
 
 In addition to these guidelines, streamers and moderators can also use customizable [Twitch safety tools](https://safety.twitch.tv/s/article/Chat-Tools) to tailor their channel standards to meet their needs. Viewers, moderators, and streamers play a crucial role by reporting content or behavior that breaks our Community Guidelines. Reports are reviewed by our global Safety Operations team who work 24/7/365 to ensure a swift response. In this way, we all work together to promote a safe and welcoming live environment.
 
+  
+[(Expand All)](#)
+
 Safety
 ======
 
@@ -19,9 +22,6 @@ Self-Destructive Behavior
 -------------------------
 
 Harming yourself, or discussing self-harm recklessly, can be dangerous for not only yourself but for viewers and those around you. We understand that streamers and viewers should be able to discuss sensitive topics related to self-harm or mental health, and we want Twitch to remain a safe space to do so. Anyone should be able to talk about their struggles, if they so choose**.** However, **Twitch does not allow content that glorifies, promotes, or encourages self-harm. We also prohibit activity that may endanger your life, lead to your physical harm, or encourage others to engage in physically harmful behavior.** We do not make exceptions for self-destructive behavior performed as a stunt or gag made in jest, or meant to entertain, when the behavior could reasonably be expected to cause physical injury.
-
-  
-[(Expand All)](#)
 
 [](#)
 
