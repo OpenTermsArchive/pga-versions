@@ -204,7 +204,7 @@ Spaces Policies
 
 Official Quora Account
 
-* 2022-12-19T19:21:34Z
+* 2023-03-22T23:01:34Z
 
 On Quora, people share questions, answers, and other content to collectively build knowledge and community within a Space. Quora generally moderates items within Spaces at a content-level, however, repeated or serious violations may result in the removal of the entire Space. Note that Space admins may decide to set more restrictive policies for individual Spaces that they manage. Below are the following policies for Quora Spaces:
 
@@ -339,7 +339,7 @@ Impersonation is pretending to be someone else or falsely posing as a brand and 
 
 ### [Intellectual Property and Personal Rights](#h_01FSDDZ7A8W2B0GDBS81DYXGGX)
 
-Copyright infringement is against our [Terms of Service](https://www.quora.com/about/tos). [Learn more](https://www.quora.com/about/copyright) about our Copyright policy.
+Do not post content that infringes any intellectual property or personal right of another party, including [copyright](https://www.quora.com/about/copyright), [trademark](https://www.quora.com/about/trademark), or privacy rights.
 
 ### [Using the Quora brand/logo](#h_01FSDDZK268ES7AVSH9DM2THZR)
 
