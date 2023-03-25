@@ -256,6 +256,8 @@ External links policy
 
 The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. **T****ake the time to carefully read the policy below**. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
 
+To add clickable external links to your video description, you must [enable your channel’s access to advanced features](https://support.google.com/youtube/answer/9890437#see_access). Advanced features may take up to 24 hours after they're turned on to show up across your channel.
+
 Links that send users to websites featuring content that violates our Community Guidelines are not allowed on YouTube.
 
 If you find content that violates this policy, report it. Instructions for reporting violations of our Community Guidelines [are available here](https://support.google.com/youtube/answer/2802027). If you've found a few videos or comments that you would like to report, you can [report the channel](https://support.google.com/youtube/answer/2802027#report_channel).
