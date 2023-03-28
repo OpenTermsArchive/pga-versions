@@ -828,7 +828,6 @@ This Community Guidelines policy applies to videos, video descriptions, comments
 * Content related to suicide or self-harm that is targeted at minors
 * Graphic images of self-harm
 * Visuals of bodies of suicide victims unless blurred or covered so they are fully obscured
-* Blurred imagery in combination with details or visuals that show the method of suicide
 * Videos showing the lead-up to a suicide, or suicide attempts and suicide rescue footage without [sufficient context](https://support.google.com/youtube/answer/6345162)
 * Content showing participation in or instructions for suicide and self-harm challenges (e.g. Blue Whale or Momo challenges)
 * Suicide notes or letters without [sufficient context](https://support.google.com/youtube/answer/6345162)
@@ -837,7 +836,7 @@ In some cases we may restrict, rather than remove, suicide and self-harm content
 
 * Content that is meant to be educational, documentary, scientific, or artistic
 * Content that is of public interest
-* Graphic content that is sufficiently blurred and doesn’t provide details or visuals of the method used to perform suicide or self-harm
+* Graphic content that is sufficiently blurred
 * Dramatizations or scripted content, which includes but is not limited to animations, video games, music videos, and clips from movies and shows
 * Detailed discussion of suicide or self-harm methods, locations and hotspots
 * Graphic descriptions of self-harm or suicide
