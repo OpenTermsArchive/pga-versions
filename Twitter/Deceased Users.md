@@ -4,7 +4,7 @@ Deceased individuals
 ### Overview
 
 **  
-January 2023**
+March 2023**
 
 Sharing images or videos of a deceased individual can cause serious distress to the deceased’s family and can also negatively impact the well-being of others who view this content. Out of respect for the deceased and those impacted by their death, as well as to decrease the impact of unintended exposure to graphic media, we may ask you to remove images and videos that depict the death of an identifiable person.   
 
@@ -26,7 +26,7 @@ Examples of the type of content that we may action under this policy includes, b
 
 ### What is not a violation of this policy?
 
-Twitter takes public interest factors into account when reviewing reports related to images and videos that depict deceased individuals. In limited circumstances, we might not remove this media, even on receipt of a valid report, e.g., police shootings or other newsworthy events.
+Twitter takes public interest factors into account when reviewing reports related to images and videos that depict deceased individuals. In limited circumstances, we might not remove this media, and/or limit its exposure, even on receipt of a valid report, e.g., police shootings or other newsworthy events.
 
 ### Who can report violations of this policy?  
 
