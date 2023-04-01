@@ -23,7 +23,6 @@ Exploitation
 
 Pinterest isn’t a place for exploitation of people or animals. We’ll remove or limit the distribution of content and accounts involved in practices that risk harm to people or animals, including sexual, physical, or financial exploitation. That includes:
 
-* Sexualization or sexual exploitation of minors, like grooming, sexual remarks or inappropriate imagery. If we find it, we’ll report it to relevant authorities such as the National Center for Missing and Exploited Children.
 * Non-consensual images, meaning images of a private or sexual nature obtained or published without consent. This includes revenge porn and up-skirt images.
 * Adult sexual services that may involve sexual or physical exploitation or trafficking, like sex cams and escort services.
 * Human trafficking, slavery, servitude and forced or compulsory labor.
@@ -82,9 +81,20 @@ Pinterest isn’t a place to insult, hurt or antagonize individuals or groups of
 
 We’ve also put together some resources for you to protect yourself.
 
+Child Safety
+
+Pinterest does not tolerate child sexual exploitation of any kind. That means we enforce a strict, zero-tolerance policy for any content—including imagery, video, or text— or accounts that might exploit or endanger minors. Pinterest prohibits not just illegal child sexual abuse material (CSAM), but goes a step further to prohibit any content that contributes to the sexualization of minors, including in imagery and text. We also work closely with the National Center for Missing and Exploited Children (NCMEC) to combat this type of activity, and report content violations ​​as required under the law. The types of content we remove includes:
+
+* Illegal child sexual abuse material.
+* Sexualization or sexual exploitation of minors, like grooming, sexual remarks or inappropriate imagery–including in the form of cartoons and anime.
+* Nude and sexual imagery involving minors.
+* Content that facilitates unsolicited contact with minors, such as email addresses, phone numbers and physical addresses, to prevent contact intending to start an exploitative relationship.
+* Comments on imagery of minors that are inappropriate or sexualized.
+* The intentional misuse of content depicting minors that is otherwise non-violating. For example, we will deactivate users who save otherwise non-violating content into collections or in other contexts that suggest the intent is sexualization of minors.
+
 Private information
 
-We don’t allow content that reveals personal or sensitive information. We remove:
+We don’t allow content that reveals personal or sensitive information. We will remove:
 
 * Personal ID and passport information
 * Private contact information and addresses
@@ -92,7 +102,7 @@ We don’t allow content that reveals personal or sensitive information. We remo
 * Photos of private people that they don’t want posted online
 * Personal financial or medical history
 
-If you come across unwanted photos of or information about you, you can reach out to us through our Help Center. You’ll find an option for exposed private information under “Report a policy violation.”
+If you come across unwanted photos of or information about you, you can report it to us. Minors or their authorized representatives can also reach out to privacy-support \[at\] pinterest.com regarding unwanted photos or information.
 
 Self-injury and harmful behavior
 
