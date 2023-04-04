@@ -1,3 +1,5 @@
+**_We’re updating our Terms of Service. The updates go into effect on 5 July 2023. Read new terms [here](https://www.facebook.com/legal/terms_preview)._**
+
 _Facebook Ireland Limited has changed its name to Meta Platforms Ireland Limited. We’ve updated our Terms of Service, Data Policy, and Cookies Policy to reflect the new name on January 4, 2022. While our company name has changed, we are continuing to offer the same products, including the Facebook app from Meta. Our Data Policy and Terms of Service remain in effect, and this name change does not affect how we use or share data. [_Learn more about Meta_](https://about.facebook.com/meta) and our vision for the metaverse._
 
   
