@@ -106,6 +106,8 @@ If you come across unwanted photos of or information about you, you can report i
 
 Self-injury and harmful behavior
 
+**If you or someone you know is struggling with suicidal thoughts or is considering hurting themselves, we have resources in our Help Center where you can get free, confidential and immediate support.**
+
 Pinterest isn’t a place for content that displays, rationalizes or encourages suicide, self-injury, eating disorders or substance abuse. We’ll limit the distribution of or remove such content, including:
 
 * Self-harm instructions
@@ -116,8 +118,6 @@ Pinterest isn’t a place for content that displays, rationalizes or encourages 
 * Images of accessories used to self-harm
 * Negative self-talk and insensitive humor about self-harming behavior
 * Suicide pacts, challenges and hoaxes
-
-If you or someone you know is struggling with suicidal thoughts or is considering hurting themselves, we have resources in our Help Center where you can get free, confidential and immediate support.
 
 Graphic Violence and Threats
 
