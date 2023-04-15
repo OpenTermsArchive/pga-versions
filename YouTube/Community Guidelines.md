@@ -918,7 +918,7 @@ The safety of our creators, viewers, and partners is our highest priority. We lo
 
 Content that threatens individuals is not allowed on YouTube. We also don't allow content that targets an individual with prolonged or malicious insults based on intrinsic attributes. These attributes include their [protected group status](https://support.google.com/youtube/answer/2801939#protected_group) or physical traits.
 
-If you find content that violates this policy, report it. Instructions for reporting violations of our Community Guidelines [are available here](https://support.google.com/youtube/answer/2802027). If you've found multiple videos or comments that you would like to report, you can [report the channel](https://support.google.com/youtube/answer/2802027#report_channel). For tips about how to stay safe, keep your account secure, and protect your privacy, check out the [Creator Safety Center](https://www.youtube.com/creators/creator-safety-center) and [Stay safe on YouTube](https://support.google.com/youtube/answer/9563682).
+If you find content that violates this policy, report it. Instructions for reporting violations of our Community Guidelines [are available here](https://support.google.com/youtube/answer/2802027). If you've found multiple videos or comments that you would like to report, you can [report the channel](https://support.google.com/youtube/answer/2802027#report_channel). For tips about how to stay safe, keep your account secure, and protect your privacy, check out the [Creator Safety Center](https://www.youtube.com/creators/safety/) and [Stay safe on YouTube](https://support.google.com/youtube/answer/9563682).
 
 If specific threats are made against you and you feel unsafe, report it directly to your local law enforcement agency.
 
