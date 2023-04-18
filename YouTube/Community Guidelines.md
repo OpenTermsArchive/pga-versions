@@ -750,14 +750,16 @@ We may terminate your channel or account for repeated violations of the Communit
 
 If your content contains pornography, we may terminate your channel.
 
-Suicide & self-harm policy
-==========================
+​Suicide, self-harm, and eating disorders policy
+================================================
 
 The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. **T****ake the time to carefully read the policy below**. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
 
-At YouTube, we take the health and well-being of all our creators and viewers seriously. Awareness and understanding of mental health is important and we support creators sharing their stories, such as posting content discussing their experiences with depression, self-harm, or other mental health issues.
+**Note**: On April 18, 2023, we updated our Eating disorders policy to better protect the community from sensitive content that may pose a risk to some audiences. We may remove imitable content, age-restrict content, or show a crisis resource panel on videos about eating disorders or self-harm topics. The below policy is updated with these changes. You can learn more about our approach in [this blog post](https://blog.youtube/news-and-events/an-updated-approach-to-eating-disorder-related-content/).
 
-However, we do not allow content on YouTube that promotes suicide, self-harm, that is intended to shock or disgust, or poses a considerable risk to viewers.
+At YouTube, we take the health and well-being of all our creators and viewers seriously. Awareness and understanding of mental health is important and we support creators sharing their stories, such as posting content discussing their experiences with depression, self-harm, eating disorders, or other mental health issues.
+
+However, we do not allow content on YouTube that promotes suicide, self-harm, or eating disorders, that is intended to shock or disgust, or that poses a considerable risk to viewers.
 
 What to do if you find this content
 -----------------------------------
@@ -767,12 +769,16 @@ If you believe someone is in danger:
 * Get in touch with local emergency services for help
 * [Flag the video](https://support.google.com/youtube/answer/2802027) to bring it to our attention
 
-If you find yourself being negatively affected by any mental health, suicide, or self-harm related content you come across, know that there is support available and you’re not alone. In the next section you can find a list of resources and contact information for organizations that can offer advice.
+If you find yourself being negatively affected by any mental health, suicide, self-harm, or eating disorder related content you come across, know that there is support available and you’re not alone. In the next section you can find a list of resources and contact information for organizations that can offer advice.
+
+For general guidance on how to talk to someone who you may be concerned about, contact local helplines.
 
 What to do if you need support
 ------------------------------
 
-If you are depressed, having thoughts of suicide, or self-harming, know there is help and you’re not alone. While coping with painful emotions, many people might self-harm or experience suicidal thinking. Talking to a mental health care provider can help determine if you have a mental illness that requires care. It can also help you identify healthy, effective coping strategies and develop skills to manage difficult feelings.
+If you are depressed, having thoughts of suicide, self-harming, or experiencing an eating disorder, know there is help and you’re not alone. While coping with painful emotions, many people might experience these issues. Talking to a mental health care provider can help determine if you have a mental illness that requires care. It can also help you identify healthy, effective coping strategies and develop skills to manage difficult feelings.
+
+#### Suicide and self-harm support resources
 
 Below is a list of organizations dedicated to helping those in need in different countries and regions. These are recognized crisis service partners. Partnerships vary by country/region.
 
@@ -810,29 +816,43 @@ The websites [findahelpline.com](http://www.findahelpline.com/) and [www.wikiped
 
 To read tips and watch videos that can help you feel safer on YouTube, visit the [Creator Safety Center](https://www.youtube.com/creators/safety).
 
-Community Guidelines for posting suicide or self-harm related content
----------------------------------------------------------------------
+#### Eating disorder support resources
 
-YouTube users should not be afraid to speak openly about the topics of mental health, suicide, and self-harm in a supportive and non-harmful way.
+Below is a list of organizations that help individuals with eating disorders. These organizations are  mental health support partners. Partnerships vary by country/region.
 
-However, there are times when content is created that is sensitive and may pose a risk for some users. When you create content that contains suicide or self-harm related topics, take into account the possible negative impact of your content on other users, especially minors and users who may be sensitive to this content.
+|     |     |     |
+| --- | --- | --- |
+| United States | [NEDA](https://www.nationaleatingdisorders.org/) | +1 800 931-2237 |
+| United Kingdom | [BEAT Eating Disorders](https://www.beateatingdisorders.org.uk/get-information-and-support/get-help-for-myself/i-need-support-now/helplines/) | +44 0808 801 0677 England |
+|     |     | +44 0808 801 0432 Scotland |
+|     |     | +44 0808 801 0433 Wales |
+|     |     | +44 0808 801 0434 N. Ireland |
+| India | [Vandrevala Foundation](https://www.vandrevalafoundation.com/) | +91 9999 666 555 |
 
-To protect and support your viewers and other users, please follow the Community Guidelines below when creating content related to suicide or self-harm. Not following these Community Guidelines may result in a strike, removal of your content, or other restrictions to protect users. [Learn more](https://support.google.com/youtube/topic/9387060).
+Community Guidelines for posting suicide, self-harm, or eating disorder-related content
+---------------------------------------------------------------------------------------
+
+YouTube users should not be afraid to speak openly about the topics of mental health, suicide, self-harm, and eating disorders in a supportive and non-harmful way.
+
+However, there are times when content is created that is sensitive and may pose a risk for some users. When you create content that contains suicide, self-harm, or eating disorder related topics, take into account the possible negative impact of your content on other users, especially minors and users who may be sensitive to this content.
+
+To protect and support your viewers and other users, please follow the Community Guidelines below when creating content related to suicide, self-harm, or eating disorders. Not following these Community Guidelines may result in a strike, removal of your content, or other restrictions to protect users. [Learn more](https://support.google.com/youtube/topic/9387060).
 
 This Community Guidelines policy applies to videos, video descriptions, comments, live streams, and any other YouTube product or feature.Keep in mind that this isn't a complete list. Please note these policies also apply to [external links](https://support.google.com/youtube/answer/9054257) in your content. This can include clickable URLs, verbally directing users to other sites in video, as well as other forms.
 
 #### Don't post the following content:
 
-* Content promoting or glorifying suicide or self-harm
-* Instructions on how to die by suicide or engage in self-harm
-* Content related to suicide or self-harm that is targeted at minors
+* Content promoting or glorifying suicide, self-harm, or eating disorders
+* Instructions on how to die by suicide, engage in self-harm, or engage in eating disorders (including how to conceal them)
+* Content related to suicide, self-harm, or eating disorders that is targeted at minors
 * Graphic images of self-harm
 * Visuals of bodies of suicide victims unless blurred or covered so they are fully obscured
 * Videos showing the lead-up to a suicide, or suicide attempts and suicide rescue footage without [sufficient context](https://support.google.com/youtube/answer/6345162)
 * Content showing participation in or instructions for suicide and self-harm challenges (e.g. Blue Whale or Momo challenges)
 * Suicide notes or letters without [sufficient context](https://support.google.com/youtube/answer/6345162)
+* Content that features weight-based bullying in the context of eating disorders
 
-In some cases we may restrict, rather than remove, suicide and self-harm content if it meets one or more of the following criteria (for example, by placing an [age-restriction](https://support.google.com/youtube/answer/2802167), a warning, or a [Crisis Resource Panel](https://support.google.com/youtube/answer/10726080) on the video). Please note this is not a complete list:
+In some cases we may restrict, rather than remove, suicide, self-harm, or eating disorder content if it meets one or more of the following criteria (for example, by placing an [age-restriction](https://support.google.com/youtube/answer/2802167), a warning, or a [Crisis Resource Panel](https://support.google.com/youtube/answer/10726080) on the video). Please note this is not a complete list:
 
 * Content that is meant to be educational, documentary, scientific, or artistic
 * Content that is of public interest
@@ -840,17 +860,24 @@ In some cases we may restrict, rather than remove, suicide and self-harm content
 * Dramatizations or scripted content, which includes but is not limited to animations, video games, music videos, and clips from movies and shows
 * Detailed discussion of suicide or self-harm methods, locations and hotspots
 * Graphic descriptions of self-harm or suicide
+* Eating disorder recovery content that includes details which may be triggering to at-risk viewers
 
-### Best practices for creators posting content about suicide or self-harm
+### Best practices for creators posting content about suicide, self-harm, or eating disorders
 
-We recommend using these best practices to protect your viewers from harm and distress:
+We recommend using these best practices in content related to suicide or self-harm to protect your viewers from harm and distress:
 
-* Avoid showing the suicide victim, and respect their, and their families’, privacy. [Learn more](https://support.google.com/youtube/answer/2801895).
-* Use wording that is positive and supportive, and focuses on recovery, prevention, and stories of hope
-* Include information and resources for suicide and self-harm prevention and coping strategies. Try to include it in both the video itself and the description of the video
-* Do not use sensationalist language or dramatic visuals
-* Provide context, but avoid discussing how the victim died by suicide. Do not mention the methods or locations
+* Avoid showing the person who died by suicide, and respect their, and their families’, privacy. [Learn more](https://support.google.com/youtube/answer/2801895).
+* Use wording that is positive and supportive, and focuses on recovery, prevention, and stories of hope.
+* Include information and resources for suicide and self-harm prevention and coping strategies. Try to include it in both the video itself and the description of the video.
+* Do not use sensationalist language or dramatic visuals.
+* Provide context, but avoid discussing how the victim died by suicide. Do not mention the methods or locations.
 * Blur content that contains images of suicide victims. You can blur your video with the Editor in YouTube Studio. [Learn more](https://support.google.com/youtube/answer/9057652).
+
+We recommend using these best practices in content related to eating disorders to protect your viewers from harm and distress:
+
+* Focus on the impact of the disorder instead of the details of the disordered eating behavior.
+* Tell your audience that eating disorders commonly cause severe complications.
+* Include info and resources for eating disorder prevention and coping strategies. Try to include it in both the video itself and the description of the video.
 
 What happens if content violates this policy
 --------------------------------------------
@@ -1029,7 +1056,6 @@ Don’t post content on YouTube if it fits any of the descriptions noted below.
 * **Dangerous or threatening pranks**: Pranks that lead victims to fear imminent serious physical danger, or that create serious emotional distress in minors.
 * **Instructions to kill or harm**: Showing viewers how to perform activities meant to kill or maim others. For example, giving instructions to build a bomb meant to injure or kill others.
 * **Hard drug use or creation**: Content that depicts abuse of or giving instructions on how to create hard drugs such as cocaine or opioids. Hard drugs are defined as drugs that can (mostly) lead to physical addiction.
-* **Eating Disorders**: Content that praises, glorifies, or encourages viewers to imitate anorexia or other eating disorders. Eating disorders are characterized by abnormal or disturbed eating habits which negatively affect a person's health (including eating non-food items).
 * **Instructional theft or cheating**: Showing viewers how to steal tangible goods or promoting dishonest behavior.
 * **Hacking**: Demonstrating how to use computers or information technology with the intent to steal credentials, compromise personal data or cause serious harm to others such as (but not limited to) hacking into social media accounts.
 * **Bypassing payment for digital content or services:** Showing viewers how to use apps, websites, or other information technology to gain unauthorized access to audio content, audiovisual content, full video games, software, or streaming services that normally require payment.
@@ -1128,14 +1154,6 @@ The following types of content are not allowed on YouTube. This isn't a complet
 * **Steroid use:** Non-educational content that shows how to use steroids for recreational purposes (like bodybuilding).
 
 **Note:** If this type of content is educational, documentary, scientific, or artistic, we may still age-restrict it. For example, a documentary about intravenous drug use that shows the injection of drugs may be allowed, but it won't be available to all audiences. If your content shows items used for taking drugs, it may also be age-restricted.
-
-Eating disorders
-----------------
-
-The following types of content are not allowed on YouTube. This is not a complete list.
-
-* Using terms or phrases in metadata that promote or glorify eating disorders.
-* Videos that promote or glorify eating non food items.
 
 Remember these are just some examples, and don't post content if you think it might violate this policy.
 
