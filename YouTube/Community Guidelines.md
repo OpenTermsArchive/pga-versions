@@ -472,15 +472,6 @@ We may terminate your channel or account for repeated violations of the Communit
 Additional policies
 ===================
 
-Inactive accounts policy
-------------------------
-
-In general, users are expected to be active members within the YouTube community. If an account is found to be overly inactive, the account may be reclaimed by YouTube without notice. Inactivity may be considered as:
-
-* Not logging into the site for at least six months
-* Never having uploaded video content
-* Not actively partaking in watching or commenting on videos or channels
-
 Encouraging Terms of Service violations
 ---------------------------------------
 
