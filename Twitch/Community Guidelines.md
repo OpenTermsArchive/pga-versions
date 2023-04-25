@@ -81,6 +81,10 @@ Acts of sexual violence and exploitation are serious offenses. Content or activi
 * Non-consensual sex acts
 * Coercing a guest into committing a sex act by threatening them
 * Touching another person in an intimate manner without their consent
+* Sharing or threatening to share private sexually explicit content without permission of the person depicted
+    * Offering revenge porn of another person
+    * Sharing leaked nude images of another person without their consent
+    * Creating or sharing doctored or ‘deepfake’ intimate images of an identifiable person
 
 Youth Safety
 ------------
@@ -498,7 +502,7 @@ Focusing your broadcast around sexual content or in-game nudity in an otherwise 
 Adult Nudity
 ------------
 
-**Users are prohibited from broadcasting or uploading content that contains depictions of real nudity.** Incomplete censoring, such as pixelization, mosaics, and blurring effects, do not constitute an exemption to this policy. 
+**Users are prohibited from broadcasting or uploading content that contains depictions of real nudity (which includes realistically doctored nudity)****.** Incomplete censoring, such as pixelization, mosaics, and blurring effects, do not constitute an exemption to this policy. 
 
 [](#)
 
