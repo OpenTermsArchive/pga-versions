@@ -404,7 +404,7 @@ For the following Community Standards, we require additional information and/or 
 
 Read lessRead more
 
-Dangerous Individuals and Organizations
+Dangerous Organizations and Individuals
 =======================================
 
 #### Policy Rationale
@@ -413,7 +413,7 @@ In an effort to prevent and disrupt real-world harm, we do not allow organizatio
 
 **Tier 1** focuses on entities that engage in serious offline harms - including organizing or advocating for violence against civilians, repeatedly dehumanizing or advocating for harm against people based on protected characteristics, or engaging in systematic criminal operations. Tier 1 entities include terrorist, hate, and criminal organizations. We remove praise, substantive support, and representation of Tier 1 entities as well as their leaders, founders, or prominent members. Tier 1 includes hate organizations; criminal organizations, including those designated by the United States government as Specially Designated Narcotics Trafficking Kingpins (SDNTKs); and terrorist organizations, including entities and individuals designated by the United States government as Foreign Terrorist Organizations (FTOs) or Specially Designated Global Terrorists (SDGTs). We remove praise, substantive support, and representation of Tier 1 entities as well as their leaders, founders, or prominent members.
 
-In addition, we do not allow content that praises, substantively supports, or represents events that Facebook designates as violating violent events - including terrorist attacks, hate events, multiple-victim violence or attempted multiple-victim violence, multiple murders, or hate crimes. Nor do we allow praise, substantive support, or representation of the perpetrator(s) of such attacks. We also remove content that praises, substantively supports or represents ideologies that promote hate, such as nazism and white supremacy.
+In addition, we do not allow content that praises, substantively supports, or represents events that Meta designates as violating violent events - including terrorist attacks, hate events, multiple-victim violence or attempted multiple-victim violence, serial murders, or hate crimes. Nor do we allow (1) praise, substantive support, or representation of the perpetrator(s) of such attacks; (2) perpetrator-generated content relating to such attacks; or (3) third-party imagery depicting the moment of such attacks on visible victims. We also remove content that praises, substantively supports or represents ideologies that promote hate, such as nazism and white supremacy.
 
 **Tier 2** focuses on entities that engage in violence against state or military actors but do not generally target civilians -- what we call “Violent Non-State Actors.” We remove all substantive support and representation of these entities, their leaders, and their prominent members. We remove any praise of these groups’ violent activities.
 
@@ -468,11 +468,11 @@ We remove Representation of Tier 1 and 2 Designated Organizations, Hate-Banned E
 
 #### Types and Tiers of Dangerous Organizations
 
-**_Tier 1: Terrorism, organized hate, large-scale criminal activity, attempted multiple-victim violence, multiple victim violence, multiple murders, and violating violent events_**
+**_Tier 1: Terrorism, organized hate, large-scale criminal activity, attempted multiple-victim violence, multiple victim violence, serial murders, and violating violent events_**
 
 We do not allow individuals or organizations involved in organized crime, including those designated by the United States government as specially designated narcotics trafficking kingpins (SDNTKs); hate; or terrorism, including entities designated by the United States government as Foreign Terrorist Organizations (FTOs) or Specially Designated Global Terrorists (SDGTs), to have a presence onthe platform. We also don't allow other people to represent these entities. We do not allow leaders or prominent members of these organizations to have a presence on the platform, symbols that represent them to be used on the platform, or content that praises them or their acts. In addition, we remove any coordination of substantive support for these individuals and organizations.
 
-We do not allow content that praises, substantively supports, or represents events that Meta designates as terrorist attacks, hate events, multiple-victim violence or attempted multiple-victim violence, serial murders, hate crimes or violating violent events.
+We do not allow content that praises, substantively supports, or represents events that Meta designates as terrorist attacks, hate events, multiple-victim violence or attempted multiple-victim violence, serial murders, hate crimes or violating violent events. Nor do we allow (1) praise, substantive support, or representation of the perpetrator(s) of such attacks; (2) perpetrator-generated content relating to such attacks; or (3) third-party imagery depicting the moment of such attacks on visible victims.
 
 We also do not allow Praise, Substantive Support, or Representation of designated hateful ideologies.
 
@@ -483,20 +483,22 @@ We also do not allow Praise, Substantive Support, or Representation of designate
 * With the intent to coerce, intimidate and/or influence a civilian population, government, or international organization
 * In order to achieve a political, religious, or ideological aim.
 
-**Hate Organizations**, defined as an association of three or more people that:
+**Hate Entity**, defined as an organization or individual that spreads and encourages hate against others based on their protected characteristics. The entity’s activities are characterized by at least some of the following behaviors:
 
-* is organized under a name, sign, or symbol; and
-* has an ideology, statements, or physical actions that attack individuals based on characteristics, including race, religious affiliation, national origin, disability, ethnicity, gender, sex, sexual orientation, or serious disease.
+* Violence, threatening rhetoric, or dangerous forms of harassment targeting people based on their protected characteristics;
+* Repeated use of [hate speech](https://transparency.fb.com/en-gb/policies/community-standards/hate-speech/);
+* Representation of Hate Ideologies or other designated Hate Entities, and/or
+* Glorification or substantive support of other designated Hate Entities or Hate Ideologies.
 
 **Criminal Organizations**, defined as an association of three or more people that:
 
 * is united under a name, color(s), hand gesture(s) or recognized indicia; and
 * has engaged in or threatens to engage in criminal activity such as homicide, drug trafficking, or kidnapping.
 
-**Multiple-Victim Violence and Multiple Murders**
+**Multiple-Victim Violence and Serial Murders**
 
 * We consider an event to be multiple-victim violence or attempted multiple-victim violence if it results in three or more casualties in one incident, defined as deaths or serious injuries. Any Individual who has committed such an attack is considered to be a perpetrator or an attempted perpetrator of multiple-victim violence.
-* We consider any individual who has committed two or more murders over multiple incidents or locations a multiple murderer.
+* We consider any individual who has committed two or more murders over multiple incidents or locations a serial murderer.
 
 **Hateful Ideologies**
 
@@ -612,7 +614,7 @@ Restricted Goods and Services
 
 #### Policy Rationale
 
-To encourage safety and deter potentially harmful activities, we prohibit attempts by individuals, manufacturers, and retailers to purchase, sell, raffle, gift, transfer or trade certain goods and services on our platform. Brick-and-mortar and online retailers may promote firearms, alcohol, and tobacco items available for sale off of our services; however, we restrict visibility of this content for minors. We allow discussions about the sale of these goods in stores or by online retailers, as well as advocating for changes to regulations of goods and services covered in this policy.
+To encourage safety and deter potentially harmful activities, we prohibit attempts by individuals, manufacturers, and retailers to purchase, sell, raffle, gift, transfer or trade certain goods and services on our platform. We do not tolerate the exchange or sale of any drugs that may result in substance abuse covered under our policies below. Brick-and-mortar and online retailers may promote firearms, alcohol, and tobacco items available for sale off of our services; however, we restrict visibility of this content for minors. We allow discussions about the sale of these goods in stores or by online retailers, as well as advocating for changes to regulations of goods and services covered in this policy.
 
 #### Do not post:
 
@@ -627,7 +629,7 @@ Content that:
 * Asks for firearms, firearm parts, ammunition, explosives, or lethal enhancements
 * Sells, gifts, exchanges, transfers, coordinates, promotes (by which we mean speaks positively about, encourages the use of) or provides access to 3D printing or computer-aided manufacturing instructions for firearms or firearms parts regardless of context or poster.
 
-**Non-medical drugs (drugs or substances that are not being used for an intended medical purpose or are used recreationally to achieve an altered mental state.)**
+**Non-medical drugs (drugs or substances that are not being used for an intended medical purposes or are used to achieve a high - this includes precursor chemicals or substances that are used for the production of these drugs.)**
 
 Content that:
 
