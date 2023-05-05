@@ -13,7 +13,7 @@ The following is not permitted for any reason whatsoever in relation to the Serv
 2. copying, reproducing, redistributing, "ripping," recording, transferring, performing, framing, linking to or displaying to the public, broadcasting, or making available to the public, or any other use which is not expressly permitted under the Agreements or applicable law, or which otherwise infringes intellectual property rights;
 3. importing or copying any local files that you do not have the legal right to import or copy in this way;
 4. transferring copies of cached Content from an authorized Device to any other Device via any means;
-5. "crawling" or "scraping", whether manually or by automated means, or otherwise using any automated means (including bots, scrapers, and spiders), to view, access or collect information;
+5. "crawling" or "scraping", whether manually or by automated means, or otherwise using any automated means (including bots, scrapers, and spiders), to view, access or collect information,
 6. selling, renting, sublicensing, leasing or other monetization except as expressly permitted under the Agreements;
 7. selling a user account or playlist, or otherwise accepting or offering to accept any compensation, financial or otherwise, to influence the name of an account or playlist or the content included on an account or playlist; or
 8. artificially increasing play counts or follow counts, artificially promoting Content, or other manipulation including by (i) using any bot, script or other automated process, (ii) providing or accepting any form of compensation (financial or otherwise), or (iii) any other means;
