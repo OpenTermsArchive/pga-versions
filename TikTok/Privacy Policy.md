@@ -1,3 +1,5 @@
+EEA/UK/CH
+
 Privacy Policy
 
 _Our new Privacy Policy comes into effect on 4th May 2023. Click [here](https://www.tiktok.com/legal/privacy-policy-eea-archive) to view our current Privacy Policy._
