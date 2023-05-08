@@ -1,6 +1,3 @@
-[**Spotify Privacy Policy**](#spotify-privacy-policy)
-=====================================================
-
 Effective as of 22 February 2023
 
 [1\. About this Policy](#1-about-this-policy)
