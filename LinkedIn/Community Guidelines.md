@@ -97,6 +97,41 @@ Thank you for using LinkedIn, where the world’s professionals come together to
     
     Learn more about our [spam content policies](https://www.linkedin.com/help/linkedin/answer/137372).
 
+Harassment and abusive content
+==============================
+
+As a professional network, LinkedIn maintains a high standard for safe and civil conversations between members. Our policies prohibit a wide range of actions and behaviors associated with harassment, bullying, or other abusive conduct.
+
+We remove content that personally attacks, intimidates, shames, bullies, disparages other LinkedIn members, or is otherwise abusive or uncivil.
+
+Examples of harassment or abusive content
+
+* Directing abusive language, including negative profanity, at other members
+    
+* Insulting another member’s intelligence or mental capacity (e.g., calling other members “stupid,” “idiot,” “moron,” or “dumb”)
+    
+* Disparaging another member’s appearance, including perceived physical attractiveness, weight, height, or other bodily attributes
+    
+* Wishing death or suffering upon other members or their families
+    
+* “Doxxing” or sharing personal information about others
+    
+* Trolling, pestering, and otherwise repetitive or disruptive behavior that undermines constructive conversations between members
+    
+* Comparing people or groups to Nazis, hate or extremist groups, or sexual predators
+    
+* Calling for social or political exclusion, deportation, or banishment of any individual or group because of their political (or other non-inherent) beliefs or affiliation
+    
+
+We do allow for disagreements, commentary or criticism on policies and matters of public interest or organizations as long as they do not insult or vilify. Members may express heightened negative criticism and disapproval towards public figures, such as politicians, celebrities, prominent business leaders, or other individuals voluntarily in the public eye.
+
+We also allow members to call out the harassing, hateful, or otherwise abusive conduct of others, so long as the focus remains on driving objective awareness to the behavior, rather than personally attacking or inciting harassment against those individuals. Content that negatively targets others on the basis of inherent traits, like race or gender identity, is enforced under our [Hateful and Derogatory Content](https://www.linkedin.com/help/linkedin/answer/137378) policies.
+
+Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
+
+More help
+---------
+
 Violent and graphic content
 ===========================
 
