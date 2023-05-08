@@ -8,6 +8,18 @@ _Our new Privacy Policy comes into effect on 4th May 2023. Click [here](https://
 
 _Last updated:_ _4th May 2023_
 
+* Introduction
+* What Information We Collect
+* How We Use Your Information
+* How We Share Your Information
+* Our Legal Bases and How We Process Your Information
+* Your Rights and Choices
+* Data Security and Retention
+* Our Global Operations and Data Transfers
+* Younger Users
+* Privacy Policy Updates
+* Contact Us
+
 **Introduction**
 ----------------
 
