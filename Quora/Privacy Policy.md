@@ -6,8 +6,6 @@ This Quora Privacy Policy (“Privacy Policy”) describes our policies and proc
 
 Overview
 
-![](https://qph.cf2.quoracdn.net/main-qimg-8e53edfc46d0e8790947abb8de484f7e-pjlq)
-
 Information We Collect
 
 We collect information directly from you, from third parties, and automatically through your use of the Quora Platform.
