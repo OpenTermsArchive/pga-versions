@@ -1,9 +1,5 @@
-* [Staying Safe](https://help.instagram.com/1417489251945243/?helpref=breadcrumb)
-
 Information for Law Enforcement
 ===============================
-
-Copy link
 
 These operational guidelines are for law enforcement officials seeking Instagram account records. This information may change at any time.
 
@@ -17,7 +13,7 @@ We disclose account records solely in accordance with our terms of service and a
 
 It is important to note that some information we store is collected automatically, while other information is provided by the user. We do not require email or phone verification, and we do not require people to use real names or identities on Instagram.
 
-For additional information about Instagram, please read our [Privacy Policy](https://privacycenter.instagram.com/policy/) and [Terms of Use](https://help.instagram.com/581066165581870?helpref=faq_content).
+For additional information about Instagram, please read our Privacy Policy and Terms of Use.
 
 Data Retention and Availability
 
@@ -44,7 +40,7 @@ If a request relates to a child exploitation or safety matter, please specify th
 
 International Legal Process Requirements
 
-We disclose account records solely in accordance with applicable terms of service and applicable law. A Mutual Legal Assistance Treaty request or letter rogatory may be required to compel the disclosure of the contents of an account. Further information can be found [in our Privacy Policy](https://help.instagram.com/155833707900388/).
+We disclose account records solely in accordance with applicable terms of service and applicable law. A Mutual Legal Assistance Treaty request or letter rogatory may be required to compel the disclosure of the contents of an account. Further information can be found in our Privacy Policy.
 
 Account Preservation
 
@@ -70,7 +66,7 @@ Submission of Requests
 
 Online:
 
-Law enforcement officials may use the [Law Enforcement Online Request System](https://help.instagram.com/https%3A%2F%2Fl.instagram.com%2F%3Fu=https%3A%2F%2Fwww.facebook.com%2Frecords) for the submission, tracking and processing of requests. A government-issued email address is required to access the Law Enforcement Online Request System.
+Law enforcement officials may use the Law Enforcement Online Request System for the submission, tracking and processing of requests. A government-issued email address is required to access the Law Enforcement Online Request System.
 
 Please note:
 
@@ -87,4 +83,4 @@ Menlo Park, CA 94025.
 
 Mail:
 
-Law enforcement officials who do not submit requests through the [Law Enforcement Online Request System](https://help.instagram.com/https%3A%2F%2Fl.instagram.com%2F%3Fu=https%3A%2F%2Fwww.facebook.com%2Frecords) should expect longer response times.
+Law enforcement officials who do not submit requests through the Law Enforcement Online Request System should expect longer response times.
