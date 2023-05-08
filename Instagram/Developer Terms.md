@@ -1,24 +1,24 @@
 Platform Terms
 --------------
 
-[1\. Introduction](#introduction)  
-[2\. Intellectual Property Rights](#intellectualpropertyrights)  
-[3\. Data Use](#datause)  
-[4\. Privacy Policy](#privacypolicy)  
-[5\. Service Providers and Tech Providers](#serviceprovidersandtechproviders)  
-[6\. Data Security](#datasecurity)  
-[7\. Compliance Review Rights and Suspension and Termination of these Terms](#compliancereviewrightsandsuspensionandterminationoftheseterms)  
-[8\. Notice](#notice)  
-[9\. Indemnification](#indemnification)  
-[10\. International Transfers](#internatinaltransfers)  
-[11\. General](#general)  
-[12\. Glossary](#glossary)
+1\. Introduction  
+2\. Intellectual Property Rights  
+3\. Data Use  
+4\. Privacy Policy  
+5\. Service Providers and Tech Providers  
+6\. Data Security  
+7\. Compliance Review Rights and Suspension and Termination of these Terms  
+8\. Notice  
+9\. Indemnification  
+10\. International Transfers  
+11\. General  
+12\. Glossary
 
 _Last updated April 25, 2023_
 
-The Facebook company is now Meta. We’ve updated our Platform Terms to reflect the new name on February 8, 2022. While our company name has changed, we are continuing to offer the same products, including the Facebook app from Meta. Our Data Policy and Terms of Service remain in effect, and this name change does not affect how we use or share data. [Learn more about Meta](https://about.facebook.com/meta) and our vision for the metaverse.
+The Facebook company is now Meta. We’ve updated our Platform Terms to reflect the new name on February 8, 2022. While our company name has changed, we are continuing to offer the same products, including the Facebook app from Meta. Our Data Policy and Terms of Service remain in effect, and this name change does not affect how we use or share data. Learn more about Meta and our vision for the metaverse.
 
-These Meta Platform Terms and the [Developer Policies](https://developers.facebook.com/devpolicy) originally went into effect on August 31, 2020. They replaced the [legacy Facebook Platform Policy](https://developers.facebook.com/docs/apps/policies/legacy-facebook-platform-policy) and the [legacy Instagram Platform Policy](https://developers.facebook.com/docs/apps/policies/legacy-instagram-platform-policy), as well as the Supplemental Terms for Extended Platform Products and the Technology Provider Amendment to the preceding Supplemental Terms. [Learn more](https://developers.facebook.com/blog/post/2020/07/01/platform-terms-developer-policies/).
+These Meta Platform Terms and the Developer Policies originally went into effect on August 31, 2020. They replaced the legacy Facebook Platform Policy and the legacy Instagram Platform Policy, as well as the Supplemental Terms for Extended Platform Products and the Technology Provider Amendment to the preceding Supplemental Terms. Learn more.
 
 Meta Platform Terms
 ===================
@@ -27,13 +27,13 @@ Meta Platform Terms
 ----------------
 
 *   
-    a. Our Platform is the set of APIs, SDKs, tools, plugins, code, technology, content, and services that enables others, including app developers and website operators, to develop functionality, retrieve data from Meta and any other [Meta Products](https://www.facebook.com/help/1561485474074139?ref=tos), or provide data to us.
+    a. Our Platform is the set of APIs, SDKs, tools, plugins, code, technology, content, and services that enables others, including app developers and website operators, to develop functionality, retrieve data from Meta and any other Meta Products, or provide data to us.
     
 *   
-    b. To use Platform (including to Process any Platform Data), you agree to these Platform Terms (“Terms”), as well as all other applicable terms and policies. This may include the [Meta Terms of Service](https://www.facebook.com/legal/terms), the [Instagram Terms of Use](https://developers.facebook.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fhelp.instagram.com%2F581066165581870), the [Meta Commercial Terms](https://www.facebook.com/legal/commercial_terms), the [Business Tools Terms](https://www.facebook.com/legal/terms/businesstools/update), and any [Meta Product](https://www.facebook.com/help/1561485474074139?ref=tos) terms that are applicable.
+    b. To use Platform (including to Process any Platform Data), you agree to these Platform Terms (“Terms”), as well as all other applicable terms and policies. This may include the Meta Terms of Service, the Instagram Terms of Use, the Meta Commercial Terms, the Business Tools Terms, and any Meta Product terms that are applicable.
     
 *   
-    c. You must also comply with the applicable requirements in our [Developer Policies](https://developers.facebook.com/devpolicy/) and those made available on our [Developer Site](https://developers.facebook.com/), including in our [Documentation](https://developers.facebook.com/docs/) collectively, the “Developer Docs”)
+    c. You must also comply with the applicable requirements in our Developer Policies and those made available on our Developer Site, including in our Documentation collectively, the “Developer Docs”)
     
 *   
     d. These Terms will start on the earlier of the date you accept them or otherwise start accessing or using Platform, and will continue until you stop accessing and using Platform, unless ended earlier as described below. If you are accepting these Terms or accessing or using Platform on behalf of an entity, you represent and warrant that you have the authority to bind such entity to these Terms and you agree on behalf of such entity to be bound by these Terms (and for clarity, all other references to “you” in these Terms refer to such entity). For clarity, these Terms updated and replaced the Facebook Platform Policy and the Instagram Platform Policy and any references in existing terms, policies, or agreements to the “Facebook Platform Policy,” “Instagram Platform Policy,” or “Platform Policy” shall now mean these Terms.
@@ -42,14 +42,14 @@ Meta Platform Terms
     e. If you fail to comply with these Terms or any other applicable terms or policies, we may suspend or terminate your App or account, as described below.
     
 *   
-    f. Capitalized terms not otherwise defined herein (including in Section 12 (“Glossary”) have the meaning given in our other terms and policies, including our [Terms of Service](https://www.facebook.com/legal/terms) and our [Meta Commercial Terms](https://www.facebook.com/legal/commercial_terms). The term “including” means “including without limitation.”
+    f. Capitalized terms not otherwise defined herein (including in Section 12 (“Glossary”) have the meaning given in our other terms and policies, including our Terms of Service and our Meta Commercial Terms. The term “including” means “including without limitation.”
     
 
 2\. Intellectual Property Rights
 --------------------------------
 
 *   
-    **a. Our License to You.** Subject to your compliance with these Terms and all other applicable terms and policies, we grant you a limited, non-exclusive, non-sublicensable (except to Service Providers as described below), non-transferable, non-assignable license to use, access, and integrate with Platform, but only to the extent permitted in these Terms and all other applicable terms and policies. You will not sell, transfer, or sublicense Platform to anyone. Except as expressly licensed herein, you will not use, access, integrate with, modify, translate, create derivative works of, reverse engineer, or otherwise exploit Platform or any aspect thereof. The [Meta Companies](https://www.facebook.com/help/111814505650678) reserve all rights, title, and interest (including the right to enforce any such rights) not expressly granted in these Terms.
+    **a. Our License to You.** Subject to your compliance with these Terms and all other applicable terms and policies, we grant you a limited, non-exclusive, non-sublicensable (except to Service Providers as described below), non-transferable, non-assignable license to use, access, and integrate with Platform, but only to the extent permitted in these Terms and all other applicable terms and policies. You will not sell, transfer, or sublicense Platform to anyone. Except as expressly licensed herein, you will not use, access, integrate with, modify, translate, create derivative works of, reverse engineer, or otherwise exploit Platform or any aspect thereof. The Meta Companies reserve all rights, title, and interest (including the right to enforce any such rights) not expressly granted in these Terms.
     
 *   
     **b. Your License to Us**
@@ -58,7 +58,7 @@ Meta Platform Terms
         **i. _Your Content:_**
         
         *   
-            1\. You grant us a non-exclusive, transferable, sublicensable, royalty-free, worldwide license to: host, use, distribute, modify, run, copy, publicly perform or display, translate, and create derivative works of any information, data, and other content made available by you or on your behalf (including by your Service Providers or through your App) in connection with Platform (collectively, “Your Content”) for any business purpose in connection with operating, providing, or improving Platform or any other [Meta Product](https://www.facebook.com/help/1561485474074139?ref=tos). This license remains in effect even if you stop using Platform. Without limitation, your license to us includes: the right to incorporate Your Content into other parts of [Meta Products](https://www.facebook.com/help/1561485474074139), the right to attribute the source of Your Content using your name, trademarks, or logos; the right to use Your Content for promotional purposes, and the right to analyze Your Content (including to make sure you’re complying with these Terms and all other applicable terms and policies).
+            1\. You grant us a non-exclusive, transferable, sublicensable, royalty-free, worldwide license to: host, use, distribute, modify, run, copy, publicly perform or display, translate, and create derivative works of any information, data, and other content made available by you or on your behalf (including by your Service Providers or through your App) in connection with Platform (collectively, “Your Content”) for any business purpose in connection with operating, providing, or improving Platform or any other Meta Product. This license remains in effect even if you stop using Platform. Without limitation, your license to us includes: the right to incorporate Your Content into other parts of Meta Products, the right to attribute the source of Your Content using your name, trademarks, or logos; the right to use Your Content for promotional purposes, and the right to analyze Your Content (including to make sure you’re complying with these Terms and all other applicable terms and policies).
             
         *   
             2\. If you use the Meta Business Tools to send us Business Tool Data, our use of that data is governed by the Business Tools Terms rather than the foregoing license for Your Content.
@@ -81,7 +81,7 @@ Meta Platform Terms
             
         
     *   
-        **iii. _Your Name, Trademarks, and Logos:_** You grant us a non-exclusive, transferable, sublicensable, royalty-free, worldwide license to use your name, trademarks, and logos for distribution, marketing, and promotional purposes, in connection with your use of [Meta Products](https://www.facebook.com/help/1561485474074139), in all formats and media. This license remains in effect for existing materials and instances even if you stop using Platform.
+        **iii. _Your Name, Trademarks, and Logos:_** You grant us a non-exclusive, transferable, sublicensable, royalty-free, worldwide license to use your name, trademarks, and logos for distribution, marketing, and promotional purposes, in connection with your use of Meta Products, in all formats and media. This license remains in effect for existing materials and instances even if you stop using Platform.
         
     
 *   
@@ -212,7 +212,7 @@ Meta Platform Terms
         
     
 *   
-    e. **Exceptions to Restrictions.** The above provisions of this section (Section 3.a-d) do not apply to certain Platform Data as described [here](https://developers.facebook.com/terms/3e/).
+    e. **Exceptions to Restrictions.** The above provisions of this section (Section 3.a-d) do not apply to certain Platform Data as described here.
     
 
 4\. Privacy Policy
@@ -263,10 +263,10 @@ Meta Platform Terms
         iv. Upon our request, you must provide a list of your Service Providers and Sub-Service Providers including up-to-date contact information for each, the types and volume of Platform Data shared, and proof of written agreements with your Service Providers to demonstrate compliance with this Section.
         
     *   
-        v. We may prohibit your use of any Service Provider or Sub-Service Provider in connection with your use of Platform or Processing of Platform Data if we believe that (1) they have violated these Terms or other applicable terms or policies or (2) they are negatively impacting Platform, other [Meta Products](https://www.facebook.com/help/1561485474074139?ref=tos), Platform Data, or people who use [Meta Products](https://www.facebook.com/help/1561485474074139?ref=tos), and will provide notice to you if we do. Promptly upon such notice, you must stop using that Service Provider or Sub-Service Provider in connection with your use of Platform or Processing of Platform Data.
+        v. We may prohibit your use of any Service Provider or Sub-Service Provider in connection with your use of Platform or Processing of Platform Data if we believe that (1) they have violated these Terms or other applicable terms or policies or (2) they are negatively impacting Platform, other Meta Products, Platform Data, or people who use Meta Products, and will provide notice to you if we do. Promptly upon such notice, you must stop using that Service Provider or Sub-Service Provider in connection with your use of Platform or Processing of Platform Data.
         
     *   
-        vi. We may require that your Service Providers or Sub-Service Providers agree to these Terms or other applicable terms or policies in order to access [Meta Products](https://www.facebook.com/help/1561485474074139?ref=tos), Platform, or Platform Data.
+        vi. We may require that your Service Providers or Sub-Service Providers agree to these Terms or other applicable terms or policies in order to access Meta Products, Platform, or Platform Data.
         
     
 *   
@@ -304,10 +304,10 @@ Meta Platform Terms
                 
             
         *   
-            5\. We may require that your Clients agree to these Terms or other applicable terms or policies in order to access [Meta Products](https://www.facebook.com/help/1561485474074139?ref=tos), Platform, or Platform Data through your App.
+            5\. We may require that your Clients agree to these Terms or other applicable terms or policies in order to access Meta Products, Platform, or Platform Data through your App.
             
         *   
-            6\. You will promptly terminate a Client’s use of our [Meta Products](https://www.facebook.com/help/1561485474074139?ref=tos), Platform, or Platform Data through your App if we request it because we believe that the Client (a) has violated these Terms or other applicable terms or policies or (b) is negatively impacting Platform, other [Meta Products](https://www.facebook.com/help/1561485474074139?ref=tos), Platform Data, or people who use [Meta Products](https://www.facebook.com/help/1561485474074139?ref=tos).
+            6\. You will promptly terminate a Client’s use of our Meta Products, Platform, or Platform Data through your App if we request it because we believe that the Client (a) has violated these Terms or other applicable terms or policies or (b) is negatively impacting Platform, other Meta Products, Platform Data, or people who use Meta Products.
             
         
     
@@ -323,7 +323,7 @@ Meta Platform Terms
         
         *   
             
-            1\. Meet or exceed industry standards given the sensitivity of the Platform Data;[](https://developers.facebook.com/docs/datasecurity)
+            1\. Meet or exceed industry standards given the sensitivity of the Platform Data;
             
         * 2\. Comply with applicable law and regulations, including data security and privacy laws, rules, and regulations; and
             
@@ -345,7 +345,7 @@ Meta Platform Terms
     **b. Incident Reporting**
     
     *   
-        i. If any of the following incidents happen, you must promptly, and no later than 24 hours after you become aware of the incident, [notify us](https://developers.facebook.com/incident/report) and provide us with information we request regarding:
+        i. If any of the following incidents happen, you must promptly, and no later than 24 hours after you become aware of the incident, notify us and provide us with information we request regarding:
         
         *   
             1\. Any unauthorized (including in violation of these Terms or any other applicable terms or policies) Processing (including, for the avoidance of doubt, access, destruction, loss, alteration, disclosure, distribution or compromise) of Platform Data; or
@@ -406,17 +406,17 @@ Meta Platform Terms
             1\. You have not timely responded to our requests related to monitoring or auditing;
             
         *   
-            2\. You or your App has violated or may have violated these Terms or any other applicable terms or policies or is negatively impacting Platform, other [Meta Products](https://www.facebook.com/help/1561485474074139?ref=tos), Platform Data, or people who use [Meta Products](https://www.facebook.com/help/1561485474074139?ref=tos);
+            2\. You or your App has violated or may have violated these Terms or any other applicable terms or policies or is negatively impacting Platform, other Meta Products, Platform Data, or people who use Meta Products;
             
         *   
             3\. It is needed to comply with applicable laws or regulations or otherwise required or requested by a court order or governmental authority; or
             
         *   
-            4\. It is needed to protect the [Meta Companies](https://www.facebook.com/help/111814505650678) from legal or regulatory liability.
+            4\. It is needed to protect the Meta Companies from legal or regulatory liability.
             
         
     *   
-        ii. We may take enforcement action at any time, including while we investigate your App, with or without notice to you. Enforcement can be both automated and manual. It can include suspending or removing your App, removing your access and your App’s access to Platform, requiring that you stop Processing and delete Platform Data, terminating our agreements with you, or any other action that we consider to be appropriate, including terminating other agreements with you or your ability to use [Meta Products](https://www.facebook.com/help/1561485474074139?ref=tos).
+        ii. We may take enforcement action at any time, including while we investigate your App, with or without notice to you. Enforcement can be both automated and manual. It can include suspending or removing your App, removing your access and your App’s access to Platform, requiring that you stop Processing and delete Platform Data, terminating our agreements with you, or any other action that we consider to be appropriate, including terminating other agreements with you or your ability to use Meta Products.
         
     *   
         iii. We may suspend or end your App’s access to any Platform APIs, permissions, or features that your App has not used or accessed within a 28-day period with or without notice to you.
@@ -426,12 +426,12 @@ Meta Platform Terms
 8\. Notice
 ----------
 
-After you agree to these Terms, any written notice, request, or communications from us to you may be provided via email or mail (for example, to the email address or mailing address in your App account with us) or via notifications within the [Meta Products](https://www.facebook.com/help/1561485474074139?ref=tos) (for example, in your account with us). You will keep your contact information current, including name, business name, and email.
+After you agree to these Terms, any written notice, request, or communications from us to you may be provided via email or mail (for example, to the email address or mailing address in your App account with us) or via notifications within the Meta Products (for example, in your account with us). You will keep your contact information current, including name, business name, and email.
 
 9\. Indemnification
 -------------------
 
-In addition to and without limiting the scope of the “Indemnification” Section in our [Meta Commercial Terms](https://www.facebook.com/legal/commercial_terms) if anyone brings a claim, cause of action, or dispute against the [Meta Companies](https://www.facebook.com/help/111814505650678) related to your use of Platform, your Processing of Platform Data, Your Content, or your App, name or logo, products or services, or actions in connection with Platform, you will indemnify and hold the [Meta Companies](https://www.facebook.com/help/111814505650678) harmless from and against all damages, losses, and expenses of any kind (including reasonable legal fees and costs) related to any such claim, cause of action, or dispute.
+In addition to and without limiting the scope of the “Indemnification” Section in our Meta Commercial Terms if anyone brings a claim, cause of action, or dispute against the Meta Companies related to your use of Platform, your Processing of Platform Data, Your Content, or your App, name or logo, products or services, or actions in connection with Platform, you will indemnify and hold the Meta Companies harmless from and against all damages, losses, and expenses of any kind (including reasonable legal fees and costs) related to any such claim, cause of action, or dispute.
 
 10\. International Transfers — EEA Data Transfers
 -------------------------------------------------
@@ -470,7 +470,7 @@ Whenever there is an EEA Data Transfer, your use of Meta Ireland Data is subject
 *   
     c. For the purposes of Annex I(C) to the Clauses, the competent supervisory authority will be the Data Protection Commission in Ireland; and
     
-    d. For the purposes of Annex II to the Clauses, you will implement and maintain [Meta's Technical and Organisational Measures](https://www.facebook.com/legal/terms/Privacy/TOMs).
+    d. For the purposes of Annex II to the Clauses, you will implement and maintain Meta's Technical and Organisational Measures.
     
 
 10A. International Transfers — UK Data Transfers
@@ -509,7 +509,7 @@ Whenever there is a UK Data Transfer, your use of UK Data is subject to your com
         ii. Annex 1B: Description of Transfer: The information in Section 10(b) shall apply, albeit references to "Meta Platforms Ireland Limited" shall be replaced with "Meta Platforms, Inc." and references to "Meta Ireland Data" shall be replaced with "UK Data".
         
     *   
-        iii. Annex II: Technical and organizational measures: For the purposes of Annex II, you will implement and maintain [Meta's Technical and Organisational Measures](https://www.facebook.com/legal/terms/Privacy/TOMs).
+        iii. Annex II: Technical and organizational measures: For the purposes of Annex II, you will implement and maintain Meta's Technical and Organisational Measures.
         
     
 
@@ -521,7 +521,7 @@ Whenever there is a UK Data Transfer, your use of UK Data is subject to your com
 ------------
 
 *   
-    a. In accordance with our [Terms of Service](https://www.facebook.com/legal/terms), you will not transfer any of your rights or obligations under these Terms to anyone else without our prior written consent. Transferring can include assignment, acquisition, merger, change of control, or other forms of transfer. Any unpermitted transfer will be considered null and void. For any permitted transfer, you can continue to Process Platform Data only for your App subject to these Terms and only after you re-submit your App and receive our approval through our App Review process.
+    a. In accordance with our Terms of Service, you will not transfer any of your rights or obligations under these Terms to anyone else without our prior written consent. Transferring can include assignment, acquisition, merger, change of control, or other forms of transfer. Any unpermitted transfer will be considered null and void. For any permitted transfer, you can continue to Process Platform Data only for your App subject to these Terms and only after you re-submit your App and receive our approval through our App Review process.
     
 *   
     b. You also must comply with all applicable laws and regulations (including the Children’s Online Privacy Protection Act (“COPPA”) and the Video Privacy Protection Act (“VPPA”)).
@@ -595,7 +595,7 @@ Whenever there is a UK Data Transfer, your use of UK Data is subject to your com
         
     
 *   
-    j. “Platform” means the set of APIs, SDKs, tools, plugins, code, technology, content, and services that enables others, including app developers and website operators, to develop functionality, retrieve data from Meta and any other [Meta Products](https://www.facebook.com/help/1561485474074139?ref=tos), or provide data to us.
+    j. “Platform” means the set of APIs, SDKs, tools, plugins, code, technology, content, and services that enables others, including app developers and website operators, to develop functionality, retrieve data from Meta and any other Meta Products, or provide data to us.
     
 *   
     k. “Platform Data” means any information, data, or other content you obtain from us, through Platform or through your App, whether directly or indirectly and whether before, on, or after the date you agree to these Terms, including data anonymized, aggregated, or derived from such data. Platform Data includes app tokens, page tokens, access tokens, app secrets, and user tokens.
@@ -610,7 +610,7 @@ Whenever there is a UK Data Transfer, your use of UK Data is subject to your com
     n. "Records” mean books, agreements, access logs, third-party reports, policies, processes, and other records regarding the Processing of Platform Data.
     
 *   
-    o. “Restricted Platform Data” means Platform Data that (i) reasonably can be used to identify a particular User or device; (ii) is accessed using the permissions listed [here](https://developers.facebook.com/terms/12n/); or (iii) we otherwise designate as Restricted. Notwithstanding the foregoing, Restricted Platform Data does not include data that can be accessed using the permissions listed [here](https://developers.facebook.com/terms/12n/).
+    o. “Restricted Platform Data” means Platform Data that (i) reasonably can be used to identify a particular User or device; (ii) is accessed using the permissions listed here; or (iii) we otherwise designate as Restricted. Notwithstanding the foregoing, Restricted Platform Data does not include data that can be accessed using the permissions listed here.
     
 *   
     p. “SDKs” means any object code, source code, or documentation you receive from us that helps you create Apps or content for use with the Platform.
