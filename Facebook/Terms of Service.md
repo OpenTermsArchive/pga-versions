@@ -22,7 +22,7 @@ Our [Privacy Policy](https://www.facebook.com/about/privacy/update) explains how
 
 **Imprint**  
   
-The websites under www.facebook.com and the services on these page are being offered to you by: Meta Platforms Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland  
+The websites under www.facebook.com and the services on these page are being offered to you by: Meta Platforms Ireland Limited, Merrion Road, Dublin 4, D04 X2K5, Ireland  
   
 Authorized representative: Richard Kelley  
 Registered in Ireland (Companies Registration Office)  
