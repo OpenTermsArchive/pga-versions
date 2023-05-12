@@ -56,11 +56,7 @@ Pinterest isn’t a place for misinformation, disinformation, mal-information or
 * Conspiracy theories, including about climate change or civic participation
 * Content that originates from disinformation campaigns, including about climate change or civic participation
 * Factual information that’s published or deliberately modified to erode trust or inflict harm, such as changing or omitting of context, date or time
-* Fabricated or meaningfully manipulated visual or audio content that erodes trust or causes harm
-
-Civic participation misinformation
-
-* False or misleading content that impedes an election’s integrity or an individual's or group's civic participation, including registering to vote, voting and being counted in a census.
+* Fabricated or meaningfully manipulated visual or audio content that erodes trust or causes harmCivic participation misinformation:* False or misleading content that impedes an election’s integrity or an individual's or group's civic participation, including registering to vote, voting and being counted in a census.
 * False or misleading information about the dates, times, locations and procedure for voting or census participation.
 * Content that misleads voters about how to correctly fill-out and submit a ballot, including a mail-in ballot, or census form.
 * False or misleading information about who can vote or participate in the census and what information must be provided to participate.
@@ -68,11 +64,7 @@ Civic participation misinformation
 * False or misleading information about public safety that is intended to deter people from exercising their right to vote or participate in a census.
 * Content that encourages or instructs voters or participants to misrepresent themselves or illegally participate.
 * Content apparently intended to delegitimize election results on the basis of false or misleading claims.
-* Threats against voting locations, census or voting personnel, voters or census participants, including intimidation of vulnerable or protected group voters or participants.
-
-Climate misinformation
-
-* Content that denies the existence or impacts of climate change, the human influence on climate change, or that climate change is backed by scientific consensus.
+* Threats against voting locations, census or voting personnel, voters or census participants, including intimidation of vulnerable or protected group voters or participants.Climate misinformation:* Content that denies the existence or impacts of climate change, the human influence on climate change, or that climate change is backed by scientific consensus.
 * False or misleading content about climate change solutions that contradict well-established scientific consensus.
 * Content that misrepresents scientific data, including by omission or cherry-picking, in order to erode trust in climate science and experts.
 * Harmful false or misleading content about public safety emergencies including natural disasters and extreme weather events.
