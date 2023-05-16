@@ -28,7 +28,7 @@ The Instagram Service is one of the Meta Products, provided to you by Meta Platf
 
 **Impressum**
 
-Meta Platforms Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland
+Meta Platforms Ireland Limited, Merrion Road, Dublin 4, D04 X2K5, Ireland
 
 Meta Platforms Ireland Limited is a company registered under the laws of the Republic of Ireland.
 
