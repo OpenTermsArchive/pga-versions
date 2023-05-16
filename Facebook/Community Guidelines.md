@@ -1139,7 +1139,7 @@ Content targeting a person or group of people on the basis of their protected ch
 * Segregation in the form of calls for action, statements of intent, aspirational or conditional statements, or statements advocating or supporting segregation.
 * Exclusion in the form of calls for action, statements of intent, aspirational or conditional statements, or statements advocating or supporting, defined as
     * Explicit exclusion, which means things like expelling certain groups or saying they are not allowed.
-    * Political exclusion, which means denying the right to right to political participation.
+    * Political exclusion, which means denying the right to political participation.
     * Economic exclusion, which means denying access to economic entitlements and limiting participation in the labour market.
     * Social exclusion, which means things like denying access to spaces (physical and online)and social services, except for gender-based exclusion in health and positive support Groups.
 
