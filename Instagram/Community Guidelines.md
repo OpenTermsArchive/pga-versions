@@ -900,7 +900,7 @@ Content mocking the concept of non-consensual sexual touching
 
 #### For the following Community Standards, we require additional information and/or context to enforce:
 
-We may restrict visibility to people over the age of 18 and include a warning label on certain fictional videos (e.g., digital and hand-drawn imagery, film and TV show scenes, comic books, music videos) that depict non-consensual sexual touching.
+We may restrict visibility to people over the age of 18 and include a warning label on certain content depicting non-consensual sexual touching, when it is shared to raise awareness and without entertainment or sensational context, where the victim or survivor is not identifiable and where the content does not involve nudity.
 
 In addition to our at-scale policy of removing content that threatens or advocates rape or other non-consensual sexual touching, we may also disable the posting account.
 
@@ -1074,7 +1074,7 @@ Content targeting a person or group of people on the basis of their protected ch
     * Economic exclusion, which means denying access to economic entitlements and limiting participation in the labour market.
     * Social exclusion, which means things like denying access to spaces (physical and online)and social services, except for gender-based exclusion in health and positive support Groups.
 
-Content that describes or negatively targets people with slurs, where slurs are defined as words that are inherently offensive and used as insulting labels for the above characteristics.
+Content that describes or negatively targets people with slurs, where slurs are defined as words that inherently create an atmosphere of exclusion and intimidation against people on the basis of a protected characteristic, often because these words are tied to historical discrimination, oppression, and violence. They do this even when targeting someone who is not a member of the PC group that the slur inherently targets.
 
 #### For the following Community Standards, we require additional information and/or context to enforce:
 
@@ -1361,7 +1361,7 @@ Imagery that shows capital punishment of a person
 
 Imagery that shows acts of torture committed against a person or people
 
-Imagery of non-medical foreign objects (such as metal objects, knives, nails) involuntarily inserted or stuck into people causing grievous injury
+Imagery of non-medical foreign objects (such as metal objects, knives, nails) inserted or stuck into a person causing grievous injury
 
 **Imagery of animals**
 
@@ -1374,7 +1374,7 @@ The following content involving animals:
 
 #### For the following content, we include a label so that people are aware the content may be sensitive:
 
-Imagery of non-medical foreign objects voluntarily inserted into people through skin in religious or cultural context
+Imagery of non-medical foreign objects inserted into a person through their skin in a religious or cultural context
 
 Imagery of visible innards in a birthing context
 
