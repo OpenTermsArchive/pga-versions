@@ -29,7 +29,7 @@ Platform Policies
 
 Official Quora Account
 
-* 2023-03-10T22:08:32Z
+* 2023-05-30T15:39:54Z
 
 Quora is a place that empowers people to share and grow the world's knowledge. In order to provide everyone with a safe and authentic experience using Quora, the following types of content and behaviors are prohibited:
 
@@ -52,24 +52,22 @@ Spam negatively impacts interaction on the platform, reduces trust, and inhibits
 
 Posting content or engaging in behaviors with the intent to harass, intimidate, or humiliate an individual, whether in public or private. This includes encouraging others to engage in such behavior. Examples include:
 
-* Threatening violence or calling for serious physical harm to an individual (e.g., “I hope you die”, “Someone needs to find and maim you.”, “I hope you get \[insert disease\] and die.”)
 * Finding a way to repeatedly message or engage with someone after being blocked
 * Creating a Space for the sole purpose of harassing a private individual
 * Adding questions about a private individual, that would appear to a reasonable observer, to be harassment
 * Targeted insults or profanity directed at private individuals based on personal attributes, such as physical appearance.
 * Revealing someone’s personal or confidential information without permission (also known as doxxing). Examples of what we consider personal information under this policy include:
-
-* Home address
-* Physical location
-* Identity documents such as government-issued IDs
-* Social security numbers
-* Financial account information
-* Credit card details
-* Medical records
-* Biometric data
-* Private phone numbers
-* Private email addresses
-* Real name of a pseudonymous account
+    * Home address
+    * Physical location
+    * Identity documents such as government-issued IDs
+    * Social security numbers
+    * Financial account information
+    * Credit card details
+    * Medical records
+    * Biometric data
+    * Private phone numbers
+    * Private email addresses
+    * Real name of a pseudonymous account
 
 If there is a question about you on Quora, you have the right to have the entire question and its contents removed. However, we allow questions about lawsuits or any topic mentioned in the media that may reference individuals.
 
@@ -87,6 +85,7 @@ Denial of the following events, in which protected classes were the primary targ
 
 ### [Harmful Activities and Self-Harm](#h_01GFWFG2NNZMECVR6F414V89N9)
 
+* Threatening violence or calling for serious physical harm to an individual (e.g., “I hope you die”, “Someone needs to find and maim you.”, “I hope you get \[insert disease\] and die.”)
 * Encouraging, glorifying, or promoting:
     * Acts of physical violence towards others by civilians (excluding discussions about reasonable self defense as well as violence involving military actions).
     * Acts of physical violence towards others by other non-state actors, such as terrorist organizations.
@@ -204,11 +203,11 @@ Spaces Policies
 
 Official Quora Account
 
-* 2023-03-22T23:01:34Z
+* 2023-05-30T15:58:13Z
 
 On Quora, people share questions, answers, and other content to collectively build knowledge and community within a Space. Quora generally moderates items within Spaces at a content-level, however, repeated or serious violations may result in the removal of the entire Space. Note that Space admins may decide to set more restrictive policies for individual Spaces that they manage. Below are the following policies for Quora Spaces:
 
-### [Hate speech](#h_01FSDDT210PVD4R9B41GJWR7N6)
+### [Hate Speech](#h_01FSDDT210PVD4R9B41GJWR7N6)
 
 Hate speech is defined as a serious attack on a group or individual based on their race, ethnicity, gender, nationality, sexual orientation, sex, religion, caste, serious medical condition, or disability. This includes the use of slurs in a disparaging way, as well as content that dehumanizes or calls for violence, exclusion, or segregation of protected classes.
 
@@ -224,32 +223,32 @@ Denial of the following events, in which protected classes were the primary targ
 
 Posting content or engaging in behaviors with the intent to harass, intimidate, or humiliate an individual, whether in public or private. This includes encouraging others to engage in such behavior. Examples include:
 
-* Threatening violence or calling for serious physical harm to an individual (e.g., “I hope you die”, “Someone needs to find and maim you.”, “I hope you get \[insert disease\] and die.”)
 * Finding a way to repeatedly message or engage with someone after being blocked
 * Creating a Space for the sole purpose of harassing a private individual
 * Adding questions about a private individual, that would appear to a reasonable observer, to be harassment
 * Targeted insults or profanity directed at private individuals based on personal attributes, such as physical appearance.
 * Revealing someone’s personal or confidential information without permission (also known as doxxing). Examples of what we consider personal information under this policy include:
-
-* Home address
-* Physical location
-* Identity documents such as government-issued IDs
-* Social security numbers
-* Financial account information
-* Credit card details
-* Medical records
-* Biometric data
-* Real name of a pseudonymous account
+    * Home address
+    * Physical location
+    * Identity documents such as government-issued IDs
+    * Social security numbers
+    * Financial account information
+    * Credit card details
+    * Medical records
+    * Biometric data
+    * Real name of a pseudonymous account
 
 If there is a question about you on Quora, you have the right to have the entire question and its contents removed. However, we allow questions about lawsuits or any topic mentioned in the media that may reference individuals.
 
 ### [Harmful Activities and Self-Harm](#h_01FSDDXQVJHX60TX2G6J7M474S)
 
+* Threatening violence or calling for serious physical harm to an individual (e.g., “I hope you die”, “Someone needs to find and maim you.”, “I hope you get \[insert disease\] and die.”)
 * Encouraging, glorifying, or promoting:
     * Acts of physical violence towards others by civilians (excluding discussions about reasonable self defense as well as violence involving military actions).
     * Acts of physical violence towards others by other non-state actors, such as terrorist organizations.
     * Suicide or self-harm (including eating disorders). This includes soliciting or sharing information, strategies, or methods on how to commit suicide or self-harm.
     * Animal cruelty
+
 * Stating a specific intent to commit physical violence.
 * Stating intent to join a terrorist group, or recruiting on behalf of a terrorist organization
 * Graphically violent profile photos, Space icons, and cover photos.
@@ -264,7 +263,7 @@ Examples include:
 
 Quora may also ban and remove all content from any user who is a confirmed and/or declared member of any group on the [U.S. State Department list of Foreign Terrorist Organizations](https://www.state.gov/foreign-terrorist-organizations/), or is a confirmed participant in acts of mass violence or hate crimes.
 
-### [Sexual exploitation and abuse](#h_01FSDDXYFNVR0TKNXQ18TH9297)
+### [Sexual Exploitation and Abuse](#h_01FSDDXYFNVR0TKNXQ18TH9297)
 
 **Children and Minors**  
 Sexually explicit or suggestive content (written or visual) involving children and minors. **If child sexual abuse material is identified to us, we will remove it, report it to relevant authorities, and your account will be permanently banned.**
