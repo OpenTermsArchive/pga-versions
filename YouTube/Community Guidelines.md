@@ -1670,6 +1670,8 @@ If your content violates this policy, we’ll remove the content and send you an
 Elections misinformation policies
 =================================
 
+On June 2, 2023, we updated how this policy applies to past US election outcomes. Learn more in our [blog](https://blog.youtube/inside-youtube/us-election-misinformation-update-2023/).
+
 Certain types of misleading or deceptive content with serious risk of egregious harm are not allowed on YouTube. This includes certain types of misinformation that can cause real-world harm, like certain types of technically manipulated content, and content interfering with democratic processes.
 
 [Elections Misinformation Policy: YouTube Community Guidelines](https://www.youtube.com/watch?v=YpR7CR8D8LE)
@@ -1688,7 +1690,6 @@ These policies prohibit certain types of content relating to free and fair democ
 * **Incitement to interfere with democratic processes:** Content encouraging others to interfere with democratic processes. This includes obstructing or interrupting voting procedures.
 * **Distribution of hacked materials:** Content that contains hacked info, the disclosure of which may interfere with democratic processes.
 * **Election integrity:** Content advancing false claims that widespread fraud, errors, or glitches occurred in certain past elections to determine heads of government. Or, content that claims that the certified results of those elections were false. This policy currently applies to:
-    * Any past U.S. Presidential election
     * The 2021 German federal election
     * The 2014, 2018, and 2022 Brazilian Presidential elections
 
@@ -1727,11 +1728,6 @@ The following types of content are not allowed on YouTube. This isn't a complete
 
 Election integrity
 
-* Claims that a candidate only won a swing state in the U.S. 2020 presidential election due to voting machine glitches that changed votes.
-* Claims that dead people voted in numbers that changed the outcome of the U.S. 2016 presidential election.
-* Claims that widespread fraud or errors occurred in a past U.S. presidential election.
-* Claims that the U.S. 2020 presidential election was rigged or stolen.
-* Claims that fake ballots were dumped to give one candidate enough votes to win a state in a past U.S. presidential election.
 * Content advancing false claims that widespread fraud, error, or glitches changed the outcome of the German parliamentary (Bundestag) elections, delegitimizes the formation of the new government or the election and appointment of the next German Chancellor.
 * False claims that widespread fraud, error, or glitches changed the outcome of the 2018 Brazilian presidential election.
 
