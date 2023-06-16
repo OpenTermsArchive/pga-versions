@@ -1,8 +1,10 @@
 Cookies Policy
 
+We updated our policy on June 16, 2023. [View our previous policy.](https://www.facebook.com/privacy/policies/cookies/version/5567945786592090/)
+
 What are cookies, and what does this policy cover?
 
-Effective October 5, 2022 | [View printable version](https://mbasic.facebook.com/privacy/policies/cookies/printable/) | [See previous versions](https://www.facebook.com/privacy/policies/cookies/?show_versions=1)
+Effective June 16, 2023 | [View printable version](https://mbasic.facebook.com/privacy/policies/cookies/printable/) | [See previous versions](https://www.facebook.com/privacy/policies/cookies/?show_versions=1)
 
 Cookies are small pieces of text used to store information on web browsers. Cookies are used to store and receive identifiers and other information on computers, phones and other devices. Other technologies, including data that we store on your web browser or device, identifiers associated with your device and other software, are used for similar purposes. In this policy, we refer to all of these technologies as “cookies”.
 
@@ -12,7 +14,7 @@ This policy explains how we use cookies and the choices you have. Except as othe
 
 Why do we use cookies?
 
-Cookies help us provide, protect and improve the Meta Products, such as by personalising content, tailoring and measuring ads, and providing a safer experience. The cookies that we use include session cookies, which are deleted when you close your browser, and persistent cookies, which stay in your browser until they expire or you delete them. While the cookies that we use may change from time to time as we improve and update the Meta Products, we use them for the following purposes:
+Cookies help us provide, protect and improve the Meta Products, such as by personalising content, tailoring and measuring ads, and providing a safer experience. The cookies that we use include session cookies, which are deleted when you close your browser, and persistent cookies, which stay in your browser until they expire or you delete them. The cookies we [use and how we use them](https://www.facebook.com/privacy/policies/cookies/?annotations[0]=explanation%2F1_common_cookies_and_uses) may change over time as we improve and update Meta Products, we typically use them for the following purposes:
 
 [Authentication](https://www.facebook.com/privacy/policies/cookies/?subpage=subpage-1.1)
 
@@ -76,9 +78,11 @@ We use cookies to help personalise and improve content and services, provide a s
 
 Cookies Policy
 
+We updated our policy on June 16, 2023. [View our previous policy.](https://www.facebook.com/privacy/policies/cookies/version/5567945786592090/)
+
 What are cookies, and what does this policy cover?
 
-Effective October 5, 2022 | [View printable version](https://mbasic.facebook.com/privacy/policies/cookies/printable/) | [See previous versions](https://www.facebook.com/privacy/policies/cookies/?show_versions=1)
+Effective June 16, 2023 | [View printable version](https://mbasic.facebook.com/privacy/policies/cookies/printable/) | [See previous versions](https://www.facebook.com/privacy/policies/cookies/?show_versions=1)
 
 Cookies are small pieces of text used to store information on web browsers. Cookies are used to store and receive identifiers and other information on computers, phones and other devices. Other technologies, including data that we store on your web browser or device, identifiers associated with your device and other software, are used for similar purposes. In this policy, we refer to all of these technologies as “cookies”.
 
@@ -88,7 +92,7 @@ This policy explains how we use cookies and the choices you have. Except as othe
 
 Why do we use cookies?
 
-Cookies help us provide, protect and improve the Meta Products, such as by personalising content, tailoring and measuring ads, and providing a safer experience. The cookies that we use include session cookies, which are deleted when you close your browser, and persistent cookies, which stay in your browser until they expire or you delete them. While the cookies that we use may change from time to time as we improve and update the Meta Products, we use them for the following purposes:
+Cookies help us provide, protect and improve the Meta Products, such as by personalising content, tailoring and measuring ads, and providing a safer experience. The cookies that we use include session cookies, which are deleted when you close your browser, and persistent cookies, which stay in your browser until they expire or you delete them. The cookies we [use and how we use them](https://www.facebook.com/privacy/policies/cookies/?annotations[0]=explanation%2F1_common_cookies_and_uses) may change over time as we improve and update Meta Products, we typically use them for the following purposes:
 
 [Authentication](https://www.facebook.com/privacy/policies/cookies/?subpage=subpage-1.1)
 
