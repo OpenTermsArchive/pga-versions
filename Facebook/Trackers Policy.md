@@ -2,7 +2,7 @@ Cookies Policy
 
 What are cookies, and what does this policy cover?
 
-Effective October 5, 2022 | [View printable version](https://mbasic.facebook.com/privacy/policies/cookies/printable/)
+Effective October 5, 2022 | [View printable version](https://mbasic.facebook.com/privacy/policies/cookies/printable/) | [See previous versions](https://www.facebook.com/privacy/policies/cookies/?show_versions=1)
 
 Cookies are small pieces of text used to store information on web browsers. Cookies are used to store and receive identifiers and other information on computers, phones and other devices. Other technologies, including data that we store on your web browser or device, identifiers associated with your device and other software, are used for similar purposes. In this policy, we refer to all of these technologies as “cookies”.
 
@@ -78,7 +78,7 @@ Cookies Policy
 
 What are cookies, and what does this policy cover?
 
-Effective October 5, 2022 | [View printable version](https://mbasic.facebook.com/privacy/policies/cookies/printable/)
+Effective October 5, 2022 | [View printable version](https://mbasic.facebook.com/privacy/policies/cookies/printable/) | [See previous versions](https://www.facebook.com/privacy/policies/cookies/?show_versions=1)
 
 Cookies are small pieces of text used to store information on web browsers. Cookies are used to store and receive identifiers and other information on computers, phones and other devices. Other technologies, including data that we store on your web browser or device, identifiers associated with your device and other software, are used for similar purposes. In this policy, we refer to all of these technologies as “cookies”.
 
