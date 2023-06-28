@@ -217,9 +217,9 @@ The safety of our creators, viewers, and partners is our highest priority. We lo
 
 Content intended to impersonate a person or channel is not allowed on YouTube. YouTube also enforces trademark holder rights. When a channel, or content in the channel, causes confusion about the source of goods and services advertised, it may not be allowed.
 
-If you see content that violates this policy, [please report it](https://support.google.com/youtube/answer/2802027).
+If you see content that violates this policy, [report it](https://support.google.com/youtube/answer/2802027).
 
-* If you feel that yours or another creator's channel is being impersonated, you can report the channel by following the instructions [here](https://support.google.com/youtube/answer/2802027#report_channel).
+* If you feel that yours or another creator's channel is being impersonated, you can [report the channel](https://support.google.com/youtube/answer/2802027).
 
 What these policies mean for you
 --------------------------------
@@ -231,29 +231,26 @@ Don’t post content on YouTube if it fits any of the descriptions noted below.�
 * **Channel impersonation:** A channel that copies another channel's profile, background, or overall look and feel in such a way that makes it look like someone else's channel. The channel does not have to be 100% identical, as long as the intent is clear to copy the other channel.
 * **Personal impersonation:** Content intended to look like someone else is posting it.
 
+If you operate a fan channel, make sure you state so explicitly in your channel name or [handle](https://support.google.com/youtube/answer/11585688). It should be obvious to your viewers that your channel doesn't represent the original creator, artist or entity your channel is celebrating.
+
 Examples
 --------
 
 Here are some examples of content that’s not allowed on YouTube.
 
-* Channels with the same name and image as another channel, with the only difference being a space inserted into the name or a zero replacing the letter O.
+* Channels with the same identifier (channel name or handle) and image as another channel, with the only difference being a space inserted into the name or a zero replacing the letter O.
 * Using someone else's real name, user name, image, brand, logo, or other personal information to trick people into believing you are that person. 
-* Exactly matching a channel description to another channel.
-* Setting up a channel using the name and image of a person, and then pretending that person is posting content to the channel.
+* Setting up a channel using the same identifier (channel name or handle) and image of a person, and then pretending that person is posting content to the channel.
 * Setting up a channel using the name and image of a person, and then posting comments on other channels as if they were posted by the person.
-* Channels claiming to be a “fan account,” but actually posing as another’s channel and reuploading their content.
+* Channels claiming to be a 'fan account' in the channel description, but not stating so clearly in the channel name or handle, or posing as another’s channel and reuploading their content.
 * Channels impersonating an existing news channel.
 
-Please remember these are just some examples, and don't post content if you think it might violate this policy.
+Remember these are just some examples, and don't post content if you think it might violate this policy.
 
 What happens if content violates this policy
 --------------------------------------------
 
-If your content violates this policy, we’ll remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
-
-If this is your first time violating our Community Guidelines, you’ll likely get a warning with no penalty to your channel. If it’s not, we may issue a strike against your channel. If you get 3 strikes within 90 days, your channel will be terminated. You can learn more about [our strikes system here](https://support.google.com/youtube/answer/2802032).
-
-We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. You can learn more about [channel or account terminations here](https://support.google.com/youtube/answer/2802168).
+If your content violates this policy, we may terminate your channel or account. Learn more about [channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
 External links policy
 =====================
@@ -418,7 +415,7 @@ Remember these are just some examples, and don't post content if you think it mi
 What happens if content violates this policy
 --------------------------------------------
 
-If your content violates this policy, we may terminate your channel or account. Learn more about [channel or account terminations](https://support.google.com/youtube/answer/2802168). 
+If your content violates this policy, we may suspend your monetization or terminate your channel or account. Learn more about [monetization policies](https://support.google.com/youtube/answer/1311392?hl=en)) and [channel or account terminations](https://support.google.com/youtube/answer/2802168). 
 
 For some violations, we may remove the content and issue a warning or a strike against your channel. If this happens, we’ll send you an email to let you know. If you get 3 strikes within 90 days, your channel will be terminated. Learn more about [our strike system](https://support.google.com/youtube/answer/2802032).
 
@@ -492,13 +489,13 @@ Child safety policy
 
 The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. **T****ake the time to carefully read the policy below**. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
 
-Update: Content that targets young minors and families but contains sexual themes, violence, obscene, or other mature themes not suitable for young audiences, is not allowed on YouTube. In addition to your titles, descriptions, and tags, ensure your [audience selection](https://support.google.com/youtube/answer/9528076) matches the audience your content is suitable for. 
+Update: Content that targets young minors and families but contains sexual themes, violence, obscene, or other mature themes not suitable for young audiences, is not allowed on YouTube. In addition to your titles, descriptions, and tags, ensure your [audience selection](https://support.google.com/youtube/answer/9528076) matches the audience your content is suitable for.
 
-YouTube doesn’t allow content that endangers the emotional and physical well-being of minors. A minor is defined as someone under the legal age of majority -- usually anyone younger than 18 years old in most countries/regions.
+YouTube doesn’t allow content that endangers the emotional and physical well-being of minors. A minor is defined as someone under the legal age of majority -- usually anyone younger than 18 years old in most countries/regions.
 
-If you find content that violates this policy, report it. If you believe that a child is in danger, you should get in touch with your local law enforcement to report the situation immediately.
+If you find content that violates this policy, report it. If you believe that a child is in danger, you should get in touch with your local law enforcement to report the situation immediately.
 
-Instructions for reporting violations of our Community Guidelines [are available here](https://support.google.com/youtube/answer/2802027). If you've found multiple videos or comments that you would like to report, you can [report the channel](https://support.google.com/youtube/answer/2802027#report_channel). 
+Instructions for reporting violations of our Community Guidelines [are available here](https://support.google.com/youtube/answer/2802027). If you've found multiple videos or comments that you would like to report, you can [report the channel](https://support.google.com/youtube/answer/2802027#report_channel).
 
 What this policy means for you
 ------------------------------
@@ -508,17 +505,18 @@ What this policy means for you
 Don’t post content on YouTube if it fits any of the descriptions below.
 
 * **Sexualization of minors**: Sexually explicit content featuring minors and content that sexually exploits minors. We report content containing child sexual abuse imagery to the [National Center for Missing and Exploited Children](http://www.missingkids.com/home), who work with global law enforcement agencies.
-* **Harmful or dangerous acts involving minors**: Content showing a minor participating in dangerous activities or encouraging minors to do dangerous activities. Never put minors in harmful situations that may lead to injury, including dangerous stunts, dares, or pranks.
+* **Harmful or dangerous acts involving minors**: Content showing a minor participating in dangerous activities or encouraging minors to do dangerous activities. Never put minors in harmful situations that may lead to injury, including dangerous stunts, challenges, dares, or pranks.
 * **Infliction of emotional distress on minors**: Content that could cause minor participants or viewers emotional distress, including:
     * Exposing minors to mature themes
     * Simulating parental abuse
     * Coercing minors
     * Violence
-* **Misleading family content**: Content that targets young minors and families, but contains:
+* **Misleading family content**: Content that targets young minors and families, but contains:
     * Sexual themes
     * Violence
-    * Obscenity or other mature themes not suitable for young audiences
-    * Family friendly cartoons that target young minors and contain adult or age-inappropriate themes such as violence, sex, death, drugs and more. Make sure your titles, descriptions, and tags match the audience you're targeting. In addition, ensure your [audience selection](https://support.google.com/youtube/answer/9528076) accurately represents the audience your content is suitable for. You can also age restrict your content upon upload if it’s intended for [mature audiences](https://support.google.com/youtube/answer/2950063).
+    * Obscenity or other mature themes not suitable for young audiences such as medical procedures, use of adult horror characters, self harm, or content intended to shock young audiences.
+    * Family friendly cartoons that target young minors and contain adult or age-inappropriate themes such as violence, sex, profanity, medical procedures, self harm, adult horror characters or other content intended to shock young audiences.
+    * Make sure your titles, descriptions, and tags match the audience you're targeting. In addition, ensure your [audience selection](https://support.google.com/youtube/answer/9528076) accurately represents the audience your content is suitable for. You can also age restrict your content upon upload if it’s intended for [mature audiences](https://support.google.com/youtube/answer/2950063).
 * **Cyberbullying and harassment involving minors**: Content that:
     * Targets individuals for abuse or humiliation
     * Reveals personal information like email addresses or bank account numbers
@@ -536,7 +534,7 @@ We may add an age restriction to content that includes any of the following.
 
 * **Harmful or dangerous acts that minors could imitate**: Content containing adults participating in dangerous activities that minors could easily imitate.
     * **Note**: If the content itself warns minors not to perform the dangerous activities, we may allow this content without restriction. It will also need to explain the need for professional adult supervision.
-* **Adult themes in family content**: Content meant for adult audiences but could easily be confused with family content. This includes cartoons that contain adult themes such as violence, sex, or death. Remember you can age restrict your content upon upload if it’s intended for [mature audiences](https://support.google.com/youtube/answer/2950063?hl=en).
+* **Adult themes in family content**: Content meant for adult audiences but could easily be confused with family content. This includes cartoons that contain adult themes such as violence, sex, or death. Remember you can age restrict your content upon upload if it’s intended for [mature audiences](https://support.google.com/youtube/answer/2950063?hl=en).
 * **Vulgar language**: Some language is not appropriate for younger audiences. Content using sexually explicit language or excessive profanity may lead to age restriction.
 
 Content featuring minors
@@ -551,13 +549,13 @@ To protect minors on YouTube, content that doesn’t violate our policies but fe
 
 **How to protect minors in your content**
 
-Our goal is to protect both uploaders and viewers. Before posting content of yourself, your family, or friends, think carefully about whether it may put anyone at risk of negative attention. 
+Our goal is to protect both uploaders and viewers. Before posting content of yourself, your family, or friends, think carefully about whether it may put anyone at risk of negative attention.
 
 * Make sure the minor is supervised by an adult and is performing age-appropriate activities such as demonstrating hobbies, educational content or public performances.
-* Make sure the attire worn is age-appropriate. Avoid attire that overexposes the minor or is form-fitting. 
+* Make sure the attire worn is age-appropriate. Avoid attire that overexposes the minor or is form-fitting.
 * Use YouTube's [privacy settings](https://support.google.com/youtube/answer/157177) to limit who can see the videos you post.
 
-**Don’t post content on YouTube that features minors and meets one or more of the following:** 
+**Don’t post content on YouTube that features minors and meets one or more of the following:**
 
 * Filmed in private spaces at home such as bedrooms or bathrooms.
 * Features minors soliciting contact from strangers, dares or challenges online, or discussing adult topics.
@@ -572,7 +570,7 @@ Examples
 Here are some examples of content not allowed on YouTube.
 
 * A video featuring minors involved in provocative, sexual, or sexually suggestive activities, challenges and dares, such as kissing or groping.
-* Showing minors involved in dangerous activities. For example, physical stunts, using weapons or explosives, or using a controlled substance like alcohol or nicotine.
+* Showing minors involved in dangerous activities. For example, physical stunts, using weapons or explosives, or using a controlled substance like alcohol or nicotine.
 * A video with tags like "for children", or whose audience is set to “Yes, it’s made for kids”, featuring family friendly cartoons engaging in inappropriate acts like injecting needles.
 
 Remember these are just some examples, and don't post content if you think it might violate this policy.
@@ -586,7 +584,7 @@ More examples
 * Aggregating innocent content of minors for the purposes of sexual gratification.
 * Fight or bullying videos featuring kids.
 * Challenges, pranks, or stunts that pose the risk of physical injury or serious emotional distress. You can learn more about what’s not allowed in our policies [around challenges and pranks](https://support.google.com/youtube/answer/2801964).
-* Encouraging minors to participate in dangerous activities, even if there are no minors in the content.
+* Encouraging minors to participate in dangerous activities, even if there are no minors in the content.
 * Content simulating parental abuse or abandonment, simulating exposure to death or violence, or causing minors intense shame or humiliation.
 * Using cartoons, puppets, or family entertainment characters to appeal to children where content features adult themes like violence and sex.
 
