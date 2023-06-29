@@ -795,7 +795,7 @@ Bullying and harassment happen in many places and come in many different forms f
 
 We distinguish between public figures and private individuals because we want to allow discussion, which often includes critical commentary of people who are featured in the news or who have a large public audience. For public figures, we remove attacks that are severe as well as certain attacks where the public figure is directly tagged in the post or comment. We define public figures as state and national level government officials, political candidates for those offices, people with over one million fans or followers on social media and people who receive substantial news coverage.
 
-For private individuals, our protection goes further: We remove content that's meant to degrade or shame, including, for example, claims about someone's sexual personal activity. We recognize that bullying and harassment can have more of an emotional impact on minors, which is why our policies provide heightened protection for users between the ages of 13 and 18.
+For private individuals, our protection goes further: We remove content that's meant to degrade or shame, including, for example, claims about someone's sexual activity. We recognize that bullying and harassment can have more of an emotional impact on minors, which is why our policies provide heightened protection for users between the ages of 13 and 18.
 
 Context and intent matter, and we allow people to post and share if it is clear that something was shared in order to condemn or draw attention to bullying and harassment. In certain instances, we require self-reporting because it helps us understand that the person targeted feels bullied or harassed. In addition to reporting such behavior and content, we encourage people to use [tools available on Facebook](https://www.facebook.com/safety/tools) to help protect against it.
 
@@ -803,101 +803,78 @@ We also have a [Bullying Prevention Hub](https://www.facebook.com/safety/bullyin
 
 Note: This policy does not apply to individuals who are part of designated organizations under the [Dangerous Organizations and Individuals policy](https://transparency.fb.com/policies/community-standards/dangerous-individuals-organizations/) or individuals who died prior to 1900.
 
-#### Do not:
+**Tier 1: Universal protections for everyone:**
 
-**Tier 1: Target anyone maliciously by:**
+* Everyone is protected from:
+    * Repeated contact which is:
+        * Unwanted, or
+        * Sexually harassing, or
+        * Directed at a large number of individuals with no prior solicitation.
+    * Calls for self-injury or suicide of a specific person, or group of individuals.
+    * Attacks based on their experience of sexual assault, sexual exploitation, sexual harassment, or domestic abuse.
+    * Statements of intent to engage in a sexual activity or advocating to engage in a sexual activity.
+    * Severe sexualized commentary.
+    * Derogatory sexualized photoshop or drawings
+    * Attacks through derogatory terms related to sexual activity (for example: whore, slut).
+    * Claims that a violent tragedy did not occur.
+    * Claims that individuals are lying about being a victim of a violent tragedy or terrorist attack, including claims that they are:
+        * Acting or pretending to be a victim of a specific event, or
+        * Paid or employed to mislead people about their role in the event.
 
-* Repeatedly contacting someone in a manner that is:
-    * Unwanted, or
-    * Sexually harassing, or
-    * Directed at a large number of individuals with no prior solicitation.
-* Attacking someone based on their status as a victim of sexual assault, sexual exploitation, sexual harassment, or domestic abuse.
-* Calling for self-injury or suicide of a specific person, or group of people.
-* Attacking someone through derogatory terms related to sexual activity (for example: whore, slut).
-* Posting content about a violent tragedy, or victims of violent tragedies that include claims that a violent tragedy did not occur.
-* Posting content about victims or survivors of violent tragedies or terrorist attacks by name or by image, with claims that they are:
-    * Acting/pretending to be a victim of an event.
-    * Otherwise paid or employed to mislead people about their role in the event.
+* Threats to release an individual's private phone number, residential address, email address or medical records (as defined in the [Privacy Violations policy](https://transparency.fb.com/policies/community-standards/privacy-violations-image-privacy-rights/)).
+* Calls for, or statements of intent to engage in, bullying and/or harassment.
+* Content that degrades or expresses disgust toward individuals who are depicted in the process of, or right after, menstruating, urinating, vomiting, or defecating
+* Everyone is protected from the following, but for adult public figures, they must be purposefully exposed to:
+    * Calls for death and statements in favor of contracting or developing a medical condition.
+    * Celebration or mocking of death or medical condition.
+    * Claims about sexually transmitted infections.
+    * Derogatory terms related to female gendered cursing.
+    * Statements of inferiority about physical appearance.
 
-* Threatening to release an individual's private phone number, residential address, email address or medical records (as defined in the [Privacy Violations policy](https://transparency.fb.com/policies/community-standards/privacy-violations-image-privacy-rights/)).
-* Making statements of intent to engage in a sexual activity or advocating for them to engage in a sexual activity.
-* Making severe sexualized commentary
-* Sharing derogatory sexualized photoshopped imagery or drawings
-* Calling for, or making statements of intent to engage in, bullying and/or harassment.
-* Posting content that further degrades or expresses disgust toward individuals who are depicted in the process of, or right after, menstruating, urinating, vomiting, or defecating
-* Creating Pages or Groups that are dedicated to attacking individual(s) by:
-    * Calling for death, or to contract or develop a medical condition.
-    * Making statements of intent of advocating to engage in sexual activity.
-    * Making claims that the individual has or may have a sexually transmitted disease.
-    * Sexualizing another adult.
+**Tier 2: Additional protections for all Minors, Private Adults and Limited Scope Public Figures (for example, individuals whose primary fame is limited to their activism, journalism, or those who become famous through involuntary means):**
 
-* Sending messages that contain the following attacks when aimed at an individual or group of individuals in the thread:
-    * Attacks referenced in Tier 1, 2 and 4 of this policy.
+* In addition to the universal protections for everyone, all minors (private individuals and public figures), private adults and limited scope public figures are protected from:
+    * Claims about sexual activity, except in the context of criminal allegations against adults (non-consensual sexual touching).
+    * Content sexualizing another adult (sexualization of minors is covered in the [Child Sexual Exploitation, Abuse and Nudity policy](https://transparency.fb.com/policies/community-standards/child-sexual-exploitation-abuse-nudity/)).
+
+* All minors (private individuals and public figures), private adults and limited scope public figures) are protected from the following, but for minor public figures, they must be purposefully exposed to:
+    * Dehumanizing comparisons (in written or visual form) to or about:
+        * Animals and insects, including subhuman creatures, that are culturally perceived as inferior.
+        * Bacteria, viruses, microbes, and diseases.
+        * Inanimate objects, including trash, filth, feces.
+
+* Content manipulated to highlight, circle, or otherwise negatively draw attention to specific physical characteristics (nose, ear, and so on).
+* Content that ranks them based on physical appearance or character traits.
+* Content that degrades individuals who are depicted being physically bullied (except in self-defense and fight-sport contexts).
+
+**Tier 3: Additional protections for Private Minors, Private Adults, and Minor Involuntary Public Figures:**
+
+* In addition to all the protections listed above, all private minors, private adults (who must self-report), and minor involuntary public figures are protected from:
     * Targeted cursing.
-    * Calls for death, serious disease, disability, epidemic disease or physical harm.
+    * Claims about romantic involvement, sexual orientation or gender identity.
+    * Calls for action, statements of intent, aspirational or conditional statements, or statements advocating or supporting exclusion.
+    * Negative character or ability claims, except in the context of criminal allegations and business reviews against adults.
+    * Expressions of contempt, disgust, or content rejecting the existence of an individual, except in the context of criminal allegations against adults.
 
-**Tier 2: Target private individuals, limited scope public figures (for example, individuals whose primary fame is limited to their activism, journalism, or those who become famous through involuntary means) or public figures who are minors with:**
+* When self-reported, private minors, private adults, and minor involuntary public figures are protected from the following:
+    * First-person voice bullying.
+    * Unwanted manipulated imagery.
+    * Comparison to other public, fictional or private individuals on the basis of physical appearance.
+    * Claims about religious identity or blasphemy
+    * Comparisons to animals or insects that are not culturally perceived as intellectually or physically inferior (“tiger," “lion").
+    * Neutral or positive physical descriptions.
+    * Non-negative character or ability claims.
+    * Attacks through derogatory terms related to a lack of sexual activity.
 
-* Calls for death, or to contract or develop a medical condition.
-* Female-gendered cursing terms when used in a derogatory way.
-* Claims about sexual activity or sexually transmitted diseases except in the context of criminal allegations against adults about non-consensual sexual touching.
-* Pages or Groups created to attack through:
-    * Targeted cursing.
-    * Negative physical descriptions.
-    * Claims about religious identity or blasphemy.
-    * Expressions of contempt or disgust.
-    * Female-gendered cursing terms when used in a derogatory way.
+**Tier 4: Additional protections for Private Minors only:**
 
-**Tier 3: Target public figures by purposefully exposing them to:**
+* Minors get the most protection under our policy. In addition to all the protections listed above, private minors are also protected from:
+    * Allegations about criminal or illegal behavior.
+    * Videos of physical bullying against minors, shared in a non-condemning context.
 
-* For adults and minors:
-    * Calls for death, or to contract or develop a medical condition.
-    * Claims about sexually transmitted disease
-    * Female-gendered cursing terms when used in a derogatory way.
-    * Content that praises, celebrates or mocks their death or medical condition.
-    * Attacks through negative physical descriptions.
+**Tier 5: Bullying and harassment through pages, groups, events and messages**
 
-* For minors:
-    * Comparisons to animals or insects that are culturally perceived as intellectually or physically inferior or to an inanimate object (“cow," “monkey” “potato”).
-    * Content manipulated to highlight, circle or otherwise negatively draw attention to specific physical characteristics (nose, ear and so on).
-
-**Tier 4: Target private individuals or limited scope public figures (for example, individuals whose primary fame is limited to their activism, journalism, or those who become famous through involuntary means) with:**
-
-* Comparisons to animals or insects that are culturally perceived as intellectually or physically inferior or to an inanimate object (“cow," “monkey” “potato”).
-* Content manipulated to highlight, circle or otherwise negatively draw attention to specific physical characteristics (nose, ear and so on).
-* Attacks through negative physical descriptions.
-* Content that ranks individuals on physical appearance or personality.
-* Content sexualizing another adult.
-* Content that further degrades individuals who are depicted being physically bullied except in self-defense and fight-sport contexts.
-* Content that praises, celebrates, or mocks their death or serious physical injury.
-* In addition to the above, attacks through Pages or Groups:
-    * Negative character or ability claims.
-    * First-person voice bullying only if the object targets more than one private individual.
-
-**Tier 5: Target private adults (who must self-report) or any private minors or involuntary minor public figures with:**
-
-* Targeted cursing.
-* Claims about romantic involvement, sexual orientation or gender identity.
-* Coordination, advocacy or promotion of exclusion.
-* Negative character or ability claims, except in the context of criminal allegations and business reviews against adults. We allow criminal allegations so that people can draw attention to personal experiences or offline events. In cases in which criminal allegations pose off-line harm to the named individual, however, we may remove them.
-* Expressions of contempt or disgust, except in the context of criminal allegations against adults.
-
-**Tier 6: Target private individuals who are minors with:**
-
-* Allegations about criminal or illegal behavior.
-* Videos of physical bullying shared in a non-condemning context.
-
-**Tier 7: Target private individuals (who must self-report) with:**
-
-* First-person voice bullying.
-* Unwanted manipulated imagery.
-* Comparison to other public, fictional or private individuals on the basis of physical appearance
-* Claims about religious identity or blasphemy.
-* Comparisons to animals or insects that are not culturally perceived as intellectually or physically inferior (“tiger," “lion").
-* Neutral or positive physical descriptions.
-* Non-negative character or ability claims (including claims about mental illness).
-* Any bullying or harassment violation, when shared in an endearing context.
-* Attacks through derogatory terms related to a lack of sexual activity.
+* The protections of Tiers 1 through 4 are also enforced on pages, groups, events and messages.
 
 #### We add a cover to this content so people can choose whether to see it:
 
