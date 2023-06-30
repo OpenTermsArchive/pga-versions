@@ -1327,6 +1327,8 @@ Don’t post content on YouTube if it fits any of the descriptions noted below.
 * Content that depicts the insignia, logos, or symbols of violent extremist, criminal, or terrorist organizations in order to praise or promote them
 * Content that glorifies or promotes violent tragedies, such as school shootings
 
+YouTube relies on many factors, including government and international organization designations, to determine what constitutes criminal or terrorist organizations. For example, we terminate any channel where we have reasonable belief that the account holder is a member of a designated terrorist organization, such as a Foreign Terrorist Organization (U.S.), or organization identified by the United Nations.
+
 If posting content related to terrorism or crime for an educational, documentary, scientific, or artistic purpose, be mindful to provide enough information in the video or audio itself so viewers understand the context. Graphic or controversial footage with sufficient context may be subject to age-restrictions or a warning screen.
 
 This policy applies to videos, video descriptions, comments, live streams, and any other YouTube product or feature. Keep in mind that this isn't a complete list. Please note these policies also apply to [external links](https://support.google.com/youtube/answer/9054257) in your content. This can include clickable URLs, verbally directing users to other sites in video, as well as other forms.
