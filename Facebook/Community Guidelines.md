@@ -957,7 +957,7 @@ Privacy Violations
 
 #### Policy Rationale
 
-Privacy and the protection of personal information are fundamentally important values for Facebook. We work hard to safeguard your personal identity and information and we do not allow people to post personal or confidential information about yourself or of others.
+Privacy and the protection of personal information are fundamentally important values for Facebook. We work hard to safeguard your personal identity and information and we do not allow people to post certain types of personal or confidential information about yourself or of others.
 
 We remove content that shares, offers or solicits personally identifiable information or other private information that could lead to physical or financial harm, including financial, residential, and medical information, as well as private information obtained from illegal sources. We also recognize that private information may become publicly available through news coverage, court filings, press releases, or other sources. When that happens, we may allow the information to be posted.
 
@@ -969,52 +969,73 @@ Content that shares or solicits any of the following private information, either
 
 **Personally identifiable information about yourself or others**
 
-* Personal identity: identifying individuals through government-issued numbers.
-    * National identification number (for example Social Security Number (SSN), Passport Number, National Insurance/Health Service Number, Personal Public Service Number (PPS), Individual Taxpayer Identification Number (ITIN)).
+* Personal identification numbers and identity documents: identifying individuals by name and government-issued numbers, including:
+    * National identification numbers (for example Social Security Numbers (SSN), Passport Numbers, National Insurance/Health Service Numbers, Personal Public Service Numbers (PPS), Individual Taxpayer Identification Numbers (ITIN)).
     * Government IDs of law enforcement, military, or security personnel.
+    * Records or official documentation of civil registry information (for example, marriage, birth, death, name change or gender recognition documents, except student IDs)
+    * Immigration and work status documents (for example, green cards, work permits, visas, or immigration papers)
+    * Driver’s licenses or license plates, except when license plates are shared to facilitate finding missing vehicles, people or animals
+    * Credit Privacy Numbers (CPNs)
 
-* Personal information: directly identifying an individual, by indicating the ID number or registration information and the individual’s name.
-    * Records or official documentation of civil registry information (marriage, birth, death, name change or gender recognition, and so on).
-    * Immigration and work status documents (for example, green cards, work permits, visas, or immigration papers).
-    * Driver’s licenses or license plates, except when license plates are shared to facilitate finding missing people or animals.
-    * Credit Privacy Number (CPN).
+* Digital identity: Passwords, pins or codes (such as passwords of email addresses, social media accounts and accounts of streaming services) that authenticate access to an online identity
 
-* Digital identity: authenticating access to an online identity
-    * Email addresses with passwords.
-    * Digital identities with passwords.
-    * Passwords, pins or codes to access private information.
+**Personal Contact Information**
 
-**Other private information**
+* Personal contact information of others, including personal phone numbers and personal email addresses (including work email addresses), except when made public by the individual or when shared or solicited to promote charitable causes, facilitate finding missing people, animals, or owners of missing objects, or contact a business or service providers (unless it is established that the personal contact information is shared without the consent of the individual).
 
-* Personal contact information of others such as phone numbers, addresses and email addresses, except when shared or solicited to promote charitable causes, find missing people, animals, or objects, or contact business service providers.
-* Financial information.
-    * Personal financial information about yourself or others, including:
-        * Non-public financial records or statements.
-        * Bank account numbers with security or pin codes.
-        * Digital payment method information with log in details, security or pin codes.
-        * Credit or debit card information with validity dates or security pins or codes.
-    * Financial information about businesses or organizations, unless originally shared by the organization itself, including:
-        * Financial records or statements except when the financial records of the business are publicly available (for example, listed on stock exchanges or regulatory agencies, and so on)
-        * Bank account numbers accompanied by security or pin codes.
-        * Digital payment method information accompanied by log in details, security or pin codes.
+**Financial information.**
 
-* Residential information
-    * Imagery that displays the external view of private residences if all of the following conditions apply:
-        * The residence is a single-family home, or the resident's unit number is identified in the image/caption.
-        * The city/neighborhood or GPS pin (for example, a pin from Google Maps) are identified.
-        * The content identifies the resident(s).
-        * That same resident objects to the exposure of their private residence, or there is context of organizing protests against the resident (This does not include embassies that also serve as residences).
-    * Content that exposes information about safe houses by sharing any of the below, unless the safe house is actively promoting information about their facility
-        * Actual address (Note: "Post Box only" is allowed.)
-        * Images of the safe house.
-        * Identifiable city/neighborhood of the safe house.
-        * Information exposing the identity of the safe house residents.
+* Personal financial information about yourself or others, including:
+    * Non-public financial records or statements.
+    * Bank account numbers with security or pin codes.
+    * Digital payment method information with log in details, security or pin codes.
+    * Credit or debit card information with validity dates or security pins or codes.
+* Financial information about businesses or organizations, except when originally shared by the organization itself (including subsequent shares with the original context intact) or shared through public reporting requirements (for example as required by stock exchanges or regulatory agencies), including:
+    * Non-public financial records or statements
+    * Bank account numbers accompanied by security or pin codes.
+    * Digital payment method information accompanied by log in details, security or pin codes.
 
-* Medical information
-    * Records or official documentation displaying medical, psychological, biometric, or genetic hereditary of others.
+**Residential information**
 
-* Information obtained from hacked sources.
-    * Except in limited cases of newsworthiness, content claimed or confirmed to come from a hacked source, regardless of whether the affected person is a public figure or a private individual.
+* Private residential addresses of others (except when the residence is an official residence or embassy provided to a high-ranking public official):
+
+* Full private residential addresses of others, including building name, GPS pins or pins on a map identifying the address (even if the pins are in an off-platform link), except when shared to promote charitable causes, facilitate finding missing people, animals, or owners of missing objects, or contact a business or service providers
+
+* Partial private residential addresses of others:
+    
+    * Partial private residential addresses of others when shared in the context of organizing protests or surveillance of the resident and the location of the residence is identified by any one of the following:
+    
+    * Street
+    * City or neighborhood (only for cities with fewer than 50,000 residents)
+    * Postal code
+    * GPS pins or pins on a map identifying any of these (even if the pins are in an off-platform link)
+
+* Imagery that displays the external view of private residences if all of the following conditions apply:
+* The residence is a single-family home, or the resident's unit number/building name is identified in the image/caption.
+* The location of the residence is identified by any one of the following:
+    * Street
+    * City or neighborhood (only for cities with fewer than 50,000 residents)
+    * Postal code
+    * GPS pins or pins on a map identifying any of these (even if the pins are in an off-platform link)
+
+* The content identifies the resident(s).
+* Either that resident objects to the exposure of their private residence, or there is context of organizing protests against the resident.
+* The imagery of the residence is not being shared because the residence is the focus of a news story except when shared in the context of organizing protests against the resident
+
+* Location of safe houses: content that exposes information about safe houses by sharing any of the below, except when the safe house is actively promoting information about their facility
+
+* Actual address (Note: "Post Box only" is allowed.)
+* Images of the safe house.
+* Identifiable city/neighborhood of the safe house.
+* Information exposing the identity of the safe house residents.
+
+**Medical information**
+
+* Content sharing medical, psychological, biometric, or genetic hereditary information of others when it is clear that the information comes from medical records or other official documents, including when displayed visually or shared through audio or video.
+
+**Information obtained from hacked sources**
+
+* Except in limited cases of newsworthiness, content claimed or confirmed to come from a hacked source, regardless of whether the affected person is a public figure or a private individual.
 
 The following content also may be removed:
 
@@ -1028,11 +1049,9 @@ The following content also may be removed:
 
 Do not post:
 
-* Depictions of someone in a medical or health facility if reported by the person pictured or an authorized representative.
+* Depictions of an individual in a medical or health facility or a private individual or minor entering or exiting a medical or health facility if reported by the person pictured or an authorized representative, or the medical or health facility.
 * Source material that purports to reveal nonpublic information relevant to an election shared as part of a foreign government influence operation.
     * We remove reporting on such a leak by state-controlled media entities from the country behind the leak.
-
-In certain cases, we will allow content that may otherwise violate the Community Standards when it is determined that the content is satirical. Content will only be allowed if the violating elements of the content are being satirized or attributed to something or someone else in order to mock or criticize them.
 
 Read lessRead more
 
