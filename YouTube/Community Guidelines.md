@@ -338,7 +338,7 @@ Don’t post content on YouTube if it fits any of the descriptions noted below.
 * **Incentivization Spam**: Content that sells engagement metrics such as views, likes, comments, or any other metric on YouTube. This type of spam can also includes content where the only purpose is to boost subscribers, views, or other metrics. For example, offering to subscribe to another creator’s channel solely in exchange for them subscribing to your channel, also known as "Sub4Sub" content.
 * **Comments Spam**: Comments where the sole purpose is to gather personal info from viewers, misleadingly drive viewers off YouTube, or perform any of the prohibited behaviors noted above.
 * **Repetitive comments**: Leaving large amounts of identical, untargeted or repetitive comments.
-* **Live Stream Abuse**: Live streams intended to stream content that belongs to somebody else and are not corrected after repeated warnings of possible abuse. Channel owners should actively monitor their live streams and correct any potential issues in a timely manner.
+* **3rd party content**: Live streams intended to stream content that belongs to somebody else and are not corrected after repeated warnings of possible abuse. Channel owners should actively monitor their live streams and correct any potential issues in a timely manner.
 
 This policy applies to videos, video descriptions, comments, live streams, and any other YouTube product or feature. Keep in mind that this isn't a complete list. Please note these policies also apply to [external links](https://support.google.com/youtube/answer/9054257) in your content. This can include clickable URLs, verbally directing users to other sites in video, as well as other forms.
 
@@ -402,7 +402,7 @@ The following types of content are not allowed on YouTube. Keep in mind this lis
 * "Hey, check out my channel/video here!” when the channel/video has nothing to do with the video it was posted in.
 * Posting the same comment repeatedly with a link to your channel.
 
-Live Stream Abuse
+3rd party content
 -----------------
 
 The following types of content are not allowed on YouTube. Keep in mind this list isn't a complete list.
@@ -477,7 +477,9 @@ If you post content that encourages other users to violate our Terms of Service,
 Posting previously removed content, or content from terminated or restricted creators
 -------------------------------------------------------------------------------------
 
-If you post content previously removed for violating our Terms of Service, content produced by creators with a current [restriction](https://support.google.com/youtube/answer/2802032?hl=en&ref_topic=9387060), or content from creators who have been terminated under our Terms, the content may be removed, your account may be penalized, and in some cases your account may be terminated.
+Posting content previously removed for violating our Terms of Service, content from creators with a current [channel restriction](https://support.google.com/youtube/answer/2802032), or content from creators who have been terminated is considered circumvention under our Terms of Service.
+
+If you post such content, it may be removed, and your YouTube channel may also be penalized or [terminated](https://support.google.com/youtube/answer/2802168). This may also apply to other channels you own.
 
 Age requirements on Google products
 -----------------------------------
