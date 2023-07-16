@@ -1,7 +1,5 @@
 Cookies Policy
 
-We updated our policy on June 16, 2023. [View our previous policy.](https://www.facebook.com/privacy/policies/cookies/version/5567945786592090/)
-
 What are cookies, and what does this policy cover?
 
 Effective June 16, 2023 | [View printable version](https://mbasic.facebook.com/privacy/policies/cookies/printable/) | [See previous versions](https://www.facebook.com/privacy/policies/cookies/?show_versions=1)
@@ -77,8 +75,6 @@ We use cookies to help personalise and improve content and services, provide a s
 [Browser cookie controls](https://www.facebook.com/privacy/policies/cookies/?subpage=subpage-4.4)
 
 Cookies Policy
-
-We updated our policy on June 16, 2023. [View our previous policy.](https://www.facebook.com/privacy/policies/cookies/version/5567945786592090/)
 
 What are cookies, and what does this policy cover?
 
