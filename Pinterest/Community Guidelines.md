@@ -6,18 +6,18 @@ Content safety
 
 Pinterest isn’t a place for antagonistic, explicit, false or misleading, harmful, hateful, or violent content or behavior. We may remove, limit, or block the distribution of such content and the accounts, individuals, groups and domains that create or spread it based on how much harm it poses.
 
-We’re committed to presenting you with clear and transparent expectations that are easy to understand and follow. If you have questions or encounter problems on Pinterest, please contact us.
+We do our best to give clear and transparent expectations about our policies. However, keeping a platform with billions of Pins safe is hard and we know we get it wrong sometimes. If you think we’ve made a mistake, you can appeal an enforcement decision or contact us to share a concern.
 
 Adult content
 
-Pinterest isn’t a place for pornography. We limit the distribution of or remove mature and explicit content, including:
+Pinterest isn’t a place for adult content, including pornography and most nudity. We remove or limit the distribution of mature and explicit content, including:
 
+* Nudity
+* Sexualized content, even if the people are clothed or partially clothed
+* Graphic depictions of sexual activity in imagery or text
 * Fetish imagery
-* Vivid sexual descriptions
-* Graphic depictions of sexual activity
-* Images of nudity where the poses, camera angles, or props suggest pornographic intent
 
-We do our best to differentiate between pornography and other content that could involve some nudity. For example, you can save content about sexual health, breastfeeding, mastectomies, etc.
+We allow some nudity in certain contexts, although we may limit its distribution. For instance, nudity in paintings and sculptures and in science and historical contexts is okay. Content about breastfeeding and mastectomies is also allowed. These guidelines apply to text and real-life, digital, and animated images and video. 
 
 Exploitation
 
