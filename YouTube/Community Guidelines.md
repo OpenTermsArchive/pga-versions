@@ -1344,6 +1344,7 @@ Here are some examples of content that’s not allowed on YouTube.
 * Celebrating terrorist leaders or their crimes in songs or memorials
 * Celebrating terrorist or criminal organizations in songs or memorials
 * Content directing users to sites that espouse terrorist ideology, are used to disseminate prohibited content, or are used for recruitment
+* Footage filmed by the perpetrator during a deadly or major violent event, in which weapons, violence, or injured victims are visible or audible
 * Video game content which has been developed or modified (“modded”) to glorify a violent event, its perpetrators, or support violent criminal or terrorist organizations
 * Glorifying violence against civilians
 * Fundraising for violent criminal, extremist, or terrorist organizations
