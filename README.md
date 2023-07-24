@@ -4,7 +4,7 @@ This dataset PGA v2 is part of the [Platform Governance Archive (PGA)](https://w
 
 - **Platforms**: Facebook, Instagram, LINE, LinkedIn, Parler, Pintest, Quora, Reddit, Snapchat, Spotify, Telegram, TikTok, Tumblr, Twitch, Twitter, WeChat, WhatsApp, YouTube
 - **Time Frame**: since April 2022 (most platforms)
-- **Project Website:** [http://platformgovernancearchive.uni-bremen.de](http://platformgovernancearchive.uni-bremen.de/)
+- **Project Website:** [http://platformgovernancearchive.org](http://platformgovernancearchive.org)
 
 ## Background
 
