@@ -16,7 +16,24 @@ The data collection is performed with the [Open Terms Archive engine](https://do
 
 Even when taking an automated approach, we could not archive all platforms this way. Going beyond the four platforms of PGA v1, we selected a total of 18 platforms to monitor for PGA v2. The logic for archiving decisions has largely been based on scale i.e. selecting the platforms with the largest possible usership. Since we were interested in social media platforms and not in commercial retail platforms such as Amazon or news websites that allow for comments under published articles. A number of these platforms can be best described as “chat services” although they might have a number of additional features. The sampling decision was made in early 2022 and usership numbers vary over time. For instance, the use of Parler has since strongly declined. Another sampling criterion is that the location of the platforms must be in the jurisdiction of the European Union (at least through a form of representation or agent). 
 
-## Using the Data
+## Explore and Download the Data 
+
+The data is organised by platforms, each having a dedicated folder in this repository. Within this folder, you find a markdown-file for each policy / document of this platform that we are tracking. For each of these files the repository includes the full history of changes. 
+
+If you just want to work with the **current versions** of platform policies you can just click through the services and documents. You can also download the files in their current form by clicking on the green "Code" button on the top right and then "Download ZIP".
+
+If you want to **explore the history of changes,** open the folder of the service of your choice. You will see the set of documents tracked for that service, now click on the document of your choice. For example, [YouTube's Community Guidelines](https://github.com/OpenTermsArchive/pga-versions/blob/main/YouTube/Community%20Guidelines.md). The latest version will be displayed. To view the history of changes made to this document, click on "History" at the top right of the document. The changes are ordered ante-chronologically (see [example](https://github.com/OpenTermsArchive/pga-versions/commits/main/YouTube/Community%20Guidelines.md)).
+
+Click on a change to see its contents. The red colour shows deleted elements and the green colour shows added elements. For example, here is an interesting change in [YouTube's Community Guidelines](https://github.com/OpenTermsArchive/pga-versions/commit/30e6af989d9b8656fddad0dbb4086b2efa3e3a0c).
+
+You can choose from two types of display with the icons in the grey bar above the document:
+
+- The first one, named *source diff* (button with chevrons) displays the previous version and the next one [side by side](https://github.com/OpenTermsArchive/contrib-versions/commit/58a1d2ae4187a3260ac58f3f3c7dcd3aeacaebcd#diff-e8bdae8692561f60aeac9d27a55e84fc).
+- The second one, named *rich diff* (button with a document icon) displays all the changes [in a single document](https://github.com/OpenTermsArchive/contrib-versions/commit/58a1d2ae4187a3260ac58f3f3c7dcd3aeacaebcd?short_path=e8bdae8#diff-e8bdae8692561f60aeac9d27a55e84fc). In this view, beyond green and red, the yellow color shows modified paragraphs. Be careful, this display does not show some changes such as hyperlinks and text style’s changes.
+
+You can download the full repository including all tracked platforms and document with their complete history under "[Releases](https://github.com/OpenTermsArchive/pga-versions/releases)".
+
+## Using the Data in your own Projects
 
 We are more than happy if you want to use our dataset in your research, reporting, and explorations. If you do:
 
@@ -26,17 +43,11 @@ We are more than happy if you want to use our dataset in your research, reportin
 
 PGA v2 is made available under the [Open Data Commons Attribution License](http://opendatacommons.org/licenses/by/1.0/) (that means what we say above: use it, but reference us).
 
-**Cite the Project** 
+**Recommended Citation for Dataset** 
+Katzenbach, C., Dergachava, D., Fischer, A., Kopps, A., Kolesnikov, S., Redeker. D., Viejo Otero, P. (2023). Platform Governance Archive (PGA): Dataset PGA v2. https://doi.org/10.26092/elib/2373.
 
-Katzenbach, C., et al. (2023). *The Platform Governance Archive*. Centre for Media, Communication and Information Research (ZeMKI), University of Bremen. DOI: [10.17605/OSF.IO/XSBPT](https://doi.org/10.17605/OSF.IO/XSBPT). URL: [https://platformgovernancearchive.org](https://platformgovernancearchive.org/).
-
-**Cite the Dataset**
-
-Katzenbach, C., Dergachava, D., Fischer, A., Kopps, A., Kolesnikov, S., Redeker. D., Viejo Otero, P. (2023). Platform Governance Archive (PGA) v2. [data set]. DOI: [10.17605/OSF.IO/XSBPT](https://doi.org/10.17605/OSF.IO/XSBPT). URL: https://www.platformgovernancearchive.org/data/dataset-pga-v2-ongoing-collection/.
-
-**Cite a Single Document (recommended)**
-
-Name of platform. (Date of version). *Name of policy*. Platform Governance Archive. Direct URL. 
+**Recommind Citation for Single Policy Document**
+Name of platform. (Date of version). Name of policy. *Platform Governance Archive*. Direct URL.
 
 
 ## Use RSS feed
