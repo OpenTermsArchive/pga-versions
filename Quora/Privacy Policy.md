@@ -168,4 +168,4 @@ Privacy Policy Updates
 
 We may occasionally update this Privacy Policy to reflect changes in our privacy practices or relevant data protection laws. We will notify you if we make any material changes and will revise the "Last Updated" date at the top of this Privacy Policy.
 
-[Prior versions](https://www.quora.com/about/privacy/archive "www.quora.com")
+[Prior versions](https://www.quora.com/about/privacy_archive "www.quora.com")
