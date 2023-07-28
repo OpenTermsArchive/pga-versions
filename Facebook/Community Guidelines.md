@@ -383,6 +383,7 @@ Content that:
     * An auction or raffle of firearms by legitimate brick-and-mortar entities, including retail businesses, government-affiliated organizations or non-profits, or private individuals affiliated with or sponsored by legitimate brick-and-mortar entities.
 * Asks for firearms, firearm parts, ammunition, explosives, or lethal enhancements
 * Sells, gifts, exchanges, transfers, coordinates, promotes (by which we mean speaks positively about, encourages the use of) or provides access to 3D printing or computer-aided manufacturing instructions for firearms or firearms parts regardless of context or poster.
+* Attempts to buy, sell, or trade machine gun conversion devices
 
 **Non-medical drugs (drugs or substances that are not being used for an intended medical purposes or are used to achieve a high - this includes precursor chemicals or substances that are used for the production of these drugs.)**
 
