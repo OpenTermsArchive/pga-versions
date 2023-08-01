@@ -1,6 +1,6 @@
 Our mission
 
-Pinterest's mission is to bring everyone the inspiration to create a life they love. That being said, not all content is inspiring - so we have community guidelines to outline what we do and don’t allow on Pinterest. These guidelines are our acceptable use policy, so if you find content that shouldn’t be on Pinterest, please report it to us. We use your reports to learn and evolve our standards, and work with subject matter experts to inform and update our guidelines. You can learn more about how we enforce these guidelines in our biannual transparency report.
+Pinterest's mission is to bring everyone the inspiration to create a life they love. That being said, not all content is inspiring - so we have community guidelines to outline what we do and don’t allow on Pinterest. These guidelines are our acceptable use policy, so if you find content that shouldn’t be on Pinterest, please report it to us. We appreciate your feedback and work hard to review your report and take appropriate action in a timely fashion. We use your reports to learn and evolve our standards, and work with subject matter experts to inform and update our guidelines. You can learn more about how we enforce these guidelines in our biannual transparency report.
 
 Content safety
 
@@ -56,7 +56,11 @@ Pinterest isn’t a place for misinformation, disinformation, mal-information or
 * Conspiracy theories, including about climate change or civic participation
 * Content that originates from disinformation campaigns, including about climate change or civic participation
 * Factual information that’s published or deliberately modified to erode trust or inflict harm, such as changing or omitting of context, date or time
-* Fabricated or meaningfully manipulated visual or audio content that erodes trust or causes harmCivic participation misinformation:* False or misleading content that impedes an election’s integrity or an individual's or group's civic participation, including registering to vote, voting and being counted in a census.
+* Fabricated or meaningfully manipulated visual or audio content that erodes trust or causes harm
+
+Civic participation misinformation
+
+* False or misleading content that impedes an election’s integrity or an individual's or group's civic participation, including registering to vote, voting and being counted in a census.
 * False or misleading information about the dates, times, locations and procedure for voting or census participation.
 * Content that misleads voters about how to correctly fill-out and submit a ballot, including a mail-in ballot, or census form.
 * False or misleading information about who can vote or participate in the census and what information must be provided to participate.
@@ -64,7 +68,11 @@ Pinterest isn’t a place for misinformation, disinformation, mal-information or
 * False or misleading information about public safety that is intended to deter people from exercising their right to vote or participate in a census.
 * Content that encourages or instructs voters or participants to misrepresent themselves or illegally participate.
 * Content apparently intended to delegitimize election results on the basis of false or misleading claims.
-* Threats against voting locations, census or voting personnel, voters or census participants, including intimidation of vulnerable or protected group voters or participants.Climate misinformation:* Content that denies the existence or impacts of climate change, the human influence on climate change, or that climate change is backed by scientific consensus.
+* Threats against voting locations, census or voting personnel, voters or census participants, including intimidation of vulnerable or protected group voters or participants.
+
+Climate misinformation
+
+* Content that denies the existence or impacts of climate change, the human influence on climate change, or that climate change is backed by scientific consensus.
 * False or misleading content about climate change solutions that contradict well-established scientific consensus.
 * Content that misrepresents scientific data, including by omission or cherry-picking, in order to erode trust in climate science and experts.
 * Harmful false or misleading content about public safety emergencies including natural disasters and extreme weather events.
@@ -81,7 +89,7 @@ Pinterest isn’t a place to insult, hurt or antagonize individuals or groups of
 
 We’ve also put together some resources for you to protect yourself.
 
-Child Safety
+Child safety
 
 Pinterest does not tolerate child sexual exploitation of any kind. That means we enforce a strict, zero-tolerance policy for any content—including imagery, video, or text— or accounts that might exploit or endanger minors. Pinterest prohibits not just illegal child sexual abuse material (CSAM), but goes a step further to prohibit any content that contributes to the sexualization of minors, including in imagery and text. We also work closely with the National Center for Missing and Exploited Children (NCMEC) to combat this type of activity, and report content violations ​​as required under the law. The types of content we remove includes:
 
@@ -119,7 +127,7 @@ Pinterest isn’t a place for content that displays, rationalizes or encourages 
 * Negative self-talk and insensitive humor about self-harming behavior
 * Suicide pacts, challenges and hoaxes
 
-Graphic Violence and Threats
+Graphic violence and threats
 
 Pinterest isn’t a place for graphic violence or threatening language. We limit the distribution of or remove such content, including:
 
@@ -152,7 +160,7 @@ Pinterest isn’t a place for trading or selling of certain regulated goods—p
 * Commercial sales of certain weapons and attachments 
 * Harmful pranks or challenges that risk imminent physical harm or extreme emotional distress, especially if showing or encouraging the participation of minors 
 
-Harmful or Deceptive Products & Practices
+Harmful or deceptive products and practices
 
 Pinterest isn’t a place for practices and products that may be harmful or deceptive. We limit the distribution of or remove such content and accounts, including, but not limited to:
 
