@@ -4,9 +4,9 @@ Pinterest's mission is to bring everyone the inspiration to create a life they l
 
 Content safety
 
-Pinterest isn’t a place for antagonistic, explicit, false or misleading, harmful, hateful, or violent content or behavior. We may remove, limit, or block the distribution of such content and the accounts, individuals, groups and domains that create or spread it based on how much harm it poses.
+Pinterest isn’t a place for antagonistic, explicit, false or misleading, harmful, hateful, or violent content or behavior. We may remove, limit, or block the distribution of such content and the accounts, individuals, groups and domains that create or spread it based on how much harm it poses. You can read more about how we put our Community Guidelines into practice on our Enforcement page here.
 
-We do our best to give clear and transparent expectations about our policies. However, keeping a platform with billions of Pins safe is hard and we know we get it wrong sometimes. If you think we’ve made a mistake, you can appeal an enforcement decision or contact us to share a concern.
+We’re committed to presenting you with clear and transparent expectations that are easy to understand and follow. If you have questions or encounter problems on Pinterest, please contact us.
 
 Adult content
 
