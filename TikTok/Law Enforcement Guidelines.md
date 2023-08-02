@@ -1,6 +1,3 @@
-TikTok Law Enforcement Guidelines
-=================================
-
   
 
 _Last updated: May 11, 2023_
