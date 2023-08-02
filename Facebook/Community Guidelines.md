@@ -636,7 +636,7 @@ We also work with external experts, including the [Facebook Safety Advisory Boar
 
 **Child sexual exploitation**
 
-Content or activity that threatens, depicts, praises, supports, provides instructions for, makes statements of intent, admits participation in or shares links of the sexual exploitation of children (real or non-real minors, toddlers or babies), including but not limited to:
+Content or activity that threatens, depicts, praises, supports, provides instructions for, makes statements of intent, admits participation in or shares links of the sexual exploitation of children (including real minors, toddlers or babies or non-real depictions with a human likeness, such as in art, AI-generated content, fictional characters, dolls, etc). This includes but is not limited to:
 
 * Sexual intercourse
     * Explicit sexual intercourse or oral sex, defined as mouth or genitals entering or in contact with another person's genitals or anus, where at least one person's genitals are nude.
@@ -648,7 +648,7 @@ Content or activity that threatens, depicts, praises, supports, provides instruc
     * Restraints.
     * Focus on genitals.
     * Presence of aroused adult.
-    * Presence of sex toys.
+    * Presence of sex toys or use of any object for sexual stimulation or gratification.
     * Sexualised costume.
     * Stripping.
     * Staged environment (for example, on a bed) or professionally shot (quality/focus/angles).
@@ -659,12 +659,13 @@ Content or activity that threatens, depicts, praises, supports, provides instruc
 
 **Solicitation**
 
-Content that solicits
+Content that solicits sexual content or activity depicting or involving children, defined as:
 
 * Child Sexual Abuse Material (CSAM)
-* Nude imagery of children
-* Sexualized imagery of children
-* Real-world sexual encounters with children
+* Nude imagery of real or non-real children
+* Sexualized imagery of real or non-real children
+
+Content that solicits sexual encounters with children
 
 **Inappropriate interactions with children**
 
@@ -677,34 +678,34 @@ Content that constitutes or facilitates inappropriate interactions with children
 
 **Exploitative intimate imagery and sextortion**
 
-Content that attempts to exploit minors by:
+Content that attempts to exploit real children by:
 
 * Coercing money, favors or intimate imagery with threats to expose intimate imagery or information.
 * Sharing, threatening or stating an intent to share private sexual conversations or intimate imagery.
 
 **Sexualization of children**
 
-* Content (including photos, videos, real-world art, digital content, and verbal depictions) that sexualizes children.
-* Groups, Pages and profiles dedicated to sexualizing children.
+* Content (including photos, videos, real-world art, digital content, and verbal depictions) that sexualizes real or non-real children.
+* Groups, Pages and profiles dedicated to sexualizing real or non-real children.
 
 **Child nudity**
 
-Content that depicts child nudity where nudity is defined as:
+Content that depicts real or non-real child nudity where nudity is defined as:
 
-* Close-ups of children’s genitalia
-* Real nude toddlers, showing:
+* Close-ups of real or non-real children’s genitalia
+* Real or non-real nude toddlers, showing:
     * Visible genitalia, even when covered or obscured by transparent clothing.
     * Visible anus and/or fully nude close-up of buttocks.
-* Real nude minors, showing:
+* Real or non-real nude minors, showing:
     * Visible genitalia (including genitalia obscured only by pubic hair or transparent clothing)
     * Visible anus and/or fully nude close-up of buttocks.
     * Uncovered female nipples.
     * No clothes from neck to knee - even if no genitalia or female nipples are showing.
-* Digitally-created depictions of nude minors, toddlers or babies unless the image is for health or educational purposes.
+* Unless the non-real imagery is for health or educational purposes or is a depiction of child nudity in real-word art
 
 **Non-sexual child abuse**
 
-Imagery that depicts non-sexual child abuse regardless of sharing intent
+Imagery that depicts real or non-real non-sexual child abuse regardless of sharing intent, unless the imagery is from real-world art, cartoons, movies or video games
 
 Content that praises, supports, promotes, advocates for, provides instructions for or encourages participation in non-sexual child abuse.
 
