@@ -505,9 +505,7 @@ Fraud and Deception
 
 #### Policy Rationale
 
-In an effort to prevent fraudulent activity that can harm people or businesses, we remove content that purposefully deceives, willfully misrepresents or otherwise defrauds or exploits others for money or property. This includes content that seeks to coordinate or promote these activities using our services.
-
-We allow people to raise awareness and educate others as well as condemn these activities unless this includes content that contains sensitive information, such as personally identifiable information.
+In an effort to prevent fraudulent activity on the platform which can harm people or businesses, we remove content and action on behaviors which intend to defraud users or third parties. Therefore we remove content that purposefully intends to deceive, willfully misrepresent or otherwise exploit others for money or property. This includes content that seeks to coordinate or promote these activities using our platform. We allow people to raise awareness and educate others as well as condemn these activities, unless this includes content that contains sensitive information, such as personally identifiable information.
 
 #### Do not post:
 
