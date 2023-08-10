@@ -255,52 +255,50 @@ If your content violates this policy, we may terminate your channel or account. 
 External links policy
 =====================
 
+* **Linking changes on YouTube**: To reduce spam and scam attempts, links in [YouTube Shorts comments](https://support.google.com/youtube/answer/12816427) and Shorts descriptions will be non-clickable starting August 31, 2023–this change will roll out gradually. We're also retiring banner links on August 10, 2023, and introducing a new way to [showcase important links](https://support.google.com/youtube?p=channel_profile_links) on your channel page. You can start preparing channel profile links on August 10, and your audience will see them starting August 23. [Learn more about this change](https://yt.be/help/links).
+
 The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. **T****ake the time to carefully read the policy below**. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
 
-To add clickable external links to your video description, you must [enable your channel’s access to advanced features](https://support.google.com/youtube/answer/9890437#see_access). Advanced features may take up to 24 hours after they're turned on to show up across your channel.
-
-Links that send users to websites featuring content that violates our Community Guidelines are not allowed on YouTube.
-
-If you find content that violates this policy, report it. Instructions for reporting violations of our Community Guidelines [are available here](https://support.google.com/youtube/answer/2802027). If you've found a few videos or comments that you would like to report, you can [report the channel](https://support.google.com/youtube/answer/2802027#report_channel).
+Links that send users to content that violates our [Community Guidelines](https://support.google.com/youtube/answer/9288567) are not allowed on YouTube. If you find content that violates this policy, [report it](https://support.google.com/youtube/answer/2802027). **Note**: Certain links may not be clickable. [Learn more here](https://support.google.com/youtube/answer/13748639#clickable).
 
 What this policy means for you
 ------------------------------
 
 #### If you're posting content
 
-Don’t post links in your content on YouTube if they direct users to content that violates our Community Guidelines. This includes links that fit any of the descriptions noted below.
+Don’t post links in your content on YouTube if they direct users to content that violates our Community Guidelines. This policy includes links that fit any of the descriptions noted below. Please note this is not a complete list.
 
 * Links to pornography
 * Links to websites or apps that install malware
-* Links to websites or apps phishing for a user’s login credentials, financial information, etc.
-* Links to websites, apps, or other information technology that give unauthorized access to audio content, audiovisual content, full video games, software, or streaming services that normally require payment
+* Links to websites or apps phishing for a user’s sign in info, financial info, etc.
+* Links to websites, apps, or other sources that give unauthorized access to audio content, audiovisual content, video games, software, or streaming services that normally require payment
 * Links to websites that seek to raise funds or recruit for terrorist organizations
 * Links to sites containing Child Sexual Abuse Imagery (CSAI)
 * Links to sites selling items noted in our [regulated goods guidelines](https://support.google.com/youtube/answer/9229611)
-* Links to content that would violate our hate or harassment policies if uploaded to YouTube
+* Links to content that would violate our hate or harassment policies
 * Links to content encouraging others to commit violent acts
-* Links to content ​​that spread medical misinformation contradicting local health authorities’ (LHA) or the World Health Organization’s (WHO) medical information about COVID-19
+* Links to content ​​that spread medical misinformation contradicting local health authorities’ (LHA) or the World Health Organization’s (WHO) medical info about COVID-19
 * Links to websites or apps that spread misleading or deceptive content that can cause serious risk of egregious harm, such as interfering with democratic processes
 
-This policy applies to video, audio, video descriptions, comments, pinned comments, live streams, and any other YouTube product or feature. Links can take any form that would direct a user to a site off YouTube, including: clickable urls, showing text of urls in videos or images, obfuscated urls (e.g., writing “dot com” instead of “.com”), verbally directing users to other sites via video or audio, or encouraging viewers to visit creator profiles or pages on other sites. Please note this is not a complete list.
+This policy applies to video, audio, channel, comments, pinned comments, live streams, and any other YouTube product or feature. Links can take any form that would direct a user to a site off YouTube. These links include: clickable urls, showing text of urls in videos or images, and obfuscated urls (such as writing “dot com” instead of “.com”). These links can also include verbally directing users to other sites or encouraging viewers to visit creator profiles or pages on other sites. This list is not complete.
 
-**Note:** Affiliate content doesn't violate YouTube’s Terms of Use. However, massively posting affiliate content in dedicated accounts may violate our policies around spam. You can learn more about what's allowed in our [Spam, deceptive practices & scams policies](https://support.google.com/youtube/answer/2801973).
+**Note:** Affiliate content doesn't violate YouTube’s Terms of Use. Excessively posting affiliate content in dedicated accounts may violate our policies around spam. You can learn more about what's allowed in our [Spam, deceptive practices & scams policies](https://support.google.com/youtube/answer/2801973).
 
 Examples
 --------
 
 Here are some examples of content that’s not allowed on YouTube.
 
-* A video featuring sexually themed content whose description says “click here to see what YouTube won’t allow!” and contains a link to a pornographic site.
-* A gameplay video whose description contains a link to a website promising in-game currency or online store credit but really links to a site that infects the user’s computer with malware.
-* Posting a link to a phishing site that steals users’ banking logins and passwords.
+* A video featuring sexually themed content whose description says “click to see what YouTube won’t allow!” and contains a link to a pornographic site.
+* A gameplay video description contains a link promising in-game currency or online store credit but links to a site that infects the user’s computer with malware.
+* Posting a link to a phishing site that steals users’ banking info and passwords.
 * Instructing viewers to copy and paste an unclickable link in the video that takes them to a pornographic or spammy site.
-* Any link leading users to a website, file hosting service, etc. that allows them to access or download child sexual abuse imagery.
+* Any link leading users to a website, file hosting service, or other source that allows them to access or download child sexual abuse imagery.
 * Verbally directing viewers to a website to find a profile or page on another platform so they can watch content that violates YouTube’s Community Guidelines.
 * Embedding a url in a video of a site that would mislead voters about the time, place, means, or eligibility requirements for voting.
 * A link to an article claiming that COVID-19 vaccines are part of a depopulation agenda.
 
-Please remember these are just some examples, and don't post content if you think it might violate this policy.
+Remember that this list is not complete. If you think content might violate this policy, don’t post it.
 
 What happens if content violates this policy
 --------------------------------------------
