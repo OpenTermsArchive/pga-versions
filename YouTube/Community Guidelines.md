@@ -1599,12 +1599,12 @@ We may terminate your channel or account for repeated violations of the Communit
 Misinformation policies
 =======================
 
-Certain types of misleading or deceptive content with serious risk of egregious harm are not allowed on YouTube. This includes certain types of misinformation that can cause real-world harm, like promoting harmful remedies or treatments, certain types of technically manipulated content, or content interfering with democratic processes.
+Certain types of misleading or deceptive content with serious risk of egregious harm are not allowed on YouTube. This includes certain types of misinformation that can cause real-world harm, certain types of technically manipulated content, or content interfering with democratic processes.
 
 If you find content that violates this policy, report it. Instructions for reporting violations of our Community Guidelines [are available here](https://support.google.com/youtube/answer/2802027). If you've found multiple videos or comments that you would like to report, you can [report the channel](https://support.google.com/youtube/answer/2802027#report_channel).
 
-What these policies mean for you
---------------------------------
+**What these policies mean for you**
+------------------------------------
 
 ### **If you're posting content**
 
@@ -1613,8 +1613,6 @@ Don’t post content on YouTube if it fits any of the descriptions below.
 * **Suppression of census participation:** Content aiming to mislead census participants about the time, place, means, or eligibility requirements of the census, or false claims that could materially discourage census participation.
 * **Manipulated content:** Content that has been technically manipulated or doctored in a way that misleads users (beyond clips taken out of context) and may pose a serious risk of egregious harm.
 * **Misattributed content:** Content that may pose a serious risk of egregious harm by falsely claiming that old footage from a past event is from a current event.
-* **Promoting dangerous remedies, cures, or substances:** Content that promotes harmful substances, treatments, or substances that present an inherent risk of severe bodily harm or death.
-* **Contradicting expert consensus on certain safe medical practices:** Content that contradicts local health authorities’ or WHO guidance on certain safe medical practices.
 
 Examples
 --------
@@ -1637,36 +1635,23 @@ Misattributed content
 * Content inaccurately presented as documenting human rights abuses in a specific location that is actually content from another location or event.  
 * Content showing a military crackdown on protesters with false claims that the content is from a current event, when the footage is actually several years old.
 
-Harmful remedies, cures, and substances
+Remember these are just some examples, and don't post content if you think it might violate these policies. Please note these policies also apply to [external links](https://support.google.com/youtube/answer/9054257) in your content. This can include clickable URLs, verbally directing users to other sites in video, as well as other forms.
 
-* Miracle Mineral Solution (MMS)
-* Black Salve
-* Turpentine
-* B17/amygdalin
-* High-grade hydrogen peroxide
-* Chelation therapy to treat autism
+**Educational, documentary, scientific, or artistic content**
+-------------------------------------------------------------
 
-Contradicting expert consensus on safe medical practices
---------------------------------------------------------
+We may allow content that violates the misinformation policies noted on this page if that content includes additional context in the video, audio, title, or description. This is not a pass to promote misinformation. We may make exceptions if the purpose of the content is to condemn, dispute, or satirize misinformation that violates our policies.
 
-* Content that contradicts local health authorities’ or WHO guidance on the safety of the following:
-    * Vaccines deemed safe by health authorities (for more info, read our [Vaccine misinformation policy](https://support.google.com/youtube/answer/11161123))
-    * Chemical and surgical abortion methods deemed safe by health authorities
-* Promotion of alternative health practices deemed unsafe by local health authorities or the WHO in the following areas:
-    * Promotion of alternative formulas for infants in place of breast milk or commercial formula
-    * Promotion of alternative abortion methods in place of chemical or surgical methods deemed safe by health authorities
-
-Remember these are just some examples, and don't post content if you think it might violate these policies. Please note these policies also apply to [external links](https://support.google.com/youtube/answer/9054257) in your content. This can include clickable URLs, verbally directing users to other sites in video, as well as other forms.
-
-Educational, documentary, scientific, or artistic content
----------------------------------------------------------
-
-We may allow content that violates the misinformation policies noted on this page if that content includes additional context in the video, audio, title, or description. This is not a pass to promote misinformation. Additional context may include countervailing views from local health authorities or medical experts. We may also make exceptions if the purpose of the content is to condemn, dispute, or satirize misinformation that violates our policies.
+We also allow personal expressions of opinion on the above topics as long as they don’t otherwise violate any of the policies outlined above.
 
 What happens if content violates this policy
 --------------------------------------------
 
-If your content violates this policy, we’ll remove the content and send you an email to let you know. If this is your first time violating our Community Guidelines, you’ll get a warning with no penalty to your channel. If it’s not, we’ll issue a strike against your channel. If you get 3 strikes, your channel will be terminated. You can learn more about [our strikes system here](https://support.google.com/youtube/answer/2802032).
+If your content violates this policy, we’ll remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
+
+If this is your first time violating our Community Guidelines, you’ll likely get a warning with no penalty to your channel. If it’s not, we may issue a strike against your channel. If you get 3 strikes within 90 days, your channel will be terminated. You can learn more about [our strikes system here](https://support.google.com/youtube/answer/2802032).
+
+We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. You can learn more about [channel or account terminations here](https://support.google.com/youtube/answer/2802168).
 
 Elections misinformation policies
 =================================
@@ -1741,204 +1726,370 @@ What happens if content violates this policy
 
 If your content violates this policy, we’ll remove the content and send you an email to let you know. If this is your first time violating our Community Guidelines, you’ll get a warning with no penalty to your channel. If it’s not, we’ll issue a strike against your channel. If you get 3 strikes, your channel will be terminated. You can learn more about [our strikes system here](https://support.google.com/youtube/answer/2802032)[.](https://support.google.com/youtube/answer/2802032)
 
-COVID-19 medical misinformation policy
-======================================
-
-The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. **T****ake the time to carefully read the policy below**. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
-
-YouTube doesn't allow content about COVID-19 that poses a serious risk of egregious harm.
-
-YouTube doesn't allow content that spreads medical misinformation that contradicts local health authorities’ (LHA) or the World Health Organization’s (WHO) medical information about COVID-19. This is limited to content that contradicts WHO or local health authorities’ guidance on:
-
-* Treatment
-* Prevention
-* Diagnosis
-* Transmission
-* The existence of COVID-19
-
-**Note**: YouTube’s policies on COVID-19 are subject to change in response to changes to global or local health authorities’ guidance on the virus. There may be a delay between new LHA/WHO guidance and policy updates given the frequency with which this guidance changes, and our policies may not cover all LHA/WHO guidance related to COVID-19.
-
-Our COVID-19 policies were first published on May 20, 2020.
-
-What this policy means for you
-------------------------------
-
-### If you're posting content
-
-Don’t post content on YouTube if it includes any of the following:
-
-**Treatment misinformation**:
-
-* Content that encourages the use of home remedies, prayer, or rituals in place of medical treatment such as consulting a doctor or going to the hospital
-* Content that claims that there’s a guaranteed cure for COVID-19
-* Content that recommends use of Ivermectin or Hydroxychloroquine for the treatment of COVID-19
-* Claims that Hydroxychloroquine is an effective treatment for COVID-19
-* Categorical claims that Ivermectin is an effective treatment for COVID-19
-* Claims that Ivermectin and Hydroxychloroquine are safe to use in the prevention of COVID-19
-* Other content that discourages people from consulting a medical professional or seeking medical advice
-
-**Prevention misinformation**: Content that promotes prevention methods that contradict local health authorities or WHO.
-
-* Claims that there is a guaranteed prevention method for COVID-19
-    * Claims that any medication or vaccination is a guaranteed prevention method for COVID-19
-* Content that recommends use of Ivermectin or Hydroxychloroquine for the prevention of COVID-19
-* Claims that Ivermectin and Hydroxychloroquine are safe to use in the prevention of COVID-19
-* Claims about COVID-19 vaccinations that contradict expert consensus from local health authorities or WHO
-    * Claims that an approved COVID-19 vaccine will cause death, infertility, miscarriage, autism, or contraction of other infectious diseases
-    * Claims that an approved COVID-19 vaccine will contain substances that are not on the vaccine ingredient list, such as biological matter from fetuses (e.g. fetal tissue, fetal cell lines) or animal products
-    * Claims that an approved COVID-19 vaccine will contain substances or devices meant to track or identify those who’ve received it
-    * Claims that COVID-19 vaccines will make people who receive them magnetic
-    * Claims that an approved COVID-19 vaccine will alter a person’s genetic makeup
-    * Claims that COVID-19 vaccines do not reduce risk of serious illness or death
-    * Claims that any vaccine causes contraction of COVID-19
-    * Claims that a specific population will be required (by any entity except for a government) to take part in vaccine trials or receive the vaccine first
-    * Content that promotes the use of unapproved or homemade COVID-19 vaccines
-    * Instructions to counterfeit vaccine certificates, or offers of sale for such documents
-        
-
-**Diagnostic misinformation**: Content that promotes diagnostic information that contradicts local health authorities or WHO.
-
-* Claims that approved COVID-19 tests are dangerous or cause negative physical health effects
-* Claims that approved COVID-19 tests cannot diagnose COVID-19
-
-**Transmission misinformation**: Content that promotes transmission information that contradicts local health authorities or WHO.
-
-* Content that claims that COVID-19 is not caused by a viral infection
-* Content that claims COVID-19 is not contagious
-* Content that claims that COVID-19 cannot spread in certain climates or geographies
-* Content that claims that any group or individual has immunity to the virus or cannot transmit the virus
-
-**Content that denies the existence of COVID-19:**
-
-* Denial that COVID-19 exists
-* Claims that people have not died or gotten sick from COVID-19
-* Claims that the death rate of COVID-19 is equal to or less than that of the common cold or seasonal flu
-* Claims that COVID-19 is equal to or less transmissible than the common cold or seasonal flu
-* Claims that the symptoms of COVID-19 are never severe
-
-This policy applies to videos, video descriptions, comments, live streams, and any other YouTube product or feature. Keep in mind that this isn't a complete list. Please note these policies also apply to [external links](https://support.google.com/youtube/answer/9054257) in your content. This can include clickable URLs, verbally directing users to other sites in video, as well as other forms.
-
-Examples
---------
-
-Here are some examples of content that’s not allowed on YouTube:
-
-* Denial that COVID-19 exists
-* Claims that people have not died from COVID-19
-* Claims that any vaccine is a guaranteed prevention method for COVID-19
-* Claims that a specific treatment or medicine is a guaranteed cure for COVID-19
-* Claims that hydroxychloroquine saves people from COVID-19
-* Promotion of MMS (Miracle Mineral Solution) for the treatment of COVID-19
-* Claims that certain people have immunity to COVID-19 due to their race or nationality
-* Encouraging taking home remedies instead of getting medical treatment when sick
-* Discouraging people from consulting a medical professional if they’re sick
-* Content that claims that holding your breath can be used as a diagnostic test for COVID-19
-* Videos alleging that if you avoid Asian food, you won’t get the coronavirus
-* Videos alleging that setting off fireworks can clean the air of the virus and will prevent the spread of the virus
-* Claims that COVID-19 is caused by radiation from 5G networks
-* Videos alleging that the COVID-19 test is the cause of the virus
-* Claims that countries with hot climates will not experience the spread of the virus
-* Claims that COVID-19 vaccines kill people who receive them
-* Claims that COVID-19 vaccines are a means of population reduction
-* Videos claiming that COVID-19 vaccines contain fetal tissue
-* Claims that the flu vaccine causes contraction of COVID-19
-* Claims that the flu is more contagious than COVID-19
-* Claims that COVID-19 vaccines cause contraction of other infectious diseases or makes people more vulnerable to contraction of other infectious diseases
-* Claims that COVID-19 vaccines contain a microchip or tracking device
-* Claims that achieving herd immunity through natural infection is safer than vaccinating the population
-* Claims that COVID-19 never causes serious symptoms or hospitalization
-* Claims that the death rate from the seasonal flu is higher than the death rate of COVID-19
-* Claims that people are immune to the virus based on their race
-* Claims that children cannot or do not contract COVID-19
-* Claims that there have not been cases or deaths in countries where cases or deaths have been confirmed by local health authorities or the WHO
-
-Educational, documentary, scientific or artistic content
---------------------------------------------------------
-
-We may allow content that violates the misinformation policies noted on this page if that content includes additional context in the video, audio, title, or description. This is not a pass to promote misinformation. Additional context may include countervailing views from local health authorities or medical experts. We may also make exceptions if the purpose of the content is to condemn, dispute, or satirize misinformation that violates our policies. We may also make exceptions for content showing an open public forum, like a protest or public hearing, provided the content does not aim to promote misinformation that violates our policies.
-
-What happens if content violates this policy
---------------------------------------------
-
-If your content violates this policy, we’ll remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
-
-If this is your first time violating our Community Guidelines, you’ll likely get a warning with no penalty to your channel. If it’s not, we may issue a strike against your channel. If you get 3 strikes within 90 days, your channel will be terminated. You can learn more about [our strikes system here](https://support.google.com/youtube/answer/2802032).
-
-We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. You can learn more about [channel or account terminations here](https://support.google.com/youtube/answer/2802168).
-
-Vaccine misinformation policy
+Medical misinformation policy
 =============================
 
-[Vaccine Misinformation Policy: YouTube Community Guidelines](https://www.youtube.com/watch?v=4MpAKk1M-Ok)
+YouTube doesn't allow content that poses a serious risk of egregious harm by spreading medical misinformation that contradicts local health authorities’ (LHAs) or the World Health Organization’s (WHO) guidance about specific health conditions and substances. This policy includes the following categories:
 
-YouTube doesn’t allow content that poses a serious risk of egregious harm by spreading medical misinformation about currently administered vaccines that are approved and confirmed to be safe and effective by local health authorities and by the World Health Organization (WHO). This is limited to content that contradicts local health authorities’ or the WHO’s guidance on vaccine safety, efficacy, and ingredients.
+* Prevention misinformation 
+* Treatment misinformation 
+* Denial misinformation
 
-What this policy means for you
-------------------------------
+**Note:** YouTube’s medical misinformation policies are subject to change in response to changes to guidance from health authorities or WHO. There may be a delay between new LHAs/WHO guidance and policy updates, and our policies may not cover all LHA/WHO guidance related to specific health conditions and substances.
 
-### If you're posting content
+**What this policy means for you**
+----------------------------------
 
-Don’t post content on YouTube if it includes harmful misinformation about currently approved and administered vaccines on any of the following:
+**Don’t post content on YouTube if it includes any of the following:**
 
-* **Vaccine safety:** content alleging that vaccines cause chronic side effects, outside of rare side effects that are recognized by health authorities
-    
-* **Efficacy of vaccines:** content claiming that vaccines do not reduce transmission or contraction of disease 
-    
-* **Ingredients in vaccines:** content misrepresenting the substances contained in vaccines
-    
+**Prevention misinformation:** We do not allow content that promotes information that contradicts health authority guidance on the prevention or transmission of specific health conditions, or on the safety, efficacy or ingredients of currently approved and administered vaccines.
 
-This policy applies to videos, video descriptions, comments, live streams, and any other YouTube product or feature. Keep in mind that this isn't a complete list. Please note these policies also apply to [external links](https://support.google.com/youtube/answer/9054257) in your content. This can include clickable URLs, verbally directing users to other sites in video, as well as other forms. 
+**Treatment misinformation:** We do not allow content that promotes information that contradicts health authority guidance on treatments for specific health conditions, including promotion of specific harmful substances or practices that have not been approved by local health authorities or the World Health Organization as safe or effective, or that have been confirmed to cause severe harm.
 
-Examples
---------
+**Denial misinformation:** We do not allow content that denies the existence of specific health conditions.
 
-Here are some examples of content that’s not allowed on YouTube:
+These policies apply to videos, video descriptions, comments, live streams, and any other YouTube product or feature. Keep in mind that this isn't a complete list. Please note these policies also apply to [external links](https://support.google.com/youtube/answer/9054257) in your content. This can include clickable URLs, verbally directing users to other sites in video, as well as other forms.
 
-* Claims that vaccines cause chronic side effects such as:
-    * Cancer
-    * Diabetes
-    * Other chronic side effects
-* Claims that vaccines do not reduce risk of contracting illness
-* Claims that vaccines contain substances that are not on the vaccine ingredient list, such as biological matter from fetuses (e.g. fetal tissue, fetal cell lines) or animal byproducts
-* Claims that vaccines contain substances or devices meant to track or identify those who’ve received them
-* Claims that vaccines alter a person’s genetic makeup
-* Claims that the MMR vaccine causes autism
-* Claims that vaccines are part of a depopulation agenda
-* Claims that the flu vaccine causes chronic side effects such as infertility
-* Claims that the HPV vaccine causes chronic side effects such as paralysis
+**Examples**
+------------
 
-Educational, scientific, artistic, or testimonial content
----------------------------------------------------------
+Here are some examples of content that’s not allowed on YouTube. This isn't a complete list.
 
-YouTube may allow content that violates the misinformation policies noted on this page if that content includes additional context in the video, audio, title, or description. This is not a pass to promote misinformation. Additional context may include countervailing views from local health authorities or medical experts. We may also make exceptions if the purpose of the content is to condemn, dispute, or satirize misinformation that violates our policies. We may also make exceptions for content showing an open public forum, like a protest or public hearing, provided the content does not aim to promote misinformation that violates our policies. 
+#### **Prevention misinformation**
 
-  
-YouTube also believes people should be able to share their own experiences, including personal experiences with vaccinations. This means we may make exceptions for content in which creators describe firsthand experiences from themselves or their family. At the same time, we recognize there is a difference between sharing personal experiences and promoting misinformation about vaccines. To address this balance, we will still remove content or channels if they include other policy violations or demonstrate a pattern of promoting vaccine misinformation.
+Harmful substances & practices as prevention methods
 
-What happens if content violates this policy
---------------------------------------------
+* Promotion of the following substances and treatments that present an inherent risk of severe bodily harm or death:
+    * Miracle Mineral Solution (MMS)
+    * Black Salve
+    * Turpentine
+    * B17/amygdalin/peach or apricot seeds
+    * High-grade hydrogen peroxide
+    * Chelation therapy to treat autism
+    * Colloidal silver
+    * Ozone therapy
+    * Gasoline, diesel and kerosene
+* Content that promotes use of Ivermectin or Hydroxychloroquine for the prevention of COVID-19.
 
-If your content violates this policy, we’ll remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
+Guaranteed prevention misinformation
 
-If this is your first time violating our Community Guidelines, you’ll likely get a warning with no penalty to your channel. If it’s not, we may issue a strike against your channel. If you get 3 strikes within 90 days, your channel will be terminated. You can learn more about [our strikes system here](https://support.google.com/youtube/answer/2802032).
+* Claims that there is a guaranteed prevention method for COVID-19. 
+* Claims that any medication or vaccination is a guaranteed prevention method for COVID-19.
 
-We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. You can learn more about [channel or account terminations here](https://support.google.com/youtube/answer/2802168).
+Vaccine misinformation
 
-Additional resources
---------------------
+* Claims that contradict health authority and World Health Organization guidance on **safety, efficacy** and **ingredients of currently administered and approved vaccines**.   
+    * **Vaccine safety:** Content alleging that vaccines cause chronic side effects, such as cancer or paralysis, outside of rare side effects that are recognized by health authorities.
+        * Examples:
+            * Claims that the MMR vaccine causes autism.
+            * Claims that any vaccine causes contraction of COVID-19.
+            * Claims that vaccines are part of a depopulation agenda.
+            * Claims that the flu vaccine causes chronic side effects such as infertility, or causes contraction of COVID-19.
+            * Claims that the HPV vaccine causes chronic side effects such as paralysis.
+            * Claims that an approved COVID-19 vaccine will cause death, infertility, miscarriage, autism, or contraction of other infectious diseases.
+            * Claims that achieving herd immunity through natural infection is safer than vaccinating the population.
+            * Content that promotes the use of unapproved or homemade COVID-19 vaccines.
+    * **Vaccine efficacy:** Content claiming that vaccines do not reduce transmission or contraction of disease.
+        * Examples:
+            * Claims that vaccines do not reduce risk of contracting illness.
+            * Claims that vaccines do not reduce the severity of illness, including hospitalization or death.
+            * Claims that any vaccine is a guaranteed prevention method for COVID-19.
+    * **Ingredients in vaccines:** Content misrepresenting the ingredients contained in vaccines.
+        * Examples:
+            * Claims that vaccines contain substances that are not on the vaccine ingredient list, such as biological matter from fetuses (e.g. fetal tissue, fetal cell lines) or animal byproducts.
+            * Claims that vaccines contain substances or devices meant to track or identify those who’ve received them.
+            * Claims that vaccines alter a person’s genetic makeup.
+            * Claims that vaccines will make people who receive them magnetic.
+
+**Additional resources**
 
 More information on vaccines, including their safety and efficacy, can be found below.
 
-**Health Authority Vaccine Information:**
+Health authority vaccine information:
 
 * [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/vaccines/index.html) (US)
 * [European Vaccination Information Portal](https://vaccination-info.eu/en/vaccine-facts) (EU) 
 * [National Health Service](https://www.nhs.uk/conditions/vaccinations/) (UK)
+* [Korea Disease Control and Prevention Agency](https://www.kdca.go.kr/contents.es?mid=a30333000000) (Korea)
+* [National Health Mission](https://nhm.gov.in/index1.php?lang=1&level=2&sublinkid=824&lid=220) (India)
+* [MHLW Immunization Information](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/yobou-sesshu/index.html) (Japan)
+* [National Vaccination Calendar](https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/c/calendario-nacional-de-vacinacao) (Brazil)
+* [Universal Vaccination Program](https://www.gob.mx/salud/censia/acciones-y-programas/programa-de-vacunacion-universal) (Mexico)
 * [World Health Organization vaccine safety](https://www.who.int/news-room/q-a-detail/vaccines-and-immunization-vaccine-safety) (Global)
 * [World Health Organization vaccine preventable diseases](https://www.who.int/teams/immunization-vaccines-and-biologicals/diseases) (Global)
 
-**Additional Vaccine Information:**
+Additional vaccine information:
 
 * [American Academy of Pediatrics](https://www.aap.org/en/patient-care/immunizations/) (US)
 * [GAVI, the Vaccine Alliance](https://www.gavi.org/) (Global)
-* [UNICEF](https://www.unicef.org/immunization) (Global)
+* [UNICEF](https://www.unicef.org/immunization) (Global)  
+
+Transmission information
+------------------------
+
+* Content that promotes transmission information that contradicts local health authorities or the World Health Organization.
+    * Content that claims that COVID-19 is not caused by a viral infection.
+    * Claims that COVID-19 is caused by radiation from 5G networks.
+    * Content that claims COVID-19 is not contagious.
+    * Content that claims that COVID-19 cannot spread in certain climates or geographies.
+    * Content that claims that any group or individual has immunity to the virus or cannot transmit the virus.
+
+#### **Treatment misinformation** 
+
+Harmful substances & practices as treatment methods
+---------------------------------------------------
+
+* Promotion of the following substances and treatments that present an inherent risk of severe bodily harm or death.
+    * Miracle Mineral Solution (MMS)
+    * Black salve
+    * Turpentine
+    * B17/amygdalin/peach or apricot seeds
+    * High-grade hydrogen peroxide
+    * Chelation therapy to treat autism
+    * Colloidal silver
+    * Ozone therapy
+    * Gasoline, diesel and kerosene
+* Content that recommends the use of specific methods for the treatment of cancer when those have not been approved by local health authorities or the World Health Organization as safe or effective or have been confirmed to be harmful or ineffective for cancer treatment.
+    * Examples:
+        * Content that promotes the use of the following methods for the treatment of cancer, outside of clinical trials:
+            * Caesium chloride (cesium salts)
+            * Hoxsey therapy
+            * Coffee enema
+            * Gerson therapy
+        * Content that claims that the following methods are safe or effective for the treatment of cancer, outside of clinical trials:
+            * Antineoplaston therapy
+            * Quercetin (intravenous injection)
+            * Methadone
+            * Over-the-counter chelation therapy
+* Content that promotes use of Ivermectin or Hydroxychloroquine for the treatment of COVID-19.
+
+Guaranteed treatment misinformation
+
+* Content that claims that there is a guaranteed cure for cancer outside of approved treatment.
+* Content that claims that there is a guaranteed cure for COVID-19.
+
+Harmful alternative methods & discouragement of professional treatment
+
+* Content that claims that approved treatments for cancer are never effective.
+    * Examples:
+        * Content that claims that approved treatments for cancer, such as chemotherapy or radiation, are never effective.
+        * Content that discourages people from seeking approved treatments for cancer.
+* Claims that alternative treatments are safer or more effective than approved treatments for cancer.
+    * Content that claims that juicing has better results than chemotherapy in treating cancer.
+* Content that recommends alternative treatments in place of approved treatments for cancer.
+    * Content that promotes diet and exercise instead of seeking approved treatment for cancer.
+* Discouraging people from consulting a medical professional or seeking medical advice if they’re sick with COVID-19.
+* Content that encourages the use of home remedies, prayer, or rituals in place of medical treatment for COVID-19 such as consulting a doctor or going to the hospital.
+* Content that contradicts local health authorities’ or the World Health Organization’s guidance on the safety of chemical and surgical abortion:
+    * Claims that abortion causes breast cancer.
+    * Claims that abortion commonly results in or carries a high risk of infertility or future miscarriage.
+* Promotion of alternative abortion methods in place of chemical or surgical methods deemed safe by health authorities.
+* Promotion of alternative formulas for infants in place of breast milk or commercial formula.
+
+#### **Denial misinformation**  
+
+* Content that denies the existence of COVID-19 or that people have died from COVID-19.
+    * Examples:
+        * Denial that COVID-19 exists
+        * Claims that people have not died or gotten sick from COVID-19
+        * Claims that there have not been cases or deaths in countries where cases or deaths have been confirmed by local health authorities or the WHO
+
+**Educational, documentary, scientific or artistic content**
+------------------------------------------------------------
+
+We may allow content that violates the misinformation policies noted on this page if that content includes additional context in the video, audio, title, or description. This is not a pass to promote misinformation. Additional context may include countervailing views from local health authorities or medical experts. We may also make exceptions if the purpose of the content is to condemn, dispute, or satirize misinformation that violates our policies. We may also make exceptions for content discussing the results of a specific medical study, or showing an open public forum, like a protest or public hearing, provided the content does not aim to promote misinformation that violates our policies.
+
+YouTube also believes people should be able to share their own experiences, including personal experiences with vaccinations, for example. This means we may make exceptions for content in which creators describe firsthand experiences from themselves or their family. At the same time, we recognize there is a difference between sharing personal experiences and promoting misinformation. To address this balance, we will still remove content or channels if they include other policy violations or demonstrate a pattern of promoting medical misinformation.
+
+**What happens if content violates this policy**
+------------------------------------------------
+
+If your content violates this policy, we’ll remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
+
+If this is your first time violating our Community Guidelines, you’ll likely get a warning with no penalty to your channel. If it’s not, we may issue a strike against your channel. If you get 3 strikes within 90 days, your channel will be terminated. You can learn more about [our strikes system here](https://support.google.com/youtube/answer/2802032).
+
+We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. You can learn more about [channel or account terminations here](https://support.google.com/youtube/answer/2802168).
+
+Medical misinformation policy
+=============================
+
+YouTube doesn't allow content that poses a serious risk of egregious harm by spreading medical misinformation that contradicts local health authorities’ (LHAs) or the World Health Organization’s (WHO) guidance about specific health conditions and substances. This policy includes the following categories:
+
+* Prevention misinformation 
+* Treatment misinformation 
+* Denial misinformation
+
+**Note:** YouTube’s medical misinformation policies are subject to change in response to changes to guidance from health authorities or WHO. There may be a delay between new LHAs/WHO guidance and policy updates, and our policies may not cover all LHA/WHO guidance related to specific health conditions and substances.
+
+**What this policy means for you**
+----------------------------------
+
+**Don’t post content on YouTube if it includes any of the following:**
+
+**Prevention misinformation:** We do not allow content that promotes information that contradicts health authority guidance on the prevention or transmission of specific health conditions, or on the safety, efficacy or ingredients of currently approved and administered vaccines.
+
+**Treatment misinformation:** We do not allow content that promotes information that contradicts health authority guidance on treatments for specific health conditions, including promotion of specific harmful substances or practices that have not been approved by local health authorities or the World Health Organization as safe or effective, or that have been confirmed to cause severe harm.
+
+**Denial misinformation:** We do not allow content that denies the existence of specific health conditions.
+
+These policies apply to videos, video descriptions, comments, live streams, and any other YouTube product or feature. Keep in mind that this isn't a complete list. Please note these policies also apply to [external links](https://support.google.com/youtube/answer/9054257) in your content. This can include clickable URLs, verbally directing users to other sites in video, as well as other forms.
+
+**Examples**
+------------
+
+Here are some examples of content that’s not allowed on YouTube. This isn't a complete list.
+
+#### **Prevention misinformation**
+
+Harmful substances & practices as prevention methods
+
+* Promotion of the following substances and treatments that present an inherent risk of severe bodily harm or death:
+    * Miracle Mineral Solution (MMS)
+    * Black Salve
+    * Turpentine
+    * B17/amygdalin/peach or apricot seeds
+    * High-grade hydrogen peroxide
+    * Chelation therapy to treat autism
+    * Colloidal silver
+    * Ozone therapy
+    * Gasoline, diesel and kerosene
+* Content that promotes use of Ivermectin or Hydroxychloroquine for the prevention of COVID-19.
+
+Guaranteed prevention misinformation
+
+* Claims that there is a guaranteed prevention method for COVID-19. 
+* Claims that any medication or vaccination is a guaranteed prevention method for COVID-19.
+
+Vaccine misinformation
+
+* Claims that contradict health authority and World Health Organization guidance on **safety, efficacy** and **ingredients of currently administered and approved vaccines**.   
+    * **Vaccine safety:** Content alleging that vaccines cause chronic side effects, such as cancer or paralysis, outside of rare side effects that are recognized by health authorities.
+        * Examples:
+            * Claims that the MMR vaccine causes autism.
+            * Claims that any vaccine causes contraction of COVID-19.
+            * Claims that vaccines are part of a depopulation agenda.
+            * Claims that the flu vaccine causes chronic side effects such as infertility, or causes contraction of COVID-19.
+            * Claims that the HPV vaccine causes chronic side effects such as paralysis.
+            * Claims that an approved COVID-19 vaccine will cause death, infertility, miscarriage, autism, or contraction of other infectious diseases.
+            * Claims that achieving herd immunity through natural infection is safer than vaccinating the population.
+            * Content that promotes the use of unapproved or homemade COVID-19 vaccines.
+    * **Vaccine efficacy:** Content claiming that vaccines do not reduce transmission or contraction of disease.
+        * Examples:
+            * Claims that vaccines do not reduce risk of contracting illness.
+            * Claims that vaccines do not reduce the severity of illness, including hospitalization or death.
+            * Claims that any vaccine is a guaranteed prevention method for COVID-19.
+    * **Ingredients in vaccines:** Content misrepresenting the ingredients contained in vaccines.
+        * Examples:
+            * Claims that vaccines contain substances that are not on the vaccine ingredient list, such as biological matter from fetuses (e.g. fetal tissue, fetal cell lines) or animal byproducts.
+            * Claims that vaccines contain substances or devices meant to track or identify those who’ve received them.
+            * Claims that vaccines alter a person’s genetic makeup.
+            * Claims that vaccines will make people who receive them magnetic.
+
+**Additional resources**
+
+More information on vaccines, including their safety and efficacy, can be found below.
+
+Health authority vaccine information:
+
+* [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/vaccines/index.html) (US)
+* [European Vaccination Information Portal](https://vaccination-info.eu/en/vaccine-facts) (EU) 
+* [National Health Service](https://www.nhs.uk/conditions/vaccinations/) (UK)
+* [Korea Disease Control and Prevention Agency](https://www.kdca.go.kr/contents.es?mid=a30333000000) (Korea)
+* [National Health Mission](https://nhm.gov.in/index1.php?lang=1&level=2&sublinkid=824&lid=220) (India)
+* [MHLW Immunization Information](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/yobou-sesshu/index.html) (Japan)
+* [National Vaccination Calendar](https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/c/calendario-nacional-de-vacinacao) (Brazil)
+* [Universal Vaccination Program](https://www.gob.mx/salud/censia/acciones-y-programas/programa-de-vacunacion-universal) (Mexico)
+* [World Health Organization vaccine safety](https://www.who.int/news-room/q-a-detail/vaccines-and-immunization-vaccine-safety) (Global)
+* [World Health Organization vaccine preventable diseases](https://www.who.int/teams/immunization-vaccines-and-biologicals/diseases) (Global)
+
+Additional vaccine information:
+
+* [American Academy of Pediatrics](https://www.aap.org/en/patient-care/immunizations/) (US)
+* [GAVI, the Vaccine Alliance](https://www.gavi.org/) (Global)
+* [UNICEF](https://www.unicef.org/immunization) (Global)  
+
+Transmission information
+------------------------
+
+* Content that promotes transmission information that contradicts local health authorities or the World Health Organization.
+    * Content that claims that COVID-19 is not caused by a viral infection.
+    * Claims that COVID-19 is caused by radiation from 5G networks.
+    * Content that claims COVID-19 is not contagious.
+    * Content that claims that COVID-19 cannot spread in certain climates or geographies.
+    * Content that claims that any group or individual has immunity to the virus or cannot transmit the virus.
+
+#### **Treatment misinformation** 
+
+Harmful substances & practices as treatment methods
+---------------------------------------------------
+
+* Promotion of the following substances and treatments that present an inherent risk of severe bodily harm or death.
+    * Miracle Mineral Solution (MMS)
+    * Black salve
+    * Turpentine
+    * B17/amygdalin/peach or apricot seeds
+    * High-grade hydrogen peroxide
+    * Chelation therapy to treat autism
+    * Colloidal silver
+    * Ozone therapy
+    * Gasoline, diesel and kerosene
+* Content that recommends the use of specific methods for the treatment of cancer when those have not been approved by local health authorities or the World Health Organization as safe or effective or have been confirmed to be harmful or ineffective for cancer treatment.
+    * Examples:
+        * Content that promotes the use of the following methods for the treatment of cancer, outside of clinical trials:
+            * Caesium chloride (cesium salts)
+            * Hoxsey therapy
+            * Coffee enema
+            * Gerson therapy
+        * Content that claims that the following methods are safe or effective for the treatment of cancer, outside of clinical trials:
+            * Antineoplaston therapy
+            * Quercetin (intravenous injection)
+            * Methadone
+            * Over-the-counter chelation therapy
+* Content that promotes use of Ivermectin or Hydroxychloroquine for the treatment of COVID-19.
+
+Guaranteed treatment misinformation
+
+* Content that claims that there is a guaranteed cure for cancer outside of approved treatment.
+* Content that claims that there is a guaranteed cure for COVID-19.
+
+Harmful alternative methods & discouragement of professional treatment
+
+* Content that claims that approved treatments for cancer are never effective.
+    * Examples:
+        * Content that claims that approved treatments for cancer, such as chemotherapy or radiation, are never effective.
+        * Content that discourages people from seeking approved treatments for cancer.
+* Claims that alternative treatments are safer or more effective than approved treatments for cancer.
+    * Content that claims that juicing has better results than chemotherapy in treating cancer.
+* Content that recommends alternative treatments in place of approved treatments for cancer.
+    * Content that promotes diet and exercise instead of seeking approved treatment for cancer.
+* Discouraging people from consulting a medical professional or seeking medical advice if they’re sick with COVID-19.
+* Content that encourages the use of home remedies, prayer, or rituals in place of medical treatment for COVID-19 such as consulting a doctor or going to the hospital.
+* Content that contradicts local health authorities’ or the World Health Organization’s guidance on the safety of chemical and surgical abortion:
+    * Claims that abortion causes breast cancer.
+    * Claims that abortion commonly results in or carries a high risk of infertility or future miscarriage.
+* Promotion of alternative abortion methods in place of chemical or surgical methods deemed safe by health authorities.
+* Promotion of alternative formulas for infants in place of breast milk or commercial formula.
+
+#### **Denial misinformation**  
+
+* Content that denies the existence of COVID-19 or that people have died from COVID-19.
+    * Examples:
+        * Denial that COVID-19 exists
+        * Claims that people have not died or gotten sick from COVID-19
+        * Claims that there have not been cases or deaths in countries where cases or deaths have been confirmed by local health authorities or the WHO
+
+**Educational, documentary, scientific or artistic content**
+------------------------------------------------------------
+
+We may allow content that violates the misinformation policies noted on this page if that content includes additional context in the video, audio, title, or description. This is not a pass to promote misinformation. Additional context may include countervailing views from local health authorities or medical experts. We may also make exceptions if the purpose of the content is to condemn, dispute, or satirize misinformation that violates our policies. We may also make exceptions for content discussing the results of a specific medical study, or showing an open public forum, like a protest or public hearing, provided the content does not aim to promote misinformation that violates our policies.
+
+YouTube also believes people should be able to share their own experiences, including personal experiences with vaccinations, for example. This means we may make exceptions for content in which creators describe firsthand experiences from themselves or their family. At the same time, we recognize there is a difference between sharing personal experiences and promoting misinformation. To address this balance, we will still remove content or channels if they include other policy violations or demonstrate a pattern of promoting medical misinformation.
+
+**What happens if content violates this policy**
+------------------------------------------------
+
+If your content violates this policy, we’ll remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
+
+If this is your first time violating our Community Guidelines, you’ll likely get a warning with no penalty to your channel. If it’s not, we may issue a strike against your channel. If you get 3 strikes within 90 days, your channel will be terminated. You can learn more about [our strikes system here](https://support.google.com/youtube/answer/2802032).
+
+We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. You can learn more about [channel or account terminations here](https://support.google.com/youtube/answer/2802168).
