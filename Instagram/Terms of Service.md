@@ -5,6 +5,13 @@ Terms and Imprint
 
 Copy link
 
+As part of our response to the Digital Services Act, we’re adding more details to our Terms of Use. Here’s when these changes will go into effect:
+
+* Effective immediately if you sign up to use our services on or after August 25, 2023
+* Effective on October 20, 2023 if you signed up to use our services before August 25, 2023
+
+Read the new terms.
+
 Terms and Imprint  
   
 
