@@ -69,9 +69,7 @@ You'll find a full list of our Community Guidelines below:
     
 * [Elections misinformation](https://support.google.com/youtube/answer/10835034?hl=en)
     
-* [COVID-19 medical misinformation](https://support.google.com/youtube/answer/9891785?hl=en)
-    
-* [Vaccine misinformation](https://support.google.com/youtube/answer/11161123?hl=en)
+* [Medical misinformation](https://support.google.com/youtube/answer/13813322?hl=en)
     
 
 In addition to Community Guidelines, creators who want to monetize content on YouTube must comply with [Monetization Policies](https://www.youtube.com/howyoutubeworks/policies/monetization-policies/).
