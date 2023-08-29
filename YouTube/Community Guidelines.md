@@ -202,11 +202,13 @@ Remember these are just some examples, and don't post content if you think it mi
 What happens if content violates this policy
 --------------------------------------------
 
-If your content violates this policy, we’ll remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
+If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
 
-If this is your first time violating our Community Guidelines, you’ll likely get a warning with no penalty to your channel. If it’s not, we may issue a strike against your channel. If you get 3 strikes within 90 days, your channel will be terminated. You can learn more about [our strikes system here](https://support.google.com/youtube/answer/2802032).
+If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
-We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. You can learn more about [channel or account terminations here](https://support.google.com/youtube/answer/2802168).
+If you get 3 strikes within 90 days, your channel will be terminated. [Learn more about our strikes system](https://support.google.com/youtube/answer/2802032).
+
+We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
 Impersonation policy
 ====================
@@ -301,11 +303,13 @@ Remember that this list is not complete. If you think content might violate this
 What happens if content violates this policy
 --------------------------------------------
 
-If your content violates this policy, we’ll remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
+If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
 
-If this is your first time violating our Community Guidelines, you’ll likely get a warning with no penalty to your channel. If it’s not, we may issue a strike against your channel. If you get 3 strikes within 90 days, your channel will be terminated. You can learn more about [our strikes system here](https://support.google.com/youtube/answer/2802032).
+If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
-We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. You can learn more about [channel or account terminations here](https://support.google.com/youtube/answer/2802168).
+If you get 3 strikes within 90 days, your channel will be terminated. [Learn more about our strikes system](https://support.google.com/youtube/answer/2802032).
+
+We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
 Spam, deceptive practices, & scams policies
 ===========================================
@@ -413,7 +417,11 @@ What happens if content violates this policy
 
 If your content violates this policy, we may suspend your monetization or terminate your channel or account. Learn more about [monetization policies](https://support.google.com/youtube/answer/1311392?hl=en)) and [channel or account terminations](https://support.google.com/youtube/answer/2802168). 
 
-For some violations, we may remove the content and issue a warning or a strike against your channel. If this happens, we’ll send you an email to let you know. If you get 3 strikes within 90 days, your channel will be terminated. Learn more about [our strike system](https://support.google.com/youtube/answer/2802032).
+For some violations, we may remove the content and issue a warning or a strike against your channel. If this happens, we’ll send you an email to let you know.
+
+You can take a policy training to allow the warning to expire after 90 days. However, if your content violates the same policy within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning. We may prevent repeat offenders from taking policy trainings in the future.
+
+If you get 3 strikes within 90 days, your channel will be terminated. Learn more about [our strike system](https://support.google.com/youtube/answer/2802032).
 
 Playlists policy
 ================
@@ -456,11 +464,13 @@ Here are some examples of content that’s not allowed on YouTube.
 What happens if content violates this policy
 --------------------------------------------
 
-If your content violates this policy, we’ll remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
+If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
 
-If this is your first time violating our Community Guidelines, you’ll likely get a warning with no penalty to your channel. If it’s not, we may issue a strike against your channel. If you get 3 strikes within 90 days, your channel will be terminated. You can learn more about [our strikes system here](https://support.google.com/youtube/answer/2802032).
+If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
-We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. You can learn more about [channel or account terminations here](https://support.google.com/youtube/answer/2802168).
+If you get 3 strikes within 90 days, your channel will be terminated. [Learn more about our strikes system](https://support.google.com/youtube/answer/2802032).
+
+We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
 Additional policies
 ===================
@@ -489,7 +499,7 @@ The safety of our creators, viewers, and partners is our highest priority. We lo
 
 Update: Content that targets young minors and families but contains sexual themes, violence, obscene, or other mature themes not suitable for young audiences, is not allowed on YouTube. In addition to your titles, descriptions, and tags, ensure your [audience selection](https://support.google.com/youtube/answer/9528076) matches the audience your content is suitable for.
 
-YouTube doesn’t allow content that endangers the emotional and physical well-being of minors. A minor is defined as someone under the legal age of majority -- usually anyone younger than 18 years old in most countries/regions.
+YouTube doesn’t allow content that endangers the emotional and physical well-being of minors. A minor is someone under 18 years old.
 
 If you find content that violates this policy, report it. If you believe that a child is in danger, you should get in touch with your local law enforcement to report the situation immediately.
 
@@ -502,24 +512,30 @@ What this policy means for you
 
 Don’t post content on YouTube if it fits any of the descriptions below.
 
-* **Sexualization of minors**: Sexually explicit content featuring minors and content that sexually exploits minors. We report content containing child sexual abuse imagery to the [National Center for Missing and Exploited Children](http://www.missingkids.com/home), who work with global law enforcement agencies.
+* **Sexualization of minors**: Sexually explicit content featuring minors and content that sexually exploits minors including minor nudity posted with comedic intent. We report content containing child sexual abuse imagery to the [National Center for Missing and Exploited Children](http://www.missingkids.com/home), who work with global law enforcement agencies.
 * **Harmful or dangerous acts involving minors**: Content showing a minor participating in dangerous activities or encouraging minors to do dangerous activities. Never put minors in harmful situations that may lead to injury, including dangerous stunts, challenges, dares, or pranks.
-* **Infliction of emotional distress on minors**: Content that could cause minor participants or viewers emotional distress, including:
-    * Exposing minors to mature themes
-    * Simulating parental abuse
-    * Coercing minors
-    * Violence
+* Inflicting or advocating for the infliction of physical, sexual or emotional maltreatment or neglect of a child, including inflicting emotional distress on minors.
+    * Content that contains infliction of physical, sexual, or emotional abuse of a child within an educational, documentary, scientific, or artistic context and with blurring may receive an exception.
+    * Content that could cause minor participants or viewers emotional distress, including:
+        * Exposing minors to mature themes
+        * Simulating parental abuse
+        * Coercing minors
+        * Violence
 * **Misleading family content**: Content that targets young minors and families, but contains:
     * Sexual themes
     * Violence
-    * Obscenity or other mature themes not suitable for young audiences such as medical procedures, use of adult horror characters, self harm, or content intended to shock young audiences.
-    * Family friendly cartoons that target young minors and contain adult or age-inappropriate themes such as violence, sex, profanity, medical procedures, self harm, adult horror characters or other content intended to shock young audiences.
+    * Obscenity or other mature themes not suitable for young audiences
+    * Medical procedures
+    * Self harm
+    * Use of adult horror characters
+    * Other inappropriate themes intended to shock young audiences
+    * Content that targets young minors and families with age-inappropriate themes within an educational, documentary, scientific, or artistic context may receive an exception. This is not a pass to target young minors and families with mature themes intended to shock young audiences.
+    * Family friendly cartoons that target young minors and contain adult or age-inappropriate themes such as violence, sex, death, drugs, and more. We don’t allow content labeled as suitable for kids in the video's title, description, tags, or in the audience selection if it contains age-inappropriate themes.
     * Make sure your titles, descriptions, and tags match the audience you're targeting. In addition, ensure your [audience selection](https://support.google.com/youtube/answer/9528076) accurately represents the audience your content is suitable for. You can also age restrict your content upon upload if it’s intended for [mature audiences](https://support.google.com/youtube/answer/2950063).
 * **Cyberbullying and harassment involving minors**: Content that:
-    * Targets individuals for abuse or humiliation
+    * Intends to shame, deceive or insult a minor
     * Reveals personal information like email addresses or bank account numbers
-    * Records someone without their consent
-    * Sexually harasses
+    * Contains sexualization
     * Encourages others to bully or harass
 
 This policy applies to videos, video descriptions, comments, Stories, Community posts, live streams, playlists, and any other YouTube product or feature. Keep in mind that this isn't a complete list.
@@ -544,10 +560,11 @@ To protect minors on YouTube, content that doesn’t violate our policies but fe
 * Live streaming
 * Video recommendations (how and when your video is recommended)
 * Community posts
+* Shorts Video remixing
 
 **How to protect minors in your content**
 
-Our goal is to protect both uploaders and viewers. Before posting content of yourself, your family, or friends, think carefully about whether it may put anyone at risk of negative attention.
+Our goal is to protect both uploaders and viewers. Before posting content of yourself, your family, or friends, think carefully about whether it may put anyone at risk of negative attention. Minors are a vulnerable population, and YouTube has policies to protect them from unwanted attention.
 
 * Make sure the minor is supervised by an adult and is performing age-appropriate activities such as demonstrating hobbies, educational content or public performances.
 * Make sure the attire worn is age-appropriate. Avoid attire that overexposes the minor or is form-fitting.
@@ -568,7 +585,7 @@ Examples
 Here are some examples of content not allowed on YouTube.
 
 * A video featuring minors involved in provocative, sexual, or sexually suggestive activities, challenges and dares, such as kissing or groping.
-* Showing minors involved in dangerous activities. For example, physical stunts, using weapons or explosives, or using a controlled substance like alcohol or nicotine.
+* Showing minors involved in dangerous activities. For example, physical stunts, using weapons or explosives, or using a controlled substance like alcohol or nicotine including use of vapes or e-cigarettes.
 * A video with tags like "for children", or whose audience is set to “Yes, it’s made for kids”, featuring family friendly cartoons engaging in inappropriate acts like injecting needles.
 
 Remember these are just some examples, and don't post content if you think it might violate this policy.
@@ -580,7 +597,7 @@ More examples
 * A video that advertises sexual content featuring minors or abusive content featuring minors.
 * Predatory behavior involving communications with or about minors.
 * Aggregating innocent content of minors for the purposes of sexual gratification.
-* Fight or bullying videos featuring kids.
+* Fight or bullying videos featuring kids without educational, documentary, scientific or artistic context and blurring.
 * Challenges, pranks, or stunts that pose the risk of physical injury or serious emotional distress. You can learn more about what’s not allowed in our policies [around challenges and pranks](https://support.google.com/youtube/answer/2801964).
 * Encouraging minors to participate in dangerous activities, even if there are no minors in the content.
 * Content simulating parental abuse or abandonment, simulating exposure to death or violence, or causing minors intense shame or humiliation.
@@ -596,11 +613,13 @@ Additional Information
 What happens if content violates this policy
 --------------------------------------------
 
-If your content violates this policy, we’ll remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
+If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
 
-If this is your first time violating our Community Guidelines, you’ll likely get a warning with no penalty to your channel. If it’s not, we may issue a strike against your channel. If you get 3 strikes within 90 days, your channel will be terminated. You can learn more about [our strikes system here](https://support.google.com/youtube/answer/2802032).
+If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
-We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. You can learn more about [channel or account terminations here](https://support.google.com/youtube/answer/2802168).
+If you get 3 strikes within 90 days, your channel will be terminated. [Learn more about our strikes system](https://support.google.com/youtube/answer/2802032).
+
+We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
 We have zero tolerance for predatory behavior on YouTube. If we think a child is in danger based on reported content, we’ll help law enforcement investigate the content.
 
@@ -645,9 +664,11 @@ Here’s what we consider when we remove or age-restrict these kinds of thumbnai
 What happens when thumbnails violate our policies
 -------------------------------------------------
 
-If your thumbnail contains pornography, we may terminate your channel. If your thumbnail violates other policies, we remove the thumbnail and may issue a strike against your account. If it's the first time you’ve posted content that violates our Community Guidelines, you get a warning with no penalty to your channel. If it’s not the first time, we issue a strike against your channel. If you get three strikes in 90 days or your channel is dedicated to violative content, your channel will be terminated. Learn more about our [strikes system](https://support.google.com/youtube/answer/2802032).
+If your thumbnail contains pornography, we may terminate your channel. If your thumbnail violates other policies, we remove the thumbnail and may issue a strike against your account. If it's the first time you’ve posted content that violates our Community Guidelines, you get a warning with no penalty to your channel. You can take a policy training to allow the warning to expire after 90 days. However, if one of your thumbnails violate the same policy within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
-We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. You can learn more about [channel or account terminations here](https://support.google.com/youtube/answer/2802168).
+If you get three strikes in 90 days or your channel is dedicated to violative content, your channel will be terminated. Learn more about our [strikes system](https://support.google.com/youtube/answer/2802032).
+
+We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
 Nudity & sexual content policy
 ==============================
@@ -681,10 +702,10 @@ Other types of content that violate this policy
 * Fondling or groping of genitals, breasts, or buttocks
 * Using sex toys to give viewers sexual gratification
 * Nudity or partial nudity that’s meant for sexual gratification
-* Bestiality or promotion of bestiality
-* Incest or promotion of incest
-* Non-consensual sex acts or unwanted sexualization
-* Celebrity wardrobe accidents or nude photo leaks
+* Non-consensual sex acts or promotion of non-consensual sex acts, such as sexual assault, bestiality, or incest
+* Unwanted sexualization such as non-consensually shared imagery or voyeurism
+* Wardrobe accidents or nude photo leaks
+* Non-consensual zooming in or prolonged focused or emphasis on the breasts, buttocks or genital area for the purpose of sexual gratification
 * Violent, graphic, or humiliating fetish content where the purpose is sexual gratification
 * Aggregating content that’s meant for sexual gratification
 * Any sexual content involving minors — see our [Child Safety on YouTube](https://support.google.com/youtube/answer/2801999) page for more information
@@ -698,7 +719,7 @@ We may age-restrict content if it includes nudity or other sexual content but do
 * Whether clothed or unclothed breasts, buttocks or genitals are the focal point of the video
 * Whether the subject is depicted in a pose that is intended to sexually arouse the viewer
 * Whether the language used in the video is graphic or lewd
-* Whether the subject's actions in the video invite sexual activity, such as by kissing, provocative dancing, or fondling
+* Whether the subject's actions in the video encourage sexual arousal, such as by touching of breasts or genitals, or revealing undergarments
 * Whether the clothing would be generally unacceptable in public contexts, such as lingerie
 * Whether sexual imagery or audio has been blurred, masked, or obscured
 * Whether sexual imagery or audio is fleeting or prolonged in the content
@@ -711,7 +732,9 @@ This policy applies to videos, video descriptions, comments, live streams, audio
 Educational content
 -------------------
 
-We may allow nudity when the primary purpose is educational, documentary, scientific, or artistic, and it isn’t gratuitous. For example, a documentary on breast cancer would be appropriate, but posting clips out of context to sexually gratify from the same documentary is not. Out of context nudity in indigenous communities, during medical procedures, during childbirth, during artistic performances, or during breastfeeding may not meet our documentary exception. The same applies to depictions of sex scenes in artistic content such as films, audio stories, music or video games. Remember that [giving context](https://support.google.com/youtube/answer/6345162?hl=en) in the content, title, and description will help us and your viewers determine the primary purpose of the video.
+We may allow sexual content when the primary purpose is educational, documentary, scientific, or artistic, and it isn’t gratuitous. For example, a documentary on breast cancer that shows nude breasts would be appropriate, but posting clips out of context to sexually gratify from the same documentary is not. Out of context nudity in indigenous communities, during medical procedures, during childbirth, during artistic performances, or during breastfeeding may not meet our documentary exception. 
+
+The same applies to depictions of sex scenes in artistic content such as films, audio stories, music or video games. For example, a film with a sex scene may be allowed if it included details such as the name of the film, director, actors in the video content and in the video description. Remember that [giving context](https://support.google.com/youtube/answer/6345162) in the content, title, and description will help us and your viewers determine the primary purpose of the video.
 
 For educational, documentary, scientific, or artistic content that has adult material or graphic violence, we may take into account official third-party ratings to decide whether the content may remain on YouTube. Content that follows our policies but isn’t appropriate for all audiences is [age-restricted](https://support.google.com/youtube/answer/2802167). Age-restricted content isn’t viewable to anyone who’s under 18 years of age or signed out.
 
@@ -721,7 +744,7 @@ Examples
 Here are some examples of content that’s not allowed on YouTube.
 
 * Clips extracted from non-pornographic films, shows, or other content in order to isolate sexual content (real world or artistic)
-* Groping, “pantsing”, kissing, public masturbation, “upskirting”, voyeurism, predatory exhibitionism, or any other content that depicts someone in a sexualized manner without their consent
+* Groping, kissing, public masturbation, “upskirting”, voyeurism, predatory exhibitionism, or any other content that depicts someone in a sexualized manner without their consent
 * Content that depicts sexual acts, behaviors, or sex toys that’s meant for sexual gratification
 
 **Note**: The above are just some examples. If you think content might violate this policy, don’t post it.
@@ -741,11 +764,13 @@ More examples
 What happens if content violates this policy
 --------------------------------------------
 
-If your content violates this policy, we’ll remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
+If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
 
-If this is your first time violating our Community Guidelines, you’ll likely get a warning with no penalty to your channel. If it’s not, we may issue a strike against your channel. If you get 3 strikes within 90 days, your channel will be terminated. You can learn more about [our strikes system here](https://support.google.com/youtube/answer/2802032).
+If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
-We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. You can learn more about [channel or account terminations here](https://support.google.com/youtube/answer/2802168).
+If you get 3 strikes within 90 days, your channel will be terminated. [Learn more about our strikes system](https://support.google.com/youtube/answer/2802032).
+
+We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
 If your content contains pornography, we may terminate your channel.
 
@@ -881,11 +906,13 @@ We recommend using these best practices in content related to eating disorders t
 What happens if content violates this policy
 --------------------------------------------
 
-If your content violates this policy, we’ll remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
+If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
 
-If this is your first time violating our Community Guidelines, you’ll likely get a warning with no penalty to your channel. If it’s not, we may issue a strike against your channel. If you get 3 strikes within 90 days, your channel will be terminated. You can learn more about [our strikes system here](https://support.google.com/youtube/answer/2802032).
+If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
-We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. You can learn more about [channel or account terminations here](https://support.google.com/youtube/answer/2802168).
+If you get 3 strikes within 90 days, your channel will be terminated. [Learn more about our strikes system](https://support.google.com/youtube/answer/2802032).
+
+We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
 Finally we may also limit your access to live streaming if you suggest that you’ll live stream content that will violate our Community Guidelines. [Learn more about restrictions on live streaming.](https://support.google.com/youtube/answer/2853834?hl=en)
 
@@ -935,20 +962,22 @@ We may allow vulgar language when the primary purpose is educational, documentar
 What happens if content violates this policy
 --------------------------------------------
 
-If your content violates this policy, we’ll remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
+If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
 
-If this is your first time violating our Community Guidelines, you’ll likely get a warning with no penalty to your channel. If it’s not, we may issue a strike against your channel. If you get 3 strikes within 90 days, your channel will be terminated. You can learn more about [our strikes system here](https://support.google.com/youtube/answer/2802032).
+If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
-We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. You can learn more about [channel or account terminations here](https://support.google.com/youtube/answer/2802168).
+If you get 3 strikes within 90 days, your channel will be terminated. [Learn more about our strikes system](https://support.google.com/youtube/answer/2802032).
+
+We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
 Harassment & cyberbullying policies
 ===================================
 
 The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. **T****ake the time to carefully read the policy below**. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
 
-Content that threatens individuals is not allowed on YouTube. We also don't allow content that targets an individual with prolonged or malicious insults based on intrinsic attributes. These attributes include their [protected group status](https://support.google.com/youtube/answer/2801939#protected_group) or physical traits.
+We don’t allow content that targets someone with prolonged insults or slurs based on their physical traits or [protected group status](https://support.google.com/youtube/answer/2801939#protected_group), like age, disability, ethnicity, gender, sexual orientation, or race. We also don’t allow other harmful behaviors, like threats or doxxing. Keep in mind that we take a stricter approach on content that targets minors.
 
-If you find content that violates this policy, report it. Instructions for reporting violations of our Community Guidelines [are available here](https://support.google.com/youtube/answer/2802027). If you've found multiple videos or comments that you would like to report, you can [report the channel](https://support.google.com/youtube/answer/2802027#report_channel). For tips about how to stay safe, keep your account secure, and protect your privacy, check out the [Creator Safety Center](https://www.youtube.com/creators/safety/) and [Stay safe on YouTube](https://support.google.com/youtube/answer/9563682).
+If you find content that violates this policy, report it. Instructions for reporting violations of our Community Guidelines [are available here](https://support.google.com/youtube/answer/2802027). If you find many videos or comments that you would like to report, you can [report the channel](https://support.google.com/youtube/answer/2802027#report_channel). For tips about how to stay safe, keep your account secure, and protect your privacy, check out the [Creator Safety Center](https://www.youtube.com/creators/creator-safety-center) and [Stay safe on YouTube](https://support.google.com/youtube/answer/9563682).
 
 If specific threats are made against you and you feel unsafe, report it directly to your local law enforcement agency.
 
@@ -959,26 +988,30 @@ What this policy means for you
 
 Don’t post content on YouTube if it fits any of the descriptions noted below.
 
-* Content that features prolonged name calling or malicious insults (such as racial slurs) based on someone's intrinsic attributes. These attributes include their [protected group status](https://support.google.com/youtube/answer/2801939), physical attributes, or their status as a survivor of sexual assault, non-consensual intimate imagery distribution, domestic abuse, child abuse and more.
-* Content uploaded with the intent to shame, deceive or insult a minor. A minor is defined as an individual under the legal age of majority. This usually means anyone younger than 18 years old, but the age of a minor might vary by geography.
+* Content that contains prolonged insults or slurs based on someone's intrinsic attributes. These attributes include their [protected group status](https://support.google.com/youtube/answer/2801939), physical attributes, or their status as a survivor of sexual assault, non-consensual intimate imagery distribution, domestic abuse, child abuse and more.
+* Content uploaded with the intent to shame, deceive or insult a minor. This means intending to make a minor feel unpleasant emotions, like distress, shame, or worthlessness; intending to trick them to behave in ways that may harm themselves or their property; or engaging in name-calling toward them. A minor is someone under 18 years old.
 
 Other types of content that violate this policy
 
-* Revealing someone’s personally identifiable information (PII), such as their home address, email addresses, sign-in credentials, phone numbers, passport number, medical records, or bank account information.
-    * Note: This doesn't include posting widely available public information. Public information can include an official’s office phone number or the phone number of a business.
-* Content that incites others to harass or threaten individuals on or off YouTube.
-* Content that encourages abusive fan behavior such as doxxing, dogpiling, brigading or off-platform targeting.
-* Content that targets an identifiable individual as part of a harmful conspiracy theory where the conspiracy theory has been linked to direct threats or violent acts.
-* Content making implicit or explicit threats of physical harm or destruction of property against identifiable individuals.
-    * Note: “Implicit threats” include threats that don’t express a specific time, place or means, but may feature weapon brandishing, simulated violence and more.
-* Content posted by vigilantes restraining or assaulting an identifiable individual.
+* Content that shares, threatens to share, or encourages others to share non-public personally identifiable information (PII). 
+    * PII includes, but isn’t limited to, home addresses; email addresses; sign-in credentials, like a username or password; phone numbers; passport numbers; medical records; or bank account information.
+    * This doesn't include posting widely available public information, like an official’s office phone number or the phone number of a business. 
+    * This policy applies to sharing your own PII, sharing someone else’s PII, and situations where you accidentally share PII.
+    * Content must clearly indicate when fake PII is shared. For example, using fake login credentials as part of a training.
+* Content that encourages abusive behavior, like brigading. Brigading is when an individual encourages the coordinated abuse of an identifiable individual on or off YouTube.
+* Content that promotes harmful conspiracy theories or that targets someone by claiming they’re a part of a harmful conspiracy theory. A harmful conspiracy theory is one that has been linked to direct threats or violent acts.
+* Content that threatens an identifiable individual or their property. This includes implicit threats that don’t specify a time or place but may feature a weapon, for example.
 * Content that depicts a staged meet-up that is used to accuse an identifiable individual of egregious misconduct with a minor, without the presence of law enforcement.
 * Content reveling in or mocking the death or serious injury of an identifiable individual.
-* Content that depicts creators simulating acts of serious violence against others (executions, torture, maimings, beatings and more).
-* Content featuring non-consensual sex acts, unwanted sexualization or anything that graphically sexualizes or degrades an individual.
-* Content that displays or shows how to distribute non-consensual sexual imagery.
+* Content that depicts creators simulating acts of serious violence against others. For example, executions, torture, maimings, beatings, and more.
+* Content that contains stalking of an identifiable individual.
+* Content that denies or minimizes someone’s role as a victim of a well-documented, major violent event.
+* Content that contains unwanted sexualization of an identifiable individual. This includes:
+    * Content that describes someone in a lewd, degrading, and sexually explicit manner
+    * Content that shares, requests or shows how to distribute non-consensual intimate imagery
+    * Content that fantasizes about, threatens, or supports sexual assault
 
-This policy applies to videos, video descriptions, comments, live streams, and any other YouTube product or feature. Keep in mind that this isn't a complete list. Please note these policies also apply to [external links](https://support.google.com/youtube/answer/9054257) in your content. This can include clickable URLs, verbally directing users to other sites in video, as well as other forms.
+This policy applies to videos, video descriptions, comments, live streams, and any other YouTube product or feature. Keep in mind that this isn't a complete list. Note that these policies also apply to [external links](https://support.google.com/youtube/answer/9054257) in your content. This can include clickable URLs, verbally directing users to other sites in video and other forms.
 
 Exceptions
 ----------
@@ -989,7 +1022,7 @@ If the primary purpose is educational, documentary, scientific, or artistic in n
 * **Scripted performances**: Insults made in the context of an artistic medium such as scripted satire, stand up comedy, or music (such as a diss track). Note: This exception is not a pass to harass someone and claim “I was joking.”
 * **Harassment education or awareness**: Content that features actual or simulated harassment for documentary purposes or with willing participants (such as actors) to combat cyberbullying or raise awareness.
 
-Note: We take a harder line on content that maliciously insults someone based on their [protected group status](https://support.google.com/youtube/answer/2801939?hl=en), regardless of whether or not they are a high-profile person.
+Note: We take a harder line on content that maliciously insults someone based on their [protected group status](https://support.google.com/youtube/answer/2801939?hl=en), regardless of whether or not they are a high-profile individual.
 
 Monetization and other penalties
 --------------------------------
@@ -1007,169 +1040,204 @@ Examples
 Here are some examples of content that’s not allowed on YouTube:
 
 * Repeatedly showing pictures of someone and then making statements like “Look at this creature’s teeth, they’re so disgusting!”, with similar commentary targeting intrinsic attributes throughout the video.
-* Targeting an individual based on their membership in a [protected group](https://support.google.com/youtube/answer/2801939), such as by saying: “Look at this filthy \[slur targeting a protected group\], I wish they’d just get hit by a truck.”
+* Targeting an individual based on their membership in a [protected group](https://support.google.com/youtube/answer/2801939), such as by saying: “Look at this \[slur targeting a protected group\]!”
 * Targeting an individual and making claims they are involved in human trafficking in the context of a harmful conspiracy theory where the conspiracy is linked to direct threats or violent acts.
 * Using an extreme insult to dehumanize an individual based on their intrinsic attributes. For example: “Look at this dog of a woman! She’s not even a human being — she must be some sort of mutant or animal!”
-* Depicting an identifiable individual being murdered, seriously injured, or engaged in a graphic sexual act without their consent.
-* Accounts dedicated entirely to focusing on maliciously insulting an identifiable individual.
-
-More Examples
--------------
-
-* Targeting an individual based on their intrinsic attributes to wish for their death or serious injury, for example “I wish someone would just bring a hammer down on that \[Member of a Protected Group’s\] face.”
-* Threatening someone’s physical safety. This includes implied threats like “when I see you next, things will end badly for you.” It also includes explicit threats like “when I see you on Saturday I’m going to punch you in the face.” Threatening or implying violence by saying things such as, “You better watch out” while brandishing a weapon is also an example.
-* Posting an individual’s nonpublic personal identifying information like a phone number, home address, or email to direct abusive attention or traffic toward them. For example: “I got a hold of their phone number, keep on calling and leaving messages until they pick up!”
+* Targeting an individual and expressing a wish for their death or serious injury: “I hate her so much. I wish she’d just get hit by a truck and die.”
+* Depicting an identifiable individual being murdered or seriously injured. For example: A video includes a clip from a movie, where one character is brutally shot and killed. The video is edited so that a real individual’s photo is placed over the actor’s face.
+* Threatening someone’s physical safety. This includes explicit threats like, “When I see you on Saturday, I’m going to kill you.” This also includes implying violence by making statements like, “You better watch out, I’m coming for you” while brandishing a weapon.
+* Posting an individual’s non-public personally identifiable information, like a phone number, home address, or email address, to direct abusive attention or traffic toward them. For example, saying, “I got a hold of their phone number. Call and leave messages until they pick up!”
 * “Raiding” or directing malicious abuse to identifiable individuals through in-game voice chat or messages during a stream.
-* Directing users toward a YouTuber’s comment section for malicious abuse. For example: “everyone needs to go over to this individual's channel right now and just go crazy, let them know how much we want them to die.”
+* Directing users to leave abusive comments in another creator's comment section.
 * Linking to off platform sites that host or feature non-consensual intimate imagery.
 * Requesting that other users get in touch to share non-consensual intimate imagery.
 * “Swatting” or other prank calls to emergency or crisis response services, or encouraging viewers to act in this or any other harassing behavior.
 * Stalking or attempting to blackmail users.
-* Zooming in or prolonged focused or emphasis on the breasts, buttocks or genital area of an identifiable individual for the purposes of degrading, objectifying, or sexualizing.
-* Video game content which has been developed or modified (“modded”) to promote violence or hatred against an individual with the attributes noted above.
+* Video game content which has been developed or modified (“modded”) to promote violence against an individual.
 
-Remember these are just some examples, and don't post content if you think it might violate this policy.
+Remember, this list isn't exhaustive. Don't post content if you think it might violate this policy.
 
 What happens if content violates this policy
 --------------------------------------------
 
-If your content violates this policy, we’ll remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
+If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
 
-If this is your first time violating our Community Guidelines, you’ll likely get a warning with no penalty to your channel. If it’s not, we may issue a strike against your channel. If you get 3 strikes within 90 days, your channel will be terminated. You can learn more about [our strikes system here](https://support.google.com/youtube/answer/2802032).
+If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
-We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. You can learn more about [channel or account terminations here](https://support.google.com/youtube/answer/2802168).
+If you get 3 strikes within 90 days, your channel will be terminated. [Learn more about our strikes system](https://support.google.com/youtube/answer/2802032).
 
-Harmful or dangerous content policies
-=====================================
+We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
-The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. **T****ake the time to carefully read the policy below**. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
-
-**Note:** We recently reorganized our [Community Guidelines](https://support.google.com/youtube/answer/9288567) to provide further clarity about our policies related to Misinformation on YouTube. To review these policies, check out our articles on [Misinformation](https://support.google.com/youtube/answer/10834785) and [Elections misinformation](https://support.google.com/youtube/answer/10835034).
+Harmful or dangerous content policy
+===================================
 
 YouTube doesn’t allow content that encourages dangerous or illegal activities that risk serious physical harm or death.
 
-If you find content that violates this policy, report it. Instructions for reporting violations of our Community Guidelines [are available here](https://support.google.com/youtube/answer/2802027). If you've found a few videos or comments that you would like to report, you can [report the channel](https://support.google.com/youtube/answer/2802027#report_channel).
+If you find content that violates this policy, [report it](https://support.google.com/youtube/answer/2802027).
 
-What this policy means for you
-------------------------------
+**Skip to a specific section of this article:**
 
-#### If you're posting content
+* Read the full [Harmful or dangerous content policy](#policy)
+* Get [examples of Harmful or dangerous content](#examples)
+* [Age-restricted content and content removal](#age_restricted_removal)
+* [Educational, documentary, scientific, or artistic content](#edsa)
+* [What happens when content violates this policy](#violations)
 
-Don’t post content on YouTube if it fits any of the descriptions noted below.
+**Important**: This policy applies to videos, video descriptions, comments, live streams, and any other YouTube product or feature. These policies also apply to [external links](https://support.google.com/youtube/answer/9054257) in your content. This can include clickable URLs, verbally directing users to other sites in video, as well as other forms.
+
+Harmful or dangerous content policy
+-----------------------------------
+
+### What this policy means for you
+
+**Note**: The list below isn't complete. If you think that your content might violate this policy, don't post it.
+
+This content isn't allowed on YouTube:
+
+#### Harmful or dangerous acts, challenges, and pranks
 
 * **Extremely dangerous challenges**: Challenges that pose an imminent risk of physical injury.
 * **Dangerous or threatening pranks**: Pranks that lead victims to fear imminent serious physical danger, or that create serious emotional distress in minors.
-* **Instructions to kill or harm**: Showing viewers how to perform activities meant to kill or maim others. For example, giving instructions to build a bomb meant to injure or kill others.
-* **Hard drug use or creation**: Content that depicts abuse of or giving instructions on how to create hard drugs such as cocaine or opioids. Hard drugs are defined as drugs that can (mostly) lead to physical addiction.
-* **Instructional theft or cheating**: Showing viewers how to steal tangible goods or promoting dishonest behavior.
-* **Hacking**: Demonstrating how to use computers or information technology with the intent to steal credentials, compromise personal data or cause serious harm to others such as (but not limited to) hacking into social media accounts.
-* **Bypassing payment for digital content or services:** Showing viewers how to use apps, websites, or other information technology to gain unauthorized access to audio content, audiovisual content, full video games, software, or streaming services that normally require payment.
+* **Harmful or dangerous acts**: Acts performed by adults that have a serious risk of severe bodily harm or death.
+* **Minors participating in dangerous activities**: Content that endangers the emotional and physical well-being of minors. For more info, review our [Child safety policy](https://support.google.com/youtube/answer/2801999).
 
-Keep in mind that this isn't a complete list. Please note these policies also apply to [external links](https://support.google.com/youtube/answer/9054257) in your content. This can include clickable URLs, verbally directing users to other sites in video, as well as other forms.
+#### Weapons content
 
-Don’t post content showing a minor participating in dangerous activity, or encouraging minors to participate in dangerous activities. Never put minors in harmful situations that may lead to injury, including dangerous stunts, dares, or pranks. You can learn more about [Child Safety here](https://support.google.com/youtube/answer/2801999).
+* **Instructions to kill or harm**: Instructions that show or tell viewers how to perform activities that are meant to kill or severely harm others.
+* **Explosives**: Giving instructions to make explosive devices or compounds meant to injure or kill others.
+* **Firearms**: For more info, review our [Firearms policy](https://support.google.com/youtube/answer/7667605).
 
-Age-restricted content
+#### Digital security content
 
-We may consider the following factors when deciding whether to age-restrict or remove content. Keep in mind that this isn't a complete list.
+* **Instructional theft**: Instructional theft videos posted with the express intent to steal physical goods or get something for free.
+* **Hacking**: Demonstrating how to use computers or information technology with the intent to steal credentials, compromise personal data, or cause serious harm to others.
+* **Bypassing payment for digital content or services**: Content that shows viewers how to get unauthorized access to content, software, or services that usually require payment.
+* **Phishing**: Content that tries to get or gives instructions for how to get nonpublic personal identifying information from viewers by deceiving them.
+    * **Cryptophishing**: Requests for cryptocurrency or cryptocurrency-related wallet details as a part of a phishing scheme.
 
-* Whether the act in question could lead to serious injury or death.
-* Whether the individuals participating in the act are trained professionals taking precautions to prevent injury.
-* Whether minors could easily imitate the act.
-* Whether the content could be used to commit serious acts of violence.
-* Whether the upload is educational, documentary, scientific or artistic in nature.
-* Whether there's any commentary discouraging the act.
-* Whether the viewer can tell if it's real or fake.
-* Whether the content promotes a product that contains drugs, nicotine, or a controlled substance.
+#### Illegal or regulated goods or services
 
-**Examples of age-restricted content**
+* For more info, review our [Illegal or regulated goods or services policy](https://support.google.com/youtube/answer/9229611).
 
-*  A video about fake harmful pranks that seems so real that viewers can't tell the difference.
-* A reaction video to a dangerous challenge without any commentary discouraging the challenge.
-* A video promoting a cannabis dispensary.
-* A video reviewing brands of nicotine e-liquid.
-* A video providing instructions for or facilitating cheating.
+Examples of harmful or dangerous content
+----------------------------------------
 
-We might allow videos that depict dangerous acts if they’re meant to be educational, documentary, scientific, or artistic (EDSA). For example, a news piece on the dangers of choking games would be appropriate, but posting clips out of context from the same documentary might not be.
+Here are some examples of harmful or dangerous content that isn’t allowed on YouTube. 
 
-This policy applies to videos, video descriptions, comments, live streams, and any other YouTube product or feature.
+**Note**: The list below isn't complete.
 
 Extremely dangerous challenges
 ------------------------------
 
-The following types of content are not allowed on YouTube. This isn't a complete list.
-
-* **Asphyxiation**: Any activity that prevents breathing or can lead to suffocation like:
+* **Asphyxiation**: Any activity that prevents breathing or can lead to suffocation. Examples include:
     * Choking, drowning, or hanging games
     * Eating non-food items
-* **Misuse of weapons:** Using weapons, like guns or knives, without proper safety precautions or in a way that could cause physical harm. Includes the "No Lackin'" challenge.
-* **Ingesting Harmful Substances:** Eating, consuming, or inserting non-food objects or chemicals that may cause illness or poisoning. Includes detergent-eating challenges.
-* **Burning, Freezing & Electrocution**: Activities with inherent risk of severe burns, freezing, frostbite, or electrocution. Includes the fire challenge and hot water challenge.
-* **Mutilation & Blunt Force Trauma**: Activities like:
+* **Misuse of weapons**: Using weapons, like guns or knives, without proper safety precautions or in a way that could cause physical harm. Examples include the "No Lackin'" challenge.
+* **Ingesting harmful substances**: Eating, consuming, or inserting non-food objects or chemicals that may cause illness or poisoning. Examples include detergent-eating challenges.
+* **Burning, freezing, and electrocution**: Activities with a serious risk of severe burns, freezing, frostbite, or electrocution. Examples include the fire challenge and the hot water challenge.
+* **Mutilation and blunt force trauma**: Examples include:
     * Self-mutilation
     * Abstaining from normal health practices
     * Falling, impalement, collision, blunt force trauma, or crushing
-* **Challenges featuring children:** Showing minors drinking alcohol, using vaporizers, e-cigarettes, tobacco or marijuana, or misusing fireworks.
+* **Challenges that feature children**: Examples include content that shows minors:
+    * Drinking alcohol
+    * Using vaporizers, e-cigarettes, tobacco, or marijuana
+    * Misusing fireworks
 
-**Note:** We may age-restrict content that explains this type of content in an educational or documentary way. For example, a documentary about self-mutilation may be allowed but it won't be available to all audiences.
+**Note**: We may age-restrict content that has [educational or documentary context](https://support.google.com/youtube/answer/6345162).
 
 Dangerous or threatening pranks
 -------------------------------
 
-The following types of content are not allowed on YouTube. This isn't a complete list.
-
-* **Intentional physical harm:** Inflicting physical harm on unsuspecting prank victims through actions like punching attacks, drugging food or drinks with laxatives, or shock pranks.
-* **Making someone feel in immediate danger:** Tricking others into believing they're in real danger, even if no physical harm comes to them. This includes:
+* **Intentional physical harm**: Inflicting physical harm on unsuspecting prank victims. Examples include:
+    * Punching attacks
+    * Drugging food or drinks with laxatives
+    * Electrocution pranks
+* **Making someone feel like they’re in immediate danger**: Tricking others into believing they're in real danger, even if no physical harm comes to them. Examples include:
     * Threats with weapons
     * Bomb scares
     * Swatting or fake 911 calls
     * Fake home invasions or robberies
     * Fake kidnapping
-* **Emotional distress to minors:** Any prank that causes emotional distress to children or others who are vulnerable. This includes:
+* **Emotional distress to minors**: Any prank that causes emotional distress to children or others who are vulnerable. Examples include:
     * Fake death or suicide
     * Fake violence
     * Pretending that a parent or caregiver will abandon a child
     * Showing a parent or caregiver verbally abuse or shame a child
 
-**Note:** We may age-restrict pranks involving adults that don't violate our policies. For example, a prank with a realistic looking injury may be allowed. But, it won't be available to all audiences.
+**Note**: We may age-restrict prank content that involves adults and that doesn't violate our policies.
 
-Violent events or instructions to harm
---------------------------------------
+Harmful or dangerous acts
+-------------------------
 
-The following types of content are not allowed on YouTube. This isn't a complete list.
+* **Risking serious harm or death**: Behavior that shows adults risking serious bodily harm or death in the categories listed under [Dangerous challenges](#dangerous_challenges), such as asphyxiation or electrocution.
+* **Extremely dangerous driving**: Using a motor vehicle in a way that presents imminent risk of serious injury or death to the driver or others. Examples include:
+    * Cell phone footage of a motorcyclist deliberately veering into oncoming traffic at high speeds. A voiceover reacts saying “Wow, that was crazy!”
+    * Driving a car at a high speed along a walkway meant for pedestrians.
 
-* **Bomb-making:** Showing viewers how to build a bomb meant to injure or kill others, such as:
+Instructions to harm
+--------------------
+
+* **Bomb-making**: Showing viewers how to build a bomb meant to injure or kill others. Examples include:
     * Pipe bombs
     * Package bombs
     * Explosive vests
     * Molotov cocktails
-* **Violence involving children:** Any real fights or violence between children.
+* **Violence involving children**: Any real fights or violence between children. For more info, review our [Child Safety policy](https://support.google.com/youtube/answer/2801999).
 
-**Note:** We may age-restrict this type of content if it's documentary or educational. For example, content that gives medical, academic, historical, philosophical, or news perspective on a violent act may be allowed. But, it won't be available to all audiences.
+**Note**: We may age-restrict content that has [documentary or educational context](https://support.google.com/youtube/answer/6345162).
 
-Drug use
---------
+Age-restricted content
+----------------------
 
-The following types of content are not allowed on YouTube. This isn't a complete list.
+**Note**: The list below isn't complete.
 
-* **Displays of hard drug uses:** Non-educational content that shows the injection of intravenous drugs like heroin or huffing/sniffing glue.
-* **Making hard drugs:** Non-educational content that explains how to make drugs.
-* **Minors using alcohol or drugs:** Showing minors drinking alcohol, using vaporizers, e-cigarettes, tobacco or marijuana, or misusing fireworks.
-* **Selling hard or soft drugs:** Featuring drugs with the goal of selling them. If you're using links in your description to sell hard drugs, your channel will be terminated.
-* **Steroid use:** Non-educational content that shows how to use steroids for recreational purposes (like bodybuilding).
+Sometimes content doesn't violate our policies, but it may not be appropriate for viewers under 18. When we decide whether to age-restrict or remove content, we may consider what’s listed below. Saying, “Don’t try this at home” may not result in an exception if the content promotes or celebrates dangerous behavior.
 
-**Note:** If this type of content is educational, documentary, scientific, or artistic, we may still age-restrict it. For example, a documentary about intravenous drug use that shows the injection of drugs may be allowed, but it won't be available to all audiences. If your content shows items used for taking drugs, it may also be age-restricted.
+* The act in question could lead to serious injury or death.
+* The individuals participating in the act are trained professionals and take precautions to prevent injury.
+* Minors could easily imitate the act.
+* The content is educational, documentary, scientific, or artistic in nature.
+* There's commentary that discourages the act.
+* The viewer can tell that the act is real or fake.
 
-Remember these are just some examples, and don't post content if you think it might violate this policy.
+Learn about [age-restricted content](https://support.google.com/youtube/answer/2802167) and how to [watch age-restricted videos](https://support.google.com/youtube/answer/10070779).
+
+Examples of age-restricted content
+----------------------------------
+
+* Prank content featuring adults using excessive fake blood or gruesome fake injuries.
+* A reaction video to a dangerous challenge without any commentary that discourages the challenge.
+* Content that shows adults misusing fireworks.
+* Content that shows adults risking serious injury by starting fires in an uncontrolled manner that could be easily imitated by younger viewers.
+
+Educational, documentary, scientific, or artistic content
+---------------------------------------------------------
+
+Sometimes, content that would otherwise violate this policy is allowed to stay on YouTube when it has Educational, Documentary, Scientific, or Artistic (EDSA) context. [Learn about how YouTube evaluates EDSA content](https://support.google.com/youtube/answer/6345162).
+
+**Note**: In some cases, EDSA content may be age-restricted. Certain content isn’t allowed on YouTube even if it has EDSA context added, such as content that [sells drugs or regulated pharmaceuticals without a prescription](https://support.google.com/youtube/answer/9229611).
+
+Examples of EDSA content
+------------------------
+
+* A news piece on the dangers of choking games may be appropriate, but posting clips out of context from the same documentary might not be.
+* A video in which a professional stunt person performs a dangerous motorcycle jump that shows viewers the safety precautions taken in preparation, like onsite emergency medical personnel and the use of protective equipment.
+* A documentary that shows the impact of drug use in a particular community that, while showing viewers drug usage, discourages viewers from using drugs and doesn’t provide information on how to make or purchase them.
+* A video that shows dangerous driving or vehicle crashes in controlled environments to educate viewers about safe driving practices or vehicle safety features.
 
 What happens if content violates this policy
 --------------------------------------------
 
-If your content violates this policy, we’ll remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
+If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
 
-If this is your first time violating our Community Guidelines, you’ll likely get a warning with no penalty to your channel. If it’s not, we may issue a strike against your channel. If you get 3 strikes within 90 days, your channel will be terminated. You can learn more about [our strikes system here](https://support.google.com/youtube/answer/2802032).
+If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
-We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. You can learn more about [channel or account terminations here](https://support.google.com/youtube/answer/2802168).
+If you get 3 strikes within 90 days, your channel will be terminated. [Learn more about our strikes system](https://support.google.com/youtube/answer/2802032).
+
+We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
+
+Familiarize yourself with the rest of our [Community Guidelines](https://support.google.com/youtube/answer/9288567).
 
 Hate speech policy
 ==================
@@ -1181,7 +1249,7 @@ The safety of our creators, viewers, and partners is our highest priority. We lo
 
 **Note:** On June 5, 2019, we announced some changes to our hate speech policies. You can [learn more about those changes here](https://youtube.googleblog.com/2019/06/our-ongoing-work-to-tackle-hate.html). The below policy has been updated with those changes.
 
-Hate speech is not allowed on YouTube. We remove content promoting violence or hatred against individuals or groups based on any of the following attributes:
+Hate speech is not allowed on YouTube. We don’t allow content that promotes violence or hatred against individuals or groups based on any of the following attributes, which indicate a protected group status under YouTube’s policy:
 
 * Age
 * Caste
@@ -1204,30 +1272,27 @@ What this policy means for you
 
 #### If you're posting content
 
-Don’t post content on YouTube if the purpose of that content is to do one or more of the following.
+Don’t post content on YouTube if the purpose of that content is to do one or more of the following:
 
-* Encourage violence against individuals or groups based on any of the attributes noted above. We don’t allow threats on YouTube, and we treat implied calls for violence as real threats. You can learn more about our policies on [threats and harassment](https://support.google.com/youtube/answer/2802268).
-* Incite hatred against individuals or groups based on any of the attributes noted above.
+* Encourage violence against individuals or groups based on their protected group status. We don’t allow threats on YouTube, and we treat implied calls for violence as real threats. You can learn more about our policies on [threats and harassment](https://support.google.com/youtube/answer/2802268).
+* Incite hatred against individuals or groups based on their protected group status.
 
 Other types of content that violates this policy
 ------------------------------------------------
 
-* Dehumanizing individuals or groups by calling them subhuman, comparing them to animals, insects, pests, disease, or any other non-human entity.
-* Praise or glorify violence against individuals or groups based on the attributes noted above.
-* Use of racial, religious or other slurs and stereotypes that incite or promote hatred based on any of the attributes noted above. This can take the form of speech, text, or imagery promoting these stereotypes or treating them as factual.
-* Claim that individuals or groups are physically or mentally inferior, deficient, or diseased based on any of the attributes noted above. This includes statements that one group is less than another, calling them less intelligent, less capable, or damaged.
-* Allege the superiority of a group over those with any of the attributes noted above to justify violence, discrimination, segregation, or exclusion.
-* Conspiracy theories saying individuals or groups are evil, corrupt, or malicious based on any of the attributes noted above.
-* Call for the subjugation or domination over individuals or groups based on any of the attributes noted above.
-* Deny or minimize a well-documented, major violent event or the victimhood of such an event.
-* Attacks on a person’s emotional, romantic and/or sexual attraction to another person. 
-* Content containing hateful supremacist propaganda including the recruitment of new members or requests for financial support for their ideology.
-* Music videos promoting hateful supremacism in the lyrics, metadata, or imagery.
+* Dehumanization of individuals or groups by calling them subhuman, comparing them to animals, insects, pests, disease, or any other non-human entity based on their protected group status.
+* Praise or glorification of violence against individuals or groups based on their protected group status.
+* Use of racial, religious, or other slurs and stereotypes that incite or promote hatred based on protected group status. This can take the form of speech, text, or imagery promoting these stereotypes or treating them as factual.
+* Claim that individuals or groups are physically or mentally inferior, deficient, or diseased based on their protected group status. This includes statements that one group is less than another, calling them less intelligent, less capable, or damaged. This also includes calls for the subjugation or domination over individuals or groups based on their protected group status.
+* Promotion of hateful supremacism by alleging the superiority of a group over those with protected group status to justify violence, discrimination, segregation, or exclusion. This includes content containing hateful supremacist propaganda, such as the recruitment of new members or requests for financial support for their ideology, and music videos promoting hateful supremacism in the lyrics, metadata, or imagery.
+* Conspiratorial claims that individuals or groups are evil, corrupt, or malicious based on their protected group status.
+* Denial or minimization of a well-documented, major violent event or the victimhood of such an event.
+* Attacks on individuals or groups based on their emotional, romantic, and/or sexual attraction to other people.
 
-Educational content
--------------------
+Educational, documentary, scientific, and artistic content
+----------------------------------------------------------
 
-We may allow content that includes hate speech if the primary purpose is educational, documentary, scientific, or artistic in nature. This is not a pass to promote hate speech. Examples include:
+We may allow content that includes hate speech if that content includes additional educational, documentary, scientific, or artistic context. Additional context may include condemning, refuting, including opposing views, or satirizing hate speech. This is not a pass to promote hate speech. Examples include:
 
 * **A documentary about a hate group:** Educational content that isn’t supporting the group or promoting ideas would be allowed. A documentary promoting violence or hatred wouldn’t be allowed.
 * **A documentary about the scientific study of humans:** A documentary about how theories have changed over time, even if it includes theories about the inferiority or superiority of specific groups, would be allowed because it’s educational. We won’t allow a documentary claiming there's scientific evidence today that an individual or group is inferior or subhuman.
@@ -1235,7 +1300,7 @@ We may allow content that includes hate speech if the primary purpose is educati
 
 This policy applies to videos, video descriptions, comments, live streams, and any other YouTube product or feature. Please note these policies also apply to [external links](https://support.google.com/youtube/answer/9054257) in your content. This can include clickable URLs, verbally directing users to other sites in video, as well as other forms. 
 
-For educational content that includes hate speech, this context must appear in the images or audio of the video itself. Providing it in the title or description is insufficient.
+For educational, documentary, scientific, or artistic content that includes hate speech, this context must appear in the images or audio of the video itself. Providing it in the title or description is insufficient.
 
 Monetization and other penalties 
 ---------------------------------
@@ -1243,33 +1308,33 @@ Monetization and other penalties 
 In some rare cases, we may remove content or issue other penalties when a creator:
 
 * Repeatedly encourages abusive audience behavior.
-* Repeatedly targets, insults and abuses a group based on the attributes noted above across multiple uploads.
-* Exposes a group with attributes noted above to risks of physical harm based on the local social or political context.
-* Creates content that harms the YouTube ecosystem by persistently inciting hostility against  a group with attributes noted above for personal financial gain.
+* Repeatedly targets, insults, and abuses a group based on protected group status across multiple uploads.
+* Exposes a group with protected group status to risks of physical harm based on the local social or political context.
+* Creates content that harms the YouTube ecosystem by persistently inciting hostility against a group with protected group status for personal financial gain.
 
 Examples
 --------
 
 Here are examples of hate speech not allowed on YouTube.
 
-* “I’m glad this \[violent event\] happened. They got what they deserved \[referring to persons with the attributes noted above\].”
-* “\[Person with attributes noted above\] are dogs” or “\[person with attributes noted above\] are like animals.”
+* “I’m glad this \[violent event\] happened. They got what they deserved \[referring to people with protected group status\].”
+* “\[People with protected group status\] are dogs” or “\[people with protected group status\] are like animals.”
 
 More examples
 -------------
 
-* “Get out there and punch a \[person with attributes noted above\].”
-* “Everyone in \[groups with attributes noted above\] is criminals and thugs.”
-* “\[Person with attributes noted above\] is scum of the earth.”
-* “\[People with attributes noted above\] are a disease.”
-* “\[People with attributes noted above\] are less intelligent than us because their brains are smaller.”
-* “\[Group with any of the attributes noted above\] threaten our existence, so we should drive them out at every chance we get.”
-* “\[Group with any of the attributes noted above\] has an agenda to run the world and get rid of us.”
-* “\[Attribute noted above\] is just a form of mental illness that needs to be cured.”
-* “\[Person with any of the  attributes noted above\] shouldn't be educated in schools because they shouldn't be educated at all.”
+* “Get out there and punch a \[person with protected group status\].”
+* “Everyone in \[groups with protected group status\] are criminals and thugs.”
+* “\[Person with protected group status\] is scum of the earth.”
+* “\[People with protected group status\] are a disease.”
+* “\[People with protected group status\] are less intelligent than us because their brains are smaller.”
+* “\[Group with protected group status\] threaten our existence, so we should drive them out at every chance we get.”
+* “\[Group with protected group status\] have an agenda to run the world and get rid of us.”
+* “\[Protected group status\] is just a form of mental illness that needs to be cured.”
+* “\[Person with protected group status\] shouldn't be educated in schools because they shouldn't be educated at all.”
 * “All of the so-called victims of this violent event are actors. No one was hurt, and this is just a false flag.”
 * “People died in the event, but a truly insignificant number.”
-* Shouting “\[people with attributes noted above\] are pests!” at someone regardless of whether the person does or does not have the alleged attributes
+* Shouting “\[people with protected group status\] are pests!” at someone regardless of whether the person does or does not have the alleged protected group status. 
 * Video game content which has been developed or modified (“modded”) to promote violence or hatred against a group with any of the attributes noted above.
 
 Please remember these are just some examples, and don't post content if you think it might violate this policy.
@@ -1285,11 +1350,13 @@ Additional Information
 What happens if content violates this policy
 --------------------------------------------
 
-If your content violates this policy, we’ll remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
+If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
 
-If this is your first time violating our Community Guidelines, you’ll likely get a warning with no penalty to your channel. If it’s not, we may issue a strike against your channel. If you get 3 strikes within 90 days, your channel will be terminated. You can learn more about [our strikes system here](https://support.google.com/youtube/answer/2802032).
+If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
-We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. You can learn more about [channel or account terminations here](https://support.google.com/youtube/answer/2802168).
+If you get 3 strikes within 90 days, your channel will be terminated. [Learn more about our strikes system](https://support.google.com/youtube/answer/2802032).
+
+We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
 If we think your content comes close to hate speech, we may limit YouTube features available for that content. You can learn more about [limited features here](https://support.google.com/youtube/answer/7458465).
 
@@ -1350,11 +1417,13 @@ Please remember these are just some examples, and don't post content if you thin
 What happens if content violates this policy
 --------------------------------------------
 
-If your content violates this policy, we’ll remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
+If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
 
-If this is your first time violating our Community Guidelines, you’ll likely get a warning with no penalty to your channel. If it’s not, we may issue a strike against your channel. If you get 3 strikes within 90 days, your channel will be terminated. You can learn more about [our strikes system here](https://support.google.com/youtube/answer/2802032).
+If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
-We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. You can learn more about [channel or account terminations here](https://support.google.com/youtube/answer/2802168).
+If you get 3 strikes within 90 days, your channel will be terminated. [Learn more about our strikes system](https://support.google.com/youtube/answer/2802032).
+
+We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
 Violent or graphic content policies
 ===================================
@@ -1471,11 +1540,13 @@ Remember these examples are just some examples, and don’t post content if you 
 What happens if content violates this policy
 --------------------------------------------
 
-If your content violates this policy, we’ll remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
+If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
 
-If this is your first time violating our Community Guidelines, you’ll likely get a warning with no penalty to your channel. If it’s not, we may issue a strike against your channel. If you get 3 strikes within 90 days, your channel will be terminated. You can learn more about [our strikes system here](https://support.google.com/youtube/answer/2802032).
+If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
-We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. You can learn more about [channel or account terminations here](https://support.google.com/youtube/answer/2802168).
+If you get 3 strikes within 90 days, your channel will be terminated. [Learn more about our strikes system](https://support.google.com/youtube/answer/2802032).
+
+We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
 Firearms policy
 ===============
@@ -1527,16 +1598,18 @@ Please remember these are just some examples, and don't post content if you thin
 What happens if content violates this policy
 --------------------------------------------
 
-If your content violates this policy, we’ll remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
+If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
 
-If this is your first time violating our Community Guidelines, you’ll likely get a warning with no penalty to your channel. If it’s not, we may issue a strike against your channel. If you get 3 strikes within 90 days, your channel will be terminated. You can learn more about [our strikes system here](https://support.google.com/youtube/answer/2802032).
+If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
-We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. You can learn more about [channel or account terminations here](https://support.google.com/youtube/answer/2802168).
+If you get 3 strikes within 90 days, your channel will be terminated. [Learn more about our strikes system](https://support.google.com/youtube/answer/2802032).
+
+We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
 If you find content that violates this policy, report it. Instructions for reporting violations of our Community Guidelines [are available here](https://support.google.com/youtube/answer/2802027). If you've found a few videos or comments that you would like to report, you can [report the channel](https://support.google.com/youtube/answer/2802027#report_channel).
 
-Sale of illegal or regulated goods or services policies
-=======================================================
+Illegal or regulated goods or services policies
+===============================================
 
   
  
@@ -1552,7 +1625,7 @@ What this policy means for you
 
 #### If you're posting content
 
-Don't post content on YouTube if it aims to directly sell,  link to, or facilitate access to any of the regulated goods and services listed below. Making the sale of these items or facilitating the use of these services possible by posting links, email, phone number or other means to contact a seller directly is not allowed.
+Don't post content on YouTube if it aims to directly sell, link to, or facilitate access to any of the regulated goods and services listed below. Making the sale of these items or facilitating the use of these services possible by posting links, email, phone number or other means to contact a seller directly is not allowed.
 
 * Alcohol
 * Bank account passwords, stolen credit cards, or other financial information
@@ -1569,6 +1642,11 @@ Don't post content on YouTube if it aims to directly sell,  link to, or facilit
 * Unlicensed medical services
 * Human smuggling
 
+Additionally, the following content isn’t allowed on YouTube:
+
+* **Hard drug use or creation**: Hard drug use or creation, selling or facilitating the sale of hard or soft drugs, facilitating the sale of regulated pharmaceuticals without a prescription, or showing how to use steroids in non-educational content. Generally, hard drugs are defined as drugs that can lead to physical addiction, such as cocaine or opioids. Soft drugs include marijuana and salvia.
+* **Instructional cheating**: Content which provides instructions for academic cheating.
+
 This policy applies to videos, video descriptions, comments, live streams, and any other YouTube product or feature. Keep in mind that this isn't a complete list. Please note these policies also apply to [external links](https://support.google.com/youtube/answer/9054257) in your content. This can include clickable URLs, verbally directing users to other sites in video, as well as other forms. 
 
 Examples
@@ -1582,17 +1660,36 @@ Here are some examples of content that’s not allowed on YouTube.
 * Content instructing how to purchase drugs on the dark web.
 * A video of a user making a purchase with software that generates fake credit card numbers.
 * Including a link to an online pharmacy that does not require prescriptions.
+* Content that promotes a product that contains drugs, nicotine, or a controlled substance.
+* Displays of hard drug use: Non-educational content that shows the injection of intravenous drugs like heroin or huffing/sniffing glue.
+* Making hard drugs: Non-educational content that explains how to make drugs.
+* Minors using alcohol or drugs: Showing minors drinking alcohol, using vaporizers, e-cigarettes, tobacco or marijuana, or misusing fireworks.
+* Selling hard or soft drugs: Featuring drugs with the goal of selling them. If you're using links in your description to sell hard drugs, your channel will be terminated.
+* Steroid use: Non-educational content that shows how to use steroids for recreational purposes, like bodybuilding.
 
 Please remember these are just some examples, and don't post content if you think it might violate this policy.
+
+Age-restricted content
+----------------------
+
+Sometimes content doesn't violate our policies, but it may not be appropriate for viewers under 18. 
+
+Examples of age-restricted content
+----------------------------------
+
+* Content that promotes a cannabis dispensary.
+* Content that reviews brands of nicotine e-liquid.
 
 What happens if content violates this policy
 --------------------------------------------
 
-If your content violates this policy, we’ll remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
+If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
 
-If this is your first time violating our Community Guidelines, you’ll likely get a warning with no penalty to your channel. If it’s not, we may issue a strike against your channel. If you get 3 strikes within 90 days, your channel will be terminated. You can learn more about [our strikes system here](https://support.google.com/youtube/answer/2802032).
+If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
-We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. You can learn more about [channel or account terminations here](https://support.google.com/youtube/answer/2802168).
+If you get 3 strikes within 90 days, your channel will be terminated. [Learn more about our strikes system](https://support.google.com/youtube/answer/2802032).
+
+We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
 Misinformation policies
 =======================
@@ -1722,7 +1819,13 @@ Remember these are just some examples, and don't post content if you think it mi
 What happens if content violates this policy
 --------------------------------------------
 
-If your content violates this policy, we’ll remove the content and send you an email to let you know. If this is your first time violating our Community Guidelines, you’ll get a warning with no penalty to your channel. If it’s not, we’ll issue a strike against your channel. If you get 3 strikes, your channel will be terminated. You can learn more about [our strikes system here](https://support.google.com/youtube/answer/2802032)[.](https://support.google.com/youtube/answer/2802032)
+If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
+
+If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
+
+If you get 3 strikes within 90 days, your channel will be terminated. [Learn more about our strikes system](https://support.google.com/youtube/answer/2802032).
+
+We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
 Medical misinformation policy
 =============================
