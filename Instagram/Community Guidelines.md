@@ -408,9 +408,9 @@ Dangerous Organizations and Individuals
 
 #### Policy Rationale
 
-In an effort to prevent and disrupt real-world harm, we do not allow organizations or individuals that proclaim a violent mission or are engaged in violence to have a presence on Facebook. We assess these entities based on their behavior both online and offline, most significantly, their ties to violence. Under this policy, we designate individuals, organizations, and networks of people. These designations are divided into three tiers that indicate the level of content enforcement, with Tier 1 resulting in the most extensive enforcement because we believe these entities have the most direct ties to offline harm.
+In an effort to prevent and disrupt real-world harm, we do not allow organizations or individuals that proclaim a violent mission or are engaged in violence to have a presence on Meta. We assess these entities based on their behavior both online and offline, most significantly, their ties to violence. Under this policy, we designate individuals, organizations, and networks of people. These designations are divided into three tiers that indicate the level of content enforcement, with Tier 1 resulting in the most extensive enforcement because we believe these entities have the most direct ties to offline harm.
 
-**Tier 1** focuses on entities that engage in serious offline harms - including organizing or advocating for violence against civilians, repeatedly dehumanizing or advocating for harm against people based on protected characteristics, or engaging in systematic criminal operations. Tier 1 entities include terrorist, hate, and criminal organizations. We remove praise, substantive support, and representation of Tier 1 entities as well as their leaders, founders, or prominent members. Tier 1 includes hate organizations; criminal organizations, including those designated by the United States government as Specially Designated Narcotics Trafficking Kingpins (SDNTKs); and terrorist organizations, including entities and individuals designated by the United States government as Foreign Terrorist Organizations (FTOs) or Specially Designated Global Terrorists (SDGTs). We remove praise, substantive support, and representation of Tier 1 entities as well as their leaders, founders, or prominent members.
+**Tier 1** focuses on entities that engage in serious offline harms - including organizing or advocating for violence against civilians, repeatedly dehumanizing or advocating for harm against people based on protected characteristics, or engaging in systematic criminal operations. Tier 1 includes hate organizations; criminal organizations, including those designated by the United States government as Specially Designated Narcotics Trafficking Kingpins (SDNTKs); and terrorist organizations, including entities and individuals designated by the United States government as Foreign Terrorist Organizations (FTOs) or Specially Designated Global Terrorists (SDGTs). We remove praise, substantive support, and representation of Tier 1 entities as well as their leaders, founders, or prominent members.
 
 In addition, we do not allow content that praises, substantively supports, or represents events that Meta designates as violating violent events - including terrorist attacks, hate events, multiple-victim violence or attempted multiple-victim violence, serial murders, or hate crimes. Nor do we allow (1) praise, substantive support, or representation of the perpetrator(s) of such attacks; (2) perpetrator-generated content relating to such attacks; or (3) third-party imagery depicting the moment of such attacks on visible victims. We also remove content that praises, substantively supports or represents ideologies that promote hate, such as nazism and white supremacy.
 
@@ -418,7 +418,24 @@ In addition, we do not allow content that praises, substantively supports, or re
 
 **Tier 3** focuses on entities that may repeatedly engage in violations of our Hate Speech or Dangerous Organizations policies on-or-off the platform or demonstrate strong intent to engage in offline violence in the near future, but have not necessarily engaged in violence to date or advocated for violence against others based on their protected characteristics. This includes Militarized Social Movements, Violence-Inducing Conspiracy Networks, and individuals and groups banned for promoting hatred. Tier 3 entities may not have a presence or coordinate on our platforms.
 
-We recognize that users may share content that includes references to designated dangerous organizations and individuals to report on, condemn, or neutrally discuss them or their activities. Our policies are designed to allow room for these types of discussions while simultaneously limiting risks of potential offline harm. We thus require people to clearly indicate their intent when creating or sharing such content. If a user's intention is ambiguous or unclear, we default to removing content.
+We recognize that users may share content that includes references to designated dangerous organizations and individuals in the context of social and political discourse. This includes content reporting on, neutrally discussing or condemning dangerous organizations and individuals or their activities.
+
+News reporting includes information that is shared to raise awareness about local and global events in which designated dangerous organizations and individuals are involved.
+
+* E.g. “Breaking News: Al-Shabab claimed responsibility for the attack in Somalia”
+* E.g. “Timeline and expert analysis: How the shooting at the Buffalo Supermarket unfolded and what did the perpetrator say in court”
+
+Neutral discussion includes factual statements, commentary, questions,and other information that do not express positive judgment around the designated dangerous organization or individual and their behavior.
+
+* E.g. “Al Qaeda represents less threat than ISIS given the lack of leadership and finance”
+* E.g. “Anders Breivik is one example of how complex the radicalization process can be”
+
+Condemnation includes disapproval, disgust, rejection, criticism, mockery, and other negative expressions about a designated dangerous organization or individual and their behavior.
+
+* E.g. “ I feel disgusted by the crime of Salvador Ramos. The judge’s words resonated so much to me. He should get no mercy by the court”
+* E.g. “Hitler’s crimes shall never be forgotten ever. These were some of the darkest moments in history”
+
+Our policies are designed to allow room for these types of discussions while simultaneously limiting risks of potential offline harm. We thus require people to clearly indicate their intent when creating or sharing such content. If a user's intention is ambiguous or unclear, we default to removing content.
 
 In line with international human rights law, our policies allow discussions about the human rights of designated individuals or members of designated dangerous entities, unless the content includes other praise, substantive support, or representation of designated entities or other policy violations, such as incitement to violence.
 
@@ -426,7 +443,7 @@ Please see our [Corporate Human Rights Policy](https://about.fb.com/wp-content/u
 
 #### We Remove:
 
-We remove Praise, Substantive Support, and Representation of various Dangerous Organizations. These concepts apply to the organizations themselves, their activities, and their members. These concepts do not proscribe peaceful advocacy for particular political outcomes.
+We remove praise, substantive support and representation of various dangerous organizations and individuals. These concepts apply to the organizations themselves, their activities, and their members. These concepts do not proscribe peaceful advocacy for particular political outcomes.
 
 **Praise**, defined as any of the below:
 
