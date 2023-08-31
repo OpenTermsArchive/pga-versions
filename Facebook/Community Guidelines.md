@@ -951,7 +951,7 @@ In addition to content condemning or raising awareness about human trafficking o
 
 Content that recruits people for, facilitates or exploits people through any of the following forms of human trafficking:
 
-* Sex trafficking
+* Sex trafficking (any commercial sexual activity with a minor or any commercial sexual activity with an adult involving force, fraud or coercion).
 * Sales of children or illegal adoption.
 * Orphanage trafficking and orphanage volun-tourism.
 * Forced marriages.
@@ -960,6 +960,8 @@ Content that recruits people for, facilitates or exploits people through any of 
 * Non-regenerative organ trafficking, not including organ removal, donation, or transplant in a non-exploitative organ donation context.
 * Forced criminal activity (e.g. forced begging, forced drug trafficking).
 * Recruitment of child soldiers.
+
+Content where a third party actor recruits for, facilitates or benefits from (financially or otherwise) commercial sexual activity
 
 Content that offers to provide or facilitate human smuggling
 
@@ -1384,7 +1386,7 @@ Account Integrity and Authentic Identity
 
 #### Policy Rationale
 
-Authenticity is the cornerstone of our community. We believe that authenticity helps create a community where people are accountable to each other, and to Facebook, in meaningful ways. We want to allow for the range of diverse ways that identity is expressed across our global community, while also preventing impersonation and identity misrepresentation. That is why we require people to connect on Facebook using the name they go by in everyday life. Our authenticity policies are intended to create a safe environment where people can trust and hold one another accountable.
+Authenticity is the cornerstone of our community. We believe that authenticity helps create a community where people are accountable to each other, and to Facebook, in meaningful ways. We want to allow for the range of diverse ways that identity is expressed across our global community, while also preventing impersonation and identity misrepresentation. That is why we require people to create a Facebook account using the name they go by in everyday life. Our authenticity policies are intended to create a safe environment where people can trust and hold one another accountable.
 
 In order to maintain a safe environment and empower free expression, we remove accounts that are harmful to the community, including those that compromise the security of other accounts and our services. We have built a combination of automated and manual systems to block and remove accounts that are used to persistently or egregiously abuse our Community Standards.
 
@@ -1415,7 +1417,7 @@ Because account level removal is a severe action, whenever possible, we aim to g
 #### In certain cases, such as those outlined below, we will seek further information about an account before taking actions ranging from temporarily restricting accounts to permanently disabling them.
 
 * Accounts misrepresenting their identity (Facebook and Messenger only) by:
-    * Using a name that is not the [authentic name](https://www.facebook.com/help/112146705538576?ref=ccs) you go by in everyday life
+    * Creating an account using a name that is not the [authentic name](https://www.facebook.com/help/112146705538576?ref=ccs) you go by in everyday life
         * Using an inherently violating name, containing slurs or any other violations of the [Community Standards](https://transparency.fb.com/policies/community-standards/)
     * Providing a false date of birth.
     * Creating a single account that represents or is used by more than one person.
