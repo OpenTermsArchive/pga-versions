@@ -1424,11 +1424,11 @@ Please remember these are just some examples, and don't post content if you thin
 What happens if content violates this policy
 --------------------------------------------
 
-If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
+If your content violates this policy, we'll remove the content and send you an email to let you know.
 
-If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
+If this is your first time violating our Community Guidelines, you'll likely get a warning. If it’s not, we may issue a strike against your channel. If you get 3 strikes within 90 days, your channel will be terminated. You can learn more about our strikes system [here](https://support.google.com/youtube/answer/2802032).
 
-If you get 3 strikes within 90 days, your channel will be terminated. [Learn more about our strikes system](https://support.google.com/youtube/answer/2802032).
+Violations may result in monetization being disabled on any of your accounts in accordance with our [YouTube channel monetization policies](https://support.google.com/youtube/answer/1311392). This can include warnings. If you feel this is a mistake, you can appeal. If the violation is overturned, you can apply for monetization once you're eligible in YouTube Studio.
 
 We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
