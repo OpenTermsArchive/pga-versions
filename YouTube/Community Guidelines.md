@@ -72,6 +72,11 @@ You'll find a full list of our Community Guidelines below:
 * [Medical misinformation](https://support.google.com/youtube/answer/13813322?hl=en)
     
 
+### Educational, Documentary, Scientific, and Artistic (EDSA) content
+
+* [How YouTube evaluates Educational, Documentary, Scientific, and Artistic (EDSA) content](https://support.google.com/youtube/answer/6345162?hl=en&hl=en&ref_topic=9282435&sjid=277005303270439027-NA)
+    
+
 In addition to Community Guidelines, creators who want to monetize content on YouTube must comply with [Monetization Policies](https://www.youtube.com/howyoutubeworks/policies/monetization-policies/).
 
 How does YouTube develop new policies and update existing ones?
@@ -112,6 +117,8 @@ EDSA exceptions are a critical way we make sure that important speech stays on Y
 
 ### Resources
 
+* [How YouTube evaluates Educational, Documentary, Scientific, and Artistic (EDSA) content](https://support.google.com/youtube/answer/6345162?hl=en&hl=en&ref_topic=9282435&sjid=277005303270439027-NA)
+    
 * [Read more about how we treat EDSA content on YouTube](https://blog.youtube/inside-youtube/look-how-we-treat-educational-documentary-scientific-and-artistic-content-youtube/)
     
 
