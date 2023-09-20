@@ -67,8 +67,8 @@ If you’ve not yet received a copy of the copyright complaint regarding the con
 
 In an effort to be as transparent as possible regarding the removal or restriction of access to user-posted content, we clearly mark withheld Tweets and media to indicate to viewers when content has been withheld (examples below).
 
-My content was removed from Twitter
-===================================
+My content was removed from X
+=============================
 
 #### Why did I receive a copyright complaint?
 
