@@ -26,7 +26,7 @@ Examples of the type of content that we may action under this policy includes, b
 
 ### What is not a violation of this policy?
 
-Twitter takes public interest factors into account when reviewing reports related to images and videos that depict deceased individuals. In limited circumstances, we might not remove this media, and/or limit its exposure, even on receipt of a valid report, e.g., police shootings or other newsworthy events.
+X takes public interest factors into account when reviewing reports related to images and videos that depict deceased individuals. In limited circumstances, we might not remove this media, and/or limit its exposure, even on receipt of a valid report, e.g., police shootings or other newsworthy events.
 
 ### Who can report violations of this policy?  
 
@@ -52,11 +52,11 @@ You can report this content for review via [our private information report form]
 ### What happens if you violate this policy?  
 
   
-We may permanently suspend your account if the majority of your activity on Twitter is sharing this type of media.
+We may permanently suspend your account if the majority of your activity on X is sharing this type of media.
 
 If you share this type of media in live video and profile images – the first time you violate this policy, we will require you to remove this content. If you violate this policy again after your first warning, your account may be permanently suspended.
 
-If shared in a Tweet, we may require you to remove this content, even if  shared inadvertently or to express shock, disbelief, or to denounce violent events.
+If shared in a post, we may require you to remove this content, even if  shared inadvertently or to express shock, disbelief, or to denounce violent events.
 
 If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
   
