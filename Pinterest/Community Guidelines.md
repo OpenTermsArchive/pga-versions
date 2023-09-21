@@ -110,7 +110,7 @@ We don’t allow content that reveals personal or sensitive information. We will
 * Photos of private people that they don’t want posted online
 * Personal financial or medical history
 
-If you come across unwanted photos of or information about you, you can report it to us. Minors or their authorized representatives can also reach out to privacy-support \[at\] pinterest.com regarding unwanted photos or information.
+If you come across unwanted photos of or information about you, you can report it to us. Minors or their authorized representatives can also reach out to privacy-support \[at\] pinterest.com (privacy-support\[at\]pinterest\[dot\]com) regarding unwanted photos or information.
 
 Self-injury and harmful behavior
 
