@@ -298,4 +298,4 @@ We provide these services to you and others to help advance our mission. In exch
 * Messaging services terms relevant for EU and EEA users: terms applicable to the messaging, voice and video calling services included in Facebook Products are listed [here](https://www.facebook.com/legal/terms/eecc/contract_summary) and [here](https://www.facebook.com/legal/terms/eecc/flyout) in accordance with EU rules.
 
   
-Date of Last Revision: July 5, 2023
+Date of Last Revision: July 5, 2023 Date of Last Revision: July 5, 2023
