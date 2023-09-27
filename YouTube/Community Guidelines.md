@@ -1080,7 +1080,7 @@ Harmful or dangerous content policy
 
 YouTube doesn’t allow content that encourages dangerous or illegal activities that risk serious physical harm or death.
 
-If you find content that violates this policy, [report it](https://support.google.com/youtube/answer/2802027).
+If you find content that violates this policy, [report it](https://support.google.com/youtube/answer/2802027). 
 
 **Skip to a specific section of this article:**
 
@@ -1125,6 +1125,7 @@ This content isn't allowed on YouTube:
 #### Illegal or regulated goods or services
 
 * For more info, review our [Illegal or regulated goods or services policy](https://support.google.com/youtube/answer/9229611).
+    
 
 Examples of harmful or dangerous content
 ----------------------------------------
