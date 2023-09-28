@@ -839,7 +839,7 @@ The websites [findahelpline.com](http://www.findahelpline.com/) and [www.wikiped
 | Netherlands | [Stichting 113Online](https://www.113.nl/) | 0900-0113 |
 | Singapore | [Samaritans of Singapore](https://www.sos.org.sg/) | 1800-221-4444 |
 | Spain | [Telèfon de l'Esperança de Barcelona](https://www.telefonoesperanza.com/)<br><br>[Teléfono de la Esperanza](https://www.telefonodelaesperanza.org/) | 93 414 48 48<br><br>717 003 717 |
-| South Korea | [한국자살예방협회](https://kfsp.org/) | 1393 |
+| South Korea | [보건복지부 자살예방상담전화](https://www.129.go.kr/1393/) | 1393 |
 | Taiwan | [生命線協談專線](http://www.life1995.org.tw/) | 1995 |
 | Thailand | [กรมสุขภาพจิต กระทรวงสาธารณสุข](https://www.dmh.go.th/service/view.asp?id=147) | 1323 |
 | United Kingdom | [Samaritans](https://www.samaritans.org/) | 116 123 |
