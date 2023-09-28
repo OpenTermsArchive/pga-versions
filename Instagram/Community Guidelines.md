@@ -983,9 +983,9 @@ Providing instructions on how to make or use explosives, unless there is clear c
 
 Any content containing statements of intent, calls for action, conditional or aspirational statements, or advocating for violence due to voting, voter registration or the administration or outcome of an election
 
-Statements of intent or advocacy, calls to action, or aspirational or conditional statements to bring or take up armaments to locations (including but not limited to places of worship, educational facilities, polling places or locations used to count votes or administer an election) or locations where there are temporary signals of a heightened risk of violence or offline harm. This may be the case, for example, when there is a known protest and counter-protest planned or violence broke out at a protest in the same city within the last 7 days. This includes a visual of an armament or method that represents violence that targets these locations.
+Statements of intent or advocacy, calls to action, or aspirational or conditional statements to bring or take up armaments to locations (including but not limited to places of worship, educational facilities, polling places or locations used to count votes or administer an election) or locations where there are temporary signals of a heightened risk of violence. This may be the case, for example, when there is a known protest and counter-protest planned or violence broke out at a protest in the same city within the last 7 days. This includes a visual of an armament or method that represents violence that targets these locations.
 
-Statements of intent or advocacy, calls to action, or aspirational or conditional statements to forcibly enter locations (including but not limited to places of worship, educational facilities, polling places or locations used to count votes or administer an election) where there are temporary signals of a heightened risk of violence or offline harm. This may be the case, for example, when there is a known protest and counter-protest planned or violence broke out at a protest in the same city within the last 7 days.
+Statements of intent or advocacy, calls to action, or aspirational or conditional statements to forcibly enter locations (including but not limited to places of worship, educational facilities, polling places or locations used to count votes or administer an election) where there are temporary signals of a heightened risk of violence. This may be the case, for example, when there is a known protest and counter-protest planned or violence broke out at a protest in the same city within the last 7 days.
 
 #### For the following Community Standards, we require additional information and/or context to enforce:
 
@@ -1126,10 +1126,10 @@ Note: This policy does not apply to individuals who are part of designated organ
 **Tier 1: Universal protections for everyone:**
 
 * Everyone is protected from:
-    * Repeated contact which is:
-        * Unwanted, or
-        * Sexually harassing, or
-        * Directed at a large number of individuals with no prior solicitation.
+    * Unwanted contact that is:
+        * Repeated, OR
+        * Sexually harassing, OR
+        * Is directed at a large number of individuals with no prior solicitation.
     * Calls for self-injury or suicide of a specific person, or group of individuals.
     * Attacks based on their experience of sexual assault, sexual exploitation, sexual harassment, or domestic abuse.
     * Statements of intent to engage in a sexual activity or advocating to engage in a sexual activity.
@@ -1211,7 +1211,7 @@ Do not:
 * Post content praising, celebrating or mocking anyone's death. We also remove content targeting a deceased individual that we would normally require the victim to report.
 * Post content calling for or stating an intent to engage in behavior that would qualify as bullying and harassment under our policies. We will remove this content when we have confirmation from the victim or an authorized representative of the victim that the content is unwanted.
 * Post content sexualizing a public figure. We will remove this content when we have confirmation from the victim or an authorized representative of the victim that the content is unwanted.
-* Repeatedly contact someone to sexually harass them. We will remove this content when we have confirmation from the victim or an authorized representative of the victim that the content is unwanted.
+* Initiate contact that is unwanted, including when contact is sexually harassing the recipient. We will remove any content shared in an unwanted context when we have a confirmation from the recipient, or an authorized representative of the recipient that contact is unwanted.
 * Engage in mass harassment against individuals that targets them based on their decision to take or not take the COVID-19 vaccine with:
     * Statements of mental or moral inferiority based on their decision, or
     * Statements that advocate for or allege a negative outcome as a result of their decision, except for widely proven and/or accepted COVID-19 symptoms or vaccine side effects.
