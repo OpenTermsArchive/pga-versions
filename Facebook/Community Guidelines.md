@@ -1530,6 +1530,8 @@ We remove misinformation or unverifiable rumors that expert partners have determ
 
 We know that sometimes misinformation that might appear benign could, in a specific context, contribute to a risk of offline harm, including threats of violence that could contribute to a heightened risk of death, serious injury, or other physical harm. We work with a global network of non-governmental organizations (NGOs), not-for-profit organizations, humanitarian organizations, and international organizations that have expertise in these local dynamics.
 
+In countries experiencing a heightened risk of societal violence, we work proactively with local partners to understand which false claims may directly contribute to a risk of imminent physical harm. We then work to identify and remove content making those claims on our platform. For example, in consultation with local experts, we may remove out-of-context media falsely claiming to depict acts of violence, victims or perpetrators of violence, weapons, or military hardware.
+
 **II. Harmful Health Misinformation**
 
 We consult with leading health organizations to identify health misinformation likely to directly contribute to imminent harm to public health and safety. The harmful health misinformation that we remove includes the following:
