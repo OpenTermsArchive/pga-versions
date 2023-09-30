@@ -1876,7 +1876,6 @@ Harmful substances & practices as prevention methods
     * High-grade hydrogen peroxide
     * Chelation therapy to treat autism
     * Colloidal silver
-    * Ozone therapy
     * Gasoline, diesel and kerosene
 * Content that promotes use of Ivermectin or Hydroxychloroquine for the prevention of COVID-19.
 
@@ -1956,7 +1955,6 @@ Harmful substances & practices as treatment methods
     * High-grade hydrogen peroxide
     * Chelation therapy to treat autism
     * Colloidal silver
-    * Ozone therapy
     * Gasoline, diesel and kerosene
 * Content that recommends the use of specific methods for the treatment of cancer when those have not been approved by local health authorities or the World Health Organization as safe or effective or have been confirmed to be harmful or ineffective for cancer treatment.
     * Examples:
@@ -2060,7 +2058,6 @@ Harmful substances & practices as prevention methods
     * High-grade hydrogen peroxide
     * Chelation therapy to treat autism
     * Colloidal silver
-    * Ozone therapy
     * Gasoline, diesel and kerosene
 * Content that promotes use of Ivermectin or Hydroxychloroquine for the prevention of COVID-19.
 
@@ -2140,7 +2137,6 @@ Harmful substances & practices as treatment methods
     * High-grade hydrogen peroxide
     * Chelation therapy to treat autism
     * Colloidal silver
-    * Ozone therapy
     * Gasoline, diesel and kerosene
 * Content that recommends the use of specific methods for the treatment of cancer when those have not been approved by local health authorities or the World Health Organization as safe or effective or have been confirmed to be harmful or ineffective for cancer treatment.
     * Examples:
