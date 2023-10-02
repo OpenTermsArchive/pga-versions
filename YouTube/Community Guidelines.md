@@ -209,7 +209,7 @@ Remember these are just some examples, and don't post content if you think it mi
 What happens if content violates this policy
 --------------------------------------------
 
-If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
+If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link. Note that violative URLs posted within the video itself or in the video’s metadata may result in the video being removed.
 
 If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
@@ -262,10 +262,6 @@ If your content violates this policy, we may terminate your channel or account. 
 External links policy
 =====================
 
-* **Linking changes on YouTube**: To reduce spam and scam attempts, links in [YouTube Shorts comments](https://support.google.com/youtube/answer/12816427) and Shorts descriptions will be non-clickable starting August 31, 2023–this change will roll out gradually. We're also retiring banner links on August 10, 2023, and introducing a new way to [showcase important links](https://support.google.com/youtube?p=channel_profile_links) on your channel page. You can start preparing channel profile links on August 10, and your audience will see them starting August 23. [Learn more about this change](https://yt.be/help/links).
-
-The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. **T****ake the time to carefully read the policy below**. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
-
 Links that send users to content that violates our [Community Guidelines](https://support.google.com/youtube/answer/9288567) are not allowed on YouTube. If you find content that violates this policy, [report it](https://support.google.com/youtube/answer/2802027). **Note**: Certain links may not be clickable. [Learn more here](https://support.google.com/youtube/answer/13748639#clickable).
 
 What this policy means for you
@@ -287,7 +283,7 @@ Don’t post links in your content on YouTube if they direct users to content th
 * Links to content ​​that spread medical misinformation contradicting local health authorities’ (LHA) or the World Health Organization’s (WHO) medical info about COVID-19
 * Links to websites or apps that spread misleading or deceptive content that can cause serious risk of egregious harm, such as interfering with democratic processes
 
-This policy applies to video, audio, channel, comments, pinned comments, live streams, and any other YouTube product or feature. Links can take any form that would direct a user to a site off YouTube. These links include: clickable urls, showing text of urls in videos or images, and obfuscated urls (such as writing “dot com” instead of “.com”). These links can also include verbally directing users to other sites or encouraging viewers to visit creator profiles or pages on other sites. This list is not complete.
+This policy applies to video, audio, channel, comments, pinned comments, live streams, and any other YouTube product or feature. Links can take any form that would direct a user to a site off YouTube. These links include: clickable urls, showing text of urls in videos or images, and obfuscated urls (such as writing “dot com” instead of “.com”). These links can also include verbally directing users to other sites, encouraging viewers to visit creator profiles or pages on other sites, or promising violative content on other sites. This list is not complete.
 
 **Note:** Affiliate content doesn't violate YouTube’s Terms of Use. Excessively posting affiliate content in dedicated accounts may violate our policies around spam. You can learn more about what's allowed in our [Spam, deceptive practices & scams policies](https://support.google.com/youtube/answer/2801973).
 
@@ -310,7 +306,7 @@ Remember that this list is not complete. If you think content might violate this
 What happens if content violates this policy
 --------------------------------------------
 
-If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
+If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link. Note that violative URLs posted within the video itself or in the video’s metadata may result in the video being removed.
 
 If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
@@ -471,7 +467,7 @@ Here are some examples of content that’s not allowed on YouTube.
 What happens if content violates this policy
 --------------------------------------------
 
-If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
+If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link. Note that violative URLs posted within the video itself or in the video’s metadata may result in the video being removed.
 
 If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
@@ -620,7 +616,7 @@ Additional Information
 What happens if content violates this policy
 --------------------------------------------
 
-If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
+If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link. Note that violative URLs posted within the video itself or in the video’s metadata may result in the video being removed.
 
 If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
@@ -771,7 +767,7 @@ More examples
 What happens if content violates this policy
 --------------------------------------------
 
-If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
+If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link. Note that violative URLs posted within the video itself or in the video’s metadata may result in the video being removed.
 
 If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
@@ -913,7 +909,7 @@ We recommend using these best practices in content related to eating disorders t
 What happens if content violates this policy
 --------------------------------------------
 
-If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
+If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link. Note that violative URLs posted within the video itself or in the video’s metadata may result in the video being removed.
 
 If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
@@ -969,7 +965,7 @@ We may allow vulgar language when the primary purpose is educational, documentar
 What happens if content violates this policy
 --------------------------------------------
 
-If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
+If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link. Note that violative URLs posted within the video itself or in the video’s metadata may result in the video being removed.
 
 If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
@@ -1067,7 +1063,7 @@ Remember, this list isn't exhaustive. Don't post content if you think it might v
 What happens if content violates this policy
 --------------------------------------------
 
-If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
+If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link. Note that violative URLs posted within the video itself or in the video’s metadata may result in the video being removed.
 
 If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
@@ -1237,7 +1233,7 @@ Examples of EDSA content
 What happens if content violates this policy
 --------------------------------------------
 
-If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
+If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link. Note that violative URLs posted within the video itself or in the video’s metadata may result in the video being removed.
 
 If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
@@ -1358,7 +1354,7 @@ Additional Information
 What happens if content violates this policy
 --------------------------------------------
 
-If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
+If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link. Note that violative URLs posted within the video itself or in the video’s metadata may result in the video being removed.
 
 If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
@@ -1548,7 +1544,7 @@ Remember these examples are just some examples, and don’t post content if you 
 What happens if content violates this policy
 --------------------------------------------
 
-If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
+If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link. Note that violative URLs posted within the video itself or in the video’s metadata may result in the video being removed.
 
 If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
@@ -1606,7 +1602,7 @@ Please remember these are just some examples, and don't post content if you thin
 What happens if content violates this policy
 --------------------------------------------
 
-If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
+If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link. Note that violative URLs posted within the video itself or in the video’s metadata may result in the video being removed.
 
 If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
@@ -1691,7 +1687,7 @@ Examples of age-restricted content
 What happens if content violates this policy
 --------------------------------------------
 
-If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
+If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link. Note that violative URLs posted within the video itself or in the video’s metadata may result in the video being removed.
 
 If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
@@ -1827,7 +1823,7 @@ Remember these are just some examples, and don't post content if you think it mi
 What happens if content violates this policy
 --------------------------------------------
 
-If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
+If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link. Note that violative URLs posted within the video itself or in the video’s metadata may result in the video being removed.
 
 If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
