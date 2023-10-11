@@ -18,7 +18,7 @@ Egal, ob du Musiker\*in oder Podcaster\*in bist oder auf andere Weise zu Spotify
 
 ### Gefährliche Inhalte
 
-Spotify wird genutzt, um Inhalte zu erstellen, sich selbst auszudrücken, zuzuhören, Ideen zu teilen, Neues zu lernen und sich inspirieren zu lassen. Es ist verboten, Gewalt zu verherrlichen, Hass zu schüren, andere zu belästigen oder sich auf eine Weise zu verhalten, die bei anderen Menschen zu einer Gefahr für schwere körperliche Schäden werden oder zum Tod führen kann. **Vermeide Folgendes:**
+Spotify wird genutzt, um Inhalte zu erstellen, sich selbst auszudrücken, zuzuhören, Ideen zu teilen, Neues zu lernen und sich inspirieren zu lassen. Es ist verboten, Gewalt zu verherrlichen, Hass zu schüren, andere zu belästigen bzw. zu mobben oder sich auf eine Weise zu verhalten, die bei anderen Menschen zu einer Gefahr für schwere körperliche Schäden werden oder zum Tod führen kann. **Vermeide Folgendes:**
 
 **Inhalte, die schwere Körperverletzungen einer Person oder Gruppe befürworten oder verherrlichen**, dazu zählen unter anderem:
 
@@ -35,6 +35,8 @@ Spotify wird genutzt, um Inhalte zu erstellen, sich selbst auszudrücken, zuzuh�
 **Inhalte, die sich gegen eine Person oder eine identifizierbare Gruppe richten, um sie zu belästigen, oder damit in Zusammenhang stehender Missbrauch**, dazu zählen unter anderem:
 
 * Wiederholtes Ansprechen bestimmter Personen mit sexuellen Annäherungsversuchen
+* Wiederholtes Ansprechen von Minderjährigen, um sie zu beschämen oder einzuschüchtern
+* Teilen oder Weitergeben intimer Inhalte ohne Erlaubnis sowie Drohungen, solche Inhalte zu verbreiten oder preiszugeben
 * Weitergabe, Androhung der Weitergabe oder Aufforderung zur Weitergabe privater Informationen, einschließlich Kreditkarten- oder Bankdaten, Personalausweisnummern usw.
 
 **Inhalte, die zu Gewalt oder Hass gegen eine Person oder eine Gruppe von Personen aufrufen, aufgrund von Hautfarbe, Religion, Geschlechtsidentität oder -ausdruck, Geschlecht, ethnischer Zugehörigkeit, Nationalität, sexueller Orientierung, Veteranenstatus, Alter, Behinderung oder anderen Merkmalen, die mit systemischer Diskriminierung oder Marginalisierung verbunden sind**, dazu zählen unter anderem:
@@ -116,15 +118,22 @@ Gesetz ist Gesetz. Unabhängig davon, wer du bist, liegt es in deiner Verantwort
 * Inhalte, die Spotify ohne das Einholen der erforderlichen Genehmigungen zur Verfügung gestellt werden
 * Inhalte, die die Urheberrechte oder Markenrechte von Dritten verletzen
 
-Was passiert mit Personen, die gegen die Regeln verstoßen?
-----------------------------------------------------------
+**Wie setzt Spotify diese Regeln durch?**
+-----------------------------------------
 
-Wir nehmen diese Entscheidungen ernst und berücksichtigen bei der Entscheidungsfindung den Kontext. Ein Verstoß gegen die Regeln kann dazu führen, dass der betreffende Inhalt von Spotify entfernt wird. Wiederholte oder schwerwiegende Verstöße können zur Sperrung und/oder Löschung von Konten führen.
+Spotify ist bestrebt, diese Regeln mit einer Kombination aus Technologie und menschlicher Überprüfung weltweit einheitlich und in großem Umfang durchzusetzen. Zusätzlich zu Meldungen unserer Nutzer\*innen setzen wir automatisierte Tools ein, die anhand einer Kombination von Signalen Inhalte erkennen, die gegen unsere Plattformregeln verstoßen könnten.  
+  
+Wir verfügen über globale Teams aus Expert\*innen, die unsere Plattformregeln entwickeln, pflegen und durchsetzen. Wenn potenziell verletzende Inhalte gemeldet oder entdeckt werden, ergreifen unsere Teams die entsprechenden Maßnahmen.  
+
+Was passiert, wenn jemand gegen die Regeln verstößt?
+----------------------------------------------------
+
+Wir nehmen diese Entscheidungen ernst und berücksichtigen den Kontext, wenn wir mögliche Verstöße gegen die Plattformregeln beurteilen. Ein Verstoß gegen die Regeln kann dazu führen, dass der betreffende Inhalt von Spotify entfernt wird. Wiederholte oder schwerwiegende Verstöße können zur Sperrung und/oder Löschung von Konten führen. Weitere Infos zu den Maßnahmen, die wir bezüglich Inhalten oder Konten ergreifen können, findest du [hier](https://www.spotify.com/platform-rules/actions/).
 
 Was muss ich sonst noch wissen?
 -------------------------------
 
-Diese Plattformregeln werden dazu beitragen, dass Spotify eine offene und sichere Plattform für alle bleibt. Wir bewerten diese Informationen kontinuierlich und aktualisieren sie bei Bedarf, schau also regelmäßig vorbei. Je nachdem, welche Spotify Produkte oder Features du nutzt, können zusätzliche Anforderungen gelten. Beachte diese bitte ebenfalls. Zusätzlich zu den oben genannten Maßnahmen stehen uns weitere zur Verfügung, die wir in Bezug auf Inhalte ergreifen können. Mehr Infos gibt’s [hier](https://www.spotify.com/de/article/content-actions/plain/).
+Diese Plattformregeln werden dazu beitragen, dass Spotify eine offene und sichere Plattform für alle bleibt. Wir bewerten diese Informationen kontinuierlich und aktualisieren sie bei Bedarf, schau also regelmäßig vorbei. Je nachdem, welche Spotify Produkte oder Features du nutzt, können zusätzliche Anforderungen gelten.
 
 Wie melde ich ein Problem?
 --------------------------
