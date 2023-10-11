@@ -8,7 +8,7 @@ These guidelines are intended for law enforcement authorities seeking informatio
   
 X is a real-time global information network that lets users create and share ideas and information instantly to serve the public conversation. X is what’s happening in the world and what people are talking about right now. When it happens, it happens on X.
 
-For more information, please visit [about.twitter.com](https://about.twitter.com/). For the latest on X's features and functionality, please visit our [Help Center](https://help.twitter.com/en.html).  
+For more information, please visit [about.x.com](https://about.twitter.com/). For the latest on X's features and functionality, please visit our [Help Center](https://help.twitter.com/en.html).  
  
 
 ### Account Information Requests
@@ -21,9 +21,9 @@ A X account profile often contains a profile photo, header photo, background ima
 ### Does X have access to user-generated photos or videos?  
 
   
-X provides photo hosting for some image uploads (i.e., pic.X.com images) as well as X account profile photos, and header photos. However, X is not the sole photo provider for images that may appear on the X platform. More information about [posting photos on X](https://help.twitter.com/en/using-twitter/tweeting-gifs-and-pictures.html).
+X provides photo hosting for some image uploads (i.e., pic.x.com images) as well as X account profile photos, and header photos. However, X is not the sole photo provider for images that may appear on the X platform. More information about [posting photos on X](https://help.twitter.com/en/using-twitter/tweeting-gifs-and-pictures.html).
 
-X provides video hosting for some videos uploaded to X (i.e., pic.twitter.com videos) as well as those posted to Periscope. Please note that X is not the sole video provider for videos that may appear on the X platform.
+X provides video hosting for some videos uploaded to X (i.e., pic.xr.com videos) as well as those posted to Periscope. Please note that X is not the sole video provider for videos that may appear on the X platform.
 
 Links shared on X, including links shared in Direct Messages, will automatically be processed and shortened to an [https://t.co](https://t.co/) link. When you see a [https://t.co](https://t.co/) link, this is not an indication that the video or image is hosted by X.
 
@@ -52,7 +52,7 @@ Periscope retains different types of information for different time periods. Bro
 ### Data Controller  
 
   
-For people who live in the United States or any other country outside of the European Union or the European Economic Area, the data controller responsible for personal data is X Corp. based in San Francisco, California. For people who live in the European Union or the European Economic Area, the data controller is X International Unlimited Company based in Dublin, Ireland.
+For people who live in the United States or any other country outside of the European Union or the European Economic Area, the data controller responsible for personal data is X Corp. based in San Francisco, California. For people who live in the European Union or the European Economic Area, the data controller is Twitter International Unlimited Company based in Dublin, Ireland.
 
 ### Preservation requests
 
@@ -64,19 +64,19 @@ Preservation requests, in accordance with applicable law, should:
 * be signed by the requesting official;
 * have a valid return official email address;
 * be sent on law enforcement letterhead in a non-editable format;
-* include the @username and URL of the subject X profile (e.g. [https://twitter.com/twittersafety](https://twitter.com/TwitterSafety) (@twittersafety), and/or the X account's unique, public user identification number (UID) or a Periscope username and URL (e.g., @twittersafety and [https://periscope.tv/twittersafety](https://www.periscope.tv/TwitterSafety/1dRJZAOLjboGB)). To locate a X UID see [here](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support#5.7) or to locate a Periscope username see [here](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support#5.7).  
+* include the @username and URL of the subject X profile (e.g. [https://x.com/safety](https://twitter.com/Safety) (@safety), and/or the X account's unique, public user identification number (UID) or a Periscope username and URL. To locate a X UID see [here](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support#5.7) or to locate a Periscope username see [here](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support#5.7).  
      
 
 We may honor requests for extensions of preservation requests, but encourage law enforcement agencies to seek records through the appropriate channels in a timely manner, as we cannot guarantee that requested information will be available.
 
 If you will be submitting a preservation extension request, we recommend that you submit it at least a week (7 days) prior to the end of the preservation period, to allow for sufficient processing time.
 
-Law enforcement and government preservation requests for user information may be submitted through our Legal Request Submissions site (t.co/lr or [http://legalrequests.twitter.com](https://legalrequests.twitter.com/forms/landing_disclaimer)). Please submit preservation extensions as a separate request. You can find further instructions [below](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support#17.5).
+Law enforcement and government preservation requests for user information may be submitted through our Legal Request Submissions site (t.co/lr or [http://legalrequests.x.com](https://legalrequests.twitter.com/forms/landing_disclaimer)). Please submit preservation extensions as a separate request. You can find further instructions [below](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support#17.5).
 
 ### Requests for X account information  
 
   
-Requests for user account information from law enforcement should be directed to X Corp. in San Francisco, California or X International Unlimited Company in Dublin, Ireland. X responds to valid legal process issued in compliance with applicable law.
+Requests for user account information from law enforcement should be directed to X Corp. in San Francisco, California or Twitter International Unlimited Company in Dublin, Ireland. X responds to valid legal process issued in compliance with applicable law.
 
 ### **Private information requires a subpoena or court order**  
 
@@ -94,15 +94,15 @@ Yes. For purposes of [transparency and due process](https://help.twitter.com/en/
 
 Requests for user account information in accordance with applicable law, are required to include the following information:
 
-* Include the X @username and URL of the subject X account in question (e.g., [https://twitter.com/twittersafety](https://twitter.com/TwitterSafety) (@twittersafety) or an account's unique, public user identification number or UID;
-* And/or include the valid Periscope username and URL (e.g., @twittersafety and [https://periscope.tv/twittersafety](https://periscope.tv/twittersafety)). Find instructions on [locating a Periscope username](https://help.twitter.com/en/rules-and-policies/twitter-report-violation#periscope-info) here;
+* Include the X @username and URL of the subject X account in question (e.g., [https://x.com/Safety](https://twitter.com/TwitterSafety) (@Safety) or an account's unique, public user identification number or UID;
+* And/or include the valid Periscope username and URL. Find instructions on [locating a Periscope username](https://help.twitter.com/en/rules-and-policies/twitter-report-violation#periscope-info) here;
 * Provide details about what specific information is requested (e.g., basic subscriber information) and its relationship to your investigation;
     * **NOTE**: Please ensure that the information you seek is not publicly available (e.g., posts that are not protected). We are unable to process overly broad or vague requests.
 * Include a **valid official email address** (e.g., name@agency.gov) so we may get back in touch with you upon receipt of your legal process;
 * Be issued on law enforcement letterhead.  
      
 
-Law enforcement and government requests for user information may be submitted through our Legal Request Submissions site (https://t.co/lr or [https://legalrequests.twitter.com](https://legalrequests.twitter.com/forms/landing_disclaimer)). You can find further instructions below.
+Law enforcement and government requests for user information may be submitted through our Legal Request Submissions site (https://t.co/lr or [https://legalrequests.x.com](https://legalrequests.twitter.com/forms/landing_disclaimer)). You can find further instructions below.
 
 ### **Production of records**  
 
@@ -134,7 +134,7 @@ Please include all of the following information:
     
 * Identity of the person who is in danger of death or serious physical injury;
 * The nature of the emergency (e.g., report of suicide, terrorist attack, bomb threat);
-* X @username and URL (e.g., [https://twitter.com/XSafety](https://twitter.com/TwitterSafety) (@twittersafety) of the subject account(s) whose information is necessary to prevent the emergency;
+* X @username and URL (e.g., [https://x.com/Safety](https://twitter.com/Safety) (@Safety) of the subject account(s) whose information is necessary to prevent the emergency;
 * Any [specific posts](https://help.twitter.com/en/using-twitter/tweet-and-moment-url) you would like us to review;
 * The specific information requested and why that information is necessary to prevent the emergency;
 * The signature of the submitting law enforcement officer; and
@@ -161,7 +161,7 @@ Along with identifying the specific post(s) or account(s) at issue, please ident
 
 X will promptly notify affected users about legal requests to withhold content, including a copy of the original request, unless we are legally prohibited from doing so. If you believe X is prohibited from notifying the user, please state the reason in your request, including citations to relevant law (where applicable), and/or upload any documents supporting this prohibition in the "File attachments" section, if available.
 
-Government and law enforcement reporters may also request the withholding of content determined to be illegal in their jurisdiction by mailing a hard copy of your request to the contact information listed below. If you are based in the European Union or the European Economic Area, please mail your request to X International Unlimited Company in Ireland (see “Contact Information” section below). Requests submitted by mail should expect longer response times. 
+Government and law enforcement reporters may also request the withholding of content determined to be illegal in their jurisdiction by mailing a hard copy of your request to the contact information listed below. If you are based in the European Union or the European Economic Area, please mail your request to Twitter International Unlimited Company in Ireland (see “Contact Information” section below). Requests submitted by mail should expect longer response times. 
 
 Find more information on our Country Withheld Content policy [here](https://help.twitter.com/en/rules-and-policies/tweet-withheld-by-country).
 
@@ -185,7 +185,7 @@ General inquiries from law enforcement or government officials (not requesting u
 ### Where to submit requests
 
   
-All legal requests, including preservations, requests for account information (routine and emergency), and content removal requests may be submitted via X’s Legal Request Submissions site available at: t.co/lr or [legalrequests.twitter.com](https://legalrequests.twitter.com/forms/landing_disclaimer).
+All legal requests, including preservations, requests for account information (routine and emergency), and content removal requests may be submitted via X’s Legal Request Submissions site available at: t.co/lr or [legalrequests.x.com](https://legalrequests.twitter.com/forms/landing_disclaimer).
 
 X’s Legal Request Submission site is the designated single point of contact as provided under Article 11 of Regulation (EU) 2022/2065 (Digital Services Act).
 
@@ -209,7 +209,7 @@ Our address details are:
 1355 Market Street, Suite 900  
 San Francisco, CA 94103
 
-**X International Unlimited Company  
+**Twitter International Unlimited Company  
 **c/o Trust & Safety - Legal Policy  
 One Cumberland Place  
 Fenian Street  
