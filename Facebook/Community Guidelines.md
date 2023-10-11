@@ -119,14 +119,18 @@ Do not post:
 * Violent threats against law enforcement officers.
 * Violent threats against people accused of a crime. We remove this content when we have reason to believe that the content is intended to cause physical harm.
 
-* Coded statements where the method of violence or harm is not clearly articulated, but the threat is veiled or implicit. Meta looks at the below signals to determine whether there is a threat of harm in the content.
+* Coded statements where the method of violence is not clearly articulated, but the threat is veiled or implicit, as shown by the combination of both a threat signal and contextual signal from the list below.
+* Threat: Content is a coded statement that is one of the following:
 
-* Shared in a retaliatory context (e.g., expressions of desire to do something harmful to others in response to a grievance or threat that may be real, perceived or anticipated)
+* Shared in a retaliatory context (e.g., expressions of desire to engage in violence against others in response to a grievance or threat that may be real, perceived or anticipated)
 * References to historical or fictional incidents of violence (e.g., content that threatens others by referring to known historical incidents of violence that have been executed throughout history or in fictional settings)
-* Acts as a threatening call-to-action (e.g. content inviting or encouraging others to carry out harmful acts or to join in carrying out the harmful acts)
-* Indicates knowledge of or shares sensitive information that could expose others to harm (e.g. content that either makes note of or implies awareness of personal information that might make a threat of physical violence more credible. This includes implying knowledge of a person's residential address, their place of employment or education, daily commute routes or current location)
-* Local context or subject matter expertise confirms that the statement in question could be threatening and/or could lead to imminent violence or physical harm.
-* The subject of the threat reports the content to us.
+* Acts as a threatening call-to-action (e.g. content inviting or encouraging others to carry out violent acts or to join in carrying out the violent acts)
+* Indicates knowledge of or shares sensitive information that could expose others to violence (e.g. content that either makes note of or implies awareness of personal information that might make a threat of violence more credible. This includes implying knowledge of a person's residential address, their place of employment or education, daily commute routes or current location)
+
+* Context:
+
+* Local context or expertise confirms that the statement in question could lead to imminent violence.
+* The target of the content or an authorized representative reports the content to us.
 
 * Threats against election workers, including claims of election-related wrongdoing against private individuals when combined with a signal of violence or additional context that confirms that the claim could lead to imminent violence or physical harm.
 * Implicit statements of intent or advocacy, calls to action, or aspirational or conditional statements to bring armaments to locations, including but not limited to places of worship, educational facilities, polling places, or locations used to count votes or administer an election (or encouraging others to do the same). We may also restrict calls to bring armaments to certain locations where there are temporarily signals of a heightened risk of violence or offline harm. This may be the case, for example, when there is a known protest and counter-protest planned or violence broke out at a protest in the same city within the last 7 days
