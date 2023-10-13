@@ -1,9 +1,3 @@
-Einfache Verwaltung deines Spotify Kontos
-
-Deine Infos, Zahlungsoptionen und Datenschutzeinstellungen an einem Ort.
-
-[Zum Konto](https://www.spotify.com/account/)
-
 Spotify Plattformregeln
 =======================
 
