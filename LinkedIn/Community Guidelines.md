@@ -29,7 +29,9 @@ Thank you for using LinkedIn, where the world’s professionals come together to
 
 * ### Tell us if you see abusive content
     
-    If you see something you believe may violate our policies, whether in profiles, posts, messages, comments, or anywhere else, please [report it to us](https://www.linkedin.com/help/linkedin/answer/146). Combined with our automated defenses, these reports help us identify and prevent abuse. Please use the reporting tools responsibly and only for their intended purposes. To learn more about how to report inappropriate content, behavior, or members, visit our [Safety Center](https://safety.linkedin.com/identifying-abuse).
+    If you see something you believe may violate our policies, whether in profiles, posts, messages, comments, or anywhere else, please [report it to us](https://www.linkedin.com/help/linkedin/answer/146). Combined with our automated defenses, these reports help us identify and prevent abuse. Users can report content by clicking on the three dots icon in the upper right-hand corner of the content itself on LinkedIn. Please use the reporting tools responsibly and only for their intended purposes. To learn more about how to report inappropriate content, behavior, or members, visit our [Transparency Center](https://about.linkedin.com/transparency).
+    
+    In addition to LinkedIn's trained content reviewers, we use automated systems to identify potentially violative content. Violating content can be removed from LinkedIn. Learn more about our approach to content moderation, including our automated systems, [here](https://www.linkedin.com/help/linkedin/answer/a1441504).
     
 * ### Violating our community policies can result in action against your account or content
     
@@ -43,7 +45,7 @@ Thank you for using LinkedIn, where the world’s professionals come together to
     
     Only bring safe conversations to LinkedIn.
     
-    **Do not post harassing content:** We don’t allow bullying or harassment. This includes targeted personal attacks, intimidation, shaming, disparagement, and abusive language directed at other members. Do not reveal others' personal or sensitive information (aka "doxing"), or incite others to do the same. You may not engage in trolling or other repetitive negative content that disrupts other members or conversations on the platform.
+    **Do not post harassing content:** We don’t allow bullying or harassment. This includes targeted personal attacks, intimidation, shaming, disparagement, and abusive language directed at other members. Do not reveal others' personal or sensitive information (for example, doxing), or incite others to do the same. You may not engage in trolling or other repetitive negative content that disrupts other members or conversations on the platform.
     
     Learn more about our [harassing and abusive content policies](https://www.linkedin.com/help/linkedin/answer/137369)**.**
     
@@ -98,7 +100,9 @@ Thank you for using LinkedIn, where the world’s professionals come together to
     Learn more about our [spam content policies](https://www.linkedin.com/help/linkedin/answer/137372).
 
 Harassment and abusive content
-==============================
+------------------------------
+
+Last updated: 11 months ago
 
 As a professional network, LinkedIn maintains a high standard for safe and civil conversations between members. Our policies prohibit a wide range of actions and behaviors associated with harassment, bullying, or other abusive conduct.
 
@@ -129,11 +133,10 @@ We also allow members to call out the harassing, hateful, or otherwise abusive c
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
 
-More help
----------
-
 Violent and graphic content
-===========================
+---------------------------
+
+Last updated: 2 months ago
 
 We remove depictions of extreme violence, along with image or video content that is excessively gory, gruesome, or disturbingly shocking.
 
@@ -157,15 +160,14 @@ Examples of violent and graphic content
 
 Conversations on LinkedIn are often reflective of the world around us; which means that at any given time, our global member base may be impacted by military conflict, state actor violence, natural disasters, or catastrophic incidents. In cases where violent or graphic content is shared in connection with a newsworthy event, we may label such content instead of removing it from LinkedIn.
 
-We also recognize that graphic content or content that may otherwise be sensitive for some members, may be shared to raise awareness or condemn. We won’t penalize members for posting content in these circumstances, but we may take steps to label and obscure such content to protect other members who may not wish to see it.
+We also recognize that graphic content or content that may otherwise be sensitive for some members, may be shared to raise awareness or condemn. We won’t penalize members for posting content in these circumstances, but we may take steps to limit its distribution to protect other members who may not wish to see it.
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
 
-More help
----------
-
 Nudity and adult content
-========================
+------------------------
+
+Last updated: 11 months ago
 
 We remove content containing nudity or sexual activity.
 
@@ -182,11 +184,10 @@ Do not share material depicting nudity or sexual activity. We don’t allow cont
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
 
-More help
----------
-
 Illegal, dangerous, and inappropriate commercial activity
-=========================================================
+---------------------------------------------------------
+
+Last updated: 11 months ago
 
 We don’t allow individuals or entities to engage in inappropriate or unsafe commercial transactions on our platform. We remove content that promotes, distributes, facilitates access to, or attempts to sell illegal or regulated goods and services.
 
@@ -214,11 +215,10 @@ Examples of illegal, dangerous, and inappropriate commercial content
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
 
-More help
----------
-
 Dangerous organizations and individuals
-=======================================
+---------------------------------------
+
+Last updated: 11 months ago
 
 We do not allow organizations or individuals that espouse violence on LinkedIn, including terrorist organizations, violent extremist groups, and individuals affiliated with such groups or activity. We also restrict profiles and pages associated with dangerous organizations and individuals regardless of whether they have posted violative content.
 
@@ -240,17 +240,16 @@ Depictions of terrorist or violent extremist acts can sometimes raise awareness 
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
 
-More help
----------
-
 False or misleading content
-===========================
+---------------------------
 
-It is a violation of [LinkedIn’s Professional Community Policies](https://www.linkedin.com/legal/professional-community-policies) to post false or misleading content. We remove specific claims, presented as fact, that are demonstrably false or substantially misleading. We also remove content that contains disputed claims relating to sensitive political or socially divisive topics that we are unable to establish as true or untrue and are likely to cause physical harm or violence.
+Last updated: 2 months ago
 
-Examples of false or misleading content
+It is a violation of [LinkedIn’s Professional Community Policies](https://www.linkedin.com/legal/professional-community-policies) to post false or misleading content. We remove specific claims, presented as fact, that are demonstrably false or substantially misleading and likely to cause harm. Content that is false or substantially misleading but not likely to cause harm is not eligible for distribution beyond the author’s network.
 
-* False claims that undermine trust and discourage participation in civic processes or misleads voters about the time, location, means, or eligibility requirements for voting
+Examples of false or misleading content that is removed under this policy
+
+* False or substantially misleading content about the following in the context of an upcoming or recently-concluded election: time, location, means, or eligibility requirements for voting
     
 * Claims that may induce panic or discourage others from taking safety precautions during an emergency, such as unfounded claims of threats, violence, or danger that could cause harm (e.g. looters are prevalent in an area subject to forest fires)
     
@@ -281,11 +280,10 @@ Examples of false or misleading content
 
 To learn more about when we remove content that violates our Professional Community Policies, see [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
 
-More help
----------
-
 Scams and fraud content
-=======================
+-----------------------
+
+Last updated: 11 months ago
 
 We don’t tolerate content intended to scam, defraud, or deceive others for monetary gain. We remove phishing links, malware, known or suspected scam content, and fraudulent content and permanently restrict the accounts of known fraudsters or scammers.
 
@@ -308,11 +306,10 @@ We allow members to raise awareness and educate others about scams, as well as c
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
 
-More help
----------
-
 Hateful and derogatory content
-==============================
+------------------------------
+
+Last updated: 11 months ago
 
 Hate speech, symbols, and groups are prohibited on LinkedIn. We remove content that attacks, denigrates, intimidates, dehumanizes, incites or threatens hatred, violence, prejudicial or discriminatory action against individuals or groups because of their actual or perceived race, ethnicity, national origin, caste, gender, gender identity, sexual orientation, religious affiliation, or disability status.
 
@@ -345,11 +342,10 @@ We also allow members to call out actual or perceived hateful, prejudicial, or d
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
 
-More help
----------
-
 Sexual innuendos and unwanted advances
-======================================
+--------------------------------------
+
+Last updated: 11 months ago
 
 Members come to LinkedIn to foster professional connections, learn new skills, and connect to economic opportunity, not to be sexually harassed or subjected to unwanted advances. We remove content that expresses physical or sexual attraction towards others, requests a romantic relationship, or subjects others to sexually suggestive or explicit content.
 
@@ -368,11 +364,10 @@ Examples of sexual innuendos and unwanted advances
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
 
-More help
----------
-
 Violent and graphic content
-===========================
+---------------------------
+
+Last updated: 2 months ago
 
 We remove depictions of extreme violence, along with image or video content that is excessively gory, gruesome, or disturbingly shocking.
 
@@ -396,15 +391,14 @@ Examples of violent and graphic content
 
 Conversations on LinkedIn are often reflective of the world around us; which means that at any given time, our global member base may be impacted by military conflict, state actor violence, natural disasters, or catastrophic incidents. In cases where violent or graphic content is shared in connection with a newsworthy event, we may label such content instead of removing it from LinkedIn.
 
-We also recognize that graphic content or content that may otherwise be sensitive for some members, may be shared to raise awareness or condemn. We won’t penalize members for posting content in these circumstances, but we may take steps to label and obscure such content to protect other members who may not wish to see it.
+We also recognize that graphic content or content that may otherwise be sensitive for some members, may be shared to raise awareness or condemn. We won’t penalize members for posting content in these circumstances, but we may take steps to limit its distribution to protect other members who may not wish to see it.
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
 
-More help
----------
-
 Spam
-====
+----
+
+Last updated: 11 months ago
 
 The quality of conversations on LinkedIn depends on healthy, relevant content. We may remove or limit the distribution of content designed to artificially increase engagement through misuse or misrepresentation of LinkedIn’s features.
 
@@ -420,6 +414,3 @@ Examples of spam
     
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
-
-More help
----------
