@@ -1206,7 +1206,7 @@ Live streams of capital punishment of a person
 * Sadistic remarks towards imagery that is put behind a warning screen under this policy advising people that the content may be disturbing, unless there is a self-defense context or medical setting.
 * Sadistic remarks towards the following content which includes a label so that people are aware it may be sensitive:
     * Imagery of one or more persons subjected to violence and/or humiliating acts by one or more uniformed personnel doing a police function.
-    * Imagery of fetuses or newborn babies.
+    * Imagery of fetuses and babies outside of the womb that are deceased.
     * Explicit sadistic remarks towards the suffering of animals depicted in the imagery.
 * Offering or soliciting imagery that is deleted or put behind a warning screen under this policy, when accompanied by sadistic remarks.
 
@@ -1253,13 +1253,9 @@ Imagery of non-medical foreign objects inserted into a person through their skin
 
 Imagery of visible innards in a birthing context
 
-Imagery of fetuses and newborn babies that show:
+Imagery of fetuses and babies outside of the womb that are deceased, unless another person is present in the image.
 
-* Dismemberment.
-* Visible innards.
-* An abortion or abandonment context.
-
-Imagery of newborn babies in an abandonment context
+Imagery of fetuses and babies outside the womb in an abandonment context
 
 Imagery of animals in a ritual slaughter context showing dismemberment, or visible innards, or charring or burning
 
