@@ -787,6 +787,8 @@ If we determine someone has engaged in any of these deceptive account behaviors,
 
 * * *
 
+Regulated Goods and Commercial Activities
+
 We want everyone on TikTok to have access to information that can support them in making informed choices about their personal health and finances. To ensure we provide a space for people to learn without undue risk of physical or financial harm, we moderate content that involves goods or activities that may be risky, addictive, dangerous, fraudulent, or otherwise require a higher degree of care. For certain goods and services (such as gambling and alcohol), we make limited exceptions for paid ads by advertisers with TikTok’s explicit permission, provided they are compliant with all relevant age-targeting restrictions, laws, and regulations (learn more about our [advertisement policy](https://ads.tiktok.com/help/article/advertising-on-tiktok-first-things-to-note?lang=en)).
 
 ### Gambling
@@ -932,6 +934,8 @@ Learn more about how to [identify online scams](https://www.tiktok.com/safety/sc
 * Organizational fraud, such as money laundering and moving illegally acquired money for someone else (money muling)
 * Recruitment for companies that sell products or services in a pyramid structure through independent distributors (multi-level marketing or MLM)
 * Facilitating the trade of fake currency, documents, and stolen information
+
+* * *
 
 Privacy and Security
 
