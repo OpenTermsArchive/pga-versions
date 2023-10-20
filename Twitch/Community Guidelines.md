@@ -106,7 +106,7 @@ Youth Safety
 Off-Service Conduct
 -------------------
 
-For streamers and their viewers to build vibrant and dynamic communities, everyone must feel secure and protected. We believe that some off-service offenses committed by Twitch users can create a substantial safety risk to the Twitch community. As a result, **Twitch enforces against certain severe offenses that occur off Twitch when committed by members of the Twitch community**, up to an indefinite suspension on the first offense for some behaviors.
+For streamers and their viewers to build vibrant and dynamic communities, everyone must feel secure and protected. We believe that some off-service offenses committed by Twitch users can create a substantial safety risk to the Twitch community. As a result, **Twitch enforces against certain severe offenses that occur off Twitch when committed by members of the Twitch community.**
 
 [](#)
 
@@ -120,9 +120,17 @@ For streamers and their viewers to build vibrant and dynamic communities, everyo
 * Sexual exploitation of youth, such as grooming and/or solicitation/distribution of CSAM
 * Actions that would directly and explicitly compromise the physical safety of the Twitch community
 * Explicit and/or credible threats against Twitch, including Twitch staff
-* Harmful misinformation actors, or persistent misinformation superspreaders
+* Harmful misinformation actors that are persistent misinformation superspreaders
+* Doxxing: Sharing personally identifiable information with malicious intent, such as revealing another person’s:
+    * Mailing address
+    * Home address
+    * Work or school addresses 
+    * Physical location
+    * Sensitive financial information 
+    * Government IDs
+* Swatting: Deliberately submitting false reports to emergency services to have police break into another person’s address
 
-Users can contact the Twitch [Off-Service Investigations Team](mailto:OSIT@twitch.tv) to report cases of any abhorrent and impactful off-service abuses listed above. These reports go directly to our global team responsible for investigating allegations of severe off-service offenses, and are handled with complete confidentiality.  
+Users can contact the Twitch [Off-Service Investigations team](mailto:OSIT@twitch.tv) to report cases of any abhorrent and impactful off-service abuses listed above. These reports go directly to our global team responsible for investigating allegations of severe off-service offenses, and are handled with complete confidentiality.  
 
 **Evidence for Off-Service reports**
 
@@ -152,11 +160,11 @@ Twitch will not actively monitor other websites or services for violations of ou
 
 **Why is Twitch moderating off-Twitch conduct?**
 
-We recognize that toxicity and abuse can spread to Twitch from outside our service. Our desire to moderate verifiable off-Twitch behavior stems from our belief that ignoring conduct when we are able to verify that the behavior is true and attribute it to a Twitch account compromises one of our most important goals: that every Twitch user who participates in good faith can bring their authentic self to the Twitch community without fear of harm or harassment.
+Community is the heart of Twitch, and our goal is to foster a community where users can bring their authentic selves without fear of harm. We recognize that harm towards Twitch community members can sometimes originate from outside our service. When we are able to verify that harmful behavior occurred off-Twitch and can be attributed to a Twitch account, we believe that it is our responsibility to take action.
 
 **How does off-Twitch conduct influence on-service decisions?**
 
-To mitigate this harm and in addition to our Hateful Conduct & Harassment Policy, we will take reported off-service context into account when evaluating violations of any of our policies that occur on Twitch. If we are able to verify reports of off-service statements or behaviors that relate to an incident on Twitch, we will use this evidence to support and inform our enforcement decisions. If the off-service behavior does not involve an incident on Twitch, we may not investigate unless it is one of the severe offenses listed above. 
+We recognize that toxicity and abuse can spread to Twitch from outside our services in a way that is detrimental to our community. To mitigate this harm, we will take reported off-service context into account when evaluating violations of any of our Community Guidelines that occur on Twitch. If we are able to verify reports of off-service statements or behaviors that relate to an incident on Twitch, we will use this evidence to support and inform our enforcement decisions. If the off-service behavior does not involve an incident on Twitch, we will not investigate unless it is one of the severe offenses listed above. 
 
 Unauthorized Sharing of Private Information
 -------------------------------------------
