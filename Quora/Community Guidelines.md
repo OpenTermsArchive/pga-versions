@@ -1,29 +1,3 @@
-Acceptable Use Policy
-
-Last updated: September 27, 2022
-
-Quora is a place that empowers people to share and grow the world's knowledge. The following policies help everyone on Quora have a safe experience:
-
-* [Platform Policies](https://help.quora.com/hc/en-us/articles/360000470706-Platform-Policies "help.quora.com")
-* [Spaces Policies](https://help.quora.com/hc/en-us/articles/360043961972 "help.quora.com")
-
-For additional questions, please visit our [Help Center](https://help.quora.com/hc/en-us "help.quora.com")
-
-No Malicious or Illegal Activity  
-Do not contribute viruses, malware, and other malicious programs or engage in activity that harms or interferes with the operation of Quora or seeks to circumvent security or authentication measures. Do not use Quora to engage in unlawful activity.
-
-Reporting Problems
-
-If you see something on Quora that you believe violates our guidelines or policies, please report it to us using the [in-product reporting tool](https://help.quora.com/hc/en-us/articles/115004211403-How-do-I-report-content-or-users-that-violate-Quora-s-policies- "help.quora.com"), or via our [contact form](https://help.quora.com/hc/en-us/requests/new "help.quora.com").  
-  
-Violating the Acceptable Use Policy may result in the removal of content, or in the limitation or termination of a user's access to Quora.
-
-Enforcement  
-Quora has the sole authority and final decision as to whether content or behavior violates these policies. We may enforce these policies in a variety of ways, including, but not limited to written warnings, removal of content, adding warning tags to content, or the limitation or termination of a user’s access to Quora.
-
-Updates  
-We also may change these policies from time-to-time by posting an updated version of these policies.
-
 Platform Policies
 =================
 
