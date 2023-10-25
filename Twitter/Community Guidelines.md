@@ -64,11 +64,12 @@ Violent Speech Policy
 
 ### Overview 
 
-**June 2023**
+**October 2023**
 
 **You may not threaten, incite, glorify, or express desire for violence or harm.**
 
-X is a place where people can express themselves, learn about what’s happening, and debate global issues. However, healthy conversations can’t thrive when violent speech is used to deliver a message. As a result, we have a zero tolerance policy towards violent speech in order to ensure the safety of our users and prevent the normalization of violent actions.
+X is a place where people can express themselves, learn about what’s happening, and debate global issues. However, healthy conversations can’t thrive when violent speech is used to deliver a message. As a result, we may remove or reduce the visibility of violent speech in order to ensure the safety of our users and prevent the normalization of violent actions.  
+ 
 
 ### What is in violation of this policy? 
 
@@ -76,7 +77,7 @@ X is a place where people can express themselves, learn about what’s happening
 
 You may not threaten to inflict physical harm on others, which includes (but is not limited to) threatening to kill, torture, sexually assault, or otherwise hurt someone. This also includes threatening to damage civilian homes and shelters, or infrastructure that is essential to daily, civic, or business activities.
 
-**Wishes of Harm**
+**Wish of Harm**
 
 You may not wish, hope, or express desire for harm. This includes (but is not limited to) hoping for others to die, suffer illnesses, tragic incidents, or experience other physically harmful consequences.
 
@@ -90,23 +91,17 @@ You may not glorify, praise, or celebrate acts of violence where harm occurred, 
 
 ### What is not a violation of this policy?  
 
-We allow expressions of violent speech when there is no clear abusive or violent context, such as (but not limited to) hyperbolic and consensual speech between friends, or during discussion of video games and sporting events. 
+We make sure to evaluate and understand the context behind the conversation before taking action, and we allow expressions of violent speech when there is no clear abusive or violent context, such as (but not limited to) hyperbolic and consensual speech between friends, or during discussion of video games and sporting events. 
 
-We also allow certain cases of figures of speech, satire, or artistic expression when the context is expressing a viewpoint rather than instigating actionable violence or harm. 
-
-We make sure to evaluate and understand the context behind the conversation before taking action.
+We also allow certain cases of figures of speech, satire, or artistic expression when the context is expressing a viewpoint rather than instigating actionable violence or harm.
 
 ### What happens if you violate this policy?  
 
-In most cases, we will immediately and permanently suspend any account that violates this policy. For less severe violations, we may instead temporarily lock you out of your account before you can Post again. In rare cases, we may make the violative content less visible by [restricting its reach](https://help.twitter.com/en/rules-and-policies/enforcement-options) on X. However, if you continue to violate this policy after receiving a warning, your account will be permanently suspended. 
+In certain cases, we will immediately and permanently suspend any account that violates this policy. However, for most violations, we may instead temporarily lock you out of your account before you can Post again. In rare cases, we may make the violative content less visible by [restricting its reach](https://help.twitter.com/en/rules-and-policies/enforcement-options) on X. However, if you continue to violate this policy after receiving a warning, your account may be permanently suspended. 
 
 We also recognize that conversations regarding certain individuals credibly accused of severe violence may prompt outrage and associated violent speech. In these limited cases, we may take less punitive measures.  
 
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-### Additional resources 
-
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options.html).
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options.html). If someone believes we took an enforcement action in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
 
 Violent and hateful entities policy
 ===================================
