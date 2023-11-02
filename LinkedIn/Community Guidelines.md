@@ -136,7 +136,7 @@ Learn more about [how we enforce violations of our Professional Community Polici
 Violent and graphic content
 ---------------------------
 
-Last updated: 2 months ago
+Last updated: 3 months ago
 
 We remove depictions of extreme violence, along with image or video content that is excessively gory, gruesome, or disturbingly shocking.
 
@@ -243,7 +243,7 @@ Learn more about [how we enforce violations of our Professional Community Polici
 False or misleading content
 ---------------------------
 
-Last updated: 2 months ago
+Last updated: 3 months ago
 
 It is a violation of [LinkedIn’s Professional Community Policies](https://www.linkedin.com/legal/professional-community-policies) to post false or misleading content. We remove specific claims, presented as fact, that are demonstrably false or substantially misleading and likely to cause harm. Content that is false or substantially misleading but not likely to cause harm is not eligible for distribution beyond the author’s network.
 
@@ -367,7 +367,7 @@ Learn more about [how we enforce violations of our Professional Community Polici
 Violent and graphic content
 ---------------------------
 
-Last updated: 2 months ago
+Last updated: 3 months ago
 
 We remove depictions of extreme violence, along with image or video content that is excessively gory, gruesome, or disturbingly shocking.
 
