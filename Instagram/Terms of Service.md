@@ -5,6 +5,8 @@ Terms and Imprint
 
 Copy link
 
+_We’re updating our Terms of Use. The updates go into effect on January 12, 2024. Read the new terms._
+
 Terms and Imprint  
   
 
