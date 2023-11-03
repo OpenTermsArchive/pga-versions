@@ -1,3 +1,5 @@
+_We’re updating our Terms of Service. The updates go into effect on January 12, 2024. [Read the new terms](https://www.facebook.com/legal/terms_preview_noyb)._
+
   
   
   
