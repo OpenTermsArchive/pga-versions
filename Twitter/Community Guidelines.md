@@ -87,7 +87,7 @@ You may not incite, promote, or encourage others to commit acts of violence or h
 
 **Glorification of Violence**
 
-You may not glorify, praise, or celebrate acts of violence where harm occurred, which includes (but is not limited to) expressing gratitude that someone experienced physical harm or praising [Violent entities](https://help.twitter.com/en/rules-and-policies/violent-entities) and [Perpetrators of Violent Attacks](https://help.twitter.com/en/rules-and-policies/perpetrators-of-violent-attacks). This also includes glorifying animal abuse or cruelty.
+You may not glorify, praise, or celebrate acts of violence where harm occurred, which includes (but is not limited to) expressing gratitude that someone experienced physical harm or praising [Violent entities](https://help.twitter.com/rules-and-policies/violent-entities) and [Perpetrators of Violent Attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). This also includes glorifying animal abuse or cruelty.
 
 ### What is not a violation of this policy?  
 
@@ -97,11 +97,11 @@ We also allow certain cases of figures of speech, satire, or artistic expression
 
 ### What happens if you violate this policy?  
 
-In certain cases, we will immediately and permanently suspend any account that violates this policy. However, for most violations, we may instead temporarily lock you out of your account before you can Post again. In rare cases, we may make the violative content less visible by [restricting its reach](https://help.twitter.com/en/rules-and-policies/enforcement-options) on X. However, if you continue to violate this policy after receiving a warning, your account may be permanently suspended. 
+In certain cases, we will immediately and permanently suspend any account that violates this policy. However, for most violations, we may instead temporarily lock you out of your account before you can Post again. In rare cases, we may make the violative content less visible by [restricting its reach](https://help.twitter.com/rules-and-policies/enforcement-options) on X. However, if you continue to violate this policy after receiving a warning, your account may be permanently suspended. 
 
 We also recognize that conversations regarding certain individuals credibly accused of severe violence may prompt outrage and associated violent speech. In these limited cases, we may take less punitive measures.  
 
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options.html). If someone believes we took an enforcement action in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options.html). If someone believes we took an enforcement action in error, they can [submit an appeal](https://help.twitter.com/forms/account-access/appeals.html).
 
 Violent and hateful entities policy
 ===================================
