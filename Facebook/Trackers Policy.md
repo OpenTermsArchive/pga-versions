@@ -1,12 +1,14 @@
 Cookies Policy
 
+We updated our policy on November 2, 2023. [View our previous policy.](https://www.facebook.com/privacy/policies/cookies/version/6238889766159217/)
+
 What are cookies, and what does this policy cover?
 
-Effective June 16, 2023 | [View printable version](https://mbasic.facebook.com/privacy/policies/cookies/printable/) | [See previous versions](https://www.facebook.com/privacy/policies/cookies/?show_versions=1)
+Effective November 2, 2023 | [View printable version](https://mbasic.facebook.com/privacy/policies/cookies/printable/) | [See previous versions](https://www.facebook.com/privacy/policies/cookies/?show_versions=1)
 
 Cookies are small pieces of text used to store information on web browsers. Cookies are used to store and receive identifiers and other information on computers, phones and other devices. Other technologies, including data that we store on your web browser or device, identifiers associated with your device and other software, are used for similar purposes. In this policy, we refer to all of these technologies as “cookies”.
 
-We use cookies if you have a Facebook account, use the [Meta Products](https://www.facebook.com/help/1561485474074139), including our website and apps, or visit other websites and apps that use the Meta Products (including the Like button). Cookies enable Meta to offer the Meta Products to you and to understand the information that we receive about you, including information about your use of other websites and apps, whether or not you are registered or logged in.
+We use cookies if you have a Facebook or Instagram account, use the [Meta Products](https://www.facebook.com/help/1561485474074139), including our website and apps, or visit other websites and apps that use the Meta Products (including the Like button). Cookies enable Meta to offer the Meta Products to you and to understand the information that we receive about you, including information about your use of other websites and apps, whether or not you are registered or logged in.
 
 This policy explains how we use cookies and the choices you have. Except as otherwise stated in this policy, the [Privacy Policy](https://www.facebook.com/privacy/policy) will apply to our processing of the data that we collect via cookies.
 
@@ -46,7 +48,7 @@ We may place cookies on your computer or device and receive information stored i
 
 * The [Meta Products](https://www.facebook.com/help/1561485474074139?ref=cookies);
 * Products provided by other members of the [Meta Companies](https://www.facebook.com/help/111814505650678?ref=cookies); and
-* Websites and apps provided by other companies that use the Meta Products, including companies that incorporate Meta technologies into their websites and apps. Meta uses cookies and receives information when you visit those sites and apps, including [device information](https://www.facebook.com/privacy/policies/cookies) and information about your activity, without any further action from you. This occurs whether or not you have a Facebook account or are logged in.
+* Websites and apps provided by other companies that use the Meta Products, including companies that incorporate Meta technologies into their websites and apps. Meta uses cookies and receives information when you visit those sites and apps, including [device information](https://www.facebook.com/privacy/policies/cookies) and information about your activity, without any further action from you. This occurs whether or not you have a Facebook or Instagram account or are logged in.
 
 Do other Companies use cookies in connection with the Meta Products?
 
@@ -64,25 +66,31 @@ We use cookies to help personalise and improve content and services, provide a s
 
 * * *
 
-[Everyone](https://www.facebook.com/privacy/policies/cookies/?subpage=subpage-4.2)
+[If you have an Instagram account](https://www.facebook.com/privacy/policies/cookies/?subpage=subpage-4.2)
 
 * * *
 
-[More information about online advertising](https://www.facebook.com/privacy/policies/cookies/?subpage=subpage-4.3)
+[Everyone](https://www.facebook.com/privacy/policies/cookies/?subpage=subpage-4.3)
 
 * * *
 
-[Browser cookie controls](https://www.facebook.com/privacy/policies/cookies/?subpage=subpage-4.4)
+[More information about online advertising](https://www.facebook.com/privacy/policies/cookies/?subpage=subpage-4.4)
+
+* * *
+
+[Browser cookie controls](https://www.facebook.com/privacy/policies/cookies/?subpage=subpage-4.5)
 
 Cookies Policy
 
+We updated our policy on November 2, 2023. [View our previous policy.](https://www.facebook.com/privacy/policies/cookies/version/6238889766159217/)
+
 What are cookies, and what does this policy cover?
 
-Effective June 16, 2023 | [View printable version](https://mbasic.facebook.com/privacy/policies/cookies/printable/) | [See previous versions](https://www.facebook.com/privacy/policies/cookies/?show_versions=1)
+Effective November 2, 2023 | [View printable version](https://mbasic.facebook.com/privacy/policies/cookies/printable/) | [See previous versions](https://www.facebook.com/privacy/policies/cookies/?show_versions=1)
 
 Cookies are small pieces of text used to store information on web browsers. Cookies are used to store and receive identifiers and other information on computers, phones and other devices. Other technologies, including data that we store on your web browser or device, identifiers associated with your device and other software, are used for similar purposes. In this policy, we refer to all of these technologies as “cookies”.
 
-We use cookies if you have a Facebook account, use the [Meta Products](https://www.facebook.com/help/1561485474074139), including our website and apps, or visit other websites and apps that use the Meta Products (including the Like button). Cookies enable Meta to offer the Meta Products to you and to understand the information that we receive about you, including information about your use of other websites and apps, whether or not you are registered or logged in.
+We use cookies if you have a Facebook or Instagram account, use the [Meta Products](https://www.facebook.com/help/1561485474074139), including our website and apps, or visit other websites and apps that use the Meta Products (including the Like button). Cookies enable Meta to offer the Meta Products to you and to understand the information that we receive about you, including information about your use of other websites and apps, whether or not you are registered or logged in.
 
 This policy explains how we use cookies and the choices you have. Except as otherwise stated in this policy, the [Privacy Policy](https://www.facebook.com/privacy/policy) will apply to our processing of the data that we collect via cookies.
 
@@ -122,7 +130,7 @@ We may place cookies on your computer or device and receive information stored i
 
 * The [Meta Products](https://www.facebook.com/help/1561485474074139?ref=cookies);
 * Products provided by other members of the [Meta Companies](https://www.facebook.com/help/111814505650678?ref=cookies); and
-* Websites and apps provided by other companies that use the Meta Products, including companies that incorporate Meta technologies into their websites and apps. Meta uses cookies and receives information when you visit those sites and apps, including [device information](https://www.facebook.com/privacy/policies/cookies) and information about your activity, without any further action from you. This occurs whether or not you have a Facebook account or are logged in.
+* Websites and apps provided by other companies that use the Meta Products, including companies that incorporate Meta technologies into their websites and apps. Meta uses cookies and receives information when you visit those sites and apps, including [device information](https://www.facebook.com/privacy/policies/cookies) and information about your activity, without any further action from you. This occurs whether or not you have a Facebook or Instagram account or are logged in.
 
 Do other Companies use cookies in connection with the Meta Products?
 
@@ -140,12 +148,16 @@ We use cookies to help personalise and improve content and services, provide a s
 
 * * *
 
-[Everyone](https://www.facebook.com/privacy/policies/cookies/?subpage=subpage-4.2)
+[If you have an Instagram account](https://www.facebook.com/privacy/policies/cookies/?subpage=subpage-4.2)
 
 * * *
 
-[More information about online advertising](https://www.facebook.com/privacy/policies/cookies/?subpage=subpage-4.3)
+[Everyone](https://www.facebook.com/privacy/policies/cookies/?subpage=subpage-4.3)
 
 * * *
 
-[Browser cookie controls](https://www.facebook.com/privacy/policies/cookies/?subpage=subpage-4.4)
+[More information about online advertising](https://www.facebook.com/privacy/policies/cookies/?subpage=subpage-4.4)
+
+* * *
+
+[Browser cookie controls](https://www.facebook.com/privacy/policies/cookies/?subpage=subpage-4.5)
