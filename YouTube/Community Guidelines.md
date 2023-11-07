@@ -976,11 +976,13 @@ We may terminate your channel or account for repeated violations of the Communit
 Harassment & cyberbullying policies
 ===================================
 
+s
+
 The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. **T****ake the time to carefully read the policy below**. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
 
 We don’t allow content that targets someone with prolonged insults or slurs based on their physical traits or [protected group status](https://support.google.com/youtube/answer/2801939#protected_group), like age, disability, ethnicity, gender, sexual orientation, or race. We also don’t allow other harmful behaviors, like threats or doxxing. Keep in mind that we take a stricter approach on content that targets minors.
 
-If you find content that violates this policy, report it. Instructions for reporting violations of our Community Guidelines [are available here](https://support.google.com/youtube/answer/2802027). If you find many videos or comments that you would like to report, you can [report the channel](https://support.google.com/youtube/answer/2802027#report_channel). For tips about how to stay safe, keep your account secure, and protect your privacy, check out the [Creator Safety Center](https://www.youtube.com/creators/creator-safety-center) and [Stay safe on YouTube](https://support.google.com/youtube/answer/9563682).
+If you find content that violates this policy, report it. Instructions for reporting violations of our Community Guidelines [are available here](https://support.google.com/youtube/answer/2802027). If you find many videos or comments that you would like to report, you can [report the channel](https://support.google.com/youtube/answer/2802027#report_channel). For tips about how to stay safe, keep your account secure, and protect your privacy, check out the [Creator Safety Center](https://www.youtube.com/creators/safety/) and [Stay safe on YouTube](https://support.google.com/youtube/answer/9563682).
 
 If specific threats are made against you and you feel unsafe, report it directly to your local law enforcement agency.
 
