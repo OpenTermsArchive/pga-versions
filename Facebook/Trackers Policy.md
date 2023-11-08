@@ -1,4 +1,5 @@
 Cookies Policy
+--------------
 
 We updated our policy on November 2, 2023. [View our previous policy.](https://www.facebook.com/privacy/policies/cookies/version/6238889766159217/)
 
@@ -81,6 +82,7 @@ We use cookies to help personalise and improve content and services, provide a s
 [Browser cookie controls](https://www.facebook.com/privacy/policies/cookies/?subpage=subpage-4.5)
 
 Cookies Policy
+--------------
 
 We updated our policy on November 2, 2023. [View our previous policy.](https://www.facebook.com/privacy/policies/cookies/version/6238889766159217/)
 
