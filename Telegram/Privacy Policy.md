@@ -31,7 +31,7 @@ In dieser Datenschutzerklärung wird Folgendes erläutert:
 
 Wenn du dich in einem Land des [Europäischen Wirtschaftsraums](https://de.wikipedia.org/wiki/Europ%C3%A4ischer_Wirtschaftsraum) (EWR) aufhältst, werden die Dienste von Telegram bereitgestellt, die der Verantwortliche im Sinne der geltenden Datenschutzgesetze für die Verarbeitung der personenbezogenen Daten ist. Da Telegram (mit eingetragenem Sitz in Vistra Corporate Services Centre, Wickhams Cay II, Road Island, Tortola, VG1110, Britische Jungferninseln) außerhalb des EWR ansässig ist, haben wir das European Data Protection Office (EDPO), eine von Telegram unabhängige Gesellschaft, als [Vertreter](https://www.smartcertificate.com/SmartCertificate/?1%7c7b72c5ff-fe64-4290-8c35-221528a0c087%7c36fd44f1-9739-4c72-9e47-c41d96436c6d) nach Artikel 27 DSGVO benannt. An EDPO können alle Fragen und die Geltendmachung deiner Rechte gesendet werden, die du im Zusammenhang mit unserer Verarbeitung deiner personenbezogenen Daten hast, indem du diese
 
-* per [Online-Anfrageformular](https://edpo.com/gdpr-data-request/) des EDPO stellst, oder
+* per [Online-Anfrageformular](https://edpo.com/telegram-gdpr-data-request/) des EDPO stellst, oder
 * schriftlich an die Anschrift des EDPO, Avenue Huart Hamoir 71, 1030 Brüssel, Belgien, sendest.
 
 ### [](#2-rechtsgrundlage-fur-die-verarbeitung-personenbezogener-daten)2\. Rechtsgrundlage für die Verarbeitung personenbezogener Daten
