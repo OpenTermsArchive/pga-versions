@@ -1,3 +1,7 @@
+[](https://www.quora.com/)
+
+[About](https://www.quora.com/about)[Careers](https://www.quora.com/careers)[Press](https://www.quora.com/press)[Businesses](https://www.quora.com/business)
+
 Terms of Service
 
 Terms of Service
@@ -229,3 +233,21 @@ If you are a user in the European Economic Area, the United Kingdom, or Switzerl
 12.13 Waiver. No waiver of any terms will be deemed a further or continuing waiver of such term or any other term. Our failure to assert a right or provision under these Terms will not constitute a waiver of such right or provision.
 
 12.14 Contact. Feel free to contact us through [quora.com/contact](https://www.quora.com/contact "www.quora.com") with any questions about these Terms. Quora is a Delaware corporation, located at 605 Castro Street, Mountain View, CA 94041.
+
+[Contact us](https://www.quora.com/contact)
+
+[Press](https://www.quora.com/press)
+
+[Terms of service](https://www.quora.com/about/tos)
+
+[Privacy Policy](https://www.quora.com/about/privacy)
+
+[Acceptable Use](https://www.quora.com/about/acceptable_use)
+
+[](https://www.facebook.com/quora)
+
+[](https://www.linkedin.com/company/quora)
+
+[](https://twitter.com/quora)
+
+[](https://www.quora.com/)
