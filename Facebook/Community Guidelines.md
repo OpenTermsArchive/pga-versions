@@ -655,25 +655,27 @@ We also work with external experts, including the [Facebook Safety Advisory Boar
 
 **Child sexual exploitation**
 
-Content or activity that threatens, depicts, praises, supports, provides instructions for, makes statements of intent, admits participation in or shares links of the sexual exploitation of children (including real minors, toddlers or babies or non-real depictions with a human likeness, such as in art, AI-generated content, fictional characters, dolls, etc). This includes but is not limited to:
+Content, activity or interactions that threaten, depict, praise, support, provide instructions for, make statements of intent, admit participation in or share links of the sexual exploitation of children (including real minors, toddlers or babies or non-real depictions with a human likeness, such as in art, AI-generated content, fictional characters, dolls, etc). This includes but is not limited to:
 
 * Sexual intercourse
-    * Explicit sexual intercourse or oral sex, defined as mouth or genitals entering or in contact with another person's genitals or anus, where at least one person's genitals are nude.
+    * Explicit sexual intercourse or oral sex, defined as mouth or genitals entering or in contact with another person's genitals or anus, when at least one person's genitals or anus is visible.
     * Implied sexual intercourse or oral sex, including when contact is imminent or not directly visible.
     * Stimulation of genitals or anus, including when activity is imminent or not directly visible.
-    * Presence of by-products of sexual activity.
     * Any of the above involving an animal.
 * Children with sexual elements, including but not limited to:
-    * Restraints.
-    * Focus on genitals.
-    * Presence of aroused adult.
-    * Presence of sex toys or use of any object for sexual stimulation or gratification.
-    * Sexualised costume.
-    * Stripping.
-    * Staged environment (for example, on a bed) or professionally shot (quality/focus/angles).
-    * Open-mouth kissing.
-* Content of children in a sexual fetish context.
-* Content that supports, promotes, advocates or encourages participation in pedophilia unless it is discussed neutrally in an academic or verified health context.
+    * Restraints
+    * Signs of arousal
+    * Focus on genitals or anus
+    * Presence of aroused adult
+    * Presence of sex toys or use of any object for sexual stimulation, gratification, or sexual abuse
+    * Sexualized costume
+    * Stripping
+    * Staged environment (for example, on a bed) or professionally shot (quality/focus/angles)
+    * Open-mouth kissing
+    * Stimulation of human nipples or squeezing of female breast (EXCEPT in the context of breastfeeding)
+    * Presence of by-products of sexual activity
+* Content invovling children in a sexual fetish context
+* Content that supports, promotes, advocates or encourages participation in pedophilia unless it is discussed neutrally in a health context
 * Content that identifies or mocks alleged victims of child sexual exploitation by name or image.
 
 **Solicitation**
@@ -720,18 +722,18 @@ Content that depicts real or non-real child nudity where nudity is defined as:
     * Visible anus and/or fully nude close-up of buttocks.
     * Uncovered female nipples.
     * No clothes from neck to knee - even if no genitalia or female nipples are showing.
-* Unless the non-real imagery is for health or educational purposes or is a depiction of child nudity in real-word art
+* Unless the non-real imagery is for health purposes or is a non-sexual depiction of child nudity in real-word art
 
 **Non-sexual child abuse**
 
-Imagery that depicts real or non-real non-sexual child abuse regardless of sharing intent, unless the imagery is from real-world art, cartoons, movies or video games
+Videos or photos that depict real or non-real non-sexual child abuse regardless of sharing intent, unless the imagery is from real-world art, cartoons, movies or video games
 
 Content that praises, supports, promotes, advocates for, provides instructions for or encourages participation in non-sexual child abuse.
 
 #### For the following content, we include a warning screen so that people are aware the content may be disturbing and limit the ability to view the content to adults, ages eighteen and older:
 
 * Videos or photos that depict police officers or military personnel committing non-sexual child abuse.
-* Imagery of non-sexual child abuse, when law enforcement, child protection agencies, or trusted safety partners request that we leave the content on the platform for the express purpose of bringing a child back to safety.
+* Videos or photos of non-sexual child abuse, when law enforcement, child protection agencies, or trusted safety partners request that we leave the content on the platform for the express purpose of bringing a child back to safety.
 
 #### For the following content, we include a sensitivity screen so that people are aware the content may be upsetting to some:
 
@@ -744,6 +746,10 @@ For the following content, we include a warning label so that people are aware t
 * Imagery posted by a news agency that depicts child nudity in the context of famine, genocide, war crimes, or crimes against humanity, unless accompanied by a violating caption or shared in a violating context, in which case the content is removed.
 
 We may also remove imagery depicting the aftermath of non-sexual child abuse when reported by news media partners, NGOs or other trusted safety partners.
+
+We may remove content that identifies alleged victims of child sexual exploitation through means other than name or image if content includes information that is likely to lead to the identification of the individual.
+
+We may remove content created for the purpose of identifying a private minor if there is a risk to the minor’s safety, when requested by Law Enforcement, Government, Trusted Partner, or the content is self-reported by the minor or the minor’s parent/legal guardian
 
 Read lessRead more
 
@@ -1338,42 +1344,31 @@ We also restrict sexually-explicit language that may lead to sexual solicitation
 
 #### Do not post:
 
-Content that offers or asks for adult commercial services, such as requesting, offering or asking for rates for escort service and paid sexual fetish or domination services. (Content that recruits or offers other people for third-party commercial sex work is separately considered under [the Human Exploitation policy).](https://www.facebook.com/communitystandards/human_exploitation)
+Content that offers or asks for prostitution, defined as offering oneself or asking for sexual activities in exchange for money or anything of value such as:
 
-Attempted coordination of or recruitment for, adult sexual activities, except when promoting an event or venue, including but not limited to:
+* Offering or asking for sexual activity (for example, escort services, sexual/erotic massages, sex chats/conversations, fetish/domination services)
+* Slang terms for prostitution combined with an ask or offer of availability, price, hint at price, or compensation, location, or contact information
+* Content that engages in explicit or implicit sexual solicitation combined with a price, hint at price, or compensation
+* Content that recruits or offers other people for third-party commercial sex work is separately considered under the Human Exploitation policy.
 
-* Filmed sexual activities.
-* Pornographic activities, strip club shows, live sex performances or erotic dances.
-* Sexual, erotic or tantric massages.
+Content that engages in explicit sexual solicitation by, offering or asking for sexual activities such as:
 
-Explicit sexual solicitation by, including but not limited to the following, offering or asking for:
-
-* Offering or asking for sex or sexual partners (including partners who share fetish or sexual interests).
+* Sex or sexual partners (including partners who share fetish or sexual interests).
 * Sex chat or conversations.
 * Nude photos/videos/imagery/sexual fetish items.
-* Sexual slang terms.
+* Offers or asks that include sexual slang terms.
 
-We allow expressing desire for sexual activity, promoting sex education, discussing sexual practices or experiences, or offering classes or programs that teach techniques or discuss sex.
+Content that engages in implicitly or indirectly offering or asking for sexual solicitation by containing both an implicit offer or ask (defined as sharing contact information, or suggesting to be contacted directly), and a sexually suggestive element. Sexually suggestive elements can include regionalized sexual slang, mentions or depictions of sexual activity (as defined in our Adult Nudity and Sexual Activity policy) or sexual poses.
 
-Content that is implicitly or indirectly offering or asking for sexual solicitation and meets both of the following criteria. If both criteria are not met, it is not deemed to be violating. For example, if content is a hand-drawn image depicting sexual activity but does not ask or offer sexual solicitation, it is not violating:
+Content that offers or asks for pornographic material including, but not limited to, sharing of links to external pornographic websites.
 
-* **Criteria 1: Offer or ask**
-    * Content that implicitly or indirectly (typically through providing a method of contact) offers or asks for sexual solicitation.
-* **Criteria 2: Suggestive Elements**
-    * Content that makes the aforementioned offer or ask using one or more of the following sexually suggestive elements:
-        * Regional sexualized slang,
-        * Mentions or depictions of sexual activity such as sexual roles, sex positions, fetish scenarios, state of arousal, act of sexual intercourse or activity (e.g. sexual penetration or self-pleasuring), commonly sexual emojis
-        * Including content (hand drawn, digital or real-world art) that depicts sexual activity as defined in [Adult Nudity and Sexual Activity policy](https://transparency.fb.com/policies/community-standards/adult-nudity-sexual-activity/)
-        * Poses,
-        * Audio of sexual activity or other content that violates the [Adult Nudity and Sexual Activity policy](https://transparency.fb.com/policies/community-standards/adult-nudity-sexual-activity/)
+Sexually explicit language that goes into graphic detail about:
 
-An offer or ask for pornographic material (including, but not limited to, sharing of links to external pornographic websites)
+* A state of sexual arousal (e.g., wetness or erection)
+* An act of sexual intercourse (e.g., sexual penetration, self-pleasuring or exercising fetish scenarios)
+* The above does not include content shared in a humorous, satirical or educational context, as a sexual metaphor or as sexual cursing
 
-Sexually-explicit language that goes into graphic detail beyond mere reference to:
-
-* A state of sexual arousal (e.g wetness or erection) or
-* An act of sexual intercourse (e.g sexual penetration, self-pleasuring or exercising fetish scenarios).
-* Except for content shared in a humorous, satirical, or educational context, as a sexual metaphor or as sexual cursing.
+We allow content that is otherwise covered by this policy when posted in condemnation, educational, awareness raising or news reporting contexts. We also do not prohibit under the policy content expressing desire for sexual activity, promoting sex education, discussing sexual practices or experiences, or offering classes or programs that teach about sex.
 
 #### For the following Community Standards, we require additional information and/or context to enforce:
 
