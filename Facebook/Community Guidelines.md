@@ -312,76 +312,93 @@ Coordinating Harm and Promoting Crime
 
 In an effort to prevent and disrupt offline harm and copycat behavior, we prohibit people from facilitating, organizing, promoting or admitting to certain criminal or harmful activities targeted at people, businesses, property or animals. We allow people to debate and advocate for the legality of criminal and harmful activities, as well as draw attention to harmful or criminal activity that they may witness or experience as long as they do not advocate for or coordinate harm.
 
-#### Do not post content that falls into the following categories:
+#### We Remove:
 
 **Harm against people**
 
-* Outing:
-
-* Content that exposes the identity or locations affiliated with anyone who is alleged to:
+* Outing exposing the identity or locations affiliated with anyone who is alleged to:
 
 * Be a member of an outing-risk group; and/or
 * Share familial and/or romantic relationships with a member(s) of an outing-risk group; and/or
 * Have performed professional activities in support of an outing-risk group (except for political figures)
 
-* Content that exposes the undercover status of law enforcement, military, or security personnel if:
+* Outing the undercover status of law enforcement, military, or security personnel if the content contains the agent’s name, their face or badge and any of the following:
 
-* The content contains the agent’s full name or other explicit identification and explicitly mentions their undercover status.
-* The imagery identifies the faces of the law enforcement personnel and explicitly mentions their undercover status.
+* The agent’s law enforcement organization
+* The agent’s law enforcement operation
+* Explicit mentions of their undercover status
 
-* Swatting, specifically statements of intent, calls to action, representing, supporting, advocating for, depicting, admitting to or speaking positively about it.
-* Depicting, promoting, advocating for or encouraging participation in a high-risk viral challenge.
+* Coordinating, threatening, supporting, or admitting to swatting except in the context of awareness raising or condemnation, fictional or staged settings or redemption.
+* Depicting, promoting, advocating for or encouraging participation in a high-risk viral challenge except in the context of awareness raising or condemnation. Where imagery is depicted in these contexts, we include a label so that people are aware that the content may be sensitive.
 
 **Harm against animals**
 
-Coordinating (statements of intent, calls to action, representing, supporting or advocacy), or depicting, admitting to or promoting acts of physical harm against animals committed by you or your associates except in cases of:
+* Coordinating, threatening, supporting or admitting to acts of physical harm against animals (in written, visual or verbal form) except in cases of:
 
+* Awareness-raising or condemnation
 * Redemption
+* Survival or defense of self, another human or another animal
+* Fictional or staged settings EXCEPT where it depicts staged animal fights or fake animal rescues
 * Hunting or fishing
 * Religious sacrifice
 * Food preparation or processing
 * Pests or vermin
 * Mercy killing
-* Survival or defense of self, another human or another animal
 * Bullfighting
 
-Coordinating (statements of intent, calls to action, representing, supporting or advocacy) or depicting, admitting to or promoting staged animal vs. animal fights.
-
-Depicting video imagery of fake animal rescues
+  
 
 **Harm against property**
 
-Statements of intent, calls to action, representing, supporting or advocating for harm against property that depicts, admits to, or promotes the following acts committed by you or your associates:
+* Coordinating, threatening, supporting or admitting to vandalism, theft or malicious hacking (in written, visual or verbal form), except in the context of
 
-* Vandalism.
-* Hacking when the intent is to hijack a domain, corrupt or disrupt cyber systems, seek ransoms or gain unauthorized access to data systems.
-* Theft when committed by you or your associates, as well as positive statements about theft when committed by a third party.
+* Awareness raising or condemnation,
+* Redemption,
+* Fictional or staged settings,
+* Admitting in the context of defense of self, or another human
+* Depicting vandalism in protest context,
+* Depicting graffiti, or
+* Speaking positively about vandalism and theft committed by others.
 
 **Voter and/or census fraud**
 
-* Offers to buy or sell votes with cash or gifts
-* Statements that advocate, provide instructions, or show explicit intent to illegally participate in a voting or census process
+* Offers to buy or sell votes with cash, gifts, services or other material goods, except if shared in condemning, awareness raising, news reporting, or humorous or satirical contexts.
+* Advocating, providing instructions for, or demonstrating explicit intent to illegally participate in a voting or census process, except if shared in condemning, awareness raising, news reporting, or humorous or satirical contexts.
 
 #### For the following content, we include a label so that people are aware the content may be sensitive:
 
-* Imagery depicting a high-risk viral challenge if shared with a caption that condemns or raises awareness of the associated risks.
+* Imagery depicting a high-risk viral challenge if shared condemning or raising awareness of the associated risks.
 
 #### For the following Community Standards, we require additional information and/or context to enforce:
 
-Do not post:
+We Remove:
 
-* Content that puts LGBTQI+ people at risk by revealing their sexual identity against their will or without permission.
-* Content that puts unveiled women at risk by revealing their images without veil against their will or without permission.
-* Content that puts non-convicted individuals at risk by revealing their identity and their status as a target of a sting operation as a sexual predator.
-* Content revealing the identity of someone as a witness, informant, activist or individuals whose identity or involvement in a legal case has been restricted from public disclosure
-* Content that puts a defector at risk by outing the individual with personally identifiable information when the content is reported by credible government channels.
+* Outing: exposing the identity of a person and putting them at risk of harm:
+
+* LGBTQIA+ members
+* Unveiled women
+* Non-convicted individuals as predators in the context of a sexual predator Sting Operation
+* Individuals involved in legal cases, when their involvement is restricted from public disclosure
+* Witnesses, informants , activists, detained persons or hostages
+* Defectors, when reported by credible government channel
+* Prisoners of war, in the context of an armed conflict
+
 * Imagery that is likely to deceive the public as to its origin if:
-    * The entity depicted or an authorized representative objects to the imagery, and
-    * The imagery has the potential to cause harm to members of the public.
-* Calls for coordinated interference that would affect an individual’s ability to participate in an official census or election.
-* Content stating that census or voting participation may or will result in law enforcement consequences (for example, arrest, deport or imprisonment).
-* Statements of intent, support or advocacy to go to an election site, voting location, or vote counting location when the purpose of going to the site is to monitor or watch voters or election officials’ activity using militaristic language (e.g. “war,” “army,” or “soldier” ) or an expressed goal to intimidate, exert control or display power (e.g. “Let’s show them who's boss!,” “If they’re scared, they won’t vote!”).
-* Content that reveals the identity or location of a Prisoner of War in the context of an armed conflict by sharing their name, identification number and/or imagery
+
+* The entity depicted or an authorized representative objects to the imagery, and
+* The imagery has the potential to cause harm to members of the public.
+
+* Statement of intent, call to action, or encouragement to either:
+
+* Block access to essential services when there is confirmation or publicly available confirmation that emergency vehicles are blocked, OR
+* Target an individual or specific group of people by blocking their access to essential services or unobstructed passage in a way that may threaten their safety
+
+* Voter or census interference, including:
+
+* Calls for coordinated interference that would affect an individual’s ability to participate in an official election or census.
+* Claims that voting or census participation may or will result in law enforcement consequences (for example, arrest, deportation or imprisonment).
+* Threats to go to an election site to monitor or watch voters or election officials’ activities if combined with a reference to intimidation (e.g., “Let’s show them who's boss!,”, “They want a war? We’ll give them a war.”).
+* Threats to go to a post-election activity site if combined with a reference to intimidation (e.g., “Let’s show them who's boss!,”, “They want a war? We’ll give them a war.”).
 
 Read lessRead more
 
