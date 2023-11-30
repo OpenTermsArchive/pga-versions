@@ -350,7 +350,7 @@ In an effort to prevent and disrupt offline harm and copycat behavior, we prohib
 
 **Harm against property**
 
-* Coordinating, threatening, supporting or admitting to vandalism, theft or malicious hacking (in written, visual or verbal form), except in the context of
+* Coordinating, threatening, supporting or admitting to vandalism, theft or malicious hacking (in written, visual or verbal form), except in the context of:
 
 * Awareness raising or condemnation,
 * Redemption,
@@ -422,6 +422,15 @@ Content that:
 * Asks for firearms, firearm parts, ammunition, explosives, or lethal enhancements
 * Sells, gifts, exchanges, transfers, coordinates, promotes (by which we mean speaks positively about, encourages the use of) or provides access to 3D printing or computer-aided manufacturing instructions for firearms or firearms parts regardless of context or poster.
 * Attempts to buy, sell, or trade machine gun conversion devices
+
+**High-risk drugs (drugs that have a high potential for misuse, addiction, or are associated with serious health risks, including overdose; e.g., cocaine, fentanyl, heroin).**
+
+Content that:
+
+* Attempts to buy, sell, trade, co-ordinate the trade of, donate, gift or ask for high-risk drugs.
+* Admits to buying, trading or co-ordinating the trade of high-risk drugs by the poster of the content by themselves or through others.
+* Admits to personal use without acknowledgment of or reference to recovery, treatment, or other assistance to combat usage. This content may not speak positively about, encourage use of, coordinate or provide instructions to make or use high-risk drugs.
+* Coordinates or promotes (by which we mean speaks positively about, encourages the use of, or provides instructions to use or make) high-risk drugs.
 
 **Non-medical drugs (drugs or substances that are not being used for an intended medical purposes or are used to achieve a high - this includes precursor chemicals or substances that are used for the production of these drugs.)**
 
