@@ -1364,7 +1364,7 @@ Photos of wounded or dead people if they show:
 * Victims of cannibalism.
 * Throat-slitting.
 
-Imagery that shows the violent death of a person or people by accident or murder
+Imagery depicting a person’s violent death (including their moment of death or the aftermath) or a person experiencing a life threatening event (such as being struck by a car, falling from a great height, or experiencing other possibly-fatal physical injury).
 
 Imagery that shows capital punishment of a person
 
