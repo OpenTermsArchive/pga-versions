@@ -21,7 +21,7 @@ Safety
 Self-Destructive Behavior
 -------------------------
 
-Harming yourself, or discussing self-harm recklessly, can be dangerous for not only yourself but for viewers and those around you. We understand that streamers and viewers should be able to discuss sensitive topics related to self-harm or mental health, and we want Twitch to remain a safe space to do so. Anyone should be able to talk about their struggles, if they so choose**.** However, **Twitch does not allow content that glorifies, promotes, or encourages self-harm. We also prohibit activity that may endanger your life, lead to your physical harm, or encourage others to engage in physically harmful behavior.** We do not make exceptions for self-destructive behavior performed as a stunt or gag made in jest, or meant to entertain, when the behavior could reasonably be expected to cause physical injury.
+Harming yourself, or discussing self-harm, can be dangerous for not only yourself but for viewers and those around you. We understand that streamers and viewers should be able to discuss sensitive topics related to self-harm or mental health, and we want Twitch to remain a safe space to do so. Anyone should be able to talk about their struggles, if they so choose**.** However, **Twitch does not allow content that glorifies, promotes, or encourages self-harm. We also prohibit activity that may endanger your life, lead to your physical harm, or encourage others to engage in physically harmful behavior.** We do not make exceptions for self-destructive behavior performed as a stunt or gag made in jest, or meant to entertain, when the behavior could reasonably be expected to cause physical injury to anyone on our service.
 
 [](#)
 
@@ -33,10 +33,10 @@ Harming yourself, or discussing self-harm recklessly, can be dangerous for not o
 * Use of hard drugs and substances not fit for human consumption (e.g., tide pods, bleach)
 * Misuse of legal substances (e.g., prescription drugs, whippets)
 * Cutting or other forms of self-injury
-* Dangerous consumption of alcohol or other substances that lead to being incapacitated
-* Dangerous or distracted driving, including using a phone while driving and drunk driving
+* Consumption of alcohol or other substances that lead to being incapacitated
+* Dangerous or distracted driving, including using a phone while driving and driving under the influence
 
-If you feel like you’re struggling, or you know someone who you believe might hurt themselves or others, or if someone is at immediate risk of suicide, please contact a professional with the resources and expertise for urgent support, such as a [mental health hotline](https://help.twitch.tv/s/article/twitch-cares-mental-health-support-information#hotline) or local law enforcement.
+If you feel like you’re struggling, or you know someone who you believe might hurt themselves or others, or if someone is at immediate risk of suicide, please contact someone you trust, a healthcare provider, mental health hotline, or local law enforcement for immediate help and support. We also have resources and help lines available for you [here](https://safety.twitch.tv/s/article/Crisis-Prevention). 
 
 Violence and Threats
 --------------------
