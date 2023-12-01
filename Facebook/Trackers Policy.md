@@ -1,11 +1,11 @@
 Cookies Policy
 --------------
 
-We updated our policy on November 2, 2023. [View our previous policy.](https://www.facebook.com/privacy/policies/cookies/version/6238889766159217/)
+The policy below goes into effect on December 12, 2023. [Read our current policy.](https://www.facebook.com/privacy/policies/cookies/version/7599906400026582/)
 
 What are cookies, and what does this policy cover?
 
-Effective November 2, 2023 | [View printable version](https://mbasic.facebook.com/privacy/policies/cookies/printable/) | [See previous versions](https://www.facebook.com/privacy/policies/cookies/?show_versions=1)
+Effective December 12, 2023 | [View printable version](https://mbasic.facebook.com/privacy/policies/cookies/printable/) | [See previous versions](https://www.facebook.com/privacy/policies/cookies/?show_versions=1)
 
 Cookies are small pieces of text used to store information on web browsers. Cookies are used to store and receive identifiers and other information on computers, phones and other devices. Other technologies, including data that we store on your web browser or device, identifiers associated with your device and other software, are used for similar purposes. In this policy, we refer to all of these technologies as “cookies”.
 
@@ -84,11 +84,11 @@ We use cookies to help personalise and improve content and services, provide a s
 Cookies Policy
 --------------
 
-We updated our policy on November 2, 2023. [View our previous policy.](https://www.facebook.com/privacy/policies/cookies/version/6238889766159217/)
+The policy below goes into effect on December 12, 2023. [Read our current policy.](https://www.facebook.com/privacy/policies/cookies/version/7599906400026582/)
 
 What are cookies, and what does this policy cover?
 
-Effective November 2, 2023 | [View printable version](https://mbasic.facebook.com/privacy/policies/cookies/printable/) | [See previous versions](https://www.facebook.com/privacy/policies/cookies/?show_versions=1)
+Effective December 12, 2023 | [View printable version](https://mbasic.facebook.com/privacy/policies/cookies/printable/) | [See previous versions](https://www.facebook.com/privacy/policies/cookies/?show_versions=1)
 
 Cookies are small pieces of text used to store information on web browsers. Cookies are used to store and receive identifiers and other information on computers, phones and other devices. Other technologies, including data that we store on your web browser or device, identifiers associated with your device and other software, are used for similar purposes. In this policy, we refer to all of these technologies as “cookies”.
 
