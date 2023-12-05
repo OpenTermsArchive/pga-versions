@@ -43,7 +43,7 @@ We believe that all people are equal in dignity and rights. We expect that peopl
 
 ### Community Standards
 
-Our Community Standards apply to everyone, all around the world, and to all types of content.
+Our Community Standards apply to everyone, all around the world, and to all types of content, including AI-generated content.
 
 Each section of our Community Standards starts with a “Policy Rationale” that sets out the aims of the policy followed by specific policy lines that outline:
 
@@ -1582,8 +1582,9 @@ In an effort to promote election and census integrity, we remove misinformation 
 * Misinformation about whether a candidate is running or not.
 * Misinformation about who can participate in the census and what information or materials must be provided in order to participate.
 * Misinformation about government involvement in the census, including, where applicable, that an individual's census information will be shared with another (non-census) government agency.
-* Content falsely claiming that the U.S. Immigration and Customs Enforcement (ICE) is at a voting location.
+* False or unverified claims that the U.S. Immigration and Customs Enforcement (ICE) is at a voting location.
 * Explicit false claims that people will be infected by COVID-19 (or another communicable disease) if they participate in the voting process.
+* False claims about current conditions at a U.S. voting location that would make it impossible to vote, as verified by an election authority.
 
 We have additional policies intended to cover calls for violence, the promotion of illegal participation, and calls for coordinated interference in elections, which are represented in other [sections](https://www.facebook.com/communitystandards/coordinating_harm_publicizing_crime) of our Community Standards.
 
