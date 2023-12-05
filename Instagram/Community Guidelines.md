@@ -577,12 +577,12 @@ We do not allow Representation of Organizations and individuals designated by Me
 
 Read lessRead more
 
-Sexual Solicitation
-===================
+Adult Sexual Solicitation and Sexually Explicit Language
+========================================================
 
 #### Policy Rationale
 
-As noted in Section 8 of our Community Standards ([Adult Sexual Exploitation](https://www.facebook.com/communitystandards/sexual_exploitation_adults)), people use Facebook to discuss and draw attention to sexual violence and exploitation. We recognize the importance of and allow for this discussion.We also allow for the discussion of sex worker rights advocacy and sex work regulation. We draw the line, however, when content facilitates, encourages or coordinates sexual encounters or commercial sexual services between adults. We do this to avoid facilitating transactions that may involve trafficking, coercion and non-consensual sexual acts.
+As noted in the [Adult Sexual Exploitation](https://www.facebook.com/communitystandards/sexual_exploitation_adults) policy, people use Facebook to discuss and draw attention to sexual violence and exploitation. We recognize the importance of and allow for this discussion.We also allow for the discussion of sex worker rights advocacy and sex work regulation. We draw the line, however, when content facilitates sexual encounters or commercial sexual services between adults. We do this to avoid facilitating transactions that may involve trafficking, coercion and non-consensual sexual acts.
 
 We also restrict sexually-explicit language that may lead to sexual solicitation because some audiences within our global community may be sensitive to this type of content, and it may impede the ability for people to connect with their friends and the broader community.
 
@@ -941,84 +941,61 @@ Violence and Incitement
 
 #### Policy Rationale
 
-We aim to prevent potential offline harm that may be related to content on Facebook. While we understand that people commonly express disdain or disagreement by threatening or calling for violence in non-serious ways, we remove language that incites or facilitates serious violence. We remove content, disable accounts and work with law enforcement when we believe there is a genuine risk of physical harm or direct threats to public safety. We also try to consider the language and context in order to distinguish casual statements from content that constitutes a credible threat to public or personal safety. In determining whether a threat is credible, we may also consider additional information like a person's public visibility and the risks to their physical safety.
+We aim to prevent potential offline violence that may be related to content on our platforms. While we understand that people commonly express disdain or disagreement by threatening or calling for violence in non-serious and casual ways, we remove language that incites or facilitates violence and credible threats to public or personal safety. This includes violent speech targeting a person or group of people on the basis of their protected characteristic(s) or immigration status. Context matters, so we consider various factors such as condemnation or awareness raising of violent threats, non-credible threats directed at terrorists or other violent actors (e.g. "Terrorists deserve to be killed") or the public visibility and vulnerability of the target of the threats. We remove content, disable accounts, and also work with law enforcement when we believe there is a genuine risk of physical harm or direct threats to public safety.
 
-In some cases, we see aspirational or conditional threats directed at terrorists and other violent actors (e.g. "Terrorists deserve to be killed"), and we deem those non-credible, absent specific evidence to the contrary.
+#### We Remove:
 
-#### Do not post:
+We remove threats of violence against various targets. Threats of violence are statements or visuals representing an intention, aspiration, or call for violence against a target, and threats can be expressed in various types of statements such as statements of intent, calls for action, advocacy, aspirational statements and conditional statements.  
+  
+**We do not prohibit threats when shared in awareness-raising or condemning context, when less severe threats are made in the context of contact sports, or when threats are directed against certain violent actors, like terrorist groups.**  
+  
+**Universal protections for everyone**  
+Everyone is protected from the following threats:
 
-Threats that could lead to death (and other forms of high-severity violence) and admission of past violence targeting people or places where threat is defined as any of the following:
+* Threats of violence that could lead to death (or other forms of high-severity violence)
+* Threats of violence that could lead to serious injury (mid-severity violence). We remove such threats against public figures and groups not based on protected characteristics when credible, and we remove them against any other targets (including groups based on protected characteristics) regardless of credibility
+* Admissions to high-severity or mid-severity violence (in written or verbal form, or visually depicted by the perpetrator or an associate), except when shared in a context of redemption, self-defense, contact sports (mid-severity or less), or when committed by law enforcement, military or state security personnel
+* Threats or depictions of kidnappings or abductions, unless it is clear that the content is being shared by a victim or their family as a plea for help, or shared for informational, condemnation or awareness-raising purposes
 
-* Statements of intent to commit high-severity violence. This includes content where a symbol represents the target and/or includes a visual of an armament or method to represent violence.
-* Calls for high-severity violence including content where no target is specified but a symbol represents the target and/or includes a visual of an armament or method that represents violence.
-* Statements advocating for high-severity violence.
-* Aspirational or conditional statements to commit high-severity violence.
-* Statements admitting to committing high-severity violence (in written or verbal form, or visually depicted by a perpetrator), except when shared in a context of redemption, self-defense or when committed by law enforcement, military or state security personnel.
+**Additional protections for Private Adults, All Children, high-risk persons and persons or groups based on their protected characteristics:**  
+In addition to the universal protections for everyone, all private adults (when self-reported), children and persons or groups of people targeted on the basis of their protected characteristic(s), are protected from threats of low-severity violence.
 
-Content that asks for, offers, or admits to offering services of high-severity violence (for example, hitmen, mercenaries, assassins, female genital mutilation) or advocates for the use of these services
+**Other Violence**  
+In addition to all of the protections listed above, we remove the following:
 
-Admissions, statements of intent or advocacy, calls to action, or aspirational or conditional statements to kidnap or abduct a target or that promotes, supports or advocates for kidnapping or abduction
-
-Content that depicts kidnappings or abductions if it is clear the content is not being shared by a victim or their family as a plea for help, or shared for informational, condemnation or awareness raising purposes
-
-Threats of high-severity violence using digitally-produced or altered imagery to target living people with armaments, methods of violence or dismemberment
-
-Threats that lead to serious injury (mid-severity violence) and admission of past violence toward private individuals, unnamed specified persons, minor public figures, high-risk persons or high-risk groups where threat is defined as any of the following:
-
-* Statements of intent to commit violence, or
-* Statements advocating violence, or
-* Calls for mid-severity violence including content where no target is specified but a symbol represents the target, or
-* Aspirational or conditional statements to commit violence, or
-* Statements admitting to committing mid-severity violence (in written or verbal form, or visually depicted by a perpetrator), except when shared in a context of redemption, self-defense, fight-sports context or when committed by law enforcement, military or state security personnel.
-
-Content about other target(s) apart from private individuals, minor public figures, high-risk persons or high-risk groups and any credible:
-
-* Statements of intent to commit violence, or
-* Calls for action of violence, or
-* Statements advocating for violence, or
-* Aspirational or conditional statements to commit violence
-
-Threats that lead to physical harm (or other forms of lower-severity violence) towards private individuals (self-reporting required) or minor public figures where threat is defined as any of the following:
-
-* Private individuals (name and/or face match are required) or minor public figures that includes:
-    * Statements of intent, calls for action, advocating, aspirational or conditional statements to commit low-severity violence
-
-Instructions on how to make or use weapons if there is evidence of a goal to seriously injure or kill people through:
-
-* Language explicitly stating that goal, or
-* Photos or videos that show or simulate the end result (serious injury or death) as part of the instruction.
-* Unless when shared in a context of recreational self defense, for military training purposes, commercial video games, or news coverage (posted by a Page or with a news logo).
-
-Providing instructions on how to make or use explosives, unless there is clear context that the content is for a non-violent purpose (for example, part of commercial video games, clear scientific/educational purpose, fireworks or specifically for fishing)
-
-Any content containing statements of intent, calls for action, conditional or aspirational statements, or advocating for violence due to voting, voter registration or the administration or outcome of an election
-
-Statements of intent or advocacy, calls to action, or aspirational or conditional statements to bring or take up armaments to locations (including but not limited to places of worship, educational facilities, polling places or locations used to count votes or administer an election) or locations where there are temporary signals of a heightened risk of violence. This may be the case, for example, when there is a known protest and counter-protest planned or violence broke out at a protest in the same city within the last 7 days. This includes a visual of an armament or method that represents violence that targets these locations.
-
-Statements of intent or advocacy, calls to action, or aspirational or conditional statements to forcibly enter locations (including but not limited to places of worship, educational facilities, polling places or locations used to count votes or administer an election) where there are temporary signals of a heightened risk of violence. This may be the case, for example, when there is a known protest and counter-protest planned or violence broke out at a protest in the same city within the last 7 days.
+* Content that asks for, offers, or admits to offering services of high-severity violence (for example, hitmen, mercenaries, assassins, female genital mutilation) or advocates for the use of these services
+* Instructions on how to make or use weapons where there is language explicitly stating the goal to seriously injure or kill people, or imagery that shows or simulates the end result, unless in the context of recreational self-defense, training by a country’s military, commercial video games, or news coverage (posted by Page or with news logo).
+* Instructions on how to make or use explosives, unless with context that the content is for a non-violent purpose (for example, part of commercial video games, clear scientific/educational purpose, fireworks, or specifically for fishing)
+* Threats to take up weapons or to bring weapons to a location or forcibly enter a location (including but not limited to places of worship, educational facilities, polling places or locations used to count votes or administer an election), or locations where there are temporary signals of a heightened risk of violence.
+* Threats of violence related to voting, voter registration, or the administration or outcome of an election, even if there is no target.
 
 #### For the following Community Standards, we require additional information and/or context to enforce:
 
-Do not post:
+We Remove:
 
-* Violent threats against law enforcement officers.
-* Violent threats against people accused of a crime. We remove this content when we have reason to believe that the content is intended to cause physical harm.
-
+* Threats against law enforcement officers or election officials, regardless of their public figure status or credibility of the threat.
 * Coded statements where the method of violence is not clearly articulated, but the threat is veiled or implicit, as shown by the combination of both a threat signal and contextual signal from the list below.
-* Threat: Content is a coded statement that is one of the following:
+
+* Threat: a coded statement that is one of the following:
 
 * Shared in a retaliatory context (e.g., expressions of desire to engage in violence against others in response to a grievance or threat that may be real, perceived or anticipated)
-* References to historical or fictional incidents of violence (e.g., content that threatens others by referring to known historical incidents of violence that have been executed throughout history or in fictional settings)
-* Acts as a threatening call-to-action (e.g. content inviting or encouraging others to carry out violent acts or to join in carrying out the violent acts)
-* Indicates knowledge of or shares sensitive information that could expose others to violence (e.g. content that either makes note of or implies awareness of personal information that might make a threat of violence more credible. This includes implying knowledge of a person's residential address, their place of employment or education, daily commute routes or current location)
+* References to historical or fictional incidents of violence (e.g., content that threatens others by referring to known historical incidents of violence that have been committed throughout history or in fictional settings)
+* Acts as a threatening call to action (e.g., content inviting or encouraging others to carry out violent acts or to join in carrying out the violent acts)
+* Indicates knowledge of or shares sensitive information that could expose others to violence (e.g., content that either makes note of or implies awareness of personal information that might make a threat of violence more credible. This includes implying knowledge of a person's residential address, their place of employment or education, daily commute routes or current location)
 
-* Context:
+* Context
 
 * Local context or expertise confirms that the statement in question could lead to imminent violence.
 * The target of the content or an authorized representative reports the content to us.
 
-* Threats against election workers, including claims of election-related wrongdoing against private individuals when combined with a signal of violence or additional context that confirms that the claim could lead to imminent violence or physical harm.
-* Implicit statements of intent or advocacy, calls to action, or aspirational or conditional statements to bring armaments to locations, including but not limited to places of worship, educational facilities, polling places, or locations used to count votes or administer an election (or encouraging others to do the same). We may also restrict calls to bring armaments to certain locations where there are temporarily signals of a heightened risk of violence or offline harm. This may be the case, for example, when there is a known protest and counter-protest planned or violence broke out at a protest in the same city within the last 7 days
+* Implicit threats to bring armaments to locations, including but not limited to places of worship, educational facilities, polling places or locations used to count votes or administer an election (or encouraging others to do the same) or locations where there are temporary signals of a heightened risk of violence.
+* Claims or speculation about election-related corruption, irregularities, or bias when combined with a signal that content is threatening violence (e.g., threats to take up or bring a weapon, visual depictions of a weapon, references to arson, theft, vandalism), including:
+
+* Targeting individual(s)
+* Targeting a specific location (state or smaller)
+* Where the target is not explicit
+
+* References to election-related gatherings or events when combined with a signal that content is threatening violence (e.g., threats to take up or bring a weapon, visual depictions of a weapon, references to arson, theft, vandalism).
 
 Read lessRead more
 
@@ -1027,11 +1004,17 @@ Hate Speech
 
 #### Policy Rationale
 
-We believe that people use their voice and connect more freely when they don’t feel attacked on the basis of who they are. That is why we don’t allow hate speech on Facebook. It creates an environment of intimidation and exclusion, and in some cases may promote offline violence.
+We believe that people use their voice and connect more freely when they don’t feel attacked on the basis of who they are. That is why we don’t allow hate speech on Facebook, Instagram, or Threads. It creates an environment of intimidation and exclusion, and in some cases may promote offline violence.
 
-We define hate speech as a direct attack against people — rather than concepts or institutions— on the basis of what we call protected characteristics: race, ethnicity, national origin, disability, religious affiliation, caste, sexual orientation, sex, gender identity and serious disease. We define attacks as violent or dehumanizing speech, harmful stereotypes, statements of inferiority, expressions of contempt, disgust or dismissal, cursing and calls for exclusion or segregation. We also prohibit the use of harmful stereotypes, which we define as dehumanizing comparisons that have historically been used to attack, intimidate, or exclude specific groups, and that are often linked with offline violence. We consider age a protected characteristic when referenced along with another protected characteristic. We also protect refugees, migrants, immigrants and asylum seekers from the most severe attacks, though we do allow commentary and criticism of immigration policies. Similarly, we provide some protections for characteristics like occupation, when they’re referenced along with a protected characteristic. Sometimes, based on local nuance, we consider certain words or phrases as frequently used proxies for PC groups.
+We define hate speech as direct attacks against people — rather than concepts or institutions— on the basis of what we call protected characteristics (PCs): race, ethnicity, national origin, disability, religious affiliation, caste, sexual orientation, sex, gender identity, and serious disease. Additionally, we consider age a protected characteristic when referenced along with another protected characteristic. We also protect refugees, migrants, immigrants, and asylum seekers from the most severe attacks, though we do allow commentary on and criticism of immigration policies. Similarly, we provide some protections for non- protected characteristics, such as occupation, when they are referenced along with a protected characteristic. Sometimes, based on local nuance, we consider certain words or phrases as frequently used proxies for PC groups.
 
-We also prohibit the usage of slurs that are used to attack people on the basis of their protected characteristics. However, we recognize that people sometimes share content that includes slurs or someone else's hate speech to condemn it or raise awareness. In other cases, speech, including slurs, that might otherwise violate our standards can be used self-referentially or in an empowering way. Our policies are designed to allow room for these types of speech, but we require people to clearly indicate their intent. If the intention is unclear, we may remove content.
+We define a hate speech attack as dehumanizing speech; statements of inferiority, expressions of contempt or disgust; cursing; and calls for exclusion or segregation. We also prohibit the use of harmful stereotypes, which we define as dehumanizing comparisons that have historically been used to attack, intimidate, or exclude specific groups, and that are often linked with offline violence. We also prohibit the usage of slurs that are used to attack people on the basis of their protected characteristics. Attacks are separated into two tiers of severity, described below.
+
+We have additional restrictions for paid content.
+
+However, we recognize that people sometimes share content that includes slurs or someone else’s hate speech in order to condemn the speech or raise awareness of it. In other cases, speech, including slurs, that might otherwise violate our standards is used self-referentially or in an empowering way. People also sometimes express contempt or curse at a gender in the context of a romantic break-up. Other times, they use gender-exclusive language to control membership in a health or positive support group, such as a breastfeeding group for women only. Our policies are designed to allow room for these types of speech but require people to clearly indicate their intent. Where intention is unclear, we may remove content.
+
+Note: Violent speech targeting people on the basis of their protected characteristics is covered in our Violence and Incitement Policy.
 
 [Learn more about our approach to hate speech.](https://about.fb.com/news/2017/06/hard-questions-hate-speech/)
 
@@ -1039,38 +1022,59 @@ We also prohibit the usage of slurs that are used to attack people on the basis 
 
 **Tier 1**
 
-Content targeting a person or group of people (including all groups except those who are considered non-protected groups described as having carried out violent crimes or sexual offenses or representing less than half of a group) on the basis of their aforementioned protected characteristic(s) or immigration status with:
+Content targeting a person or group of people (including all groups except those who are considered non-protected groups described as having carried out violent crimes or sexual offenses or representing less than half of a group) on the basis of their aforementioned protected characteristic(s) or immigration status in written or visual form with:
 
-* Violent speech or support in written or visual form
-* Dehumanizing speech or imagery in the form of comparisons, generalizations, or unqualified behavioral statements (in written or visual form) to or about:
-    * Insects (including but not limited to: cockroaches, locusts)
-    * Animals in general or specific types of animals that are culturally perceived as intellectually or physically inferior (including but not limited to: Black people and apes or ape-like creatures; Jewish people and rats; Muslim people and pigs; Mexican people and worms)
-    * Filth (including but not limited to: dirt, grime)
-    * Bacteria, viruses, or microbes
-    * Disease (including but not limited to: cancer, sexually transmitted diseases)
-    * Feces (including but not limited to: shit, crap)
-    * Subhumanity (including but not limited to: savages, devils, monsters, primitives)
-    * Sexual predators (including but not limited to: Muslim people having sex with goats or pigs)
-    * Violent criminals (including but not limited to: terrorists, murderers, members of hate or criminal organizations)
-    * Other criminals (including but not limited to “thieves,” “bank robbers,” or saying “All \[protected characteristic or quasi-protected characteristic\] are ‘criminals’”).
-    * Certain objects (women as household objects or property or objects in general; Black people as farm equipment; transgender or non-binary people as “it”)
-    * Statements denying existence (including but not limited to: "\[protected characteristic(s) or quasi-protected characteristic\] do not exist", "no such thing as \[protected charactic(s) or quasi-protected characteristic\]" )
-    * Harmful stereotypes historically linked to intimidation, exclusion, or violence on the basis of a protected characteristic, such as Blackface; Holocaust denial; claims that Jewish people control financial, political, or media institutions; and references to Dalits as menial laborers
+* Dehumanizing speech in the form of comparisons to or generalizations about:
+
+* Animals and pathogens
+
+* Insects (including but not limited to: cockroaches, locusts)
+* Animals in general or specific types of animals that are culturally perceived as inferior (including but not limited to: Black people and apes or ape-like creatures; Jewish people and rats; Muslim people and pigs; Mexican people and worms)
+
+* Certain Inanimate Objects and Non-Human States:
+
+* Certain objects (women as household objects or property or objects in general; Black people as farm equipment; transgender or non-binary people as “it”)
+* Feces (including but not limited to: shit, crap)
+* Filth (including but not limited to: dirt, grime, or saying "\[protected characteristic or quasi-protected characteristic\] has bad hygiene")
+* Bacteria, viruses, or microbes
+* Disease (including but not limited to: cancer, sexually transmitted diseases)
+* Subhumanity (including but not limited to: savages, devils, monsters, primitives)
+
+* Criminals
+
+* Sexual predators (including but not limited to: Muslim people having sex with goats or pigs)
+* Violent criminals (including but not limited to: terrorists, murderers, members of hate or criminal organizations)
+* Other criminals (including but not limited to “thieves,” “bank robbers,” or saying “All \[protected characteristic or quasi-protected characteristic\] are ‘criminals’”).
+
+* Statements in the form of calls for action or statements of intent to inflict, aspirational or conditional statements about, or statements advocating or supporting harm in the following ways:
+
+* In favor of contracting a disease
+* In favor of experiencing a natural disaster
+* Calls for self-injury or suicide
+* Calls for death without a perpetrator or method
+* Calls for accidents and other physical harms caused either by no perpetrator or by a deity
+
+* Statements denying existence (including but not limited to: "\[protected characteristic(s) or quasi-protected characteristic\] do not exist", "no such thing as \[protected charactic(s) or quasi-protected characteristic\]" or “\[protected characteristic(s) or quasi-protected characteristic\] shouldn’t exist”)
+* Harmful stereotypes historically linked to intimidation, exclusion, or violence on the basis of a protected characteristic, such as Blackface; Holocaust denial; claims that Jewish people control financial, political, or media institutions; and references to Dalits as menial laborers
 * Mocking the concept, events or victims of hate crimes even if no real person is depicted in an image.
+* Mocking people on the basis of their Protected Characteristics or Quasi-Protected Characteristics for having or experiencing a disease.
+
+* Content that describes or negatively targets people with slurs, where slurs are defined as words that inherently create an atmosphere of exclusion and intimidation against people on the basis of a protected characteristic, often because these words are tied to historical discrimination, oppression, and violence. They do this even when targeting someone who is not a member of the PC group that the slur inherently targets.
+
+  
 
 **Tier 2**
 
-Content targeting a person or group of people on the basis of their protected characteristic(s) with:
+Content targeting a person or group of people on the basis of their protected characteristic(s) (in written or visual form):
 
-* Generalizations that state inferiority (in written or visual form) in the following ways:
-    * Physical deficiencies are defined as those about:
-        * Hygiene, including but not limited to: filthy, dirty, smelly.
-        * Physical appearance, including but not limited to: ugly, hideous.
-    * Mental deficiencies are defined as those about:
+* Generalizations that state inferiority in the following ways:
+    * Physical characteristics, specifically
+    * Physical appearance, including but not limited to: ugly, hideous.
+    * Mental characteristics are defined as those about:
         * Intellectual capacity, including but not limited to: dumb, stupid, idiots.
         * Education, including but not limited to: illiterate, uneducated.
         * Mental health, including but not limited to: mentally ill, retarded, crazy, insane.
-    * Moral deficiencies are defined as those about:
+    * Moral characteristics are defined as those about:
         * Character traits culturally perceived as negative, including but not limited to: coward, liar, arrogant, ignorant.
         * Derogatory terms related to sexual activity, including but not limited to: whore, slut, perverts.
 
@@ -1079,42 +1083,32 @@ Content targeting a person or group of people on the basis of their protected ch
     * Expressions about being better/worse than another protected characteristic, including but not limited to: "I believe that males are superior to females."
     * Expressions about deviating from the norm, including but not limited to: freaks, abnormal.
 
-* Expressions of contempt (in written or visual form), which we define as:
+* Expressions of contempt, except in a romatic break-up context, and disgust, which we define as:
     * Self-admission to intolerance on the basis of a protected characteristics, including but not limited to: homophobic, islamophobic, racist.
-    * Expressions that a protected characteristic shouldn't exist.
-    * Expressions of hate, including but not limited to: despise, hate.
-
-* Expressions of dismissal, including but not limited to: don´t respect, don't like, don´t care for
-
-* Expressions of disgust (in written or visual form), which we define as:
+    * Expressions of hate, including but not limited to: "I despise","I hate", " I can't stand".
+    * Expressions of dismissal, including but not limited to: "I don´t respect", "I don't like", " I don´t care for"
     * Expressions that suggest the target causes sickness, including but not limited to: vomit, throw up.
     * Expressions of repulsion or distaste, including but not limited to: vile, disgusting, yuck.
 
-* Cursing, except certain gender-based cursing in a romantic break-up context, defined as:
+* Targeted cursing, except certain gender-based cursing in a romantic break-up context, defined as:
     * Referring to the target as genitalia or anus, including but not limited to: cunt, dick, asshole.
-    * Profane terms or phrases with the intent to insult, including but not limited to: fuck, bitch, motherfucker.
+    * Profane terms or phrases or other curses with the intent to insult, including but not limited to: fuck, bitch, motherfucker.
     * Terms or phrases calling for engagement in sexual activity, or contact with genitalia, anus, feces or urine, including but not limited to: suck my dick, kiss my ass, eat shit.
 
-**Tier 3**
+* Exclusion or segregation in the form of calls for action, statements of intent, aspirational or conditional statements, or statements advocating or supporting defined as:
 
-Content targeting a person or group of people on the basis of their protected characteristic(s) with any of the following:
-
-* Segregation in the form of calls for action, statements of intent, aspirational or conditional statements, or statements advocating or supporting segregation.
-* Exclusion in the form of calls for action, statements of intent, aspirational or conditional statements, or statements advocating or supporting, defined as
-    * Explicit exclusion, which means things like expelling certain groups or saying they are not allowed.
-    * Political exclusion, which means denying the right to political participation.
-    * Economic exclusion, which means denying access to economic entitlements and limiting participation in the labour market.
-    * Social exclusion, which means things like denying access to spaces (physical and online)and social services, except for gender-based exclusion in health and positive support Groups.
-
-Content that describes or negatively targets people with slurs, where slurs are defined as words that inherently create an atmosphere of exclusion and intimidation against people on the basis of a protected characteristic, often because these words are tied to historical discrimination, oppression, and violence. They do this even when targeting someone who is not a member of the PC group that the slur inherently targets.
+* Explicit exclusion, which means things like expelling certain groups or saying they are not allowed or segregation.
+* Political exclusion, which means denying the right to political participation.
+* Economic exclusion, which means denying access to economic entitlements and limiting participation in the labor market.
+* Social exclusion, which means things like denying access to spaces (physical and online)and social services, except for gender-based exclusion in health and positive support Groups.
 
 #### For the following Community Standards, we require additional information and/or context to enforce:
 
 Do not post:
 
 * Content explicitly providing or offering to provide products or services that aim to change people’s sexual orientation or gender identity.
-* Content attacking concepts, institutions, ideas, practices, or beliefs associated with protected characteristics, which are likely to contribute to imminent physical harm, intimidation or discrimination against the people associated with that protected characteristic. Facebook looks at a range of signs to determine whether there is a threat of harm in the content. These include but are not limited to: content that could incite imminent violence or intimidation; whether there is a period of heightened tension such as an election or ongoing conflict; and whether there is a recent history of violence against the targeted protected group. In some cases, we may also consider whether the speaker is a public figure or occupies a position of authority.
-* Content targeting a person or group of people on the basis of their protected characteristic(s) with claims that they have or spread the novel coronavirus, are responsible for the existence of the novel coronavirus, are deliberately spreading the novel coronavirus, or mocking them for having or experiencing the novel coronavirus.
+* Content attacking concepts, institutions, ideas, practices, or beliefs associated with protected characteristics, which are likely to contribute to imminent physical harm, intimidation or discrimination against the people associated with that protected characteristic. Meta looks at a range of signs to determine whether there is a threat of harm in the content. These include but are not limited to: content that could incite imminent violence or intimidation; whether there is a period of heightened tension such as an election or ongoing conflict; and whether there is a recent history of violence against the targeted protected group. In some cases, we may also consider whether the speaker is a public figure or occupies a position of authority.
+* Content targeting a person or group of people on the basis of their protected characteristic(s) with claims that they have or spread the novel coronavirus, are responsible for the existence of the novel coronavirus, are deliberately spreading the novel coronavirus.
 
 In certain cases, we will allow content that may otherwise violate the Community Standards when it is determined that the content is satirical. Content will only be allowed if the violating elements of the content are being satirized or attributed to something or someone else in order to mock or criticize them.
 
@@ -1125,13 +1119,13 @@ Bullying and Harassment
 
 #### Policy Rationale
 
-Bullying and harassment happen in many places and come in many different forms from making threats and releasing personally identifiable information to sending threatening messages and making unwanted malicious contact. We do not tolerate this kind of behavior because it prevents people from feeling safe and respected on Facebook.
+Bullying and harassment happen in many places and come in many different forms from making threats and releasing personally identifiable information to sending threatening messages and making unwanted malicious contact. We do not tolerate this kind of behavior because it prevents people from feeling safe and respected on Facebook, Instagram, and Threads.
 
 We distinguish between public figures and private individuals because we want to allow discussion, which often includes critical commentary of people who are featured in the news or who have a large public audience. For public figures, we remove attacks that are severe as well as certain attacks where the public figure is directly tagged in the post or comment. We define public figures as state and national level government officials, political candidates for those offices, people with over one million fans or followers on social media and people who receive substantial news coverage.
 
-For private individuals, our protection goes further: We remove content that's meant to degrade or shame, including, for example, claims about someone's sexual activity. We recognize that bullying and harassment can have more of an emotional impact on minors, which is why our policies provide heightened protection for users between the ages of 13 and 18.
+For private individuals, our protection goes further: We remove content that's meant to degrade or shame, including, for example, claims about someone's sexual activity. We recognize that bullying and harassment can have more of an emotional impact on minors, which is why our policies provide heightened protection for anyone under the age 18, regardless of user status.
 
-Context and intent matter, and we allow people to post and share if it is clear that something was shared in order to condemn or draw attention to bullying and harassment. In certain instances, we require self-reporting because it helps us understand that the person targeted feels bullied or harassed. In addition to reporting such behavior and content, we encourage people to use [tools available on Facebook](https://www.facebook.com/safety/tools) to help protect against it.
+Context and intent matter, and we allow people to post and share if it is clear that something was shared in order to condemn or draw attention to bullying and harassment. In certain instances, we require self-reporting because it helps us understand that the person targeted feels bullied or harassed. In addition to reporting such behavior and content, we encourage people to use [tools available on our platforms](https://www.facebook.com/safety/tools) to help protect against it.
 
 We also have a [Bullying Prevention Hub](https://www.facebook.com/safety/bullying), which is a resource for teens, parents, and educators seeking support for issues related to bullying and other conflicts. It offers step-by-step guidance, including information on how to start important conversations about bullying. Learn more about what we are doing to protect people from bullying and harassment [here](https://about.fb.com/news/2018/10/protecting-people-from-bullying/).
 
@@ -1205,30 +1199,21 @@ Note: This policy does not apply to individuals who are part of designated organ
 * Minors get the most protection under our policy. In addition to all the protections listed above, private minors are also protected from:
     * Allegations about criminal or illegal behavior.
     * Videos of physical bullying against minors, shared in a non-condemning context.
+    * Videos of physical bullying against minors, shared in a condemning context, where we add a cover so people can choose whether to see it.
 
-**Tier 5: Bullying and harassment through pages, groups, events and messages**
+**Bullying and harassment through pages, groups, events and messages**
 
 * The protections of Tiers 1 through 4 are also enforced on pages, groups, events and messages.
-
-#### We add a cover to this content so people can choose whether to see it:
-
-Videos of physical bullying against minors shared in a condemning context
 
 #### For the following Community Standards, we require additional information and/or context to enforce:
 
 Do not:
 
-* Post content that targets private individuals through unwanted Pages, Groups and Events. We remove this content when it is reported by the victim or an authorized representative of the victim.
-* Create accounts to contact someone who has blocked you.
-* Post attacks that use derogatory terms related to female gendered cursing. We remove this content when the victim or an authorized representative of the victim informs us of the content, even if the victim has not reported it directly.
-* Post content that would otherwise require the victim to report the content or an indicator that the poster is directly targeting the victim (for example: the victim is tagged in the post or comment). We will remove this content if we have confirmation from the victim or an authorized representative of the victim that the content is unwanted.
-* Post content praising, celebrating or mocking anyone's death. We also remove content targeting a deceased individual that we would normally require the victim to report.
-* Post content calling for or stating an intent to engage in behavior that would qualify as bullying and harassment under our policies. We will remove this content when we have confirmation from the victim or an authorized representative of the victim that the content is unwanted.
-* Post content sexualizing a public figure. We will remove this content when we have confirmation from the victim or an authorized representative of the victim that the content is unwanted.
-* Initiate contact that is unwanted, including when contact is sexually harassing the recipient. We will remove any content shared in an unwanted context when we have a confirmation from the recipient, or an authorized representative of the recipient that contact is unwanted.
-* Engage in mass harassment against individuals that targets them based on their decision to take or not take the COVID-19 vaccine with:
-    * Statements of mental or moral inferiority based on their decision, or
-    * Statements that advocate for or allege a negative outcome as a result of their decision, except for widely proven and/or accepted COVID-19 symptoms or vaccine side effects.
+* Post content that targets private individuals through unwanted Pages, Groups and Events. We remove this content when it is reported by the target or an authorized representative of the target.
+* Post content described above that would otherwise require the target to report the content or where the content an indicates that the poster is directly targeting the target (for example: the target is tagged in the post or comment). We will remove this content if we have confirmation from the target or an authorized representative of the target (alive or deceased) that the content is unwanted.
+* Post content calling for or stating an intent to engage in behavior that would qualify as bullying and harassment under our policies. We will remove this content when we have confirmation from the target or an authorized representative of the target that the content is unwanted.
+* Post content sexualizing a public figure. We will remove this content when we have confirmation from the target or an authorized representative of the target that the content is unwanted.
+* Initiate contact that is sexually harassing the recipient. We will remove any content shared in an unwanted context when we have a confirmation from the recipient, or an authorized representative of the recipient that contact is unwanted.
 * Remove directed mass harassment, when:
     * Targeting, via any surface, ‘individuals at heightened risk of offline harm’, defined as:
         * Human rights defenders
