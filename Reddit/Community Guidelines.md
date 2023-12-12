@@ -13,39 +13,43 @@ Below the rules governing each community are the platform-wide rules that apply 
 
 Reddit and its communities are only what we make of them together, and can only exist if we operate by a shared set of rules. We ask that you abide by not just the letter of these rules, but the spirit as well.
 
-**Rules** **Rule 1**
+Rules
+-----
+
+### Rule 1
 
 Remember the human. Reddit is a place for creating community and belonging, not for attacking marginalized or vulnerable groups of people. Everyone has a right to use Reddit free of [harassment, bullying](https://www.reddithelp.com/hc/en-us/articles/360043071072), and threats of [violence](https://www.reddithelp.com/en/categories/rules-reporting/account-and-community-restrictions/do-not-post-violent-content). Communities and users that incite violence or that promote hate based on [identity or vulnerability](https://www.reddithelp.com/en/categories/rules-reporting/account-and-community-restrictions/promoting-hate-based-identity-or) will be banned.
 
-**Rule 2**
+### Rule 2
 
 Abide by community rules. Post authentic content into communities where you have a personal interest, and do not cheat or engage in content manipulation (including [spamming](https://www.reddithelp.com/en/categories/rules-reporting/account-and-community-restrictions/what-constitutes-spam-am-i-spammer), [vote manipulation](https://www.reddithelp.com/hc/en-us/articles/360043066412), ban evasion, or subscriber fraud) or otherwise interfere with or disrupt Reddit communities.
 
-**Rule 3**
+### Rule 3
 
 Respect the privacy of others. Instigating harassment, for example by revealing someone’s [personal or confidential information](https://www.reddithelp.com/en/categories/rules-reporting/account-and-community-restrictions/posting-someones-private-or-personal), is not allowed. Never post or threaten to post [intimate or sexually-explicit media](https://www.reddithelp.com/hc/en-us/articles/360043513411) of someone without their consent.
 
-**Rule 4**
+### Rule 4
 
 Do not share or encourage the sharing of [sexual](https://support.reddithelp.com/hc/en-us/articles/360043075352), [abusive](https://support.reddithelp.com/hc/en-us/articles/17130615698964), or suggestive content involving minors. Any predatory or inappropriate behavior involving a minor is also strictly prohibited.
 
-**Rule 5**
+### Rule 5
 
 You don’t have to use your real name to use Reddit, but don’t [impersonate](https://www.reddithelp.com/hc/en-us/articles/360043075032) an individual or an entity in a misleading or deceptive manner.
 
-**Rule 6**
+### Rule 6
 
 Ensure people have predictable experiences on Reddit by properly labeling content and communities, particularly content that is graphic, sexually-explicit, or offensive.
 
-**Rule 7**
+### Rule 7
 
 Keep it legal, and avoid posting illegal content or soliciting or facilitating [illegal or prohibited transactions](https://www.reddithelp.com/en/categories/rules-reporting/account-and-community-restrictions/reddits-policy-against-transactions).
 
-**Rule 8**
+### Rule 8
 
 Don’t [break the site](https://www.reddithelp.com/en/categories/rules-reporting/account-and-community-restrictions/dont-break-site) or do anything that interferes with normal use of Reddit.
 
-**Enforcement**
+Enforcement
+-----------
 
 We have a variety of ways of enforcing our rules, including, but not limited to
 
@@ -75,7 +79,7 @@ Some examples of violent content that would violate the Rule:
 
 * Post or comment with a credible threat of violence against an individual or group of people.
 * Post containing mass killer manifestos or imagery of their violence.
-* Terrorist content, including propaganda.
+* [Terrorist content](https://support.reddithelp.com/hc/en-us/articles/19003525756564), including propaganda.
 * Post containing imagery or text that incites, glorifies, or encourages self-harm or suicide.
 * Post that requests, or gives instructions on, ways to self-harm or commit suicide.
 * Graphic violence, image, or video without appropriate context.
@@ -104,9 +108,8 @@ Some examples of hateful activities that would violate the rule:
 
 Additionally, when evaluating the activity of a community or an individual user, we consider both the context as well as the pattern of behavior.
 
-Spam on Reddit is generally defined as repeated, unwanted, and/or unsolicited actions, whether automated or manual, that negatively affect Reddit users, Reddit communities, and/or Reddit itself. Spam is a violation of the Reddit [User Agreement](https://www.reddit.com/help/useragreement) and [Content Policy](https://www.reddit.com/help/contentpolicy), punishable by content removal and account suspension or termination. As spam-like behaviors evolve, Reddit will continue to adjust how we mitigate and prevent the spread of spam content.
-
-If you detect spam or spam-like behavior, please contact us [here](https://www.reddithelp.com/hc/en-us/requests/new).
+Spam on Reddit is generally defined as repeated, unwanted, and/or unsolicited actions, whether automated or manual, that negatively affect Reddit users, Reddit communities, and/or Reddit itself. Spam is a violation of the Reddit [User Agreement](https://www.reddit.com/help/useragreement) and [Content Policy](https://www.reddit.com/help/contentpolicy), punishable by content removal and account suspension or termination. As spam-like behaviors evolve, Reddit will continue to adjust how we mitigate and prevent the spread of spam content.  
+  
 
 **How do I avoid being labeled as a spammer?**
 
@@ -132,19 +135,20 @@ If you detect spam or spam-like behavior, please contact us [here](https://www.
 * Programming bots that harm/break Reddit, including bots intended to promote content/products/services.
     
 
-**To report Spam, please visit [this page](https://www.reddit.com/report).**
+**  
+To report spam, please visit [this page](https://www.reddit.com/report).**
 
-Please note: you will receive an auto-response when submitting a spam related report. A human reviews each ticket but we will only respond when we need more information.
+Please note: You will receive an auto-response when submitting a spam related report. A human reviews each ticket, but we will only respond when we need more information.
 
-Vote manipulation is against the Reddit rules, whether it is manual, programmatic, or otherwise. Some common forms of vote cheating are:
+Vote manipulation is prohibited on Reddit and goes against the rules, whether it is manual, programmatic, or otherwise. Some common forms of vote manipulation include:
 
-* Using multiple accounts, voting services, or any other software to increase or decrease vote scores.
-* Asking people to vote up or down certain posts, either on Reddit itself or through social networks, messaging, etc. for personal gain.
-* Forming or joining a group that votes together, either on a specific post, a user's posts, posts from a domain, etc.
+* **Using multiple accounts and voting services:** Creating and employing multiple accounts, voting services, or any software to manipulate vote counts by either increasing or decreasing them.
+* **Soliciting votes:** Requesting or encouraging people to upvote or downvote specific posts, either on Reddit or through social networks, messaging, etc. for personal gain.
+* **Participating in Group Voting:** Joining or forming groups that coordinate votes, either on a specific post, a user's posts, content from a domain, etc. 
 
-Cheating or attempting to manipulate voting will result in your account being banned. Don't do it.
+Engaging in vote cheating or manipulation will result in the suspension or banning of your Reddit account. 
 
-To report Vote Manipulation, please visit [this page](https://www.reddit.com/report).
+If you come across instances of vote manipulation that you'd like to report, please visit [this page](https://www.reddit.com/report).
 
 No. Reddit is quite open and pro-free speech, but it is not okay to post someone's personal information or post links to personal information. This includes links to public Facebook pages and screenshots of Facebook pages with the names still legible.
 
@@ -216,12 +220,12 @@ Content is prohibited if it uses Reddit to solicit or facilitate any transaction
 
 You may not use Reddit to solicit or facilitate any transaction or gift involving certain goods and services, including
 
-* [Firearms, ammunition](https://www.reddithelp.com/hc/en-us/articles/360043075712), explosives, legally controlled firearms parts or accessories (e.g., bump stock-type devices, silencers/suppressors, etc.), or 3D printing files to produce any of the aforementioned;
-* Drugs, including [alcohol and tobacco, or any controlled substances](https://www.reddithelp.com/hc/en-us/articles/360043513691) (except advertisements placed in accordance with our [advertising policy](https://advertising.reddithelp.com/en/categories/reddit-advertising-policy/reddit-advertising-policy-overview));
+* [Firearms, ammunition](https://support.reddithelp.com/hc/en-us/articles/360043075712), explosives, legally controlled firearms parts or accessories (e.g., bump stock-type devices, silencers/suppressors, etc.), or 3D printing files to produce any of the aforementioned;
+* Drugs, including [alcohol and tobacco, or any controlled substances](https://support.reddithelp.com/hc/en-us/articles/360043513691) (except advertisements placed in accordance with our [advertising policy](https://advertising.reddithelp.com/en/categories/reddit-advertising-policy/reddit-advertising-policy-overview));
 * Paid services involving physical sexual contact;
 * Stolen goods;
 * Personal information;
-* Falsified official documents or currency
+* Falsified official documents or currency;
 * Fraudulent services
 
 When considering a gift or transaction of goods or services not prohibited by this policy, keep in mind that Reddit is not intended to be used as a marketplace and takes no responsibility for any transactions individual users might decide to undertake in spite of this. Always remember: you are dealing with strangers on the internet.
