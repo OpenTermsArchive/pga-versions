@@ -673,7 +673,7 @@ If you get three strikes in 90 days or your channel is dedicated to violative co
 
 We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
-Nudity & sexual content policy
+Nudity & Sexual Content Policy
 ==============================
 
 **Note**: On September 7, 2022, we updated our Nudity and sexual content policy to more consistently enforce our Community Guidelines. You can learn more about these changes on [our forum](https://support.google.com/youtube/thread/178333446). This policy has been updated with these changes.
@@ -695,8 +695,8 @@ Explicit content that violates this policy could result in channel termination. 
 
 Don’t post content on YouTube if it shows:
 
-* The depiction of clothed or unclothed genitals, breasts, or buttocks that are meant for sexual gratification
-* Pornography, the depiction of sexual acts, or fetishes that are meant for sexual gratification
+* The depiction of clothed or unclothed genitals, breasts, or buttocks that are meant for sexual gratification.
+* Pornography, the depiction of sexual acts, or fetishes that are meant for sexual gratification.
 
 Other types of content that violate this policy
 -----------------------------------------------
@@ -705,7 +705,7 @@ Other types of content that violate this policy
 * Fondling or groping of genitals, breasts, or buttocks
 * Using sex toys to give viewers sexual gratification
 * Nudity or partial nudity that’s meant for sexual gratification
-* Non-consensual sex acts or promotion of non-consensual sex acts, such as sexual assault, bestiality, or incest
+* Non-consensual sex acts or the promotion or glorification of non-consensual sex acts, such as sexual assault, incest, bestiality, or zoophilia
 * Unwanted sexualization such as non-consensually shared imagery or voyeurism
 * Wardrobe accidents or nude photo leaks
 * Non-consensual zooming in or prolonged focused or emphasis on the breasts, buttocks or genital area for the purpose of sexual gratification
@@ -1006,6 +1006,7 @@ Other types of content that violate this policy
 * Content that threatens an identifiable individual or their property. This includes implicit threats that don’t specify a time or place but may feature a weapon, for example.
 * Content that depicts a staged meet-up that is used to accuse an identifiable individual of egregious misconduct with a minor, without the presence of law enforcement.
 * Content reveling in or mocking the death or serious injury of an identifiable individual.
+* Content that realistically simulates deceased minors or victims of deadly or well-documented major violent events describing their death or violence experienced.
 * Content that depicts creators simulating acts of serious violence against others. For example, executions, torture, maimings, beatings, and more.
 * Content that contains stalking of an identifiable individual.
 * Content that denies or minimizes someone’s role as a victim of a well-documented, major violent event.
