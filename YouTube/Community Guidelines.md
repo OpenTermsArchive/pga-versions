@@ -567,7 +567,7 @@ To protect minors on YouTube, content that doesn’t violate our policies but fe
 
 **How to protect minors in your content**
 
-Our goal is to protect both uploaders and viewers. Before posting content of yourself, your family, or friends, think carefully about whether it may put anyone at risk of negative attention. Minors are a vulnerable population, and YouTube has policies to protect them from unwanted attention.
+Before posting content of yourself, your family, or friends, think carefully about whether it may put anyone at risk of negative attention. Minors are a vulnerable population, and YouTube has policies to protect them from unwanted attention.
 
 * Make sure the minor is supervised by an adult and is performing age-appropriate activities such as demonstrating hobbies, educational content or public performances.
 * Make sure the attire worn is age-appropriate. Avoid attire that overexposes the minor or is form-fitting.
