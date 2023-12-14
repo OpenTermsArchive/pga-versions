@@ -447,47 +447,34 @@ Although we allow a variety of content to be shown on Twitch, content that featu
 * Browse 4chan, the dark web, or porn on Twitch
 * Use randomized video chat services
 
-Sexually Explicit Content and Sexual Services
----------------------------------------------
+Sexual Content
+--------------
 
-To maintain the health of our community, **users are prohibited from broadcasting, uploading, soliciting, offering, and linking to pornographic or sexually explicit content, and from offering or soliciting any sexual content in exchange for money, services, or items of value**. 
+To ensure content on Twitch is appropriate for diverse audiences, certain sexual content is prohibited. Users are **prohibited from broadcasting, uploading, soliciting, offering, and linking to pornographic content**.
 
 [](#)
 
-  For example, you may not show or promote \[content warning\]:
+  For example, you may not show, offer, or promote \[content warning\]:
 
-* Explicit, simulated, or implied oral, anal, and vaginal sex, including prolonged audio that implies sex/masturbation/orgasm, such as clear moaning and grunting
-* Explicit, simulated, or implied self or mutual masturbation, including groping or caressing genitals
+* Explicit, simulated, fictional, or implied sex or masturbation. This includes oral, anal, and vaginal sex, touching of genitals in self or mutual masturbation, or prolonged audio that implies sex/masturbation/orgasm.
+    * Real or realistically doctored adult nudity without implied or real sex acts is subject to our [Adult Nudity](https://safety.twitch.tv/s/article/Community-Guidelines?#22AdultNudity) policies
+    * Content depicting youth nudity is prohibited under our [Youth Safety](https://safety.twitch.tv/s/article/Community-Guidelines?#7YouthSafety) policies
 * Display of sexual bodily fluids
-* Phone sex, chat sex, or otherwise engaging with other person(s) or chat to create sexual content
-* Advertisement or solicitation of sexual services, including prostitution, escort services, sexual massages, and filmed sexual activity 
+* Advertisement or solicitation of sexual services, including prostitution, escort services, sexual massages, and filmed sexual activity
+* Consensual sexual violence such as flogging or whipping another person
+    * Non-consensual sexual violence is subject to our [Adult Sexual Violence and Exploitation](https://safety.twitch.tv/s/article/Community-Guidelines?#6AdultSexualViolenceandExploitation) policies 
+* Graphic descriptions of sex acts such as phone sex or erotica
+* Display of sex toys in a non-educational context, such as bragging about the size of a dildo
+* Soliciting money, services, or items of value (including subs and Bits) for posting content that requires the [Sexual Themes](https://safety.twitch.tv/s/article/Content-Classification-Guidelines?#2II:Sexualthemes) label - for example, listing a price to point the camera at fully clothed crotch
+    
 
-Broadcasting in areas where nudity or sexual activity may be taking place, even if such conduct or activity is not at the direction of the broadcaster or takes place in the background of the broadcast, is prohibited.
-
-While users may not directly link to pornographic or sexually explicit content in their broadcasts, profile, or chat, users will not be penalized for linking to their personal websites or social media pages that may incidentally contain these links. 
-
-Conversations about sex or nudity that are intended to be educational and otherwise comply with our policies should be marked as Mature Content via the respective channel’s settings.
-
-Sexually Suggestive Content
----------------------------
-
-To ensure content on Twitch is appropriate for diverse audiences**, sexually suggestive content is prohibited on Twitch**. Evaluations on the sexual suggestiveness of a behavior or activity are independent of user attire and are instead based on the overall surrounding framing and context. 
+Users may not directly link, promote, or advertise pornographic content in their broadcasts, profile, or chat. While users may not directly link to pornographic or sexually explicit content in their broadcasts, profile, or chat, users will not be penalized for linking to their personal websites or social media pages that may incidentally contain these links.  
+  
+For information about content relating to sexuality and sexual themes that is allowed with a label, see the [Sexual Themes policy](https://safety.twitch.tv/s/article/Content-Classification-Guidelines#2II:Sexualthemes).
 
 [](#)
 
-  For example, you may not engage in \[content warning\]:
-
-* Content or camera focus on breasts, buttocks, or pelvic region, including poses that deliberately highlight these elements
-* Groping or explicit gestures directed towards breasts, buttocks, or genitals
-* Fetishizing behavior or activity, such as focusing on body parts for sexual gratification or erotic role play
-* Featuring sex toys in contexts unrelated to sexual education
-* Erotic dances, such as those involving stripping or flashing
-* Pole dances or acrobatics with sexually suggestive framing 
-* Posting, displaying, or sharing erotica, including detailed descriptions of sex acts or pornography
-
-[](#)
-
-  ****Sexually Suggestive Content FAQ****
+  ****Sexual Content FAQ****
 
 **I accidentally showed content that was sexually explicit. Will my account be suspended?**
 
@@ -495,7 +482,7 @@ As owner of your account, it’s entirely your responsibility to ensure that any
 
 **If viewers mass report my channel for sexual content, can I be suspended even if I did nothing wrong?**
 
-No, frivolous report brigading will never result in a channel being suspended. All of our sexual content enforcements are manually reviewed and issued. If you feel that a suspension has been issued in error, you may file an appeal, the instructions for which can be found on our [Account Enforcements help article](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?#AppealingEnforcement) . All Community Guidelines suspension notifications also contain a link to this article.
+No, frivolous report brigading will never result in a channel being suspended. All of our sexual content enforcements are manually reviewed and issued. If you feel that a suspension has been issued in error, you may file an appeal, the instructions for which can be found on our [Account Enforcements help article](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?#AppealingEnforcement). All Community Guidelines suspension notifications also contain a link to this article.
 
 **Are there restrictions against nudity and sexual content in emotes, badges, and cheermotes?**
 
@@ -503,9 +490,19 @@ In addition to Twitch’s Terms of Service and Community Guidelines, all subscri
 
 **How does Twitch handle nudity in gaming?** 
 
-Games featuring nudity, pornography, sex, or sexual violence as a core focus or feature are entirely prohibited. Custom gameplay or visual modifications that include nudity or sex content, including uncensored patches, in otherwise allowed games are prohibited. [Learn more](https://safety.twitch.tv/s/article/Prohibited-Games) about prohibited games.
+We handle nudity in games in two ways. First, games featuring nudity, pornography, sex, or sexual violence as a core focus or feature are entirely prohibited. Custom gameplay or visual modifications that include nudity or sex content, including uncensored patches, in otherwise allowed games are prohibited. [Learn more](https://safety.twitch.tv/s/article/Prohibited-Games) about prohibited games.
 
-Focusing your broadcast around sexual content or in-game nudity in an otherwise allowed game will result in enforcement action against your Twitch account. When interacting with in-game nudity or sexual content in a permitted game, such as ‘The Witcher,’ users may only spend as much time as is required to progress. In addition, users may not engage in simulated sexual activity or erotic roleplay with other players in online games. Games that primarily consist of user-generated content, in-game roleplay, or interactions in virtual reality are not exempt from this policy.
+Second, for games where nudity is not the core focus or feature, the Mature-rated Games Content Classification Label is sufficient for incidental nudity. However, the Sexual Themes label must be applied to gameplay that focuses on nudity. [Learn more](https://safety.twitch.tv/s/article/Content-Classification-Guidelines?#1I:Mature-ratedgames) about the Mature-rated Games Content Classification Label. 
+
+Users may not engage in simulated sexual activity or erotic roleplay with other players in online games. Games that primarily consist of user-generated content, in-game roleplay, or interactions in virtual reality are not exempt from this policy.
+
+**Are artistic depictions of nudity allowed?**
+
+Content with a focus on fictionalized (drawn, animated, or sculpted) sexual body parts regardless of gender (such as doing nude figure drawing) is allowed with a Sexual Themes Label. However, fictionalized sexual acts or masturbation remain prohibited.
+
+**Is body painting on the breasts and buttocks allowed on Twitch?**
+
+As long as attire requirements are met, body painting on the breasts and buttocks is allowed with a Sexual Themes Label. 
 
 Adult Nudity
 ------------
