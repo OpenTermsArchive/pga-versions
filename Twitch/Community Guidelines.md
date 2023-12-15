@@ -450,15 +450,14 @@ Although we allow a variety of content to be shown on Twitch, content that featu
 Sexual Content
 --------------
 
-To ensure content on Twitch is appropriate for diverse audiences, certain sexual content is prohibited. Users are **prohibited from broadcasting, uploading, soliciting, offering, and linking to pornographic content**.
+To ensure content on Twitch is appropriate for diverse audiences, certain sexual content is prohibited, regardless of the medium used to create it (digital or non-digital). Users are **prohibited from broadcasting, uploading, soliciting, offering, and linking to pornographic content**.
 
 [](#)
 
   For example, you may not show, offer, or promote \[content warning\]:
 
 * Explicit, simulated, fictional, or implied sex or masturbation. This includes oral, anal, and vaginal sex, touching of genitals in self or mutual masturbation, or prolonged audio that implies sex/masturbation/orgasm.
-    * Real or realistically doctored adult nudity without implied or real sex acts is subject to our [Adult Nudity](https://safety.twitch.tv/s/article/Community-Guidelines?#22AdultNudity) policies
-    * Content depicting youth nudity is prohibited under our [Youth Safety](https://safety.twitch.tv/s/article/Community-Guidelines?#7YouthSafety) policies
+    * Adult nudity without implied or real sex acts is subject to our [Adult Nudity](https://safety.twitch.tv/s/article/Community-Guidelines?#22AdultNudity) policies
 * Display of sexual bodily fluids
 * Advertisement or solicitation of sexual services, including prostitution, escort services, sexual massages, and filmed sexual activity
 * Consensual sexual violence such as flogging or whipping another person
@@ -498,7 +497,7 @@ Users may not engage in simulated sexual activity or erotic roleplay with other 
 
 **Are artistic depictions of nudity allowed?**
 
-Content with a focus on fictionalized (drawn, animated, or sculpted) sexual body parts regardless of gender (such as doing nude figure drawing) is allowed with a Sexual Themes Label. However, fictionalized sexual acts or masturbation remain prohibited.
+Artistic depictions of nudity are only allowed in the context of public art (for example, a nude statue in a city square) or art history education (streaming from a museum or an art history lecture).
 
 **Is body painting on the breasts and buttocks allowed on Twitch?**
 
@@ -507,7 +506,7 @@ As long as attire requirements are met, body painting on the breasts and buttock
 Adult Nudity
 ------------
 
-**Users are prohibited from broadcasting or uploading content that contains depictions of real nudity (which includes realistically doctored nudity)****.** Incomplete censoring, such as pixelization, mosaics, and blurring effects, do not constitute an exemption to this policy. 
+**Users are prohibited from broadcasting or uploading content that contains depictions of** **real or fictional nudity**, regardless of the medium used to create it**.** Incomplete censoring, such as pixelization, mosaics, blurring effects, sheer or partially see-through clothing do not constitute an exemption to this policy. 
 
 [](#)
 
@@ -516,6 +515,8 @@ Adult Nudity
 * Exposed anuses or fully unclothed and exposed buttocks
 * Any amount of exposed genitals
 * Female presenting individuals’ breasts with exposed nipples (unless actively breastfeeding a child)
+
+Art history educational content or public art that might feature nude figures are exempt from this policy. 
 
 Attire
 ------
@@ -536,8 +537,6 @@ For all streamers, you must cover the area extending from your hips to the botto
 
 For those areas of the body where coverage is required, the coverage must be fully opaque; sheer or partially see-through clothing does not constitute coverage.
 
-Augmented reality avatars that translate real-life movement into digital characters are subject to this standard, as is cosplay and other costumes. For details on how this policy applies to IRL, outdoors, and body art, please continue reading. 
-
 [](#)
 
   ****Contextual exceptions****
@@ -548,11 +547,13 @@ Broadcasters, their co-hosts, and invited guests engaging in general IRL streami
 
 **Swim and beaches, concerts and festivals**
 
-Swimwear is permitted as long as it completely covers the genitals, and those who present as women must also cover their nipples. Full coverage of buttocks is not required, but camera focus around them is still subject to our sexually suggestive content policy. Coverage must be fully opaque, even when wet. Sheer or partially see-through swimwear or other clothing does not constitute coverage.
+Swimwear is permitted as long as it completely covers the genitals, and those who present as women must also cover their nipples. Full coverage of buttocks is not required, but camera focus around them is still subject to our Sexual Themes Content Classification Guidelines. Coverage must be fully opaque, even when wet. Sheer or partially see-through swimwear or other clothing does not constitute coverage.
 
 **Body Art**
 
-For streams dedicated to body art, full chest coverage is not required, but those who present as women must completely cover their nipples & areola with a layer of non-transparent clothing or a paint & latex combination (artist-grade pasties, tape, latex or similar alternatives are acceptable). This coverage must be applied before streaming begins, not on-stream. Buttocks and genitals must also be fully covered by opaque attire. This exception to the general coverage requirements only applies while the streamer is actively engaged in body painting, though the streamer may take short breaks between active painting sessions, or when painting is complete to model the results.
+For streams dedicated to body art, full chest coverage is not required, but those who present as women must completely cover their nipples & areola with a layer of non-transparent clothing or a paint & latex combination (artist-grade pasties, tape, latex or similar alternatives are acceptable). This coverage must be applied before streaming begins, not on-stream. Buttocks and genitals must also be fully covered by opaque attire. In addition, we ask that streamers add a Sexual Themes Content Classification Label when painting on their chests or buttocks.  
+  
+This exception to the general coverage requirements only applies while the streamer is actively engaged in body painting, though the streamer may take short breaks between active painting sessions, or when painting is complete to model the results.
 
 **Context transitions**
 
@@ -574,7 +575,7 @@ We recommend streamers wear attire that would be publicly appropriate for the co
 
 **Why aren’t there specific rules about what clothing is and isn’t allowed on Twitch?**
 
-As Twitch continues to expand the variety of content we feature, so comes the need for updating the range of attire that is acceptable. For example, something that is acceptable for a broadcast at the beach or the gym may not be acceptable for a cooking or gameplay broadcast. In an effort to help streamers abide by our Community Guidelines in the same way they would expectations of behavior in the real world, we’ve updated our policies to reflect that we will consider not just the attire itself, but also the contextual setting in which it is worn and the intent of the person wearing it, when moderating content. Please remember that sexually explicit or suggestive content, such as nudity exposing or focusing on genitals, buttocks, or nipples, and attire intended to be sexually suggestive are prohibited
+As Twitch continues to expand the variety of content we feature, so comes the need for updating the range of attire that is acceptable. For example, something that is acceptable for a broadcast at the beach or the gym may not be acceptable for a cooking or gameplay broadcast. In an effort to help streamers abide by our Community Guidelines in the same way they would expectations of behavior in the real world, we’ve updated our policies to reflect that we will consider not just the attire itself, but also the contextual setting in which it is worn and the intent of the person wearing it, when moderating content. Please remember that content focusing on covered genitals, buttocks, or breasts are required to be labeled as Sexual Themes.
 
 Account Usernames and Display Names
 -----------------------------------
