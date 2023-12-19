@@ -1711,7 +1711,7 @@ If you find content that violates this policy, report it. Instructions for repor
 Don’t post content on YouTube if it fits any of the descriptions below.
 
 * **Suppression of census participation:** Content aiming to mislead census participants about the time, place, means, or eligibility requirements of the census, or false claims that could materially discourage census participation.
-* **Manipulated content:** Content that has been technically manipulated or doctored in a way that misleads users (beyond clips taken out of context) and may pose a serious risk of egregious harm.
+* **Manipulated content:** Content that has been technically manipulated or doctored in a way that misleads users (usually beyond clips taken out of context) and may pose a serious risk of egregious harm.
 * **Misattributed content:** Content that may pose a serious risk of egregious harm by falsely claiming that old footage from a past event is from a current event.
 
 Examples
@@ -1727,8 +1727,8 @@ Suppression of census participation
 Manipulated content
 
 * Inaccurately translated video subtitles that inflame geopolitical tensions creating serious risk of egregious harm.
-* Videos that have been technically manipulated (beyond clips taken out of context) to make it appear that a government official is dead.
-* Video content that has been technically manipulated (beyond clips taken out of context) to fabricate events where there’s a serious risk of egregious harm.
+* Videos that have been technically manipulated (usually beyond clips taken out of context) to make it appear that a government official is dead.
+* Video content that has been technically manipulated (usually beyond clips taken out of context) to fabricate events where there’s a serious risk of egregious harm.
 
 Misattributed content
 
@@ -1774,7 +1774,6 @@ These policies prohibit certain types of content relating to free and fair democ
 * **Voter suppression:** Content aiming to mislead voters about the time, place, means, or eligibility requirements for voting, or false claims that could materially discourage voting.
 * **Candidate eligibility:** Content that advances false claims related to the technical eligibility requirements for current political candidates and sitting elected government officials to serve in office. Eligibility requirements considered are based on applicable national law, and include age, citizenship, or vital status.
 * **Incitement to interfere with democratic processes:** Content encouraging others to interfere with democratic processes. This includes obstructing or interrupting voting procedures.
-* **Distribution of hacked materials:** Content that contains hacked info, the disclosure of which may interfere with democratic processes.
 * **Election integrity:** Content advancing false claims that widespread fraud, errors, or glitches occurred in certain past elections to determine heads of government. Or, content that claims that the certified results of those elections were false. This policy currently applies to:
     * The 2021 German federal election
     * The 2014, 2018, and 2022 Brazilian Presidential elections
@@ -1805,21 +1804,31 @@ Incitement to interfere with democratic processes
 
 * Telling viewers to create long voting lines with the purpose of making it harder for others to vote.
 * Telling viewers to hack government websites to delay the release of elections results.
-
-Distribution of hacked materials
-
-The following types of content are not allowed on YouTube. This isn't a complete list.
-
-* Videos that contain hacked info about a political candidate shared with the intent to interfere in an election.
+* Telling viewers to incite physical conflict with election officials, voters, candidates, or other individuals at polling locations to deter voting.
 
 Election integrity
 
 * Content advancing false claims that widespread fraud, error, or glitches changed the outcome of the German parliamentary (Bundestag) elections, delegitimizes the formation of the new government or the election and appointment of the next German Chancellor.
-* False claims that widespread fraud, error, or glitches changed the outcome of the 2018 Brazilian presidential election.
+* False claims that widespread fraud, error, or glitches changed the outcome of the 2018 Brazilian presidential election.  
 
-We may allow content that violates the election integrity policy noted on this page if the content includes additional context in the video, audio, title, or description. This is not a pass to promote misinformation. Additional context may include countervailing views, or if the purpose of the content is to condemn, dispute, or satirize misinformation that violates our policies.
+Educational, documentary, scientific, or artistic content
+---------------------------------------------------------
 
-Remember these are just some examples, and don't post content if you think it might violate these policies. Please note these policies also apply to [external links](https://support.google.com/youtube/answer/9054257) in your content. This can include clickable URLs, verbally directing users to other sites in video, as well as other forms.
+Sometimes, content that would otherwise violate this policy is allowed to stay on YouTube when it has Educational, Documentary, Scientific, or Artistic (EDSA) context in the video, audio, title, or description. This is not a pass to promote misinformation. Additional context may include countervailing views, or if the content condemns, disputes, or satirizes misinformation that violates our policies. [Learn about how YouTube evaluates EDSA content](https://support.google.com/youtube/answer/6345162).
+
+### Related policies
+
+Elections-related content is also subject to other Community Guidelines. This could include, for example:
+
+* Content that threatens individuals such as election workers, candidates, or voters isn’t allowed under our [Harassment & cyberbullying policies](https://support.google.com/youtube/answer/2802268).
+* Content that has been technically manipulated or doctored in a way that misleads users - usually beyond clips taken out of context - and may pose a serious risk of egregious harm isn’t allowed under our [Misinformation policies](https://support.google.com/youtube/answer/10834785). For example, footage that has been technically manipulated to make a candidate for public office falsely claim they’re dropping out of the race.
+* Content that may pose a serious risk of egregious harm by falsely claiming that old footage from a past event is from a current event isn’t allowed under our [Misinformation policies](https://support.google.com/youtube/answer/10834785). For example, a video that shows a head of state condoning a violent conflict that he or she never actually condoned.
+* Content that encourages others to commit violent acts, including acts targeting election workers, candidates, or voters isn’t allowed under our [Violent or graphic content policies](https://support.google.com/youtube/answer/2802008).
+* Content that promotes violence or hatred against individuals or groups based on certain attributes isn’t allowed under our [Hate speech policies](https://support.google.com/youtube/answer/2801939). This includes, for example, content that shows a political rally attendee dehumanizing a group based on a protected attribute, such as race, religion, or sexual orientation.
+* Content that’s intended to impersonate a person or channel, such as a political candidate or their political party, isn’t allowed under our [Impersonation policy](https://support.google.com/youtube/answer/2801947).
+* Content that contains external links to material that would violate our policies and can cause a serious risk of egregious harm, like misleading or deceptive content relating to an election, hate speech targeting protected groups, or harassment targeting election workers, candidates, or voters. This can include clickable URLs, verbally directing users to other sites in a video, and other forms of link-sharing.
+
+Remember these are just some examples, and don't post content if you think it might violate these policies. [Advertiser-friendly content guidelines](https://support.google.com/youtube/answer/6162278) also apply. Please note these policies also apply to [external links](https://support.google.com/youtube/answer/9054257) in your content. This can include clickable URLs, verbally directing users to other sites in video, as well as other forms.
 
 What happens if content violates this policy
 --------------------------------------------
