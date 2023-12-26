@@ -1,7 +1,7 @@
 Cookies Policy
 --------------
 
-We updated our policy on December 12, 2023. [View our previous policy.](https://www.facebook.com/privacy/policies/cookies/version/7599906400026582/)
+We updated our policy on December 12, 2023. [View our previous policy.](https://www.facebook.com/privacy/policies/cookies/version/6238889766159217/)
 
 What are cookies, and what does this policy cover?
 
@@ -84,7 +84,7 @@ We use cookies to help personalise and improve content and services, provide a s
 Cookies Policy
 --------------
 
-We updated our policy on December 12, 2023. [View our previous policy.](https://www.facebook.com/privacy/policies/cookies/version/7599906400026582/)
+We updated our policy on December 12, 2023. [View our previous policy.](https://www.facebook.com/privacy/policies/cookies/version/6238889766159217/)
 
 What are cookies, and what does this policy cover?
 
