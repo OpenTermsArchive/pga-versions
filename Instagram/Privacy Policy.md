@@ -1,7 +1,7 @@
 What is the Privacy Policy and what does it cover?
 ==================================================
 
-Effective January 12, 2024
+Effective November 3, 2023
 
 Highlights
 ----------
