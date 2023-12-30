@@ -416,68 +416,59 @@ Dangerous Organizations and Individuals
 
 In an effort to prevent and disrupt real-world harm, we do not allow organizations or individuals that proclaim a violent mission or are engaged in violence to have a presence on Meta. We assess these entities based on their behavior both online and offline, most significantly, their ties to violence. Under this policy, we designate individuals, organizations, and networks of people. These designations are divided into three tiers that indicate the level of content enforcement, with Tier 1 resulting in the most extensive enforcement because we believe these entities have the most direct ties to offline harm.
 
-**Tier 1** focuses on entities that engage in serious offline harms - including organizing or advocating for violence against civilians, repeatedly dehumanizing or advocating for harm against people based on protected characteristics, or engaging in systematic criminal operations. Tier 1 includes hate organizations; criminal organizations, including those designated by the United States government as Specially Designated Narcotics Trafficking Kingpins (SDNTKs); and terrorist organizations, including entities and individuals designated by the United States government as Foreign Terrorist Organizations (FTOs) or Specially Designated Global Terrorists (SDGTs). We remove praise, substantive support, and representation of Tier 1 entities as well as their leaders, founders, or prominent members.
+**Tier 1** focuses on entities that engage in serious offline harms - including organizing or advocating for violence against civilians, repeatedly dehumanizing or advocating for harm against people based on protected characteristics, or engaging in systematic criminal operations. Tier 1 includes hate organizations; criminal organizations, including those designated by the United States government as Specially Designated Narcotics Trafficking Kingpins (SDNTKs); and terrorist organizations, including entities and individuals designated by the United States government as Foreign Terrorist Organizations (FTOs) or Specially Designated Global Terrorists (SDGTs). We remove Glorification, Support, and Representation of Tier 1 entities, their leaders, founders or prominent members, as well as unclear references to them.
 
-In addition, we do not allow content that praises, substantively supports, or represents events that Meta designates as violating violent events - including terrorist attacks, hate events, multiple-victim violence or attempted multiple-victim violence, serial murders, or hate crimes. Nor do we allow (1) praise, substantive support, or representation of the perpetrator(s) of such attacks; (2) perpetrator-generated content relating to such attacks; or (3) third-party imagery depicting the moment of such attacks on visible victims. We also remove content that praises, substantively supports or represents ideologies that promote hate, such as nazism and white supremacy.
+In addition, we do not allow content that glorifies, supports, or represents events that Meta designates as violating violent events - including terrorist attacks, hate events, multiple-victim violence or attempted multiple-victim violence, serial murders, or hate crimes. Nor do we allow (1) Glorification, Support, or Representation of the perpetrator(s) of such attacks; (2) perpetrator-generated content relating to such attacks; or (3) third-party imagery depicting the moment of such attacks on visible victims. We also remove content that Glorifies, Supports or Represents ideologies that promote hate, such as nazism and white supremacy.We remove unclear references to these designated events or ideologies.
 
-**Tier 2** focuses on entities that engage in violence against state or military actors but do not generally target civilians -- what we call “Violent Non-State Actors.” We remove all substantive support and representation of these entities, their leaders, and their prominent members. We remove any praise of these groups’ violent activities.
-
-**Tier 3** focuses on entities that may repeatedly engage in violations of our Hate Speech or Dangerous Organizations policies on-or-off the platform or demonstrate strong intent to engage in offline violence in the near future, but have not necessarily engaged in violence to date or advocated for violence against others based on their protected characteristics. This includes Militarized Social Movements, Violence-Inducing Conspiracy Networks, and individuals and groups banned for promoting hatred. Tier 3 entities may not have a presence or coordinate on our platforms.
+**Tier 2** includes Violent Non-State Actors that engage in violence against state or military actors in an armed conflict but do not intentionally target civilians. It also includes Violence Inducing Entities that are engaged in preparing or advocating for future violence but have not necessarily engaged in violence to date. These are also entities that may repeatedly engage in violations of our Hate Speech or Dangerous Organizations and Individuals policies on or off the platform. We remove Glorification, Material Support, and Representation of these entities, their leaders, founders or prominent members.
 
 We recognize that users may share content that includes references to designated dangerous organizations and individuals in the context of social and political discourse. This includes content reporting on, neutrally discussing or condemning dangerous organizations and individuals or their activities.
 
-News reporting includes information that is shared to raise awareness about local and global events in which designated dangerous organizations and individuals are involved.
-
-* E.g. “Breaking News: Al-Shabab claimed responsibility for the attack in Somalia”
-* E.g. “Timeline and expert analysis: How the shooting at the Buffalo Supermarket unfolded and what did the perpetrator say in court”
-
-Neutral discussion includes factual statements, commentary, questions,and other information that do not express positive judgment around the designated dangerous organization or individual and their behavior.
-
-* E.g. “Al Qaeda represents less threat than ISIS given the lack of leadership and finance”
-* E.g. “Anders Breivik is one example of how complex the radicalization process can be”
-
-Condemnation includes disapproval, disgust, rejection, criticism, mockery, and other negative expressions about a designated dangerous organization or individual and their behavior.
-
-* E.g. “ I feel disgusted by the crime of Salvador Ramos. The judge’s words resonated so much to me. He should get no mercy by the court”
-* E.g. “Hitler’s crimes shall never be forgotten ever. These were some of the darkest moments in history”
-
-Our policies are designed to allow room for these types of discussions while simultaneously limiting risks of potential offline harm. We thus require people to clearly indicate their intent when creating or sharing such content. If a user's intention is ambiguous or unclear, we default to removing content.
-
-In line with international human rights law, our policies allow discussions about the human rights of designated individuals or members of designated dangerous entities, unless the content includes other praise, substantive support, or representation of designated entities or other policy violations, such as incitement to violence.
+In line with international human rights law, our policies allow discussions about the human rights of designated individuals or members of designated dangerous entities, unless the content includes other glorification, support, or representation of designated entities or other policy violations, such as incitement to violence.
 
 Please see our [Corporate Human Rights Policy](https://about.fb.com/wp-content/uploads/2021/03/Facebooks-Corporate-Human-Rights-Policy.pdf) for more information about our commitment to internationally recognized human rights.
 
 #### We Remove:
 
-We remove praise, substantive support and representation of various dangerous organizations and individuals. These concepts apply to the organizations themselves, their activities, and their members. These concepts do not proscribe peaceful advocacy for particular political outcomes.
+We remove Glorification, Support and Representation of various dangerous organizations and individuals. These concepts apply to the organizations themselves, their activities, and their members. These concepts do not proscribe peaceful advocacy for particular political outcomes.
 
-**Praise**, defined as any of the below:
+**Glorification**, defined as any of the below:
 
-* Speak positively about a designated entity or event;
-    * E.g., “The fighters for the Islamic State are really brave!”
+* Speak positively about a designated entity’s violence or hate;
+    * E.g. "The fighters for the Islamic State are really brave!"
 * Give a designated entity or event a sense of achievement;
-    * E.g., “Timothy McVeigh is a martyr.”
-* Legitimizing the cause of a designated entity by making claims that their hateful, violent, or criminal conduct is legally, morally, or otherwise justified or acceptable;
+    * E.g. "Timothy McVeigh is a martyr."
+* Legitimizing the cause of a designated entity by making claims that their hateful, violent or criminal conduct is legally, morally or otherwise justified or acceptable;
     * E.g., “Hitler did nothing wrong.”
 * Aligning oneself ideologically with a designated entity or event.
     * E.g., “I stand with Brenton Tarrant.”
 
-We remove Praise of Tier 1 entities and designated events. We will also remove praise of violence carried out by Tier 2 entities.
+We remove Glorification of Tier 1 and Tier 2 entities as well as designated events.
 
-**Substantive Support**, defined as any of the below:
+For Tier 1 and designated events, we may also remove unclear or contextless references if the user’s intent was not clearly indicated. This includes unclear humor, captionless or positive references that do not glorify the designated entity’s violence or hate.
 
-* Any act which improves the financial status of a designated entity - including funnelling money towards, or away from a designated entity;
+**Support**, defined as any of the below:
+
+* Material Support
+
+* Any act which improves the financial status of a designated entity – including funneling money towards or away from a designated entity;
     * E.g., “Donate to the KKK!”
 * Any act which provides material aid to a designated entity or event;
     * E.g., “If you want to send care packages to the Sinaloa Cartel, use this address:”
-* Putting out a call to action on behalf of a designated entity or event;
-    * E.g., “Contact the Atomwaffen Division - (XXX) XXX-XXXX”
 * Recruiting on behalf of a designated entity or event;
     * E.g., “If you want to fight for the Caliphate, DM me”
-* Channeling information or resources, including official communications, on behalf of a designated entity or event
-    * E.g., Directly quoting a designated entity without caption that condemns, neutrally discusses, or is a part of news reporting.
 
-We remove Substantive Support of Tier 1 and Tier 2 entities and designated events.
+* Other Support
+
+* Channeling information or resources, including official communications, on behalf of a designated entity or event
+
+* E.g., Directly quoting a designated entity without caption that condemns, neutrally discusses, or is a part of news reporting.
+
+* Putting out a call to action on behalf of a designated entity or event;
+
+* E.g. "Contact the Atomwaffen Division – (XXX) XXX-XXXX"
+
+We remove all Support of Tier 1 and Material Support of Tier 2.
 
 **Representation**, defined as any of the below:
 
@@ -486,17 +477,17 @@ We remove Substantive Support of Tier 1 and Tier 2 entities and designated event
 * Creating a Page, Profile, Event, Group, or other Facebook entity that is or purports to be owned by a Designated Entity or run on their behalf, or is or purports to be a designated event.
     * E.g., A Page named “American Nazi Party.”
 
-We remove Representation of Tier 1 and 2 Designated Organizations, Hate-Banned Entities, and designated events.
+We remove Representation of Tier 1 and 2 Designated Organizations and designated events.
 
 #### Types and Tiers of Dangerous Organizations
 
 **_Tier 1: Terrorism, organized hate, large-scale criminal activity, attempted multiple-victim violence, multiple victim violence, serial murders, and violating violent events_**
 
-We do not allow individuals or organizations involved in organized crime, including those designated by the United States government as specially designated narcotics trafficking kingpins (SDNTKs); hate; or terrorism, including entities designated by the United States government as Foreign Terrorist Organizations (FTOs) or Specially Designated Global Terrorists (SDGTs), to have a presence onthe platform. We also don't allow other people to represent these entities. We do not allow leaders or prominent members of these organizations to have a presence on the platform, symbols that represent them to be used on the platform, or content that praises them or their acts. In addition, we remove any coordination of substantive support for these individuals and organizations.
+We do not allow individuals or organizations involved in organized crime, including those designated by the United States government as specially designated narcotics trafficking kingpins (SDNTKs); hate; or terrorism, including entities designated by the United States government as Foreign Terrorist Organizations (FTOs) or Specially Designated Global Terrorists (SDGTs), to have a presence onthe platform. We also don't allow other people to represent these entities. We do not allow leaders or prominent members of these organizations to have a presence on the platform, symbols that represent them to be used on the platform, or content that glorifies them or their acts, including unclear references to the. In addition, we remove any support for these individuals and organizations.
 
-We do not allow content that praises, substantively supports, or represents events that Meta designates as terrorist attacks, hate events, multiple-victim violence or attempted multiple-victim violence, serial murders, hate crimes or violating violent events. Nor do we allow (1) praise, substantive support, or representation of the perpetrator(s) of such attacks; (2) perpetrator-generated content relating to such attacks; or (3) third-party imagery depicting the moment of such attacks on visible victims.
+We do not allow content that glorifies, supports, or represents events that Meta designates as terrorist attacks, hate events, multiple-victim violence or attempted multiple-victim violence, serial murders, hate crimes or violating violent events. Nor do we allow (1) content that glorifies, supports, or represents the perpetrator(s) of such attacks; (2) perpetrator-generated content relating to such attacks; or (3) third-party imagery depicting the moment of such attacks on visible victims.
 
-We also do not allow Praise, Substantive Support, or Representation of designated hateful ideologies.
+We also do not allow Glorification, Support, or Representation of designated hateful ideologies, as well as unclear references to the.
 
 **Terrorist organizations and individuals**, defined as a non-state actor that:
 
@@ -510,7 +501,7 @@ We also do not allow Praise, Substantive Support, or Representation of designate
 * Violence, threatening rhetoric, or dangerous forms of harassment targeting people based on their protected characteristics;
 * Repeated use of [hate speech](https://transparency.fb.com/en-gb/policies/community-standards/hate-speech/);
 * Representation of Hate Ideologies or other designated Hate Entities, and/or
-* Glorification or substantive support of other designated Hate Entities or Hate Ideologies.
+* Glorification or Support of other designated Hate Entities or Hate Ideologies.
 
 **Criminal Organizations**, defined as an association of three or more people that:
 
@@ -529,47 +520,39 @@ We also do not allow Praise, Substantive Support, or Representation of designate
     * White Supremacy
     * White Nationalism
     * White Separatism
-* We remove explicit Praise, Substantive Support, and Representation of these ideologies, and remove individuals and organizations that ascribe to one or more of these hateful ideologies.
+* We remove explicit Glorification, Support, and Representation of these ideologies, and remove individuals and organizations that ascribe to one or more of these hateful ideologies.
 
-**_Tier 2: Violent Non-State Actors_**
+**_Tier 2: Violent Non-State Actors and Violence Inducing Entities_**
 
-Organizations and individuals designated by Meta as Violent Non-state Actors are not allowed to have a presence on Facebook, or have a presence maintained by others on their behalf. As these communities are actively engaged in violence, substantive support of these entities is similarly not allowed. We will also remove praise of violence carried out by these entities.
+Organizations and individuals designated by Meta as Violent Non-state Actors or Violence Inducing Entities are not allowed to have a presence on Facebook, or have a presence maintained by others on their behalf. As these communities are actively engaged in violence, against state or military actors in armed conflicts (Violent Non-State Actors) or are preparing or advocating or creating conditions for future violence (Violence Inducing Entities), material support of these entities is not allowed. We will also remove glorification of these entities.
 
 **Violent Non-State Actors**, defined as any non-state actor that:
 
-* engages in purposive and planned acts of violence primarily against a government military or other armed communities; and
-* that causes or attempts to
-    * cause death to persons taking direct part in hostilities in an armed conflict, and/or
-    * deprive communities of access to vital infrastructure and natural resources, and/or bring significant damage to property, linked to death, serious injury or serious harm to civilians
+* Engages in a pattern of purposive and planned acts of high-severity violence targeting government, military or other armed groups taking direct part in the hostilities in a situation of armed conflict, and does not intentionally and explicitly target civilians with high-severity violence; AND/OR
+* Deprives communities of access to critical infrastructure or natural resources; AND/OR
+* Engages in a pattern of attacks intended to bring significant damage to infrastructure that is not linked to death, serious injury or serious harm to civilians.
 
-**_Tier 3: Militarized Social Movements, Violence-Inducing Conspiracy Networks, and Hate Banned Entities_**
+**Violence Inducing Entities** are defined as follows:
 
-Pages, Communities, Events, and Profiles or other Facebook entities that are - or claim to be - maintained by, or on behalf of, Militarized Social Movements and Violence-Inducing Conspiracy Networks are prohibited. Admins of these pages, communities and events will also be removed.
+A Violence Inducing Entity (General) is a non-state actor that:
 
-[Click here](https://about.fb.com/news/2020/08/addressing-movements-and-organizations-tied-to-violence/) to read more about how we address movements and organizations tied to violence.
+* Uses weapons as a part of their training, communication, or presence; and are structured or operate as unofficial military or security forces; AND
 
-We do not allow Representation of Organizations and individuals designated by Meta as Hate-Banned Entities.
+* Coordinates in preparation for inter-community violence or civil war; OR
+* Advocates for violence against government officials or violent disruptions of civic events; OR
+* Engages in theft, vandalism, burglary or other damage to property; OR
+* Engages in mid-severity violence at civic events; OR
+* Promotes bringing weapons to a location when the stated intent is to intimidate people amid a protest
 
-**Militarized Social Movements (MSMs)**, which include:
+A **Violence Inducing Conspiracy Network** is a non-state actor that:
 
-* **Militia Communities**, defined as non-state actors that use weapons as a part of their training, communication, or presence; and are structured or operate as unofficial military or security forces and:
-    * Coordinate in preparation for violence or civil war; or
-    * Distribute information about the tactical use of weapons for combat; or
-    * Coordinate militarized tactical coordination in a present or future armed civil conflict or civil war.
-* **Communities supporting violent acts amid protests**, defined as non-State actors that repeatedly:
-    * Coordinate, promote, admit to or engage in:
-    * Acts of street violence against civilians or law enforcement; or
-    * Arson, Looting, or other destruction of property; or
-    * Threaten to violently disrupt an election process; or
-    * Promote bringing weapons to a location when the stated intent is to intimidate people amid a protest.
+* Is identified by a name, mission statement, symbol, or shared lexicon; AND
+* Promotes unfounded theories that attempts to explain the ultimate causes of significant social and political problems, events and circumstances with claims of secret plots by two or more powerful actors; AND
+* Has explicitly advocated for or has been directly linked to a pattern of offline physical harm by adherents motivated by the desire to draw attention to or redress the supposed harms identified in the unfounded theories promoted by the network.
 
-**Violence-Inducing Conspiracy Networks (VICNs)**, defined as a Non-State Actor that:
+A **Hate Banned Entity** is a non-state actor that:
 
-* Organizes under a name, sign, mission statement, or symbol; and
-* Promote theories that attribute violent or dehumanizing behavior to people or organizations that have been debunked by credible sources; and
-* Has inspired multiple incidents of real-world violence by adherents motivated by the desire to draw attention to or redress the supposed harms promoted by these debunked theories.
-
-**Hate-Banned Entities**, defined as entities that engage in repeated hateful conduct or rhetoric, but do not rise to the level of a Tier 1 entity because they have not engaged in or explicitly advocated for violence, or because they lack sufficient connections to previously designated organizations or figures.
+* Engages in repeated hateful conduct or rhetoric, but does not rise to the level of a Tier 1 entity because they have not engaged in or explicitly advocated for violence, or because they lack sufficient connections to previously designated organizations or figures.
 
 #### For the following Community Standards, we require additional information and/or context to enforce:
 
@@ -1236,18 +1219,18 @@ Do not:
 
 Read lessRead more
 
-Suicide and Self Injury
-=======================
+Suicide, Self Injury, and Eating Disorders
+==========================================
 
 #### Policy Rationale
 
-We care deeply about the safety of the people who use our apps. We regularly consult with experts in suicide and self-injury to help inform our policies and enforcement, and work with organizations around the world to provide assistance to people in distress.
+We care deeply about the safety of the people who use our apps. We regularly consult with experts in suicide, self-injury and eating disorders to help inform our policies and enforcement, and work with organizations around the world to provide assistance to people in distress.
 
-While we do not allow people to intentionally or unintentionally celebrate or promote suicide or self-injury, we do allow people to discuss these topics because we want Facebook to be a space where people can share their experiences, raise awareness about these issues, and seek support from one another.
+While we do not allow people to intentionally or unintentionally celebrate or promote suicide, self-injury, or eating disorders, we do allow people to discuss these topics because we want Facebook to be a space where people can share their experiences, raise awareness about these issues, and seek support from one another.
 
-We define self-injury as the intentional and direct injuring of the body, including self-mutilation and eating disorders. We remove any content that encourages suicide or self-injury, including fictional content such as memes or illustrations and any self-injury content which is graphic, regardless of context. We also remove content that identifies and negatively targets victims or survivors of suicide or self-injury seriously, humorously or rhetorically, as well as real time depictions of suicide or self-injury. Content about recovery of suicide or self-harm that is allowed, but may contain imagery that could be upsetting, such as a healed scar, is placed behind a sensitivity screen.
+We remove any content that encourages suicide, self-injury, or eating disorders, including fictional content such as memes or illustrations and any self-injury content which is graphic, regardless of context. We also remove content that mocks victims or surivors of suicide, self-injury or eating disorders, as well as real time depictions of suicide or self-injury. Content about recovery from suicide, self-injury, or eating disorders that is allowed, but may contain imagery that could be upsetting, such as a healed scar, is placed behind a sensitivity screen.
 
-When people post or search for suicide or self-injury- related content, we will direct them to local organizations that can provide support and if our Community Operations team is concerned about immediate harm we will contact local emergency services to get them help. For more information, visit the [Facebook Safety Center.](https://www.facebook.com/safety/wellbeing/suicideprevention)
+When people post or search for suicide, self-injury, or eating disorders related content, we will direct them to local organizations that can provide support and if our Community Operations team is concerned about immediate harm we will contact local emergency services to get them help. For more information, visit the [Facebook Safety Center.](https://www.facebook.com/safety/wellbeing/suicideprevention)
 
 With respect to live content, experts have told us that if someone is saying they intend to attempt suicide on a livestream, we should leave the content up for as long as possible, because the longer someone is talking to a camera, the more opportunity there is for a friend or family member to call emergency services.
 
