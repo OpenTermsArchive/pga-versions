@@ -1,6 +1,6 @@
 [](https://www.quora.com/)
 
-[About](https://www.quora.com/about)[Careers](https://www.quora.com/careers)[Press](https://www.quora.com/press)[Businesses](https://www.quora.com/business)
+[About](https://www.quora.com/about)[Careers](https://www.quora.com/careers)[Press](https://www.quora.com/press)[Advertise](https://www.quora.com/business)
 
 Terms of Service
 
