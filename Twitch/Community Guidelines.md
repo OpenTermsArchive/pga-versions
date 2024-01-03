@@ -457,7 +457,7 @@ To ensure content on Twitch is appropriate for diverse audiences, certain sexual
   For example, you may not show, offer, or promote \[content warning\]:
 
 * Explicit, simulated, fictional, or implied sex or masturbation. This includes oral, anal, and vaginal sex, touching of genitals in self or mutual masturbation, or prolonged audio that implies sex/masturbation/orgasm.
-    * Adult nudity without implied or real sex acts is subject to our [Adult Nudity](https://safety.twitch.tv/s/article/Community-Guidelines?#22AdultNudity) policies
+    * Adult nudity without implied or real sex acts is subject to our [Adult Nudity](https://safety.twitch.tv/s/article/Community-Guidelines#21AdultNudity) policies 
 * Display of sexual bodily fluids
 * Advertisement or solicitation of sexual services, including prostitution, escort services, sexual massages, and filmed sexual activity
 * Consensual sexual violence such as flogging or whipping another person
@@ -529,9 +529,9 @@ The list of contextual exceptions, outlined below, is not exhaustive. If you fin
 
   ****Standard guidelines**** 
 
-We don’t permit streamers to be fully or partially nude, including exposing genitals or buttocks. We do not permit the visible outline of genitals, even when covered. Broadcasting nude or partially nude minors is always prohibited, regardless of context.
+We don’t permit streamers to be fully or partially nude, including exposing genitals or buttocks. Nor do we permit streamers to imply or suggest that they are fully or partially nude, including, but not limited to, covering breasts or genitals with objects or censor bars. We do not permit the visible outline of genitals, even when covered. Broadcasting nude or partially nude minors is always prohibited, regardless of context.
 
-For those who present as women, we ask that you cover your nipples. We do not permit exposed underbust. Cleavage is unrestricted as long as these coverage requirements are met. 
+For those who present as women, we ask that you cover your nipples and do not expose underbust. Cleavage is unrestricted as long as these coverage requirements are met and it is clear that the streamer is wearing clothing. 
 
 For all streamers, you must cover the area extending from your hips to the bottom of your pelvis and buttocks. 
 
@@ -547,7 +547,9 @@ Broadcasters, their co-hosts, and invited guests engaging in general IRL streami
 
 **Swim and beaches, concerts and festivals**
 
-Swimwear is permitted as long as it completely covers the genitals, and those who present as women must also cover their nipples. Full coverage of buttocks is not required, but camera focus around them is still subject to our Sexual Themes Content Classification Guidelines. Coverage must be fully opaque, even when wet. Sheer or partially see-through swimwear or other clothing does not constitute coverage.
+Swimwear is permitted as long as it completely covers the genitals, and those who present as women must also cover their nipples. Full coverage of buttocks is not required, but camera focus around them is still subject to our Sexual Themes Content Classification Guidelines. Coverage must be fully opaque, even when wet. Sheer or partially see-through swimwear or other clothing does not constitute coverage.  
+  
+Content subject to this contextual exception must be placed within the Pools, Hot Tubs, and Beaches category. Content that violates standard attire guidelines and is not subject to this contextual exception (e.g. wearing a bikini outside of pool or beach setting) is still violative even if placed into the Pools, Hot Tubs, and Beaches category.
 
 **Body Art**
 
