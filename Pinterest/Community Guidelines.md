@@ -180,7 +180,7 @@ All of our Community Guidelines apply in comments posted on Pins. In addition, c
 
 * Irrelevant or non-purposeful material
 * Spam
-* Sexuallly explicit content
+* Sexually explicit content
 * Self-harm content
 * Misinformation
 * Hateful activities
