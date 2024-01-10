@@ -1,7 +1,3 @@
-[](https://www.quora.com/)
-
-[About](https://www.quora.com/about)[Careers](https://www.quora.com/careers)[Press](https://www.quora.com/press)[Advertise](https://www.quora.com/business)
-
 Privacy Policy
 
 Effective date: August 25, 2023
@@ -173,21 +169,3 @@ Privacy Policy Updates
 We may occasionally update this Privacy Policy to reflect changes in our privacy practices or relevant data protection laws. We will notify you if we make any material changes and will revise the "Last Updated" date at the top of this Privacy Policy.
 
 [Prior versions](https://www.quora.com/about/privacy_archive "www.quora.com")
-
-[Contact us](https://www.quora.com/contact)
-
-[Press](https://www.quora.com/press)
-
-[Terms of service](https://www.quora.com/about/tos)
-
-[Privacy Policy](https://www.quora.com/about/privacy)
-
-[Acceptable Use](https://www.quora.com/about/acceptable_use)
-
-[](https://www.facebook.com/quora)
-
-[](https://www.linkedin.com/company/quora)
-
-[](https://twitter.com/quora)
-
-[](https://www.quora.com/)
