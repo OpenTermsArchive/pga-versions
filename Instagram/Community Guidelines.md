@@ -414,7 +414,7 @@ Dangerous Organizations and Individuals
 
 #### Policy Rationale
 
-In an effort to prevent and disrupt real-world harm, we do not allow organizations or individuals that proclaim a violent mission or are engaged in violence to have a presence on Meta. We assess these entities based on their behavior both online and offline, most significantly, their ties to violence. Under this policy, we designate individuals, organizations, and networks of people. These designations are divided into three tiers that indicate the level of content enforcement, with Tier 1 resulting in the most extensive enforcement because we believe these entities have the most direct ties to offline harm.
+In an effort to prevent and disrupt real-world harm, we do not allow organizations or individuals that proclaim a violent mission or are engaged in violence to have a presence on Meta. We assess these entities based on their behavior both online and offline, most significantly, their ties to violence. Under this policy, we designate individuals, organizations, and networks of people. These designations are divided into two tiers that indicate the level of content enforcement, with Tier 1 resulting in the most extensive enforcement because we believe these entities have the most direct ties to offline harm.
 
 **Tier 1** focuses on entities that engage in serious offline harms - including organizing or advocating for violence against civilians, repeatedly dehumanizing or advocating for harm against people based on protected characteristics, or engaging in systematic criminal operations. Tier 1 includes hate organizations; criminal organizations, including those designated by the United States government as Specially Designated Narcotics Trafficking Kingpins (SDNTKs); and terrorist organizations, including entities and individuals designated by the United States government as Foreign Terrorist Organizations (FTOs) or Specially Designated Global Terrorists (SDGTs). We remove Glorification, Support, and Representation of Tier 1 entities, their leaders, founders or prominent members, as well as unclear references to them.
 
@@ -434,14 +434,12 @@ We remove Glorification, Support and Representation of various dangerous organiz
 
 **Glorification**, defined as any of the below:
 
-* Speak positively about a designated entity’s violence or hate;
-    * E.g. "The fighters for the Islamic State are really brave!"
-* Give a designated entity or event a sense of achievement;
-    * E.g. "Timothy McVeigh is a martyr."
-* Legitimizing the cause of a designated entity by making claims that their hateful, violent or criminal conduct is legally, morally or otherwise justified or acceptable;
-    * E.g., “Hitler did nothing wrong.”
+* Legitimizing or defending the violent or hateful acts of a designated entity by claiming that those acts have a moral, political, logical or other justification that makes them acceptable or reasonable.
+    * E.g. "Hitler did nothing wrong."
+* Characterizing or celebrating the violence or hate of a designated entity as an achievement or accomplishment;
+    * E.g. “Hizbul Mujahideen is winning the war for a free and independent Kashmir”
 * Aligning oneself ideologically with a designated entity or event.
-    * E.g., “I stand with Brenton Tarrant.”
+    * E.g. “I wish I can join ISIS and be part of the Khilafah”
 
 We remove Glorification of Tier 1 and Tier 2 entities as well as designated events.
 
