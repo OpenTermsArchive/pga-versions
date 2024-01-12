@@ -5,8 +5,6 @@ Terms and Imprint
 
 Copy link
 
-_We’re updating our Terms of Use. The updates go into effect on January 12, 2024. Read the new terms._
-
 Terms and Imprint  
   
 
@@ -45,16 +43,13 @@ We agree to provide you with the Instagram Service. The Service includes all of 
 * **Developing and using technologies that help us consistently serve our growing community.**  
     Organizing and analyzing information for our growing community is central to our Service. A big part of our Service is creating and using cutting-edge technologies that help us personalize, protect, and improve our Service on an incredibly large scale for a broad global community. Technologies like artificial intelligence and machine learning give us the power to apply complex processes across our Service. Automated technologies also help us ensure the functionality and integrity of our Service. Learn more in the Privacy Policy.
 * **Providing consistent and seamless experiences across other Meta Company Products, outside of our contract with you.**  
-    Instagram is part of the Meta Companies, which share technology, systems, insights, and information-including the information we have about you (learn more in the Privacy Policy) in order to provide services that are better, safer, and more secure. We also provide ways to interact across the Meta Company Products that you use, and designed systems to achieve a seamless and consistent experience across the Meta Company Products.
+    Instagram is part of the Meta Companies, which share technology, systems, insights, and information-including the information we have about you (learn more in the Privacy Policy) in order to provide services that are better, safer, and more secure. We also provide ways to interact across the Meta Company Products that you use, and designed systems to achieve a seamless and consistent experience across the Meta Company Products depending on your choices.
 * **Communicating with you.**  
     We may need to send you communications, like emails or in-product notices, to respond to you or inform you about any product-related issues, research, or our terms and policies. For more information, please review our Privacy Policy.
 * **Ensuring access to our Service.**  
     To operate our global Service, we must store and transfer data across our systems around the world, including outside of your country of residence. The use of this global infrastructure is necessary and essential to provide our Service. This infrastructure may be owned or operated by Meta Platforms, Inc., Meta Platforms Ireland Limited, or their affiliates. For more information about how we transfer, store or process your information, please review our Privacy Policy.
 * **Connecting you with brands, products, and services in ways you care about.**  
-    Subject to the choices and settings you select, we use information from Instagram and other Meta Company Products, as well as from external partners, to personalize your experience on Instagram, including by showing you ads, offers and other sponsored content that we believe will be meaningful to you. And we try to make that content as relevant as all of your other experiences on Instagram.
-    
-    The ads we show you on the Service will always be based on basic information: your age, the gender you provide, and location. They'll also be based on certain device information, like the device you’re using and the language you choose on that device, as well as information about the ads we show you and how you engage with those ads. We require ads to be based on this information to ensure that ads are appropriate to you and the device you’re seeing them on, and to comply with relevant advertising and other applicable laws, guidance and standards. This helps to avoid advertising a flower shop in Warsaw to someone in Paris or showing you the same ad a number of times. We also need to use this information to support the infrastructure and other costs of providing our Service free of charge to you. Consistent with your choices, we also use other information to personalize the ads you are shown. For more information about how we use information to provide a personalized experience, including ads, to you, please review our Privacy Policy.
-    
+    Subject to the choices and settings you select, we use information from Instagram and other Meta Company Products, as well as from external partners, to personalize your experience on Instagram, including by showing you ads (if we show you ads on Meta Products), offers and other sponsored content that we believe will be meaningful to you. And we try to make that content as relevant as all of your other experiences on Instagram. For more information about how we use information to provide you with a personalized experience, please review our Privacy Policy.
 * **Providing and improving Meta Products.**  
     We use the information we have to develop, test, and improve our Service and collaborate with others on research to make our Service better and contribute to the well-being of our community. This includes analyzing the information we have about our users and understanding how people use our Services, for example by conducting surveys and testing and troubleshooting new features.
     
@@ -65,15 +60,18 @@ We agree to provide you with the Instagram Service. The Service includes all of 
 
 **How Our Service Is Funded**
 
-Instead of paying to use Instagram, by using the Service covered by these Terms, you acknowledge that we show you ads that businesses and organizations pay us to promote on and off the Meta Company Products. The ads we show you will always be based on your basic information: your age, the gender you provide, and location. They’ll also be based on certain device information, like the device you’re using and the language you choose on that device, as well as information about the ads we show you and how you engage with those ads. We require ads to be based on this information to ensure that the ads are appropriate for you and the device you’re seeing them on. We also need to use this information to support the infrastructure and other costs of providing our Service free of charge to you. Consistent with your choices, we also use other information such as information about your activity and interests, to show you ads that are more relevant to you.
+You can choose to use the Service for free with ads or to subscribe to use without ads:
 
-We show you relevant and useful ads without telling advertisers who you are. We don't sell your information. We allow advertisers to tell us things such as their business goal and the kind of audience that they want to see their ads (for example, people between the ages of 18-35 who live close to the advertiser’s store in Portugal). We then show their ad to people who we think might find it relevant.
+* If you choose to use the Service for free with ads, you allow us to show you ads that businesses and organizations pay us to promote on and off the Meta Products.
+* If you choose to subscribe to use Meta Products without ads, you won’t see ads from us and we do not use your data for ads. The details of price, currency and payment period for the subscription for no ads will be provided to you before you complete your purchase.
+
+If we show you ads on Meta Products, we show you relevant and useful ads without telling advertisers who you are. We don't sell your information. We allow advertisers to tell us things such as their business goal and the kind of audience that they want to see their ads (for example, people between the ages of 18-35 who live close to the advertiser’s store in Portugal). We then show their ad to people who we think might find it relevant.
 
 We also provide advertisers with reports about the performance of their ads to help them understand how people are interacting with their content on and off Instagram. For example, we provide general demographic and interest information to advertisers to help them better understand their audience. We don’t share information that directly identifies you (information such as your name or email address that by itself can be used to contact you or identifies who you are) unless you give us specific permission. Learn more about how Instagram ads work here.
 
 You may see branded content on Instagram posted by account holders who promote products or services based on a commercial relationship with the business partner mentioned in their content. You can learn more about this here.
 
-We collect and use your information in order to provide the services described above for you. You can learn about how we collect and use your information in our Privacy Policy, including more detail on the different types of information we can use to show you ads. You have controls over the types of ads and advertisers you see, the types of information we use to determine which ads we show you. Learn more.
+You can learn about how we collect and use your information in our Privacy Policy, including more detail on the different types of information we can use to show you ads (if we show you ads on Meta Products). You have controls over the types of ads and advertisers you see, and the types of information we use to determine which ads we show you. Learn more.
 
   
 
@@ -194,4 +192,4 @@ We always appreciate feedback or other suggestions, but may use them without any
 
 We may change our Service and policies, and we may need to make changes to these Terms so that they accurately reflect our Service and policies. We will only make changes if the provisions are not appropriate anymore or if they are incomplete, and only if the changes are reasonable for you in consideration to your interests. Unless otherwise required by law, we will notify you of the changes and choices you have (for example, through our Service) at least 30 days before we update the Terms, and we will give you an opportunity to review them before they go into effect. Then, if you continue to use the Service, you will be bound by the updated Terms. If you do not want to agree to these or any updated Terms, you can delete your account, here.  
 
-Revised: 24 August 2023
+Effective Date: January 12 2024
