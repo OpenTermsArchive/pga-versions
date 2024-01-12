@@ -628,8 +628,8 @@ Content that mocks victims or survivors of suicide, self-injury or eating disord
 
 Read lessRead more
 
-Child Sexual Exploitation, Abuse and Nudity
-===========================================
+Child Sexual Exploitation, Abuse, and Nudity
+============================================
 
 #### Policy Rationale
 
@@ -660,9 +660,9 @@ Content, activity or interactions that threaten, depict, praise, support, provid
     * Open-mouth kissing
     * Stimulation of human nipples or squeezing of female breast (EXCEPT in the context of breastfeeding)
     * Presence of by-products of sexual activity
-* Content invovling children in a sexual fetish context
+* Content involving children in a sexual fetish context
 * Content that supports, promotes, advocates or encourages participation in pedophilia unless it is discussed neutrally in a health context
-* Content that identifies or mocks alleged victims of child sexual exploitation by name or image.
+* Content that identifies or mocks alleged victims of child sexual exploitation by name or image
 
 **Solicitation**
 
@@ -687,13 +687,13 @@ Content that constitutes or facilitates inappropriate interactions with children
 
 Content that attempts to exploit real children by:
 
-* Coercing money, favors or intimate imagery with threats to expose intimate imagery or information.
-* Sharing, threatening or stating an intent to share private sexual conversations or intimate imagery.
+* Coercing money, favors or intimate imagery with threats to expose intimate imagery or information
+* Sharing, threatening, or stating an intent to share private sexual conversations or intimate imagery
 
 **Sexualization of children**
 
-* Content (including photos, videos, real-world art, digital content, and verbal depictions) that sexualizes real or non-real children.
-* Groups, Pages and profiles dedicated to sexualizing real or non-real children.
+* Content (including photos, videos, real-world art, digital content, and verbal depictions) that sexualizes real or non-real children
+* Groups, Pages, and profiles dedicated to sexualizing real or non-real children
 
 **Child nudity**
 
@@ -701,37 +701,37 @@ Content that depicts real or non-real child nudity where nudity is defined as:
 
 * Close-ups of real or non-real children’s genitalia
 * Real or non-real nude toddlers, showing:
-    * Visible genitalia, even when covered or obscured by transparent clothing.
-    * Visible anus and/or fully nude close-up of buttocks.
+    * Visible genitalia, even when covered or obscured by transparent clothing
+    * Visible anus and/or fully nude close-up of buttocks
 * Real or non-real nude minors, showing:
     * Visible genitalia (including genitalia obscured only by pubic hair or transparent clothing)
-    * Visible anus and/or fully nude close-up of buttocks.
-    * Uncovered female nipples.
-    * No clothes from neck to knee - even if no genitalia or female nipples are showing.
+    * Visible anus and/or fully nude close-up of buttocks
+    * Uncovered female nipples
+    * No clothes from neck to knee - even if no genitalia or female nipples are showing
 * Unless the non-real imagery is for health purposes or is a non-sexual depiction of child nudity in real-word art
 
 **Non-sexual child abuse**
 
 Videos or photos that depict real or non-real non-sexual child abuse regardless of sharing intent, unless the imagery is from real-world art, cartoons, movies or video games
 
-Content that praises, supports, promotes, advocates for, provides instructions for or encourages participation in non-sexual child abuse.
+Content that praises, supports, promotes, advocates for, provides instructions for or encourages participation in non-sexual child abuse
 
-#### For the following content, we include a warning screen so that people are aware the content may be disturbing and limit the ability to view the content to adults, ages eighteen and older:
+#### For the following content, we include a warning screen so that people are aware the content may be disturbing and limit the ability to view the content to adults ages eighteen and older:
 
-* Videos or photos that depict police officers or military personnel committing non-sexual child abuse.
-* Videos or photos of non-sexual child abuse, when law enforcement, child protection agencies, or trusted safety partners request that we leave the content on the platform for the express purpose of bringing a child back to safety.
+* Videos or photos that depict police officers or military personnel committing non-sexual child abuse
+* Videos or photos of non-sexual child abuse, when law enforcement, child protection agencies, or trusted safety partners request that we leave the content on the platform for the express purpose of bringing a child back to safety
 
 #### For the following content, we include a sensitivity screen so that people are aware the content may be upsetting to some:
 
-* Videos or photos of violent immersion of a child in water in the context of religious rituals.
+* Videos or photos of violent immersion of a child in water in the context of religious rituals
 
 #### For the following Community Standards, we require additional information and/or context to enforce:
 
 For the following content, we include a warning label so that people are aware that the content may be sensitive:
 
-* Imagery posted by a news agency that depicts child nudity in the context of famine, genocide, war crimes, or crimes against humanity, unless accompanied by a violating caption or shared in a violating context, in which case the content is removed.
+* Imagery posted by a news agency that depicts child nudity in the context of famine, genocide, war crimes, or crimes against humanity, unless accompanied by a violating caption or shared in a violating context, in which case the content is removed
 
-We may also remove imagery depicting the aftermath of non-sexual child abuse when reported by news media partners, NGOs or other trusted safety partners.
+We may remove imagery depicting the aftermath of non-sexual child abuse when reported by news media partners, NGOs, or other trusted safety partners.
 
 We may remove content that identifies alleged victims of child sexual exploitation through means other than name or image if content includes information that is likely to lead to the identification of the individual.
 
