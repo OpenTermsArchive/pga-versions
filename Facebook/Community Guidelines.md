@@ -926,9 +926,9 @@ Human Exploitation
 
 #### Policy Rationale
 
-In an effort to disrupt and prevent harm, we remove content that facilitates or coordinates the exploitation of humans, including human trafficking. We define human trafficking as the business of depriving someone of liberty for profit. It is the exploitation of humans in order to force them to engagein commercial sex, labor or other activities against their will. It relies on deception, force and coercion, and degrades humans by depriving them of their freedom while economically or materially benefiting others.
+In an effort to disrupt and prevent harm, we remove content that facilitates or coordinates the exploitation of humans, including human trafficking. We define human trafficking as the business of depriving someone of liberty for profit. It is the exploitation of humans in order to force them to engage in commercial sex, labor, or other activities against their will. It relies on deception, force, and coercion, and degrades humans by depriving them of their freedom while economically or materially benefiting others.
 
-Human trafficking is multi-faceted and global; it can affect anyone regardless of age, socioeconomic background, ethnicity, gender or location. It takes many forms, and any given trafficking situation can involve various stages of development. Due to the coercive nature of this abuse, victims cannot consent.
+Human trafficking is multi-faceted and global; it can affect anyone regardless of age, socioeconomic background, ethnicity, gender, or location. It takes many forms, and any given trafficking situation can involve various stages of development. Due to the coercive nature of this abuse, victims cannot consent.
 
 While we need to be careful not to conflate human trafficking and smuggling, they can be related and exhibit overlap. The United Nations defines human smuggling as the procurement or facilitation of illegal entry into a state across international borders. Without necessity for coercion or force, it may still result in the exploitation of vulnerable individuals who are trying to leave their country of origin, often in pursuit of a better life. Human smuggling is a crime against a state, relying on movement, and human trafficking is a crime against a person, relying on exploitation.
 
@@ -938,15 +938,15 @@ In addition to content condemning, raising awareness about, or news reporting on
 
 Content that recruits people for, facilitates or exploits people through any of the following forms of human trafficking:
 
-* Sex trafficking (any commercial sexual activity with a minor or any commercial sexual activity with an adult involving force, fraud or coercion).
-* Sales of children or illegal adoption.
-* Orphanage trafficking and orphanage volun-tourism.
-* Forced marriages.
-* Labor exploitation (including bonded labor).
-* Domestic servitude.
-* Non-regenerative organ trafficking, not including organ removal, donation, or transplant in a non-exploitative organ donation context.
-* Forced criminal activity (e.g. forced begging, forced drug trafficking).
-* Recruitment of child soldiers.
+* Sex trafficking (any commercial sexual activity with a minor or any commercial sexual activity with an adult involving force, fraud, or coercion)
+* Sales of children or illegal adoption
+* Orphanage trafficking and orphanage volun-tourism
+* Forced marriages
+* Labor exploitation (including bonded labor)
+* Domestic servitude
+* Non-regenerative organ trafficking not including organ removal, donation, or transplant in a non-exploitative organ donation context
+* Forced criminal activity (e.g. forced begging, forced drug trafficking)
+* Recruitment of child soldiers
 
 Content where a third party actor recruits for, facilitates or benefits from (financially or otherwise) commercial sexual activity
 
@@ -954,7 +954,7 @@ Content that offers to provide or facilitate human smuggling
 
 Content that asks for human smuggling services
 
-We allow content that is otherwise covered by this policy when posted in condemnation, educational, awareness raising or news reporting contexts.
+We allow content that is otherwise covered by this policy when posted in condemnation, educational, awareness raising, or news reporting contexts.
 
 Read lessRead more
 
