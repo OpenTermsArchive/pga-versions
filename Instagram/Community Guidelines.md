@@ -438,7 +438,7 @@ We remove Glorification, Support and Representation of various dangerous organiz
     * E.g. "Hitler did nothing wrong."
 * Characterizing or celebrating the violence or hate of a designated entity as an achievement or accomplishment;
     * E.g. “Hizbul Mujahideen is winning the war for a free and independent Kashmir”
-* Aligning oneself ideologically with a designated entity or event.
+* An aspirational statement of membership or statement that you would like to be a designated entity or the perpetrator of a violating violent event.
     * E.g. “I wish I can join ISIS and be part of the Khilafah”
 
 We remove Glorification of Tier 1 and Tier 2 entities as well as designated events.
