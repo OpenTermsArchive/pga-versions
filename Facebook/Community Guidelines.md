@@ -1391,7 +1391,7 @@ Because account level removal is a severe action, whenever possible, we aim to g
 * Represent [Dangerous Individuals or Organizations](https://www.facebook.com/communitystandards/dangerous_individuals_organizations).
 * Create or use an account that demonstrates an intent to violate our Community Standards.
 * Create or use an account by scripted or other inauthentic means.
-* Create an account, Page, Group or Event to evade our enforcement actions, including creating an account to bypass a restriction or after we have disabled your previous account, Page, Group or Event.
+* Create or repurpose an account or entity to evade a previous removal, including those assessed to have common ownership and content as previously removed accounts or entities.
 * Create or use an account that deliberately misrepresents your identity in order to mislead or deceive others, or to evade enforcement or violate our other Community Standards. We consider a number of factors when assessing misleading identity misrepresentation, such as:
     * Repeated or significant changes to identity details, such as name or age
     * Misleading profile information, such as bio details and profile location
