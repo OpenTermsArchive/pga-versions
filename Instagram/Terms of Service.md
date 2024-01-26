@@ -192,4 +192,4 @@ We always appreciate feedback or other suggestions, but may use them without any
 
 We may change our Service and policies, and we may need to make changes to these Terms so that they accurately reflect our Service and policies. We will only make changes if the provisions are not appropriate anymore or if they are incomplete, and only if the changes are reasonable for you in consideration to your interests. Unless otherwise required by law, we will notify you of the changes and choices you have (for example, through our Service) at least 30 days before we update the Terms, and we will give you an opportunity to review them before they go into effect. Then, if you continue to use the Service, you will be bound by the updated Terms. If you do not want to agree to these or any updated Terms, you can delete your account, here.  
 
-Effective Date: January 12 2024
+Effective Date: 12 January 2024
