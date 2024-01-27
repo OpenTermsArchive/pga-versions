@@ -1087,11 +1087,12 @@ Synthetic and manipulated media policy
 Trademark policy
 ================
 
-### Overview 
+### Overview
 
-**April 2023**
+### **April 2023**
 
-**You may not violate others’ intellectual property rights, including copyright and trademark.**
+**  
+You may not violate others’ intellectual property rights, including copyright and trademark.**
 
 A trademark is a word, logo, phrase, or device that distinguishes a trademark holder’s good or service in the marketplace. Trademark law may prevent others from using a trademark in an unauthorized or confusing manner.    
   
