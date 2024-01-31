@@ -1,12 +1,14 @@
 Community Guidelines
 
-Updated: August 2023
+Updated: January 2024
 
-At Snap, we contribute to human progress by empowering people to express themselves, live in the moment, learn about the world, and have fun together. We created these Community Guidelines to support our mission by encouraging the broadest range of self-expression, while striving to make sure Snapchatters can use our services safely every day. We intend for these Guidelines to be clear and understandable for all members of our community. Please note that in order to join our community, you must be at least 13 years old. 
+At Snap, we contribute to human progress by empowering people to express themselves, live in the moment, learn about the world, and have fun together. We created these Community Guidelines to support our mission by encouraging the broadest range of self-expression, while striving to make sure Snapchatters can use our services safely every day. We want these Guidelines to be clear and understandable for all members of our community. Please note that in order to join our community, you must be at least 13 years old. 
 
 These Guidelines apply to all content (which includes all forms of communication, like text, images, generative AI, links or attachments, emojis, Lenses and other creative tools) or behavior on Snapchat — and to all Snapchatters. We are particularly sensitive to content or behavior that poses a risk of severe harm to Snapchatters, and reserve the right to take immediate, permanent action against users engaging in such behavior. Additional guidance about what we consider to be severe harm and how we take action against it is available [here](https://www.snap.com/privacy/transparency/community-guidelines/severe-harm). 
 
-Advertisers and media partners in Discover agree to additional guidelines, including the requirement that their content is accurate and, where appropriate, fact-checked. Developers are also subject to additional rules. We also implement safeguards to help keep generative AI content in line with our Community Guidelines. 
+Snap offers generative AI features through our services. We implement safeguards designed to help keep generative AI content in line with our Community Guidelines, and we expect Snapchatters to use AI responsibly. We reserve the right to take appropriate enforcement action against accounts that use AI to violate our Community Guidelines, up to and including the possible termination of an account.
+
+Advertisers and media partners in Discover agree to additional guidelines, including the requirement that their content is accurate and, where appropriate, fact-checked. Developers are also subject to additional rules.
 
 We've outlined here and in our [Terms of Service](https://snap.com/en-US/terms?lang=en-US) specific rules for content that is prohibited on Snapchat, and we work to ensure these rules are applied consistently. When applying these rules, we take into account the nature of the content, including whether it is newsworthy, factual, and relates to a matter of political, social, or other general concern to our community. Additional context about how we moderate content and enforce our policies is available [here](https://www.snap.com/privacy/transparency/community-guidelines/moderation). We also provide links to more detailed information about our Community Guidelines throughout each of the sections below.
 
@@ -58,7 +60,7 @@ Harmful False or Deceptive Information
     
 * We prohibit pretending to be someone (or something) that you’re not, or attempting to deceive people about who you are. This includes impersonating your friends, celebrities, public figures, brands, or other people or organizations for harmful, non-satirical purposes.
     
-* We prohibit spam, including pay-for-follower promotions or other follower-growth schemes, the promotion of spam applications, or the promotion of multilevel marketing or pyramid schemes.
+* We prohibit spam, including undisclosed paid or sponsored content, pay-for-follower promotions or other follower-growth schemes, the promotion of spam applications, or the promotion of multilevel marketing or pyramid schemes.
     
 * We prohibit fraud and other deceptive practices, including the promotion of fraudulent goods or services or get-rich-quick schemes, or imitating Snapchat or Snap Inc.
     
