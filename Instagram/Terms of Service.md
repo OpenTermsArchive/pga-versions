@@ -3,7 +3,11 @@
 Terms and Imprint
 =================
 
-Copy link
+_We're updating our Terms of Use. These updates go into effect on March 6, 2024. By continuing to use Instagram after this date, you agree to the updated Terms.
+
+This update applies to you if you use Instagram for business purposes. If you have a concern related to our conditions for accessing Instagram, you have a new option to submit a dispute.
+
+Read the new terms._
 
 Terms and Imprint  
   
