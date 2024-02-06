@@ -1505,7 +1505,7 @@ We remove misinformation where it is likely to directly contribute to the risk o
 
 For all other misinformation, we focus on reducing its prevalence or creating an environment that fosters a productive dialogue. We know that people often use misinformation in harmless ways, such as to exaggerate a point (“This team has the worst record in the history of the sport!”) or in humor or satire (“My husband just won Husband of the Year.”) They also may share their experience through stories that contain inaccuracies. In some cases, people share deeply-held personal opinions that others consider false or share information that they believe to be true but others consider incomplete or misleading.
 
-Recognizing how common such speech is, we focus on slowing the spread of hoaxes and viral misinformation, and directing users to authoritative information. As part of that effort, we partner with third-party fact checking organizations to review and rate the accuracy of the most viral content on our platforms (see [here](https://transparency.fb.com/en-gb/features/how-fact-checking-works/) to learn more about how our fact-checking program works). We also provide [resources](https://www.facebook.com/journalismproject/programs/third-party-fact-checking/industry-investments) to increase media and digital literacy so people can decide what to read, trust, and share themselves.
+Recognizing how common such speech is, we focus on slowing the spread of hoaxes and viral misinformation, and directing users to authoritative information. As part of that effort, we partner with third-party fact checking organizations to review and rate the accuracy of the most viral content on our platforms (see [here](https://transparency.fb.com/en-gb/features/how-fact-checking-works/) to learn more about how our fact-checking program works). We also provide [resources](https://www.facebook.com/journalismproject/programs/third-party-fact-checking/industry-investments) to increase media and digital literacy so people can decide what to read, trust, and share themselves. We may also add a label to certain digitally created or altered content that creates a particularly high risk of misleading people on a matter of public importance.
 
 Finally, we prohibit content and behavior in other areas that often overlap with the spread of misinformation. For example, our Community Standards prohibit [fake accounts](https://www.facebook.com/communitystandards/misrepresentation), [fraud](https://www.facebook.com/communitystandards/fraud_deception), and [coordinated inauthentic behavior](https://www.facebook.com/communitystandards/inauthentic_behavior).
 
@@ -1563,6 +1563,12 @@ We have additional policies intended to cover calls for violence, the promotion 
 Media can be edited in a variety of ways. In many cases, these changes are benign, such as content being cropped or shortened for artistic reasons or music being added. In other cases, the manipulation is not apparent and could mislead, particularly in the case of video content. We remove this content because it can go viral quickly and experts advise that false beliefs regarding manipulated media often cannot be corrected through further discourse.
 
 We remove videos under this policy if specific criteria are met: (1) the video has been edited or synthesized, beyond adjustments for clarity or quality, in ways that are not apparent to an average person, and would likely mislead an average person to believe a subject of the video said words that they did not say; and (2) the video is the product of artificial intelligence or machine learning, including deep learning techniques (e.g., a technical deepfake), that merges, combines, replaces, and/or superimposes content onto a video, creating a video that appears authentic.
+
+#### For the following content, we include an informative label:
+
+**Content Digitally Created or Altered that May Mislead**
+
+For content that does not otherwise violate the Community Standards, we may place an informative label on the face of content – or reject content submitted as an advertisement – when the content is a photorealistic image or video, or realistic sounding audio, that was digitally created or altered and creates a particularly high risk of materially deceiving the public on a matter of public importance.
 
 Read lessRead more
 
