@@ -108,7 +108,7 @@ Some examples of hateful activities that would violate the rule:
 
 Additionally, when evaluating the activity of a community or an individual user, we consider both the context as well as the pattern of behavior.
 
-Spam on Reddit is generally defined as repeated, unwanted, and/or unsolicited actions, whether automated or manual, that negatively affect Reddit users, Reddit communities, and/or Reddit itself. Spam is a violation of the Reddit [User Agreement](https://www.reddit.com/help/useragreement) and [Content Policy](https://www.reddit.com/help/contentpolicy), punishable by content removal and account suspension or termination. As spam-like behaviors evolve, Reddit will continue to adjust how we mitigate and prevent the spread of spam content.  
+Spam on Reddit is generally defined as repeated, unwanted, and/or unsolicited actions, whether automated or manual, that negatively affect Reddit users, Reddit communities, and/or Reddit itself. Spam is a violation of the Reddit [User Agreement](https://www.reddit.com/help/useragreement) and [Content Policy](https://www.reddit.com/help/contentpolicy), punishable by content removal and temporary or permanent banning of your Reddit account. As spam-like behaviors evolve, Reddit will continue to adjust how we mitigate and prevent the spread of spam content.  
   
 
 **How do I avoid being labeled as a spammer?**
@@ -120,7 +120,7 @@ Spam on Reddit is generally defined as repeated, unwanted, and/or unsolicited ac
 * If you’re unsure if your content is considered spammy or unwelcome, contact the moderators of the community to which you’d like to submit. Subreddits may have community-specific rules in addition to the guidelines below.
     
 
-**The following are examples of behavior that may be considered spam and are subject to removal/suspension:**
+**The following are examples of behavior that may be considered spam and are subject to removal/ban:**
 
 * Sending large amounts of private messages to users who are not expecting them.
     
@@ -146,7 +146,7 @@ Vote manipulation is prohibited on Reddit and goes against the rules, whether it
 * **Soliciting votes:** Requesting or encouraging people to upvote or downvote specific posts, either on Reddit or through social networks, messaging, etc. for personal gain.
 * **Participating in Group Voting:** Joining or forming groups that coordinate votes, either on a specific post, a user's posts, content from a domain, etc. 
 
-Engaging in vote cheating or manipulation will result in the suspension or banning of your Reddit account. 
+Engaging in vote cheating or manipulation will result in temporary or permanent banning of your Reddit account. 
 
 If you come across instances of vote manipulation that you'd like to report, please visit [this page](https://www.reddit.com/report).
 
