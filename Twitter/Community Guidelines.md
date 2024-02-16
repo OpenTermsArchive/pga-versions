@@ -849,8 +849,6 @@ The distribution of other types of content without the consent of the owner may 
 Non-consensual nudity policy
 ============================
 
-[Take the survey](https://www.research.net/r/QFBQSNC)
-
 ### Overview
 
 **  
