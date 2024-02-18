@@ -1,6 +1,8 @@
 Telegram Datenschutzerklärung
 =============================
 
+> Für Nutzer, die auf Telegram aus der Europäischen Union zugreifen, ist die [Leitlinie für das EU-Gesetz über digitale Dienste (“DSA”)](https://telegram.org/tos/eu-dsa) auch Bestandteil unserer [Nutzungsbedingungen](https://telegram.org/tos/de).
+
 ### [](#1-einleitung)1\. Einleitung
 
 Diese Datenschutzerklärung beschreibt, wie wir, Telegram Messenger Inc. **(“Telegram”)**, deine personenbezogenen Daten im Zusammenhang mit deiner Nutzung unserer Cloud-basierten Messaging-Dienste (nachfolgend **“Dienste”**) verarbeiten und schützen. Nachfolgend bezieht sich **“wir”**, **“uns”** und **“unser”** auf Telegram, und **“du”** bezieht sich auf dich, den Nutzer bzw. die Nutzerin der Dienste.
