@@ -1606,7 +1606,7 @@ We process information for the following legal bases:
 Performance of a contract
 -------------------------
 
-We process your information that’s necessary to fulfil our contracts with you. This means providing the services laid out in the Facebook [Terms of Service](https://www.facebook.com/terms.php?ref=dp), the Instagram [Terms of Use](https://mbasic.facebook.com/privacy/policy/printable/http%3A%2F%2Flm.facebook.com%2Fl.php%3Fu=http%3A%2F%2Fhelp.instagram.com%2F581066165581870%2F%3Fhelpref%3Duf_share), the [Supplemental Meta Platforms Technologies Terms of Service](https://www.oculus.com/legal/terms-of-service/?locale=en_GB), the [Supplemental Portal Terms of Service](https://portal.facebook.com/gb/legal/terms-of-service/) and the [Supplemental Facebook View Terms of Service](https://www.facebook.com/help/ray-ban-stories/1247963662288636), together, the “terms.”
+We process your information that’s necessary to fulfil our contracts with you. This means providing the services laid out in the Facebook [Terms of Service](https://www.facebook.com/terms.php?ref=dp), the Instagram [Terms of Use](https://mbasic.facebook.com/privacy/policy/printable/https%3A%2F%2Flm.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fhelp.instagram.com%2F581066165581870%2F%3Fhelpref%3Duf_share), the [Supplemental Meta Platforms Technologies Terms of Service](https://www.oculus.com/legal/terms-of-service/?locale=en_GB), the [Supplemental Portal Terms of Service](https://portal.facebook.com/gb/legal/terms-of-service/) and the [Supplemental Facebook View Terms of Service](https://www.facebook.com/help/ray-ban-stories/1247963662288636), together, the “terms.”
 
 [Learn more](#18.2-PerformanceOfAContract)
 
