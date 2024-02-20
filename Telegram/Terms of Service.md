@@ -11,4 +11,4 @@ Für Nutzer, die auf Telegram aus der Europäischen Union zugreifen, ist die [Le
 
 Wir behalten uns das Recht vor, diese Nutzungsbedingungen später zu aktualisieren.
 
-> Nutzer aus dem Europäischen Wirtschaftsraum müssen mindestens 16 Jahre alt sein, um sich bei Telegram zu registrieren.
+> Nutzer aus dem Europäischen Wirtschaftsraum müssen mindestens 18 Jahre alt sein, um sich bei Telegram zu registrieren.
