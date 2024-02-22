@@ -813,29 +813,37 @@ The websites [findahelpline.com](http://www.findahelpline.com/) and [www.wikiped
 
 |     |     |     |
 | --- | --- | --- |
-| Australia | [Lifeline Australia](https://www.lifeline.org.au/)<br><br>[Kids Helpline](https://kidshelpline.com.au/) | 13 11 14<br><br>1800 55 1800 |
+| Australia | [Lifeline Australia](https://www.lifeline.org.au/) | 13 11 14 |
 | Argentina | [Centro de Asistencia al Suicida - Buenos Aires](https://www.casbuenosaires.com.ar/ayuda) | 135 (desde Capital y Gran Buenos Aires) <br><br>(011) 5275-1135 (desde todo el país) |
 | Brazil | [Centro de Valorização da Vida](https://www.cvv.org.br/) | 188 |
-| Belgium | [Centre de Prévention du Suicide /](https://www.preventionsuicide.be/)<br><br>[Zelfmoordlijn 1813](https://www.zelfmoord1813.be/) | 0800 32 123<br><br>1813 |
+| Belgium | [Centre de Prévention du Suicide /](https://www.preventionsuicide.be/)<br><br>[Centrum ter preventie van zelfdoding vzw](https://www.preventiezelfdoding.be/) | 0800 32 123<br><br>1813 |
+| Belgium | [Community Help Service](https://www.chsbelgium.org/) | 32 2 648 4014 |
 | Bulgaria | [Български Червен Кръст](https://www.redcross.bg/activities/activities5/telefon.html) | 02 492 30 30 |
 | Czech Republic | [Psychiatrická léčebna Bohnice - Centrum krizové intervence](https://www.bohnice.cz/krizova-pomoc/) | +420 284 016 666 |
+| Canada | [Talk Suicide Canada](https://talksuicide.ca/)  <br>[Parlons Suicide Canada](https://parlonssuicide.ca/) | 988 |
+| Costa Rica | [Línea Aquí Estoy](https://psicologiacr.com/aqui-estoy/) | +506 2272-3774 |
 | Denmark | [Livslinien](https://www.livslinien.dk/) | 70201201 |
 | France | [S.O.S Amitié](https://www.sos-amitie.com/) | 09 72 39 40 50 |
 | Finland | [Suomen Mielenterveysseura / Kansallinen kriisipuhelin](https://mieli.fi/fi/tukea-ja-apua) | 09-2525-0111 |
-| Germany | [Telefonseelsorge](https://www.telefonseelsorge.de/) | 0800-1110111 |
-| Greece | [ΚΛΙΜΑΚΑ](http://suicide-help.gr/) | 1018  <br>801 801 99 99 |
+| Germany | [Telefonseelsorge](https://www.telefonseelsorge.de/) | 0800 111 01 11  <br>0800 111 02 22  <br>116 123 |
+| Greece | [ΚΛΙΜΑΚΑ](http://suicide-help.gr/) | 1018 |
 | Hong Kong | [香港撒瑪利亞防止自殺會](https://www.sbhk.org.hk/) | 2389 2222 |
 | Hungary | [S.O.S. Telefonos Lelki Elsősegély Szolgálat](https://sos116-123.hu/) | 06 1 116-123 |
-| India | [आसरा  <br>AASRA](http://www.aasra.info/helpline.html) | 91-9820466726 |
+| India | [iCALL](https://icallhelpline.org/) | 091529 87821 |
 | Ireland | [Samaritans](https://www.samaritans.org/?nation=ireland) | 116 123 |
 | Israel | [ער"ן - עזרה ראשונה נפשית](https://www.eran.org.il/) | 1201 |
 | Italy | [Samaritans Onlus](http://www.samaritansonlus.org/) | 800 86 00 22 |
 | Japan | [こころの健康相談統一ダイヤル](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/jisatsu/soudan_tel.html) | 0570-064-556 |
 | New Zealand | [Lifeline New Zealand](https://www.lifeline.org.nz/) | 0800 543 354 |
 | Netherlands | [Stichting 113Online](https://www.113.nl/) | 0900-0113 |
-| Singapore | [Samaritans of Singapore](https://www.sos.org.sg/) | 1800-221-4444 |
+| Norway | [Mental Helse](http://www.mentalhelse.no/) | 116 123 |
+| Pakistan | [Umang Mental Health Helpline](https://www.umang.com.pk/) | 03117786264 |
+| Peru | [Ministerio de Salud](https://www.gob.pe/555-recibir-informacion-y-orientacion-en-salud) | 113 |
+| Russia | [Фонд поддержки детей, находящихся в трудной жизненной ситуации](http://www.ya-roditel.ru/parents/helpline/) | 8-800-2000-122 |
+| Singapore | [Samaritans of Singapore](https://www.sos.org.sg/) | 1800-221-4444<br><br>1767 |
 | Spain | [Telèfon de l'Esperança de Barcelona](https://www.telefonoesperanza.com/)<br><br>[Teléfono de la Esperanza](https://www.telefonodelaesperanza.org/) | 93 414 48 48<br><br>717 003 717 |
-| South Korea | [보건복지부 자살예방상담전화](https://www.129.go.kr/1393/) | 1393 |
+| South Korea | [보건복지부 자살예방상담전화](https://www.129.go.kr/) | 109 |
+| Switzerland | [Die Dargebotene Hand](https://www.143.ch/)<br><br>[La Main Tendue](https://www.143.ch/fr/)<br><br>[Telefono Amico](https://www.143.ch/ticino/) | 143 |
 | Taiwan | [生命線協談專線](http://www.life1995.org.tw/) | 1995 |
 | Thailand | [กรมสุขภาพจิต กระทรวงสาธารณสุข](https://www.dmh.go.th/service/view.asp?id=147) | 1323 |
 | United Kingdom | [Samaritans](https://www.samaritans.org/) | 116 123 |
@@ -849,12 +857,21 @@ Below is a list of organizations that help individuals with eating disorders. Th
 
 |     |     |     |
 | --- | --- | --- |
-| United States | [NEDA](https://www.nationaleatingdisorders.org/) | +1 800 931-2237 |
-| United Kingdom | [BEAT Eating Disorders](https://www.beateatingdisorders.org.uk/get-information-and-support/get-help-for-myself/i-need-support-now/helplines/) | +44 0808 801 0677 England |
-|     |     | +44 0808 801 0432 Scotland |
-|     |     | +44 0808 801 0433 Wales |
-|     |     | +44 0808 801 0434 N. Ireland |
-| India | [Vandrevala Foundation](https://www.vandrevalafoundation.com/) | +91 9999 666 555 |
+| Australia | [Butterfly Foundation](https://butterfly.org.au/get-support/helpline/) | 1800 33 4673 |
+| Brazil | [Centro de Valorização da Vida](https://www.cvv.org.br/) | 188 |
+| Canada | [National Eating Disorder Information Centre](https://nedic.ca/hey-there/) | 18666334220 |
+| Canada | [Anorexie et Boulimie Québec](https://anebquebec.com/) | 18006300907 |
+| France | [Fédération Française Anorexie Boulimie](https://www.journeemondialetca.fr/ressources/la-ligne-telephonique-anorexie-boulimie-info-ecoute) | 09 69 325 900 |
+| Germany | [BZgA - Essstörungen.de](https://www.bzga-essstoerungen.de/hilfe-finden/jetzt/) |     |
+| India | [Vandrevala Foundation](https://www.vandrevalafoundation.com/) | 91 9999 666 555 |
+| Japan | [摂食障害相談ほっとライン](https://sessyoku-hotline.jp/) | 0477108869 |
+| Mexico | [Línea de la Vida](https://www.gob.mx/salud/conadic/acciones-y-programas/centro-de-atencion-ciudadana-contra-las-adicciones-134381) | 8009112000 |
+| South Korea | [국립정신건강센터](https://www.ncmh.go.kr/ncmh/main.do) | 15770199 |
+| United Kingdom | [BEAT Eating Disorders](https://www.beateatingdisorders.org.uk/get-information-and-support/get-help-for-myself/i-need-support-now/helplines/) | 0808 801 0677 England |
+|     |     | 0808 801 0432 Scotland |
+|     |     | 0808 801 0433 Wales |
+|     |     | 0808 801 0434 N. Ireland |
+| United States of America | [Substance Abuse and Mental Health Services Administration](https://www.samhsa.gov/find-help/national-helpline) | 1-800-662-4357 |
 
 Community Guidelines for posting suicide, self-harm, or eating disorder-related content
 ---------------------------------------------------------------------------------------
