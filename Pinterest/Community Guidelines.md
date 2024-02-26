@@ -60,6 +60,8 @@ Pinterest isn’t a place for misinformation, disinformation, mal-information or
 
 Civic participation misinformation
 
+This policy is always applicable, meaning before, during and after major civic participation events (e.g. elections).
+
 * False or misleading content that impedes an election’s integrity or an individual's or group's civic participation, including registering to vote, voting and being counted in a census.
 * False or misleading information about the dates, times, locations and procedure for voting or census participation.
 * Content that misleads voters about how to correctly fill-out and submit a ballot, including a mail-in ballot, or census form.
@@ -68,7 +70,8 @@ Civic participation misinformation
 * False or misleading information about public safety that is intended to deter people from exercising their right to vote or participate in a census.
 * Content that encourages or instructs voters or participants to misrepresent themselves or illegally participate.
 * Content apparently intended to delegitimize election results on the basis of false or misleading claims.
-* Threats against voting locations, census or voting personnel, voters or census participants, including intimidation of vulnerable or protected group voters or participants.
+* Fabricated or manipulated content (e.g. content generated with AI tools) making someone appear to do or say something they didn't with the clear intent of influencing public sentiment about a political figure and/or election.
+* Our policies also prohibit threats against voting locations, census or voting personnel, voters or census participants, including intimidation and doxxing of vulnerable or protected group voters or participants.
 
 Climate misinformation
 
