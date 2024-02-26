@@ -496,11 +496,11 @@ We remove Representation of Tier 1 and 2 Designated Organizations and designated
 
 **_Tier 1: Terrorism, organized hate, large-scale criminal activity, attempted multiple-victim violence, multiple victim violence, serial murders, and violating violent events_**
 
-We do not allow individuals or organizations involved in organized crime, including those designated by the United States government as specially designated narcotics trafficking kingpins (SDNTKs); hate; or terrorism, including entities designated by the United States government as Foreign Terrorist Organizations (FTOs) or Specially Designated Global Terrorists (SDGTs), to have a presence on the platform. We also don't allow other people to represent these entities. We do not allow leaders or prominent members of these organizations to have a presence on the platform, symbols that represent them to be used on the platform, or content that glorifies them or their acts, including unclear references to the. In addition, we remove any support for these individuals and organizations.
+We do not allow individuals or organizations involved in organized crime, including those designated by the United States government as specially designated narcotics trafficking kingpins (SDNTKs); hate; or terrorism, including entities designated by the United States government as Foreign Terrorist Organizations (FTOs) or Specially Designated Global Terrorists (SDGTs), to have a presence on the platform. We also don't allow other people to represent these entities. We do not allow leaders or prominent members of these organizations to have a presence on the platform, symbols that represent them to be used on the platform, or content that glorifies them or their acts, including unclear references to them. In addition, we remove any support for these individuals and organizations.
 
 We do not allow content that glorifies, supports, or represents events that Meta designates as terrorist attacks, hate events, multiple-victim violence or attempted multiple-victim violence, serial murders, hate crimes or violating violent events. Nor do we allow (1) content that glorifies, supports, or represents the perpetrator(s) of such attacks; (2) perpetrator-generated content relating to such attacks; or (3) third-party imagery depicting the moment of such attacks on visible victims.
 
-We also do not allow Glorification, Support, or Representation of designated hateful ideologies, as well as unclear references to the.
+We also do not allow Glorification, Support, or Representation of designated hateful ideologies, as well as unclear references to them.
 
 **Terrorist organizations and individuals**, defined as a non-state actor that:
 
@@ -537,7 +537,7 @@ We also do not allow Glorification, Support, or Representation of designated hat
 
 **_Tier 2: Violent Non-State Actors and Violence Inducing Entities_**
 
-Organizations and individuals designated by Meta as Violent Non-state Actors or Violence Inducing Entities are not allowed to have a presence on Facebook, or have a presence maintained by others on their behalf. As these communities are actively engaged in violence, against state or military actors in armed conflicts (Violent Non-State Actors) or are preparing or advocating or creating conditions for future violence (Violence Inducing Entities), material support of these entities is not allowed. We will also remove glorification of these entities.
+Organizations and individuals designated by Meta as Violent Non-state Actors or Violence Inducing Entities are not allowed to have a presence on our platforms, or have a presence maintained by others on their behalf. As these communities are actively engaged in violence, against state or military actors in armed conflicts (Violent Non-State Actors) or are preparing or advocating or creating conditions for future violence (Violence Inducing Entities), material support of these entities is not allowed. We will also remove glorification of these entities.
 
 **Violent Non-State Actors**, defined as any non-state actor that:
 
