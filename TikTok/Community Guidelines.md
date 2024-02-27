@@ -189,7 +189,7 @@ Often the ideas of these actors are amplified by others. **We do not allow anyon
 
 **More information**
 
-**Violent extremists** are non-state groups, including those [designated by the United Nations](https://scsanctions.un.org/k8946en-all.html), that threaten or use violence against civilians for political, religious, ethnic, or ideological reasons.
+**Violent extremists** are non-state groups, including those [designated by the United Nations](https://www.un.org/securitycouncil/content/un-sc-consolidated-list), that threaten or use violence against civilians for political, religious, ethnic, or ideological reasons.
 
 **Criminal organizations** are transnational, national, or local groups that commit serious crimes, including violence, trafficking, kidnapping, financial crimes, and cybercrime.
 
