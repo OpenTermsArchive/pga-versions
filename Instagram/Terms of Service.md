@@ -164,7 +164,7 @@ In return for our commitment to provide the Service, we require you to make the 
 
 **Our Agreement.**
 
-* Your use of music on the Service is also subject to our Music Guidelines, and your use of our API is subject to our Meta Platform Terms and Developer Policies. If you use certain other features or related services, you will be provided with an opportunity to agree to additional terms that will also become a part of our agreement. For example, if you use payment features, you will be asked to agree to the Community Payment Terms. If any of those terms conflict with this agreement, those other terms will govern.
+* Your use of music on the Service is also subject to our Music Guidelines, and your use of our API is subject to our Meta Platform Terms and Developer Policies. If you use certain other features or related services, you will be provided with an opportunity to agree to additional terms that will also become a part of our agreement. For example, if you use payment features, you will be asked to agree to the Community Payment Terms. If you have a subscription for no ads, then the No Ads Terms also apply. If any of those terms conflict with this agreement, those other terms will govern.
 * If any aspect of this agreement is unenforceable, the rest will remain in effect.
 * Any amendment or waiver to our agreement must be in writing and signed by us. If we fail to enforce any aspect of this agreement, it will not be a waiver.
 * We reserve all rights not expressly granted to you.
