@@ -3,7 +3,7 @@ Platform Policies
 
 Official Quora Account
 
-* 2023-05-30T15:39:54Z
+* 2024-02-26T20:16:47Z
 
 Quora is a place that empowers people to share and grow the world's knowledge. In order to provide everyone with a safe and authentic experience using Quora, the following types of content and behaviors are prohibited:
 
@@ -47,7 +47,7 @@ If there is a question about you on Quora, you have the right to have the entire
 
 ### [Hate Speech](#h_01GFWFFTT27SBF450C79BB9GCK)
 
-Hate speech is defined as a serious attack on a group or individual based on their race, ethnicity, gender, nationality, sexual orientation, sex, religion, caste, serious medical condition, or disability. This includes the use of slurs in a disparaging way, as well as content that dehumanizes or calls for violence, exclusion, or segregation of protected classes.
+Hate speech is defined as a serious attack on a group or individual based on their race, ethnicity, gender, national origin, sexual orientation, sex, religion, caste, serious medical condition, or disability. This includes the use of slurs in a disparaging way, as well as content that dehumanizes or calls for violence, exclusion, or segregation of protected classes.
 
 Examples include:
 
@@ -177,13 +177,13 @@ Spaces Policies
 
 Official Quora Account
 
-* 2023-05-30T15:58:13Z
+* 2024-02-26T20:30:22Z
 
 On Quora, people share questions, answers, and other content to collectively build knowledge and community within a Space. Quora generally moderates items within Spaces at a content-level, however, repeated or serious violations may result in the removal of the entire Space. Note that Space admins may decide to set more restrictive policies for individual Spaces that they manage. Below are the following policies for Quora Spaces:
 
 ### [Hate Speech](#h_01FSDDT210PVD4R9B41GJWR7N6)
 
-Hate speech is defined as a serious attack on a group or individual based on their race, ethnicity, gender, nationality, sexual orientation, sex, religion, caste, serious medical condition, or disability. This includes the use of slurs in a disparaging way, as well as content that dehumanizes or calls for violence, exclusion, or segregation of protected classes.
+Hate speech is defined as a serious attack on a group or individual based on their race, ethnicity, gender, national origin, sexual orientation, sex, religion, caste, serious medical condition, or disability. This includes the use of slurs in a disparaging way, as well as content that dehumanizes or calls for violence, exclusion, or segregation of protected classes.
 
 Examples include:
 
