@@ -1,133 +1,89 @@
-Information for Law Enforcement Authorities
-===========================================
+**Safety Center**
+-----------------
 
-These operational guidelines are for law enforcement officials seeking records from Meta Platforms (hereinafter “Meta”). For private party requests, including requests from civil litigants and criminal defendants, please visit the [Help Center](https://www.facebook.com/help/131535283590645) or [Instagram’s Help Center](https://help.instagram.com/232762833582105). Users seeking information on their own accounts can access Facebook's ["Download Your Information"](https://www.facebook.com/help/1701730696756992) or [Instagram’s “Download your Information.”](https://help.instagram.com/contact/505535973176353) . This information may change at any time.
+At Meta, we take a comprehensive approach to making our technologies a better place for everyone. Learn how we're working to keep you safe on our platforms.
 
-#### U.S. Legal Process Requirements
+Search Safety Center Resource Library
 
-We disclose account records solely in accordance with our terms of service and applicable law, including the federal Stored Communications Act ("SCA"), 18 U.S.C. Sections 2701-2712. Under U.S. law:
+**Browse by topic or community**
+--------------------------------
 
-* A valid subpoena issued in connection with an official criminal investigation is required to compel the disclosure of basic subscriber records (defined in 18 U.S.C. Section 2703(c)(2)), which may include: name, length of service, credit card information, email address(es), and a recent login/logout IP address(es), if available.
-    
-* A court order issued under 18 U.S.C. Section 2703(d) is required to compel the disclosure of certain records or other information pertaining to the account, not including contents of communications, which may include message headers and IP addresses, in addition to the basic subscriber records identified above.
-    
-* A search warrant issued under the procedures described in the Federal Rules of Criminal Procedure or equivalent state warrant procedures upon a showing of probable cause is required to compel the disclosure of the stored contents of any account, which may include messages, photos, videos, timeline posts, and location information.
-    
-* We interpret the national security letter provision as applied to Meta to require the production of only 2 categories of information: name and length of service.
-    
+**Topics**
+----------
 
-* * *
+Whether you're currently facing an issue or looking to be proactive about your online safety, we want to help. Discover expert-backed safety resources and tools across our technologies.
 
-#### International Legal Process Requirements
+[See all topics](https://about.meta.com/actions/safety/topics)
 
-We disclose account records solely in accordance with our terms of service and applicable law. A Mutual Legal Assistance Treaty request or letter rogatory may be required to compel the disclosure of the contents of an account. Further information can be found [here](https://www.facebook.com/about/privacy).
+[![](https://scontent-fra3-1.xx.fbcdn.net/v/t39.2365-6/318306191_3235133960080150_4887950519803826753_n.png?_nc_cat=101&ccb=1-7&_nc_sid=e280be&_nc_ohc=PoLmX-0DntMAX88ayfH&_nc_ht=scontent-fra3-1.xx&oh=00_AfAVXJoC7GlCAvdwQxzNPrGnAGUi5V2DF143fhJr3P8v-Q&oe=65F8CDAC)
 
-* * *
+Safety Tools and Policies  
 
-#### Authenticity Policy
+Learn More](https://about.meta.com/actions/safety/topics/safety-basics/tools/)
 
-People on Facebook are required to use the name they go by in everyday life on their account’s main profile, and must not maintain multiple accounts. Operating fake accounts, pretending to be someone else, or otherwise misrepresenting your authentic identity is not allowed, and we will act on violating accounts. Please see our Account Integrity and Authentic Identity policies [here](https://www.facebook.com/communitystandards/misrepresentation/).
+[![](https://scontent-fra3-1.xx.fbcdn.net/v/t39.2365-6/318333961_699353248426388_7434555667491256636_n.png?_nc_cat=103&ccb=1-7&_nc_sid=e280be&_nc_ohc=kosj9T-6I7wAX9NTDRP&_nc_ht=scontent-fra3-1.xx&oh=00_AfBAr6Pxa_dTQfxk-SZwMmFkfOG0hgnun0Kfuq7zleJ7sA&oe=65F8A5FA)
 
-* * *
+Online Child Protection  
 
-#### Account Preservation
+Learn More](https://about.meta.com/actions/safety/onlinechildprotection/)
 
-We will take steps to preserve account records in connection with official criminal investigations for 90 days pending our receipt of formal legal process. You may expeditiously submit formal preservation requests through the [Law Enforcement Online Request System](https://www.facebook.com/records), or mail as indicated below.
+[![](https://scontent-fra3-2.xx.fbcdn.net/v/t39.2365-6/319153503_478550847751247_8696916434213216911_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=fbV7MR_m71UAX-nMaAK&_nc_ht=scontent-fra3-2.xx&oh=00_AfDerBoBZy8AhR98l_WtsmPOrp8NB0LG-kjB-hhUx5t2mw&oe=65F8B1F7)
 
-* * *
+Mental Health & Well-Being  
 
-#### Emergency Requests
+Learn More](https://about.meta.com/actions/safety/topics/wellbeing/)
 
-In responding to a matter involving imminent harm to a child or risk of death or serious physical injury to any person and requiring disclosure of information without delay, a law enforcement official may submit a request through the [Law Enforcement Online Request System](https://www.facebook.com/records). Note: We will not review or respond to requests submitted by non-law enforcement officials. Users aware of an emergency situation should immediately and directly contact local law enforcement officials.
+**Communities**
+---------------
 
-* * *
+Our mission is to give people the power to build community and bring the world closer together. But none of this is possible if people don’t feel safe on our technologies. Our approach to safety includes writing clear policies about what is and isn’t allowed on our platforms, developing sophisticated technology to detect and prevent abuse from happening in the first place, and providing helpful tools and resources for people to control their experience or get help. Learn more about how we're working to provide safe experiences for you and your loved ones.
 
-#### Child Safety Matters
+[**See all communities**](https://about.meta.com/actions/safety/audiences)
 
-We report all apparent instances of child exploitation appearing on our site from anywhere in the world to the National Center for Missing and Exploited Children (NCMEC), including content drawn to our attention by government requests. NCMEC coordinates with law enforcement authorities from around the world. If a request relates to a child exploitation or safety matter, please specify those circumstances (and include relevant NCMEC report identifiers) in the request to ensure that we are able to address these matters expeditiously and effectively.
+[![](https://scontent-fra3-2.xx.fbcdn.net/v/t39.2365-6/10000000_2982403675389415_5049652754262623138_n.png?_nc_cat=107&ccb=1-7&_nc_sid=e280be&_nc_ohc=mPZqHmAXHp4AX92zQFD&_nc_ht=scontent-fra3-2.xx&oh=00_AfCmJxgLodXhtmjUAR7Js_azzIvOAo4LX8m85BrFVRbEOw&oe=65F8D721)
 
-* * *
+Women  
 
-#### Data Retention and Availability
+Learn More](https://about.meta.com/actions/safety/audiences/women/)
 
-We will search for and disclose data that is specified with particularity in an appropriate form of legal process and which we are reasonably able to locate and retrieve. We do not retain data for law enforcement purposes unless we receive a valid preservation request before a user has deleted that content from our service.
+[![](https://scontent-fra3-1.xx.fbcdn.net/v/t39.2365-6/10000000_528100252587598_7584721086007503743_n.png?_nc_cat=101&ccb=1-7&_nc_sid=e280be&_nc_ohc=cEUXkep1PJMAX-mPxyH&_nc_ht=scontent-fra3-1.xx&oh=00_AfAntVqlEvus_pDO-cfAMYRGaFleNXD9-_K4Gu230X3s0w&oe=65F8C463)
 
-Details about data and account deletion can be found in our [Data Policy](https://www.facebook.com/policy.php), [Terms of Service](https://www.facebook.com/terms.php), and [Help Center](https://www.facebook.com/help/1701730696756992).
+LGBTQ+  
 
-* * *
+Learn More](https://about.meta.com/actions/safety/audiences/lgbtq/)
 
-#### Form of Requests
+[![](https://scontent-fra3-1.xx.fbcdn.net/v/t39.2365-6/311788967_822849472395326_8076313588046097298_n.png?_nc_cat=105&ccb=1-7&_nc_sid=e280be&_nc_ohc=xSfED2CWnBIAX_IVBHG&_nc_ht=scontent-fra3-1.xx&oh=00_AfD4Zl3Vkd2UKsMErF8D83CaiuhT8OUw1CtM7jCsmJTE5w&oe=65F8A962)
 
-We will be unable to process overly broad or vague requests. All requests must identify requested records with particularity, including the specific data categories requested and date limitations for the request, as well as include:
+Parents  
 
-* The name of the issuing authority and agent, email address from a law-enforcement domain, and direct contact phone number.
-    
-* The email address, phone number (+XXXXXXXXXX), user ID number (http://www.facebook.com/profile.php?id=1000000XXXXXXXX) or username (http://www.facebook.com/username) of the Facebook profile.
-    
+Learn More](https://about.meta.com/actions/safety/audiences/childsafety/)
 
-* * *
+Featured Resources
+------------------
 
-#### User Consent
+We've collaborated with experts across a range of issues to create policies, tools and resources to prioritize your safety. See our downloadable safety resources to learn more. Share these in work, school and other community settings.
 
-If a law enforcement official is seeking information about a Meta user who has provided consent for the official to access or obtain the user's account information, the user should be directed to obtain that information on their own from their account. For account content, such as messages, photos, videos and timeline posts, users can access Facebook's ["Download Your Information"](https://www.facebook.com/help/1701730696756992), [Instagram’s “Download your Information. ”](https://help.instagram.com/contact/505535973176353) . Users can also view recent IP addresses in their account settings under "Security Settings" > "Where You're Logged In". Users do not have access to historical IP information without legal process.
+[See all resources](https://about.meta.com/actions/safety/resources/)
 
-* * *
+**News**
+--------
 
-#### Notification
+[**See all news posts**](https://about.meta.com/actions/safety/blogs)
 
-Our policy is to notify people who use our service of requests for their information prior to disclosure unless we are prohibited by law from doing so or in exceptional circumstances, such as child exploitation cases, emergencies or when notice would be counterproductive. We will also provide delayed notice upon expiration of a specific non-disclosure period in a court order and where we have a good faith belief that exceptional circumstances no longer exist and we are not otherwise prohibited by law from doing so. Law enforcement officials who believe that notification would jeopardize an investigation should obtain an appropriate court order or other appropriate process establishing that notice is prohibited. If your data request draws attention to an ongoing violation of our terms of use, we will take action to prevent further abuse, including actions that may notify the user that we are aware of their misconduct.
+**Help Centers**
 
-* * *
+[![](https://scontent-fra5-1.xx.fbcdn.net/v/t39.8562-6/305312500_606845917514711_2851082335522018544_n.png?_nc_cat=108&ccb=1-7&_nc_sid=f537c7&_nc_ohc=ujs91QGgUf8AX9lMpfW&_nc_ht=scontent-fra5-1.xx&oh=00_AfBqxWeHLqN75N07B9POj8oul0WYkkluJ_anh9CXKeuKnA&oe=65E2DAFC)
 
-#### Testimony
+Facebook Help Center](https://www.facebook.com/help)[![](https://scontent-fra5-1.xx.fbcdn.net/v/t39.8562-6/305167111_637393584391602_4322498825123329500_n.png?_nc_cat=110&ccb=1-7&_nc_sid=f537c7&_nc_ohc=n9V-NZRkdMoAX_RUgZd&_nc_ht=scontent-fra5-1.xx&oh=00_AfAB1rjkKZjJgPf7r5vYFZlo8WHXdz7qLtCNIyBj3KR75g&oe=65E40556)
 
-Meta does not provide expert testimony support. In addition, Meta records are self-authenticating pursuant to law and should not require the testimony of a records custodian. If a special form of certification is required, please attach it to your records request.
+Messenger Help Center](https://www.facebook.com/help/messenger-app)
 
-* * *
+[![](https://scontent-fra5-1.xx.fbcdn.net/v/t39.8562-6/303607411_5568327009897059_6088749816007551782_n.png?_nc_cat=108&ccb=1-7&_nc_sid=f537c7&_nc_ohc=pxHoYzT_TdUAX_CSANM&_nc_ht=scontent-fra5-1.xx&oh=00_AfDZhb80ZjEJt2m7aRalnncXD6kaW0jm4ZgUUGFpKo8gMQ&oe=65E2ABEB)
 
-#### Cost Reimbursement
+Instagram Help Center](https://help.instagram.com/)[![](https://scontent-fra5-1.xx.fbcdn.net/v/t39.8562-6/300793669_1069748913739367_4802577628415286799_n.png?_nc_cat=110&ccb=1-7&_nc_sid=f537c7&_nc_ohc=O8hIrs0efwoAX9tfN2b&_nc_ht=scontent-fra5-1.xx&oh=00_AfCYTD6H0P2NF8uadXeaa-kBAVLXOkZVKgADVri64LrSHg&oe=65E28FFB)
 
-We may seek reimbursement for costs in responding to requests for information as provided by law. These fees apply on a per account basis. We may also charge additional fees for costs incurred in responding to unusual or burdensome requests.
+WhatsApp Help Center](https://faq.whatsapp.com/)
 
-We may waive these fees in matters investigating potential harm to children, Facebook, Instagram and our users, and emergency requests.
+[![](https://scontent-fra3-2.xx.fbcdn.net/v/t39.8562-6/329898168_4106155066276340_5352463082984921933_n.png?_nc_cat=104&ccb=1-7&_nc_sid=f537c7&_nc_ohc=hrhw7JX1HfQAX9fPwrf&_nc_ht=scontent-fra3-2.xx&oh=00_AfCdoX8nQx9eUCZOaixe_9UcKeRxYDD5jBRFy7Hw4OjIRw&oe=65E2D95F)
 
-* * *
-
-#### Human Rights Due Diligence
-
-In line with our commitments as a member of the Global Network Initiative and our [Corporate Human Rights Policy](https://about.fb.com/wp-content/uploads/2021/03/Facebooks-Corporate-Human-Rights-Policy.pdf), we also conduct a careful review of each law enforcement request to disclose user data for consistency with international human rights standards.
-
-* * *
-
-#### Victim and Survivor Support
-
-We know law enforcement often works with victims or other members of the community that need support navigating social media and understanding how to stay safe online. [Here](https://www.facebook.com/safety/groups/law/resources) is a list of resources that can help you offer support to them.
-
-### Submission of Requests
-
-#### Online
-
-Law enforcement officials may use the [Law Enforcement Online Request System](https://www.facebook.com/records) for the submission, tracking and processing of requests. A government-issued email address is required to access the Law Enforcement Online Request System.
-
-Please note:
-
-For Law Enforcement outside of the U.S.:  
-Please note that for users of the Facebook and Instagram services in the European region, the service provider and data controller is Meta Platforms Ireland Ltd. If your request is for Meta Platforms Ireland Ltd., it must be addressed to:  
-Meta Platforms Ireland Ltd.,  
-4 Grand Canal Square  
-Dublin 2, Ireland.
-
-For Facebook and Instagram users in countries outside of the European region, the service provider is Meta Platforms, Inc., please ensure that any requests for Instagram or Facebook user data are correctly addressed to:  
-Meta Platforms, Inc.  
-1601 Willow Road,  
-Menlo Park, CA 94025.
-
-#### Mail
-
-Law enforcement officials who do not submit requests through the Law Enforcement Online Request System should expect longer response times.
-
-#### Notes
-
-* Acceptance of legal process by any of these means is for convenience and does not waive any objections, including lack of jurisdiction or proper service.
-    
-* We will not respond to correspondence sent by non-law enforcement officials to the addresses above.
+Meta Quest Help Center](https://www.meta.com/help/quest/)
