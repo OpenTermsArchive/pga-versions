@@ -1,22 +1,16 @@
-Spotify Platform Rules
-======================
+* Spotify Platform Rules
 
 Spotify’s mission is to unlock the potential of human creativity – by giving a million creative artists the opportunity to live off their art and billions of fans the opportunity to enjoy and be inspired by it. We believe achieving this mission on our platform is made possible by welcoming different forms of artistic expression, ideas, perspectives, and voices. This may mean that some content on our platform may not be to each individual’s liking or is content that Spotify endorses.
 
 However, that doesn’t mean that anything goes on our platform. In addition to the terms that you agreed to governing your use of our services, these rules help ensure that everyone has a safe and enjoyable experience.
 
-What are the rules?
--------------------
-
 Whether you are a musician, podcaster, or other contributor, it is important to be aware of what is not allowed on our platform. The examples in the below sections are for illustrative purposes and are not exhaustive.
-
-### Dangerous Content
 
 Spotify is home to communities where people can create, express themselves, listen, share, learn, and be inspired. Don’t promote violence, incite hatred, harass, bully, or engage in any other behavior that may place people at risk of serious physical harm or death. **What to avoid:**
 
 **Content that advocates or glorifies serious physical harm towards an individual or group** includes, but may not be limited to:
 
-* encouraging, promoting, or glorifying suicide and self-harm (if you or someone you know is struggling or thinking about self-harm, please see [here](https://resources.byspotify.com/) for ways to get help)
+* encouraging, promoting, or glorifying suicide and self-harm (if you or someone you know is struggling or thinking about self-harm, please see for ways to get help)
 * inciting or threatening serious physical harm or acts of violence against a specific target or specific group
 
 **Content that promotes or supports terrorism or violent extremism** includes, but may not be limited to:
@@ -59,8 +53,6 @@ Spotify is home to communities where people can create, express themselves, list
 * encouraging or promoting sexual attraction by adults towards minors
 * promoting, normalizing, or glorifying child grooming behaviors
 
-### Deceptive Content
-
 Creating great experiences on Spotify requires trust that people are who they say they are, that they won’t be scammed, and that no one is trying to manipulate our platform. Don’t use malicious practices to deceive others. **What to avoid:**
 
 **Content that impersonates others in order to deceive** includes, but may not be limited to:
@@ -84,8 +76,6 @@ Creating great experiences on Spotify requires trust that people are who they sa
 * phishing or related attempts to deceptively solicit or collect sensitive information
 * promoting investment and financial scams like get rich quick and pyramid schemes, or otherwise encouraging others to part with money under false pretenses
 
-### Sensitive Content
-
 We have tons of amazing content on Spotify, but there are certain things that we don’t allow on our platform. Don’t post excessively violent or graphic content, and don’t post sexually explicit content. **What to avoid:**
 
 **Content that promotes graphic or gratuitous depictions of violence, gore, or other shocking imagery** includes, but may not be limited to:
@@ -97,8 +87,6 @@ We have tons of amazing content on Spotify, but there are certain things that we
 
 * pornography or visual depictions of genitalia or nudity presented for the purpose of sexual gratification
 * advocating or glorifying sexual themes related to rape, incest, or beastiality
-
-### Illegal Content
 
 The law is the law. No matter who you are, it is your responsibility to comply with applicable laws and regulations. **What to avoid:**
 
@@ -112,26 +100,12 @@ The law is the law. No matter who you are, it is your responsibility to comply w
 * content provided to Spotify without obtaining necessary permissions
 * content that infringes third-party copyrights or trademarks
 
-**How does Spotify enforce these rules?**
------------------------------------------
-
 Spotify seeks to enforce these rules consistently and at scale across the world using a combination of technology and human review. In addition to user reports, we leverage automated tools that rely on a combination of signals to detect content that may violate our Platform Rules.  
   
 We have global teams of experts who develop, maintain and enforce our Platform Rules. When potentially violating content is reported or detected, our teams will work to take the appropriate enforcement action.  
 
-What happens when the rules are broken?
----------------------------------------
-
-We take these decisions seriously and keep context in mind when assessing possible Platform Rules violations. Breaking the rules may result in the violative content being removed from Spotify. Repeated or egregious violations may result in accounts being suspended and/or terminated. Learn more about other actions we may take on content or accounts [here](https://www.spotify.com/platform-rules/actions/).
-
-What else do I need to know?
-----------------------------
+We take these decisions seriously and keep context in mind when assessing possible Platform Rules violations. Breaking the rules may result in the violative content being removed from Spotify. Repeated or egregious violations may result in accounts being suspended and/or terminated. Learn more about other actions we may take on content or accounts .
 
 These Platform Rules will help ensure that Spotify remains an open and safe platform for all. We will continue to evaluate and update this information as needed, so please check back frequently. Depending on which Spotify products or features you use, you may be subject to additional requirements.
 
-How can I report an issue?
---------------------------
-
-Have you found an issue with a piece of content on Spotify? If so please let us know by reporting it [here](https://support.spotify.com/content-policy-reporting/).
-
-**Was this article helpful?**
+Have you found an issue with a piece of content on Spotify? If so please let us know by reporting it .
