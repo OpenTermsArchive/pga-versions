@@ -80,7 +80,7 @@ Adult Nudity and Sexual Activity
 
 #### Policy Rationale
 
-We restrict the display of nudity or sexual activity because some people in our community may be sensitive to this type of content. Additionally, we default to removing sexual imagery to prevent the sharing of non-consensual or underage content. Restrictions on the display of sexual activity also apply to digitally created content unless it is posted for educational, humorous, or satirical purposes.
+We restrict the display of nudity or sexual activity because some people in our community may be sensitive to this type of content, particularly because of their cultural background or age. Additionally, we default to removing sexual imagery to prevent the sharing of non-consensual or underage content. Restrictions on the display of sexual activity also apply to digitally created content unless it is posted for educational, humorous, or satirical purposes.
 
 Our nudity policies have become more nuanced over time. We understand that nudity can be shared for a variety of reasons, including as a form of protest, to raise awareness about a cause, or for educational or medical reasons.
 
@@ -89,7 +89,7 @@ Where such intent is clear, we make allowances for the content. For example, whi
 #### Do not post:
 
 * Imagery of real nude adults, if it depicts:
-    * Visible genitalia except in the context of birth giving and after-birth moments or if there is medical or health context situations (for example, gender confirmation surgery, examination for cancer or disease prevention/assessment).
+    * Visible genitalia, including genitalia obscured only by pubic hair, except in the context of birth giving and after-birth moments or if there is medical or health context situations (for example, gender confirmation surgery, examination for cancer or disease prevention/assessment).
     * Visible anus and/or fully nude close-ups of buttocks unless photoshopped on a public figure.
     * Uncovered female nipples except in the context of breastfeeding, birth giving and after-birth moments, medical or health context (for example, post-mastectomy, breast cancer awareness or gender confirmation surgery) or an act of protest.
 * Imagery of sexual activity, including:
@@ -111,6 +111,7 @@ Where such intent is clear, we make allowances for the content. For example, whi
         * Cannibalism.
         * Feces, urine, spit, snot, menstruation or vomit.
         * Bestiality.
+        * Incest.
     * Adult sexual activity in digital art, except when posted in an educational or scientific context, or when it meets one of the criteria below and shown only to individuals 18 years and older.
 * Extended audio of sexual activity
 
@@ -598,7 +599,7 @@ Content that engages in explicit sexual solicitation by, offering or asking for 
 * Nude photos/videos/imagery/sexual fetish items.
 * Offers or asks that include sexual slang terms.
 
-Content that engages in implicitly or indirectly offering or asking for sexual solicitation by containing both an implicit offer or ask (defined as sharing contact information, or suggesting to be contacted directly), and a sexually suggestive element. Sexually suggestive elements can include regionalized sexual slang, mentions or depictions of sexual activity (as defined in our Adult Nudity and Sexual Activity policy) or sexual poses.
+Content that engages in implicit or indirect sexual solicitation (defined as sharing contact information, or suggesting to be contacted directly) with a sexually suggestive element. Sexually suggestive elements can include content prohibited under the Adult Nudity and Sexual Activity policy or mentions or depictions of regionalized sexual slang, commonly sexualized emojis, sexually suggestive poses, sexual roles, sex positions, fetish scenarios, state of arousal, etc.
 
 Content that offers or asks for pornographic material including, but not limited to, sharing of links to external pornographic websites.
 
@@ -877,7 +878,7 @@ Adult Sexual Exploitation
 
 #### Policy Rationale
 
-We recognize the importance of Facebook as a place to discuss and draw attention to sexual violence and exploitation. In an effort to create space for this conversation and promote a safe environment, we allow victims to share their experiences, but remove content that depicts, threatens or promotes sexual violence, sexual assault, or sexual exploitation. We also remove content that displays, advocates for or coordinates sexual acts with non-consenting parties to avoid facilitating non-consensual sexual acts.
+We recognize the importance of Facebook as a place to discuss and draw attention to sexual violence and exploitation. We believe this is an important part of building common understanding and community. In an effort to create space for this conversation and promote a safe environment, we allow victims to share their experiences, but remove content that depicts, threatens or promotes sexual violence, sexual assault, or sexual exploitation. We also remove content that displays, advocates for or coordinates sexual acts with non-consenting parties to avoid facilitating non-consensual sexual acts.
 
 To protect victims and survivors, we remove images that depict incidents of sexual violence and intimate images shared without the consent of the person(s) pictured. As noted in the introduction, we also work with external safety experts to discuss and improve our policies and enforcement around online safety issues, and we may remove content when they provide information that content is linked to harmful activity. We have written about the [technology we use to protect against intimate images](https://about.fb.com/news/2019/03/detecting-non-consensual-intimate-images/) and the [research that has informed our work](https://about.fb.com/news/2019/03/protecting-intimate-images/). We’ve also put together a [guide to reporting and removing intimate images shared without your consent](https://about.fb.com/wp-content/uploads/2017/03/not-without-my-consent.pdf).
 
@@ -906,6 +907,7 @@ Content that attempts to exploit people by any of the following:
         * Independent sources (such as, law enforcement record) including entertainment media (such as, leak of images confirmed by media).
         * A visible match between the person depicted in the image and the person who has reported the content to us.
         * The person who reported the content to us shares the same name as the person depicted in the image.
+* Services, applications, or instructions that promote, threaten to share, or offer to make non-real non-consensual intimate imagery (NCII), even if there is no (near) nude commercial or non-commercial imagery shared
 * Secretly taken non-commercial imagery of a real person's commonly sexualized body parts (breasts, groin, buttocks, or thighs) or of a real person engaged in sexual activity. This imagery is commonly known as "creepshots" or "upskirts" and includes photos or videos that mock, sexualize or expose the person depicted in the imagery.
 * Threatening or stating an intent to share private sexual conversations that meets the following criteria:
     * Lack of consent is indicated by:
@@ -1008,7 +1010,7 @@ We define a hate speech attack as dehumanizing speech; statements of inferiority
 
 We have additional restrictions for paid content.
 
-However, we recognize that people sometimes share content that includes slurs or someone else’s hate speech in order to condemn the speech or raise awareness of it. In other cases, speech, including slurs, that might otherwise violate our standards is used self-referentially or in an empowering way. People also sometimes express contempt or curse at a gender in the context of a romantic break-up. Other times, they use gender-exclusive language to control membership in a health or positive support group, such as a breastfeeding group for women only. Our policies are designed to allow room for these types of speech but require people to clearly indicate their intent. Where intention is unclear, we may remove content.
+However, we recognize that people sometimes share content that includes slurs or someone else’s hate speech in order to condemn the speech or report on it. In other cases, speech, including slurs, that might otherwise violate our standards is used self-referentially or in an empowering way. People also sometimes express contempt or curse at a gender in the context of a romantic break-up. Other times, they use gender-exclusive language to control membership in a health or positive support group, such as a breastfeeding group for women only. Our policies are designed to allow room for these types of speech but require people to clearly indicate their intent. Where intention is unclear, we may remove content.
 
 Note: Violent speech targeting people on the basis of their protected characteristics is covered in our Violence and Incitement Policy.
 
@@ -1064,7 +1066,6 @@ Content targeting a person or group of people (including all groups except those
 Content targeting a person or group of people on the basis of their protected characteristic(s) (in written or visual form):
 
 * Generalizations that state inferiority in the following ways:
-    * Physical characteristics, specifically
     * Physical appearance, including but not limited to: ugly, hideous.
     * Mental characteristics are defined as those about:
         * Intellectual capacity, including but not limited to: dumb, stupid, idiots.
@@ -1079,7 +1080,7 @@ Content targeting a person or group of people on the basis of their protected ch
     * Expressions about being better/worse than another protected characteristic, including but not limited to: "I believe that males are superior to females."
     * Expressions about deviating from the norm, including but not limited to: freaks, abnormal.
 
-* Expressions of contempt, except in a romatic break-up context, and disgust, which we define as:
+* Expressions of contempt, except in a romantic break-up context, and disgust, which we define as:
     * Self-admission to intolerance on the basis of a protected characteristics, including but not limited to: homophobic, islamophobic, racist.
     * Expressions of hate, including but not limited to: "I despise","I hate", " I can't stand".
     * Expressions of dismissal, including but not limited to: "I don´t respect", "I don't like", " I don´t care for"
@@ -1357,10 +1358,9 @@ Imagery of non-medical foreign objects (such as metal objects, knives, nails) in
 
 The following content involving animals:
 
-* Videos depicting humans killing animals if there is no explicit manufacturing, hunting, food consumption, processing or preparation context.
+* Videos depicting live animals or animals going from live to dead experiencing dismemberment, visible innards, charring, being boiled alive or burning
+* Photos depicting live animals experiencing dismemberment, visible innards, charring, being boiled alive or burning
 * Imagery of animal to animal fights, when there are visible innards or dismemberment of non-regenerating body, unless in the wild.
-* Imagery of humans committing acts of torture or abuse against live animals.
-* Imagery of animals showing wounds or cuts that render visible innards or dismemberment, if there is no explicit manufacturing, hunting, taxidermy, medical treatment, rescue or food consumption, preparation or processing context, or the animal is already skinned or with its outer layer fully removed.
 
 #### For the following content, we include a label so that people are aware the content may be sensitive:
 
@@ -1368,11 +1368,15 @@ Imagery of non-medical foreign objects inserted into a person through their skin
 
 Imagery of visible innards in a birthing context
 
+Imagery depicting one or more persons subjected to violence and/or humiliating acts by one or more uniformed personnel doing a police function
+
 Imagery of fetuses and babies outside of the womb that are deceased, unless another person is present in the image.
 
 Imagery of fetuses and babies outside the womb in an abandonment context
 
-Imagery of animals in a ritual slaughter context showing dismemberment, or visible innards, or charring or burning
+Videos of animals going from live to dead that do not showdismemberment, or visible innards, or charring or burning
+
+Imagery of humans committing acts of torture or abuse against live animals
 
 #### For the following Community Standards, we require additional information and/or context to enforce:
 
