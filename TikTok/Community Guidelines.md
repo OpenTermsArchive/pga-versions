@@ -435,6 +435,8 @@ To help you manage your TikTok experience, we also apply warning information to 
 
 * * *
 
+Sensitive and Mature Themes
+
 TikTok provides content that ranges from very family friendly to more mature. Given the diversity of our global community, developmental and cultural considerations inform our approach to potentially sensitive and more mature content that may be considered offensive by some. To honor our principle of [respecting local context](https://www.tiktok.com/community-guidelines/en/community-principles?cgversion=2023) and not imposing the norms of one country on another, some of the exceptions to the guidelines in this section differ across regions.
 
 ### Sexual Activity and Services
@@ -606,6 +608,8 @@ We want our platform to be a place that respects animals and celebrates the ways
 
 * Food-related animal body parts, such as barbecued chicken legs
 * Educational and documentary content that raises awareness about animal abuse (as long as it does not include graphic content of animal abuse)
+
+* * *
 
 Integrity and Authenticity
 
