@@ -516,7 +516,12 @@ What this policy means for you
 Don’t post content on YouTube if it fits any of the descriptions below.
 
 * **Sexualization of minors**: Sexually explicit content featuring minors and content that sexually exploits minors including minor nudity posted with comedic intent. We report content containing child sexual abuse imagery to the [National Center for Missing and Exploited Children](http://www.missingkids.com/home), who work with global law enforcement agencies.
-* **Harmful or dangerous acts involving minors**: Content showing a minor participating in dangerous activities or encouraging minors to do dangerous activities. Never put minors in harmful situations that may lead to injury, including dangerous stunts, challenges, dares, or pranks.
+* **Harmful or dangerous acts involving minors**: Content showing a minor participating in dangerous activities or encouraging minors to do dangerous activities, particularly if someone watching could imitate the dangerous act or if the content encourages or praises the dangerous act. Never put minors in harmful situations that may lead to injury, including dangerous stunts, challenges, dares, or pranks. Dangerous acts include, but are not limited to, any act in the categories listed under Extremely Dangerous challenges, such as asphyxiation or electrocution.
+    * Examples include content that shows minors:
+        * Drinking alcohol
+        * Using vaporizers, e-cigarettes, tobacco, or marijuana
+        * Misusing fireworks
+        * Using firearms unsupervised
 * Inflicting or advocating for the infliction of physical, sexual or emotional maltreatment or neglect of a child, including inflicting emotional distress on minors.
     * Content that contains infliction of physical, sexual, or emotional abuse of a child within an educational, documentary, scientific, or artistic context and with blurring may receive an exception.
     * Content that could cause minor participants or viewers emotional distress, including:
@@ -549,8 +554,8 @@ Age-restricted content
 
 We may add an age restriction to content that includes any of the following.
 
-* **Harmful or dangerous acts that minors could imitate**: Content containing adults participating in dangerous activities that minors could easily imitate.
-    * **Note**: If the content itself warns minors not to perform the dangerous activities, we may allow this content without restriction. It will also need to explain the need for professional adult supervision.
+* **Harmful or dangerous acts that adults or minors could imitate**: Content containing adults participating in dangerous activities that adults or minors could easily imitate.
+    * **Note**: Simply saying, “Don’t try this at home” may not result in an exception. [Learn more about age restricted Harmful or Dangerous content](https://support.google.com/youtube/answer/2801964#age_restricted_removal).
 * **Adult themes in family content**: Content meant for adult audiences but could easily be confused with family content. This includes cartoons that contain adult themes such as violence, sex, or death. Remember you can age restrict your content upon upload if it’s intended for [mature audiences](https://support.google.com/youtube/answer/2950063?hl=en).
 * **Vulgar language**: Some language is not appropriate for younger audiences. Content using sexually explicit language or excessive profanity may lead to age restriction.
 
@@ -1092,6 +1097,8 @@ We may terminate your channel or account for repeated violations of the Communit
 Harmful or dangerous content policy
 ===================================
 
+Starting Mar 18, 2024, our policy on Harmful & Dangerous content will be updated to include a stricter stance on audience disclaimers and updated guidelines to better assess the risk of potential harm of the act portrayed.
+
 YouTube doesn’t allow content that encourages dangerous or illegal activities that risk serious physical harm or death.
 
 If you find content that violates this policy, [report it](https://support.google.com/youtube/answer/2802027). 
@@ -1119,7 +1126,7 @@ This content isn't allowed on YouTube:
 
 * **Extremely dangerous challenges**: Challenges that pose an imminent risk of physical injury.
 * **Dangerous or threatening pranks**: Pranks that lead victims to fear imminent serious physical danger, or that create serious emotional distress in minors.
-* **Harmful or dangerous acts**: Acts performed by adults that have a serious risk of severe bodily harm or death.
+* **Harmful or dangerous acts**: Acts performed by adults that have a risk of serious harm or death.
 * **Minors participating in dangerous activities**: Content that endangers the emotional and physical well-being of minors. For more info, review our [Child safety policy](https://support.google.com/youtube/answer/2801999).
 
 #### Weapons content
@@ -1161,10 +1168,6 @@ Extremely dangerous challenges
     * Self-mutilation
     * Abstaining from normal health practices
     * Falling, impalement, collision, blunt force trauma, or crushing
-* **Challenges that feature children**: Examples include content that shows minors:
-    * Drinking alcohol
-    * Using vaporizers, e-cigarettes, tobacco, or marijuana
-    * Misusing fireworks
 
 **Note**: We may age-restrict content that has [educational or documentary context](https://support.google.com/youtube/answer/6345162).
 
@@ -1181,7 +1184,7 @@ Dangerous or threatening pranks
     * Swatting or fake 911 calls
     * Fake home invasions or robberies
     * Fake kidnapping
-* **Emotional distress to minors**: Any prank that causes emotional distress to children or others who are vulnerable. Examples include:
+* **Emotional distress to minors/vulnerable individuals**: Any prank that causes emotional distress, or fear of a threat to physical safety, to children or others who are vulnerable. Examples include:
     * Fake death or suicide
     * Fake violence
     * Pretending that a parent or caregiver will abandon a child
@@ -1192,7 +1195,12 @@ Dangerous or threatening pranks
 Harmful or dangerous acts
 -------------------------
 
-* **Risking serious harm or death**: Behavior that shows adults risking serious bodily harm or death in the categories listed under [Dangerous challenges](#dangerous_challenges), such as asphyxiation or electrocution.
+* **Risking serious harm or death**: Behavior that shows adults risking serious bodily harm or death, particularly if someone watching could imitate the dangerous act or if the content encourages or praises the dangerous act. Dangerous acts include, but are not limited to, any act in the categories listed under [Extremely Dangerous challenges](#dangerous_challenges) above, such as acts that risk asphyxiation or electrocution.
+    * We also don’t allow content showing dangerous acts by minors. This includes content that shows minors:
+        * Drinking alcohol
+        * Using vaporizers, e-cigarettes, tobacco, or marijuana
+        * Misusing fireworks
+        * Using firearms unsupervised
 * **Extremely dangerous driving**: Using a motor vehicle in a way that presents imminent risk of serious injury or death to the driver or others. Examples include:
     * Cell phone footage of a motorcyclist deliberately veering into oncoming traffic at high speeds. A voiceover reacts saying “Wow, that was crazy!”
     * Driving a car at a high speed along a walkway meant for pedestrians.
@@ -1214,14 +1222,13 @@ Age-restricted content
 
 **Note**: The list below isn't complete.
 
-Sometimes content doesn't violate our policies, but it may not be appropriate for viewers under 18. When we decide whether to age-restrict or remove content, we may consider what’s listed below. Saying, “Don’t try this at home” may not result in an exception if the content promotes or celebrates dangerous behavior.
+Sometimes content doesn't violate our policies, but it may not be appropriate for viewers under 18.
 
-* The act in question could lead to serious injury or death.
-* The individuals participating in the act are trained professionals and take precautions to prevent injury.
-* Minors could easily imitate the act.
-* The content is educational, documentary, scientific, or artistic in nature.
-* There's commentary that discourages the act.
-* The viewer can tell that the act is real or fake.
+We may restrict rather than remove if content showing a dangerous act meets one or more of the following criteria:
+
+* There is educational, documentary, scientific, or artistic context, such as providing information about the risks of the act. For example, this could include context explaining the types of injuries that can happen as a result of doing the dangerous act, or describing your own experience being injured as a result of the dangerous act. It could also include context explaining the types of precautions or training required to do the act safely and prevent injury. Saying, “Don’t try this at home” is not sufficient context.
+* The act shown does not risk serious injury.
+* The content does not promote the act shown. Promotion includes any form of encouragement or praise of the act, or providing instructions on how to complete the act.
 
 Learn about [age-restricted content](https://support.google.com/youtube/answer/2802167) and how to [watch age-restricted videos](https://support.google.com/youtube/answer/10070779).
 
@@ -1229,9 +1236,10 @@ Examples of age-restricted content
 ----------------------------------
 
 * Prank content featuring adults using excessive fake blood or gruesome fake injuries.
-* A reaction video to a dangerous challenge without any commentary that discourages the challenge.
+* Showing footage of people engaging in a dangerous challenge, with commentary describing the number of people seriously injured by the challenge.
 * Content that shows adults misusing fireworks.
-* Content that shows adults risking serious injury by starting fires in an uncontrolled manner that could be easily imitated by younger viewers.
+* Content that shows adults using tasers on other willing participants or themselves.
+* Content that shows an adult parkour athlete reacting to videos of highly dangerous amateur stunts and commenting about the risk of harm.
 
 Educational, documentary, scientific, or artistic content
 ---------------------------------------------------------
@@ -1664,9 +1672,11 @@ Don't post content on YouTube if it aims to directly sell, link to, or facilitat
 * Unlicensed medical services
 * Human smuggling
 
+Note: If you're providing links or contact information such as phone numbers, emails, or other means of contact where hard drugs can be purchased, or where pharmaceuticals can be purchased without a prescription, your channel may be terminated. See examples below. 
+
 Additionally, the following content isn’t allowed on YouTube:
 
-* **Hard drug use or creation**: Hard drug use or creation, selling or facilitating the sale of hard or soft drugs, facilitating the sale of regulated pharmaceuticals without a prescription, or showing how to use steroids in non-educational content. Generally, hard drugs are defined as drugs that can lead to physical addiction, such as cocaine or opioids. Soft drugs include marijuana and salvia.
+* **Hard drug use or creation**: Hard drug use or creation, selling or facilitating the sale of hard or soft drugs, facilitating the sale of regulated pharmaceuticals without a prescription, or showing how to use steroids in non-educational content. 
 * **Instructional cheating**: Content which provides instructions for academic cheating.
 
 This policy applies to videos, video descriptions, comments, live streams, and any other YouTube product or feature. Keep in mind that this isn't a complete list. Please note these policies also apply to [external links](https://support.google.com/youtube/answer/9054257) in your content. This can include clickable URLs, verbally directing users to other sites in video, as well as other forms. 
@@ -1676,6 +1686,8 @@ Examples
 
 Here are some examples of content that’s not allowed on YouTube.
 
+Keep in mind that this isn’t a complete list. 
+
 * Linking to an online gambling or sports betting site that is not approved.
 * Selling counterfeit passports or providing instructions on creating forged official documents.
 * Advertising escort, prostitution, or erotic massage services.
@@ -1683,11 +1695,31 @@ Here are some examples of content that’s not allowed on YouTube.
 * A video of a user making a purchase with software that generates fake credit card numbers.
 * Including a link to an online pharmacy that does not require prescriptions.
 * Content that promotes a product that contains drugs, nicotine, or a controlled substance.
-* Displays of hard drug use: Non-educational content that shows the injection of intravenous drugs like heroin or huffing/sniffing glue.
+* Displays of hard drug use: Non-educational content that shows the injection of intravenous drugs like heroin, huffing/sniffing glue, or taking tabs of acid.
 * Making hard drugs: Non-educational content that explains how to make drugs.
 * Minors using alcohol or drugs: Showing minors drinking alcohol, using vaporizers, e-cigarettes, tobacco or marijuana, or misusing fireworks.
-* Selling hard or soft drugs: Featuring drugs with the goal of selling them. If you're using links in your description to sell hard drugs, your channel will be terminated.
 * Steroid use: Non-educational content that shows how to use steroids for recreational purposes, like bodybuilding.
+* Selling soft drugs: Such as providing links to sites facilitating sale of marijuana or salvia.
+* Selling hard drugs: Featuring hard drugs with the goal of selling them. Some types of hard drugs include (note that this is not a complete list, and these substances may also be known under different names):
+    * Amphetamine
+    * Cocaine
+    * Dextromethorphan (DXM)
+    * Flunitrazepam
+    * Fentanyl
+    * GHB
+    * Heroin
+    * Ketamine
+    * K2
+    * LSD
+    * MDMA/ecstasy
+    * Mescaline
+    * Methamphetamine
+    * Isotonitazene (ISO)
+    * Opium
+    * PCP
+    * Psilocybin & Psilocybe (magic mushrooms)
+
+Note: If you're providing links or contact information such as phone numbers, emails, or other means of contact where hard drugs can be purchased, or where pharmaceuticals can be purchased without a prescription, your channel may be terminated.
 
 Please remember these are just some examples, and don't post content if you think it might violate this policy.
 
