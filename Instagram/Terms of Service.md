@@ -3,12 +3,6 @@
 Terms and Imprint
 =================
 
-_We're updating our Terms of Use. These updates go into effect on March 6, 2024. By continuing to use Instagram after this date, you agree to the updated Terms.
-
-This update applies to you if you use Instagram for business purposes. If you have a concern related to our conditions for accessing Instagram, you have a new option to submit a dispute.
-
-Read the new terms._
-
 Terms and Imprint  
   
 
@@ -20,9 +14,9 @@ These Terms of Use (or “Terms”) govern your use of Instagram, except where w
 
 Click here for a Contract Summary and here for other information we are required by the European Electronic Communications Code to provide.
 
-If you are a business established in the EU and use Instagram Shopping to sell goods to consumers located in the EU, you can learn more about your commercial relationship with us by reviewing the Platform to Business Notice which supplements our Terms of Use.
+If you are a “business user” of our online social networking core platform service(s), you can learn more about your commercial relationship with us under Article 6(12) of the DMA by reviewing this notice which supplements our Terms of Use. “Business user” is defined under Article 2 paragraph (21) of Regulation (EU) 2022/1925 (“Digital Markets Act” or “DMA”).
 
-These Terms also govern how Meta uses information to show you ads and other commercial and sponsored content that businesses and organizations pay us to promote. The Instagram Service is one of the Meta Products, which is provided by Meta Platforms Ireland Limited. These Terms of Use therefore constitute an agreement between you and Meta Platforms Ireland Limited.
+If we show you ads on Meta Products, these Terms also govern how Meta uses information to show you ads that businesses and organizations pay us to promote. The Instagram Service is one of the Meta Products, which is provided by Meta Platforms Ireland Limited. These Terms of Use therefore constitute an agreement between you and Meta Platforms Ireland Limited.
 
 **Impressum**
 
@@ -118,8 +112,8 @@ In return for our commitment to provide the Service, we require you to make the 
 
 * **We do not claim ownership of your content, but you grant us a license to use it.**  
     Nothing is changing about your rights in your content. We do not claim ownership of your content that you post on or through the Service and you are free to share your content with anyone else, wherever you want. However, we need certain legal permissions from you (known as a “license”) to provide the Service. When you share, post, or upload content that is covered by intellectual property rights (like photos or videos) on or in connection with our Service, you hereby grant to us a non-exclusive, transferable, sub-licensable, worldwide license to host, use, distribute, modify, run, copy, publicly perform or display, translate, and create derivative works of your content (consistent with your privacy and application settings) for purposes of making the Instagram Service available. This license will end when your content is deleted from our systems. You can delete content individually or all at once by deleting your account. To learn more about how we use information, and how to control or delete your content, review the Privacy Policy and visit the Instagram Help Center.
-* **Use of your username, profile picture, and information about your relationships and actions with accounts, ads, and sponsored content.**  
-    Your username, profile picture, and information about your actions (such as likes) or relationships (such as follows) can be used next to or in connection with accounts, ads, offers, and other sponsored content that you follow or engage with that are displayed on Meta Products, without any compensation to you. For example, we may show that you liked a sponsored post created by a brand that has paid us to display its ads on Instagram. As with actions on other content and follows of other accounts, actions on sponsored content and follows of sponsored accounts can be seen only by people who have permission to see that content or follow. We will also respect your ad settings. You can learn more here about your ad settings.
+* **Use of your username, profile picture, and information about your relationships and actions with accounts, ads (if we show you ads on Meta Products), and sponsored content.**  
+    Your username, profile picture, and information about your actions (such as likes) or relationships (such as follows) can be used next to or in connection with accounts, ads (if we show you ads on Meta Products), offers, and other sponsored content that you follow or engage with that are displayed on Meta Products, without any compensation to you. For example, we may show that you liked a sponsored post created by a brand that has paid us to display its ads on Instagram. As with actions on other content and follows of other accounts, actions on sponsored content and follows of sponsored accounts can be seen only by people who have permission to see that content or follow. We will also respect your ad settings. You can learn more here about your ad settings.
 * **You agree that we can download and install updates to the Service on your device.**
 
   
@@ -196,4 +190,4 @@ We always appreciate feedback or other suggestions, but may use them without any
 
 We may change our Service and policies, and we may need to make changes to these Terms so that they accurately reflect our Service and policies. We will only make changes if the provisions are not appropriate anymore or if they are incomplete, and only if the changes are reasonable for you in consideration to your interests. Unless otherwise required by law, we will notify you of the changes and choices you have (for example, through our Service) at least 30 days before we update the Terms, and we will give you an opportunity to review them before they go into effect. Then, if you continue to use the Service, you will be bound by the updated Terms. If you do not want to agree to these or any updated Terms, you can delete your account, here.  
 
-Effective Date: 12 January 2024
+Effective Date: 6 March 2024
