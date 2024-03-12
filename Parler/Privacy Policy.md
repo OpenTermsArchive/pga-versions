@@ -127,7 +127,8 @@ We will post any adjustments to the Privacy Policy on this page, and the revised
 
 11. **Additional Rights in Your State**
 
-State consumer privacy laws may provide you with additional rights regarding our use of your Personal Information. California, Colorado, Connecticut, Delaware, Florida, Indiana, Iowa, Montana, Oregon, Tennessee, Texas, Utah, and Virginia provide (now or in the future) their state residents with certain rights. Note that Personal Information does not include publicly available information from government records, deidentified or aggregated consumer information, or information excluded from the scope of consumer privacy laws. Certain state legislation, including the California Consumer Privacy Act of 2018 (“CCPA”) protects various categories of Personal Information. For your convenience, we have provided the following chart summarizing the categories of Personal Information protected under the CCPA and what categories we collect as another way of covering the information set forth in Section 1 “**Information We Collect**”:
+State consumer privacy laws may provide you with additional rights regarding our use of your Personal Information. California, Colorado, Connecticut, Delaware, Florida, Indiana, Iowa, Montana, Oregon, Tennessee, Texas, Utah, and Virginia provide (now or in the future) their state residents with certain rights. Note that Personal Information does not include publicly available information from government records, deidentified or aggregated consumer information, or information excluded from the scope of consumer privacy laws. Certain state legislation, including the California Consumer Privacy Act of 2018 (“CCPA”) protects various categories of Personal Information. For your convenience, we have provided the following chart summarizing the categories of Personal Information protected under the CCPA and what categories we collect as another way of covering the information set forth in Section 1 “**Information We Collect**”:  
+  
 
 |     |     |     |
 | --- | --- | --- |
@@ -255,7 +256,7 @@ You also have the right (where applicable) to withdraw any consent given in rela
 
 Please note that the right to erasure is not absolute and it may not always be possible to erase personal data on request, including for example where the Personal Information must be retained to comply with a legal obligation.
 
-If you are in the EEA, you may lodge a complaint with a supervisory authority that has authority in your country orregion. Please see the following website for contact information of the data protection           authorities           for           member           countries           in           the           EEA: https://ec.europa.eu/justice/article29/structure/data-protection-authorities/index\_en.htm.
+If you are in the EEA, you may lodge a complaint with a supervisory authority that has authority in your country orregion. Please see the following website for contact information of the data protection authorities for member countries in the EEA: https://ec.europa.eu/justice/article29/structure/data-protection-authorities/index\_en.htm.
 
 Parler is the data controller with respect to processing of your Personal Information in connection with the Services.
 
