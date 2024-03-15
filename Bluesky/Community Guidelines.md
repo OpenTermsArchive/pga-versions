@@ -71,6 +71,28 @@ We rely on the entire community (developers, creators, users, visitors) to enfor
 2. **2\. Developer Violations of Bluesky Terms.** To report an app or service that you believe is not complying with or enforcing the Bluesky [Terms of Service](https://bsky.social/about/support/tos) or [Privacy Policy](https://bsky.social/about/support/privacy-policy), please email Bluesky at support@bsky.app.
 3. **3\. App-Specific Guidelines.** Developers of apps and operators of services may establish their own standards of conduct, separate from the Bluesky Community Guidelines. These services may temporarily or permanently ban violators from their apps or services. To report violations of a third-party app or service’s standard of conduct, please contact the developer or provider of the third-party app or service. Bluesky Social cannot enforce the standards of conduct of third-party apps or services.
 
+### Bluesky Labeler Guidelines
+
+The core principle is that labels are designed to increase community safety on Bluesky, so please follow the Community Guidelines and Terms of Service when operating a labeling service. That means treating other users with respect, and don’t break the law or cause harm to others.
+
+1. **Do:**
+    * Keep it professional when engaging with users through a labeling account.
+    * Design labels that are neutral and fact based.
+    * Apply labels objectively, ethically, and consistently. The less bias you have when applying a label, the more trust that users can have in your labeling service.
+    * Communicate a description of labels you offer, and your criteria for what falls under each label, so that users can make clear decisions on whether to subscribe or not.
+    * Consider proportionate interventions when applying labels. Start with content before labeling an entire account. The benefit of labels is the possibility of more granular decisions.
+    * Should you choose manual moderation, accept reports against the labeling parameters you have designed, assign labels, and review appeals in a timely manner.
+2. **Do not:**
+    * Use labels in a way that is abusive, harassing, or targeting of specific accounts, groups, or protected characteristics.
+    * Design labels using profanity, spurious allegations, derogatory terms, or harmful tags.
+    * Mislabel content that does not meet your labeling criteria, or falsely label legitimate content.
+    * Accept compensation for specific labeling actions - or attempt to extort individuals to have labels applied or removed.
+    * Claim to represent Bluesky or to show false affiliation with other entities.
+    * Deploy labeling services in a way that undermines Bluesky's network stability or Atproto.
+    * Use labeling accounts or services to evade moderation or blocks on your main account, or deploy labels in an attempt to do so.
+
+Violations of this guidance may result in remediations such as deletion of labels, temporary or permanent suspension of labeling accounts, and steps up to and including defederation of your labeling service.
+
 ### Bluesky Developer Guidelines
 
 Developers who federate their apps or services on the AT Protocol must adhere to the Bluesky Developer Guidelines in order to communicate with Bluesky services:
