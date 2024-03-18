@@ -3,7 +3,7 @@ Platform Policies
 
 Official Quora Account
 
-* 2024-02-26T20:16:47Z
+* 2024-03-18T10:37:46Z
 
 Quora is a place that empowers people to share and grow the world's knowledge. In order to provide everyone with a safe and authentic experience using Quora, the following types of content and behaviors are prohibited:
 
@@ -151,7 +151,7 @@ Using the Quora brand name or logo (or variations) without authorization is proh
 
 ### [Adult Content](#h_01GFWFJJBR7GEVKK9PZ6NCZS48)
 
-Adult content in answers is only allowed when the question references an adult topic, which will restrict its distribution. Similarly, Adult content is only allowed in Spaces that are tagged as ‘Adult’. Adult content is not permitted in profile pictures, Space icons/cover photos, and topic images as these images appear throughout the site. Images for sex-related topics must be similar to images you would find in a medical/anatomy textbook and altogether not sexually graphic or explicit.
+Adult content in answers is only allowed when the question references an adult topic, which will restrict its distribution. Similarly, Adult content is only allowed in Spaces that are tagged as ‘Adult’. Adult content is not permitted in profile pictures, Space icons/cover photos, and topic images as these images appear throughout the site. Images for sex-related topics must be similar to images you would find in a medical/anatomy textbook and altogether not sexually graphic or explicit. We also prohibit adult content in profile names, profile descriptions, and credentials.
 
 Quora defines adult content as any content (e.g., writing, imagery, or video) that is pornographic, depicts a sexual act, or is otherwise overtly sexual. [Learn more](https://help.quora.com/hc/en-us/articles/4405052142868-What-is-considered-Adult-content-on-Quora-).
 
