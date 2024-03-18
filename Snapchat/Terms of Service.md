@@ -1,5 +1,3 @@
-**We've updated our Terms of Service, effective 26 February 2024. You can view the prior Terms of Service, which apply to all users until 26 February 2024,** [**here**](https://www.snap.com/en-GB/terms/prior-terms-08-15-2023)**.**
-
 If you live in the United States or if your principal place of business is in the United States, you are agreeing to the [Snap Inc.  Terms of Service](https://www.snap.com/en-GB/terms#inc-terms).
 
 If you live outside the United States or if your principal place of business is outside of the United States, you are agreeing to the [Snap Group Limited Terms of Service](https://www.snap.com/en-GB/terms#sgl-terms).
