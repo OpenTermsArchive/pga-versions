@@ -1,11 +1,11 @@
 [](#spotify-user-guidelines)**Spotify User Guidelines**
 =======================================================
 
-Hello! Welcome to the Spotify User Guidelines ("**User Guidelines**") which apply when using Spotify's websites, applications and services that reference these User Guidelines (the "**Services**") including accessing any type of material or content made available through those Services ("**Content**"). These User Guidelines are designed to ensure the Services stay enjoyable for everyone. In addition to these User Guidelines, content must adhere to the [Spotify Platform Rules](https://www.spotify.com/platform-rules/plain/) ("**Platform Rules**").
+Hello! Welcome to the Spotify User Guidelines ("**User Guidelines**") which apply when using Spotify's websites, applications and services that reference these User Guidelines (the "**Services**") including accessing any type of material or content made available through those Services ("**Content**"). These User Guidelines are designed to ensure the Services stay enjoyable for everyone. In addition to these User Guidelines, content must adhere to the Spotify Platform Rules ("**Platform Rules**").
 
-We may update these User Guidelines and the [Platform Rules](https://www.spotify.com/platform-rules/plain/) from time to time - you can find the latest version on our website.
+We may update these User Guidelines and the Platform Rules from time to time - you can find the latest version on our website.
 
-Violating the User Guidelines or [Platform Rules](https://www.spotify.com/platform-rules/plain/) may result in removal of any content or material you've contributed to the Services and/or termination or suspension of your account. We try to make the Services broadly available to everyone, but you cannot use our Services if we've previously terminated your account on any of our Services. We also prohibit attempts to circumvent prior enforcement actions, including through the creation of new accounts.
+Violating the User Guidelines or Platform Rules may result in removal of any content or material you've contributed to the Services and/or termination or suspension of your account. We try to make the Services broadly available to everyone, but you cannot use our Services if we've previously terminated your account on any of our Services. We also prohibit attempts to circumvent prior enforcement actions, including through the creation of new accounts.
 
 The following is not permitted for any reason whatsoever in relation to the Services and the material or content made available through the Services, or any part thereof:
 
