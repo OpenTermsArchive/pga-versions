@@ -73,25 +73,25 @@ We rely on the entire community (developers, creators, users, visitors) to enfor
 
 ### Bluesky Labeler Guidelines
 
-The core principle is that labels are designed to increase community safety on Bluesky, so please follow the Community Guidelines and Terms of Service when operating a labeling service. That means treating other users with respect, and don’t break the law or cause harm to others.
+Labels are a way for the Bluesky community to have control over their experience by contributing content classifications. We expect that the people and organizations operating labeling services will do so for the overall benefit and safety of the Bluesky community.
 
 1. **Do:**
-    * Keep it professional when engaging with users through a labeling account.
-    * Design labels that are neutral and fact based.
-    * Apply labels objectively, ethically, and consistently. The less bias you have when applying a label, the more trust that users can have in your labeling service.
-    * Communicate a description of labels you offer, and your criteria for what falls under each label, so that users can make clear decisions on whether to subscribe or not.
-    * Consider proportionate interventions when applying labels. Start with content before labeling an entire account. The benefit of labels is the possibility of more granular decisions.
+    * Keep labels straightforward and non-abusive.
+    * Aim for labeling guidance that is impartial and based on clear, observable content and behavior.
+    * Apply labels impartially, ethically, and consistently. The less bias you have when applying a label, the more trust that users can have in your labeling service.
+    * Be upfront about what you're labeling, why, and how, to help users decide whether to subscribe to your judgments.
+    * Consider proportionate interventions when applying labels. Use a scalpel, not a sledgehammer. In general, it’s best to start with content before labeling an entire account.
     * Should you choose manual moderation, accept reports against the labeling parameters you have designed, assign labels, and review appeals in a timely manner.
 2. **Do not:**
     * Use labels in a way that is abusive, harassing, or targeting of specific accounts, groups, or protected characteristics.
-    * Design labels using profanity, spurious allegations, derogatory terms, or harmful tags.
-    * Mislabel content that does not meet your labeling criteria, or falsely label legitimate content.
+    * Design labels that use profanity, spurious allegations, derogatory terms, or harmful tags.
+    * Do not label maliciously (i.e. knowingly mischaracterizing content as harmful or problematic when it plainly does not go against your stated policies or guidelines)
     * Accept compensation for specific labeling actions - or attempt to extort individuals to have labels applied or removed.
     * Claim to represent Bluesky or to show false affiliation with other entities.
-    * Deploy labeling services in a way that undermines Bluesky's network stability or Atproto.
+    * Deploy labeling services in a way that undermines Bluesky’s network stability.
     * Use labeling accounts or services to evade moderation or blocks on your main account, or deploy labels in an attempt to do so.
 
-Violations of this guidance may result in remediations such as deletion of labels, temporary or permanent suspension of labeling accounts, and steps up to and including defederation of your labeling service.
+Violations of this guidance may result in remediations such as deletion of labels, temporary or permanent suspension of accounts, and steps up to and including defederation of your labeling service.
 
 ### Bluesky Developer Guidelines
 
