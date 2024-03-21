@@ -797,162 +797,191 @@ If you believe that your account was suspended in error, you can [submit an appe
 
 Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-Private information and media policy
-====================================
+Private Content
+===============
 
 ### Overview 
 
-**December 2022**
+**March 2024**
 
-**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
+**You may not threaten to expose, incentivize others to expose, or publish or post other people's private information without their express authorization and permission, or share private media of individuals without their consent.**  
 
-**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
-
-**Sharing someone’s private information:**
-
-Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
-
-When reviewing reports under this policy, we consider a number of things, including:  
-  
-
-**What type of information is being shared?  
-**  
-We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
-
-**Who is sharing the information?**  
-  
-We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
+Sharing someone’s private information online without their permission, sometimes called “doxxing,” is a breach of their privacy and can pose serious safety and security risks for those affected.  
  
 
-**Is the information available elsewhere online?  
-**  
-If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
+Additionally, posting images is an important part of our users' experience on X. However, where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures.   
  
 
-**Why is the information being shared?  
-**  
-We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
+Lastly, having sexual, nude, or intimate media shared without express consent not only severely violates someone’s privacy and psychological safety, but can lead to physical, emotional, and financial hardship and we work tirelessly to remove this content immediately.  
+ 
 
-**  
-Sharing private media:**
+**When reviewing reports under our Private Content policies, we consider a number of things, including:**  
+ 
 
-Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
-
-### What is in violation of this policy? 
-
-Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
-
-* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
-* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
-* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
-* contact information, including non-public personal phone numbers or email addresses; 
-* financial account information, including bank account and credit card details;
-* other private information, including biometric data or medical records;
-* media of private individuals without the permission of the person(s) depicted; and
-* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
-
-The following behaviors are also not permitted:   
-
-* threatening to publicly expose someone’s private information;
-* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
-* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
-* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
+* **What type of information is being shared?** Certain types of private information carry higher risks than others, if they’re shared without permission. Our primary goal is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information.  
      
+    
+* **Who is sharing the information?** It’s important to consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We know there are times when people may want some forms of their personal information to be shared publicly, such as for professional networking, coordinating social events, or seeking help after a natural disaster.   
+     
+    
+* **Is the information available elsewhere online?** If the reported information was shared somewhere else before it was shared on X, such as someone sharing their personal phone number on their own publicly accessible website, we may not consider this information to be private, as the owner has made it publicly available elsewhere. However, we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
+     
+    
+* **Why is the information being shared?** The intent of the person sharing the information is also important to assess before taking action. For example, if we believe that someone is sharing information with abusive intent, or to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation, we may not take action.
+    
+
+### What is in violation of this policy?
+
+### Posting Private Information
+
+You cannot share the following types of private information without the permission of the person it belongs to:
+
+* home address or physical location information, such as street addresses, GPS coordinates, or other identifying information related to locations that are considered private
+    
+* identity documents, such as government-issued IDs or social security or other national identity numbers
+    
+* contact information, such as non-public personal phone numbers, email addresses, or passwords 
+    
+
+* financial account information, such as bank account or credit card details
+
+* health-related private information, such as biometric data or medical records
+
+* the identity of an anonymous user, such as their name or media depicting them
+
+The following behaviors are also not permitted: 
+
+* threatening to publicly expose someone’s private information
+    
+* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent, such as sharing login credentials for online banking services
+    
+* asking for or offering a bounty or financial reward in exchange for posting someone’s private information
+    
+* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.
+    
+
+### Non-Consensual Nudity
+
+You cannot share sexual, nude, or intimate media (photos/videos) without the permission of the person involved, or that was taken or appears to have been taken without the consent of the people involved. This includes:
+
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts
+    
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts
+    
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body
+    
+* images or videos that are taken in an intimate setting and not intended for public distribution
+    
+
+The following behaviors are also not permitted:
+
+* threatening to publicly expose someone’s sexual, nude, or intimate media
+    
+* sharing information that would enable individuals to hack or gain access to someone’s sexual, nude, or intimate media without their consent, such as sharing login credentials for a private photo album
+    
+* asking for or offering a bounty or financial reward in exchange for posting someone’s sexual, nude, or intimate media
+    
+* asking for a bounty or financial reward in exchange for not posting someone’s sexual, nude, or intimate media, sometimes referred to as blackmail.
+    
+
+Right to Privacy
+
+You cannot share media (photos/videos) of private individuals without the permission of the person(s) depicted.
 
 ### What is not a violation of this policy? 
 
+### Posting Private Information
+
 The following are not in violation of this policy:
 
-* people sharing their own private information;
-* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
-* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
+* people sharing their own private information
+    
+* sharing information that is publicly available elsewhere, in a non-abusive manner
+    
+* sharing identity documents or social security or other national identity numbers from regions where this information is not considered to be private
+    
 * sharing information that we don’t consider to be private, including:
-    * name;
-    * birthdate or age;
-    * place of education or employment;
-    * location information related to commercial property or places of business, where this information is publicly available;
-    * descriptions of physical appearance;
-    * gossip, rumours, accusations, and allegations; and
-    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
-         
+    
+    * names
+        
+    * birthdates or ages
+        
+    * places of education or employment
+        
+    * location information related to commercial properties or places of business, where this information is publicly available
+        
+    * descriptions of physical appearance
+        
+    * gossip, rumors, accusations, and allegations
+        
+    * screenshots of text messages or messages from other platforms (unless they contain private information, such as someone’s phone number).
+        
 
-**For media, the following are not in violation of our policy:**
+### Non-Consensual Nudity
 
-* the media is publicly available or is being covered by mainstream media;
-* the media and the accompanying post text add value to the public discourse or are shared in public interest;
-* contains eyewitness accounts or on the ground reports from developing events; 
+Pornography and other forms of consensually-produced adult content are allowed on X, provided you mark the post or [mark your account as sensitive](https://help.twitter.com/rules-and-policies/media-settings.html). Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review. 
+
+### Right to Privacy
+
+The following are not in violation of this policy:
+
+* the media is publicly available or is being covered by mainstream media
+    
+* the media and the accompanying tweet text add value to the public discourse or are shared in public interest
+    
+* the media contains eyewitness accounts or on the ground reports from developing events
+    
 * the subject of the media is a public figure. 
+    
 
 ### Who can report violations of this policy? 
 
-**Sharing private information:**
+### Posting Private Information
 
-Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
+Anyone can report violations of this policy using our dedicated reporting flow when the private information has been shared in a clearly abusive way. When this isn’t the case, we may need to hear directly from the owner of the private information (or an authorized representative, such as a lawyer) before taking action. 
 
-  
-**Sharing private media:** 
+### Non-Consensual Nudity
+
+Due to X allowing some types of adult content on the platform, we may need additional context to determine if the content was created or shared without the consent of those involved. This means we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.
+
+However, to reduce the burden on those affected by non-consensual media, anyone can report the following types of content:
+
+* creepshots or upskirts
+    
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media
+    
+* intimate images or videos that are accompanied by text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge, such as “I hope you get what you deserve when people see this”
+    
+* intimate images or videos that are accompanied by information that could be used to contact those depicted, such as “you can tell my ex what you think by calling them at 123-456-7890.”
+    
+
+### Right to Privacy
 
 When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
 
-1. Individuals depicted in the reported media or
-2. Their authorized representative such as:  
-        a.  parents/legal guardians,  
-        b.  lawyers, or  
-        c.  legal representative.
-
-### How can I report violations of this policy? 
-
-**In-app**
-
-You can report this content for review in-app as follows:
-
-1. Select **Report post** from the  icon.
-2. Choose who you're reporting the post for.  
+* the individuals depicted in the reported media or
     
-3. Select **Harassed or intimidated with violence**
-4. Select **Posting my private info**
-5. Identify what private info you're reporting
-6. You can choose to add up to five posts or add any additional context to support your report.
-7. Tap **Submit**.  
-     
-
-**Desktop**
-
-You can report this content for review via desktop as follows:
-
-1. Select **Report post** from the  icon.
-2. Choose who you're reporting the post for.  
+* their authorized representative, such as:
     
-3. Select **Harassed or intimidated with violence**
-4. Select **Posting my private info**
-5. Identify what private info you're reporting
-6. You can choose to add up to five posts or add any additional context to support your report.
-7. Click **Submit**.
+    * parents/legal guardians
+        
+    * lawyers
+        
+    * legal representatives.
+        
 
-You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
-  
+### What happens if you violate this policy?  
 
-### What happens if you violate this policy? 
+When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
 
-  
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
+* Requiring post removal.
+    
+    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can post again. Subsequent violations may lead to account suspension.
+        
+* Suspending accounts whose sole purpose is to post others’ private information or media of any kind. This includes accounts dedicated to sharing upskirt or creepshot media.
+    
 
-**Sharing private or live location information:**
-
-* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
-* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
-
-**Sharing private media:** 
-
-* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
-
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
-
-### Additional resources 
-
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
-
-The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options.html). If someone believes their posts or account were enforced against in error, they can [submit an appeal](https://help.twitter.com/forms/account-access/appeals.html).
 
 Non-consensual nudity policy
 ============================
