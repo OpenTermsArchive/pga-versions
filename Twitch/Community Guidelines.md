@@ -460,6 +460,8 @@ To ensure content on Twitch is appropriate for diverse audiences, certain sexual
     * Adult nudity without implied or real sex acts is subject to our [Adult Nudity](https://safety.twitch.tv/s/article/Community-Guidelines#21AdultNudity) policies 
 * Display of sexual bodily fluids
 * Advertisement or solicitation of sexual services, including prostitution, escort services, sexual massages, and filmed sexual activity
+* Content that focuses on clothed intimate body parts such as the buttocks, groin, or breasts for extended periods of time.
+    
 * Consensual sexual violence such as flogging or whipping another person
     * Non-consensual sexual violence is subject to our [Adult Sexual Violence and Exploitation](https://safety.twitch.tv/s/article/Community-Guidelines?#6AdultSexualViolenceandExploitation) policies 
 * Graphic descriptions of sex acts such as phone sex or erotica
@@ -467,6 +469,8 @@ To ensure content on Twitch is appropriate for diverse audiences, certain sexual
 * Soliciting money, services, or items of value (including subs and Bits) for posting content that requires the [Sexual Themes](https://safety.twitch.tv/s/article/Content-Classification-Guidelines?#2II:Sexualthemes) label - for example, listing a price to point the camera at fully clothed crotch
     
 
+The foregoing list is not exhaustive, and Twitch reserves the right to remove content that it deems to be inappropriate.  
+  
 Users may not directly link, promote, or advertise pornographic content in their broadcasts, profile, or chat. While users may not directly link to pornographic or sexually explicit content in their broadcasts, profile, or chat, users will not be penalized for linking to their personal websites or social media pages that may incidentally contain these links.  
   
 For information about content relating to sexuality and sexual themes that is allowed with a label, see the [Sexual Themes policy](https://safety.twitch.tv/s/article/Content-Classification-Guidelines#2II:Sexualthemes).
