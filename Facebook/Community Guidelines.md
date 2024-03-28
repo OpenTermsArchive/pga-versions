@@ -1408,6 +1408,7 @@ Because account level removal is a severe action, whenever possible, we aim to g
 
 * [Severely violate](https://transparency.fb.com/enforcement/taking-action/disabling-accounts/) our Community Standards.
 * [Persistently violate](https://transparency.fb.com/enforcement/taking-action/disabling-accounts/) our Community Standards.
+* Are closely linked with a network of accounts or other entities that violate or evade our policies.
 * Coordinate as part of a network of accounts or other entities in order to violate or evade our Community Standards.
 * Represent [Dangerous Individuals or Organizations](https://www.facebook.com/communitystandards/dangerous_individuals_organizations).
 * Create or use an account that demonstrates an intent to violate our Community Standards.
