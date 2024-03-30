@@ -154,7 +154,7 @@ Dangerous goods and activities
 
 Pinterest isn’t a place for trading or selling of certain regulated goods—products or substances that can cause harm when used, altered or manufactured irresponsibly—or for the display or encouragement of dangerous activities. We limit the distribution of or remove such content and accounts, including:
 
-* Individuals and unlicensed retailers offering to sell, purchase or trade alcohol, tobacco, drugs and weapons, including firearms and accessories, firearm parts or attachments, or ammunition
+* Individuals and unlicensed retailers offering to sell, purchase or trade alcohol, tobacco, including firearms and accessories, firearm parts or attachments, ammunition, drugs and weapons, and regulated products for drugs or weapons manufacturing, including chemical precursors and pill presses, punches and dies
 * Content from or about unverified, unapproved or rogue online pharmacies
 * Offers, attempts, or instructions to bypass purchasing laws and regulation
 * Instructions for creating lethal or toxic substances
