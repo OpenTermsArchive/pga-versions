@@ -92,7 +92,7 @@ We know law enforcement often works with victims or other members of the communi
 
 [###### Support resources](https://about.meta.com/actions/safety/audiences/law/victim-support)
 
-![](https://scontent-fra5-1.xx.fbcdn.net/v/t39.8562-6/321890939_526300142898318_5534521596288902352_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=f537c7&_nc_ohc=CEGjOBzlXD8AX_UlYhx&_nc_ht=scontent-fra5-1.xx&oh=00_AfBwWCzDKWE6r8Cu5v793TJuR3d6jvOIbatlNfkGRFNevA&oe=660E96BF)
+![](https://scontent-fra5-1.xx.fbcdn.net/v/t39.8562-6/321890939_526300142898318_5534521596288902352_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=f537c7&_nc_ohc=CEGjOBzlXD8AX_UlYhx&_nc_ht=scontent-fra5-1.xx&oh=00_AfA_2fqthw-BTJiLm0IUwMk1K-2mHbTP2UZ-3pv-kLni2A&oe=660ECEFF)
 
 Submission of requests
 
