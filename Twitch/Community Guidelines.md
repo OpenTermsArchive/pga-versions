@@ -770,16 +770,23 @@ We understand that sometimes streamers are victims of account takeover, fraud, o
 Suspension Evasion
 ------------------
 
-Circumventing our enforcement actions undermines the integrity of our service. **Any attempt to circumvent an account suspension or chat ban by using other accounts, identities, or by appearing on another user’s account will also result in an additional enforcement against your accounts, up to an indefinite suspension.** Similarly, you may not use your channel to knowingly feature or advertise a suspended user. 
+Circumventing our enforcement actions undermines the integrity of our service. **For suspended users, a****ny attempt to circumvent an account suspension or chat ban by using other accounts or identities will also result in an additional enforcement against your accounts, up to an indefinite suspension.** For non-suspended Twitch streamers, you may react to a VOD or a livestream from another service of a suspended user, but you may not feature them on your stream as a guest (for example, streaming in the same room or using collaboration software to feature a suspended user as a guest, even in an ensemble).
+
+For purposes of this violation, “feature” is defined as 1) streaming with a suspended user, 2) streams of a group that include the suspended user.
 
 [](#)
 
-  For example, you may not:
+  Suspended streamers may not:
 
 * Create a new account in order to evade a suspension issued to your primary account
-* Facilitate a suspended user on your own channel, either by restreaming their content or hosting them directly
 
-We understand that there may be instances where suspended users appear on your stream due to circumstances beyond your control, such as through third-party gaming tournaments. However, we expect that you make a good faith effort to remove them from your broadcast, mute them, or otherwise limit their interactions with your stream.
+Streamers allowed on Twitch may not:
+
+* Create a channel that functions to rebroadcast a suspended user’s content (e.g. channel panels and name similar to suspended user and rebroadcasts are presented without commentary)
+* Have a one-on-one interview with a suspended user or participate in a stream with a suspended user in a group setting where the suspended user actively participates in your stream
+* Attend and stream on Twitch an event hosted by or to celebrate a suspended user
+
+We understand that there may be instances where suspended users appear on your stream due to circumstances beyond your control, such as through third-party gaming tournaments or limited engagement while IRL streaming. However, we expect that you make an effort to not actively promote them in a manner intended to bypass their Twitch suspension. **Please remember, that you are responsible for all content in your streams, including policy violations by third parties**.
 
 Harmful Misinformation Actors
 -----------------------------
