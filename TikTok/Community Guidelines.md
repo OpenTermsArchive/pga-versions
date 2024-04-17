@@ -3,6 +3,8 @@ Overview
 Community Guidelines
 ====================
 
+On April 17, 2024, we are updating our Community Guidelines to help keep TikTok safe, inclusive, and welcoming for everyone. Check out the new Community Guidelines [here](https://www.tiktok.com/community-guidelines/?cgversion=2024H1update).
+
 Our mission is to inspire creativity and bring joy. We aspire to unlock human imagination by enabling creative expression and being a source of entertainment and enrichment everywhere. We welcome people from around the world, as they come to TikTok to discover a diversity of ideas, creators, and products, and to connect with others in our community. To help ensure a safe, trustworthy, and vibrant experience, we maintain a set of Community Guidelines that include rules and standards for using TikTok. The guidelines apply to everyone and everything on our platform. They are informed by international legal frameworks, industry best practices, and input from our community, safety and public health experts, and our regional Advisory Councils. We evolve them to address emerging risks and potential harms that may occur from new behaviors.Our approach to content moderation is built on four pillars:
 
 1. **Remove violative content** from the platform that breaks our rules
