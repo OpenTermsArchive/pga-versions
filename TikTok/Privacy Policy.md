@@ -344,3 +344,68 @@ You can also contact us at the following postal address.
 
 * **For users in the European Economic Area and Switzerland**: TikTok Technology Limited, 10 Earlsfort Terrace, Dublin, D02 T380, Ireland.
 * **For users in the United Kingdom**: TikTok Information Technologies UK Limited, Kaleidoscope, 4 Lindsey Street, London, EC1A 9HP, United Kingdom.
+
+Children's Privacy Policy
+
+Last updated: January 1, 2023
+
+TikTok Inc. (“TikTok”, “we” or “us”) is committed to protecting the privacy of children. This Children’s Privacy Policy explains how we collect, use, share, and otherwise process the personal information of users under the age of 13 (“Children”) on a separate experience of the TikTok services for Children in the United States (“Kids Mode”).
+
+Kids Mode is designed for Children residing in the United States. It allows Children to engage with TikTok’s fun video features while limiting the information collected from them. Children can view videos from other creators and explore their creativity by capturing their own videos with music and special effects. While Children may save these videos directly to their device, the videos will not be saved by us or viewable by other users. Children also have a more limited interactive experience, including, for example, they cannot exchange messages with other users, and other users cannot view their profiles.
+
+**What Information We Collect from Children**
+---------------------------------------------
+
+When a Child registers for TikTok, we collect only limited information, including username, password, and birthday.
+
+We may also collect certain information automatically from the Child’s device, including internet or other network activity information such as device ID, IP address, web browser type and version, country-level location, as well as certain app activity information, such as video watches, time in the app, and general usage information.
+
+If a Child reaches out to us via the in-app feedback form, we collect the email address that the Child provides solely for the purpose of responding to the inquiry.
+
+**How We Use Children’s Information**
+-------------------------------------
+
+We use the information we collect to provide and support our services. For example, we use username and password to authenticate Children. We may use the information that is collected automatically to provide personalized content; serve contextual advertising; perform analytics and troubleshoot; protect the security and integrity of the user and our services; and ensure legal and regulatory compliance.
+
+Children cannot publicly share personal information, including videos or profile information.
+
+**How We Share Children’s Information**
+---------------------------------------
+
+We may share the information that we collect with our corporate group or service providers as necessary for them to support the internal operations of the TikTok service.
+
+We may disclose personal information if permitted or required by law (i) in response to a court order or a subpoena; (ii) in response to a law enforcement or public agency’s (including schools or children services) request; (iii) if we believe disclosure may prevent the instigation of a crime, to facilitate an investigation related to public safety or protect the safety of Children using our sites or applications; (iv) to protect the security and integrity of our sites, applications, and other technology, as well as the technology of our service providers; or (v) to enable us to take precautions against liability.
+
+TikTok does not sell information from Children to third parties and does not share such information with third parties for the purposes of cross-context behavioral advertising.
+
+**Data Security and Retention**
+-------------------------------
+
+We take steps to ensure that Children’s information is treated securely and in accordance with this policy. Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect this information, for example, by encryption, we cannot guarantee the security of information transmitted through the TikTok services; any transmission is at the user’s own risk.
+
+We have appropriate technical and organizational measures to ensure a level of security appropriate to the risk of varying likelihood and severity for the rights and freedoms of users. We maintain these technical and organizational measures and will amend them from time to time to improve the overall security of our systems.
+
+We retain Children’s information for as long as reasonably necessary to fulfill the purpose for which the information was collected. The retention periods are different depending on different criteria, such as the type of information and the purposes for which we use the information.
+
+TikTok may transmit Children’s information to its servers or data centers outside of the United States for storage and/or processing. Other entities with whom TikTok may share Children’s information as described herein may be located outside of the United States.
+
+**Rights and Choices**
+----------------------
+
+A parent or guardian may submit a request to know, access, delete, or correct the information we have collected from their Child, as well as a request to appeal a decision we have made about such request, by contacting us via the webform or physical address provided in the Contact Us section below. The right to know includes what personal information we have collected about the Child, including the categories of sources from which the personal information is collected, the business purpose for collecting or disclosing personal information, the categories of third parties to whom we share the personal information, and the specific pieces of personal information we have collected about the Child.
+
+We will respond to requests consistent with applicable law and subject to proper verification. We will verify a parent or guardian's request by requesting completion of TikTok’s Parental Access Form, along with limited additional information about the account, as appropriate and necessary for verification. We do not discriminate based on the exercise of any privacy rights that a user, parent, or guardian might have.
+
+**Privacy Policy Updates**
+--------------------------
+
+We may update this Privacy Policy from time to time. When we update the Privacy Policy, we will notify you by updating the “Last Updated” date at the top of the new Privacy Policy, posting the new Privacy Policy, or providing any other notice required by applicable law. We recommend that you review the Privacy Policy each time you visit TikTok’s services to stay informed of our privacy practices.
+
+**Contact Us**
+--------------
+
+Questions, comments and requests regarding this policy should be addressed to:
+
+* Parents or guardians may contact us: [https://www.tiktok.com/legal/report/privacy](https://www.tiktok.com/legal/report/privacy)
+
+* Mailing Address: TikTok Inc., Attn: Privacy Policy Inquiry, 5800 Bristol Parkway, Suite 100, Culver City, CA 90230
