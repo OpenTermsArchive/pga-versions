@@ -3,7 +3,7 @@ Platform Policies
 
 Official Quora Account
 
-* 2024-03-18T10:37:46Z
+* 2024-04-18T23:29:09Z
 
 Quora is a place that empowers people to share and grow the world's knowledge. In order to provide everyone with a safe and authentic experience using Quora, the following types of content and behaviors are prohibited:
 
@@ -21,6 +21,7 @@ Spam negatively impacts interaction on the platform, reduces trust, and inhibits
 
 * Posting irrelevant answers or comments
 * Editing your questions to include links or irrelevant information
+* Posting questions to promote a business or service, or for solicitation
 
 ### [Harassment and Bullying](#h_01GFWFFH6XDYCRCYR30NBF6WBM)
 
@@ -177,7 +178,7 @@ Spaces Policies
 
 Official Quora Account
 
-* 2024-02-26T20:30:22Z
+* 2024-04-18T23:30:06Z
 
 On Quora, people share questions, answers, and other content to collectively build knowledge and community within a Space. Quora generally moderates items within Spaces at a content-level, however, repeated or serious violations may result in the removal of the entire Space. Note that Space admins may decide to set more restrictive policies for individual Spaces that they manage. Below are the following policies for Quora Spaces:
 
@@ -239,7 +240,8 @@ Quora may also ban and remove all content from any user who is a confirmed and/o
 
 ### [Sexual Exploitation and Abuse](#h_01FSDDXYFNVR0TKNXQ18TH9297)
 
-**Children and Minors**  
+**Children and Minors**
+
 Sexually explicit or suggestive content (written or visual) involving children and minors. **If child sexual abuse material is identified to us, we will remove it, report it to relevant authorities, and your account will be permanently banned.**
 
 Examples include:
@@ -257,11 +259,11 @@ Examples include:
 Advocacy against illegal or harmful activity involving children or minors is not a violation of this policy provided there is no sharing of, or linking to any material featuring child sexual exploitation.  
 **Reporting - Please Speak Up:** If you think you've found a Quora account distributing or promoting sexually explicit or suggestive content involving children and minors, please report it to us using the in-product reporting tools. Please provide the username and links to all relevant content that led you to believe the account should be reviewed.
 
-#### Animals
+#### _Animals_
 
 Sexually explicit or suggestive content (written or visual) involving animals with humans.
 
-#### Adult
+#### _Adult_
 
 Sexually explicit **graphic** content involving adults which appears to be non-consensual or violent, as well as any content that promotes or glorifies non-consensual sexual activity.
 
@@ -305,6 +307,7 @@ Spam negatively impacts interaction on the platform, reduces trust, and inhibits
 
 * Posting irrelevant answers or comments
 * Editing your questions to include links or irrelevant information
+* Posting questions to promote a business or service, or for solicitation
 
 ### [Impersonation](#h_01FSDDZ1HT20K0EZWQHPPWVJGK)
 
