@@ -282,6 +282,7 @@ Don’t post links in your content on YouTube if they direct users to content th
 * Links to content encouraging others to commit violent acts
 * Links to content ​​that spread medical misinformation contradicting local health authorities’ (LHA) or the World Health Organization’s (WHO) medical info about COVID-19
 * Links to websites or apps that spread misleading or deceptive content that can cause serious risk of egregious harm, such as interfering with democratic processes
+* Links to external sites that contain manifestos of violent attackers
 
 This policy applies to video, audio, channel, comments, pinned comments, live streams, and any other YouTube product or feature. Links can take any form that would direct a user to a site off YouTube. These links include: clickable urls, showing text of urls in videos or images, and obfuscated urls (such as writing “dot com” instead of “.com”). These links can also include verbally directing users to other sites, encouraging viewers to visit creator profiles or pages on other sites, or promising violative content on other sites. This list is not complete.
 
@@ -1438,6 +1439,7 @@ Here are some examples of content that’s not allowed on YouTube.
 * Celebrating terrorist or criminal organizations in songs or memorials
 * Content directing users to sites that espouse terrorist ideology, are used to disseminate prohibited content, or are used for recruitment
 * Footage filmed by the perpetrator during a deadly or major violent event, in which weapons, violence, or injured victims are visible or audible
+* Links to external sites that contain manifestos of violent attackers
 * Video game content which has been developed or modified (“modded”) to glorify a violent event, its perpetrators, or support violent criminal or terrorist organizations
 * Glorifying violence against civilians
 * Fundraising for violent criminal, extremist, or terrorist organizations
