@@ -1244,6 +1244,490 @@ Referencing another’s trademark is not automatically a violation of X's tradem
 * using a trademark in a way that is outside the scope of the trademark registration e.g., in a different territory, or a different class of goods or services than that identified in the registration; and
 * using a trademark in a nominative or other fair use manner. For more information, see our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).[](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html)
 
+Username squatting policy
+=========================
+
+Username squatting is prohibited by the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html).
+
+Please note that if an account has had no updates, no profile image, and there is no intent to mislead, it typically means there's no name-squatting or impersonation. Note that we will not release squatted usernames except in cases of trademark infringement. If your report involves [trademark infringement](https://help.twitter.com/en/rules-and-policies/twitter-trademark-policy.html), please consult those policies for instructions for reporting these accounts.   
+
+Attempts to sell, buy, or solicit other forms of payment in exchange for usernames are also violations and may result in permanent account suspension.
+
+Copypasta and duplicate content policy
+======================================
+
+### Overview  
+  
+  
+May 2022
+
+In order to help people find credible and authentic information, and to promote a healthy public discourse on X, we limit the visibility of duplicative (or also known as ‘copypasta’) Posts.
+
+Financial scam policy
+=====================
+
+### Overview
+
+**  
+September 2019**
+
+**You may not use X's services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience on X.**
+
+We want X to be a place where people can make human connections and find reliable information. For this reason, you may not use X's services to deceive others into sending you money or personal financial information via scam tactics, phishing, or otherwise fraudulent or deceptive methods.
+
+### What is in violation of this policy?
+
+  
+Using scam tactics on X to obtain money or private financial information is prohibited under this policy. You are not allowed to create accounts, publish posts, or send Direct Messages that solicit engagement in such fraudulent schemes. Examples of prohibited, deceptive tactics include:
+
+* **Relationship/trust-building scams.** You may not deceive others into sending you money or personal financial information by operating a fake account or by posing as a public figure or an organization.  
+    
+* **Money-flipping schemes.** You may not engage in “money flipping” schemes (for example, guaranteeing to send someone a large amount of money in return for a smaller initial payment via a wire transfer or prepaid debit card).
+* **Fraudulent discounts.** You may not operate schemes which make discount offers to others wherein fulfillment of the offers is paid for using stolen credit cards and/or stolen financial credentials.
+* **Phishing scams.** You may not pose as or imply affiliation with banks or other financial institutions to acquire others’ personal financial information. Keep in mind that other forms of phishing to obtain such information are also in violation of our platform manipulation and spam policy.
+
+### What is not a violation of this policy?
+
+  
+As described above, X takes action on accounts that engage in deceptive scam, phishing or other fraud tactics. X does not intervene in financial disputes between individuals who use X, such as: 
+
+* Claims relating to the sale of goods on X.
+* Disputed refunds from individuals or brands.
+* Complaints of poor quality goods received.
+
+### Who can report violations of this policy?  
+
+  
+Anyone can report accounts or posts via our dedicated reporting flow. These reports are used in aggregate to help refine our enforcement systems and identify new and emerging trends and patterns of behavior, and you may not receive an individual response to your report.
+
+### How can I report violations of this policy?  
+
+**  
+In-app**  
+
+You can report this content for review in-app as follows:
+
+1. Select **Report Post** from the  icon.
+2. Select **It’s suspicious or spam**.
+3. Select the option that best tells us how the Post is suspicious or spreading spam.
+4. Submit your report.  
+     
+
+**Desktop**
+
+You can report this content on desktop as follows:
+
+1. Select **Report Post** from the  icon.
+2. Select **It’s suspicious or spam**.
+3. Select the option that best tells us how the Post is suspicious or spreading spam.
+4. Submit your report.
+
+### What happens if you violate this policy?  
+
+  
+The consequences for violating this policy depend on the type and severity of the violation as well as any previous history of violations. The actions we take may include the following:  
+ 
+
+**Anti-spam challenges**
+
+When we detect suspicious levels of activity, accounts may be locked and prompted to provide additional information (e.g., a phone number) or to solve a reCAPTCHA.   
+ 
+
+**Blacklisting URLs**
+
+We blacklist or provide warnings about URLs we believe to be unsafe. Read more about [unsafe links](https://help.twitter.com/safety-and-security/phishing-spam-and-malware-links), including how to appeal if we’ve falsely identified your URL as unsafe.  
+ 
+
+**Post deletion and temporary account locks**
+
+If the violation is an isolated incident or first offense, we may take a number of actions ranging from requiring deletion of one or more posts to temporarily locking account(s). Any subsequent attempts to engage in scam, phishing or other fraud tactics will result in permanent suspension.  
+ 
+
+**Permanent suspension**
+
+For severe violations, accounts will be permanently suspended at first detection. Examples of severe violations include:
+
+* operating accounts where the majority of behavior is in violation of the policies described above;
+* creating accounts to replace or mimic a suspended account.
+
+### Additional resources
+
+  
+Read more about our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy.
+
+Financial scam policy
+=====================
+
+### Overview
+
+**  
+September 2019**
+
+**You may not use X's services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience on X.**
+
+We want X to be a place where people can make human connections and find reliable information. For this reason, you may not use X's services to deceive others into sending you money or personal financial information via scam tactics, phishing, or otherwise fraudulent or deceptive methods.
+
+### What is in violation of this policy?
+
+  
+Using scam tactics on X to obtain money or private financial information is prohibited under this policy. You are not allowed to create accounts, publish posts, or send Direct Messages that solicit engagement in such fraudulent schemes. Examples of prohibited, deceptive tactics include:
+
+* **Relationship/trust-building scams.** You may not deceive others into sending you money or personal financial information by operating a fake account or by posing as a public figure or an organization.  
+    
+* **Money-flipping schemes.** You may not engage in “money flipping” schemes (for example, guaranteeing to send someone a large amount of money in return for a smaller initial payment via a wire transfer or prepaid debit card).
+* **Fraudulent discounts.** You may not operate schemes which make discount offers to others wherein fulfillment of the offers is paid for using stolen credit cards and/or stolen financial credentials.
+* **Phishing scams.** You may not pose as or imply affiliation with banks or other financial institutions to acquire others’ personal financial information. Keep in mind that other forms of phishing to obtain such information are also in violation of our platform manipulation and spam policy.
+
+### What is not a violation of this policy?
+
+  
+As described above, X takes action on accounts that engage in deceptive scam, phishing or other fraud tactics. X does not intervene in financial disputes between individuals who use X, such as: 
+
+* Claims relating to the sale of goods on X.
+* Disputed refunds from individuals or brands.
+* Complaints of poor quality goods received.
+
+### Who can report violations of this policy?  
+
+  
+Anyone can report accounts or posts via our dedicated reporting flow. These reports are used in aggregate to help refine our enforcement systems and identify new and emerging trends and patterns of behavior, and you may not receive an individual response to your report.
+
+### How can I report violations of this policy?  
+
+**  
+In-app**  
+
+You can report this content for review in-app as follows:
+
+1. Select **Report Post** from the  icon.
+2. Select **It’s suspicious or spam**.
+3. Select the option that best tells us how the Post is suspicious or spreading spam.
+4. Submit your report.  
+     
+
+**Desktop**
+
+You can report this content on desktop as follows:
+
+1. Select **Report Post** from the  icon.
+2. Select **It’s suspicious or spam**.
+3. Select the option that best tells us how the Post is suspicious or spreading spam.
+4. Submit your report.
+
+### What happens if you violate this policy?  
+
+  
+The consequences for violating this policy depend on the type and severity of the violation as well as any previous history of violations. The actions we take may include the following:  
+ 
+
+**Anti-spam challenges**
+
+When we detect suspicious levels of activity, accounts may be locked and prompted to provide additional information (e.g., a phone number) or to solve a reCAPTCHA.   
+ 
+
+**Blacklisting URLs**
+
+We blacklist or provide warnings about URLs we believe to be unsafe. Read more about [unsafe links](https://help.twitter.com/safety-and-security/phishing-spam-and-malware-links), including how to appeal if we’ve falsely identified your URL as unsafe.  
+ 
+
+**Post deletion and temporary account locks**
+
+If the violation is an isolated incident or first offense, we may take a number of actions ranging from requiring deletion of one or more posts to temporarily locking account(s). Any subsequent attempts to engage in scam, phishing or other fraud tactics will result in permanent suspension.  
+ 
+
+**Permanent suspension**
+
+For severe violations, accounts will be permanently suspended at first detection. Examples of severe violations include:
+
+* operating accounts where the majority of behavior is in violation of the policies described above;
+* creating accounts to replace or mimic a suspended account.
+
+### Additional resources
+
+  
+Read more about our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy.
+
+Abusive profile information
+===========================
+
+**[X Rules:](https://help.twitter.com/en/rules-and-policies/twitter-rules.html#hateful-conduct)** You may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.  
+ 
+
+### Rationale  
+
+While we want people to feel free to express their individuality in their profile names and descriptions, we have found that accounts with abusive profile information usually indicate abusive intent and strongly correlate with abusive behavior. The high visibility of profile names and descriptions also means that people might involuntarily find themselves exposed to threatening or abusive content when visiting a profile page.    
+ 
+
+### When this applies  
+
+We will review and take enforcement action against accounts that target an individual, group of people, or a protected category with any of the following behavior in their profile information, i.e., usernames, display names, or profile bios:
+
+* Violent threats
+* Abusive slurs, epithets, racist, or sexist tropes
+* Abusive content that reduces someone to less than human
+* Content that incites fear
+
+We will not consider insults under this policy. However, we will still take action against these accounts if we receive reports about posts or Direct Messages that are in violation of our other policies. As always, context matters when we evaluate for abusive behavior and in determining appropriate enforcement actions.  
+
+**  
+Do I need to be the target of this content for it to be a violation of the X Rules?**  
+No, we review both first-person and bystander reports of such content.  
+ 
+
+### Consequences 
+
+If an account’s profile information includes any of the abusive behaviors listed above, we will permanently suspend the account on first violation.  
+
+If an account uses a hateful symbol in its profile information, the account-holder will be required to remove the symbol before they can use their account again. Repeated violations will lead to permanent suspension. For more information on how we handle hateful imagery and symbols, see our [media policy](https://help.twitter.com/en/rules-and-policies/media-policy.html).  
+
+If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+Automated copyright claims for live video
+=========================================
+
+X and Periscope are testing technology designed to help copyright owners find and control unauthorized uses of their content on our platforms.
+
+X and Periscope broadcasts that match copyrighted content may be disabled or have limited visibility.
+
+Counterfeit policy
+==================
+
+X prohibits the sale of or promoting the sale of counterfeit goods on the platform.
+
+About public-interest exceptions on X
+=====================================
+
+### Defining the public interest
+
+X has clear policies on content and behavior that violates X rules and we take the appropriate action against content and accounts that violate our rules. However, we recognize that sometimes it may be in the public interest to allow people to view posts that would otherwise violate our policies. We consider content to be in the public interest if it directly contributes to understanding or discussion of a matter of public concern.  
+  
+In certain and rare instances, we may choose to leave up a post from an elected or government official that would otherwise violate our policies, given the significant public interest in knowing and being able to discuss their actions and statements. Instead we will place it behind a notice providing context about the rule violation that allows people to click through to see the post. Placing a post behind this notice also limits the ability to engage with the post through likes, Reposts, or sharing on X, and makes sure the post isn't algorithmically recommended by X. These actions are meant to limit the post’s reach while maintaining the public’s ability to view and discuss it.
+
+About X limits
+==============
+
+### Why have limits? 
+
+Limits alleviate some of the strain on the behind-the-scenes part of X and reduce downtime and error pages. For the sake of reliability, we've placed some limits on the account actions below.  
+ 
+
+### Current X limits 
+
+The current technical limits for accounts are:
+
+* **Direct Messages (daily)**: The limit is 500 messages sent per day.
+* **posts**: 2,400 per day. The daily update limit is further broken down into smaller limits for semi-hourly intervals. Reposts are counted as posts.
+* **Changes to account email**: 4 per hour.
+* **Following (daily)**: The technical follow limit is 400 per day. Please note that this is a technical account limit only, and there are additional rules prohibiting aggressive following behavior. 
+* **Following (account-based)**: Once an account is following 5,000 other accounts, additional follow attempts are limited by account-specific ratios. 
+
+These limits include actions from all devices, including web, mobile, phone, API, etc. API requests from all third-party applications are tracked against the hourly API limit. People who use multiple third-party applications with their account will therefore reach the API limit more quickly. 
+
+These limits may be temporarily reduced during periods of heavy site usage. In such cases, we will post an update on the [X status](https://status.twitterstat.us/) site.  
+ 
+
+### What happens if I hit a limit? 
+
+If you do reach a limit, we'll let you know with an error message telling you which limit you've hit. For limits that are time-based (like the Direct Messages, posts, changes to account email, and API request limits), you'll be able to try again after the time limit has elapsed.
+
+The post limit of 2,400 updates per day is further broken down into semi-hourly intervals. If you hit your account update/post limit, please try again in a few hours after the limit period has elapsed.  
+ 
+
+### Having trouble? 
+
+If you've hit a follow limit, please see this [follow limit troubleshooting](https://help.twitter.com/en/using-twitter/twitter-follow-limit.html) article for more information.
+
+About specific instances when a post’s reach may be limited
+===========================================================
+
+People may express themselves on X as long as they do not violate our [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). **We do not block, limit, or remove content based on an individual’s views or opinions. In some situations, your post may not be seen by everyone, as outlined below:**   
+
+**1\. Violation of the X Rules**
+
+Where appropriate, we will restrict the reach of posts that violate our policies and create a negative experience for other users by making the post less discoverable on X.  Learn more here about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options).
+
+**2\. Tools and controls**
+
+We’ve developed a set of tools that enable people to control what they see on X.  
+
+* Block — Block enables people to prevent someone from seeing their content or contacting them when logged in to X.  
+    
+* Mute — Mute enables people to avoid content they don’t want to see without letting other people know they’ve been muted. People can mute other accounts, specific keywords from appearing in Notifications, their Home timeline, and entire conversations. 
+* Notification filters — We enable people to filter their notifications so they do not need to see posts from certain types of accounts, like those without a profile photo, unverified email address or phone numbers, and from accounts they do not follow. 
+
+**3. Quality and safety ranking  
+**
+
+We are constantly working on improving core parts of the X experience, including the timeline, conversations, and [search](https://help.twitter.com/content/help-twitter/en/using-twitter/twitter-search) so that people see content that they are most interested in and contributes to the conversation in a meaningful way, such as content that is relevant, credible, and safe.   
+
+We have also developed "safe search" functionality which removes posts that contain potentially sensitive content and posts from blocked and muted accounts from search results. As part of this, our team has been working on identifying and collapsing potentially abusive and low-quality replies so the most relevant conversations are brought forward. These post replies are still accessible to those who seek them out. 
+
+We use a variety of behavior-based signals to inform how we rank content, such as who you follow, what conversations you join, and if someone is muted or blocked and by whom. For example, if you post to a number of accounts and they block or mute you, we have a strong signal that those accounts do not want to see your posts. Or, if everyone responds when you mention them in a post that demonstrates to us that they want to join the conversation. No one signal is used in isolation – the system uses many signals to continually determine how each account should be ranked.
+
+**4\. Experiments**
+
+We are constantly running experiments on X which may limit the reach of certain posts. If we decide to make a feature or experience generally available, we will update the community and this Help Center page.
+
+**5\. Legal, quality, and technical issues**
+
+We may limit a post’s reach if it violates our [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) or applicable laws, or is determined to be low quality. For more information on instances where we may withhold a post in a specific country, please see this Help Center [article](https://help.twitter.com/en/safety-and-security/tweet-withheld-by-country.html).  
+
+Some people report issues related to their posts not appearing on X or their replies detaching from an original post that happen outside of enforcement actions and safety features. These cases may be the result of a post being identified as spam by our systems or may be due to some current technical issues and limitations of the service. We use @Support to update the community about technical issues like these.
+
+If you notice other instances where posts are not appearing, we encourage you to let us know by [reporting the issue](https://help.twitter.com/forms).
+
+Our range of enforcement options
+================================
+
+When we take enforcement actions, we may do so either on a specific piece of content (e.g., an individual post or Direct Message), on an account, or employ a combination of these options. In some instances, this is because the behavior violates the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Other times, it may be in response to a valid legal request from an authorized entity in a given country. Below are some of the enforcement actions that we may take.  
+ 
+
+**Post-level enforcement**
+
+We take action at the post level when a specific post violates the X Rules, including posts that share or reproduce other posts by posting screenshots, quote-posting, or sharing post URLs that violate our Rules.
+
+A few of the ways in which we might take action at the post level include:
+
+**Limiting post visibility:** Where appropriate, we will restrict the reach of posts that violate our policies and create a negative experience for other users by making the post less  discoverable on X. This can include:
+
+* Excluding the post from search results, trends, and recommended notifications
+    
+* Removing the post from the For you and Following timelines
+    
+* Restricting the post’s discoverability to the author’s profile
+    
+* Downranking the post in replies
+    
+* Restricting Likes, replies, Reposts, Quote posts, bookmarks, share, pin to profile, or Edit post
+    
+
+**Excluding the post from having ads adjacent to it:** Starting in April 2023, posts identified as violating our Rules will begin to receive labels informing both post authors and viewers that we limited the post’s visibility.   
+
+Authors will be able to submit an appeal on the label if they think we incorrectly limited their post’s visibility. 
+
+**Requiring post removal:**  When we determine that a post violated the X Rules and the violation is severe enough to warrant post removal, we will require the violator to remove it before they can post again. They will need to go through the process of removing the violating post or [appealing](https://help.twitter.com/en/forms/account-access/appeals.html) our removal request if they believe we made an error. The post will be hidden from public view with a [notice](https://help.twitter.com/en/rules-and-policies/notices-on-x.html) during this process. 
+
+**Labeling a post:** If we determine a post contains misleading or disputed information per our policies that could potentially lead to harm, we may [add a label](https://help.twitter.com/en/rules-and-policies/notices-on-x.html) to the content to provide context and additional information to users. In these cases, [Community Notes](https://help.twitter.com/en/using-twitter/community-notes.html) may also be visible on posts to provide additional context.
+
+**Notice of public interest exception:** We may determine that it is in the public interest for a post that would otherwise be in violation of our rules to remain accessible on our service. When this occurs, we will place the post behind a notice and limit its visibility. [Learn more](https://help.twitter.com/en/rules-and-policies/public-interest.html) about the public interest exception.
+
+### **Direct Message-level enforcement**
+
+Stopping conversations between a reported violator and the reporter’s account: In a private Direct Message conversation, when a participant reports the other account, we will stop the violator from sending messages to the account who reported them. The conversation will also be removed from the reporter's inbox. However, if the reporter decides to continue to send Direct Messages to the violator, the conversation will resume.
+
+**Placing a Direct Message behind a notice:** In a group Direct Message conversation, the violating Direct Message may be placed behind a notice to ensure no one else in the group can see it again.
+
+  
+**Account-level enforcement**
+
+We take action to suspend an account if we determine that a user has engaged in repeated violations of our policies and/or violated specific policies that cause significant risk to X (i.e. posting illegal content, attempts to manipulate our platform or spam users, using our platform to incite violence, etc.) or pose a threat to our users (fraud, user privacy violations, violent threats, targeted harassment, etc.).
+
+**Placing an account in read-only mode:** We may temporarily limit an account’s ability to post, Repost, or Like. The user can read their timelines and will only be able to send Direct Messages to their followers. 
+
+**Verifying account ownership:** We may require an account owner to verify ownership with a phone number or email address. Note that when an account has been locked pending completion of a challenge (such as being required to provide a phone number), it is removed from follower counts, Reposts, and Likes.
+
+Users can appeal account suspensions if they believe we made an error. They can do this through the platform interface or by [filing a report](https://help.twitter.com/en/forms/account-access/appeals.html).  
+  
+
+### Actions we may take against non-violating content
+
+**Placing a post behind a notice:** We may place some forms of [sensitive media](https://help.twitter.com/en/rules-and-policies/media-policy.html) like adult content or graphic violence behind an interstitial advising viewers to be aware that they will see sensitive media if they click through. Learn more about [how to control whether you see sensitive media](https://help.twitter.com/en/safety-and-security/sensitive-media.html).
+
+**Withholding a post based on age:** We restrict views of specific forms of sensitive media such as adult content for viewers who are under 18 or viewers who do not include a birth date on their profile with [interstitials](https://help.twitter.com/en/rules-and-policies/notices-on-x.html). 
+
+**Withholding a post or account in a country:** We may withhold access to certain content in a particular country if we receive a valid and properly scoped request from an authorized entity in that country. Read more about [country withheld content](https://help.twitter.com/en/rules-and-policies/tweet-withheld-by-country.html).
+
+X Moments guidelines and principles
+===================================
+
+How does X curate Moments?  
+ 
+
+Out of hundreds of millions of posts a day, Moments surface the best of what’s happening on X. Through Moments, millions of people can enjoy the power of X—at the center of a protest, the front row at the Oscars, on the field at the World Cup, or from outer space. What you see on X is what’s happening in the world.  
+
+Moments are created in multiple ways. Some Moments, such as those covering sporting events or TV shows, are created algorithmically to reflect the unfolding conversation while the event is happening. Others are prepared manually by our Curation team, following standards and guidelines that are explained in more detail below.  
+ 
+
+### The Curation team 
+
+The Curation team’s goal is to find and highlight great posts, including text, video, GIFs and live streams, that provide insight and context to the conversations happening right now on X. Curators don’t act as reporters or creators of original work, they organize and present compelling content that already exists on X. This content appears in Moments, explanatory content on Trends, in lists and more. 
+
+Our curators are a global, multilingual team looking for the best things happening on X across news, sports, entertainment, and fun. We currently serve 16 markets in five languages (English, Japanese, Arabic, Spanish and Portuguese). Curators receive regular training on accuracy, impartiality, and identifying high-quality content.  
+ 
+
+### Curation policy 
+
+Impartiality, accuracy and standards
+
+We aim to uphold high standards of accuracy, impartiality and fairness in our curation. 
+
+Moments are intended to feature compelling, original, and diverse content. When selecting posts and video for a Moment, we consider the content and media as well as the avatar and username of the poster. 
+
+* Impartiality: We make data-driven decisions when choosing posts around controversial topics, seeking posts already receiving significant engagement on X. On topics of public debate, we seek to represent a variety of viewpoints whenever feasible. Curators receive ongoing training on impartiality and strive to objectively reflect the conversation as it appears on the platform. 
+    
+
+* Accuracy: Our goal is to highlight quality posts that represent accurate information. Our team receives regular training on social media verification practices and most Moments undergo a review process before they are featured. 
+    
+
+* Corrections: If we become aware that we have highlighted inaccurate information, we will update the Moment with a visible correction and issue an updated post. In rare cases, we may delete the Moment and post a retraction using the relevant country X account.
+    
+
+* Standards: Profanity, violence, nudity and other types of potentially sensitive content are avoided except when it’s necessary to highlight a newsworthy conversation. We will not include content that promotes or depicts illegal conduct. Any Moment that may contain potentially sensitive content will include a warning.  
+     
+    
+
+### Avoiding conflicts of interest 
+
+Our Curation team isn’t responsible for driving revenue, user growth, or managing X’s partner relationships. We feature posts and videos, and select Moments topics based on what best serves our audience. These decisions aren’t influenced by advertisers, partners, or X’s business interests. 
+
+The Curation team will generally avoid creating Moments that cover our industry, our company, or our competitors. If X, or its competitors, become a significant part of the conversation on the platform (for instance, if the issue becomes a [trending topic](https://help.twitter.com/using-twitter/twitter-trending-faqs)), our Curation team may curate a factual summary of the conversation, including a response from the company where available.  
+ 
+
+### Selecting Moments topics 
+
+Moments highlight remarkable posts that are engaging, informative or unique. They should appeal to a broad audience and the content should be appropriate for all parts of the X community. 
+
+Some Moments will reflect world and media events, while others will be based on unique “only on X” content. We select Moments topics based on what people are discussing on X. When curating around controversial topics, we look to demonstrably large conversations on X and big news in the region’s mainstream press.    
+
+We avoid creating Moments that may invade privacy, encourage illegal activities, or exploit or harm minors. Content that violates the X rules will never be featured. We do not duplicate curated collections or sets of posts embedded on third-party websites, or those reposted from a single X account.  
+ 
+
+### Selecting great posts 
+
+Moments is about highlighting the smart, witty, and innovative content created by people on X. We will be faithful to individual voices when we include them in Moments, and will not include posts in a way that misleads, substantially changes a post’s original context, or includes content from protected accounts. We avoid featuring content created by X employees.   
+ 
+
+### Annotations 
+
+Some Moments created by the X Curation team may include additional text beneath the title or between posts, called Annotations. This text is meant to add context to the Moment and may be a summary of a developing situation, historical details, or a translation of a post in the Moment. If Annotations are not sourced from a post in the Moment, they should be easily verifiable or attributed to a source.
+
+Fair use policy
+===============
+
+Certain uses of copyrighted material may not require the copyright owner’s permission. In the United States, this concept is known as fair use. Some other countries have a similar concept known as fair dealing.
+
+Whether or not a certain use of copyrighted material constitutes a fair use is ultimately determined by a court of law. Courts analyze fair use arguments by looking at four factors:
+
+* The purpose and character of the use.  
+    * How is the original work being used, and is the new use commercial? Transformative uses add something to the original work: commentary, criticism, educational explanation or additional context are a few examples. Transformative, non-commercial uses are more likely to be considered fair use.
+* The nature of the copied work.
+    * What is the copied work itself? Is it factual (example: a record of a historical event) or fictional (example: a novel or Hollywood blockbuster)? Use of factual works weighs in favor of fair use.
+* The amount and substantiality of the copied work.
+    * How much of the work was copied? Copying short excerpts is more likely to be found fair use than copying an entire copyrighted work.
+* The effect on the copied work’s value.
+    * Will the copying harm the potential market for the copyrighted work by effectively creating a substitute or replacement for that work?  If so, the use is probably not fair use.
+
+  
+Fair use determinations are made on a case by case basis, and there is no clear formula to determine whether a use may be found to be fair. If you are unsure whether a particular use of copyrighted work might be a fair use, you may want to seek legal advice. X is unable to advise whether your use may be considered fair use or not.  
+ 
+
+For more information on fair use:
+
+* [http://en.wikipedia.org/wiki/Fair\_use](http://en.wikipedia.org/wiki/Fair_use)
+* [https://ilt.eff.org/index.php/Copyright:\_Fair\_Use](https://ilt.eff.org/index.php/Copyright:_Fair_Use)
+* [https://www.lumendatabase.org/](https://ilt.eff.org/index.php/Copyright:_Fair_Use)
+* [http://fairuse.stanford.edu/overview/fair-use/four-factors/](http://fairuse.stanford.edu/overview/fair-use/four-factors/)
+
 Copyright policy
 ================
 
