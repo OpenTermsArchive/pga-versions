@@ -14,8 +14,6 @@ We've outlined here and in our [Terms of Service](https://snap.com/en-US/terms?l
 
 We want Snapchat to be a safe and positive experience for everyone. We reserve the right to decide, at our sole discretion, what content or behavior violates the spirit of our rules.
 
-  
-
 Sexual Content
 
 * We prohibit any activity that involves sexual exploitation or abuse of a minor, including sharing child sexual exploitation or abuse imagery, grooming, or sexual extortion (sextortion), or the sexualization of children. We report all identified instances of child sexual exploitation to authorities, including attempts to engage in such conduct. Never post, save, send, forward, distribute, or ask for nude or sexually explicit content involving anyone under the age of 18 (this includes sending or saving such images of yourself). 
@@ -27,7 +25,6 @@ Sexual Content
 * Additional guidance on sexual conduct and content that violates our Community Guidelines is available [here](https://www.snap.com/privacy/transparency/community-guidelines/sexual-content)
     
 
-  
 Harassment & Bullying
 
 * We prohibit bullying or harassment of any kind. This extends to all forms of sexual harassment, including sending unwanted sexually explicit, suggestive, or nude images to other users. If someone blocks you, you may not contact them from another Snapchat account.
@@ -41,7 +38,6 @@ Harassment & Bullying
 * Additional guidance on how bullying and harassment violate our Community Guidelines is available [here](https://www.snap.com/privacy/transparency/community-guidelines/harassment-and-bullying).
     
 
-  
 Threats, Violence & Harm
 
 * Encouraging or engaging in violent or dangerous behavior is prohibited. Never intimidate or threaten to harm a person, a group of people, or someone’s property.
@@ -53,7 +49,6 @@ Threats, Violence & Harm
 * Additional guidance on threats, violence, and harm that violate our Community Guidelines is available [here](https://www.snap.com/privacy/transparency/community-guidelines/threats).
     
 
-  
 Harmful False or Deceptive Information
 
 * We prohibit spreading false information that causes harm or is malicious, such as denying the existence of tragic events, unsubstantiated medical claims, undermining the integrity of civic processes, or manipulating content for false or misleading purposes (whether through generative AI or through deceptive editing).
@@ -67,7 +62,6 @@ Harmful False or Deceptive Information
 * Additional guidance on harmful false or deceptive content that violates our Community Guidelines is available [here](https://www.snap.com/privacy/transparency/community-guidelines/harmful-false-information).
     
 
-  
 Illegal or Regulated Activities
 
 * Don’t use Snapchat to send or post content that’s illegal in your jurisdiction, or for any illegal activity. This includes promoting, facilitating, or participating in criminal activity, such as buying, selling, exchanging, or facilitating sales of illegal or regulated drugs, contraband (such as child sexual exploitation or abuse imagery), weapons, or counterfeit goods or documents. It also includes promoting or facilitating any form of exploitation, including sex trafficking, labor trafficking, or other human trafficking.
@@ -77,7 +71,6 @@ Illegal or Regulated Activities
 * Additional guidance on prohibited illegal or regulated activities that violate our Community Guidelines is available [here](https://www.snap.com/privacy/transparency/community-guidelines/illegal-or-regulated-activities).
     
 
-  
 Hateful Content, Terrorism, and Violent Extremism
 
 * Terrorist organizations, violent extremists, and hate groups are prohibited from using our platform. We have no tolerance for content that advocates or advances terrorism or violent extremism.
