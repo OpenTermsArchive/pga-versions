@@ -90,8 +90,7 @@ As a user of the Service, you agree not to:
     
 3. use a buying agent, purchasing agent or other agent to make purchases or to upload content on the Site or the App.
     
-4.     use the Service to advertise or offer to sell goods and services in a manner that degrades the user experience, e.g., via off-topic replies to other users’ Contributions, or that appears to be inconsistent with any applicable law, regulation, or professional standard.
-        
+4. use the Service to advertise or offer to sell goods and services in a manner that degrades the user experience, e.g., via off-topic replies to other users’ Contributions, or that appears to be inconsistent with any applicable law, regulation, or professional standard.
     
 5. circumvent, disable, or otherwise interfere with security-related features of the Service, including features that prevent or restrict the use or copying of any Content or enforce limitations on the use of the Service and/or the Content contained therein.
     
