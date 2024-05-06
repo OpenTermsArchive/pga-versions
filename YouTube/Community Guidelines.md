@@ -562,7 +562,7 @@ We may add an age restriction to content that includes any of the following.
 
 Content featuring minors
 
-To protect minors on YouTube, content that doesn’t violate our policies but features children may have some features disabled at both the channel and video level. These features may include:
+To protect minors on YouTube, content that doesn’t violate our policies but features children may have some features disabled at both the channel and content level. These features may include:
 
 * Comments
 * Live chat
@@ -593,7 +593,7 @@ Examples
 
 Here are some examples of content not allowed on YouTube.
 
-* A video featuring minors involved in provocative, sexual, or sexually suggestive activities, challenges and dares, such as kissing or groping.
+* Videos or posts featuring minors involved in provocative, sexual, or sexually suggestive activities, challenges and dares, such as kissing or groping.
 * Showing minors involved in dangerous activities. For example, physical stunts, using weapons or explosives, or using a controlled substance like alcohol or nicotine including use of vapes or e-cigarettes.
 * A video with tags like "for children", or whose audience is set to “Yes, it’s made for kids”, featuring family friendly cartoons engaging in inappropriate acts like injecting needles.
 
@@ -603,10 +603,10 @@ More examples
 -------------
 
 * Offering money, praise, likes, or any other incentive to a minor to participate in physical contact with someone else.
-* A video that advertises sexual content featuring minors or abusive content featuring minors.
+* A video or post that advertises sexual content featuring minors or abusive content featuring minors.
 * Predatory behavior involving communications with or about minors.
 * Aggregating innocent content of minors for the purposes of sexual gratification.
-* Fight or bullying videos featuring kids without educational, documentary, scientific or artistic context and blurring.
+* Fight or bullying content featuring kids without educational, documentary, scientific or artistic context and blurring.
 * Challenges, pranks, or stunts that pose the risk of physical injury or serious emotional distress. You can learn more about what’s not allowed in our policies [around challenges and pranks](https://support.google.com/youtube/answer/2801964).
 * Encouraging minors to participate in dangerous activities, even if there are no minors in the content.
 * Content simulating parental abuse or abandonment, simulating exposure to death or violence, or causing minors intense shame or humiliation.
