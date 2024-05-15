@@ -332,3 +332,204 @@ If you see something on Quora that you believe violates our policies, please rep
 ### Enforcement
 
 Quora has the sole authority and final decision as to whether content or behavior violates these policies. We may enforce these policies in a variety of ways, including, but not limited to written warnings, removal of content, adding warning tags to content, or the limitation or termination of a user’s access to Quora.
+
+Questions and Answers Policies
+==============================
+
+Official Quora Account
+
+* 2024-04-18T23:32:25Z
+
+Questions and answers must adhere to Quora’s Platform Policies, as well as the additional policies outlined below:
+
+### The following are Quora’s policies for posting questions:
+
+* Questions are viewed as community property.
+* A question can be merged into another question if both ask the same thing.
+* Quora requires correct spelling, punctuation, grammar and capitalization to be used in questions.
+
+**Note**: Questions that are merely badly formatted or unclear will be tagged for improvement rather than removed.  
+  
+If you feel your question has been incorrectly deleted, please use this [contact form](https://help.quora.com/hc/requests/new?ticket_form_id=198746) to submit an appeal.
+
+### The following are Quora’s policies for writing answers:
+
+* Answers should respond to the question asked.
+* A user should **disclose any** [relevant affiliations](https://help.quora.com/hc/en-us/articles/360055133711) explicitly in an answer or in the [credential](https://help.quora.com/hc/en-us/articles/115005507963) that appears with the answer. Affiliate links are not allowed.
+* Self-promotional links or self-promotion that does not form a part of a direct and helpful response to the question is not allowed.
+* The gist of the answer should be able to be understood without having to leave Quora to access an external website. Answers that cannot be understood without navigating to an external site and appear to be doing so for promotional purposes may be collapsed and/or removed.
+
+What is Quora's policy on adding images and videos?
+===================================================
+
+Official Quora Account
+
+* 2022-09-27T20:21:17Z
+
+The following is Quora's policy on adding images and videos to answers, posts, comments, topic pages, user profiles, and other areas of the site:  
+  
+**Adult Media**
+
+Adult images and videos (including graphic violence and sex-related media) are only allowed on adult Spaces and pages involving adult topics and which have been tagged with the appropriate Quora Adult topic(s) (e.g., [Specific Types of Adult Content](https://www.quora.com/topic/Specific-Types-of-Content "www.quora.com"), [Sex](https://www.quora.com/topic/Sex "www.quora.com") and/or other topics). This will [limit the distribution](https://help.quora.com/hc/en-us/articles/360000839663 "www.quora.com") to users who have actively opted in to seeing such content.  
+  
+Because user [profile pictures](https://help.quora.com/hc/en-us/articles/115004231606 "www.quora.com"), Space icons/cover photos, and topic images appear throughout the site, sex-related image content is _not_ permitted in these areas.  
+  
+**Graphic Violence**
+
+Images and videos of extreme graphic violence (or links to such images/videos) are only allowed if (1) they are clearly helpful and necessary to the answer, and (2) they do not glorify violence. Questions that specifically ask for pictures of graphic violence must have the [Adult Content on Quora](https://www.quora.com/topic/Adult-Content-on-Quora-1 "www.quora.com") topic tag applied.
+
+What is Quora's policy on credentials?
+======================================
+
+Official Quora Account
+
+* 2022-09-27T20:19:52Z
+
+Please note that this policy does not apply to Quora [Spaces](https://help.quora.com/hc/en-us/articles/360020402511-Spaces-Frequently-Asked-Questions). To learn more about our policies for Spaces & Space content, please see: [Spaces Policies](https://help.quora.com/hc/en-us/articles/360043961972)
+
+Profile and topic [credentials](https://help.quora.com/hc/en-us/articles/115005507963) are short descriptions of your expertise, experience, or interests that are shown next to your name on answers. Credentials must be true and helpful.
+
+A good credential helps:
+
+* Others understand who you are and why you're a good person to answer the question
+* Others decide which questions to [ask you to answer](https://help.quora.com/hc/en-us/articles/360057977972 "www.quora.com")
+* Your answers get more views
+
+Topic credentials should:
+
+* Be true, helpful, and describe a personal connection to a topic, in a way that an average reader can understand
+* Be understandable without the topic name
+
+* "Seen hundreds of movies" is a good bio for Movies, but "Seen hundreds of them" is not. People don't see the topic name next to bios. In a question about Operas and Movies, "them" is ambiguous
+* "10 years living in the Bay Area" is a good credential for the San Francisco Bay Area topic, but "lived here" is ambiguous.
+
+* Describe your expertise, experience, or interest in the topic
+
+* Expertise: "Director of Pulp Fiction"
+* Experience: "Seen hundreds of movies at film festivals"
+* Interest: "Loves watching Christopher Nolan's films"
+
+Profile credentials should:
+
+* Be true, helpful, and describe a personal connection to at least one topic area which a person could write about
+* Can be a general description of your expertise, experience, or interests
+
+* "Artist and novelist from the Pacific Northwest"
+* "Theoretical physicist, American expat in Germany"
+
+* Personal descriptions, statements of values, and/or personal philosophies are acceptable only if they relate to a specific topic area
+
+Credentials that don't meet the above criteria will be flagged by Quora Moderation and hidden until the user edits and improves them. If you think your credential adheres to the above policy and has been wrongly hidden, please use this [contact form](https://help.quora.com/hc/en-us/requests/new?ticket_form_id=198746) to submit your appeal.
+
+What is Quora's policy for posting reviews of businesses, products, or services?
+================================================================================
+
+Official Quora Account
+
+* 2022-09-27T20:16:45Z
+
+Please note that this policy does not apply to Quora [Spaces](https://help.quora.com/hc/en-us/articles/360020402511-Spaces-Frequently-Asked-Questions). To learn more about our policies for Spaces & Space content, please see: [Spaces Policies](https://help.quora.com/hc/en-us/articles/360043961972)
+
+Reviews are inputs about one's experience with a business, product, or service. Reviews can be a source of valuable information that can help people evaluate and make better choices for their own situation.
+
+In order to provide the most useful experience to others, reviews on Quora:
+
+1. Should state the basis for any opinions expressed
+2. Should be based on the writer's actual experience
+3. Should disclose if the writer is affiliated with the party being reviewed or a competitor, or received monetary compensation or other reward for posting
+
+Quora may remove reviews that do not meet these guidelines.
+
+What is Quora's policy on disclosing affiliations in answers?
+=============================================================
+
+Official Quora Account
+
+* 2022-09-27T20:25:32Z
+
+Please note that this policy does not apply to Quora [Spaces](https://help.quora.com/hc/en-us/articles/360020402511-Spaces-Frequently-Asked-Questions). To learn more about our policies for Spaces & Space content, please see: [Spaces Policies](https://help.quora.com/hc/en-us/articles/360043961972)
+
+A user should **disclose any relevant affiliations** explicitly in an answer or in the [credential](https://help.quora.com/hc/en-us/articles/115005507963) that appears with the answer.
+
+For example, if a user writes an answer about his own company or product, the answer (or [answer credential](https://help.quora.com/hc/en-us/articles/360015675451 "www.quora.com")) should make clear the user's affiliation with the company. This disclosure can be brief and does not need to be set off separately, as long as it is clear.
+
+A relevant affiliation is **any involvement that a reasonable observer would think is important for interpreting the views that the user expresses in an answer**. Affiliations can include: financial interests and investments; memberships (e.g., being an alumnus of a school or a member of a club), or a personal history relevant to the answer (e.g., you are involved in a lawsuit with the company you are writing about). The general rule in close cases is: when in doubt as to whether an affiliation is relevant, a user should disclose it.
+
+Otherwise, answers about something the writer is affiliated with are held to the same standards of helpfulness, explanation, and accuracy as other answers on the site.
+
+What is Quora's policy on plagiarism and attribution?
+=====================================================
+
+Official Quora Account
+
+* 2022-09-27T20:24:35Z
+
+Please note that this policy does not apply to Quora [Spaces](https://help.quora.com/hc/en-us/articles/360020402511-Spaces-Frequently-Asked-Questions). To learn more about our policies for Spaces & Space content, please see: [Spaces Policies](https://help.quora.com/hc/en-us/articles/360043961972)
+
+Answers and posts that copy or paraphrase content from other sources should:
+
+* **Explicitly attribute the source.** If the source is online, you should include a link to the page where the content can be found. If it is a physical source (e.g., a book), you should include a citation.
+* **Clearly indicate which portions of the text are copied from another source.** Format using blockquotes, quotes, or otherwise visually indicate which portions are taken from elsewhere.
+
+Quora's strong preference is for people to use blockquote formatting for long excerpts. If you are republishing your own content from another site, you may omit blockquote formatting and cite the original publication at the end of your answer/post.  
+   
+Answers and posts that plagiarize content from other sources will be collapsed. Note that repeatedly posting the same answer to multiple questions will be considered spam, particularly if the answer isn't customized for each question. To learn more about Quora's spam policy, click [here](https://help.quora.com/hc/en-us/articles/360000470706-Platform-Policies).   
+   
+**Other content**  
+Topic and Space descriptions, as well as other community-editable descriptions on Quora, should be predominantly original and should not copy-and-paste from other sites (e.g., Wikipedia).  
+   
+Plagiarizing content is considered a serious policy violation on Quora and will be treated as such in considering moderation action against writers who violate the policy. Quora may ban people who repeatedly violate this policy.
+
+What is considered ‘Adult’ content on Quora?
+============================================
+
+Official Quora Account
+
+* 2022-09-02T22:53:52Z
+
+Quora defines adult content as any content (e.g., writing, imagery, or video) that is pornographic, depicts a sexual act, or is otherwise overtly sexual. Below are some examples of adult content:
+
+**Examples of content that is considered adult:**
+
+* Videos of intercourse or sexual acts
+* Depictions of sexual acts, including anime or cartoon depictions or sex scene captures from movies, regardless of nudity being displayed
+* Provocative, sexually explicit content including sexual fetishes or graphic language that is not educational in nature (e.g., detailed descriptions of performing sexual acts)
+* Nudity, such as images of nude adults, without an educational or newsworthy purpose
+* Sexually explicit or suggestive jokes
+* Images that focus only on intimate body parts (e.g. the crotch) even if clothed
+* Non-educational discussion of pornographic websites
+
+**Examples of content that is _not_ considered adult:**
+
+* Videos of breasts with post-mastectomy scarring, a parent breastfeeding their child
+* Artwork that contains nudity including paintings, sculptures, and photographs that have artistic merit and whose primary purpose isn’t to create sexual arousal
+* Tribal nudity - for example, uncontacted people of the Amazon shared for educational purpose.
+* Discussions of puberty or sexual education
+* Testimonies from victims of sexual violence
+* Broad discussion about sex industries using academic terms
+
+**Examples of Spaces that are considered adult:**
+
+* Spaces explicitly tagged as adult
+* Spaces about sex work, images of nude adults, pornographic content and how to obtain any of the aforementioned
+* Spaces that encourage posting, sharing, or viewing of sexually explicit content via the Space name, description, and/or details, including by using keywords such as "hot", "sexy", "alluring", "sultry", "jaw-dropping"
+* Spaces containing several posts that are ‘adult’
+* Spaces predominantly dedicated to sharing sexually explicit humor
+
+**Examples of Spaces that are not considered adult:**
+
+* Spaces where women are discussing breast feeding tips and best practices
+* Spaces offering support for victims of sexual violence
+
+How does Quora intend to enforce the "Not for Reproduction" feature?
+====================================================================
+
+Official Quora Account
+
+* 2021-02-12T22:49:26Z
+
+You can enforce this the same way you'd enforce someone copying a blog post you wrote on a personal blog.
+
+Quora's goal with the "Not for Reproduction" clause is just to give users the right to opt out of the default case and prevent reproduction of their content outside of Quora.
+
+If someone copies your content and somehow isn't able to stop a hosting provider from distributing it (as in the case of a website which they are not an admin) you could send the hosting provider a DMCA (Digital Millenia Copyright Act) takedown notice - this will legally obligate the hosting provider to take the content down. Please note that a DMCA claim only applies when the hosting provider is located within the United States.
