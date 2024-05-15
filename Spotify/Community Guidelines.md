@@ -137,3 +137,10 @@ How can I report an issue?
 Have you found an issue with a piece of content on Spotify? If so please let us know by reporting it .
 
 Was this article helpful?
+
+Need more help?
+---------------
+
+Visit our help community to get answers from expert fans!
+
+[Search or ask in Community](https://community.spotify.com/t5/Spotify-Answers/tkb-p/Spotify-Answers)
