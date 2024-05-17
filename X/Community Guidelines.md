@@ -364,7 +364,7 @@ We recognize that if people experience abuse on X, it can jeopardize their abili
 
 We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
 
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
+If you see something on X that you believe violates this policy, please [report it to us](https://help.x.com/en/forms/safety-and-sensitive-content/abuse.html).
 
 ### What is in violation of this policy?  
 
@@ -386,7 +386,7 @@ We prohibit inciting behavior that targets individuals or groups of people belon
 * inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
 * inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
 
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.x.com/en/rules-and-policies/violent-speech.html).
 
 **Slurs and Tropes**  
   
@@ -441,9 +441,9 @@ When determining the penalty for violating this policy, we consider a number of 
     * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
 * Suspending accounts that violate our Hateful Profile policy.
 
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
+Learn more about our [range of enforcement options](https://help.x.com/en/rules-and-policies/enforcement-options.html). 
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
+If someone believes their account was suspended in error, they can [submit an appeal](https://help.x.com/en/forms/account-access/appeals.html).
 
 Perpetrators of Violent Attacks
 ===============================
@@ -470,7 +470,7 @@ We define a manifesto as a statement by a perpetrator outlining their motivation
 
 **Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
 
-Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
+Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.x.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
 
 Suicide and Self-harm policy
 ============================
@@ -665,7 +665,7 @@ Adult Nudity and Sexual Behavior is any consensually produced and distributed me
 **Note:** exceptions may be made for artistic, medical, health, or educational content.   
   
 
-For content that was created or distributed without the consent of those featured, please refer to our [non-consensual nudity policy](https://help.twitter.com/en/rules-and-policies/intimate-media.html).   
+For content that was created or distributed without the consent of those featured, please refer to our [non-consensual nudity policy](https://help.x.com/en/rules-and-policies/intimate-media.html).   
   
 
 **Violent Sexual Conduct**
@@ -691,7 +691,7 @@ Gratuitous Gore is any media that depicts excessively graphic or gruesome conten
 
 **Note:** exceptions may be made for religious sacrifice, food preparation or processing, and hunting. 
 
-**For deceased individuals, please refer to our [Deceased individuals policy](https://help.twitter.com/en/rules-and-policies/contact-twitter-about-media-on-a-deceased-family-members-account.html).**
+**For deceased individuals, please refer to our [Deceased individuals policy](https://help.x.com/en/rules-and-policies/contact-twitter-about-media-on-a-deceased-family-members-account.html).**
 
 ### What is in violation of this policy?
 
@@ -757,7 +757,7 @@ The enforcement action we take depends on the type of media you have shared, and
 If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
 
   
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+Learn more about [our range of enforcement options](https://help.x.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.x.com/en/rules-and-policies/enforcement-philosophy.html).
 
 Illegal or certain regulated goods or services
 ==============================================
@@ -993,7 +993,7 @@ December 2021**
 
 **You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
 
-Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.x.com/en/rules-and-policies/twitter-rules.html). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
   
 
 ### What is a violation of this policy?
@@ -1071,7 +1071,7 @@ You can report this content for review via desktop as follows:
 
 **Report form**  
 
-You can also report this content via [our private information report form](https://help.twitter.com/en/forms/safety-and-sensitive-content/private-information.html), by selecting the **An unauthorized photo or video** option.  
+You can also report this content via [our private information report form](https://help.x.com/en/forms/safety-and-sensitive-content/private-information.html), by selecting the **An unauthorized photo or video** option.  
  
 
 ### What happens if you violate this policy?
@@ -1079,13 +1079,13 @@ You can also report this content via [our private information report form](https
   
 We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
 
-In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).  
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.x.com/en/forms/account-access/appeals.html).  
   
 
 ### Additional resources
 
   
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+Learn more about [our range of enforcement options](https://help.x.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.x.com/en/rules-and-policies/enforcement-philosophy.html).
 
 Platform manipulation and spam policy
 =====================================
@@ -1104,7 +1104,7 @@ Platform manipulation can take many forms and our rules are intended to address 
 * commercially-motivated spam, that typically aims to drive traffic or attention from a conversation on X to accounts, websites, products, services, or initiatives;
 * inauthentic engagements, that attempt to make accounts or content appear more popular or active than they are;
 * coordinated activity, that attempts to artificially influence conversations through the use of multiple accounts, fake accounts, automation and/or scripting;
-* coordinated harmful activity that encourages or promotes behavior which violates [Our Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html); and
+* coordinated harmful activity that encourages or promotes behavior which violates [Our Rules](https://help.x.com/en/rules-and-policies/twitter-rules.html); and
 * leveraging X's open source code to circumvent remediations or platform defenses.
 
 Civic integrity policy
@@ -1165,7 +1165,7 @@ You may not engage in or promote behaviors that may coerce others to refrain fro
 
 **False or misleading affiliation**
 
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.x.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
 
 **What is not a violation of this policy?**
 
@@ -1242,14 +1242,14 @@ Using another’s trademark in a way that may mislead or confuse people about yo
 Referencing another’s trademark is not automatically a violation of X's trademark policy. Examples of non-violations include:
 
 * using a trademark in a way that is outside the scope of the trademark registration e.g., in a different territory, or a different class of goods or services than that identified in the registration; and
-* using a trademark in a nominative or other fair use manner. For more information, see our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).[](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html)
+* using a trademark in a nominative or other fair use manner. For more information, see our [Misleading and deceptive identities policy](https://help.x.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).[](https://help.x.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html)
 
 Username squatting policy
 =========================
 
-Username squatting is prohibited by the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html).
+Username squatting is prohibited by the [X Rules](https://help.x.com/en/rules-and-policies/twitter-rules.html).
 
-Please note that if an account has had no updates, no profile image, and there is no intent to mislead, it typically means there's no name-squatting or impersonation. Note that we will not release squatted usernames except in cases of trademark infringement. If your report involves [trademark infringement](https://help.twitter.com/en/rules-and-policies/twitter-trademark-policy.html), please consult those policies for instructions for reporting these accounts.   
+Please note that if an account has had no updates, no profile image, and there is no intent to mislead, it typically means there's no name-squatting or impersonation. Note that we will not release squatted usernames except in cases of trademark infringement. If your report involves [trademark infringement](https://help.x.com/en/rules-and-policies/twitter-trademark-policy.html), please consult those policies for instructions for reporting these accounts.   
 
 Attempts to sell, buy, or solicit other forms of payment in exchange for usernames are also violations and may result in permanent account suspension.
 
@@ -1450,7 +1450,7 @@ Read more about our [platform manipulation and spam](https://help.twitter.com/ru
 Abusive profile information
 ===========================
 
-**[X Rules:](https://help.twitter.com/en/rules-and-policies/twitter-rules.html#hateful-conduct)** You may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.  
+**[X Rules:](https://help.x.com/en/rules-and-policies/twitter-rules.html#hateful-conduct)** You may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.  
  
 
 ### Rationale  
@@ -1478,7 +1478,7 @@ No, we review both first-person and bystander reports of such content.
 
 If an account’s profile information includes any of the abusive behaviors listed above, we will permanently suspend the account on first violation.  
 
-If an account uses a hateful symbol in its profile information, the account-holder will be required to remove the symbol before they can use their account again. Repeated violations will lead to permanent suspension. For more information on how we handle hateful imagery and symbols, see our [media policy](https://help.twitter.com/en/rules-and-policies/media-policy.html).  
+If an account uses a hateful symbol in its profile information, the account-holder will be required to remove the symbol before they can use their account again. Repeated violations will lead to permanent suspension. For more information on how we handle hateful imagery and symbols, see our [media policy](https://help.x.com/en/rules-and-policies/media-policy.html).  
 
 If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
 
@@ -1535,12 +1535,12 @@ The post limit of 2,400 updates per day is further broken down into semi-hourly 
 
 ### Having trouble? 
 
-If you've hit a follow limit, please see this [follow limit troubleshooting](https://help.twitter.com/en/using-twitter/twitter-follow-limit.html) article for more information.
+If you've hit a follow limit, please see this [follow limit troubleshooting](https://help.x.com/en/using-twitter/twitter-follow-limit.html) article for more information.
 
 About specific instances when a post’s reach may be limited
 ===========================================================
 
-People may express themselves on X as long as they do not violate our [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). **We do not block, limit, or remove content based on an individual’s views or opinions. In some situations, your post may not be seen by everyone, as outlined below:**   
+People may express themselves on X as long as they do not violate our [X Rules](https://help.x.com/en/rules-and-policies/twitter-rules.html). **We do not block, limit, or remove content based on an individual’s views or opinions. In some situations, your post may not be seen by everyone, as outlined below:**   
 
 **1\. Violation of the X Rules**
 
@@ -1570,7 +1570,7 @@ We are constantly running experiments on X which may limit the reach of certain 
 
 **5\. Legal, quality, and technical issues**
 
-We may limit a post’s reach if it violates our [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) or applicable laws, or is determined to be low quality. For more information on instances where we may withhold a post in a specific country, please see this Help Center [article](https://help.twitter.com/en/safety-and-security/tweet-withheld-by-country.html).  
+We may limit a post’s reach if it violates our [X Rules](https://help.x.com/en/rules-and-policies/twitter-rules.html) or applicable laws, or is determined to be low quality. For more information on instances where we may withhold a post in a specific country, please see this Help Center [article](https://help.x.com/en/safety-and-security/tweet-withheld-by-country.html).  
 
 Some people report issues related to their posts not appearing on X or their replies detaching from an original post that happen outside of enforcement actions and safety features. These cases may be the result of a post being identified as spam by our systems or may be due to some current technical issues and limitations of the service. We use @Support to update the community about technical issues like these.
 
@@ -1735,9 +1735,9 @@ Copyright policy
 
 X responds to copyright complaints submitted under the Digital Millennium Copyright Act (“DMCA”). Section 512 of the DMCA outlines the statutory requirements necessary for formally reporting copyright infringement, as well as providing instructions on how an affected party can appeal a removal by submitting a compliant counter-notice.
 
-X will respond to reports of alleged copyright infringement, such as allegations concerning the unauthorized use of a copyrighted image as a profile or header photo, allegations concerning the unauthorized use of a copyrighted video or image uploaded through our media hosting services, or posts containing links to allegedly infringing materials. Note that not all unauthorized uses of copyrighted materials are infringements (see our [fair use](https://help.twitter.com/en/rules-and-policies/fair-use-policy.html) article for more information).
+X will respond to reports of alleged copyright infringement, such as allegations concerning the unauthorized use of a copyrighted image as a profile or header photo, allegations concerning the unauthorized use of a copyrighted video or image uploaded through our media hosting services, or posts containing links to allegedly infringing materials. Note that not all unauthorized uses of copyrighted materials are infringements (see our [fair use](https://help.x.com/en/rules-and-policies/fair-use-policy.html) article for more information).
 
-If you are concerned about the use of your brand or entity’s name, please review [Twitter’s trademark policy](https://help.twitter.com/en/rules-and-policies/twitter-trademark-policy.html). If you are concerned about a parody, newsfeed, commentary, or fan account, please see the relevant policy [here](https://help.twitter.com/en/rules-and-policies/parody-account-policy.html). These are generally not copyright issues.
+If you are concerned about the use of your brand or entity’s name, please review [Twitter’s trademark policy](https://help.x.com/en/rules-and-policies/twitter-trademark-policy.html). If you are concerned about a parody, newsfeed, commentary, or fan account, please see the relevant policy [here](https://help.x.com/en/rules-and-policies/parody-account-policy.html). These are generally not copyright issues.
 
 #### Am I a copyright holder? How do I know?
 
@@ -1745,7 +1745,7 @@ If you are unsure whether you hold rights to a particular work, please consult a
 
 #### What to consider before submitting a copyright complaint
 
-Before submitting a copyright complaint to us, please consider whether or not the use could be considered [fair use](https://help.twitter.com/en/rules-and-policies/fair-use-policy.html). 
+Before submitting a copyright complaint to us, please consider whether or not the use could be considered [fair use](https://help.x.com/en/rules-and-policies/fair-use-policy.html). 
 
 If you have considered fair use, and you still wish to continue with a copyright complaint, you may want to first reach out to the user in question to see if you can resolve the matter directly with the user. You can reply to the user’s post or send the user a Direct Message and ask for them to remove your copyrighted content without having to contact X. 
 
@@ -1765,7 +1765,7 @@ To submit a notice of claimed copyright infringement, you will need to provide u
 6. A statement that the information in the complaint is accurate, and, under penalty of perjury, that you are authorized to act on behalf of the copyright owner.  
      
 
-If you are reporting the content of a post, please give us a [direct link](https://help.twitter.com/en/using-twitter/tweet-and-moment-url.html) to that post. Or please specify if the alleged infringement is in the header, avatar, etc. A LINK TO A PROFILE PAGE IS INSUFFICIENT FOR X TO IDENTIFY INFRINGING MATERIALS.
+If you are reporting the content of a post, please give us a [direct link](https://help.x.com/en/using-twitter/tweet-and-moment-url.html) to that post. Or please specify if the alleged infringement is in the header, avatar, etc. A LINK TO A PROFILE PAGE IS INSUFFICIENT FOR X TO IDENTIFY INFRINGING MATERIALS.
 
 #### How do I file a copyright complaint?
 
@@ -1810,7 +1810,7 @@ Tip: Removing the material reported in a copyright complaint will not resolve th
 #### What if I want to contest the takedown?
 
 If you believe that the materials reported in the copyright complaints  
-were misidentified or removed in error, you may send us a [counter-notification(s)](https://help.twitter.com/en/forms/ipi/dmca-counternotice.html) through our Help Center. A counter-notice is a request for X to reinstate the removed material, and it has legal consequences. Alternatively, you may be able to seek a retraction of the copyright complaint from the reporter.
+were misidentified or removed in error, you may send us a [counter-notification(s)](https://help.x.com/en/forms/ipi/dmca-counternotice.html) through our Help Center. A counter-notice is a request for X to reinstate the removed material, and it has legal consequences. Alternatively, you may be able to seek a retraction of the copyright complaint from the reporter.
 
 #### How do I seek a retraction?
 
@@ -1869,4 +1869,4 @@ Our approach to policy development and enforcement philosophy
 
 X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
 
-We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
+We have the [X Rules](https://help.x.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
