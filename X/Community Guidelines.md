@@ -665,7 +665,7 @@ Adult Nudity and Sexual Behavior is any consensually produced and distributed me
 **Note:** exceptions may be made for artistic, medical, health, or educational content.   
   
 
-For content that was created or distributed without the consent of those featured, please refer to our [non-consensual nudity policy](https://help.twitter.com/en/rules-and-policies/intimate-media.html).   
+For content that was created or distributed without the consent of those featured, please refer to our [non-consensual nudity policy](https://help.x.com/en/rules-and-policies/intimate-media.html).   
   
 
 **Violent Sexual Conduct**
@@ -691,7 +691,7 @@ Gratuitous Gore is any media that depicts excessively graphic or gruesome conten
 
 **Note:** exceptions may be made for religious sacrifice, food preparation or processing, and hunting. 
 
-**For deceased individuals, please refer to our [Deceased individuals policy](https://help.twitter.com/en/rules-and-policies/contact-twitter-about-media-on-a-deceased-family-members-account.html).**
+**For deceased individuals, please refer to our [Deceased individuals policy](https://help.x.com/en/rules-and-policies/contact-twitter-about-media-on-a-deceased-family-members-account.html).**
 
 ### What is in violation of this policy?
 
@@ -757,7 +757,7 @@ The enforcement action we take depends on the type of media you have shared, and
 If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
 
   
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+Learn more about [our range of enforcement options](https://help.x.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.x.com/en/rules-and-policies/enforcement-philosophy.html).
 
 Illegal or certain regulated goods or services
 ==============================================
@@ -1535,7 +1535,7 @@ The post limit of 2,400 updates per day is further broken down into semi-hourly 
 
 ### Having trouble? 
 
-If you've hit a follow limit, please see this [follow limit troubleshooting](https://help.x.com/en/using-twitter/twitter-follow-limit.html) article for more information.
+If you've hit a follow limit, please see this [follow limit troubleshooting](https://help.twitter.com/en/using-twitter/twitter-follow-limit.html) article for more information.
 
 About specific instances when a post’s reach may be limited
 ===========================================================
@@ -1869,4 +1869,4 @@ Our approach to policy development and enforcement philosophy
 
 X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
 
-We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
+We have the [X Rules](https://help.x.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
