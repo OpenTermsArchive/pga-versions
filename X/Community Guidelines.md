@@ -665,7 +665,7 @@ Adult Nudity and Sexual Behavior is any consensually produced and distributed me
 **Note:** exceptions may be made for artistic, medical, health, or educational content.   
   
 
-For content that was created or distributed without the consent of those featured, please refer to our [non-consensual nudity policy](https://help.x.com/en/rules-and-policies/intimate-media.html).   
+For content that was created or distributed without the consent of those featured, please refer to our [non-consensual nudity policy](https://help.twitter.com/en/rules-and-policies/intimate-media.html).   
   
 
 **Violent Sexual Conduct**
@@ -691,7 +691,7 @@ Gratuitous Gore is any media that depicts excessively graphic or gruesome conten
 
 **Note:** exceptions may be made for religious sacrifice, food preparation or processing, and hunting. 
 
-**For deceased individuals, please refer to our [Deceased individuals policy](https://help.x.com/en/rules-and-policies/contact-twitter-about-media-on-a-deceased-family-members-account.html).**
+**For deceased individuals, please refer to our [Deceased individuals policy](https://help.twitter.com/en/rules-and-policies/contact-twitter-about-media-on-a-deceased-family-members-account.html).**
 
 ### What is in violation of this policy?
 
@@ -757,7 +757,7 @@ The enforcement action we take depends on the type of media you have shared, and
 If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
 
   
-Learn more about [our range of enforcement options](https://help.x.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.x.com/en/rules-and-policies/enforcement-philosophy.html).
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
 
 Illegal or certain regulated goods or services
 ==============================================
@@ -993,7 +993,7 @@ December 2021**
 
 **You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
 
-Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.x.com/en/rules-and-policies/twitter-rules.html). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
   
 
 ### What is a violation of this policy?
@@ -1071,7 +1071,7 @@ You can report this content for review via desktop as follows:
 
 **Report form**  
 
-You can also report this content via [our private information report form](https://help.x.com/en/forms/safety-and-sensitive-content/private-information.html), by selecting the **An unauthorized photo or video** option.  
+You can also report this content via [our private information report form](https://help.twitter.com/en/forms/safety-and-sensitive-content/private-information.html), by selecting the **An unauthorized photo or video** option.  
  
 
 ### What happens if you violate this policy?
@@ -1079,13 +1079,13 @@ You can also report this content via [our private information report form](https
   
 We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
 
-In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.x.com/en/forms/account-access/appeals.html).  
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).  
   
 
 ### Additional resources
 
   
-Learn more about [our range of enforcement options](https://help.x.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.x.com/en/rules-and-policies/enforcement-philosophy.html).
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
 
 Platform manipulation and spam policy
 =====================================
@@ -1579,7 +1579,7 @@ If you notice other instances where posts are not appearing, we encourage you to
 Our range of enforcement options
 ================================
 
-When we take enforcement actions, we may do so either on a specific piece of content (e.g., an individual post or Direct Message), on an account, or employ a combination of these options. In some instances, this is because the behavior violates the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Other times, it may be in response to a valid legal request from an authorized entity in a given country. Below are some of the enforcement actions that we may take.  
+When we take enforcement actions, we may do so either on a specific piece of content (e.g., an individual post or Direct Message), on an account, or employ a combination of these options. In some instances, this is because the behavior violates the [X Rules](https://help.x.com/en/rules-and-policies/twitter-rules.html). Other times, it may be in response to a valid legal request from an authorized entity in a given country. Below are some of the enforcement actions that we may take.  
  
 
 **Post-level enforcement**
@@ -1605,11 +1605,11 @@ A few of the ways in which we might take action at the post level include:
 
 Authors will be able to submit an appeal on the label if they think we incorrectly limited their post’s visibility. 
 
-**Requiring post removal:**  When we determine that a post violated the X Rules and the violation is severe enough to warrant post removal, we will require the violator to remove it before they can post again. They will need to go through the process of removing the violating post or [appealing](https://help.twitter.com/en/forms/account-access/appeals.html) our removal request if they believe we made an error. The post will be hidden from public view with a [notice](https://help.twitter.com/en/rules-and-policies/notices-on-x.html) during this process. 
+**Requiring post removal:**  When we determine that a post violated the X Rules and the violation is severe enough to warrant post removal, we will require the violator to remove it before they can post again. They will need to go through the process of removing the violating post or [appealing](https://help.x.com/en/forms/account-access/appeals.html) our removal request if they believe we made an error. The post will be hidden from public view with a [notice](https://help.x.com/en/rules-and-policies/notices-on-x.html) during this process. 
 
-**Labeling a post:** If we determine a post contains misleading or disputed information per our policies that could potentially lead to harm, we may [add a label](https://help.twitter.com/en/rules-and-policies/notices-on-x.html) to the content to provide context and additional information to users. In these cases, [Community Notes](https://help.twitter.com/en/using-twitter/community-notes.html) may also be visible on posts to provide additional context.
+**Labeling a post:** If we determine a post contains misleading or disputed information per our policies that could potentially lead to harm, we may [add a label](https://help.x.com/en/rules-and-policies/notices-on-x.html) to the content to provide context and additional information to users. In these cases, [Community Notes](https://help.x.com/en/using-twitter/community-notes.html) may also be visible on posts to provide additional context.
 
-**Notice of public interest exception:** We may determine that it is in the public interest for a post that would otherwise be in violation of our rules to remain accessible on our service. When this occurs, we will place the post behind a notice and limit its visibility. [Learn more](https://help.twitter.com/en/rules-and-policies/public-interest.html) about the public interest exception.
+**Notice of public interest exception:** We may determine that it is in the public interest for a post that would otherwise be in violation of our rules to remain accessible on our service. When this occurs, we will place the post behind a notice and limit its visibility. [Learn more](https://help.x.com/en/rules-and-policies/public-interest.html) about the public interest exception.
 
 ### **Direct Message-level enforcement**
 
@@ -1626,16 +1626,16 @@ We take action to suspend an account if we determine that a user has engaged in 
 
 **Verifying account ownership:** We may require an account owner to verify ownership with a phone number or email address. Note that when an account has been locked pending completion of a challenge (such as being required to provide a phone number), it is removed from follower counts, Reposts, and Likes.
 
-Users can appeal account suspensions if they believe we made an error. They can do this through the platform interface or by [filing a report](https://help.twitter.com/en/forms/account-access/appeals.html).  
+Users can appeal account suspensions if they believe we made an error. They can do this through the platform interface or by [filing a report](https://help.x.com/en/forms/account-access/appeals.html).  
   
 
 ### Actions we may take against non-violating content
 
-**Placing a post behind a notice:** We may place some forms of [sensitive media](https://help.twitter.com/en/rules-and-policies/media-policy.html) like adult content or graphic violence behind an interstitial advising viewers to be aware that they will see sensitive media if they click through. Learn more about [how to control whether you see sensitive media](https://help.twitter.com/en/safety-and-security/sensitive-media.html).
+**Placing a post behind a notice:** We may place some forms of [sensitive media](https://help.x.com/en/rules-and-policies/media-policy.html) like adult content or graphic violence behind an interstitial advising viewers to be aware that they will see sensitive media if they click through. Learn more about [how to control whether you see sensitive media](https://help.x.com/en/safety-and-security/sensitive-media.html).
 
-**Withholding a post based on age:** We restrict views of specific forms of sensitive media such as adult content for viewers who are under 18 or viewers who do not include a birth date on their profile with [interstitials](https://help.twitter.com/en/rules-and-policies/notices-on-x.html). 
+**Withholding a post based on age:** We restrict views of specific forms of sensitive media such as adult content for viewers who are under 18 or viewers who do not include a birth date on their profile with [interstitials](https://help.x.com/en/rules-and-policies/notices-on-x.html). 
 
-**Withholding a post or account in a country:** We may withhold access to certain content in a particular country if we receive a valid and properly scoped request from an authorized entity in that country. Read more about [country withheld content](https://help.twitter.com/en/rules-and-policies/tweet-withheld-by-country.html).
+**Withholding a post or account in a country:** We may withhold access to certain content in a particular country if we receive a valid and properly scoped request from an authorized entity in that country. Read more about [country withheld content](https://help.x.com/en/rules-and-policies/tweet-withheld-by-country.html).
 
 X Moments guidelines and principles
 ===================================
@@ -1869,4 +1869,4 @@ Our approach to policy development and enforcement philosophy
 
 X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
 
-We have the [X Rules](https://help.x.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
+We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
