@@ -1,13 +1,14 @@
 Bluesky App Privacy Policy
 ==========================
 
-#### Last Updated: February 5, 2024
+#### Last Updated: May 22, 2024
 
 Bluesky’s app is a microblogging app and service ("the **Bluesky App**") that runs on the Authenticated Transfer Protocol (**“AT Protocol”**). A summary of our privacy practices for the Bluesky App is immediately below. You can read on for more detail. You can review the Bluesky AT Protocol Network Services Privacy Notice [here](https://bsky.social/about/support/network-services-privacy-policy).
 
 **Overview**
 
 * **Profiles and Posts Are Public**. The Bluesky App is a microblogging service for public conversation, so any information you add to your public profile and the information you post on the Bluesky App is public.
+* **Direct Messages Are Private**. Content you sent to another Bluesky user through Direct Messages is private between you and the user(s). If you’ve shared this information through a third-party service, the information may be visible to them.
 * **Updates.** We may update this Privacy Notice from time to time. We will post these changes on the Site or in the Bluesky App. We may also send you other notifications about these updates.
 * **Personal Information We Collect**. We collect personal information such as your email and birth date when you provide it to us, when we collect it automatically through your use of the Bluesky App Services (as defined in the Privacy Notice below), or when third parties provide it to us.
 * **How We Use Personal Information**. We may use your personal information: (1) to provide the Bluesky App Services; (2) for administrative purposes such as to improve the Bluesky App; (3) for marketing purposes; (4) with your consent; and (5) for other permissible purposes as requested by you or as allowed under applicable law.
@@ -32,17 +33,18 @@ The Bluesky App runs on the AT Protocol. For information on how the AT Protocol 
 **An Important Note**: This Privacy Notice only applies to the Bluesky App Services and does not apply to other social media and microblogging applications (each, a “**Developer Application**”) that operate on the AT Protocol. These Developer Applications may have their own privacy policies, which we encourage you to review before using them.
 
 1. [1\. PROFILES AND POSTS ARE PUBLIC](#profile-posts-public)
-2. [2\. UPDATES TO THIS PRIVACY NOTICE](#updates)
-3. [3\. PERSONAL INFORMATION WE COLLECT](#personal-information-collect)
-4. [4\. HOW WE USE PERSONAL INFORMATION](#personal-information-use)
-5. [5\. HOW WE SHARE PERSONAL INFORMATION](#personal-information-share)
-6. [6\. YOUR PRIVACY CHOICES AND RIGHTS](#privacy-choices)
-7. [7\. INTERNATIONAL TRANSFERS OF PERSONAL INFORMATION](#international-transfers)
-8. [8\. HOW LONG WE KEEP PERSONAL INFORMATION](#personal-information-keep)
-9. [9\. SUPPLEMENTAL NOTICE FOR CERTAIN JURISDICTIONS](#supplement-jurisdiction)
-10. [10\. SECURITY](#security)
-11. [11\. CHILDREN’S PERSONAL INFORMATION](#children)
-12. [12\. CONTACT US](#contact)
+2. [2\. DIRECT MESSAGES ARE PRIVATE](#direct-messages)
+3. [3\. UPDATES TO THIS PRIVACY NOTICE](#updates)
+4. [4\. PERSONAL INFORMATION WE COLLECT](#personal-information-collect)
+5. [5\. HOW WE USE PERSONAL INFORMATION](#personal-information-use)
+6. [6\. HOW WE SHARE PERSONAL INFORMATION](#personal-information-share)
+7. [7\. YOUR PRIVACY CHOICES AND RIGHTS](#privacy-choices)
+8. [8\. INTERNATIONAL TRANSFERS OF PERSONAL INFORMATION](#international-transfers)
+9. [9\. HOW LONG WE KEEP PERSONAL INFORMATION](#personal-information-keep)
+10. [10\. SUPPLEMENTAL NOTICE FOR CERTAIN JURISDICTIONS](#supplement-jurisdiction)
+11. [11\. SECURITY](#security)
+12. [12\. CHILDREN’S PERSONAL INFORMATION](#children)
+13. [13\. CONTACT US](#contact)
 
   
 
@@ -50,26 +52,31 @@ The Bluesky App runs on the AT Protocol. For information on how the AT Protocol 
 
 If you create an account on the Bluesky App, any information you add to your public profile and the information you post on the Bluesky App will be public.
 
-3. **2\. UPDATES TO THIS PRIVACY NOTICE**
+3. **3\. DIRECT MESSAGES ARE PRIVATE**
+
+Content you sent to another Bluesky user through Direct Messages is private between you and the user(s). If you’ve shared this information through a third-party service, the information may be visible to them. DMs may be accessed by moderators when reported in-app, or by Bluesky Trust and Safety staff investigations into significant violations of the Community Guidelines.
+
+5. **3\. UPDATES TO THIS PRIVACY NOTICE**
 
 We may update this Privacy Notice from time to time at our sole discretion. If we do, we’ll let you know by posting the updated Privacy Notice on the Site, to the Bluesky App, and we may also send other communications.
 
-5. **3\. PERSONAL INFORMATION WE COLLECT**
+7. **4\. PERSONAL INFORMATION WE COLLECT**
 
 The types of personal information we collect depend on how you interact with us, the Bluesky App Services, and the requirements of applicable law.
 
-7. **A. Personal Information You Provide to Us Directly**
+9. **A. Personal Information You Provide to Us Directly**
 
 We collect personal information that you provide to us.
 
 * **Account Creation**. We collect personal information such as your email address, phone number, and username when you create an account with the Bluesky App.
 * **Your Communications with Us**. We may collect personal information, such as your name, email address, or phone number when you contact us.
 * **Your Posts**. The Bluesky App is a microblogging service that lets you post content and comment on other users’ posts. We collect your posts. Your posts and comments are public, so exercise care when deciding what to share.
+* **Your Direct Messages**. We store and process your direct messages in order to enable you to communicate directly and privately with other users on the Bluesky App. These are unencrypted and can be accessed for Trust and Safety purposes.
 * **Job Applications**. If you apply for a job with us, we will collect any personal information you provide with your application, such as your contact information and CV.
 * **Payment Information**. When you make a purchase, a third party service provider that handles payments for us will receive your payment card information.
 
   
-11. **B. Personal Information We Collect Automatically**
+13. **B. Personal Information We Collect Automatically**
 
 We may collect personal information automatically when you use the Bluesky App Services.
 
@@ -88,11 +95,11 @@ We may collect personal information automatically when you use the Bluesky App S
 * **Third Parties**. We may collect personal information from third parties. For example, you may direct a Developer Application or other third-party social networking application to share personal information with us.
 
   
-17. **4\. HOW WE USE PERSONAL INFORMATION**
+19. **5\. HOW WE USE PERSONAL INFORMATION**
 
 We use your personal information for a variety of business purposes, including to provide the Bluesky App Services, for administrative purposes, and to market the Bluesky App Services, as described below.
 
-19. **A. Provide Our Services**
+21. **A. Provide Our Services**
 
 We use personal information to fulfill our contract with you and provide you with the Bluesky App Services, such as:
 
@@ -101,7 +108,7 @@ We use personal information to fulfill our contract with you and provide you wit
 * Answering support requests; and
 * Communicating with you about your account, activities on the Bluesky App Services, and policy changes.
 
-22. **B. Administrative Purposes**
+24. **B. Administrative Purposes**
 
 We use personal information for various administrative purposes, such as:
 
@@ -117,42 +124,42 @@ We use personal information for various administrative purposes, such as:
 * Enforcing our agreements and policies; and
 * Carrying out activities that are required to comply with our legal obligations.
 
-25. **C. Marketing**
+27. **C. Marketing**
 
 We may use personal information to provide you with marketing. If you have any questions about our marketing practices, you may contact us using the information provided below.
 
-27. **D. With Your Consent**
+29. **D. With Your Consent**
 
 We may use personal information for other purposes that are clearly disclosed to you at the time you provide personal information or with your consent.
 
-29. **E. Other Purposes**
+31. **E. Other Purposes**
 
 We also use your personal information for other purposes as requested by you or as permitted by applicable law.
 
-31. **5\. HOW WE SHARE PERSONAL INFORMATION**
+33. **6\. HOW WE SHARE PERSONAL INFORMATION**
 
 We may disclose personal information to third parties for a variety of business purposes, including to provide the Bluesky App Services, to protect us or others, or in the event of a corporate transaction, as described below.
 
-33. **A. Sharing to Provide the Bluesky App Services**
+35. **A. Sharing to Provide the Bluesky App Services**
 
 The categories of third parties with whom we may share personal information are described below.
 
 * **Your Posts and Public Profile**. As noted above, the Bluesky App is a microblogging service. Your posts and profile are public.
-* **Other Users You Share or Interact With**. The Bluesky App may allow you to share personal information or interact with other users.
+* **Other Users You Share or Interact With**. The Bluesky App may allow you to share personal information, messages, or interact with other users.
 * **Third-Party Services You Share or Interact With**. The Bluesky App may link to or allow you to interface, interact, share information with, direct us to share information with, access and/or use third-party websites, applications, services, products, and technology (each a “**Third-Party Service**”). If you do, the information you share will be subject to the Third-Party Service’s privacy policy.  
     For example, if you request that your personal information be shared with another Developer Application, we may help facilitate that request.
 * **Service Providers**. We may share personal information with our third-party service providers and vendors. This includes service providers and vendors that provide us with IT support, hosting, payment processing, customer service, and related services.
 * **Business Partners**. We may share your personal information with our business partners to provide you with a product or service you have requested. We may also share your personal information with business partners with whom we jointly offer products or services.
 
-36. **B. Sharing to Protect Us or Others**
+38. **B. Sharing to Protect Us or Others**
 
 We may access, preserve, and disclose any information we store if we, in good faith, believe doing so is required or appropriate to: (i) comply with law enforcement or national security requests and legal process, such as a court order or subpoena; (ii) protect your, our, or others’ rights, property, or safety; (iii) enforce our policies or contracts; (iv) collect amounts owed to us; or (v) assist with an investigation or prosecution of suspected or actual illegal activity.
 
-38. **C. Sharing in the Event of Merger, Sale, or Other Asset Transfers**
+40. **C. Sharing in the Event of Merger, Sale, or Other Asset Transfers**
 
 If we are involved in a merger, acquisition, financing, reorganization, bankruptcy, receivership, purchase or sale of assets, transition of service to another provider, or other similar corporate transaction, your personal information may be sold or transferred as part of such a transaction.
 
-40. **6\. YOUR PRIVACY CHOICES AND RIGHTS**
+42. **7\. YOUR PRIVACY CHOICES AND RIGHTS**
 
 **Your Privacy Choices.** The privacy choices you have about your personal information are determined by applicable law and are described below.
 
@@ -180,7 +187,7 @@ If your personal information is subject to the applicable data protection laws o
 * [Swiss Federal Data Protection and Information Commissioner (FDPIC)](https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/contact.html)
 * [UK Information Commissioner’s Office (ICO)](https://ico.org.uk/global/contact-us/)
 
-48. **7\. INTERNATIONAL TRANSFERS OF PERSONAL INFORMATION**
+50. **8\. INTERNATIONAL TRANSFERS OF PERSONAL INFORMATION**
 
 We may transfer, process, and store all personal information we collect anywhere in the world. Some countries may have data protection laws that are different from the laws where you live.
 
@@ -188,11 +195,11 @@ If we transfer personal information from the European Economic Area, Switzerland
 
 For more information about the safeguards we use for international transfers of your personal information, please contact us as set forth below.
 
-52. **8\. HOW LONG WE KEEP PERSONAL INFORMATION**
+54. **9\. HOW LONG WE KEEP PERSONAL INFORMATION**
 
 We keep the personal information we collect for as long as you use the Bluesky App Services, or as necessary to fulfill the purpose(s) for which we collected it. There are also other reasons why we may keep personal information. They may include, but are not limited to, providing the Bluesky App, resolving disputes, establishing legal defenses, conducting audits, pursuing legitimate business purposes, enforcing our agreements, and complying with applicable laws. When determining the retention period, we take into account various criteria, such as the type of products and services requested by or provided to you, the nature and length of our relationship with you, the impact on the Bluesky App Services we provide to you if we delete some personal information from or about you, mandatory retention periods provided by law, and any relevant statute of limitations.
 
-54. **9\. SUPPLEMENTAL NOTICE FOR CERTAIN JURISDICTIONS**
+56. **10\. SUPPLEMENTAL NOTICE FOR CERTAIN JURISDICTIONS**
 **A. Supplemental Notice for EU/UK GDPR**
 
 This Supplemental Notice for EU/UK GDPR only applies to our processing of personal information that is subject to the EU or UK GDPR. Personal information means any information relating to an identified or identifiable individual. If you do not provide your personal information when requested, you may not be able to use our Bluesky App Services if that personal information is necessary to provide you with our Bluesky App Services or if we are legally required to collect it.
@@ -204,17 +211,17 @@ We process personal information when we have a valid legal basis, including as s
 * **Consent**: In some cases, Bluesky may also rely on your consent to process your personal information.
 * **Compliance with our Legal Obligations**: Bluesky may process your personal information to comply with our legal obligations. For example, we may process your personal information to comply with tax, labor, and accounting obligations.
 
-59. **10\. SECURITY**
+61. **11\. SECURITY**
 
 We make reasonable efforts to protect your information by using physical and electronic safeguards designed to improve the security of the information we maintain. However, as our Services are hosted electronically, we can make no guarantees as to the security or privacy of your information.
 
-61. **11\. CHILDREN’S PERSONAL INFORMATION**
+63. **12\. CHILDREN’S PERSONAL INFORMATION**
 
 The Bluesky App Services are not directed to children under 13 (or other age as required by local law outside of the United States). We do not knowingly collect personal information from children.
 
 If you are a parent or guardian and believe your child has uploaded personal information to our site without your consent, you may contact us using the information provided below.
 
-64. **12\. CONTACT US**
+66. **13\. CONTACT US**
 
 Bluesky is the controller of the personal information we process under this Privacy Notice.
 
