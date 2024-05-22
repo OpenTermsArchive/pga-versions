@@ -1,7 +1,7 @@
 Community Guidelines
 ====================
 
-#### Last Updated: February 5, 2024
+#### Last Updated: May 22, 2024
 
 The Bluesky social network (**“Bluesky Social”**) runs on the Authenticated Transfer Protocol (**"AT Protocol"**), a decentralized social networking protocol that supports many different kinds of services. Bluesky Social is just one of those services, and these community guidelines only apply to Bluesky Social. Any additional service that runs on the AT Protocol will have their own Terms.
 
@@ -23,7 +23,7 @@ If you come across a user, message, or service that appears to break these guide
 
 1. **1\. Don’t use Bluesky Social to break the law or cause harm to others.** For example, do not:
     
-    a. Praise or promote material from hate groups or U.S., Canadian, and E.U. proscribed terror groups
+    a. Praise or promote material from hate groups or proscribed terror groups
     
     b. Distribute child sexual abuse material, or any content portraying minors in a sexually explicit context
     
@@ -39,7 +39,7 @@ If you come across a user, message, or service that appears to break these guide
     
     h. Scam or cheat others for financial gain
     
-    i. Spam, phish, or otherwise use technical means to disrupt the experience of others on Bluesky Social
+    i. Spam, phish, or otherwise use technical means to disrupt the experience of others on Bluesky Social, or the Bluesky network. This includes operating multiple accounts that interact similarly.
     
     j. Infringe other’s copyrights, trademarks and/or other intellectual property
     
@@ -65,9 +65,9 @@ If you come across a user, message, or service that appears to break these guide
 
 ### Reporting
 
-We rely on the entire community (developers, creators, users, visitors) to enforce our community guidelines. The reporting system built into the App and available online by or the in-app feedback form helps us detect violations of the Bluesky Community Guidelines.
+We rely on the entire community (developers, creators, users, visitors) to enforce our community guidelines. The reporting system built into the App and available online or the in-app feedback form helps us detect violations of the Bluesky Community Guidelines.
 
-1. **1\. User Violations of Bluesky Community Guidelines.** You can report suspected violations of the Community Guidelines by reporting posts or accounts with the in-app reporting feature. We will review reports we receive against these Community Guidelines. Bluesky Social will decide when and how to enforce these Community Guidelines, and if we find a violation of the Guidelines will take enforcement action, which may include restricting a user’s ability to use Bluesky Social. If your report relies on or relates to conduct that happened outside of Bluesky, please provide links, context, or any relevant evidence in the details section of your report, so our moderation team can take these factors into consideration.
+1. **1\. User Violations of Bluesky Community Guidelines.** You can report suspected violations of the Community Guidelines by reporting posts, accounts, or direct messages with the in-app reporting feature. We will review reports we receive against these Community Guidelines. Bluesky Social will decide when and how to enforce these Community Guidelines, and if we find a violation of the Guidelines will take enforcement action, which may include restricting a user’s ability to use Bluesky Social. If your report relies on or relates to conduct that happened outside of Bluesky, please provide links, context, or any relevant evidence in the details section of your report, so our moderation team can take these factors into consideration.
 2. **2\. Developer Violations of Bluesky Terms.** To report an app or service that you believe is not complying with or enforcing the Bluesky [Terms of Service](https://bsky.social/about/support/tos) or [Privacy Policy](https://bsky.social/about/support/privacy-policy), please email Bluesky at support@bsky.app.
 3. **3\. App-Specific Guidelines.** Developers of apps and operators of services may establish their own standards of conduct, separate from the Bluesky Community Guidelines. These services may temporarily or permanently ban violators from their apps or services. To report violations of a third-party app or service’s standard of conduct, please contact the developer or provider of the third-party app or service. Bluesky Social cannot enforce the standards of conduct of third-party apps or services.
 
@@ -104,6 +104,8 @@ Developers who federate their apps or services on the AT Protocol must adhere to
     b. Any method to automate generating followers or interactions, including account generation tools
     
     c. Spambots
+    
+    d. Evading rate limits or disrupting the Bluesky network
 2. 2\. Apps with user-generated content or social networking features must include:
     
     a. A method to report illegal content
