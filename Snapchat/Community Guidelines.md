@@ -1,10 +1,10 @@
 Community Guidelines
 
-Updated: January 2024
+Updated: May 2024
 
 At Snap, we contribute to human progress by empowering people to express themselves, live in the moment, learn about the world, and have fun together. We created these Community Guidelines to support our mission by encouraging the broadest range of self-expression, while striving to make sure Snapchatters can use our services safely every day. We want these Guidelines to be clear and understandable for all members of our community. Please note that in order to join our community, you must be at least 13 years old. 
 
-These Guidelines apply to all content (which includes all forms of communication, like text, images, generative AI, links or attachments, emojis, Lenses and other creative tools) or behavior on Snapchat — and to all Snapchatters. We are particularly sensitive to content or behavior that poses a risk of severe harm to Snapchatters, and reserve the right to take immediate, permanent action against users engaging in such behavior. Additional guidance about what we consider to be severe harm and how we take action against it is available [here](https://www.snap.com/privacy/transparency/community-guidelines/severe-harm). 
+These Guidelines apply to all content (which includes your [username and display name](https://www.snap.com/privacy/transparency/community-guidelines/usernames-and-displaynames), all forms of communication, like text, images, generative AI, links or attachments, emojis, Lenses and other creative tools) or behavior on Snapchat — and to all Snapchatters. We are particularly sensitive to content or behavior that poses a risk of severe harm to Snapchatters, and reserve the right to take immediate, permanent action against users engaging in such behavior. Additional guidance about what we consider to be severe harm and how we take action against it is available [here](https://www.snap.com/privacy/transparency/community-guidelines/severe-harm). 
 
 Snap offers generative AI features through our services. We implement safeguards designed to help keep generative AI content in line with our Community Guidelines, and we expect Snapchatters to use AI responsibly. We reserve the right to take appropriate enforcement action against accounts that use AI to violate our Community Guidelines, up to and including the possible termination of an account.
 
