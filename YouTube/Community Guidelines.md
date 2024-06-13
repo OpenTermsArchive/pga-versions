@@ -1583,9 +1583,11 @@ We may terminate your channel or account for repeated violations of the Communit
 Firearms policy
 ===============
 
-The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. **T****ake the time to carefully read the policy below**. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
+Starting June 18, 2024, certain content showing how to remove safety devices will be prohibited. Content showing the use of homemade firearms, automatic firearms, and certain firearm accessories will be age restricted.
 
-Content intended to sell firearms, instruct viewers on how to make firearms, ammunition, and certain accessories, or instruct viewers on how to install those accessories is not allowed on YouTube. YouTube shouldn't be used as a platform to sell firearms or accessories noted below. YouTube also doesn’t allow [live streams](https://support.google.com/youtube/topic/9257891) that show someone holding, handling, or transporting a firearm. 
+Content intended to sell firearms, instruct viewers on how to make firearms, ammunition, and certain accessories, or instruct viewers on how to install those accessories is not allowed on YouTube. YouTube shouldn't be used as a platform to sell firearms or accessories noted below. YouTube also doesn’t allow [live streams](https://support.google.com/youtube/topic/9257891) that show someone holding, handling, or transporting a firearm.
+
+Sometimes content doesn't violate our policies, but it may not be appropriate for viewers under 18. YouTube age restricts content showing the use of certain firearms and accessories also noted below (note: this restriction applies to real use of firearms only; details are below).
 
 What this means for you
 -----------------------
@@ -1604,21 +1606,39 @@ Don’t post content on YouTube if the purpose is to do one or more of the follo
     * High capacity magazines,
     * Homemade silencers/suppressors,
     * Accessories that enable a firearm to simulate automatic fire,
-    * Accessories that convert a firearm to automatic fire, such as: bump stocks, gatling triggers, drop-in auto sears, or conversion kits
+    * Accessories that convert a firearm to automatic fire, such as: bump stocks, gatling triggers, drop-in auto sears, or conversion kits.
 * Provide instructions on how to convert a firearm to automatic or simulated automatic firing capabilities.
 * Provides instructions on how to install the above-mentioned accessories or modifications.
+* Provides instructions on how to remove certain firearm safety devices, such as a device that limits the release of a magazine. This does **not** include removal of a device used to temporarily disable a weapon like a gun lock.
 
 Please note this is not a complete list.
+
+Age-restricted content
+----------------------
+
+Sometimes content doesn't violate our policies, but it may not be appropriate for viewers under 18.
+
+* Content showing use of a homemade firearm (e.g. 3D printed gun), an automatic firearm, or any of the below accessories:
+    * Accessories that enable a firearm to simulate automatic fire
+    * Accessories that convert a firearm to automatic fire, such as: bump stocks, gatling triggers, drop-in auto sears, or conversion kits
+    * High capacity magazines
+    * Homemade silencers/suppressors
+* Examples (non-exhaustive):
+    * Firing a 3D printed firearm
+    * Firing a fully automatic rifle
+    * Firing a firearm with a high capacity magazine
+
+These guidelines apply to real use of firearms and may not apply, for example, to use of firearms in artistic content such as a film. We may also make exceptions for public interest content such as military or police footage, news footage, or footage from warzones.
 
 Examples
 --------
 
 Here are some examples of content that isn’t allowed on YouTube.
 
-* Links in the title or description of your video to sites where firearms or the accessories noted above are sold. You can link to sites that discuss or review these items as long as those sites don’t sell those items directly.
+* Links in the title or description of your video to sites where firearms or the accessories noted above are sold. You can link to sites that discuss or review the items as long as those sites don’t sell or give away those items directly.
 * Displaying a firearm with the intention to sell that firearm via private sale. This includes giving the seller’s phone number, email address, or other contact information.
 * Showing users step-by-step instructions on how to finish a lower receiver in order to complete fabrication of a firearm.
-* Showing users how to make a silencer out of flashlight, oil can, solvent catcher or other parts.
+* Showing users how to make a silencer out of a flashlight, oil can, solvent catcher or other parts.
 * Showing users how to install a bump stock, or install a comparable accessory built to enable simulated automatic fire.
 
 * Live streams that feature someone holding or handling a firearm, regardless of whether or not they are firing it. Note: this does not include firearms in video games.
