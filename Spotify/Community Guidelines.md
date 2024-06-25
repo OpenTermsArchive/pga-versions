@@ -1,3 +1,5 @@
+Start typing into the Search box, then use the Tab key to choose an option from the list.
+
 * Spotify Platform Rules
 
 Spotify Platform Rules
