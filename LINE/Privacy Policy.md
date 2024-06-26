@@ -40,7 +40,7 @@ We will collect the Personal Data such as the following in lawful and fair manne
 
 If you do not provide certain types of information which need to be registered for using our Services, you may not be able to use all or a part of our Services.
 
-We may collect and use information by leveraging technologies such as association learning and differential privacy in order to better protect your privacy.
+We may collect and use information by leveraging [technologies such as association learning and differential privacy](https://privacy.lycorp.co.jp/en/acquisition/privacy_techs.html) in order to better protect your privacy.
 
 The following are some examples of the Personal Data that we will collect.
 
@@ -272,7 +272,7 @@ We are the administrator in sharing Personal Data under the laws of Japan.
 
 We will comply with the personal information protection systems of the countries in which the parties with which the Personal Data was shared are located, such as by complying with applicable laws, examining the qualifications as the party with which the Personal Data was shared, and setting out matters concerning confidentiality in contracts, as well as create a system where personal data will be properly managed.
 
-You can confirm our group companies to share Personal Data in “[List of Group Companies](https://linecorp.com/en/company/info#group)”.
+You can confirm our group companies to share Personal Data in “[List of Group Companies](https://privacy.lycorp.co.jp/en/connection/group.html)”.
 
 In addition, you can confirm the scope of our group companies to share Personal Data of users in Taiwan in [“Regarding Usage of Your Information - FAQ and Detailed Information”.](https://terms.line.me/line_communication_privacy_tw)
 
