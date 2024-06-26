@@ -19,12 +19,12 @@ Processing purpose
 
 **Operating our services, including:**
 
-* [Account creation](https://help.twitter.com/using-x/create-x-account)
-* [Account controls](https://help.twitter.com/managing-your-account#account-settings)
-* Content creation, including [posts](https://help.twitter.com/using-x/how-to-post), [reposts](https://help.twitter.com/using-x/how-to-repost), [likes](https://help.twitter.com/using-x/liking-posts-and-moments), and Direct Messages
-* Content display, recommendations, and [ranking](https://blog.twitter.com/engineering/en_us/topics/insights/2017/using-deep-learning-at-scale-in-twitters-timelines.html), such as in your [timeline](https://help.twitter.com/using-x/x-timeline), [trends](https://help.twitter.com/using-x/x-trending-faqs), [conversations](https://help.twitter.com/using-x/x-conversations), or [search](https://help.twitter.com/using-x/x-search)
-* Developer products, including our [APIs](https://help.twitter.com/rules-and-policies/x-api) and [embeds](https://developer.twitter.com/docs/twitter-for-websites)
-* Service-related [notifications](https://help.twitter.com/managing-your-account#notifications) and [customer support](https://help.x.com/forms)
+* [Account creation](https://help.x.com/using-x/create-x-account)
+* [Account controls](https://help.x.com/managing-your-account#account-settings)
+* Content creation, including [posts](https://help.x.com/using-x/how-to-post), [reposts](https://help.x.com/using-x/how-to-repost), [likes](https://help.x.com/using-x/liking-posts-and-moments), and Direct Messages
+* Content display, recommendations, and [ranking](https://blog.twitter.com/engineering/en_us/topics/insights/2017/using-deep-learning-at-scale-in-twitters-timelines.html), such as in your [timeline](https://help.x.com/using-x/x-timeline), [trends](https://help.x.com/using-x/x-trending-faqs), [conversations](https://help.x.com/using-x/x-conversations), or [search](https://help.x.com/using-x/x-search)
+* Developer products, including our [APIs](https://help.x.com/rules-and-policies/x-api) and [embeds](https://developer.twitter.com/docs/twitter-for-websites)
+* Service-related [notifications](https://help.x.com/managing-your-account#notifications) and [customer support](https://help.x.com/forms)
 * Analytics
 * [Advertiser products](https://business.x.com/en/help/ads-policies.html)
 
@@ -60,7 +60,7 @@ Primary legal basis/bases for processing personal data from the EU, EFTA States,
 
 Processing purpose
 
-**[Safety and security](https://help.twitter.com/safety-and-security) features, including authentication, anti-spam, fraud protection, and quality and abuse prevention**
+**[Safety and security](https://help.x.com/safety-and-security) features, including authentication, anti-spam, fraud protection, and quality and abuse prevention**
 
 Data
 
@@ -96,7 +96,7 @@ Processing purpose
 
 **Inferences about your account - such as interests, age, and gender - which we use to provide features including:**
 
-* [Account suggestions](https://help.twitter.com/using-x/account-suggestions)
+* [Account suggestions](https://help.x.com/using-x/account-suggestions)
 * Advertising
 * Recommendations
 * Timeline ranking
@@ -127,7 +127,7 @@ For details regarding information we collect when you use X, please refer to Sec
 
 Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
 
-[**Legitimate interests**](https://help.twitter.com/rules-and-policies/data-processing-legal-bases#legitimate-interests-1)
+[**Legitimate interests**](https://help.x.com/rules-and-policies/data-processing-legal-bases#legitimate-interests-1)
 
 Processing purpose
 
@@ -161,7 +161,7 @@ For details regarding information we collect when you use X, please refer to Sec
 
 Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
 
-[**Legitimate interests**](https://help.twitter.com/rules-and-policies/data-processing-legal-bases#legitimate-interests-2)
+[**Legitimate interests**](https://help.x.com/rules-and-policies/data-processing-legal-bases#legitimate-interests-2)
 
 Processing purpose
 
@@ -202,7 +202,7 @@ For details regarding information we collect when you use X, please refer to Sec
 
 Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
 
-[**Legitimate interests**](https://help.twitter.com/rules-and-policies/data-processing-legal-bases#legitimate-interests-2)❖
+[**Legitimate interests**](https://help.x.com/rules-and-policies/data-processing-legal-bases#legitimate-interests-2)❖
 
 Processing purpose
 
@@ -238,11 +238,11 @@ For details regarding information we collect when you use X, please refer to Sec
 
 Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
 
-[**Legitimate interests**](https://help.twitter.com/rules-and-policies/data-processing-legal-bases#legitimate-interests-2)
+[**Legitimate interests**](https://help.x.com/rules-and-policies/data-processing-legal-bases#legitimate-interests-2)
 
 Processing purpose
 
-**[Personalized advertising](https://help.twitter.com/safety-and-security/privacy-controls-for-tailored-ads):** advertising we show you on and off X based on information we collect from you on X, your other activity online, and data from our partners
+**[Personalized advertising](https://help.x.com/safety-and-security/privacy-controls-for-tailored-ads):** advertising we show you on and off X based on information we collect from you on X, your other activity online, and data from our partners
 
 Data
 
@@ -273,7 +273,7 @@ Primary legal basis/bases for processing personal data from the EU, EFTA States,
 
 Processing purpose
 
-[**Personalize based on your inferred identity**](https://help.twitter.com/about-personalization-across-your-devices)
+[**Personalize based on your inferred identity**](https://help.x.com/about-personalization-across-your-devices)
 
 Data
 
@@ -321,7 +321,7 @@ Primary legal basis/bases for processing personal data from the EU, EFTA States,
 
 Processing purpose
 
-**Complying with [legal requests](https://help.twitter.com/rules-and-policies/x-legal-faqs)**
+**Complying with [legal requests](https://help.x.com/rules-and-policies/x-legal-faqs)**
 
 Data
 
@@ -333,7 +333,7 @@ Primary legal basis/bases for processing personal data from the EU, EFTA States,
 
 Processing purpose
 
-[**Additional information sharing with business partners**](https://help.twitter.com/safety-and-security/data-through-partnerships)
+[**Additional information sharing with business partners**](https://help.x.com/safety-and-security/data-through-partnerships)
 
 Data
 
@@ -353,7 +353,7 @@ Data
 * Data from ad partners
 * Data from other third parties and affiliates
 
-[**Devices we infer belong to you**](https://help.twitter.com/about-personalization-across-your-devices)
+[**Devices we infer belong to you**](https://help.x.com/about-personalization-across-your-devices)
 
 **Inferences about you, as described above, based on this data.**
 
@@ -369,7 +369,7 @@ Primary legal basis/bases for processing personal data from the EU, EFTA States,
 
 Processing purpose
 
-**Sharing data with [third-party web clients or applications](https://help.twitter.com/managing-your-account/connect-or-revoke-access-to-third-party-apps) you've authorized**
+**Sharing data with [third-party web clients or applications](https://help.x.com/managing-your-account/connect-or-revoke-access-to-third-party-apps) you've authorized**
 
 Data
 
@@ -424,7 +424,7 @@ Primary legal basis/bases for processing personal data from the EU, EFTA States,
 
 Processing purpose
 
-[**Enabling others to find your account by your email address or phone number**](https://help.twitter.com/safety-and-security/search-twitter-by-email-or-phone-number)
+[**Enabling others to find your account by your email address or phone number**](https://help.x.com/safety-and-security/search-twitter-by-email-or-phone-number)
 
 Data
 
@@ -440,7 +440,7 @@ Data
 
 **Information we process with your consent, including:**
 
-* [Address book data](https://help.twitter.com/using-x/upload-your-contacts-to-search-for-friends)
+* [Address book data](https://help.x.com/using-x/upload-your-contacts-to-search-for-friends)
 
 _  
 For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
@@ -451,7 +451,7 @@ Primary legal basis/bases for processing personal data from the EU, EFTA States,
 
 Processing purpose
 
-**Non-service related [notifications](https://help.twitter.com/managing-your-account#notifications) about your X activity, related content, Direct Messages, and other X product features**
+**Non-service related [notifications](https://help.x.com/managing-your-account#notifications) about your X activity, related content, Direct Messages, and other X product features**
 
 Data
 
@@ -477,11 +477,11 @@ For details regarding information we collect when you use X, please refer to Sec
 
 Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
 
-[**Legitimate interests**](https://help.twitter.com/rules-and-policies/data-processing-legal-bases#legitimate-interests-3)
+[**Legitimate interests**](https://help.x.com/rules-and-policies/data-processing-legal-bases#legitimate-interests-3)
 
 Processing purpose
 
-**Non-service related [notifications](https://help.twitter.com/managing-your-account#notifications) about our X business products and third-party services**
+**Non-service related [notifications](https://help.x.com/managing-your-account#notifications) about our X business products and third-party services**
 
 Data
 
@@ -525,12 +525,12 @@ Data
 
 **Information we process with your consent, including:**
 
-* [Precise location data](https://help.twitter.com/safety-and-security/twitter-location-services-for-mobile)
-* [Address book data](https://help.twitter.com/using-x/upload-your-contacts-to-search-for-friends)
+* [Precise location data](https://help.x.com/safety-and-security/twitter-location-services-for-mobile)
+* [Address book data](https://help.x.com/using-x/upload-your-contacts-to-search-for-friends)
 
-[**X for web data**](https://help.twitter.com/safety-and-security/privacy-controls-for-tailored-ads)\*
+[**X for web data**](https://help.x.com/safety-and-security/privacy-controls-for-tailored-ads)\*
 
-[**Devices we infer belong to you**](https://help.twitter.com/about-personalization-across-your-devices)
+[**Devices we infer belong to you**](https://help.x.com/about-personalization-across-your-devices)
 
 **Inferences about you, as described above, based on this data.**
 
@@ -546,18 +546,18 @@ Processing purpose
     
 * Advertising we show you on other websites or mobile applications based only on information collected there
     
-* [Personalize based on your inferred identity](https://help.twitter.com/about-personalization-across-your-devices)
+* [Personalize based on your inferred identity](https://help.x.com/about-personalization-across-your-devices)
     
 * Personalizing our services based on the places you’ve been
     
 
-**Non-service related [notifications](https://help.twitter.com/managing-your-account#notifications) about your X activity, related content, Direct Messages, and other X product features**
+**Non-service related [notifications](https://help.x.com/managing-your-account#notifications) about your X activity, related content, Direct Messages, and other X product features**
 
 Data
 
 **Information we process with your consent, including:**
 
-* [Precise location data](https://help.twitter.com/safety-and-security/x-location-services-for-mobile)
+* [Precise location data](https://help.x.com/safety-and-security/x-location-services-for-mobile)
     
 
 **Inferences about you, as described above, based on this data.**
@@ -568,14 +568,14 @@ Primary legal basis/bases for processing personal data from the EU, EFTA States,
 
 Processing purpose
 
-[**Additional personalization of our services based on where you see X content across the web**](https://help.twitter.com/safety-and-security/privacy-controls-for-tailored-ads)
+[**Additional personalization of our services based on where you see X content across the web**](https://help.x.com/safety-and-security/privacy-controls-for-tailored-ads)
 
 **Additionally, the processing activities described above:**
 
-* [Personalize based on your inferred identity](https://help.twitter.com/about-personalization-across-your-devices)
+* [Personalize based on your inferred identity](https://help.x.com/about-personalization-across-your-devices)
     
 
-**Non-service related [notifications](https://help.twitter.com/managing-your-account#notifications) about your X activity, related content, Direct Messages, and other X product features**
+**Non-service related [notifications](https://help.x.com/managing-your-account#notifications) about your X activity, related content, Direct Messages, and other X product features**
 
 Data
 
@@ -583,9 +583,9 @@ Data
 
 * Account controls
 
-[**X for web data**](https://help.twitter.com/safety-and-security/privacy-controls-for-tailored-ads)\*
+[**X for web data**](https://help.x.com/safety-and-security/privacy-controls-for-tailored-ads)\*
 
-[**Devices we infer belong to you**](https://help.twitter.com/about-personalization-across-your-devices)
+[**Devices we infer belong to you**](https://help.x.com/about-personalization-across-your-devices)
 
 **Inferences about you, as described above, based on this data.**
 
@@ -619,17 +619,17 @@ Primary legal basis/bases for processing personal data from the EU, EFTA States,
 
 \* We do not collect X for Web data from browsers that we believe to be located in the European Union or the European Economic Area.
 
-† We set and use cookies as described in [Our use of cookies and similar technologies](https://help.twitter.com/rules-and-policies/x-cookies), and if you are in the European Union, an EFTA State, or the United Kingdom with your consent as provided for under Directive 95/46/EC.
+† We set and use cookies as described in [Our use of cookies and similar technologies](https://help.x.com/rules-and-policies/x-cookies), and if you are in the European Union, an EFTA State, or the United Kingdom with your consent as provided for under Directive 95/46/EC.
 
 ❖X also shares non-public personal information with advertisers that are not acting as data processors in order to enable those advertisers to measure their own advertising. As described above, X treats such partnerships as consent-based data processing and X customers located in the European Union, an EFTA state, or the United Kingdom must have their  “Allow additional information sharing with business partners” setting enabled in order for X and its data processors to share their non-public personal information with non-data-processors in such circumstances.
 
 ### Legitimate interests analysis summary – inferences about your account 
 
-X uses information that individuals provide and data that it receives (as described in [X’s Privacy Policy](https://twitter.com/privacy)) to make inferences about the people who use X and content on the platform. This includes inferences like what [topics](https://help.twitter.com/using-x/follow-and-unfollow-topics) people may be interested in, how old a person is, what languages a person speaks, and whether the content of one account may be of interest to others on the platform. This helps X offer better services and personalize the content X shows, including ads.
+X uses information that individuals provide and data that it receives (as described in [X’s Privacy Policy](https://twitter.com/privacy)) to make inferences about the people who use X and content on the platform. This includes inferences like what [topics](https://help.x.com/using-x/follow-and-unfollow-topics) people may be interested in, how old a person is, what languages a person speaks, and whether the content of one account may be of interest to others on the platform. This helps X offer better services and personalize the content X shows, including ads.
 
 Without these inferences, people would have a harder time finding content that interested them, X would have a more difficult time keeping the platform safe and enjoyable for everyone, and X’s advertising would be less compelling to those who saw it and less valuable to X’s business customers.
 
-To safeguard the rights of those who use our services, if an individual wishes to review and modify information that X has inferred about them, that individual may do so by using [Your X data](https://help.twitter.com/managing-your-account/accessing-your-x-data). This service is available both to individuals with a X account and those who do not have an account or are logged out of X.   
+To safeguard the rights of those who use our services, if an individual wishes to review and modify information that X has inferred about them, that individual may do so by using [Your X data](https://help.x.com/managing-your-account/accessing-your-x-data). This service is available both to individuals with a X account and those who do not have an account or are logged out of X.   
  
 
 ### Legitimate interests analysis summary – advertising we show you on X based on data you provide or we collect on X, or on other websites or mobile apps based on information collected there 
@@ -638,7 +638,7 @@ X uses information that individuals provide and data that it receives during the
 
 This enables X to give individuals a better product experience that is more in line with their interests and the content they find most meaningful and relevant to them, and to provide more valuable advertising offerings that generate revenue to support and improve its services. Without this processing, X’s advertising would be less compelling to those who saw it and less valuable to X’s business customers.
 
-To safeguard the rights of those who use our services, X offers individuals a variety of controls over the ads they see on X.  Individuals may block or mute specific advertisers if they do not wish to see ads from those advertisers, report bad or offensive ads, and flag ads that they do not like. In addition, every ad on X provides a dropdown “Why am I seeing this ad?” option to let the individual see the basis on which the ad was shown to them, such as inferred age, gender, and interests. The individual may then modify that information in [Your X data](https://help.twitter.com/managing-your-account/accessing-your-x-data) to affect future ads that they see. This service is available both to individuals with a X account and those who do not have an account or are logged out of X.  
+To safeguard the rights of those who use our services, X offers individuals a variety of controls over the ads they see on X.  Individuals may block or mute specific advertisers if they do not wish to see ads from those advertisers, report bad or offensive ads, and flag ads that they do not like. In addition, every ad on X provides a dropdown “Why am I seeing this ad?” option to let the individual see the basis on which the ad was shown to them, such as inferred age, gender, and interests. The individual may then modify that information in [Your X data](https://help.x.com/managing-your-account/accessing-your-x-data) to affect future ads that they see. This service is available both to individuals with a X account and those who do not have an account or are logged out of X.  
  
 
 ### Legitimate interests analysis summary – Measuring the effectiveness of advertising we show you 
@@ -706,7 +706,7 @@ Data
 
 * Data from other third parties and affiliates
 
-* [X for web data](https://help.twitter.com/safety-and-security/privacy-controls-for-tailored-ads)
+* [X for web data](https://help.x.com/safety-and-security/privacy-controls-for-tailored-ads)
 
 _For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
 
@@ -718,7 +718,7 @@ Source(s)
     
 * Third-party services that integrate X content, [such as embedded timelines or post buttons](https://developer.twitter.com/docs/twitter-for-websites)
     
-* Our [corporate affiliates](https://help.twitter.com/rules-and-policies/x-services-and-corporate-affiliates)
+* Our [corporate affiliates](https://help.x.com/rules-and-policies/x-services-and-corporate-affiliates)
     
 * Vendors who provide services on our behalf, such as our [subprocessors](https://privacy.twitter.com/subprocessors)
     
@@ -781,7 +781,7 @@ Source(s)
     
 * Third-party services that integrate X content, [such as embedded timelines or post buttons](https://developer.twitter.com/docs/twitter-for-websites)
     
-* Our [corporate affiliates](https://help.twitter.com/rules-and-policies/x-services-and-corporate-affiliates)
+* Our [corporate affiliates](https://help.x.com/rules-and-policies/x-services-and-corporate-affiliates)
     
 * Vendors who provide services on our behalf
     
@@ -810,7 +810,7 @@ Source(s)
     
 * Third-party services that integrate X content, [such as embedded timelines or post buttons](https://developer.twitter.com/docs/twitter-for-websites)
     
-* Our [corporate affiliates](https://help.twitter.com/rules-and-policies/x-services-and-corporate-affiliates)
+* Our [corporate affiliates](https://help.x.com/rules-and-policies/x-services-and-corporate-affiliates)
     
 * Vendors who provide services on our behalf
     
@@ -839,7 +839,7 @@ Data
     
 
 * Data from other third parties and affiliates
-* [X for web data](https://help.twitter.com/safety-and-security/privacy-controls-for-tailored-ads)
+* [X for web data](https://help.x.com/safety-and-security/privacy-controls-for-tailored-ads)
 
 _For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
 
@@ -849,7 +849,7 @@ Source(s)
     
 * Third-party services that integrate X content, [such as embedded timelines or post buttons](https://developer.twitter.com/docs/twitter-for-websites)
     
-* Our [corporate affiliates](https://help.twitter.com/rules-and-policies/x-services-and-corporate-affiliates)
+* Our [corporate affiliates](https://help.x.com/rules-and-policies/x-services-and-corporate-affiliates)
     
 * Vendors who provide services on our behalf
     
@@ -883,7 +883,7 @@ Data Category
 Data
 
 * Location information
-* [Precise location data](https://help.twitter.com/safety-and-security/x-location-services-for-mobile)
+* [Precise location data](https://help.x.com/safety-and-security/x-location-services-for-mobile)
 
 _For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
 
@@ -893,16 +893,16 @@ Source(s)
 
 Data Category
 
-[**Inferences**](https://help.twitter.com/rules-and-policies/data-processing-legal-bases#inferences)
+[**Inferences**](https://help.x.com/rules-and-policies/data-processing-legal-bases#inferences)
 
 _(Inferences drawn to create a profile about you reflecting your preferences, characteristics, predispositions, behavior, and attitudes)_
 
 Data
 
-* [Devices we infer belong to you](https://help.twitter.com/about-personalization-across-your-devices)
+* [Devices we infer belong to you](https://help.x.com/about-personalization-across-your-devices)
 * Age
 * Gender
-* [Topics](https://help.twitter.com/using-x/follow-and-unfollow-topics) you may be interested in
+* [Topics](https://help.x.com/using-x/follow-and-unfollow-topics) you may be interested in
 
 _  
 For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
@@ -915,7 +915,7 @@ Source(s)
     
 * Third-party services that integrate X content, [such as embedded timelines or post buttons](https://developer.twitter.com/docs/twitter-for-websites)
     
-* Our [corporate affiliates](https://help.twitter.com/rules-and-policies/x-services-and-corporate-affiliates)
+* Our [corporate affiliates](https://help.x.com/rules-and-policies/x-services-and-corporate-affiliates)
     
 * Vendors who provide services on our behalf
     
@@ -983,7 +983,7 @@ For details regarding the ways we share your information, why we share it, and 
 
 Data Category
 
-[**Inferences**](https://help.twitter.com/rules-and-policies/data-processing-legal-bases#inferences)
+[**Inferences**](https://help.x.com/rules-and-policies/data-processing-legal-bases#inferences)
 
 We may share with...
 
