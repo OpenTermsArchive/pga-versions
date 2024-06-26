@@ -8,7 +8,7 @@ March 2023**
 
 Sharing images or videos of a deceased individual can cause serious distress to the deceased’s family and can also negatively impact the well-being of others who view this content. Out of respect for the deceased and those impacted by their death, as well as to decrease the impact of unintended exposure to graphic media, we may ask you to remove images and videos that depict the death of an identifiable person.   
 
-If you want to request the deactivation of a deceased person’s account, immediate family members and those authorized to act on behalf of the estate can do so via [our deactivation form](https://help.twitter.com/forms/account-access/deactivate-or-close-account/deactivate-account-for-deceased).
+If you want to request the deactivation of a deceased person’s account, immediate family members and those authorized to act on behalf of the estate can do so via [our deactivation form](https://help.x.com/forms/account-access/deactivate-or-close-account/deactivate-account-for-deceased).
 
 ### What is a violation of this policy?
 
@@ -46,7 +46,7 @@ For other types of content that features an identifiable deceased individual, we
 ### How can I report violations of this policy?  
 
   
-You can report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting "Me," "Someone I am authorized to represent," or "Somebody else;" then choosing “unauthorized photo or video” from the list of options.  
+You can report this content for review via [our private information report form](https://help.x.com/forms/private_information), by selecting "Me," "Someone I am authorized to represent," or "Somebody else;" then choosing “unauthorized photo or video” from the list of options.  
  
 
 ### What happens if you violate this policy?  
@@ -58,10 +58,10 @@ If you share this type of media in live video and profile images – the first t
 
 If shared in a post, we may require you to remove this content, even if  shared inadvertently or to express shock, disbelief, or to denounce violent events.
 
-If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+If you believe that your account was suspended in error, [you can submit an appeal](https://help.x.com/forms/general?subtopic=suspended).  
   
 
 ### Additional resources  
 
   
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+Learn more about our [range of enforcement options](https://help.x.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.x.com/rules-and-policies/enforcement-philosophy).
