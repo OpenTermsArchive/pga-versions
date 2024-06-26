@@ -1,14 +1,14 @@
 Guidelines for law enforcement
 ==============================
 
-These guidelines are intended for law enforcement authorities seeking information about X accounts. Information concerning requests to [withhold content on X](https://help.twitter.com/rules-and-policies/tweet-withheld-by-country) is available. More general information is available in our [Privacy Policy](https://twitter.com/en/privacy), [Terms of Service](https://twitter.com/en/tos), and [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html).   
+These guidelines are intended for law enforcement authorities seeking information about X accounts. Information concerning requests to [withhold content on X](https://help.x.com/rules-and-policies/tweet-withheld-by-country) is available. More general information is available in our [Privacy Policy](https://twitter.com/en/privacy), [Terms of Service](https://twitter.com/en/tos), and [X Rules](https://help.x.com/en/rules-and-policies/twitter-rules.html).   
 
 ### What is X?
 
   
 X is a real-time global information network that lets users create and share ideas and information instantly to serve the public conversation. X is what’s happening in the world and what people are talking about right now. When it happens, it happens on X.
 
-For more information, please visit [about.x.com](https://about.twitter.com/). For the latest on X's features and functionality, please visit our [Help Center](https://help.twitter.com/en.html).  
+For more information, please visit [about.x.com](https://about.twitter.com/). For the latest on X's features and functionality, please visit our [Help Center](https://help.x.com/en.html).  
  
 
 ### Account Information Requests
@@ -21,7 +21,7 @@ A X account profile often contains a profile photo, header photo, background ima
 ### Does X have access to user-generated photos or videos?  
 
   
-X provides photo hosting for some image uploads (i.e., pic.x.com images) as well as X account profile photos, and header photos. However, X is not the sole photo provider for images that may appear on the X platform. More information about [posting photos on X](https://help.twitter.com/en/using-twitter/tweeting-gifs-and-pictures.html).
+X provides photo hosting for some image uploads (i.e., pic.x.com images) as well as X account profile photos, and header photos. However, X is not the sole photo provider for images that may appear on the X platform. More information about [posting photos on X](https://help.x.com/en/using-twitter/tweeting-gifs-and-pictures.html).
 
 X provides video hosting for some videos uploaded to X (i.e., pic.xr.com videos) as well as those posted to Periscope. Please note that X is not the sole video provider for videos that may appear on the X platform.
 
@@ -31,7 +31,7 @@ Links shared on X, including links shared in Direct Messages, will automatically
 
 Periscope is a standalone mobile service that lets users create and share real-time video broadcasts. Please see the [Periscope Privacy Statement](https://www.pscp.tv/privacy) for more information on the data we collect from and about Periscope users, and visit the [Periscope Help Center](https://help.pscp.tv/) for more information about Periscope. Users may sign up for a Periscope account without having or associating a corresponding X account.
 
-Read our instructions on [how to locate a Periscope username](https://help.twitter.com/en/rules-and-policies/twitter-report-violation#periscope-info).
+Read our instructions on [how to locate a Periscope username](https://help.x.com/en/rules-and-policies/twitter-report-violation#periscope-info).
 
 ### Data retention information  
 
@@ -42,7 +42,7 @@ X retains different types of information for different lengths of time, and in a
 
 Some information we store is automatically collected, while other information is provided at the user’s discretion. Though we do store this information, we cannot guarantee its accuracy. For example, the user may have created a fake or anonymous profile. X doesn’t require real name use, email verification, or identity authentication. More information on X’s retention policies can be found in our [Privacy Policy](https://twitter.com/en/privacy).  
 
-NOTE: Once an account has been deactivated, there is a very brief period in which we may be able to access account information, including posts. More information about [deactivated accounts](https://help.twitter.com/en/managing-your-account/how-to-deactivate-twitter-account) is available here. Content removed by account holders (e.g., posts) is generally not available.  
+NOTE: Once an account has been deactivated, there is a very brief period in which we may be able to access account information, including posts. More information about [deactivated accounts](https://help.x.com/en/managing-your-account/how-to-deactivate-twitter-account) is available here. Content removed by account holders (e.g., posts) is generally not available.  
  
 
 **Periscope**
@@ -64,14 +64,14 @@ Preservation requests, in accordance with applicable law, should:
 * be signed by the requesting official;
 * have a valid return official email address;
 * be sent on law enforcement letterhead in a non-editable format;
-* include the @username and URL of the subject X profile (e.g. [https://x.com/safety](https://twitter.com/Safety) (@safety), and/or the X account's unique, public user identification number (UID) or a Periscope username and URL. To locate a X UID see [here](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support#5.7) or to locate a Periscope username see [here](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support#5.7).  
+* include the @username and URL of the subject X profile (e.g. [https://x.com/safety](https://twitter.com/Safety) (@safety), and/or the X account's unique, public user identification number (UID) or a Periscope username and URL. To locate a X UID see [here](https://help.x.com/en/rules-and-policies/twitter-law-enforcement-support#5.7) or to locate a Periscope username see [here](https://help.x.com/en/rules-and-policies/twitter-law-enforcement-support#5.7).  
      
 
 We may honor requests for extensions of preservation requests, but encourage law enforcement agencies to seek records through the appropriate channels in a timely manner, as we cannot guarantee that requested information will be available.
 
 If you will be submitting a preservation extension request, we recommend that you submit it at least a week (7 days) prior to the end of the preservation period, to allow for sufficient processing time.
 
-Law enforcement and government preservation requests for user information may be submitted through our Legal Request Submissions site (t.co/lr or [http://legalrequests.x.com](https://legalrequests.twitter.com/forms/landing_disclaimer)). Please submit preservation extensions as a separate request. You can find further instructions [below](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support#17.5).
+Law enforcement and government preservation requests for user information may be submitted through our Legal Request Submissions site (t.co/lr or [http://legalrequests.x.com](https://legalrequests.twitter.com/forms/landing_disclaimer)). Please submit preservation extensions as a separate request. You can find further instructions [below](https://help.x.com/en/rules-and-policies/twitter-law-enforcement-support#17.5).
 
 ### Requests for X account information  
 
@@ -88,14 +88,14 @@ Requests for the contents of communications (e.g., posts or photos) require a va
 
 ### **Will X notify users of requests for account information?**  
 
-Yes. For purposes of [transparency and due process](https://help.twitter.com/en/rules-and-policies/defending-and-respecting-our-users-voice), X's policy is to notify users (e.g., prior to disclosure of account information) of requests for their X or Periscope account information, including a copy of the request, unless we are prohibited from doing so (e.g., an order under [18 U.S.C. § 2705(b)](https://www.law.cornell.edu/uscode/text/18/2705)). We ask that any non-disclosure provisions include a specified duration (e.g., 90 days) during which X is prohibited from notifying the user. Exceptions to our user notice policy may include exigent or counterproductive circumstances, such as emergencies regarding imminent threat to life, child sexual exploitation, or terrorism.
+Yes. For purposes of [transparency and due process](https://help.x.com/en/rules-and-policies/defending-and-respecting-our-users-voice), X's policy is to notify users (e.g., prior to disclosure of account information) of requests for their X or Periscope account information, including a copy of the request, unless we are prohibited from doing so (e.g., an order under [18 U.S.C. § 2705(b)](https://www.law.cornell.edu/uscode/text/18/2705)). We ask that any non-disclosure provisions include a specified duration (e.g., 90 days) during which X is prohibited from notifying the user. Exceptions to our user notice policy may include exigent or counterproductive circumstances, such as emergencies regarding imminent threat to life, child sexual exploitation, or terrorism.
 
 ### **What details must be included in account information requests?**  
 
 Requests for user account information in accordance with applicable law, are required to include the following information:
 
 * Include the X @username and URL of the subject X account in question (e.g., [https://x.com/Safety](https://twitter.com/TwitterSafety) (@Safety) or an account's unique, public user identification number or UID;
-* And/or include the valid Periscope username and URL. Find instructions on [locating a Periscope username](https://help.twitter.com/en/rules-and-policies/twitter-report-violation#periscope-info) here;
+* And/or include the valid Periscope username and URL. Find instructions on [locating a Periscope username](https://help.x.com/en/rules-and-policies/twitter-report-violation#periscope-info) here;
 * Provide details about what specific information is requested (e.g., basic subscriber information) and its relationship to your investigation;
     * **NOTE**: Please ensure that the information you seek is not publicly available (e.g., posts that are not protected). We are unable to process overly broad or vague requests.
 * Include a **valid official email address** (e.g., name@agency.gov) so we may get back in touch with you upon receipt of your legal process;
@@ -135,7 +135,7 @@ Please include all of the following information:
 * Identity of the person who is in danger of death or serious physical injury;
 * The nature of the emergency (e.g., report of suicide, terrorist attack, bomb threat);
 * X @username and URL (e.g., [https://x.com/Safety](https://twitter.com/Safety) (@Safety) of the subject account(s) whose information is necessary to prevent the emergency;
-* Any [specific posts](https://help.twitter.com/en/using-twitter/tweet-and-moment-url) you would like us to review;
+* Any [specific posts](https://help.x.com/en/using-twitter/tweet-and-moment-url) you would like us to review;
 * The specific information requested and why that information is necessary to prevent the emergency;
 * The signature of the submitting law enforcement officer; and
 * All other available details or context regarding the particular circumstances.
@@ -150,7 +150,7 @@ X’s policy is to promptly respond to requests that are properly issued via mut
 **  
 How to request a terms of service review**
 
-If you are a law enforcement agent or government official and would like to have potentially illegal content removed from X for violating local law(s), please first review the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules) and, if applicable, submit a request to have the content reviewed for possible violations of our [Terms of Service](https://twitter.com/en/tos). An overview on [how to report potential violations](https://help.twitter.com/en/rules-and-policies/twitter-report-violation) of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules) and [Terms of Service](https://twitter.com/en/tos) is available here. Reporting possible violations of our [Terms of Service](https://twitter.com/en/tos) will ensure that your request is routed to the appropriate team and processed expeditiously. We disclose this data every six months in the X Transparency Report.  
+If you are a law enforcement agent or government official and would like to have potentially illegal content removed from X for violating local law(s), please first review the [X Rules](https://help.x.com/en/rules-and-policies/twitter-rules) and, if applicable, submit a request to have the content reviewed for possible violations of our [Terms of Service](https://twitter.com/en/tos). An overview on [how to report potential violations](https://help.x.com/en/rules-and-policies/twitter-report-violation) of the [X Rules](https://help.x.com/en/rules-and-policies/twitter-rules) and [Terms of Service](https://twitter.com/en/tos) is available here. Reporting possible violations of our [Terms of Service](https://twitter.com/en/tos) will ensure that your request is routed to the appropriate team and processed expeditiously. We disclose this data every six months in the X Transparency Report.  
  
 
 **How to submit a legal request to withhold content**
@@ -163,19 +163,19 @@ X will promptly notify affected users about legal requests to withhold content, 
 
 Government and law enforcement reporters may also request the withholding of content determined to be illegal in their jurisdiction by mailing a hard copy of your request to the contact information listed below. If you are based in the European Union or the European Economic Area, please mail your request to Twitter International Unlimited Company in Ireland (see “Contact Information” section below). Requests submitted by mail should expect longer response times. 
 
-Find more information on our Country Withheld Content policy [here](https://help.twitter.com/en/rules-and-policies/tweet-withheld-by-country).
+Find more information on our Country Withheld Content policy [here](https://help.x.com/en/rules-and-policies/tweet-withheld-by-country).
 
 ### Assisting an X user
 
   
-Registered X users can obtain a download of their own account information, including posts posted to his or her X account. Directions on how a user can request that information are available in our [Help Center](https://help.twitter.com/en/managing-your-account/how-to-download-your-twitter-archive).
+Registered X users can obtain a download of their own account information, including posts posted to his or her X account. Directions on how a user can request that information are available in our [Help Center](https://help.x.com/en/managing-your-account/how-to-download-your-twitter-archive).
 
-Users may also obtain IP logs and other data directly via his or her X account, as explained in our [Help Center](https://help.twitter.com/en/managing-your-account/accessing-your-twitter-data). If a X user has attempted, unsuccessfully, to self-download the data they seek, please direct the user to send a request to X via our [privacy form](https://help.twitter.com/forms/privacy).  
+Users may also obtain IP logs and other data directly via his or her X account, as explained in our [Help Center](https://help.x.com/en/managing-your-account/accessing-your-twitter-data). If a X user has attempted, unsuccessfully, to self-download the data they seek, please direct the user to send a request to X via our [privacy form](https://help.x.com/forms/privacy).  
  
 
 **Other issues**
 
-Most issues can be resolved by having X account holders submit inquiries directly to us through our Help Center. More information on how to report violations is available [here](https://help.twitter.com/en/rules-and-policies/twitter-report-violation).  
+Most issues can be resolved by having X account holders submit inquiries directly to us through our Help Center. More information on how to report violations is available [here](https://help.x.com/en/rules-and-policies/twitter-report-violation).  
  
 
 **General inquiries**
