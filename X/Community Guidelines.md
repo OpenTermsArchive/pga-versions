@@ -6,30 +6,30 @@ X's purpose is to serve the public conversation. Violence, harassment and other 
 
 ### Safety
 
-Violent Speech: You may not threaten, incite, glorify, or express desire for violence or harm. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+Violent Content: You may share graphic media if it is properly labeled, not prominently displayed and is not excessively gory or depicting sexual violence, but explicitly threatening, inciting, glorifying, or expressing desire for violence is not allowed. [Learn more](https://help.x.com/en/rules-and-policies/violent-speech.html).
 
-Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/en/rules-and-policies/violent-entities.html).
+Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/rules-and-policies/violent-entities.html).
 
-Child Sexual Exploitation: We have zero tolerance for child sexual exploitation on X. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
+Child Safety: We have zero tolerance for any forms of child sexual exploitation and remove certain media depicting physical child abuse to prevent the normalization of violence against children. [Learn more](https://help.x.com/en/rules-and-policies/sexual-exploitation-policy.html).  
 
-Abuse/Harassment: You may not share abusive content, engage in the targeted harassment of someone, or incite other people to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html).
+Abuse/Harassment: You may not share abusive content, engage in the targeted harassment of someone, or incite other people to do so. [Learn more](https://help.x.com/en/rules-and-policies/abusive-behavior.html).
 
-Hateful conduct: You may not attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. [Learn more](https://help.twitter.com/en/rules-and-policies/hateful-conduct-policy.html). 
+Hateful conduct: You may not attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. [Learn more](https://help.x.com/en/rules-and-policies/hateful-conduct-policy.html). 
 
-Perpetrators of Violent Attacks: We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, and may also remove posts disseminating manifestos or other content produced by perpetrators. [Learn more](https://help.twitter.com/en/rules-and-policies/perpetrators-of-violent-attacks.html). 
+Perpetrators of Violent Attacks: We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, and may also remove posts disseminating manifestos or other content produced by perpetrators. [Learn more](https://help.x.com/en/rules-and-policies/perpetrators-of-violent-attacks.html). 
 
-Suicide: You may not promote or encourage suicide or self-harm. [Learn more](https://help.twitter.com/en/rules-and-policies/glorifying-self-harm.html).
+Suicide: You may not promote or encourage suicide or self-harm. [Learn more](https://help.x.com/en/rules-and-policies/glorifying-self-harm.html).
 
-Sensitive media: You may not post media that is excessively gory or share violent or adult content within live video or in profile or header images. Media depicting sexual violence and/or assault is also not permitted. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
+Adult Content: You may share consensually produced and distributed adult nudity or sexual behavior, provided it's properly labeled and not prominently displayed. [Learn more](https://help.x.com/en/rules-and-policies/media-policy.html). 
 
-Illegal or Certain Regulated Goods or Services: You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. [Learn more](https://help.twitter.com/en/rules-and-policies/regulated-goods-services.html).  
+Illegal or Certain Regulated Goods or Services: You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. [Learn more](https://help.x.com/en/rules-and-policies/regulated-goods-services.html).  
   
 
 ### Privacy
 
-Private Information: You may not publish or post other people's private information (such as home phone number and address) without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/personal-information.html).
+Private Information: You may not publish or post other people's private information (such as home phone number and address) without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so. [Learn more](https://help.x.com/en/rules-and-policies/personal-information.html).
 
-Non-Consensual Nudity: You may not post or share intimate photos or videos of someone that were produced or distributed without their consent. [Learn more](https://help.twitter.com/en/rules-and-policies/intimate-media.html).
+Non-Consensual Nudity: You may not post or share intimate photos or videos of someone that were produced or distributed without their consent. [Learn more](https://help.x.com/en/rules-and-policies/intimate-media.html).
 
 Account Compromise: You may not use or attempt to use credentials, passwords, tokens, keys, cookies or other data to log into or otherwise access, add, delete or modify the private information or account features of any X account other than your own (or those you have been directly authorized to do so via X’s Teams authorization, OAuth authorization or similar mechanism).   
   
@@ -37,15 +37,15 @@ Account Compromise: You may not use or attempt to use credentials, passwords, to
 ### Authenticity
 
   
-Platform Manipulation and Spam: You may not use X’s services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience on X. [Learn more](https://help.twitter.com/en/rules-and-policies/platform-manipulation.html).
+Platform Manipulation and Spam: You may not use X’s services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience on X. [Learn more](https://help.x.com/en/rules-and-policies/authenticity.html).
 
-Civic Integrity: You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes. This includes posting or sharing content that may suppress participation or mislead people about when, where, or how to participate in a civic process. [Learn more](https://help.twitter.com/en/rules-and-policies/election-integrity-policy.html).
+Civic Integrity: You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes. This includes posting or sharing content that may suppress participation or mislead people about when, where, or how to participate in a civic process. [Learn more](https://help.x.com/en/rules-and-policies/election-integrity-policy.html).
 
-Misleading and Deceptive Identities: You may not impersonate individuals, groups, or organizations to mislead, confuse, or deceive others, nor use a fake identity in a manner that disrupts the experience of others on X. [Learn more](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+Misleading and Deceptive Identities: You may not impersonate individuals, groups, or organizations to mislead, confuse, or deceive others, nor use a fake identity in a manner that disrupts the experience of others on X. [Learn more](https://help.x.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
 
-Synthetic and Manipulated Media: You may not deceptively share synthetic or manipulated media that are likely to cause harm. In addition, we may label posts containing synthetic and manipulated media to help people understand their authenticity and to provide additional context. [Learn more](https://help.twitter.com/en/rules-and-policies/manipulated-media.html).
+Synthetic and Manipulated Media: You may not deceptively share synthetic or manipulated media that are likely to cause harm. In addition, we may label posts containing synthetic and manipulated media to help people understand their authenticity and to provide additional context. [Learn more](https://help.x.com/en/rules-and-policies/manipulated-media.html).
 
-Copyright and Trademark: You may not violate others’ intellectual property rights, including copyright and trademark. Learn more about our [trademark policy](https://help.twitter.com/en/rules-and-policies/twitter-trademark-policy.html) and [copyright policy](https://help.twitter.com/en/rules-and-policies/copyright-policy.html).  
+Copyright and Trademark: You may not violate others’ intellectual property rights, including copyright and trademark. Learn more about our [trademark policy](https://help.x.com/en/rules-and-policies/twitter-trademark-policy.html) and [copyright policy](https://help.x.com/en/rules-and-policies/copyright-policy.html).  
   
 
 ### Third-party advertising in video content
@@ -57,51 +57,124 @@ You may not submit, post, or display any video content on or through our service
 Enforcement and Appeals
 
   
-Learn more about [our approach to enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html), including potential consequences for violating these rules or attempting to circumvent enforcement, as well as how to appeal.
+Learn more about [our approach to enforcement](https://help.x.com/en/rules-and-policies/enforcement-philosophy.html), including potential consequences for violating these rules or attempting to circumvent enforcement, as well as how to appeal.
 
-Violent Speech Policy
-=====================
+Violent Content 
 
-### Overview 
+**May 2024**
 
-**October 2023**
+**You may share graphic media if it is properly labeled, not prominently displayed and is not excessively gory or depicting sexual violence, but explicitly threatening, inciting, glorifying, or expressing desire for violence is not allowed.** 
 
-**You may not threaten, incite, glorify, or express desire for violence or harm.**
+X is a place where people can express themselves, show and learn about what’s happening, and debate global issues, often sharing images and videos as part of the conversation. However, healthy conversations can’t thrive when Violent Speech is used to deliver a message, and not every participant wishes to be exposed to Violent Media. As a result, we may remove or reduce the visibility of Violent Content to ensure the safety of our users and prevent the normalization or glorification of violent actions. We also do not allow sharing Violent Content in highly visible places such as profile photos, banners or bio.  
 
-X is a place where people can express themselves, learn about what’s happening, and debate global issues. However, healthy conversations can’t thrive when violent speech is used to deliver a message. As a result, we may remove or reduce the visibility of violent speech in order to ensure the safety of our users and prevent the normalization of violent actions.  
- 
+How we define Violent Content
 
-### What is in violation of this policy? 
+Violent Content is any content containing Violent Speech or Violent Media, as defined below: 
 
-**Violent Threats**  
+**Violent Speech:** Content that threatens, incites, glorifies, or expresses desire for violence or harm.
 
-You may not threaten to inflict physical harm on others, which includes (but is not limited to) threatening to kill, torture, sexually assault, or otherwise hurt someone. This also includes threatening to damage civilian homes and shelters, or infrastructure that is essential to daily, civic, or business activities.
+### Learn more about our enforcement
 
-**Wish of Harm**
+Not Allowed  
 
-You may not wish, hope, or express desire for harm. This includes (but is not limited to) hoping for others to die, suffer illnesses, tragic incidents, or experience other physically harmful consequences.
+We prohibit Violent Speech that we consider high in severity and likelihood of harm. Such content must be removed and subsequent violations may result in the account being placed in read-only mode or suspended. Examples include explicit statements that are:
 
-**Incitement of Violence**
+* Violent Threats: Threats to inflict physical harm on others, which includes threatening to kill, torture, sexually assault, or otherwise hurt someone. This also includes threatening to damage civilian homes and shelters, or infrastructure that is essential to daily, civic, religious, or business activities;
+* Wish of Harm: Wishing, hoping or expressing desire for harm. This includes hoping for others to die, suffer illnesses, tragic incidents, or experience other physically harmful consequences;
+* Incitement of Violence: Inciting, promoting or encouraging others to commit acts of violence or harm, including encouraging others to hurt themselves or inciting others to commit atrocity crimes such as crimes against humanity, war crimes or genocide;
+* Glorification of Violence: Glorifying, praising, or celebrating acts of violence where harm occurred, including expressing gratitude or praising that someone experienced physical harm by [Violent Entities](https://help.x.com/en/rules-and-policies/violent-entities). This also includes glorifying animal abuse or cruelty. 
 
-You may not incite, promote, or encourage others to commit acts of violence or harm, which includes (but is not limited to) encouraging others to hurt themselves or inciting others to commit atrocity crimes including crimes against humanity, war crimes or genocide. This also includes using coded language (often referred to as "dog whistles") to indirectly incite violence.
+We also prohibit Violent Speech within areas that are highly visible on X, such as in live video, profile, header, bio, list banner images, or community cover photos.
 
-**Glorification of Violence**
+Restricted Reach 
 
-You may not glorify, praise, or celebrate acts of violence where harm occurred, which includes (but is not limited to) expressing gratitude that someone experienced physical harm or praising [Violent entities](https://help.twitter.com/rules-and-policies/violent-entities) and [Perpetrators of Violent Attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). This also includes glorifying animal abuse or cruelty.
+We ensure we take proportionate action based on the severity and likelihood of harm. Therefore, in certain cases, we may make the violative content less visible by [restricting its reach](https://help.x.com/rules-and-policies/enforcement-options) on X. This includes when we assessed:
 
-### What is not a violation of this policy?  
+* harm is minor or non-deliberate;
+    
+* context is self-defense or military conflict; 
+    
+* context is outrage or reactive against perpetrators of major harm; 
+    
+* the target is unclear; 
+    
+* usage of coded language (often referred to as "dog whistles") to indirectly incite violence.
+    
 
-We make sure to evaluate and understand the context behind the conversation before taking action, and we allow expressions of violent speech when there is no clear abusive or violent context, such as (but not limited to) hyperbolic and consensual speech between friends, or during discussion of video games and sporting events. 
+Allowed
 
-We also allow certain cases of figures of speech, satire, or artistic expression when the context is expressing a viewpoint rather than instigating actionable violence or harm.
+We seek to evaluate and understand contextual nuances behind the conversation before taking action, and we allow expressions of Violent Speech when there is no clear abusive or violent context, such as:
 
-### What happens if you violate this policy?  
+* hyperbolic and consensual speech between friends, or during discussion of video games and sporting events; 
+    
+* figures of speech, satire, or artistic expression when the context is expressing a viewpoint rather than instigating actionable violence or harm;
+    
+* quotes from books and movies, music lyrics or poetry when the context is expressing a viewpoint rather than instigating actionable violence or harm.
+    
 
-In certain cases, we will immediately and permanently suspend any account that violates this policy. However, for most violations, we may instead temporarily lock you out of your account before you can Post again. In rare cases, we may make the violative content less visible by [restricting its reach](https://help.twitter.com/rules-and-policies/enforcement-options) on X. However, if you continue to violate this policy after receiving a warning, your account may be permanently suspended. 
+**Violent Media**: Visual material depicting graphic, violent or excessively gory content including sexual violence. 
 
-We also recognize that conversations regarding certain individuals credibly accused of severe violence may prompt outrage and associated violent speech. In these limited cases, we may take less punitive measures.  
+### Learn more about our enforcement
 
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options.html). If someone believes we took an enforcement action in error, they can [submit an appeal](https://help.twitter.com/forms/account-access/appeals.html).
+Not Allowed  
+
+We prohibit Violent Media that we consider high in severity and likelihood of harm. Such content must be removed and subsequent violations may result in the account being placed in read-only mode or suspended. This includes:
+
+* Violent Sexual Conduct: Media that depicts violence, whether real or simulated, in association with sexual acts, including rape and other forms of violent sexual assault such as sexual acts that occur without the consent of participants, and sexualized violence within an intimate setting, where it is not immediately obvious if those involved have consented to take part;
+* Gratuitous Gore: Media of humans or animals that depicts excessively graphic or gruesome content related to death, violence or severe physical harm including dismembered or mutilated humans, charred or burned human remains, exposed internal organs or bones and animal torture or killing; 
+    
+* Moment of Death: Images or videos where a reasonably identifiable person is clearly deceased or depicts the murder of an identifiable individual if we receive a request from their family or an authorized representative; 
+    
+* Bestiality & Necrophilia: Media that depicts sexual acts between a human and an animal or sexual acts between a living human and a human corpse.
+
+We also prohibit Violent Media within areas that are highly visible on X, such as in live video, profile, header, list banner images, or community cover photos or targeting someone nonconsensually with unwanted Violent Media. 
+
+Restricted Reach
+
+You’re allowed to post the following Violent Media provided it’s properly labeled with a content warning so users who do not wish to see it can avoid it. This also helps ensure children below the age of 18 are not exposed to it. Examples include depictions of Graphic Media, such as:
+
+* violent crimes or accidents;
+    
+* physical fights;
+    
+* bodily fluids including blood, feces etc.;
+    
+* serious physical harm, including visible wounds;
+    
+* severely injured or mutilated animals;
+    
+
+* media of humans or animals that depicts death, violence, medical procedures, or serious physical injury in graphic detail but does not rise to the threshold of excessively gory;
+* excessively gory media that is otherwise removed may remain on the platform if it is associated with newsworthy events, to raise awareness or to call for political action, and is properly labeled with a content warning.
+
+Allowed 
+
+We seek to evaluate and understand contextual nuances surrounding the content before taking action, therefore, we allow some types of media without removal or restriction, such as when there is: 
+
+* violence depicting animals as a result of hunting or fishing, food manufacturing or processing, bullfighting, or religious sacrifice unless it contains excessively gory content;
+* painted or illustrated art portraying violence; 
+* humor or satire, including memes;
+* physical recovery or medical content such as scars or healed wounds, stitches, or prosthetics;
+* simulated blood used for events, protests, entertainment or art;
+* historical content including media from history books, or museum stills;
+
+* explosions, altercations, destruction of property, surveillance media or shootings with no prohibited Violent Media present.
+
+How to mark your content 
+
+If you regularly post Graphic Media on X, we ask that you [adjust](https://help.x.com/en/rules-and-policies/media-settings) your media settings. Doing so places all your images and videos behind a content warning that needs to be acknowledged before your media can be viewed. You can also add a one-time content warning on individual posts. If you continue to fail marking your posts, we will adjust your account settings for you. 
+
+Users under 18 or viewers who do not include a birth date on their profile cannot click to view marked content. Learn more about age restricted content [here](https://help.x.com/en/rules-and-policies/notices-on-twitter.html). 
+
+You may begin to see new media content warnings on posts that X has designated as containing Graphic Content (instead of a generic sensitive media label). When these new content warnings are available for you to use, please be sure to continue marking your media accordingly.
+
+How to report 
+
+Anyone can report unmarked content or other violations using our dedicated in-app reporting flow. 
+
+Appeals
+
+If you believe we made a mistake, you can [submit an appeal](https://help.x.com/en/forms/account-access/appeals.html).
 
 Violent and hateful entities policy
 ===================================
@@ -111,13 +184,13 @@ Violent and hateful entities policy
 **  
 April 2023**
 
-There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
+There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.x.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
 
 **You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
 
-Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
+Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.x.com/rules-and-policies/perpetrators-of-violent-attacks). 
 
-Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.x.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
 
 ### What is in violation of this policy?
 
@@ -164,82 +237,168 @@ You can report this content for review via desktop as follows:
 ### What happens if you violate this policy?
 
   
-We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.x.com/forms/general?subtopic=suspended).  
  
 
 ### Additional resources
 
   
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+Learn more about [our range of enforcement options](https://help.x.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.x.com/rules-and-policies/enforcement-philosophy).
 
-To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
+To learn more about violations related to [specific threats of violence](https://help.x.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.x.com/rules-and-policies/abusive-behavior) policy.
 
-Child sexual exploitation policy
-================================
+Child safety
 
-### Overview 
+### **May 2024**  
 
-**October 2020**
+**We have zero tolerance for any forms of child sexual exploitation and remove certain media depicting physical child abuse to prevent the normalization of violence against children.**
 
-**We have a zero-tolerance child sexual exploitation policy on X.**
+Our Child Safety policy is designed to protect minors from sexual and physical abuse, as well as psychological harm that may result from sharing such content. With this principle in mind, Child Safety content is any content that contains Child Sexual Exploitation, Physical Child Abuse Media and Media of Minors in Physical Altercation, as defined below. 
 
-X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
-  
+We encourage our users to come to X to share stories, raise awareness, and speak their mind - including calling attention to the exploitation of children and minors. However, even when shared with the intent to bring awareness or justice, to express outrage or sharing content in a humoristic context, posting media of children experiencing sexual abuse or certain types of physical abuse can contribute to their revictimization and may even lead to the normalization of sexual or physical violence against children. When this content is shared on X, we may remove it even if it was shared with good intent. Our priority is to protect minors from physical and psychological harm irrespective of the context in which the content may be shared. 
 
-### What is in violation of this policy? 
+We use the terms children and minors interchangeably in any of our policies and define them as any person under the age of 18. 
 
-Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+**Child Sexual Exploitation**
 
-* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
-* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
-* sexualized commentaries about or directed at a known or unknown minor; and
-* links to third-party sites that host child sexual exploitation material.  
-     
+X has zero tolerance towards any material that features or promotes child sexual exploitation. This may include real media, text, illustrated, or computer-generated media - including generative AI media. Regardless of the intent, anyone viewing, sharing, linking, or engaging with any kind of child sexual exploitation material contributes to the re-victimization of the depicted children and puts children at an extreme risk of being harmed. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation.
 
-The following behaviors are also not permitted:   
+### Learn more
 
-* sharing fantasies about or promoting engagement in child sexual exploitation;
-* expressing a desire to obtain materials that feature child sexual exploitation;
-* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
-* sending sexually explicit media to a child;
-* engaging or trying to engage a child in a sexually explicit conversation;
-* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
-* identifying alleged victims of childhood sexual exploitation by name or image; and
-* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
-     
+**Not allowed** 
 
-### What is not a violation of this policy? 
+Any content that depicts or promotes child sexual exploitation is strictly prohibited on X. This includes, but is not limited to, directly or indirectly sharing, requesting, linking to, engaging with (such as liking or reposting, or following accounts that distribute), expressing a desire for, or describing:
 
-* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
-* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
-* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
-* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
-     
+* depictions of a child engaging in sexually explicit or suggestive acts, which may include edits of such media, such as obscuring faces or body parts;
+* sexualized commentaries about or directed at a known (or unknown) minor;
+    
+* links to third-party sites that host child sexual exploitation materials of any kind; and
+    
+* fantasies about or promoting engagement in child sexual exploitation.
+    
 
-### Who can report violations of this policy? 
+Additionally, we prohibit any of the following:
 
-Anyone can report potential violations of this policy, whether they have an X account or not.   
- 
+* identifying alleged victims of childhood sexual exploitation by name or image;
+    
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation;
+    
+* sending sexually explicit media to a child, or engaging or trying to engage a child in a sexually explicit conversation;
+    
+* trying to obtain sexually explicit media from a child, or trying to engage a child in sexual activity through blackmail or other incentives;
+    
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes; and
+    
+* threatening to share, or requesting that others share sexual media of minors, including self-generated sexual media of minors, particularly when engaging in blackmail or bounty tactics.
+    
 
-### How can I report violations of this policy? 
+**Allowed** 
 
-If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
- 
+We will make very limited exceptions to content related to child sexual exploitation only where there is a low risk of direct harm to the minor(s):  
 
-### What happens if you violate this policy? 
+* discussion related to child sexual exploitation that does not promote or glorify child sexual exploitation in any way or identify the potential victim;
+    
+* victims sharing their stories, provided they do not contain explicit details or media;
+    
+* conversations about help-seeking behavior of individuals who may struggle with an attraction to minors; and
+    
+* advocacy against illegal or harmful activity involving minors, provided there is no sharing of, or linking to any material featuring child sexual exploitation.
+    
 
-In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+**For violations of our Child Sexual Exploitation policy:**
 
-In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
-  
+* in the majority of cases, users will be immediately and permanently suspended; 
+* additionally, when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, the accounts sharing this content will be reported to the National Center for Missing & Exploited Children (NCMEC); and
+    
+* for certain violations, we may instead require post removal. For example, we may ask someone to remove the violating content. Subsequent violations may lead to account suspension.
+    
 
-### Additional resources 
+**Physical Child Abuse Media**
 
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+To prevent the revictimization or normalization of violence against children, we will remove most instances of media depicting physical child abuse, even if shared to raise awareness or express outrage.
 
-If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
+When assessing the best course of action to take, we consider:
 
-We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
+* whether the child is nude, partially clothed, or fully clothed;
+    
+* the severity of harm the child is experiencing; and 
+    
+* whether the media was shared with abusive, non-abusive, or newsworthy context.
+    
+
+### Learn more
+
+**Not allowed** 
+
+With the above criteria in mind, we are more likely to remove any media: 
+
+* where the child is nude and experiencing any type of harm;
+    
+* shared with abusive context; and
+    
+* where the child is experiencing moderate or major harm.
+    
+
+**Restricted reach**
+
+We will make limited exceptions to media depicting physical child abuse in certain circumstances, such as:  
+
+* when the media is being shared to identify the child in order to rescue them from the abusive situation, or identify the perpetrator; and
+    
+* when the media is being shared by news organizations.
+    
+
+If we decide to allow this media on the platform, we will require it to be placed behind our Graphic Content warning.  
+
+**For violations of our Physical Child Abuse Media policy, we may:**
+
+Make the content less visible on X by:
+
+* applying a content warning; or
+* requiring post removal. For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can post again. Subsequent violations may lead to account suspension.
+
+Suspend accounts whose sole purpose appears to be to engage in the types of behavior prohibited above.
+
+**Media of Minors in Physical Altercation**
+
+We aim to protect the wellbeing of minors involved in physical altercation, regardless of their status (i.e victim or aggressor), while balancing the need to raise awareness of these issues. When assessing the best course of action to take, we may consider whether:
+
+* the content is shared with an abusive or non-abusive context;
+    
+* we have received a report from the minor or an authorized representative; and
+    
+* the content is excessively graphic.
+    
+
+### Learn more
+
+**Restricted reach**
+
+We will make limited exceptions to media depicting children in physical altercation in certain circumstances, such as when the media is being shared by news organizations. If we decide to allow this media on the platform, we may require it to be placed behind a content warning.  
+
+**For violations of our Media of Minors is Physical Altercation policy:**
+
+* We may require post removal upon receiving a report from the minor or an authorized representative.  For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can post again. Subsequent violations may lead to account suspension; 
+    
+* when sharing content that is abusive towards the victim [Abusive Behavior](https://help.x.com/en/rules-and-policies/abusive-behavior) policies may apply; and
+    
+* when sharing content that is Graphic or includes Gratuitous Gore, our [Sensitive Media](https://help.x.com/en/rules-and-policies/media-policy) policies may apply.
+
+**How to Report**
+
+Anyone can report violations of this policy using our dedicated in-app reporting flow or via our [Help Center](https://help.x.com/en/forms/safety-and-sensitive-content/cse). An X account is not needed to report potential violations. 
+
+If you believe a child is at immediate risk of harm or death, please reach out to your local law enforcement. Additionally, after reporting potential violations of our Child Sexual Exploitation policy to us, you can also notify the National Center for Missing & Exploited Children (NCMEC) by using their [CyberTipline](https://report.cybertip.org/) portal or calling 1-800-843-5678. 
+
+**Note**: it can be illegal to engage with content that violates our Child Sexual Exploitation policy. Please be sure to report the content right away and do not like, reply to, quote-post, screenshot, follow accounts who distribute, or otherwise engage with the content; We do not require you to provide evidence of the potential violation in your report.
+
+**Appeals**
+
+If you believe we made a mistake, you can [submit an appeal](https://help.x.com/en/forms/account-access/appeals.html).
+
+### More Information
+
+We are constantly seeking feedback and input from trusted organizations that are aligned in the mission to combat online child sexual exploitation. To learn more about our partnerships [read the update on our work to tackle Child Sexual Exploitation on X](https://blog.x.com/en_us/topics/company/2023/an-update-on-our-work-to-tackle-child-sexual-exploitation-on-x).
 
 Abuse and Harassment
 ====================
@@ -285,7 +444,7 @@ We prohibit behavior that encourages others to harass or target specific individ
 ###   
 Unwanted Sexual Content & Graphic Objectification  
 
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/rules-and-policies/media-policy) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
+While some [consensual nudity and adult content is permitted](https://help.x.com/rules-and-policies/media-policy) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
 
 * sending someone unsolicited and/or unwanted adult media (images, videos, and GIFs) 
     
@@ -347,7 +506,7 @@ When determining the penalty for violating this policy, we consider a number of 
 * Suspending accounts whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
     
 
-To learn more, please see our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options), and if someone believes their account was enforced against in error, they can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).
+To learn more, please see our [range of enforcement options](https://help.x.com/rules-and-policies/enforcement-options), and if someone believes their account was enforced against in error, they can [submit an appeal](https://help.x.com/forms/account-access/appeals).
 
 Hateful Conduct
 ===============
@@ -364,7 +523,7 @@ We recognize that if people experience abuse on X, it can jeopardize their abili
 
 We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
 
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
+If you see something on X that you believe violates this policy, please [report it to us](https://help.x.com/en/forms/safety-and-sensitive-content/abuse.html).
 
 ### What is in violation of this policy?  
 
@@ -386,7 +545,7 @@ We prohibit inciting behavior that targets individuals or groups of people belon
 * inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
 * inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
 
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.x.com/en/rules-and-policies/violent-speech.html).
 
 **Slurs and Tropes**  
   
@@ -441,9 +600,9 @@ When determining the penalty for violating this policy, we consider a number of 
     * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
 * Suspending accounts that violate our Hateful Profile policy.
 
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
+Learn more about our [range of enforcement options](https://help.x.com/en/rules-and-policies/enforcement-options.html). 
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
+If someone believes their account was suspended in error, they can [submit an appeal](https://help.x.com/en/forms/account-access/appeals.html).
 
 Perpetrators of Violent Attacks
 ===============================
@@ -470,7 +629,7 @@ We define a manifesto as a statement by a perpetrator outlining their motivation
 
 **Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
 
-Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
+Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.x.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
 
 Suicide and Self-harm policy
 ============================
@@ -523,9 +682,9 @@ Some examples of behavior that are not considered a violation of this policy inc
 
 ### Who can report violations of this policy? 
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.x.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
 
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.x.com/en/rules-and-policies/twitter-law-enforcement-support).  
  
 
 ### How to report violations of this policy 
@@ -558,7 +717,7 @@ You can report this content for review on desktop as follows:
 
 **Reporting form**
 
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+You can also report this content for review via [our dedicated report form](https://help.x.com/forms/report_self_harm).  
  
 
 **In-App**
@@ -604,9 +763,9 @@ You can report this content for review on desktop as follows:
 
 Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
 
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.x.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.x.com/forms/general?subtopic=suspended).  
 
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.x.com/en/safety-and-security/phishing-spam-and-malware-links).   
   
 
 Additional resources  
@@ -614,150 +773,105 @@ Additional resources
 
 ==========================
 
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+Learn more about our [range of enforcement options](https://help.x.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.x.com/rules-and-policies/enforcement-philosophy).
 
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+[Learn more](https://help.x.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
 
 Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
 
-Sensitive Media
-===============
+Adult Content
 
-### Overview
+**May 2024**
 
-**January 2024**
+**You may share consensually produced and distributed adult nudity or sexual behavior, provided it's properly labeled and not prominently displayed.**
 
-**You may post content that falls under our definitions of Graphic Content, Adult Nudity, and Sexual Behavior with a content warning, but you may not share this media in a live video, or in your profile picture or header, List banner, or Community cover photo. Media depicting Gratutitous Gore, Violent Sexual Conduct, or Bestiality and Necrophilia is not permitted.**
+We believe that users should be able to create, distribute, and consume material related to sexual themes as long as it is consensually produced and distributed. Sexual expression, whether visual or written, can be a legitimate form of artistic expression. We believe in the autonomy of adults to engage with and create content that reflects their own beliefs, desires, and experiences, including those related to sexuality. We balance this freedom by restricting exposure to Adult Content for children or adult users who choose not to see it. We also prohibit content promoting exploitation, nonconsent, objectification, sexualization or harm to minors, and obscene behaviors. We also do not allow sharing Adult Content in highly visible places such as profile photos or banners.  
 
-People use X to show what’s happening in the world, often sharing images and videos as part of the conversation. Sometimes, this media can depict sensitive topics, including graphic content, adult nudity, and sexual behavior. We recognize that some people may not want to be exposed to sensitive content, which is why we balance allowing people to share this type of media with helping people who want to avoid it to do so. 
+How we define Adult Content  
 
-For this reason, you can’t include graphic content, adult nudity, or sexual behavior within areas that are highly visible on X, including in live video, your profile picture or header, List banners, or Community cover photos. If you share this content on X, you need to [mark](https://help.twitter.com/en/rules-and-policies/media-settings.html) your media or your account as sensitive. Doing so places images and videos behind a content warning that needs to be acknowledged before your media can be viewed. Using this feature means that people who don’t want to see sensitive media can avoid it, or make an informed decision before they choose to view it. We also restrict graphic media, adult nudity, and sexual behavior for viewers who are under 18 or viewers who do not include a birth date on their profile. Learn more about age restricted content [here](https://help.twitter.com/en/rules-and-policies/notices-on-twitter.html). Beginning January 2024, you may begin to see new media content warnings on posts that X has designated as Graphic (containing violent or hateful imagery) or containing Adult media (adult nudity and sexual behavior). When these new content warnings are available for you to use, please be sure to continue marking your sensitive media accordingly.
+Adult Content is any consensually produced and distributed material depicting adult nudity or sexual behavior that is pornographic or intended to cause sexual arousal. This also applies to AI-generated, photographic or animated content such as cartoons, hentai, or anime. Examples include depictions of:
 
-Under this policy, there are also some types of sensitive media that we don’t allow at all, because they have the potential to normalize violence and cause distress to those who view them. 
-
-We group sensitive media content into the following categories: 
-
-**  
-Graphic Content**
-
-Graphic Content is any media that depicts death, violence, medical procedures, or serious physical injury in graphic detail. Some examples include, but are not limited to, depictions of:
-
-* violent crimes or accidents; 
-* physical fights;
-* physical child abuse;
-* bodily fluids including blood, feces, semen etc.;
-* serious physical harm, including visible wounds; and
-* severely injured or mutilated animals.   
-     
-
-**Note:** exceptions may be made for documentary or educational content.   
-  
-
-**Adult Nudity and Sexual Behavior**
-
-Adult Nudity and Sexual Behavior is any consensually produced and distributed media that is pornographic or intended to cause sexual arousal. Some examples include, but are not limited to, depictions of:
-
-* full or partial nudity, including close-ups of genitals, buttocks, or breasts (excluding content related to breastfeeding);
-* simulated sexual acts; and
-* sexual intercourse or other sexual acts – this also applies to cartoons, hentai, or anime involving humans or depictions of animals with human-like features.  
-     
-
-**Note:** exceptions may be made for artistic, medical, health, or educational content.   
-  
-
-For content that was created or distributed without the consent of those featured, please refer to our [non-consensual nudity policy](https://help.twitter.com/en/rules-and-policies/intimate-media.html).   
-  
-
-**Violent Sexual Conduct**
-
-Violent Sexual Conduct is any media that depicts violence, whether real or simulated, in association with sexual acts. Some examples include, but are not limited to, depictions of:
-
-* rape and other forms of violent sexual assault, or sexual acts that occur without the consent of participants, including a simulated lack of consent; and
-* sexualized violence – inflicting physical harm on an individual within an intimate setting, where it is not immediately obvious if those involved have consented to take part.  
-     
-
-**Bestiality and Necrophilia**
-
-Bestiality is any media that depicts sexual acts between a human and an animal. Necrophilia is any media that depicts sexuals acts between a living human and a human corpse.
-
-**Gratuitous Gore**
-
-Gratuitous Gore is any media that depicts excessively graphic or gruesome content related to death, violence or severe physical harm, or graphic content that is shared for sadistic purposes. Some examples include, but are not limited to, depictions of:
-
-* dismembered or mutilated humans;
-* charred or burned human remains;
-* exposed internal organs or bones; and
-* animal torture or killing. 
-
-**Note:** exceptions may be made for religious sacrifice, food preparation or processing, and hunting. 
-
-**For deceased individuals, please refer to our [Deceased individuals policy](https://help.twitter.com/en/rules-and-policies/contact-twitter-about-media-on-a-deceased-family-members-account.html).**
-
-### What is in violation of this policy?
-
-  
-Our aim is to limit exposure to sensitive images and videos and to prevent the sharing of potentially disturbing types of sensitive media. For this reason, we differentiate our enforcement approach depending on the type of media that has been shared and where it has been shared.   
- 
-
-**Graphic Content, Adult Nudity, and Sexual Behavior**  
-
-* you can’t target people with unsolicited images or videos that contain Graphic Content, Adult Nudity, and Sexual Behavior
-* you can’t include Graphic Content, Adult Nudity, or Sexual Behavior within live video, or in your profile picture or header, List banners, or Community cover photos.  
-     
-
-**Violent Sexual Conduct, Bestiality and Necrophilia, and Gratuitous Gore**
-
-We strictly prohibit sharing Violent Sexual Conduct and Bestiality and Necrophilia to prevent the normalization of sexual assault and non-consensual violence associated with sexual acts. We also prohibit Gratuitous Gore content because research has shown that repeated exposure to excessively graphic content online may negatively impact an individual’s wellbeing. 
-
-**Note:** very limited exceptions may be made for gory media associated with newsworthy events. 
-
-### What is not a violation of this policy?
-
-  
-You can share Graphic Content, Adult Nudity, and Sexual Behavior within your posts, provided that you mark this media with a content warning.
-
-You can adjust your media settings if you intend to regularly post this content, or add one-time content warnings to individual posts. Learn more [here](https://help.twitter.com/en/rules-and-policies/media-settings). If you don’t mark your media as sensitive, we will do so manually if your content is reported for review.  We may also limit exposure of posts depicting Graphic Content, Adult Nudity, and Sexual Behavior.
-
-### Who can report violations of this policy?
-
-  
-Anyone can report potential violations of this policy via our dedicated [reporting flows](https://help.twitter.com/en/safety-and-security/report-a-post). 
-
-### What happens if you violate this policy?
-
-  
-The enforcement action we take depends on the type of media you have shared, and where you have shared it.   
- 
-
-**Graphic Content, Adult Nudity, and Sexual Behavior**
-
-* if shared in a live video, or in your profile picture or header, List banner, or Community cover photo - we will require you to remove this content
+* full or partial nudity, including close-ups of genitals, buttocks, or breasts;  
     
-* if you target someone with this content, we'll require you to remove it under our [Abuse & Harassment policy](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html)
+* explicit or implied sexual behavior or simulated acts such as sexual intercourse and other sexual acts.
+
+### Learn more about our enforcement
+
+Restricted Reach 
+
+You’re allowed to post Adult Content provided it’s properly labeled with a content warning so users who do not wish to see it can avoid it. This also means children below the age of 18 are not exposed to it. If you post content that includes any of the following categories, you need to label your content. 
+
+Adult Nudity
+
+* visible genitals or anus exposed or focused on or when prominently featured; 
     
-* we may limit exposure of posts depicting this content
+* visible female nipples;
+    
+* fully nude butts.
     
 
-**Violent Sexual Conduct, Bestiality and Necrophilia**
+Sexual Behavior
 
-* sharing these kinds of media anywhere on X is strictly prohibited. For the first time you violate this policy, we will require you to remove this content. If you violate this policy again after your first warning, your account may be permanently suspended
+* explicit sexual activity including vaginal, oral or anal sex, usage of sex toys or any form of sexual penetration;
     
-* your account may be permanently suspended if the majority of your activity on X is sharing this type of media.
+* implied sexual activity including clothed sexual simulation, states of sexual arousal such as erection or sexual activity that is pixelated, blurred, or strategically covered;
     
-
- **Gratuitous Gore**
-
-* if shared in a post, we will require you to remove this content
-    
-* if shared in a live video, or in your profile picture or header, List banner, or Community cover photo – the first time you violate this policy, we will require you to remove this content. If you violate this policy again after your first warning, your account may be permanently suspended
-    
-* your account may be permanently suspended if the majority of your activity on X is sharing this type of media.
+* bodily fluids used in sexual context. 
     
 
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+Allowed
 
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+The following content is not considered Adult Content and does not need a content warning:
+
+* educational content such as breast cancer awareness;
+    
+* medical content such as post-surgery media of breast augmentation or mastectomy;
+    
+* partial or digitally obscured nudity such as modeling or beach photos;
+    
+* activist campaigns carried out with nudity;
+    
+* artistic nudity or sexual behavior, including paintings, drawings, sculptures, or statues;
+    
+* parody or satire to convey a political idea, or lobby criticism, such as caricatures or cartoons; 
+    
+* humor about certain phenomena or theme with no intent to cause sexual arousal such as memes. 
+    
+
+Not Allowed  
+
+You can’t include Adult Content within areas that are highly visible on X, including in live video, profile pictures, headers, List banners, or Community cover photos. Such content must be removed and subsequent violations may result in the account being placed in read-only mode or suspended. 
+
+Adult Content must also comply with all X rules that result in content removal or account suspensions, including:
+
+* [Non-consensual nudity](https://help.x.com/en/rules-and-policies/intimate-media)
+    
+* [Promoting or soliciting sexual services](https://help.x.com/en/rules-and-policies/regulated-goods-services) 
+    
+* [Child sexual exploitation](https://help.x.com/en/rules-and-policies/sexual-exploitation-policy) 
+    
+* [Violent sexual conduct](https://help.x.com/en/rules-and-policies/violent-speech)
+    
+* [Unwanted sexual content & graphic objectification](https://help.x.com/en/rules-and-policies/abusive-behavior)
+    
+* [Bestiality and necrophilia](https://help.x.com/en/rules-and-policies/violent-speech) 
+    
+
+How to mark your content 
+
+If you regularly post adult content on X, we ask that you please [adjust](https://help.x.com/en/rules-and-policies/media-settings) your media settings. Doing so places all your images and videos behind a content warning that needs to be acknowledged before your media can be viewed. You can also add a one-time content warning on individual posts. If you continue to fail marking your posts, we will adjust your account settings for you. 
+
+Users under 18 or viewers who do not include a birth date on their profile cannot click to view marked content. Learn more about age restricted content [here](https://help.x.com/en/rules-and-policies/notices-on-twitter.html). 
+
+You may begin to see new media content warnings on posts that X has designated as containing Adult Content (instead of a generic sensitive media label). When these new content warnings are available for you to use, please be sure to continue marking your media accordingly.  
+
+How to report 
+
+Anyone can report unmarked content or other violations using our dedicated in-app reporting flow. 
+
+Appeals
+
+If you believe we made a mistake, you can [submit an appeal](https://help.x.com/en/forms/account-access/appeals.html).
 
 Illegal or certain regulated goods or services
 ==============================================
@@ -781,21 +895,21 @@ Goods or services covered under this policy include, but are not limited to:
 * weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
      
 
-\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
+\*Learn more about our [counterfeit](https://help.x.com/rules-and-policies/counterfeit-goods-policy) policy.  
   
 
 ### What happens if you violate this policy? 
 
 If we determine that you violated this policy, we may suspend your account, including upon first review.
 
-Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
+Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.x.com/rules-and-policies/platform-manipulation) policy. 
 
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.x.com/forms/account-access/appeals).  
  
 
 ### Additional resources 
 
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+Learn more about [our range of enforcement options](https://help.x.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.x.com/rules-and-policies/enforcement-philosophy).
 
 Private Content
 ===============
@@ -919,7 +1033,7 @@ The following are not in violation of this policy:
 
 ### Non-Consensual Nudity
 
-Pornography and other forms of consensually-produced adult content are allowed on X, provided you mark the post or [mark your account as sensitive](https://help.twitter.com/rules-and-policies/media-settings.html). Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review. 
+Pornography and other forms of consensually-produced adult content are allowed on X, provided you mark the post or [mark your account as sensitive](https://help.x.com/rules-and-policies/media-settings.html). Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review. 
 
 ### Right to Privacy
 
@@ -981,7 +1095,7 @@ When determining the penalty for violating this policy, we consider a number of 
 * Suspending accounts whose sole purpose is to post others’ private information or media of any kind. This includes accounts dedicated to sharing upskirt or creepshot media.
     
 
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options.html). If someone believes their posts or account were enforced against in error, they can [submit an appeal](https://help.twitter.com/forms/account-access/appeals.html).
+Learn more about our [range of enforcement options](https://help.x.com/rules-and-policies/enforcement-options.html). If someone believes their posts or account were enforced against in error, they can [submit an appeal](https://help.x.com/forms/account-access/appeals.html).
 
 Non-consensual nudity policy
 ============================
@@ -993,7 +1107,7 @@ December 2021**
 
 **You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
 
-Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.x.com/en/rules-and-policies/twitter-rules.html). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
   
 
 ### What is a violation of this policy?
@@ -1071,7 +1185,7 @@ You can report this content for review via desktop as follows:
 
 **Report form**  
 
-You can also report this content via [our private information report form](https://help.twitter.com/en/forms/safety-and-sensitive-content/private-information.html), by selecting the **An unauthorized photo or video** option.  
+You can also report this content via [our private information report form](https://help.x.com/en/forms/safety-and-sensitive-content/private-information.html), by selecting the **An unauthorized photo or video** option.  
  
 
 ### What happens if you violate this policy?
@@ -1079,13 +1193,13 @@ You can also report this content via [our private information report form](https
   
 We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
 
-In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).  
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.x.com/en/forms/account-access/appeals.html).  
   
 
 ### Additional resources
 
   
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+Learn more about [our range of enforcement options](https://help.x.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.x.com/en/rules-and-policies/enforcement-philosophy.html).
 
 Platform manipulation and spam policy
 =====================================
@@ -1104,7 +1218,7 @@ Platform manipulation can take many forms and our rules are intended to address 
 * commercially-motivated spam, that typically aims to drive traffic or attention from a conversation on X to accounts, websites, products, services, or initiatives;
 * inauthentic engagements, that attempt to make accounts or content appear more popular or active than they are;
 * coordinated activity, that attempts to artificially influence conversations through the use of multiple accounts, fake accounts, automation and/or scripting;
-* coordinated harmful activity that encourages or promotes behavior which violates [Our Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html); and
+* coordinated harmful activity that encourages or promotes behavior which violates [Our Rules](https://help.x.com/en/rules-and-policies/twitter-rules.html); and
 * leveraging X's open source code to circumvent remediations or platform defenses.
 
 Civic integrity policy
@@ -1161,11 +1275,11 @@ You may not engage in or promote behaviors that may coerce others to refrain fro
     
 * promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
     
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
+* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.x.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
 
 **False or misleading affiliation**
 
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.x.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
 
 **What is not a violation of this policy?**
 
@@ -1177,7 +1291,7 @@ Not all false or untrue information about politics or civic processes constitute
     
 * discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
     
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
+* using X pseudonymously or as a [parody, commentary, or fan account](https://help.x.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
 
 **What happens if you violate this policy?**
 
@@ -1194,7 +1308,7 @@ Posts that are enforced under this policy will have their reach restricted on X 
 * Downranking the Post in replies 
     
 
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.x.com/en/rules-and-policies/enforcement-options.html).
 
 Misleading and deceptive identities policy
 ==========================================
@@ -1242,14 +1356,14 @@ Using another’s trademark in a way that may mislead or confuse people about yo
 Referencing another’s trademark is not automatically a violation of X's trademark policy. Examples of non-violations include:
 
 * using a trademark in a way that is outside the scope of the trademark registration e.g., in a different territory, or a different class of goods or services than that identified in the registration; and
-* using a trademark in a nominative or other fair use manner. For more information, see our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).[](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html)
+* using a trademark in a nominative or other fair use manner. For more information, see our [Misleading and deceptive identities policy](https://help.x.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).[](https://help.x.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html)
 
 Username squatting policy
 =========================
 
-Username squatting is prohibited by the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html).
+Username squatting is prohibited by the [X Rules](https://help.x.com/en/rules-and-policies/twitter-rules.html).
 
-Please note that if an account has had no updates, no profile image, and there is no intent to mislead, it typically means there's no name-squatting or impersonation. Note that we will not release squatted usernames except in cases of trademark infringement. If your report involves [trademark infringement](https://help.twitter.com/en/rules-and-policies/twitter-trademark-policy.html), please consult those policies for instructions for reporting these accounts.   
+Please note that if an account has had no updates, no profile image, and there is no intent to mislead, it typically means there's no name-squatting or impersonation. Note that we will not release squatted usernames except in cases of trademark infringement. If your report involves [trademark infringement](https://help.x.com/en/rules-and-policies/twitter-trademark-policy.html), please consult those policies for instructions for reporting these accounts.   
 
 Attempts to sell, buy, or solicit other forms of payment in exchange for usernames are also violations and may result in permanent account suspension.
 
@@ -1335,7 +1449,7 @@ When we detect suspicious levels of activity, accounts may be locked and prompte
 
 **Blacklisting URLs**
 
-We blacklist or provide warnings about URLs we believe to be unsafe. Read more about [unsafe links](https://help.twitter.com/safety-and-security/phishing-spam-and-malware-links), including how to appeal if we’ve falsely identified your URL as unsafe.  
+We blacklist or provide warnings about URLs we believe to be unsafe. Read more about [unsafe links](https://help.x.com/safety-and-security/phishing-spam-and-malware-links), including how to appeal if we’ve falsely identified your URL as unsafe.  
  
 
 **Post deletion and temporary account locks**
@@ -1353,7 +1467,7 @@ For severe violations, accounts will be permanently suspended at first detection
 ### Additional resources
 
   
-Read more about our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy.
+Read more about our [platform manipulation and spam](https://help.x.com/rules-and-policies/platform-manipulation) policy.
 
 Financial scam policy
 =====================
@@ -1427,7 +1541,7 @@ When we detect suspicious levels of activity, accounts may be locked and prompte
 
 **Blacklisting URLs**
 
-We blacklist or provide warnings about URLs we believe to be unsafe. Read more about [unsafe links](https://help.twitter.com/safety-and-security/phishing-spam-and-malware-links), including how to appeal if we’ve falsely identified your URL as unsafe.  
+We blacklist or provide warnings about URLs we believe to be unsafe. Read more about [unsafe links](https://help.x.com/safety-and-security/phishing-spam-and-malware-links), including how to appeal if we’ve falsely identified your URL as unsafe.  
  
 
 **Post deletion and temporary account locks**
@@ -1445,12 +1559,12 @@ For severe violations, accounts will be permanently suspended at first detection
 ### Additional resources
 
   
-Read more about our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy.
+Read more about our [platform manipulation and spam](https://help.x.com/rules-and-policies/platform-manipulation) policy.
 
 Abusive profile information
 ===========================
 
-**[X Rules:](https://help.twitter.com/en/rules-and-policies/twitter-rules.html#hateful-conduct)** You may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.  
+**[X Rules:](https://help.x.com/en/rules-and-policies/twitter-rules.html#hateful-conduct)** You may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.  
  
 
 ### Rationale  
@@ -1478,9 +1592,9 @@ No, we review both first-person and bystander reports of such content.
 
 If an account’s profile information includes any of the abusive behaviors listed above, we will permanently suspend the account on first violation.  
 
-If an account uses a hateful symbol in its profile information, the account-holder will be required to remove the symbol before they can use their account again. Repeated violations will lead to permanent suspension. For more information on how we handle hateful imagery and symbols, see our [media policy](https://help.twitter.com/en/rules-and-policies/media-policy.html).  
+If an account uses a hateful symbol in its profile information, the account-holder will be required to remove the symbol before they can use their account again. Repeated violations will lead to permanent suspension. For more information on how we handle hateful imagery and symbols, see our [media policy](https://help.x.com/en/rules-and-policies/media-policy.html).  
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+If someone believes their account was suspended in error, they can [submit an appeal](https://help.x.com/forms/general?subtopic=suspended).
 
 Automated copyright claims for live video
 =========================================
@@ -1535,16 +1649,16 @@ The post limit of 2,400 updates per day is further broken down into semi-hourly 
 
 ### Having trouble? 
 
-If you've hit a follow limit, please see this [follow limit troubleshooting](https://help.twitter.com/en/using-twitter/twitter-follow-limit.html) article for more information.
+If you've hit a follow limit, please see this [follow limit troubleshooting](https://help.x.com/en/using-twitter/twitter-follow-limit.html) article for more information.
 
 About specific instances when a post’s reach may be limited
 ===========================================================
 
-People may express themselves on X as long as they do not violate our [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). **We do not block, limit, or remove content based on an individual’s views or opinions. In some situations, your post may not be seen by everyone, as outlined below:**   
+People may express themselves on X as long as they do not violate our [X Rules](https://help.x.com/en/rules-and-policies/twitter-rules.html). **We do not block, limit, or remove content based on an individual’s views or opinions. In some situations, your post may not be seen by everyone, as outlined below:**   
 
 **1\. Violation of the X Rules**
 
-Where appropriate, we will restrict the reach of posts that violate our policies and create a negative experience for other users by making the post less discoverable on X.  Learn more here about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options).
+Where appropriate, we will restrict the reach of posts that violate our policies and create a negative experience for other users by making the post less discoverable on X.  Learn more here about our [range of enforcement options](https://help.x.com/en/rules-and-policies/enforcement-options).
 
 **2\. Tools and controls**
 
@@ -1558,7 +1672,7 @@ We’ve developed a set of tools that enable people to control what they see on 
 **3. Quality and safety ranking  
 **
 
-We are constantly working on improving core parts of the X experience, including the timeline, conversations, and [search](https://help.twitter.com/content/help-twitter/en/using-twitter/twitter-search) so that people see content that they are most interested in and contributes to the conversation in a meaningful way, such as content that is relevant, credible, and safe.   
+We are constantly working on improving core parts of the X experience, including the timeline, conversations, and [search](https://help.x.com/content/help-twitter/en/using-twitter/twitter-search) so that people see content that they are most interested in and contributes to the conversation in a meaningful way, such as content that is relevant, credible, and safe.   
 
 We have also developed "safe search" functionality which removes posts that contain potentially sensitive content and posts from blocked and muted accounts from search results. As part of this, our team has been working on identifying and collapsing potentially abusive and low-quality replies so the most relevant conversations are brought forward. These post replies are still accessible to those who seek them out. 
 
@@ -1570,16 +1684,16 @@ We are constantly running experiments on X which may limit the reach of certain 
 
 **5\. Legal, quality, and technical issues**
 
-We may limit a post’s reach if it violates our [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) or applicable laws, or is determined to be low quality. For more information on instances where we may withhold a post in a specific country, please see this Help Center [article](https://help.twitter.com/en/safety-and-security/tweet-withheld-by-country.html).  
+We may limit a post’s reach if it violates our [X Rules](https://help.x.com/en/rules-and-policies/twitter-rules.html) or applicable laws, or is determined to be low quality. For more information on instances where we may withhold a post in a specific country, please see this Help Center [article](https://help.x.com/en/safety-and-security/tweet-withheld-by-country.html).  
 
 Some people report issues related to their posts not appearing on X or their replies detaching from an original post that happen outside of enforcement actions and safety features. These cases may be the result of a post being identified as spam by our systems or may be due to some current technical issues and limitations of the service. We use @Support to update the community about technical issues like these.
 
-If you notice other instances where posts are not appearing, we encourage you to let us know by [reporting the issue](https://help.twitter.com/forms).
+If you notice other instances where posts are not appearing, we encourage you to let us know by [reporting the issue](https://help.x.com/forms).
 
 Our range of enforcement options
 ================================
 
-When we take enforcement actions, we may do so either on a specific piece of content (e.g., an individual post or Direct Message), on an account, or employ a combination of these options. In some instances, this is because the behavior violates the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Other times, it may be in response to a valid legal request from an authorized entity in a given country. Below are some of the enforcement actions that we may take.  
+When we take enforcement actions, we may do so either on a specific piece of content (e.g., an individual post or Direct Message), on an account, or employ a combination of these options. In some instances, this is because the behavior violates the [X Rules](https://help.x.com/en/rules-and-policies/twitter-rules.html). Other times, it may be in response to a valid legal request from an authorized entity in a given country. Below are some of the enforcement actions that we may take.  
  
 
 **Post-level enforcement**
@@ -1605,11 +1719,11 @@ A few of the ways in which we might take action at the post level include:
 
 Authors will be able to submit an appeal on the label if they think we incorrectly limited their post’s visibility. 
 
-**Requiring post removal:**  When we determine that a post violated the X Rules and the violation is severe enough to warrant post removal, we will require the violator to remove it before they can post again. They will need to go through the process of removing the violating post or [appealing](https://help.twitter.com/en/forms/account-access/appeals.html) our removal request if they believe we made an error. The post will be hidden from public view with a [notice](https://help.twitter.com/en/rules-and-policies/notices-on-x.html) during this process. 
+**Requiring post removal:**  When we determine that a post violated the X Rules and the violation is severe enough to warrant post removal, we will require the violator to remove it before they can post again. They will need to go through the process of removing the violating post or [appealing](https://help.x.com/en/forms/account-access/appeals.html) our removal request if they believe we made an error. The post will be hidden from public view with a [notice](https://help.x.com/en/rules-and-policies/notices-on-x.html) during this process. 
 
-**Labeling a post:** If we determine a post contains misleading or disputed information per our policies that could potentially lead to harm, we may [add a label](https://help.twitter.com/en/rules-and-policies/notices-on-x.html) to the content to provide context and additional information to users. In these cases, [Community Notes](https://help.twitter.com/en/using-twitter/community-notes.html) may also be visible on posts to provide additional context.
+**Labeling a post:** If we determine a post contains misleading or disputed information per our policies that could potentially lead to harm, we may [add a label](https://help.x.com/en/rules-and-policies/notices-on-x.html) to the content to provide context and additional information to users. In these cases, [Community Notes](https://help.x.com/en/using-twitter/community-notes.html) may also be visible on posts to provide additional context.
 
-**Notice of public interest exception:** We may determine that it is in the public interest for a post that would otherwise be in violation of our rules to remain accessible on our service. When this occurs, we will place the post behind a notice and limit its visibility. [Learn more](https://help.twitter.com/en/rules-and-policies/public-interest.html) about the public interest exception.
+**Notice of public interest exception:** We may determine that it is in the public interest for a post that would otherwise be in violation of our rules to remain accessible on our service. When this occurs, we will place the post behind a notice and limit its visibility. [Learn more](https://help.x.com/en/rules-and-policies/public-interest.html) about the public interest exception.
 
 ### **Direct Message-level enforcement**
 
@@ -1626,16 +1740,16 @@ We take action to suspend an account if we determine that a user has engaged in 
 
 **Verifying account ownership:** We may require an account owner to verify ownership with a phone number or email address. Note that when an account has been locked pending completion of a challenge (such as being required to provide a phone number), it is removed from follower counts, Reposts, and Likes.
 
-Users can appeal account suspensions if they believe we made an error. They can do this through the platform interface or by [filing a report](https://help.twitter.com/en/forms/account-access/appeals.html).  
+Users can appeal account suspensions if they believe we made an error. They can do this through the platform interface or by [filing a report](https://help.x.com/en/forms/account-access/appeals.html).  
   
 
 ### Actions we may take against non-violating content
 
-**Placing a post behind a notice:** We may place some forms of [sensitive media](https://help.twitter.com/en/rules-and-policies/media-policy.html) like adult content or graphic violence behind an interstitial advising viewers to be aware that they will see sensitive media if they click through. Learn more about [how to control whether you see sensitive media](https://help.twitter.com/en/safety-and-security/sensitive-media.html).
+**Placing a post behind a notice:** We may place some forms of [sensitive media](https://help.x.com/en/rules-and-policies/media-policy.html) like adult content or graphic violence behind an interstitial advising viewers to be aware that they will see sensitive media if they click through. Learn more about [how to control whether you see sensitive media](https://help.x.com/en/safety-and-security/sensitive-media.html).
 
-**Withholding a post based on age:** We restrict views of specific forms of sensitive media such as adult content for viewers who are under 18 or viewers who do not include a birth date on their profile with [interstitials](https://help.twitter.com/en/rules-and-policies/notices-on-x.html). 
+**Withholding a post based on age:** We restrict views of specific forms of sensitive media such as adult content for viewers who are under 18 or viewers who do not include a birth date on their profile with [interstitials](https://help.x.com/en/rules-and-policies/notices-on-x.html). 
 
-**Withholding a post or account in a country:** We may withhold access to certain content in a particular country if we receive a valid and properly scoped request from an authorized entity in that country. Read more about [country withheld content](https://help.twitter.com/en/rules-and-policies/tweet-withheld-by-country.html).
+**Withholding a post or account in a country:** We may withhold access to certain content in a particular country if we receive a valid and properly scoped request from an authorized entity in that country. Read more about [country withheld content](https://help.x.com/en/rules-and-policies/tweet-withheld-by-country.html).
 
 X Moments guidelines and principles
 ===================================
@@ -1680,7 +1794,7 @@ Moments are intended to feature compelling, original, and diverse content. When 
 
 Our Curation team isn’t responsible for driving revenue, user growth, or managing X’s partner relationships. We feature posts and videos, and select Moments topics based on what best serves our audience. These decisions aren’t influenced by advertisers, partners, or X’s business interests. 
 
-The Curation team will generally avoid creating Moments that cover our industry, our company, or our competitors. If X, or its competitors, become a significant part of the conversation on the platform (for instance, if the issue becomes a [trending topic](https://help.twitter.com/using-twitter/twitter-trending-faqs)), our Curation team may curate a factual summary of the conversation, including a response from the company where available.  
+The Curation team will generally avoid creating Moments that cover our industry, our company, or our competitors. If X, or its competitors, become a significant part of the conversation on the platform (for instance, if the issue becomes a [trending topic](https://help.x.com/using-twitter/twitter-trending-faqs)), our Curation team may curate a factual summary of the conversation, including a response from the company where available.  
  
 
 ### Selecting Moments topics 
@@ -1735,9 +1849,9 @@ Copyright policy
 
 X responds to copyright complaints submitted under the Digital Millennium Copyright Act (“DMCA”). Section 512 of the DMCA outlines the statutory requirements necessary for formally reporting copyright infringement, as well as providing instructions on how an affected party can appeal a removal by submitting a compliant counter-notice.
 
-X will respond to reports of alleged copyright infringement, such as allegations concerning the unauthorized use of a copyrighted image as a profile or header photo, allegations concerning the unauthorized use of a copyrighted video or image uploaded through our media hosting services, or posts containing links to allegedly infringing materials. Note that not all unauthorized uses of copyrighted materials are infringements (see our [fair use](https://help.twitter.com/en/rules-and-policies/fair-use-policy.html) article for more information).
+X will respond to reports of alleged copyright infringement, such as allegations concerning the unauthorized use of a copyrighted image as a profile or header photo, allegations concerning the unauthorized use of a copyrighted video or image uploaded through our media hosting services, or posts containing links to allegedly infringing materials. Note that not all unauthorized uses of copyrighted materials are infringements (see our [fair use](https://help.x.com/en/rules-and-policies/fair-use-policy.html) article for more information).
 
-If you are concerned about the use of your brand or entity’s name, please review [Twitter’s trademark policy](https://help.twitter.com/en/rules-and-policies/twitter-trademark-policy.html). If you are concerned about a parody, newsfeed, commentary, or fan account, please see the relevant policy [here](https://help.twitter.com/en/rules-and-policies/parody-account-policy.html). These are generally not copyright issues.
+If you are concerned about the use of your brand or entity’s name, please review [Twitter’s trademark policy](https://help.x.com/en/rules-and-policies/twitter-trademark-policy.html). If you are concerned about a parody, newsfeed, commentary, or fan account, please see the relevant policy [here](https://help.x.com/en/rules-and-policies/parody-account-policy.html). These are generally not copyright issues.
 
 #### Am I a copyright holder? How do I know?
 
@@ -1745,7 +1859,7 @@ If you are unsure whether you hold rights to a particular work, please consult a
 
 #### What to consider before submitting a copyright complaint
 
-Before submitting a copyright complaint to us, please consider whether or not the use could be considered [fair use](https://help.twitter.com/en/rules-and-policies/fair-use-policy.html). 
+Before submitting a copyright complaint to us, please consider whether or not the use could be considered [fair use](https://help.x.com/en/rules-and-policies/fair-use-policy.html). 
 
 If you have considered fair use, and you still wish to continue with a copyright complaint, you may want to first reach out to the user in question to see if you can resolve the matter directly with the user. You can reply to the user’s post or send the user a Direct Message and ask for them to remove your copyrighted content without having to contact X. 
 
@@ -1765,11 +1879,11 @@ To submit a notice of claimed copyright infringement, you will need to provide u
 6. A statement that the information in the complaint is accurate, and, under penalty of perjury, that you are authorized to act on behalf of the copyright owner.  
      
 
-If you are reporting the content of a post, please give us a [direct link](https://help.twitter.com/en/using-twitter/tweet-and-moment-url.html) to that post. Or please specify if the alleged infringement is in the header, avatar, etc. A LINK TO A PROFILE PAGE IS INSUFFICIENT FOR X TO IDENTIFY INFRINGING MATERIALS.
+If you are reporting the content of a post, please give us a [direct link](https://help.x.com/en/using-twitter/tweet-and-moment-url.html) to that post. Or please specify if the alleged infringement is in the header, avatar, etc. A LINK TO A PROFILE PAGE IS INSUFFICIENT FOR X TO IDENTIFY INFRINGING MATERIALS.
 
 #### How do I file a copyright complaint?
 
-You can report alleged copyright infringement by visiting X Help Center and [filing a copyright complaint](https://help.twitter.com/forms/ipi). If you are logged in to x.com, you can visit the X Help Center directly from your X account by clicking the ‘Help’ link located in the sidebar.
+You can report alleged copyright infringement by visiting X Help Center and [filing a copyright complaint](https://help.x.com/forms/ipi). If you are logged in to x.com, you can visit the X Help Center directly from your X account by clicking the ‘Help’ link located in the sidebar.
 
 Filing a DMCA complaint is the start of a pre-defined legal process. Your complaint will be reviewed for accuracy, validity, and completeness. If your complaint has satisfied these requirements, we will take action on your request - which includes forwarding a full copy of your notice (including your name, address, phone and email address) to the user(s) who posted the allegedly infringing material in question.
 
@@ -1810,11 +1924,11 @@ Tip: Removing the material reported in a copyright complaint will not resolve th
 #### What if I want to contest the takedown?
 
 If you believe that the materials reported in the copyright complaints  
-were misidentified or removed in error, you may send us a [counter-notification(s)](https://help.twitter.com/en/forms/ipi/dmca-counternotice.html) through our Help Center. A counter-notice is a request for X to reinstate the removed material, and it has legal consequences. Alternatively, you may be able to seek a retraction of the copyright complaint from the reporter.
+were misidentified or removed in error, you may send us a [counter-notification(s)](https://help.x.com/en/forms/ipi/dmca-counternotice.html) through our Help Center. A counter-notice is a request for X to reinstate the removed material, and it has legal consequences. Alternatively, you may be able to seek a retraction of the copyright complaint from the reporter.
 
 #### How do I seek a retraction?
 
-The DMCA complaint you received includes the contact information of the reporter. You may want to reach out and ask them to retract their notice using our [retraction form](https://help.twitter.com/forms/ipi/dmca-retraction). This is the fastest and most efficient means of resolving an unresolved copyright complaint. Alternatively, the reporter can also send a retraction notice to [copyright@twitter.com](mailto:copyright@twitter.com).  Such notice should include: (1) identification of the material that was disabled, and (2) a statement that the reporter would like to retract their DMCA notice.  A retraction is at the sole discretion of the original reporter, and only that reporter can issue a retraction.  If a portion of your post has been withheld, the violation will not be resolved just by deleting the remaining portion.
+The DMCA complaint you received includes the contact information of the reporter. You may want to reach out and ask them to retract their notice using our [retraction form](https://help.x.com/forms/ipi/dmca-retraction). This is the fastest and most efficient means of resolving an unresolved copyright complaint. Alternatively, the reporter can also send a retraction notice to [copyright@twitter.com](mailto:copyright@twitter.com).  Such notice should include: (1) identification of the material that was disabled, and (2) a statement that the reporter would like to retract their DMCA notice.  A retraction is at the sole discretion of the original reporter, and only that reporter can issue a retraction.  If a portion of your post has been withheld, the violation will not be resolved just by deleting the remaining portion.
 
 #### When should I file a counter-notice?
 
@@ -1844,7 +1958,7 @@ OR
 
 "I consent to any judicial district in which X may be found, and I’ll accept service of process from the person who provided notice under 17 U.S.C. 512 (c)(1)(C) or an agent of such person."
 
-To submit a counter-notice, please provide all of the above information using our web form, located [here](https://help.twitter.com/forms/ipi/dmca-counternotice.html).
+To submit a counter-notice, please provide all of the above information using our web form, located [here](https://help.x.com/forms/ipi/dmca-counternotice.html).
 
 #### What happens after I submit a counter-notice?
 
@@ -1860,13 +1974,13 @@ Please think twice before submitting a claim or counter-notice, especially if yo
 
 #### What happens if my account receives one or more copyright complaints?
 
-If multiple copyright complaints are received about an account, or other evidence suggests a pattern of repeat infringement, X may suspend that account in accordance with our Repeat Infringer Policy. Our Repeat Infringer Policy takes valid retractions and counter-notices into account. Users suspended under that policy may file a suspension appeal using [this form](https://help.twitter.com/forms/general?subtopic=suspended).
+If multiple copyright complaints are received about an account, or other evidence suggests a pattern of repeat infringement, X may suspend that account in accordance with our Repeat Infringer Policy. Our Repeat Infringer Policy takes valid retractions and counter-notices into account. Users suspended under that policy may file a suspension appeal using [this form](https://help.x.com/forms/general?subtopic=suspended).
 
-Additionally, re-posting material that was already removed in response to a copyright complaint, indicating where to access copyrighted material on third party websites, or certain other actions that demonstrate your account is intended solely or primarily to infringe the copyrighted material of others may result in permanent account suspension. If you are suspended on this basis, you may file an appeal using [this form](https://help.twitter.com/forms/general?subtopic=suspended). Please be aware that appealing a suspension does not guarantee your account will be reinstated.
+Additionally, re-posting material that was already removed in response to a copyright complaint, indicating where to access copyrighted material on third party websites, or certain other actions that demonstrate your account is intended solely or primarily to infringe the copyrighted material of others may result in permanent account suspension. If you are suspended on this basis, you may file an appeal using [this form](https://help.x.com/forms/general?subtopic=suspended). Please be aware that appealing a suspension does not guarantee your account will be reinstated.
 
 Our approach to policy development and enforcement philosophy
 =============================================================
 
 X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
 
-We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
+We have the [X Rules](https://help.x.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
