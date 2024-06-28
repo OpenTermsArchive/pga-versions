@@ -18,7 +18,7 @@ Effective as of 27 June 2024
 
 [9\. Children](#9-children)
 
-[10\. Request Metrics](#10-privacy-request-metrics)
+[10\. Request metrics](#10-privacy-request-metrics)
 
 [11\. Changes to this Policy](#11-changes-to-this-policy)
 
@@ -53,7 +53,7 @@ From time to time, we may develop new or offer additional services. They'll also
 Key information about your personal data is right here in this Policy. However, you might want to take a look at our other privacy resources and controls:
 
 * [Safety & Privacy Center](https://www.spotify.com/us/safetyandprivacy/): A user-friendly hub with summaries of key topics and helpful videos. It includes the 'Your Privacy Controls' video which shows you how to exercise your user rights and make choices about the way we process your data. See [Section 2 'Your personal data rights and controls'](#2-your-personal-data-rights-and-controls) for more on user rights.
-* [Privacy Settings](https://www.spotify.com/account/privacy/): Control the processing of certain personal data, including [tailored advertising](https://tailored-advertising-controls/).
+* [Privacy Settings](https://www.spotify.com/account/privacy/): Control the processing of certain personal data, including [tailored advertising](#tailored-advertising-controls).
 * [Notification Settings](https://www.spotify.com/account/notifications/) Set which marketing communications you get from Spotify.
 * Settings (found in the Desktop and Mobile versions of Spotify): Control certain aspects of the Spotify Service such as 'Social' or 'Explicit Content'. On the 'Social' setting, you can:
     * start a Private session
@@ -118,7 +118,7 @@ How to control tailored advertising:
 * You can also control tailored advertising for some podcasts using the link in the episode's show description. This applies where the content provider inserts advertising into the podcast to fund it. The hosting provider, which might not be Spotify, manages these controls for the podcast.
 * You can also visit our services via a browser with a recognized opt-out preference signal enabled, such as the Global Privacy Control (GPC). If you use a preference signal you may need to renew your preferences if you visit the Spotify Service with another device or browser, or if you clear your cookies.
 
-If you are 'opted out' of tailored advertising in your [Privacy Settings](https://www.spotify.com/account/privacy/), you will receive less relevant advertising. This can include on our free Service Option, as well as our paid Service Option, as applicable (for example, advertising in podcasts). This type of advertising is based on your registration information and what you are currently listening to on our services. For example, if you are listening to a cooking podcast, you may hear an ad for a food processor.
+If you are 'opted out' of tailored advertising in your [Privacy Settings](https://www.spotify.com/account/privacy/), you will receive less relevant advertising, including on our free Service Option, as well as our paid Service Option, as applicable (for example, advertising in podcasts). This type of advertising is based on your registration information and what you are currently listening to on our services. For example, if you are listening to a cooking podcast, you may hear an ad for a food processor.
 
 Appropriate age for tailored advertising:
 
@@ -174,8 +174,8 @@ You can also watch our video about [Personal Data at Spotify](https://www.spotif
 | --- | --- |
 | To provide the Spotify Service.<br><br>  <br><br>For example, when we use your personal data to:<br><br>• set up an account for you<br><br>• personalize your account<br><br>• provide the Spotify app when you download it onto your device,<br><br>• enable you to share a link to Spotify content with someone else, or<br><br>• provide various optional features of the Spotify Service | • User Data<br><br>• Street Address Data<br><br>• Usage Data<br><br>• Payment and Purchase Data<br><br>• Survey and Research Data |
 | To diagnose, troubleshoot, and fix issues with the Spotify Service. | • User Data<br><br>• Usage Data |
-| To evaluate and develop new features, technologies, and improvements to the Spotify Service.<br><br>  <br><br>  <br><br>  <br><br>For example:<br><br>• we use personal data to develop and improve our personalized recommendation algorithms<br><br>• we analyze how our users react to a particular new feature and see whether we should make any changes | • User Data<br><br>• Usage Data<br><br>• Survey and Research Data<br><br>  <br><br>• User Data<br><br>• Usage Data<br><br>• Survey and Research Data |
-| For marketing or advertising purposes.<br><br>  <br><br>  <br><br>For example:<br><br>• when we use your personal data to tailor advertising to your interests, or<br><br>• when we send you email marketing | • User Data<br><br>• Usage Data<br><br>• Survey and Research Data |
+| To evaluate and develop new features, technologies, and improvements to the Spotify Service.<br><br>  <br><br>For example:<br><br>• we use personal data to develop and improve our personalized recommendation algorithms<br><br>• we analyze how our users react to a particular new feature and see whether we should make any changes | • User Data<br><br>• Usage Data<br><br>• Survey and Research Data<br><br>  <br><br>• User Data<br><br>• Usage Data<br><br>• Survey and Research Data |
+| For marketing or advertising purposes.<br><br>  <br><br>For example:<br><br>• when we use your personal data to tailor advertising to your interests, or<br><br>• when we send you email marketing | • User Data<br><br>• Usage Data<br><br>• Survey and Research Data |
 | To comply with a legal obligation that we are subject to.<br><br>  <br><br>This might be:<br><br>• an obligation under the law of the country / region you are in<br><br>• Swedish law (because of our headquarters in Sweden), or<br><br>• EU law that applies to us<br><br>  <br><br>For example, when we use your date of birth when required for age verification purposes. | • User Data<br><br>• Street Address Data<br><br>• Usage Data<br><br>• Payment and Purchase Data<br><br>• Survey and Research Data |
 | To comply with a request from law enforcement, courts, or other competent authorities. | • User Data<br><br>• Street Address Data<br><br>• Usage Data<br><br>• Payment and Purchase Data<br><br>• Survey and Research Data |
 | To fulfill contractual obligations with third parties.<br><br>  <br><br>For example, when we provide pseudonymized data about our users’ listening because we have an agreement with a Spotify rightsholder to do so.<br><br>  <br><br>Pseudonymized data means that your data is identified by a code rather than your name or other directly identifying information. | • User Data<br><br>• Usage Data<br><br>• Payment and Purchase Data |
