@@ -178,7 +178,7 @@ Spaces Policies
 
 Official Quora Account
 
-* 2024-04-18T23:30:06Z
+* 2024-07-23T12:36:21Z
 
 On Quora, people share questions, answers, and other content to collectively build knowledge and community within a Space. Quora generally moderates items within Spaces at a content-level, however, repeated or serious violations may result in the removal of the entire Space. Note that Space admins may decide to set more restrictive policies for individual Spaces that they manage. Below are the following policies for Quora Spaces:
 
@@ -315,7 +315,7 @@ Impersonation is pretending to be someone else or falsely posing as a brand and 
 
 ### [Intellectual Property and Personal Rights](#h_01FSDDZ7A8W2B0GDBS81DYXGGX)
 
-Do not post content that infringes any intellectual property or personal right of another party, including [copyright](https://www.quora.com/about/copyright), [trademark](https://www.quora.com/about/trademark), or privacy rights.
+Do not post content that infringes any intellectual property or personal right of another party, including [copyright](https://www.quora.com/about/copyright), [trademark](https://www.quora.com/about/trademark), [plagiarism](https://help.quora.com/hc/en-us/articles/360000470206-What-is-Quora-s-policy-on-plagiarism-and-attribution) or privacy rights.
 
 ### [Using the Quora brand/logo](#h_01FSDDZK268ES7AVSH9DM2THZR)
 
@@ -462,9 +462,7 @@ What is Quora's policy on plagiarism and attribution?
 
 Official Quora Account
 
-* 2022-09-27T20:24:35Z
-
-Please note that this policy does not apply to Quora [Spaces](https://help.quora.com/hc/en-us/articles/360020402511-Spaces-Frequently-Asked-Questions). To learn more about our policies for Spaces & Space content, please see: [Spaces Policies](https://help.quora.com/hc/en-us/articles/360043961972)
+* 2024-07-17T10:51:49Z
 
 Answers and posts that copy or paraphrase content from other sources should:
 
@@ -473,8 +471,8 @@ Answers and posts that copy or paraphrase content from other sources should:
 
 Quora's strong preference is for people to use blockquote formatting for long excerpts. If you are republishing your own content from another site, you may omit blockquote formatting and cite the original publication at the end of your answer/post.  
    
-Answers and posts that plagiarize content from other sources will be collapsed. Note that repeatedly posting the same answer to multiple questions will be considered spam, particularly if the answer isn't customized for each question. To learn more about Quora's spam policy, click [here](https://help.quora.com/hc/en-us/articles/360000470706-Platform-Policies).   
-   
+Answers and posts that plagiarize content from other sources will be collapsed. Note that repeatedly posting the same answer to multiple questions will be considered spam, particularly if the answer isn't customized for each question. To learn more about Quora's spam policy, click [here](https://help.quora.com/hc/en-us/articles/360000470706-Platform-Policies). 
+
 **Other content**  
 Topic and Space descriptions, as well as other community-editable descriptions on Quora, should be predominantly original and should not copy-and-paste from other sites (e.g., Wikipedia).  
    
