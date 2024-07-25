@@ -79,7 +79,7 @@ Table of Contents
     
     #### Posting and Uploading
     
-    We collect personal data from you when you provide, post or upload it to our Services, such as when you fill out a form, (e.g., with demographic data or [salary](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fhelp%2Flinkedin%2Fanswer%2Fa512297&data=05%7C01%7Cssundholm%40linkedin.com%7C7c195d34f8834cc0febd08daf458affa%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638090959000643494%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=inYNKw3WS9ROs6qzc1ZDQoS%2Fk9WsgCstzp%2FST4oNt14%3D&reserved=0)), respond to a survey, or submit a resume or fill out a job application on our Services. If you opt to import your address book, we receive your contacts (including contact information your service provider(s) or app automatically added to your address book when you communicated with addresses or numbers not already in your list).
+    We collect personal data from you when you provide, post or upload it to our Services, such as when you fill out a form, (e.g., with demographic data or salary), respond to a survey, or submit a resume or fill out a job application on our Services. If you opt to import your address book, we receive your contacts (including contact information your service provider(s) or app automatically added to your address book when you communicated with addresses or numbers not already in your list).
     
     If you sync your contacts or calendars with our Services, we will collect your address book and calendar meeting information to keep growing your network by suggesting connections for you and others, and by providing information about events, e.g. times, places, attendees and contacts.
     
@@ -366,12 +366,12 @@ Table of Contents
     
     For personal data that we have about you, you can:
     
-    * Delete Data: You can ask us to erase or delete all or some of your personal data (e.g., if it is no longer necessary to provide Services to you).
-    * Change or Correct Data: You can edit some of your personal data through your account. You can also ask us to change, update or fix your data in certain cases, particularly if it’s inaccurate.
-    * Object to, or Limit or Restrict, Use of Data: You can ask us to stop using all or some of your personal data (e.g., if we have no legal right to keep using it) or to limit our use of it (e.g., if your personal data is inaccurate or unlawfully held).
-    * Right to Access and/or Take Your Data: You can ask us for a copy of your personal data and can ask for a copy of personal data you provided in machine readable form.
+    * [Delete Data](https://www.linkedin.com/help/linkedin/answer/a1342613/): You can ask us to erase or delete all or some of your personal data (e.g., if it is no longer necessary to provide Services to you).
+    * [Change or Correct Data](https://www.linkedin.com/help/linkedin/answer/a1336621/): You can edit some of your personal data through your account. You can also ask us to change, update or fix your data in certain cases, particularly if it’s inaccurate.
+    * [Object to, or Limit or Restrict, Use of Data](https://www.linkedin.com/help/linkedin/answer/a1338610): You can ask us to stop using all or some of your personal data (e.g., if we have no legal right to keep using it) or to limit our use of it (e.g., if your personal data is inaccurate or unlawfully held).
+    * [Right to Access and/or Take Your Data](https://www.linkedin.com/help/linkedin/answer/a1339364/): You can ask us for a copy of your personal data and can ask for a copy of personal data you provided in machine readable form.
     
-    Visitors can [learn more about how to make these requests](https://www.linkedin.com/help/linkedin/answer/50191?trk=microsites-frontend_legal_privacy-policy&lang=en) [here](https://www.linkedin.com/help/linkedin/answer/50191?trk=microsites-frontend_legal_privacy-policy&lang=en). You may also contact us using the contact information below, and we will consider your request in accordance with applicable laws.
+    Visitors can [learn more about how to make these requests here](https://www.linkedin.com/help/linkedin/answer/50191?trk=microsites-frontend_legal_privacy-policy&lang=en). You may also contact us using the contact information below, and we will consider your request in accordance with applicable laws.
     
     Residents in the [Designated Countries](https://www.linkedin.com/help/linkedin/answer/89877?trk=microsites-frontend_legal_privacy-policy&lang=en) and [other regions](https://privacy.linkedin.com/regionalinfo) may have additional rights under their laws.
     
