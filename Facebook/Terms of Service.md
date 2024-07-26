@@ -287,7 +287,7 @@ We provide these services to you and others to help advance our mission. In exch
     
 * [Music Guidelines](https://www.facebook.com/legal/music_guidelines): These guidelines outline the policies that apply if you post or share content containing music on any Meta Products.
     
-* [Advertising Policies](https://www.facebook.com/ad_guidelines.php): These policies apply to partners who advertise across the Meta Products and specify what types of ad content are allowed by partners who advertise across the Meta Products.
+* [Advertising Policies](https://transparency.meta.com/policies/ad-standards/?fbclid=IwZXh0bgNhZW0CMTEAAR0iSZnBzKnYddhZC-tFcnkNhznEZsEnMfvTb2KRl_5vp67ovo6sn_aN7C8_aem_XC2oHkbqMEAu29_xIRO48g): These policies apply to partners who advertise across the Meta Products and specify what types of ad content are allowed by partners who advertise across the Meta Products.
 * [No Ads Terms](https://www.facebook.com/legal/no_ads_terms): These Terms apply if you have a subscription for no ads.
 * [Self-Serve Ad Terms](https://www.facebook.com/legal/self_service_ads_terms): These terms apply when you use self-serve advertising interfaces to create, submit, or deliver advertising or other commercial or sponsored activity or content.
 * [Facebook Pages, Groups and Events Policy](https://www.facebook.com/policies/pages_groups_events): These guidelines apply if you create or administer a Facebook Page, group, or event, or if you use Facebook to communicate or administer a promotion.
