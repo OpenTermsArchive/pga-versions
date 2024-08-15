@@ -1,12 +1,16 @@
+Community guidelines
+
+Table of Contents
+
 Our mission
 
-Pinterest's mission is to bring everyone the inspiration to create a life they love. That being said, not all content is inspiring - so we have community guidelines to outline what we do and don’t allow on Pinterest. These guidelines are our acceptable use policy, so if you find content that shouldn’t be on Pinterest, please report it to us. We appreciate your feedback and work hard to review your report and take appropriate action in a timely fashion. We use your reports to learn and evolve our standards, and work with subject matter experts to inform and update our guidelines. You can learn more about how we enforce these guidelines in our biannual transparency report.
+Pinterest's mission is to bring everyone the inspiration to create a life they love. That being said, not all content is inspiring - so we have community guidelines to outline what we do and don’t allow on Pinterest. These guidelines are our acceptable use policy, so if you find content that shouldn’t be on Pinterest, please . We appreciate your feedback and work hard to review your report and take appropriate action in a timely fashion. We use your reports to learn and evolve our standards, and work with subject matter experts to inform and update our guidelines. You can learn more about how we enforce these guidelines in our biannual .
 
 Content safety
 
-Pinterest isn’t a place for antagonistic, explicit, false or misleading, harmful, hateful, or violent content or behavior. We may remove, limit, or block the distribution of such content and the accounts, individuals, groups and domains that create or spread it based on how much harm it poses. You can read more about how we put our Community Guidelines into practice on our Enforcement page here.
+Pinterest isn’t a place for antagonistic, explicit, false or misleading, harmful, hateful, or violent content or behavior. We may remove, limit, or block the distribution of such content and the accounts, individuals, groups and domains that create or spread it based on how much harm it poses. You can read more about how we put our Community Guidelines into practice on our Enforcement page .
 
-We’re committed to presenting you with clear and transparent expectations that are easy to understand and follow. If you have questions or encounter problems on Pinterest, please contact us.
+We’re committed to presenting you with clear and transparent expectations that are easy to understand and follow. If you have questions or encounter problems on Pinterest, please .
 
 Adult content
 
@@ -17,7 +21,8 @@ Pinterest isn’t a place for adult content, including pornography and most nudi
 * Graphic depictions of sexual activity in imagery or text
 * Fetish imagery
 
-We allow some nudity in certain contexts, although we may limit its distribution. For instance, nudity in paintings and sculptures and in science and historical contexts is okay. Content about breastfeeding and mastectomies is also allowed. These guidelines apply to text and real-life, digital, and animated images and video. 
+We allow some nudity in certain contexts, although we may limit its distribution. For instance, nudity in paintings and sculptures and in science and historical contexts is okay. Content about breastfeeding and mastectomies is also allowed. These guidelines apply to text and real-life, digital, and animated images and video.  
+  
 
 Exploitation
 
@@ -27,7 +32,7 @@ Pinterest isn’t a place for exploitation of people or animals. We’ll remove 
 * Adult sexual services that may involve sexual or physical exploitation or trafficking, like sex cams and escort services.
 * Human trafficking, slavery, servitude and forced or compulsory labor.
 * Other illegal commercial exploitation, like trading in organs or products made from human remains or body parts.
-* The sale of wild animals or protected and endangered wildlife. For a full list of prohibited wildlife products, please visit our partner, the World Wildlife Fund.
+* The sale of wild animals or protected and endangered wildlife. For a full list of prohibited wildlife products, please visit our partner, the .
 * Corpses, animal parts or products derived from cat or dog parts, or protected and endangered wildlife, including ivory.
 * Irresponsible and harmful animal tourism or otherwise exploitative practices like organized animal fighting.
 
@@ -90,7 +95,7 @@ Pinterest isn’t a place to insult, hurt or antagonize individuals or groups of
 * Criticisms involving name-calling, profanity and other insulting language or imagery
 * Mocking someone for experiencing sadness, grief, loss or outrage
 
-We’ve also put together some resources for you to protect yourself.
+We’ve also put together for you to protect yourself.
 
 Child safety
 
@@ -113,11 +118,11 @@ We don’t allow content that reveals personal or sensitive information. We will
 * Photos of private people that they don’t want posted online
 * Personal financial or medical history
 
-If you come across unwanted photos of or information about you, you can report it to us. Minors or their authorized representatives can also reach out to privacy-support \[at\] pinterest.com (privacy-support\[at\]pinterest\[dot\]com) regarding unwanted photos or information.
+If you come across unwanted photos of or information about you, you can . Minors or their authorized representatives can also reach out to regarding unwanted photos or information.
 
 Self-injury and harmful behavior
 
-**If you or someone you know is struggling with suicidal thoughts or is considering hurting themselves, we have resources in our Help Center where you can get free, confidential and immediate support.**
+**If you or someone you know is struggling with suicidal thoughts or is considering hurting themselves, we have in our Help Center where you can get free, confidential and immediate support.**
 
 Pinterest isn’t a place for content that displays, rationalizes or encourages suicide, self-injury, eating disorders or substance abuse. We’ll limit the distribution of or remove such content, including:
 
@@ -160,8 +165,10 @@ Pinterest isn’t a place for trading or selling of certain regulated goods—p
 * Instructions for creating lethal or toxic substances
 * Instructions for creating lethal weapons, like bombs or grenades, including 3d printed weapons
 * Commercial sales of marijuana, marijuana products and paraphernalia
-* Commercial sales of certain weapons and attachments 
-* Harmful pranks or challenges that risk imminent physical harm or extreme emotional distress, especially if showing or encouraging the participation of minors 
+* Commercial sales of certain weapons and attachments
+* Harmful pranks or challenges that risk imminent physical harm or extreme emotional distress, especially if showing or encouraging the participation of minors  
+      
+    
 
 Harmful or deceptive products and practices
 
@@ -192,7 +199,7 @@ All of our Community Guidelines apply in comments posted on Pins. In addition, c
 
 Messages
 
-All of our Community Guidelines apply to messages sent between Pinners. Messages should also be welcomed and relevant. In addition to Pinners’ ability to block someone from sending additional unwelcome messages, we may warn or suspend accounts that violate our guidelines, including by sending messages that contain:
+All of our apply to messages sent between Pinners. Messages should also be welcomed and relevant. In addition to Pinners’ ability to unwelcome messages, we may warn or suspend accounts that violate our guidelines, including by sending messages that contain:
 
 * Spam
 * Sharing or solicitation of sexually explicit content
@@ -208,14 +215,14 @@ To respect the rights of people on and off Pinterest, please:
 
 * Don’t infringe anyone's intellectual property, privacy or other rights.
 * Don’t do anything or post any content that violates laws or regulations.
-* Don’t use Pinterest’s name, logo or trademark in a way that confuses people (check out our brand guidelines for more details). 
+* Don’t use Pinterest’s name, logo or trademark in a way that confuses people (check out our for more details).
 
 Site security and access
 
 To protect the Pinterest platform, we ask that you please:
 
 * Don’t access, use or tamper with our systems or our technical providers’ systems.
-* Don’t break or circumvent our security measures or test the vulnerability of our systems or networks, except as part of an authorized Pinterest bug bounty program.
+* Don’t break or circumvent our security measures or test the vulnerability of our systems or networks, except as part of an authorized Pinterest .
 * Don’t use any undocumented or unsupported method to access, search, scrape, download or change any part of Pinterest.
 * Don’t try to reverse engineer our software.
 * Don’t try to interfere with people on Pinterest or our hosts or networks, like sending a virus, overloading, spamming or mail-bombing.
@@ -223,17 +230,17 @@ To protect the Pinterest platform, we ask that you please:
 * Don’t share your password, let anyone access your account or do anything that might put your account at risk.
 * Don’t attempt to buy or sell access to your account, boards, or usernames, or otherwise transfer account features for compensation.
 
-You can’t use Pinterest if it would be prohibited by US sanctions. Personal accounts and business accounts are currently not available in North Korea.  Business accounts are currently not available in Crimea, Cuba, Donetsk People's Republic, Iran, Luhansk People's Republic, North Korea or Syria.
+You can’t use Pinterest if it would be prohibited by . Personal accounts and business accounts are currently not available in North Korea. Business accounts are currently not available in Crimea, Cuba, Donetsk People's Republic, Iran, Luhansk People's Republic, North Korea or Syria.
 
 Spam
 
-We want the inspiration and ideas on Pinterest to be high-quality and useful, so we remove spam when we find it. We ask that you be considerate of others' experiences on Pinterest and don't spread spam or engage in spammy behavior. 
+We want the inspiration and ideas on Pinterest to be high-quality and useful, so we remove spam when we find it. We ask that you be considerate of others' experiences on Pinterest and don't spread spam or engage in spammy behavior.
 
 Our guidelines around spam are:
 
-* Don't use automation that hasn't been explicitly approved by Pinterest. This includes unauthorized services that automatically perform actions on your behalf. You can find information on approved partner tools on our Partners website.
+* Don't use automation that hasn't been explicitly approved by Pinterest. This includes unauthorized services that automatically perform actions on your behalf. You can find information on approved partner tools on our .
 * Don't create or operate accounts that aren't authentic, create accounts en masse, or create new accounts for the purpose of violating these guidelines.
-* Don't create or save content that is repetitive, deceptive, or irrelevant in an attempt to make money. To learn how to make great Pins, you can always refer to our creative best practices.
+* Don't create or save content that is repetitive, deceptive, or irrelevant in an attempt to make money. To learn how to make great Pins, you can always refer to our .
 * In general, don't attempt to make money from Pinners or Pinner web traffic in ways that are misleading, detract from the Pinner experience, or don't add value for Pinners.
 * Don't link to websites that are unsafe, deceptive, untrustworthy, unoriginal, or that facilitate or encourage spam. Websites should have original content that adds unique value for Pinners.
 * Don't send repeated, unsolicited messages, especially if your messages are commercial or deceptive in nature.
@@ -245,29 +252,29 @@ Our guidelines around spam are:
 
 Paid Partnership guidelines
 
-What is a paid partnership?
+#### What is a paid partnership?
 
 We define a paid partnership as any sponsored or branded content on Pinterest that features or is influenced by a business partner for an exchange of value, such as if a business partner has paid or otherwise incentivized a user to save the content.
 
-What are the guidelines?
+#### What are the guidelines?
 
-All paid partnerships must disclose the commercial nature of their content. In addition to abiding by the Community guidelines, users that participate in paid partnerships must:
+All paid partnerships must disclose the commercial nature of their content. In addition to abiding by the , users that participate in paid partnerships must:
 
 * Comply with all applicable advertising laws and regulations
-* Include a clear disclosure to indicate the commercial nature of your content (such as the use of #ad to indicate that your content is a paid partnership, or applying a label to your content using Pinterest’s paid partnership tool)
-* Adhere to our Advertising guidelines, including the prohibited and restricted content guidelines
+* Include a clear disclosure to indicate the commercial nature of your content (such as the use of #ad to indicate that your content is a paid partnership, or applying a label to your content using Pinterest’s )
+* Adhere to our , including the prohibited and restricted content guidelines
 
 To prevent inauthentic content and behavior:
 
 * Make sure you’re posting relevant content to relevant boards
-* Keep the content of your posts high-quality and avoid spammy behavior 
+* Keep the content of your posts high-quality and avoid spammy behavior
 * Save content you have an authentic interest in
 
 Don't incentivize or pay people to distribute content in large volumes, in spammy ways or for each Pin they save.
 
 * For example, a business can't pay people for each board they follow or Pin they save. It's okay for a business to pay a guest blogger to curate a board for their brand or through pay-per-click payment structures (such as affiliate links), but they can't pay large groups of people to save specific Pins to artificially inflate the popularity of their content.
 
-We may remove, limit or block the distribution of content or accounts that violate our paid partnership guidelines. If you have questions or encounter problems on Pinterest, you can contact us.
+We may remove, limit or block the distribution of content or accounts that violate our paid partnership guidelines. If you have questions or encounter problems on Pinterest, you can .
 
 Affiliate guidelines
 
@@ -275,23 +282,23 @@ Affiliate links help content creators measure the impact of their contributions 
 
 Our guidelines for affiliates are:
 
-* Always follow our Paid Partnership Guidelines.
+* Always follow our .
 * In general, you should operate only one Pinterest account. That account should be your authentic presence on Pinterest.
 * Affiliate content should be original and add unique value for Pinners.
-* Be transparent about the commercial nature of your content and about your links and their behavior. Some shortener services are not currently supported on Pinterest - if your Pin’s link is blocked, you can edit it.
+* Be transparent about the commercial nature of your content and about your links and their behavior. Some shortener services are not currently supported on Pinterest - if your Pin’s link is blocked, you can .
 * Don't try to artificially manipulate Pinterest algorithms or Pinner traffic. Some examples of prohibited behavior include:
     * Using fake accounts to create or save your affiliate links.
     * Asking other users to save your affiliate Pins in a quid pro quo.
     * Asking other users to create Pins with links that include your affiliate identifier.
-    * Creating affiliate Pins repetitively or in large volumes - marketers should follow our spam policy and use affiliate links in moderation
+    * Creating affiliate Pins repetitively or in large volumes - marketers should follow our and use affiliate links in moderation
 
-We may remove, limit or block the distribution of content or accounts that violate our Affiliate Guidelines. If you have questions or encounter problems on Pinterest, you can contact us.
+We may remove, limit or block the distribution of content or accounts that violate our Affiliate Guidelines. If you have questions or encounter problems on Pinterest, you can .
 
 Contest guidelines
 
 * Don't require people to save a specific image. Give people the ability to choose Pins based on their tastes and preferences, even if it's from a selection or a given website.
 * Don't allow more than one entry per person.
 * Don't suggest that Pinterest sponsors or endorses you or the promotion.
-* Do review our brand guidelines for general rules about using the Pinterest brand.
+* Do review our for general rules about using the Pinterest brand.
 
 Lastly, be sure to follow all relevant laws and regulations.
