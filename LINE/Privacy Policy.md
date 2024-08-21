@@ -1,6 +1,21 @@
 LY Corporation Privacy Policy
 =============================
 
+#### Index
+
+* [1.Introduction](#section0)
+* [2.Applicable scope of this Policy](#section1)
+* [3.Personal Data to be collected](#section2)
+* [4.Purpose of use of Personal Data](#section3)
+* [5.Provision of Personal Data](#section4)
+* [6.Safety control of Personal Data](#section5)
+* [7.Your choices regarding Personal Data](#section6)
+* [8.Use of third-party modules and Cookies](#section7)
+* [9.Other important information](#section8)
+* [10.Reference](#section9)
+
+View More
+
 ### 1.Introduction
 
 We, LY Corporation (“we,” “us,” or “our”), will collect information related to individuals (“Personal Data”) in providing our products, apps, services and websites (collectively, the “Services”). We consider the protection of Personal Data to be one of the most important management issues as a responsibility of an Internet content service company. We will act in compliance with the laws and regulations applicable in countries and regions where we are conducting business (such laws and regulations are hereinafter collectively referred to as the “Applicable Laws”), and will make efforts to properly protect Personal Data based on this Privacy Policy (this “Policy”).
