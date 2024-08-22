@@ -1102,7 +1102,7 @@ Starting Mar 18, 2024, our policy on Harmful & Dangerous content will be updated
 
 YouTube doesn’t allow content that encourages dangerous or illegal activities that risk serious physical harm or death.
 
-If you find content that violates this policy, [report it](https://support.google.com/youtube/answer/2802027). 
+If you find content that violates this policy, [report it](https://support.google.com/youtube/answer/2802027).
 
 **Skip to a specific section of this article:**
 
@@ -1112,14 +1112,14 @@ If you find content that violates this policy, [report it](https://support.googl
 * [Educational, documentary, scientific, or artistic content](#edsa)
 * [What happens when content violates this policy](#violations)
 
-**Important**: This policy applies to videos, video descriptions, comments, live streams, and any other YouTube product or feature. These policies also apply to [external links](https://support.google.com/youtube/answer/9054257) in your content. This can include clickable URLs, verbally directing users to other sites in video, as well as other forms.
+**Important:** This policy applies to videos, video descriptions, comments, live streams, and any other YouTube product or feature. These policies also apply to [external links](https://support.google.com/youtube/answer/9054257) in your content. This can include clickable URLs, verbally directing users to other sites in video, as well as other forms.
 
 Harmful or dangerous content policy
 -----------------------------------
 
 ### What this policy means for you
 
-**Note**: The list below isn't complete. If you think that your content might violate this policy, don't post it.
+**Note:** The list below isn't complete. If you think that your content might violate this policy, don't post it.
 
 This content isn't allowed on YouTube:
 
@@ -1144,6 +1144,8 @@ This content isn't allowed on YouTube:
 * **Phishing**: Content that tries to get or gives instructions for how to get nonpublic personal identifying information from viewers by deceiving them.
     * **Cryptophishing**: Requests for cryptocurrency or cryptocurrency-related wallet details as a part of a phishing scheme.
 
+[Learn more about our spam, deceptive practices, and scams policies](https://support.google.com/youtube/answer/2801973).
+
 #### Illegal or regulated goods or services
 
 * For more info, review our [Illegal or regulated goods or services policy](https://support.google.com/youtube/answer/9229611).
@@ -1152,9 +1154,9 @@ This content isn't allowed on YouTube:
 Examples of harmful or dangerous content
 ----------------------------------------
 
-Here are some examples of harmful or dangerous content that isn’t allowed on YouTube. 
+Here are some examples of harmful or dangerous content that isn’t allowed on YouTube.
 
-**Note**: The list below isn't complete.
+**Note:** The list below isn't complete.
 
 Extremely dangerous challenges
 ------------------------------
@@ -1170,7 +1172,7 @@ Extremely dangerous challenges
     * Abstaining from normal health practices
     * Falling, impalement, collision, blunt force trauma, or crushing
 
-**Note**: We may age-restrict content that has [educational or documentary context](https://support.google.com/youtube/answer/6345162).
+**Note:** We may age-restrict content that has [educational or documentary context](https://support.google.com/youtube/answer/6345162).
 
 Dangerous or threatening pranks
 -------------------------------
@@ -1191,7 +1193,7 @@ Dangerous or threatening pranks
     * Pretending that a parent or caregiver will abandon a child
     * Showing a parent or caregiver verbally abuse or shame a child
 
-**Note**: We may age-restrict prank content that involves adults and that doesn't violate our policies.
+**Note:** We may age-restrict prank content that involves adults and that doesn't violate our policies.
 
 Harmful or dangerous acts
 -------------------------
@@ -1216,12 +1218,12 @@ Instructions to harm
     * Molotov cocktails
 * **Violence involving children**: Any real fights or violence between children. For more info, review our [Child Safety policy](https://support.google.com/youtube/answer/2801999).
 
-**Note**: We may age-restrict content that has [documentary or educational context](https://support.google.com/youtube/answer/6345162).
+**Note:** We may age-restrict content that has [documentary or educational context](https://support.google.com/youtube/answer/6345162).
 
 Age-restricted content
 ----------------------
 
-**Note**: The list below isn't complete.
+**Note:** The list below isn't complete.
 
 Sometimes content doesn't violate our policies, but it may not be appropriate for viewers under 18.
 
@@ -1247,7 +1249,7 @@ Educational, documentary, scientific, or artistic content
 
 Sometimes, content that would otherwise violate this policy is allowed to stay on YouTube when it has Educational, Documentary, Scientific, or Artistic (EDSA) context. [Learn about how YouTube evaluates EDSA content](https://support.google.com/youtube/answer/6345162).
 
-**Note**: In some cases, EDSA content may be age-restricted. Certain content isn’t allowed on YouTube even if it has EDSA context added, such as content that [sells drugs or regulated pharmaceuticals without a prescription](https://support.google.com/youtube/answer/9229611).
+**Note:** In some cases, EDSA content may be age-restricted. Certain content isn’t allowed on YouTube even if it has EDSA context added, such as content that [sells drugs or regulated pharmaceuticals without a prescription](https://support.google.com/youtube/answer/9229611).
 
 Examples of EDSA content
 ------------------------
