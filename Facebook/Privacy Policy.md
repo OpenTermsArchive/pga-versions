@@ -45,7 +45,7 @@ In this policy we list the kinds of information we collect. Here are some import
 * Information from the phone, computer, or tablet you use our Products on, like what kind it is and what version of our app you’re using
 * Information from [partners\[3\]](#annotation-3) about things you do both on and off of our Products. This could include other websites you visit, apps you use or online games you play.
 
-[Play Video](https://mbasic.facebook.com/video_redirect/?src=https%3A%2F%2Fvideo-fra3-1.xx.fbcdn.net%2Fv%2Ft42.1790-2%2F281467190_173521038391582_2422662776604828979_n.mp4%3F_nc_cat%3D103%26ccb%3D1-7%26_nc_sid%3D55d0d3%26efg%3DeyJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjoxMDc4NDg0MTY5NDE1NzU1fQ%253D%253D%26_nc_ohc%3DxHngvoLtdDUQ7kNvgFx5byV%26_nc_ht%3Dvideo-fra3-1.xx%26oh%3D00_AYDSoG9nxMHNAyjQpshaknmiz9XaRtHrKWpR335GkJMDWQ%26oe%3D66CC5542&source=misc&id=1078484169415755&noredirect=0&watermark=0&__tn__=F)
+[Play Video](https://mbasic.facebook.com/video_redirect/?src=https%3A%2F%2Fvideo-fra3-1.xx.fbcdn.net%2Fv%2Ft42.1790-2%2F281467190_173521038391582_2422662776604828979_n.mp4%3F_nc_cat%3D103%26ccb%3D1-7%26_nc_sid%3D55d0d3%26efg%3DeyJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjoxMDc4NDg0MTY5NDE1NzU1fQ%253D%253D%26_nc_ohc%3DxHngvoLtdDUQ7kNvgFx5byV%26_nc_ht%3Dvideo-fra3-1.xx%26oh%3D00_AYASvapAxO7D7MycapN-WwSVUirgdb9OrC1-H0PI8XeCuw%26oe%3D66CCFE02&source=misc&id=1078484169415755&noredirect=0&watermark=0&__tn__=F)
 
 The information we collect and process about you depends on how you use our [Products\[4\]](#annotation-4). For example, we collect different information if you sell furniture on Marketplace than if you post a reel on Instagram. When you use our Products, we collect some information about you [even if you don't have an account\[5\]](#annotation-5).
 
@@ -187,7 +187,7 @@ Here are some of the ways we use your information:
 * We send you messages about the Products you use or ones you might like, if you let us
 * We research for the good of people around the world, like to advance technology or to help out in a crisis
 
-[Play Video](https://mbasic.facebook.com/video_redirect/?src=https%3A%2F%2Fvideo-fra3-2.xx.fbcdn.net%2Fv%2Ft42.1790-2%2F279782447_313613587553795_9049993928662872183_n.mp4%3F_nc_cat%3D111%26ccb%3D1-7%26_nc_sid%3D55d0d3%26efg%3DeyJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjozMjM0NTA2OTYzNTA1MzA5fQ%253D%253D%26_nc_ohc%3DY0YqTf0l-c0Q7kNvgH3vGAZ%26_nc_ht%3Dvideo-fra3-2.xx%26oh%3D00_AYAjMl3TX4HQ0bjD75yTXuzMhQnEVzs5uNJKXrjYAAWlmQ%26oe%3D66CC66C4&source=misc&id=3234506963505309&noredirect=0&watermark=0&__tn__=F)
+[Play Video](https://mbasic.facebook.com/video_redirect/?src=https%3A%2F%2Fvideo-fra3-2.xx.fbcdn.net%2Fv%2Ft42.1790-2%2F279782447_313613587553795_9049993928662872183_n.mp4%3F_nc_cat%3D111%26ccb%3D1-7%26_nc_sid%3D55d0d3%26efg%3DeyJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjozMjM0NTA2OTYzNTA1MzA5fQ%253D%253D%26_nc_ohc%3DZgF8axFv1HoQ7kNvgGFMcj-%26_nc_ht%3Dvideo-fra3-2.xx%26oh%3D00_AYAyygUQF8V9cUMFAmCjqFNPcDQX3YnqcqafNvlmJZjcYA%26oe%3D66CD0F84&source=misc&id=3234506963505309&noredirect=0&watermark=0&__tn__=F)
 
 We use [information we collect](#1-WhatInformationDoWe) to provide a personalized experience to you, including ads (if we show you ads on Meta Products), along with the other purposes we explain in detail below.
 
