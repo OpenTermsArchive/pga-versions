@@ -114,6 +114,11 @@ We Remove:
 * Where the target is not explicit
 
 * References to election-related gatherings or events when combined with a signal that content is threatening violence (e.g., threats to take up or bring a weapon, visual depictions of a weapon, references to arson, theft, vandalism).
+* Threats of high- or mid-severity violence in the defense of self or another human when the criteria below are met.
+
+* Against a person (excluding persons identifiable by name of face, people targeted based on their protected characteristics, and children)
+* In the context of home entry or interpersonal violence that is proportional to the violence responded to and is an immediate threat
+* The potential impact on voice outweighs the risk of imminent violence
 
 Read lessRead more
 
@@ -1567,6 +1572,16 @@ For the following content, we include a label so that people are aware the conte
 * Imagery of implicit/other sexual activity or stimulation when shared in a medical or health context
 * Imagery of implicit sexual activity or stimulation in sexual wellness context
 
+For the following content, we limit the ability to view the content to adults, ages 16 and older:
+
+* Real-world art, where
+* Imagery depicting near nudity such as nudity covered only by digital overlay or an opaque object and nudity obscured by see-through clothing
+* Imagery depicting persons making sexual poses, defined as poses simulating sexual activity or where groin, buttock or female breast(s) are in focus (including in real world art and digital imagery)
+* Imagery depicting sex-related activity (including in real world art and digital imagery) such as kissing with visible tongue and sexual or erotic dancing
+* Imagery depicting gestures that signify genitalia, masturbation, oral sex, or sexual intercourse (including in real world art and digital imagery)
+* Imagery depicting logos, screenshots or video clips of known pornographic websites
+* Content that contains sexual audio
+
 For the following content, we limit the ability to view the content to adults, ages 18 and older:
 
 * Real-world art, where
@@ -1595,7 +1610,7 @@ As noted in the [Adult Sexual Exploitation](https://www.facebook.com/communityst
 
 We also restrict sexually-explicit language that may lead to sexual solicitation because some audiences within our global community may be sensitive to this type of content, and it may impede the ability for people to connect with their friends and the broader community.
 
-Do not post:
+We do not allow:
 
 Content that offers or asks for prostitution, defined as offering oneself or asking for sexual activities in exchange for money or anything of value such as:
 
@@ -1622,6 +1637,14 @@ Sexually explicit language that goes into graphic detail about:
 * The above does not include content shared in a humorous, satirical or educational context, as a sexual metaphor or as sexual cursing
 
 We allow content that is otherwise covered by this policy when posted in condemnation, educational, awareness raising or news reporting contexts. We also do not prohibit under the policy content expressing desire for sexual activity, promoting sex education, discussing sexual practices or experiences, or offering classes or programs that teach about sex.
+
+For the following content, we limit the ability to view the content to adults, ages 18 and older:
+
+* Content expressing desire for adult sexual activity, or discussing sexual practices or experiences, even without sexual solicitation
+* Sexual metaphors or sexual cursing that goes into graphic detail about: A state of sexual arousal (e.g., wetness or erection)
+
+* A state of sexual arousal (e.g., wetness or erection)
+* An act of sexual intercourse (e.g., sexual penetration, self-pleasuring or exercising fetish scenarios)
 
 For the following Community Standards, we require additional information and/or context to enforce:
 
