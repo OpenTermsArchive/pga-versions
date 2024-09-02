@@ -275,7 +275,7 @@ We may subcontract certain services required for providing our Services (e.g.: b
 The subcontractor will access the Personal Data only to the minimum extent required for performing the subcontracted services on our behalf, and will not use the Personal Data beyond the scope of the subcontracted services.  
 We will: (i) comply with Applicable Laws and investigate the qualification as a subcontractor; (ii) take measures to have the subcontractor comply with the policies related to the protection of personal information where the subcontractor is located by ways such as prescribing matters related to confidentiality in the contract with the subcontractor; and (iii) thereby establish a system for properly managing Personal Data.
 
-Countries and regions to which Personal Data is transferred: Japan, the U.S., Korea, Ireland, Canada, the Philippines, Australia, Vietnam, Thailand, Taiwan and Indonesia.
+Countries and regions to which Personal Data is transferred: Japan, the United States, Korea, Ireland, Canada, the Philippines, Australia, Vietnam, Thailand, Taiwan, Indonesia, Singapore, the Netherlands, and Germany.
 
 #### 5.c.Sharing of Personal Data among group companies
 
@@ -360,7 +360,7 @@ Otherwise, we prescribe the storage period of Personal Data according to the fol
 
 * We will not in any way use highly private information such as texts, images, videos and audio data sent in a talk room between users for any purpose other than the distribution of messages (including retransmission in the event of a communication failure or synchronization of messages from multiple devices) unless we have obtained your consent or such use is permitted by Applicable Laws. While we will retain the foregoing information for a minimum period, such information will subsequently be automatically deleted from our server.
 * Information that we collected for a specific purpose will be promptly deleted after the lapse of a reasonable period once the purpose of such information is fulfilled.
-* If you have expressly declared your intent to store your Personal Data, we may respect your intent and store your Personal Data for a long period. For example, we are providing a feature, such as the Keep feature of LINE, to users for expressly storing/deleting information.
+* If you have expressly declared your intent to store your Personal Data, we may respect your intent and store your Personal Data for a long period.
 * If a storage period is prescribed under Applicable Laws or the like, we will store Personal Data according to such storage period.
 
 We may continue to retain Personal Data in a format in which individuals cannot be identified after the lapse of the storage period prescribed pursuant to Applicable Laws and our internal rules.
@@ -452,7 +452,7 @@ When we make any material changes to this Policy, we will notify you through rea
 
 The Services are intended for a general audience. If a minor is to use our Services and provides Personal Data, the minor must do so with the consent of his/her guardian. You represent and warrant that you have the right capacity and legal capacity required for using our Services. If you are a minor, you represent and warrant that you are using our Services with the consent of your guardian. We have voluntarily imposed age restrictions on certain Services in cases where we are unable to confirm that you are of a certain age.
 
-We understand the special necessity to protect the Personal Data collected from minors in the U.S., Europe, or Thailand (under the age of 13 in the U.S., under the age of 16 in Europe, and under the age of 11 in Thailand) using our Services, and we do not knowingly collect any Personal Data from minors.  
+We understand the special necessity to protect the Personal Data collected from minors in the the United States, Europe, or Thailand (under the age of 13 in the the United States, under the age of 16 in Europe, and under the age of 11 in Thailand) using our Services, and we do not knowingly collect any Personal Data from minors.  
   
 If, however, you believe that we have collected Personal Data from minors of the aforementioned countries or regions, then please let us know via the [Contact Form](https://contact-cc.line.me/) or by writing to the address indicated below. If we learn that we have inadvertently collected Personal Data from minors of the aforementioned countries or regions, we will deactivate the relevant account(s) and will take reasonable measures to promptly delete such Personal Data from our records.
 
