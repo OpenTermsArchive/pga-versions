@@ -1,9 +1,3 @@
-Truth Social Data Privacy Policy (Non-U.S. Users)
-=================================================
-
-What to expect on how we treat your data
-----------------------------------------
-
 Last updated 12/2/2022
 
 TRUTH SOCIAL operates a website, a mobile application and related platform features available through its website (“Website”) or its mobile application (“App”). We may refer to Truth Social as “we,” “us,” or “our.” We may refer to you as “you” or “your.” The purpose of this policy is to inform you about the personal information we collect, how we use and share that information, and the ways in which you can control how we use and share that information. By using our Website or our App, you agree to the terms of this policy and you expressly consent to the collection, use, and disclosure of your personal information in accordance with this policy.
