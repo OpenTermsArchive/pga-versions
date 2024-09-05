@@ -1,18 +1,23 @@
 Community guidelines
 
+
+========================
+
 Table of Contents
 
 Our mission
+===========
 
 Pinterest's mission is to bring everyone the inspiration to create a life they love. That being said, not all content is inspiring - so we have community guidelines to outline what we do and don’t allow on Pinterest. These guidelines are our acceptable use policy, so if you find content that shouldn’t be on Pinterest, please . We appreciate your feedback and work hard to review your report and take appropriate action in a timely fashion. We use your reports to learn and evolve our standards, and work with subject matter experts to inform and update our guidelines. You can learn more about how we enforce these guidelines in our biannual .
 
 Content safety
+==============
 
 Pinterest isn’t a place for antagonistic, explicit, false or misleading, harmful, hateful, or violent content or behavior. We may remove, limit, or block the distribution of such content and the accounts, individuals, groups and domains that create or spread it based on how much harm it poses. You can read more about how we put our Community Guidelines into practice on our Enforcement page .
 
 We’re committed to presenting you with clear and transparent expectations that are easy to understand and follow. If you have questions or encounter problems on Pinterest, please .
 
-Adult content
+### Adult content
 
 Pinterest isn’t a place for adult content, including pornography and most nudity. We remove or limit the distribution of mature and explicit content, including:
 
@@ -24,7 +29,7 @@ Pinterest isn’t a place for adult content, including pornography and most nudi
 We allow some nudity in certain contexts, although we may limit its distribution. For instance, nudity in paintings and sculptures and in science and historical contexts is okay. Content about breastfeeding and mastectomies is also allowed. These guidelines apply to text and real-life, digital, and animated images and video.  
   
 
-Exploitation
+### Exploitation
 
 Pinterest isn’t a place for exploitation of people or animals. We’ll remove or limit the distribution of content and accounts involved in practices that risk harm to people or animals, including sexual, physical, or financial exploitation. That includes:
 
@@ -36,7 +41,7 @@ Pinterest isn’t a place for exploitation of people or animals. We’ll remove 
 * Corpses, animal parts or products derived from cat or dog parts, or protected and endangered wildlife, including ivory.
 * Irresponsible and harmful animal tourism or otherwise exploitative practices like organized animal fighting.
 
-Hateful activities
+### Hateful activities
 
 Pinterest isn’t a place for hateful content or the people and groups that promote hateful activities. We limit the distribution of or remove such content and accounts, including:
 
@@ -51,7 +56,7 @@ Pinterest isn’t a place for hateful content or the people and groups that prom
 
 Protected and vulnerable groups include: People grouped together based on their actual or perceived race, color, caste, ethnicity, immigration status, national origin, religion or faith, sex or gender identity, sexual orientation, disability or medical condition. It also includes people who are grouped together based on lower socio-economic status, age, weight or size, pregnancy or veteran status.
 
-Misinformation
+### Misinformation
 
 Pinterest isn’t a place for misinformation, disinformation, mal-information or the individuals or groups spreading or creating it. We remove or limit distribution of false or misleading content that may harm Pinners’ or the public’s well-being, safety or trust, including:
 
@@ -63,7 +68,7 @@ Pinterest isn’t a place for misinformation, disinformation, mal-information or
 * Factual information that’s published or deliberately modified to erode trust or inflict harm, such as changing or omitting of context, date or time
 * Fabricated or meaningfully manipulated visual or audio content that erodes trust or causes harm
 
-Civic participation misinformation
+### Civic participation misinformation
 
 This policy is always applicable, meaning before, during and after major civic participation events (e.g. elections).
 
@@ -78,14 +83,14 @@ This policy is always applicable, meaning before, during and after major civic p
 * Fabricated or manipulated content (e.g. content generated with AI tools) making someone appear to do or say something they didn't with the clear intent of influencing public sentiment about a political figure and/or election.
 * Our policies also prohibit threats against voting locations, census or voting personnel, voters or census participants, including intimidation and doxxing of vulnerable or protected group voters or participants.
 
-Climate misinformation
+### Climate misinformation
 
 * Content that denies the existence or impacts of climate change, the human influence on climate change, or that climate change is backed by scientific consensus.
 * False or misleading content about climate change solutions that contradict well-established scientific consensus.
 * Content that misrepresents scientific data, including by omission or cherry-picking, in order to erode trust in climate science and experts.
 * Harmful false or misleading content about public safety emergencies including natural disasters and extreme weather events.
 
-Harassment and criticism
+### Harassment and criticism
 
 Pinterest isn’t a place to insult, hurt or antagonize individuals or groups of people. There are good reasons to express criticism, but we may limit the distribution of or remove insulting content to keep Pinterest a positive, inspiring place; this includes:
 
@@ -97,7 +102,7 @@ Pinterest isn’t a place to insult, hurt or antagonize individuals or groups of
 
 We’ve also put together for you to protect yourself.
 
-Child safety
+### Child safety
 
 Pinterest does not tolerate child sexual exploitation of any kind. That means we enforce a strict, zero-tolerance policy for any content—including imagery, video, or text— or accounts that might exploit or endanger minors. Pinterest prohibits not just illegal child sexual abuse material (CSAM), but goes a step further to prohibit any content that contributes to the sexualization of minors, including in imagery and text. We also work closely with the National Center for Missing and Exploited Children (NCMEC) to combat this type of activity, and report content violations ​​as required under the law. The types of content we remove includes:
 
@@ -108,7 +113,7 @@ Pinterest does not tolerate child sexual exploitation of any kind. That means we
 * Comments on imagery of minors that are inappropriate or sexualized.
 * The intentional misuse of content depicting minors that is otherwise non-violating. For example, we will deactivate users who save otherwise non-violating content into collections or in other contexts that suggest the intent is sexualization of minors.
 
-Private information
+### Private information
 
 We don’t allow content that reveals personal or sensitive information. We will remove:
 
@@ -120,7 +125,7 @@ We don’t allow content that reveals personal or sensitive information. We will
 
 If you come across unwanted photos of or information about you, you can . Minors or their authorized representatives can also reach out to regarding unwanted photos or information.
 
-Self-injury and harmful behavior
+### Self-injury and harmful behavior
 
 **If you or someone you know is struggling with suicidal thoughts or is considering hurting themselves, we have in our Help Center where you can get free, confidential and immediate support.**
 
@@ -135,7 +140,7 @@ Pinterest isn’t a place for content that displays, rationalizes or encourages 
 * Negative self-talk and insensitive humor about self-harming behavior
 * Suicide pacts, challenges and hoaxes
 
-Graphic violence and threats
+### Graphic violence and threats
 
 Pinterest isn’t a place for graphic violence or threatening language. We limit the distribution of or remove such content, including:
 
@@ -145,7 +150,7 @@ Pinterest isn’t a place for graphic violence or threatening language. We limit
 
 In a few cases, we allow the saving of disturbing images dedicated to remembrance and advocacy, but limit distribution of such content in public parts of the platform.
 
-Violent actors
+### Violent actors
 
 Pinterest isn’t a place for violent content, groups or individuals. We limit the distribution of or remove content and accounts that encourage, praise, promote, or provide aid to dangerous actors or groups and their activities. This includes:
 
@@ -155,7 +160,7 @@ Pinterest isn’t a place for violent content, groups or individuals. We limit t
 
 We work with industry, government and security experts to help us identify these groups.
 
-Dangerous goods and activities
+### Dangerous goods and activities
 
 Pinterest isn’t a place for trading or selling of certain regulated goods—products or substances that can cause harm when used, altered or manufactured irresponsibly—or for the display or encouragement of dangerous activities. We limit the distribution of or remove such content and accounts, including:
 
@@ -170,7 +175,7 @@ Pinterest isn’t a place for trading or selling of certain regulated goods—p
       
     
 
-Harmful or deceptive products and practices
+### Harmful or deceptive products and practices
 
 Pinterest isn’t a place for practices and products that may be harmful or deceptive. We limit the distribution of or remove such content and accounts, including, but not limited to:
 
@@ -180,11 +185,11 @@ Pinterest isn’t a place for practices and products that may be harmful or dece
 * Privacy violating products or services
 * Exploitative financial practices
 
-Impersonation
+### Impersonation
 
 We don’t allow accounts that impersonate or misrepresent their affiliation with any person or organization. If you have a fan or commentary account for a public figure or brand, make it clear through your username or Pinterest profile that you aren’t officially affiliated with them.
 
-Comments
+### Comments
 
 All of our Community Guidelines apply in comments posted on Pins. In addition, comments should be relevant. We may remove comments that violate our guidelines, including those that contain:
 
@@ -197,7 +202,7 @@ All of our Community Guidelines apply in comments posted on Pins. In addition, c
 * Harassment or privacy violations
 * Copyright or trademark infringement
 
-Messages
+### Messages
 
 All of our apply to messages sent between Pinners. Messages should also be welcomed and relevant. In addition to Pinners’ ability to unwelcome messages, we may warn or suspend accounts that violate our guidelines, including by sending messages that contain:
 
@@ -210,6 +215,7 @@ All of our apply to messages sent between Pinners. Messages should also be welco
 * Exploitation of private information
 
 Intellectual property and other rights
+======================================
 
 To respect the rights of people on and off Pinterest, please:
 
@@ -218,6 +224,7 @@ To respect the rights of people on and off Pinterest, please:
 * Don’t use Pinterest’s name, logo or trademark in a way that confuses people (check out our for more details).
 
 Site security and access
+========================
 
 To protect the Pinterest platform, we ask that you please:
 
@@ -233,6 +240,7 @@ To protect the Pinterest platform, we ask that you please:
 You can’t use Pinterest if it would be prohibited by . Personal accounts and business accounts are currently not available in North Korea. Business accounts are currently not available in Crimea, Cuba, Donetsk People's Republic, Iran, Luhansk People's Republic, North Korea or Syria.
 
 Spam
+====
 
 We want the inspiration and ideas on Pinterest to be high-quality and useful, so we remove spam when we find it. We ask that you be considerate of others' experiences on Pinterest and don't spread spam or engage in spammy behavior.
 
@@ -251,6 +259,7 @@ Our guidelines around spam are:
     * With respect to redirection, we encourage you to follow a “no surprises” principle — Pinners should be able to reasonably anticipate where your link will take them. Links that exhibit excessive or deceptive redirection, as well as shortener services that are abused for spam, may be blocked.
 
 Paid Partnership guidelines
+===========================
 
 #### What is a paid partnership?
 
@@ -277,6 +286,7 @@ Don't incentivize or pay people to distribute content in large volumes, in spamm
 We may remove, limit or block the distribution of content or accounts that violate our paid partnership guidelines. If you have questions or encounter problems on Pinterest, you can .
 
 Affiliate guidelines
+====================
 
 Affiliate links help content creators measure the impact of their contributions and get paid for the work that they do to bring inspiring content to Pinners. However, affiliate programs can be targeted by spammers trying to make money by abusing the program and manipulating the Pinterest platform.
 
@@ -295,6 +305,7 @@ Our guidelines for affiliates are:
 We may remove, limit or block the distribution of content or accounts that violate our Affiliate Guidelines. If you have questions or encounter problems on Pinterest, you can .
 
 Contest guidelines
+==================
 
 * Don't require people to save a specific image. Give people the ability to choose Pins based on their tastes and preferences, even if it's from a selection or a given website.
 * Don't allow more than one entry per person.
