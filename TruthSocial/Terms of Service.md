@@ -1,24 +1,24 @@
 Truth Social Terms of Service
 =============================
 
-**Welcome to the TRUTH SOCIAL, the online platform owned and operated by T MEDIA TECH LLC, which is available on [www.truthsocial.com](http://www.truthsocial.com/) ("Site") or on the mobile application platform under Truth Social ("App"). The Site and App have been created for your entertainment as well as educational and personal use.**
+**Welcome to the TRUTH SOCIAL family of products, including an online platform owned and operated by T MEDIA TECH LLC, which is available on [www.truthsocial.com](http://www.truthsocial.com/) ("Site"), as well as our related mobile application platform under Truth Social and our Truth+ app (collectively, the "Apps"). The Site and Apps have been created for your entertainment as well as educational and personal use.**
 
 **PLEASE READ SECTIONS 22 AND 23 BELOW CAREFULLY AS THEY CONTAIN A BINDING ARBITRATION AGREEMENT AND A CLASS ACTION WAIVER, WHICH MAY AFFECT YOUR LEGAL RIGHTS.**
 
 1\. AGREEMENT TO TERMS
 ----------------------
 
-These Terms of Service constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("you") and Truth Social ("we," "us" or "our"), concerning your access to and use of the Site and App as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the "Service").
+These Terms of Service constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("you") and Truth Social ("we," "us" or "our"), concerning your access to and use of the Site and Apps as well as any other media form, media channel, mobile website, mobile application, or streaming service that is related, linked, or otherwise connected thereto (collectively, the "Service").
 
 You agree that by accessing the Service, you have read, understood, and agree to be bound by all of these Terms of Service. If you do not agree with all of these Terms of Service, then you are expressly prohibited from using the Service and you must discontinue use immediately.
 
-Supplemental Terms of Service or documents that may be posted on the Site or the App from time to time are hereby expressly incorporated herein by reference. We reserve the right, in our sole discretion, to make changes or modifications to these Terms of Service at any time and for any reason.
+Supplemental Terms of Service or documents that may be posted on the Site or the Apps from time to time are hereby expressly incorporated herein by reference. We reserve the right, in our sole discretion, to make changes or modifications to these Terms of Service at any time and for any reason.
 
-We will alert you about any changes by updating the "Last updated" date of these Terms of Service, and you waive any right to receive specific notice of each such change except herein or on the Site or App.
+We will alert you about any changes by updating the "Last updated" date of these Terms of Service, and you waive any right to receive specific notice of each such change except herein or on the Site or Apps.
 
-It is your responsibility to periodically review these Terms of Service to stay informed of updates. You will be subject to and will be deemed to have been made aware of and to have accepted, the changes in any revised Terms of Service by your continued use of the Site and the App after the date such revised Terms of Service are posted.
+It is your responsibility to periodically review these Terms of Service to stay informed of updates. You will be subject to and will be deemed to have been made aware of and to have accepted, the changes in any revised Terms of Service by your continued use of the Site and the Apps after the date such revised Terms of Service are posted.
 
-The information provided on the Site and the App is not intended for distribution to or use by any person or entity in any jurisdiction or country where such distribution or use would be contrary to law or regulation or which would subject us to any registration requirement within such jurisdiction or country.
+The information provided on the Site and the Apps are not intended for distribution to or use by any person or entity in any jurisdiction or country where such distribution or use would be contrary to law or regulation or which would subject us to any registration requirement within such jurisdiction or country.
 
 Accordingly, those persons who choose to access the Service from other locations do so on their own initiative and are solely responsible for compliance with local laws, if and to the extent local laws are applicable.
 
@@ -29,16 +29,16 @@ The Service is intended for users who are at least 18 years of age. All users wh
 
 TRUTH Social is the "Big Tent" of social networking. TRUTH Social's codebase is free and open sourced, derived from the Mastodon project and licensed under the GNU Affero General Public License v. 3.0 (the "AGPLV3"). For more information, please see Legal Docs.
 
-Unless otherwise indicated, the functionality, website designs, images, audio, video, text, photographs, and graphics on the Site and the App (collectively, the "Content") and the trademarks, service marks, and logos contained therein (the "Marks") are owned or controlled by us or licensed to us, and are protected by copyright and trademark laws and various other intellectual property rights and unfair competition laws of the United States, foreign jurisdictions, and international conventions.
+Unless otherwise indicated, the functionality, website designs, images, audio, video, text, photographs, graphics, and other content or material made available through the Service (collectively, the "Content") and the trademarks, service marks, and logos contained therein (the "Marks") are owned or controlled by us or licensed to us, and are protected by copyright and trademark laws and various other intellectual property rights and unfair competition laws of the United States, foreign jurisdictions, and international conventions.
 
-The Content and the Marks are provided on the Site and the App "AS IS" for your information and personal use only. Except as expressly provided in these Terms of Service, no part of the Site or the App and no Content or Marks may be copied, reproduced, aggregated, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted, distributed, sold, licensed, or otherwise exploited for any commercial purpose whatsoever, without our express prior written permission.
+The Content and the Marks are provided on the Site and the Apps "AS IS" for your information and personal use only. Except as expressly provided in these Terms of Service, no part of the Site or the Apps and no Content or Marks may be copied, reproduced, aggregated, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted, distributed, sold, licensed, or otherwise exploited for any commercial purpose whatsoever, without our express prior written permission.
 
-Provided that you are eligible to use the Service, you are granted a limited license to access and use the Service and to download or print a copy of any portion of the Content to which you have properly gained access solely for your personal, non-commercial use. We reserve all rights not expressly granted to you in and to the Service, the Site, the App, the Content and the Marks.
+Provided that you are eligible to use the Service, you are granted a limited license to access and use the Service and to download or print a copy of any portion of the Content to which you have properly gained access (other than any video or other content made available through the Truth+ App, which may not be downloaded, reproduced, modified, redisplayed, retransmitted, or performed in any manner) solely for your personal, non-commercial use. We reserve all rights not expressly granted to you in and to the Service, the Site, the Apps, the Content and the Marks.
 
 3\. PRIVACY POLICY
 ------------------
 
-We care about data privacy and security. We have developed a Privacy Policy in order to inform you of its practices with respect to the collection, use, disclosure and protection of your information. Please review our Privacy Policy at [https://help.truthsocial.com/legal/privacy-policy](https://help.truthsocial.com/legal/privacy-policy), which posted on the Site. You can also find it posted on the App. By using the Service, you agree to be bound by our Privacy Policy, which is incorporated into these Terms of Service. Please be advised the Site and the App are hosted in the United States.
+We care about data privacy and security. We have developed a Privacy Policy in order to inform you of its practices with respect to the collection, use, disclosure and protection of your information. Please review our Privacy Policy at [https://help.truthsocial.com/legal/privacy-policy](https://help.truthsocial.com/legal/privacy-policy), which posted on the Site. You can also find it posted on the Apps. By using the Service, you agree to be bound by our Privacy Policy, which is incorporated into these Terms of Service. Please be advised the Site and the Apps are hosted in the United States.
 
 If you access the Service from the European Union, Asia, or any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in the United States, then through your continued use of the Service, if applicable, you are transferring your data to the United States, and you expressly consent to have your data transferred to and processed in the United States. Please review our Data Privacy Policy (GDPR) as to data collection and processing for all users, including those outside the United States.
 
@@ -70,7 +70,7 @@ If you provide any information that is untrue, inaccurate, not current, or incom
 5\. USER REGISTRATION
 ---------------------
 
-You may be required to register for the Service, by providing your name, date of birth, and email address as well as to create a username and password to set up your Profile and your account. You agree to keep your password confidential, if applicable, and will be responsible for all use of your account and password. We reserve the right to remove, reclaim, or change a username you select if we determine, in our sole discretion, (a) that such username is inappropriate, obscene, or otherwise objectionable; (b) that such username is dormant, inactive or unused for an extended period of time exceeding 5 months or more; or (c) that such username is being used for user impersonation or username squatting which is a violation hereunder.
+You may be required to register for the Service, by providing your name, date of birth, and email address as well as to create a username and password to set up your profile and your account. You agree to keep your password confidential, if applicable, and will be responsible for all use of your account and password. We reserve the right to remove, reclaim, or change a username you select if we determine, in our sole discretion, (a) that such username is inappropriate, obscene, or otherwise objectionable; (b) that such username is dormant, inactive or unused for an extended period of time exceeding 5 months or more; or (c) that such username is being used for user impersonation or username squatting which is a violation hereunder.
 
 6\. COMMUNICATION PREFERENCES AND CONSENT.
 ------------------------------------------
@@ -88,7 +88,7 @@ As a user of the Service, you agree not to:
     
 2. make any unauthorized use of the Service, including collecting usernames and/or email addresses of users by electronic or other means for the purpose of sending unsolicited email, or creating user accounts by automated means or under false pretenses.
     
-3. use a buying agent, purchasing agent or other agent to make purchases or to upload content on the Site or the App.
+3. use a buying agent, purchasing agent or other agent to make purchases or to upload content on the Site or the Apps.
     
 4. use the Service to advertise or offer to sell goods and services in a manner that degrades the user experience, e.g., via off-topic replies to other users’ Contributions, or that appears to be inconsistent with any applicable law, regulation, or professional standard.
     
@@ -102,7 +102,7 @@ As a user of the Service, you agree not to:
     
 9. engage in any automated use of the system, such as using scripts to send comments or messages, or using any data mining, robots, or similar data gathering and extraction tools.
     
-10. interfere with, disrupt, or create an undue burden on the Service or the networks or other services connected to the Site or the App.
+10. interfere with, disrupt, or create an undue burden on the Service or the networks or other services connected to the Site or the Apps.
     
 11. attempt to impersonate another user or person or use the username of another user of the Service.
     
@@ -132,9 +132,9 @@ As a user of the Service, you agree not to:
     
 24. use the Service in a manner inconsistent with any applicable laws or regulations.
     
-25. attempts to sell, buy, or solicit other forms of payment in exchange for usernames on the Site or App.
+25. attempts to sell, buy, or solicit other forms of payment in exchange for usernames on the Site or Apps.
     
-26. Post offensive or sexual content on the Site or App, including but not limited to:
+26. Post offensive or sexual content on the Site or Apps, including but not limited to:
     
     a. Sexual content or language;
     
@@ -152,7 +152,7 @@ As a user of the Service, you agree not to:
 
 The Service may invite you to post comments, post opinions, chat, contribute to, or participate in chats or blogs, message boards, online forums, and other functionality, and may provide you with the opportunity to create, submit, post, display, transmit, perform, publish, distribute, or broadcast content and materials to us or on the Service, including but not limited to text, writings, video, audio, photographs, graphics, comments, suggestions, or personal information or other material (collectively, "Contributions").
 
-Contributions may be viewable by other users of the Site and through third-party websites. As such, any Contributions you transmit may be treated as non-confidential and non-proprietary. When you create or make available any Contributions, you thereby represent and warrant that:
+Contributions may be viewable by other users of the Site or the Apps and through third-party websites. As such, any Contributions you transmit may be treated as non-confidential and non-proprietary. When you create or make available any Contributions, you thereby represent and warrant that:
 
 1. the creation, distribution, transmission, public display, or performance, and the accessing, downloading, or copying of your Contributions do not and will not infringe the proprietary rights, including but not limited to the copyright, patent, trademark, trade secret, or moral rights of any third party.
     
@@ -186,7 +186,7 @@ Any use of the Service in violation of the foregoing violates these Terms of Ser
 9\. CONTRIBUTION LICENSE
 ------------------------
 
-By posting your Contributions to any part of the Service \[or making Contributions accessible to the Service by linking your account from the Service to any of your social networking accounts\], you automatically grant, and you represent and warrant that you have the right to grant, to us an unrestricted, unlimited, irrevocable, perpetual, non-exclusive, transferable, royalty-free, fully-paid, worldwide right, and license to host, use, copy, reproduce, disclose, sell, resell, publish, broadcast, retitle, archive, store, cache, publicly perform, publicly display, reformat, translate, transmit, excerpt (in whole or in part), and distribute such Contributions (including, without limitation, your image and voice) for any purpose, commercial, advertising, or otherwise, and to prepare derivative works of, or incorporate into other works, such Contributions, and grant and authorize sublicenses of the foregoing. The use and distribution may occur in any media formats and through any media channels.
+By posting your Contributions to any part of the Service or making Contributions accessible to the Service by linking your account from the Service to any of your social networking accounts, you automatically grant, and you represent and warrant that you have the right to grant, to us an unrestricted, unlimited, irrevocable, perpetual, non-exclusive, transferable, royalty-free, fully-paid, worldwide right, and license to host, use, copy, reproduce, disclose, sell, resell, publish, broadcast, retitle, archive, store, cache, publicly perform, publicly display, reformat, translate, transmit, excerpt (in whole or in part), and distribute such Contributions (including, without limitation, your image and voice) for any purpose, commercial, advertising, or otherwise, and to prepare derivative works of, or incorporate into other works, such Contributions, and grant and authorize sublicenses of the foregoing. The use and distribution may occur in any media formats and through any media channels.
 
 This license will apply to any form, media, or technology now known or hereafter developed, and includes our use of your name, company name, and franchise name, as applicable, and any of the trademarks, service marks, trade names, logos, and personal and commercial images you provide.
 
@@ -199,7 +199,7 @@ We have the right, in our sole and absolute discretion, (1) to edit, redact, or 
 10\. GUIDELINES FOR REVIEWS/RATINGS OR COMMENTS
 -----------------------------------------------
 
-We may provide you areas on the Service to leave reviews and ratings, post comments or replies or to otherwise communicate with other users on the Service ("Interactive Content"). When posting an Interactive Content, please use care and caution when posting or providing Interactive Content to other users. Additionally, you must comply with the following criteria:
+We may provide you areas on the Service to leave reviews and ratings, post comments or replies or to otherwise communicate with other users of the Service ("Interactive Content"). When posting an Interactive Content, please use care and caution when posting or providing Interactive Content to other users. Additionally, you must comply with the following criteria:
 
 (1) you should have firsthand experience with the person/entity being reviewed or Interactive Content being posted;
 
@@ -228,41 +228,41 @@ We do not assume liability for any Interactive Content or for any claims, liabil
 
 ### Use License
 
-If you access the Service via a mobile application, then we grant you a revocable, non-exclusive, non-transferable, limited right to install and use the mobile application on wireless electronic devices owned or controlled by you, and to access and use the mobile application on such devices strictly in accordance with the Terms of Service of this mobile application license contained in these Terms of Service.
+If you are using an App, then we grant you a revocable, non-exclusive, non-transferable, limited right to install and use the App on wire or wireless electronic devices owned or controlled by you, and to access and use the App on such devices strictly in accordance with the Terms of Service of the Applicense contained in these Terms of Service.
 
 You shall not:
 
-(1) decompile, reverse engineer, disassemble, attempt to derive the source code of, or decrypt the application;
+(1) decompile, reverse engineer, disassemble, attempt to derive the source code of, or decrypt the App;
 
-(2) violate any applicable laws, rules, or regulations in connection with your access or use of the application;
+(2) violate any applicable laws, rules, or regulations in connection with your access or use of the App;
 
 (3) remove, alter, or obscure any proprietary notice (including any notice of copyright or trademark) posted by us or any licensors;
 
-(4) use the application for any revenue generating endeavor, commercial enterprise, or other purpose for which it is not designed or intended;
+(4) use the App for any revenue generating endeavor, commercial enterprise, or other purpose for which it is not designed or intended;
 
-(5) make the application available over a network or other environment permitting access or use by multiple devices or users at the same time;
+(5) make the App available over a network or other environment permitting access or use by multiple devices or users at the same time;
 
-(6) use the application for creating a product, service, or software that is, directly or indirectly, competitive with or in any way a substitute for the application;
+(6) use the App for creating a product, service, or software that is, directly or indirectly, competitive with or in any way a substitute for the application;
 
-(7) use the application to send automated queries to any website or to send any unsolicited commercial e-mail;
+(7) use the App to send automated queries to any website or to send any unsolicited commercial e-mail;
 
-(9) use any proprietary information or any other intellectual property in the design, development, manufacture, licensing, or distribution of any applications, accessories, or devices for use with the application, without appropriate consent or license.
+(9) use any proprietary information or any other intellectual property in the design, development, manufacture, licensing, or distribution of any applications, accessories, or devices for use with the App, without appropriate consent or license.
 
 ### Apple and Android Devices
 
-The following terms apply when you use a mobile application obtained from either the Apple Store or Google Play, if applicable, (each an "App Distributor") to access the Service:
+The following terms apply with respect to an App obtained from either the Apple Store or Google Play, if applicable, (each an "App Distributor"):
 
-(1) the license granted to you for our mobile application is limited to a non-transferable license to use the application on a device that utilizes the Apple iOS or Android operating systems, as applicable, and in accordance with the usage rules set forth in the applicable App Distributor's Terms of Service;
+(1) the license granted to you for the App is limited to a non-transferable license to use the App on a device that utilizes the Apple iOS or Android operating systems, as applicable, and in accordance with the usage rules set forth in the applicable App Distributor's Terms of Service;
 
-(2) we are responsible for providing any maintenance and support services with respect to the mobile application as specified in the Terms of Service of this mobile application license contained in these Terms of Service or as otherwise required under applicable law, and you acknowledge that each App Distributor has no obligation whatsoever to furnish any maintenance and support services with respect to the mobile application;
+(2) we are responsible for providing any maintenance and support services with respect to the App as specified in these Terms of Service or as otherwise required under applicable law, and you acknowledge that each App Distributor has no obligation whatsoever to furnish any maintenance and support services with respect to the App;
 
-(3) in the event of any failure of the mobile application to conform to any applicable warranty, you may notify the applicable App Distributor, and the App Distributor, in accordance with its terms and policies, may refund the purchase price, if any, paid for the mobile application, and to the maximum extent permitted by applicable law, the App Distributor will have no other warranty obligation whatsoever with respect to the mobile application;
+(3) in the event of any failure of the App to conform to any applicable warranty, you may notify the applicable App Distributor, and the App Distributor, in accordance with its terms and policies, may refund the purchase price, if any, paid for the App, and to the maximum extent permitted by applicable law, the App Distributor will have no other warranty obligation whatsoever with respect to the App;
 
 (4) you represent and warrant that (i) you are not located in a country that is subject to a U.S. government embargo, or that has been designated by the U.S. government as a "terrorist supporting" country and (ii) you are not listed on any U.S. government list of prohibited or restricted parties;
 
-(5) you must comply with applicable third-party terms of agreement when using the mobile application, e.g., if you have a VoIP application, then you must not be in violation of their wireless data service agreement when using the mobile application;
+(5) you must comply with applicable third-party terms of agreement when using the App, e.g., if you have a VoIP application, then you must not be in violation of their wireless data service agreement when using the App;
 
-6) you acknowledge and agree that the App Distributors are third-party beneficiaries of the Terms of Service in this mobile application license contained in these Terms of Service, and that each App Distributor will have the right (and will be deemed to have accepted the right) to enforce the Terms of Service in this mobile application license contained in these Terms of Service against you as a third-party beneficiary thereof.
+6) you acknowledge and agree that the App Distributors are third-party beneficiaries of these Terms of Service, and that each App Distributor will have the right (and will be deemed to have accepted the right) to enforce these Terms of Service against you as a third-party beneficiary thereof.
 
 12\. SOCIAL MEDIA
 -----------------
@@ -288,7 +288,7 @@ You can deactivate the connection between the Service and your Third-Party Accou
 13\. SUBMISSIONS
 ----------------
 
-You acknowledge and agree that any questions, comments, suggestions, ideas, feedback, or other information regarding the Service ("Submissions") provided by you to us are non-confidential and shall become our sole property. We shall own exclusive rights, including all intellectual property rights, and shall be entitled to the unrestricted use and dissemination of these Submissions for any lawful purpose, commercial or otherwise, without acknowledgment or compensation to you.
+You acknowledge and agree that any questions, comments, suggestions, ideas, feedback, or other information regarding the Service provided by you to us (“Submissions”) are non-confidential and shall become our sole property. We shall own exclusive rights, including all intellectual property rights, and shall be entitled to the unrestricted use and dissemination of these Submissions for any lawful purpose, commercial or otherwise, without acknowledgment or compensation to you.
 
 You hereby waive all moral rights to any such Submissions, and you hereby warrant that any such Submissions are original with you or that you have the right to submit such Submissions. You agree there shall be no recourse against us for any alleged or actual infringement or misappropriation of any proprietary right in your Submissions.
 
@@ -362,7 +362,7 @@ To be an effective Counter Notification under the DMCA, your Counter Notificatio
 
 (2) a statement that you consent to the jurisdiction of the Federal District Court in which your address is located, or if your address is outside the United States, for any judicial district in which we are located;
 
-(3) a statement that you will accept service of process from the party that filed the Notification or the party\\'s agent;
+(3) a statement that you will accept service of process from the party that filed the Notification or the party's agent;
 
 (4) your name, address, and telephone number;
 
@@ -372,7 +372,7 @@ To be an effective Counter Notification under the DMCA, your Counter Notificatio
 
 If you send us a valid, written Counter Notification meeting the requirements described above, we will restore your removed or disabled material, unless we first receive notice from the party filing the Notification informing us that such party has filed a court action to restrain you from engaging in infringing activity related to the material in question.
 
-Please note that if you materially misrepresent that the disabled or removed content was removed by mistake or misidentification, you may be liable for damages, including costs and attorney\\'s fees. Filing a false Counter Notification constitutes perjury.
+Please note that if you materially misrepresent that the disabled or removed content was removed by mistake or misidentification, you may be liable for damages, including costs and attorney's fees. Filing a false Counter Notification constitutes perjury.
 
 Attn: Copyright Agent
 
@@ -392,7 +392,7 @@ Please be advised that pursuant to federal law you may be held liable for damage
 19\. TERM AND TERMINATION
 -------------------------
 
-These Terms of Service shall remain in full force and effect while you use the Service. **WITHOUT LIMITING ANY OTHER PROVISION OF THESE TERMS OF SERVICE, WE RESERVE THE RIGHT TO, IN OUR SOLE DISCRETION AND WITHOUT NOTICE OR LIABILITY, DENY ACCESS TO AND USE OF THE SERVICE (INCLUDING BLOCKING CERTAIN IP ADDRESSES), TO ANY PERSON FOR ANY REASON OR FOR NO REASON, INCLUDING WITHOUT LIMITATION FOR BREACH OF ANY REPRESENTATION, WARRANTY, OR COVENANT CONTAINED IN THESE TERMS OF SERVICE OR OF ANY APPLICABLE LAW OR REGULATION. WE MAY TERMINATE YOUR USE OR PARTICIPATION IN THE SERVICE OR DELETE \[YOUR ACCOUNT AND\] ANY CONTENT OR INFORMATION THAT YOU POSTED AT ANY TIME, WITHOUT WARNING, IN OUR SOLE DISCRETION.**
+These Terms of Service shall remain in full force and effect while you use the Service. **WITHOUT LIMITING ANY OTHER PROVISION OF THESE TERMS OF SERVICE, WE RESERVE THE RIGHT TO, IN OUR SOLE DISCRETION AND WITHOUT NOTICE OR LIABILITY, DENY ACCESS TO AND USE OF THE SERVICE (INCLUDING BLOCKING CERTAIN IP ADDRESSES) AND/OR ANY CONTENT PROVIDED THEREBY, TO ANY PERSON FOR ANY REASON OR FOR NO REASON, INCLUDING WITHOUT LIMITATION FOR BREACH OF ANY REPRESENTATION, WARRANTY, OR COVENANT CONTAINED IN THESE TERMS OF SERVICE OR OF ANY APPLICABLE LAW OR REGULATION. WE MAY TERMINATE YOUR USE OR PARTICIPATION IN THE SERVICE OR DELETE YOUR ACCOUNT AND ANY CONTENT OR INFORMATION THAT YOU POSTED AT ANY TIME, WITHOUT WARNING, IN OUR SOLE DISCRETION.**
 
 If we terminate or suspend your account for any reason, you are prohibited from registering and creating a new account under your name, a fake or borrowed name, or the name of any third party, even if you may be acting on behalf of the third party.
 
@@ -403,23 +403,23 @@ In addition to terminating or suspending your account, we reserve the right to t
 
 We reserve the right to change, modify, or remove the contents of the Service at any time or for any reason at our sole discretion without notice. However, we have no obligation to update any information on our Service. We also reserve the right to modify or discontinue all or part of the Service without notice at any time.
 
-We will not be liable to you or any third party for any modification, price change, suspension, or discontinuance of the Service.
+We will not be liable to you or any third party for any modification, price change, suspension, or discontinuance of the Service or any Content.
 
-We cannot guarantee the Service will be available at all times. We may experience hardware, software, or other problems or need to perform maintenance related to the Service, resulting in interruptions, delays, or errors.
+We cannot guarantee the Service or any Content will be available at all times. We may experience hardware, software, or other problems or need to perform maintenance related to the Service, resulting in interruptions, delays, or errors.
 
-We reserve the right to change, revise, update, suspend, discontinue, or otherwise modify the Service at any time or for any reason without notice to you. You agree that we have no liability whatsoever for any loss, damage, or inconvenience caused by your inability to access or use the Site during any downtime or discontinuance of the Service.
+We reserve the right to change, revise, update, suspend, discontinue, or otherwise modify the Service or any Content at any time or for any reason without notice to you. You agree that we have no liability whatsoever for any loss, damage, or inconvenience caused by your inability to access or use the Site during any downtime or discontinuance of the Service or any Content.
 
 Nothing in these Terms of Service will be construed to obligate us to maintain and support the Service or to supply any corrections, updates, or releases in connection therewith.
 
 21\. GOVERNING LAW
 ------------------
 
-These Terms of Service and your use of the Service are governed by and construed in accordance with the laws of the State of Florida applicable to agreements made and to be entirely performed within the State of Florida, without regard to its conflict of law principles.
+These Terms of Service and your use of the Service or receipt of Content are governed by and construed in accordance with the laws of the State of Florida applicable to agreements made and to be entirely performed within the State of Florida, without regard to its conflict of law principles.
 
 22\. DISPUTE RESOLUTION
 -----------------------
 
-**ANY DISPUTE, CONTROVERSY OR CLAIM YOU HAVE ARISING OUT OF OR RELATED TO THESE TERMS OF SERVICE, A BREACH THEREOF OR YOUR USE OF THE WEBSITE OR THE APP SHALL BE EXCLUSIVELY SUBMITTED AND DECIDED BY BINDING ARBITRATION ADMINISTERED BY THE AMERICAN ARBITRATION ASSOCIATION ("AAA"). ANY LEGAL ACTION OF WHATEVER NATURE BROUGHT BY US AGAINST YOU MAY BE COMMENCED OR PROSECUTED IN THE STATE AND FEDERAL COURTS LOCATED IN BROWARD COUNTY, FLORIDA, AND YOU HEREBY CONSENT TO SAME, AND WAIVE ALL DEFENSES OF LACK OF PERSONAL JURISDICTION AND FORUM NON CONVENIENS WITH RESPECT TO VENUE AND JURISDICTION IN SUCH STATE AND FEDERAL COURTS.**
+**ANY DISPUTE, CONTROVERSY OR CLAIM YOU HAVE ARISING OUT OF OR RELATED TO THESE TERMS OF SERVICE, A BREACH THEREOF OR YOUR USE OF THE SERVICE OR RECEIPT OR CONTENT SHALL BE EXCLUSIVELY SUBMITTED AND DECIDED BY BINDING ARBITRATION ADMINISTERED BY THE AMERICAN ARBITRATION ASSOCIATION ("AAA"). ANY LEGAL ACTION OF WHATEVER NATURE BROUGHT BY US AGAINST YOU MAY BE COMMENCED OR PROSECUTED IN THE STATE AND FEDERAL COURTS LOCATED IN BROWARD COUNTY, FLORIDA, AND YOU HEREBY CONSENT TO SAME, AND WAIVE ALL DEFENSES OF LACK OF PERSONAL JURISDICTION AND FORUM NON CONVENIENS WITH RESPECT TO VENUE AND JURISDICTION IN SUCH STATE AND FEDERAL COURTS.**
 
 23\. WAIVER OF CLASS ACTION
 ---------------------------
@@ -434,21 +434,19 @@ There may be information on the Service that contains typographical errors, inac
 25\. DISCLAIMER
 ---------------
 
-THE SERVICE IS PROVIDED ON AN AS-IS AND AS-AVAILABLE BASIS. YOU AGREE THAT YOUR USE OF THE SERVICE AND ITS CONTENT WILL BE AT YOUR SOLE RISK. TO THE FULLEST EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, IN CONNECTION WITH THE SERVICE AND YOUR USE THEREOF, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE MAKE NO WARRANTIES OR REPRESENTATIONS ABOUT THE ACCURACY OR COMPLETENESS OF THE SERVICE'S CONTENT OR THE CONTENT OF ANY WEBSITES LINKED TO THE SERVICE AND WE WILL ASSUME NO LIABILITY OR RESPONSIBILITY FOR ANY (1) ERRORS, MISTAKES, OR INACCURACIES OF CONTENT AND MATERIALS, (2) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR ACCESS TO AND USE OF THE SERVICE, (3) ANY UNAUTHORIZED ACCESS TO OR USE OF OUR SECURE SERVERS AND/OR ANY AND ALL PERSONAL INFORMATION AND/OR FINANCIAL INFORMATION STORED THEREIN, (4) ANY INTERRUPTION OR CESSATION OF TRANSMISSION TO OR FROM THE SERVICE, (5) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE WHICH MAY BE TRANSMITTED TO OR THROUGH THE SERVICE BY ANY THIRD PARTY, AND/OR (6) ANY ERRORS OR OMISSIONS IN ANY CONTENT AND MATERIALS OR FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF ANY CONTENT POSTED, TRANSMITTED, OR OTHERWISE MADE AVAILABLE VIA THE SERVICE. WE DO NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR ANY PRODUCT OR SERVICE ADVERTISED OR OFFERED BY A THIRD PARTY THROUGH THE SERVICE, ANY HYPERLINKED WEBSITE, OR ANY WEBSITE OR MOBILE APPLICATION FEATURED IN ANY BANNER OR OTHER ADVERTISING, AND WE WILL NOT BE A PARTY TO OR IN ANY WAY BE RESPONSIBLE FOR MONITORING ANY TRANSACTION BETWEEN YOU AND ANY THIRD-PARTY PROVIDERS OF PRODUCTS OR SERVICES.
-
-AS WITH THE PURCHASE OF A PRODUCT OR SERVICE THROUGH ANY MEDIUM OR IN ANY ENVIRONMENT, YOU SHOULD USE YOUR BEST JUDGMENT AND EXERCISE CAUTION WHERE APPROPRIATE.
+THE SERVICE AND CONTENT ARE PROVIDED ON AN AS-IS AND AS-AVAILABLE BASIS. YOU AGREE THAT YOUR USE OF THE SERVICE AND ITS CONTENT WILL BE AT YOUR SOLE RISK. TO THE FULLEST EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, IN CONNECTION WITH THE SERVICE, THE CONTENT, AND YOUR USE THEREOF, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE MAKE NO WARRANTIES OR REPRESENTATIONS ABOUT THE ACCURACY OR COMPLETENESS OF THE SERVICE'S CONTENT OR THE CONTENT OF ANY WEBSITES LINKED TO THE SERVICE AND WE WILL ASSUME NO LIABILITY OR RESPONSIBILITY FOR ANY (1) ERRORS, MISTAKES, OR INACCURACIES OF CONTENT AND MATERIALS, (2) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR ACCESS TO AND USE OF THE SERVICE, (3) ANY UNAUTHORIZED ACCESS TO OR USE OF OUR SECURE SERVERS AND/OR ANY AND ALL PERSONAL INFORMATION AND/OR FINANCIAL INFORMATION STORED THEREIN, (4) ANY INTERRUPTION OR CESSATION OF TRANSMISSION TO OR FROM THE SERVICE, (5) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE WHICH MAY BE TRANSMITTED TO OR THROUGH THE SERVICE BY ANY THIRD PARTY, AND/OR (6) ANY ERRORS OR OMISSIONS IN ANY CONTENT AND MATERIALS OR FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF ANY CONTENT POSTED, TRANSMITTED, OR OTHERWISE MADE AVAILABLE VIA THE SERVICE. WE DO NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR ANY PRODUCT OR SERVICE ADVERTISED OR OFFERED BY A THIRD PARTY THROUGH THE SERVICE, ANY HYPERLINKED WEBSITE, OR ANY WEBSITE OR MOBILE APPLICATION FEATURED IN ANY BANNER OR OTHER ADVERTISING, AND WE WILL NOT BE A PARTY TO OR IN ANY WAY BE RESPONSIBLE FOR MONITORING ANY TRANSACTION BETWEEN YOU AND ANY THIRD-PARTY PROVIDERS OF PRODUCTS OR SERVICES. AS WITH THE PURCHASE OF A PRODUCT OR SERVICE THROUGH ANY MEDIUM OR IN ANY ENVIRONMENT, YOU SHOULD USE YOUR BEST JUDGMENT AND EXERCISE CAUTION WHERE APPROPRIATE.
 
 26\. LIMITATIONS OF LIABILITY
 -----------------------------
 
-IN NO EVENT WILL WE OR OUR DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL, OR PUNITIVE DAMAGES, INCLUDING LOST PROFIT, LOST REVENUE, LOSS OF DATA, OR OTHER DAMAGES ARISING FROM YOUR USE OF THE SERVICE, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+IN NO EVENT WILL WE OR OUR DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL, OR PUNITIVE DAMAGES, INCLUDING LOST PROFIT, LOST REVENUE, LOSS OF DATA, OR OTHER DAMAGES ARISING FROM YOUR USE OF THE SERVICE OR CONTENT, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
-NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED HEREIN, OUR LIABILITY TO YOU FOR ANY CAUSE WHATSOEVER AND REGARDLESS OF THE FORM OF THE ACTION, WILL AT ALL TIMES BE LIMITED TO THE LESSER OF THE AMOUNT PAID, IF ANY, BY YOU TO US DURING THE ONE MONTH PERIOD PRIOR TO ANY CAUSE OF ACTION ARISING OR \\$0.01. CERTAIN STATE LAWS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES.
+NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED HEREIN, OUR LIABILITY TO YOU FOR ANY CAUSE WHATSOEVER AND REGARDLESS OF THE FORM OF THE ACTION, WILL AT ALL TIMES BE LIMITED TO THE LESSER OF THE AMOUNT PAID, IF ANY, BY YOU TO US DURING THE ONE MONTH PERIOD PRIOR TO ANY CAUSE OF ACTION ARISING OR $0.01. CERTAIN STATE LAWS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES.
 
 27\. INDEMNIFICATION
 --------------------
 
-You agree to defend, indemnify, and hold us harmless, including our subsidiaries, affiliates, and all of our respective officers, agents, partners, and employees, from and against any loss, damage, liability, claim, or demand, including reasonable attorneys' fees and expenses, made by any third party due to or arising out of: (1) \[your Contributions\]; (2) use of the Service; (3) breach of these Terms of Service; (4) any breach of your representations and warranties set forth in these Terms of Service; (5) your violation of the rights of a third party, including but not limited to intellectual property rights; or (6) any overt harmful act toward any other user of the Service with whom you connected via the Service.
+You agree to defend, indemnify, and hold us harmless, including our subsidiaries, affiliates, and all of our respective officers, agents, partners, and employees, from and against any loss, damage, liability, claim, or demand, including reasonable attorneys' fees and expenses, made by any third party due to or arising out of: (1) your Contributions; (2) use of the Service or Content; (3) breach of these Terms of Service; (4) any breach of your representations and warranties set forth in these Terms of Service; (5) your violation of the rights of a third party, including but not limited to intellectual property rights; or (6) any overt harmful act toward any other user of the Service with whom you connected via the Service.
 
 Notwithstanding the foregoing, we reserve the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify us, and you agree to cooperate, at your expense, with our defense of such claims. We will use reasonable efforts to notify you of any such claim, action, or proceeding which is subject to this indemnification upon becoming aware of it.
 
@@ -489,7 +487,7 @@ You hereby waive any and all defenses you may have based on the electronic form 
 32\. CONTACT US
 ---------------
 
-In order to resolve a complaint regarding the Service or to receive further information regarding use of the Service, please contact us at [\[email protected\]](https://help.truthsocial.com/cdn-cgi/l/email-protection) Users may report "hateful conduct," as defined by New York law, to [\[email protected\]](https://help.truthsocial.com/cdn-cgi/l/email-protection)
+In order to resolve a complaint regarding the Service or any Content or to receive further information regarding use of the Service or Content, please contact us at [\[email protected\]](https://help.truthsocial.com/cdn-cgi/l/email-protection) Users may report "hateful conduct," as defined by New York law, to [\[email protected\]](https://help.truthsocial.com/cdn-cgi/l/email-protection).
 
 33\. SMS Terms and Conditions
 -----------------------------
