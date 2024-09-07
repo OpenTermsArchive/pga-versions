@@ -17,29 +17,92 @@ Pinterest isn’t a place for antagonistic, explicit, false or misleading, harmf
 
 We’re committed to presenting you with clear and transparent expectations that are easy to understand and follow. If you have questions or encounter problems on Pinterest, please .
 
+### Misinformation
+
+Pinterest isn’t a place for misinformation, disinformation, mal-information or the individuals or groups spreading or creating it. We remove or limit distribution of false or misleading content that may harm Pinners' or the public's well-being, safety or trust, including:
+
+* False or misleading content about individuals or protected groups that promotes fear, hate or prejudice
+* Content that originates from disinformation campaigns, including about climate change or civic participation
+* Factual information that's published or deliberately modified to erode trust or inflict harm, such as changing or omitting of context, date or time
+* Fabricated or meaningfully manipulated visual or audio content that erodes trust or causes harm
+
+**Health misinformation**
+
+Medically unsupported health claims that risk public health and safety, including:
+
+* The promotion of false cures or "miracle cure" products
+* Anti-vaccination advice
+* Misinformation about public health emergencies
+
+**Conspiracy theories**
+
+* Conspiracy theory content that encourages turning individuals, groups of people, places or organizations into targets of harassment or physical violence
+* Hate-based conspiracy theories
+* Conspiracy theories about mass atrocities
+* Conspiracy theories about climate change or that impedes an election's integrity or civic participation
+
+**Civic misinformation**
+
+This policy is always applicable, meaning before, during and after major civic participation events (e.g. elections).
+
+* False or misleading content that impedes an election’s integrity or an individual's or group's civic participation, including registering to vote, voting and being counted in a census.
+* False or misleading information about the dates, times, locations and procedure for voting or census participation.
+* Content that misleads voters about how to correctly fill out and submit a ballot, including a mail-in ballot, or census form.
+* False or misleading information about who can vote or participate in the census and what information must be provided to participate.
+* False or misleading statements about who is collecting information and/or how it will be used.
+* False or misleading information about public safety that is intended to deter people from exercising their right to vote or participate in a census.
+* Content that encourages or instructs voters or participants to misrepresent themselves or illegally participate.
+* Content apparently intended to delegitimize election results on the basis of false or misleading claims.
+* Fabricated or manipulated content (e.g. content generated with AI tools) making someone appear to do or say something they didn't with the clear intent of influencing public sentiment about a political figure and/or election.
+* Our policies also prohibit threats against voting locations, census or voting personnel, voters or census participants, including intimidation and doxxing of vulnerable or protected group voters or participants.
+
+**Climate misinformation**
+
+* Content that denies the existence or impacts of climate change, the human influence on climate change, or that climate change is backed by scientific consensus.
+* False or misleading content about climate change solutions that contradict well-established scientific consensus.
+* Content that misrepresents scientific data, including by omission or cherry-picking, in order to erode trust in climate science and experts.
+* Harmful false or misleading content about public safety emergencies including natural disasters and extreme weather events.
+
 ### Adult content
 
-Pinterest isn’t a place for adult content, including pornography and most nudity. We remove or limit the distribution of mature and explicit content, including:
+Pinterest isn’t a place for adult or sexually exploitative content, including pornography and most nudity. We remove or limit the distribution of mature and explicit or exploitative content, including:
 
 * Nudity
 * Sexualized content, even if the people are clothed or partially clothed
 * Graphic depictions of sexual activity in imagery or text
 * Fetish imagery
+* Non-consensual intimate images (NCII), meaning images of a private or sexual nature obtained or published without consent (this includes revenge porn and up-skirt images)
+* Adult sexual services that may involve sexual or physical exploitation or trafficking, like sex cams and escort services
+* Financial sextortion instructions or tools
 
-We allow some nudity in certain contexts, although we may limit its distribution. For instance, nudity in paintings and sculptures and in science and historical contexts is okay. Content about breastfeeding and mastectomies is also allowed. These guidelines apply to text and real-life, digital, and animated images and video.  
-  
+We allow some nudity in certain contexts, although we may limit its distribution. For instance, nudity in paintings and sculptures and in science and historical contexts is okay. Content about breastfeeding and mastectomies is also allowed. These guidelines apply to text and real-life, digital, and animated images and video.
 
-### Exploitation
+### Dangerous goods and activities
 
-Pinterest isn’t a place for exploitation of people or animals. We’ll remove or limit the distribution of content and accounts involved in practices that risk harm to people or animals, including sexual, physical, or financial exploitation. That includes:
+Pinterest isn’t a place for trading or selling certain regulated products, substances or exploitative practices that can cause harm when used, altered or manufactured irresponsibly. It also is not a place for the display or encouragement of dangerous activities. We limit the distribution of or remove such content and accounts, including:
 
-* Non-consensual images, meaning images of a private or sexual nature obtained or published without consent. This includes revenge porn and up-skirt images.
-* Adult sexual services that may involve sexual or physical exploitation or trafficking, like sex cams and escort services.
-* Human trafficking, slavery, servitude and forced or compulsory labor.
-* Other illegal commercial exploitation, like trading in organs or products made from human remains or body parts.
-* The sale of wild animals or protected and endangered wildlife. For a full list of prohibited wildlife products, please visit our partner, the .
+* Individuals and unlicensed retailers offering to sell, purchase or trade alcohol, tobacco, drugs or weapons–including firearms and accessories, firearm parts or attachments, or ammunition, and regulated products for drugs or weapons manufacturing, including chemical precursors and pill presses, punches and dies
+* Content from or about unverified, unapproved or rogue online pharmacies
+* Offers, attempts, or instructions to bypass purchasing laws and regulation
+* Instructions for creating lethal or toxic substances
+* Instructions for creating lethal weapons, like bombs or grenades, including 3d printed weapons
+* Commercial sales of marijuana, marijuana products and paraphernalia
+* Commercial sales of certain weapons and attachments
+
+**Dangerous activities**
+
+* Harmful pranks or challenges that risk imminent physical harm or extreme emotional distress, especially if showing or encouraging the participation of minors
+
+**Animal exploitation**
+
+* The sale of wild animals or protected and endangered wildlife. For a full list of prohibited wildlife products, please visit our partner, the .
 * Corpses, animal parts or products derived from cat or dog parts, or protected and endangered wildlife, including ivory.
 * Irresponsible and harmful animal tourism or otherwise exploitative practices like organized animal fighting.
+
+**Exploitative financial or labor practices**
+
+* Human trafficking, slavery, servitude and forced or compulsory labor
+* Other illegal commercial exploitation, like trading in organs or products made from human remains or body parts
 
 ### Hateful activities
 
@@ -55,18 +118,6 @@ Pinterest isn’t a place for hateful content or the people and groups that prom
 * Mocking or attacking the beliefs, sacred symbols, movements, or institutions of the protected or vulnerable groups identified below
 
 Protected and vulnerable groups include: People grouped together based on their actual or perceived race, color, caste, ethnicity, immigration status, national origin, religion or faith, sex or gender identity, sexual orientation, disability or medical condition. It also includes people who are grouped together based on lower socio-economic status, age, weight or size, pregnancy or veteran status.
-
-### Misinformation
-
-Pinterest isn’t a place for misinformation, disinformation, mal-information or the individuals or groups spreading or creating it. We remove or limit distribution of false or misleading content that may harm Pinners’ or the public’s well-being, safety or trust, including:
-
-* Medically unsupported health claims that risk public health and safety, including the promotion of false cures, anti-vaccination advice, or misinformation about public health or safety emergencies
-* False or misleading content about individuals or protected groups that promotes fear, hate or prejudice
-* False or misleading content that encourages turning individuals, groups of people, places or organizations into targets of harassment or physical violence
-* Conspiracy theories, including about climate change or civic participation
-* Content that originates from disinformation campaigns, including about climate change or civic participation
-* Factual information that’s published or deliberately modified to erode trust or inflict harm, such as changing or omitting of context, date or time
-* Fabricated or meaningfully manipulated visual or audio content that erodes trust or causes harm
 
 ### Civic participation misinformation
 
@@ -159,21 +210,6 @@ Pinterest isn’t a place for violent content, groups or individuals. We limit t
 * Gangs and other criminal organizations
 
 We work with industry, government and security experts to help us identify these groups.
-
-### Dangerous goods and activities
-
-Pinterest isn’t a place for trading or selling of certain regulated goods—products or substances that can cause harm when used, altered or manufactured irresponsibly—or for the display or encouragement of dangerous activities. We limit the distribution of or remove such content and accounts, including:
-
-* Individuals and unlicensed retailers offering to sell, purchase or trade alcohol, tobacco, drugs or weapons–including firearms and accessories, firearm parts or attachments, or ammunition, and regulated products for drugs or weapons manufacturing, including chemical precursors and pill presses, punches and dies
-* Content from or about unverified, unapproved or rogue online pharmacies
-* Offers, attempts, or instructions to bypass purchasing laws and regulation
-* Instructions for creating lethal or toxic substances
-* Instructions for creating lethal weapons, like bombs or grenades, including 3d printed weapons
-* Commercial sales of marijuana, marijuana products and paraphernalia
-* Commercial sales of certain weapons and attachments
-* Harmful pranks or challenges that risk imminent physical harm or extreme emotional distress, especially if showing or encouraging the participation of minors  
-      
-    
 
 ### Harmful or deceptive products and practices
 
