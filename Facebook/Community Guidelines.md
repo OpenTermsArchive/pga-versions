@@ -1233,18 +1233,6 @@ Content that shares or asks for private information, either on Facebook or throu
 
 * Content sharing personal contact information of others, except when made public by the individual or when shared or solicited to promote charitable causes, facilitate finding missing people, animals, or owners of missing objects, or contact a business or service provider (unless it is established that the personal contact information is shared without the consent of the individual).
 
-**Financial information.**
-
-* Content sharing or asking for personal financial information about the poster or others, defined as information about a person’s individual financesincluding:
-    * Non-public financial records or statements.
-    * Bank account numbers with security or pin codes.
-    * Digital payment method information with log in details, security or pin codes.
-    * Credit or debit card information with validity dates or security pins or codes.
-* Content sharing or asking for non-public financial information of a business or organization, defined as information about a business’ or organization’s finances, except when originally shared by the organization itself (including subsequent shares with the original context intact) or shared through public reporting requirements (for example as required by stock exchanges or regulatory agencies), including:
-    * Non-public financial records or statements
-    * Bank account numbers accompanied by security or pin codes.
-    * Digital payment method information accompanied by log in details, security or pin codes.
-
 **Residential information**
 
 * Content sharing full private residential addresses of others, including building name or pins on a map identifying the address (even if the pins are in an off-platform link), except in the following contexts:
@@ -1282,6 +1270,34 @@ Content that shares or asks for private information, either on Facebook or throu
 * Images of the safe house
 * Identifiable city/neighborhood of the safe house
 * Information exposing the identity of the safe house residents
+
+**Medical information**
+
+* Content sharing or asking for medical, psychological, biometric, or genetic/hereditary information of others (including when displayed visually or shared through audio or video),when it is clear that the information comes from medical records or other official documents.
+
+**Financial information.**
+
+* Content sharing or asking for personal financial information about the poster or others, defined as information about a person’s individual financesincluding:
+    * Non-public financial records or statements.
+    * Bank account numbers with security or pin codes.
+    * Digital payment method information with log in details, security or pin codes.
+    * Credit or debit card information with validity dates or security pins or codes.
+* Content sharing or asking for non-public financial information of a business or organization, defined as information about a business’ or organization’s finances, except when originally shared by the organization itself (including subsequent shares with the original context intact) or shared through public reporting requirements (for example as required by stock exchanges or regulatory agencies), including:
+    * Non-public financial records or statements
+    * Bank account numbers accompanied by security or pin codes.
+    * Digital payment method information accompanied by log in details, security or pin codes.
+
+**Information obtained from hacked sources**
+
+* Content claimed by the poster or confirmed to come from a hacked source, regardless of whether the affected person is a public figure or a private individual.
+
+The following content also may be removed:
+
+* A reported photo or video of people where the person depicted in the image is:
+    * A minor under 13 years old, and the content was reported by the minor or a parent or legal guardian.
+    * A minor between 13 and 18 years old, and the content was reported by the minor.
+    * An adult, where the content was reported by the adult from outside the United States and applicable law may provide rights to removal.
+    * Any person who is incapacitated and unable to report the content on their own.
 
 For the following Community Standards, we require additional information and/or context to enforce:
 
