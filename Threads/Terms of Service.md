@@ -19,7 +19,7 @@ Registered in Ireland (Companies Registration Office)
 
 File Number: 462932
 
-To contact us by email: ![](https://static.xx.fbcdn.net/assets/?revision=500667649490090&name=impressum&density=1) 
+To contact us by email: ![](https://static.xx.fbcdn.net/assets/?revision=1611707272727314&name=impressum&density=1) 
 
 For details on how the Threads Service is funded, please see How Our Service is Funded in the [Instagram Terms of Use](https://help.instagram.com/581066165581870?helpref=faq_content).
 
@@ -116,7 +116,7 @@ Related Articles
 
 [Your Threads settings](https://help.instagram.com/313609505054371/?helpref=related_articles)
 
-[About Threads and the fediverse](https://help.instagram.com/169559812696339/?helpref=related_articles)
+[Supervision on Threads](https://help.instagram.com/1190285478353241/?helpref=related_articles)
 
 [Your Threads profile](https://help.instagram.com/179980294969821/?helpref=related_articles)
 
@@ -130,6 +130,6 @@ Related Articles
 
 [Your Threads settings](https://help.instagram.com/313609505054371/?helpref=related_articles)
 
-[About Threads and the fediverse](https://help.instagram.com/169559812696339/?helpref=related_articles)
+[Supervision on Threads](https://help.instagram.com/1190285478353241/?helpref=related_articles)
 
 [Your Threads profile](https://help.instagram.com/179980294969821/?helpref=related_articles)
