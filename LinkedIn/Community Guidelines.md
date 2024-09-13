@@ -68,7 +68,7 @@ Thank you for using LinkedIn, where the world’s professionals come together to
     
     We require you to use your true identity on LinkedIn, provide accurate information about yourself or your organization, and only share information that is real and authentic.
     
-    **Do not share false or misleading content:** Do not share content that is false, misleading, or intended to deceive. Do not share content to interfere with or improperly influence an election or other civic process. Do not share content that directly contradicts guidance from leading global health organizations and public health authorities; including false information about the safety or efficacy of vaccines or medical treatments. Do not share content or endorse someone or something in exchange for personal benefit (including personal or family relationships, monetary payment, free products or services, or other value), unless you have included a clear and conspicuous notice of the personal benefit you receive and have otherwise complied with our [Advertising Policies](https://www.linkedin.com/legal/ads-policy). 
+    **Do not share false or misleading content:** Do not share content that is false, misleading, or intended to deceive. Do not share content to interfere with or improperly influence an election or other civic process. Do not share synthetic or manipulated media that depicts a person saying something they did not say or doing something they did not do without clearly disclosing the fake or altered nature of the material. Do not share content that directly contradicts guidance from leading global health organizations and public health authorities; including false information about the safety or efficacy of vaccines or medical treatments. Do not share content or endorse someone or something in exchange for personal benefit (including personal or family relationships, monetary payment, free products or services, or other value), unless you have included a clear and conspicuous notice of the personal benefit you receive and have otherwise complied with our [Advertising Policies](https://www.linkedin.com/legal/ads-policy). 
     
     Learn more about our [false or misleading content policy](https://www.linkedin.com/help/linkedin/answer/137371)**.**
     
@@ -233,7 +233,7 @@ Learn more about [how we enforce violations of our Professional Community Polici
 False or misleading content
 ---------------------------
 
-It is a violation of [LinkedIn’s Professional Community Policies](https://www.linkedin.com/legal/professional-community-policies) to post false or misleading content. We remove specific claims, presented as fact, that are demonstrably false or substantially misleading and likely to cause harm. Content that is false or substantially misleading but not likely to cause harm is not eligible for distribution beyond the author’s network.
+It is a violation of [LinkedIn’s Professional Community Policies](https://www.linkedin.com/legal/professional-community-policies) to post false or misleading content. We remove specific claims, presented as fact, that are demonstrably false or substantially misleading and likely to cause harm. We also remove content that is synthetic or manipulated in a way to misrepresent or distort real-life events without clear disclosure of the fake or altered nature of the material. Content that is false or substantially misleading but not likely to cause harm is not eligible for distribution beyond the author’s network.
 
 Examples of false or misleading content that is removed under this policy
 
@@ -243,7 +243,9 @@ Examples of false or misleading content that is removed under this policy
     
 * Content inaccurately presented as evidence of human rights abuses or military conflict in a specific location that is actually content from another location, event, or timeframe
     
-* Synthetic or manipulated media, such as doctored images or videos that distort real-life events and likely to cause harm to the subject, other individuals or groups, or society at large
+* Deceptive synthetic or manipulated media, that does not clearly disclose the fake or altered nature of the content, including the following:
+    
+    * Doctored images or videos that distort real-life events and are likely to cause harm to the subject, other individuals or groups, or society at large
     
 * Content that promotes harmful remedies or miracle cures, or otherwise discourages individuals from seeking or heeding professional medical advice
     
@@ -265,6 +267,8 @@ Examples of false or misleading content that is removed under this policy
     * The symptoms, mortality rate, or infection rate of COVID-19 are no more severe than the seasonal flu
     * No one has died or become severely ill after contracting COVID-19
     
+
+In some cases, synthetic or manipulated media may be shared for artistic or humorous purposes. As a professional platform, LinkedIn generally requires members to disclose the fake or altered nature of this content. However, when the context clearly indicates such media is obvious parody or satire, we may not require an explicit disclosure.
 
 To learn more about when we remove content that violates our Professional Community Policies, see [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
 
