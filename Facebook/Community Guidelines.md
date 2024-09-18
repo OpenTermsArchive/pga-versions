@@ -1590,7 +1590,6 @@ For the following content, we include a label so that people are aware the conte
 
 For the following content, we limit the ability to view the content to adults, ages 16 and older:
 
-* Real-world art, where
 * Imagery depicting near nudity such as nudity covered only by digital overlay or an opaque object and nudity obscured by see-through clothing
 * Imagery depicting persons making sexual poses, defined as poses simulating sexual activity or where groin, buttock or female breast(s) are in focus (including in real world art and digital imagery)
 * Imagery depicting sex-related activity (including in real world art and digital imagery) such as kissing with visible tongue and sexual or erotic dancing
