@@ -246,6 +246,7 @@ Examples of false or misleading content that is removed under this policy
 * Deceptive synthetic or manipulated media, that does not clearly disclose the fake or altered nature of the content, including the following:
     
     * Doctored images or videos that distort real-life events and are likely to cause harm to the subject, other individuals or groups, or society at large
+    * Photorealistic or audio-realistic content that is confirmed to depict someone saying something they didn’t say or doing something they didn’t do
     
 * Content that promotes harmful remedies or miracle cures, or otherwise discourages individuals from seeking or heeding professional medical advice
     
