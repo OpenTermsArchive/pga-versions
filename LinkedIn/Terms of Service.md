@@ -1,3 +1,7 @@
+On November 20, 2024, we are updating our User Agreement. Click below for more.
+
+[User Agreement Preview](https://www.linkedin.com/legal/preview/user-agreement) [More details](https://lnkd.in/tos24)
+
 User Agreement
 ==============
 
