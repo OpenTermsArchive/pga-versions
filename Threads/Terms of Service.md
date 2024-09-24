@@ -19,7 +19,7 @@ Registered in Ireland (Companies Registration Office)
 
 File Number: 462932
 
-To contact us by email: ![](https://static.xx.fbcdn.net/assets/?revision=1215110629727139&name=impressum&density=1) 
+To contact us by email: ![](https://static.xx.fbcdn.net/assets/?revision=1715865829215149&name=impressum&density=1) 
 
 For details on how the Threads Service is funded, please see How Our Service is Funded in the [Instagram Terms of Use](https://help.instagram.com/581066165581870?helpref=faq_content).
 
