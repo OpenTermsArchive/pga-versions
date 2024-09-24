@@ -204,7 +204,7 @@ Um unsere Dienste bereitzustellen, zu verbessern und deren Erbringung zu unterst
 
 #### [](#8-3-strafverfolgungsbehorden)8.3. Strafverfolgungsbehörden
 
-Wenn Telegram eine gerichtliche Anordnung erhält, die bestätigt, dass du ein Terrorverdächtiger bist, können wir deine IP-Adresse und Telefonnummer an die zuständigen Behörden weitergeben. Falls dies geschehen sollte, werden wir das in einem halbjährlichen Transparenzbericht aufnehmen, der unter [](https://t.me/transparency)[https://t.me/transparency](https://t.me/transparency) veröffentlicht wird.
+Wenn Telegram eine gültige Anordnung von den zuständigen Justizbehörden erhält, die bestätigt, dass du in einem Fall, der kriminelle Aktivitäten betrifft, die gegen die Nutzungsbedingungen von Telegram verstoßen, verdächtig bist, werden wir eine rechtliche Analyse der Anfrage durchführen und können deine IP-Adresse und Telefonnummer an die zuständigen Behörden weitergeben. Wenn Daten weitergegeben werden, werden wir solche Vorkommnisse in einen vierteljährlichen Transparenzbericht aufnehmen, der unter [](https://t.me/transparency)[https://t.me/transparency](https://t.me/transparency) veröffentlicht wird.
 
 #### [](#8-4-ubersetzung-von-nachrichten-auf-wunsch-des-nutzers)8.4. Übersetzung von Nachrichten auf Wunsch des Nutzers
 
