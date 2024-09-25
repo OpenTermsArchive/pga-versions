@@ -4,10 +4,6 @@ Community Guidelines
 Overview
 --------
 
-Released April 17, 2024
-
-Effective May 17, 2024
-
 TikTok is a source of entertainment and enrichment where you can discover, create, and connect with others across the world. Our mission is to inspire creativity and bring joy.
 
 We have Community Guidelines to create a welcoming, safe, and entertaining experience. The guidelines apply to everyone and everything on our platform. They include **rules** for what is allowed on TikTok, as well as **standards** for what is eligible for the For You feed (FYF). To address new risks and harms, the guidelines are updated on an ongoing basis.
@@ -47,10 +43,6 @@ We want to make sure you have the right information to help you manage your expe
 Community Principles
 --------------------
 
-Released April 17, 2024
-
-Effective May 17, 2024
-
 TikTok has eight guiding community principles that are grounded in safety and our commitment to respecting [human rights](https://www.tiktok.com/transparency/upholding-human-rights/?lang=en). Our principles shape our day-to-day work and guide how we approach difficult enforcement decisions. They are centered on these themes:
 
 * Balancing harm prevention and expression
@@ -70,10 +62,6 @@ We recognize that sometimes these principles will be in tension with each other,
 
 Youth Safety and Well-Being
 ---------------------------
-
-Released April 17, 2024
-
-Effective May 17, 2024
 
 We are deeply committed to TikTok being a safe and positive experience for people under the age of 18 (we refer to them as "youth" or "young people"). This starts by being old enough to use TikTok. **You must be 13 years and older to have an account.** There are additional age limitations based on local law in some regions.
 
@@ -169,10 +157,6 @@ More information
 
 Safety and Civility
 -------------------
-
-Released April 17, 2024
-
-Effective May 17, 2024
 
 Physical and psychological safety form the foundation of individual well-being, and civility is key to a thriving community. Being civil does not mean you must always agree, but rather it is about recognizing everyone's inherent dignity and being respectful in action, words, and tone when engaging others.
 
@@ -461,10 +445,6 @@ ALLOWED
 Mental and Behavioral Health
 ----------------------------
 
-Released April 17, 2024
-
-Effective May 17, 2024
-
 We care deeply about your well-being and seek to be a source of happiness, enrichment, and belonging. We welcome people coming together to find connections, participate in shared experiences, and feel part of a broader community. We work to make sure this occurs in a supportive space that does not negatively impact your physical or psychological health.
 
 ### Suicide and Self-Harm
@@ -611,10 +591,6 @@ ALLOWED
 
 Sensitive and Mature Themes
 ---------------------------
-
-Released April 17, 2024
-
-Effective May 17, 2024
 
 TikTok provides content that ranges from very family friendly to more mature. Given the diversity of our global community, developmental and cultural considerations inform our approach to potentially sensitive and more mature content that may be considered offensive by some. To honor our principle of [respecting local context](https://www.tiktok.com/community-guidelines/en/community-principles?lang=en&cgversion=2024H1update) and not imposing the norms of one country on another, some of the applications of the guidelines in this section differ across regions.
 
@@ -840,10 +816,6 @@ ALLOWED
 
 Integrity and Authenticity
 --------------------------
-
-Released April 17, 2024
-
-Effective May 17, 2024
 
 We want you to feel confident that you can access information that is reliable, discover content that is original, and engage with people who are authentic. This is foundational to building a community of trust and accountability both on and off-platform.
 
@@ -1107,10 +1079,6 @@ NOT ALLOWED
 Regulated Goods and Commercial Activities
 -----------------------------------------
 
-Released April 17, 2024
-
-Effective May 17, 2024
-
 TikTok is a place where you may share or search for information about regulated goods or commercial activities. To ensure we provide a space for you to learn without undue risk of physical or financial harm, we moderate content that involves goods or activities that may be risky, addictive, dangerous, fraudulent, or otherwise require a higher degree of care. For certain goods and services (such as gambling and alcohol), we make limited exceptions for paid advertisements by advertisers with TikTok's explicit permission, if they are in compliance with all relevant age-targeting restrictions, laws, and regulations _(learn more about our [advertisement policy](https://ads.tiktok.com/help/article/advertising-on-tiktok-first-things-to-note?lang=en))_.
 
 ### Gambling
@@ -1312,10 +1280,6 @@ NOT ALLOWED
 Privacy and Security
 --------------------
 
-Released April 17, 2024
-
-Effective May 17, 2024
-
 We know that protecting your privacy rights and personal information, and keeping our platform secure, are critical to maintaining your trust and ensuring your safety.
 
 ### Personal Information
@@ -1358,10 +1322,6 @@ NOT ALLOWED
 
 For You feed Eligibility Standards
 ----------------------------------
-
-Released April 17, 2024
-
-Effective May 17, 2024
 
 The For You feed (FYF) is a unique TikTok feature that uses a personalized recommendation system to allow you to discover a breadth of content, creators, and topics. In determining what gets recommended, the system takes into account factors including likes, shares, comments, searches, diversity of content, and popular videos. Learn more about the [recommendation system](https://www.tiktok.com/transparency/recommendation-system/?lang=en), as well as [tools to help customize](https://newsroom.tiktok.com/en-us/more-ways-for-our-community-to-enjoy-what-they-love) recommendations.
 
@@ -1508,10 +1468,6 @@ More information
 Accounts and Features
 ---------------------
 
-Released April 17, 2024
-
-Effective May 17, 2024
-
 ### Accounts
 
 **You must be 13 years and older to have an account.** There are additional age limitations based on local law in some regions. In the United States, there is a separate [under 13 TikTok experience](https://newsroom.tiktok.com/en-us/tiktok-for-younger-users), which provides a more limited experience designed with additional safety protections and a dedicated [Privacy Policy](https://www.tiktok.com/legal/childrens-privacy-policy). If we learn someone is below the minimum age to have an account on TikTok, we will ban that account.
@@ -1612,10 +1568,6 @@ All commercial content on TikTok must be disclosed and must comply with the rele
 
 Enforcement
 -----------
-
-Released April 17, 2024
-
-Effective May 17, 2024
 
 ### Public Interest Exceptions
 
