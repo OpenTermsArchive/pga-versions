@@ -247,11 +247,55 @@ Nachrichten in Geheimen Chats können zur [Selbstzerstörung](https://telegram.o
 
 #### [](#10-4-selbstloschung-des-kontos)10.4. Selbstlöschung des Kontos
 
-Wenn du Telegram nicht mehr verwenden willst und mindestens 6 Monate lang nicht online bist, wird dein Konto mit allen Nachrichten, Medien, Kontakten und allen anderen Daten, die du in der Telegram Cloud gespeichert hast, standardmäßig gelöscht. Du kannst in die _Einstellungen_ wechseln, um den genauen Zeitraum zu ändern, nach dessen Ablauf dein inaktives Konto automatisch gelöscht wird.
+Wenn du Telegram nicht mehr verwenden willst und mindestens 18 Monate lang nicht online bist, wird dein Konto mit allen Nachrichten, Medien, Kontakten und allen anderen Daten, die du in der Telegram Cloud gespeichert hast, standardmäßig gelöscht. Du kannst in die _Einstellungen_ wechseln, um den genauen Zeitraum zu ändern, nach dessen Ablauf dein inaktives Konto automatisch gelöscht wird.
 
 ### [](#11-anderungen-an-dieser-datenschutzerklarung)11\. Änderungen an dieser Datenschutzerklärung
 
-Wir werden diese Datenschutzerklärung von gelegentlich überprüfen und gegebenenfalls aktualisieren. Alle Änderungen an dieser Datenschutzerklärung treten in Kraft, wenn wir die überarbeitete Datenschutzerklärung auf dieser Seite **[](https://telegram.org/privacy/de)[https://telegram.org/privacy/de](https://telegram.org/privacy/de)** veröffentlichen. Bitte überprüfe unsere Internetseite regelmäßig, um Aktualisierungen oder Änderungen unserer Datenschutzerklärung zu sehen, die wir gegebenenfalls nachfolgend zusammengefassen.
+Wir werden diese Datenschutzerklärung von gelegentlich überprüfen und gegebenenfalls aktualisieren. Alle Änderungen an dieser Datenschutzerklärung treten in Kraft, wenn wir die überarbeitete Datenschutzerklärung auf dieser Seite **[www.telegram.org/privacy/de](https://telegram.org/privacy/de)** veröffentlichen. Bitte überprüfe unsere Internetseite regelmäßig, um Aktualisierungen oder Änderungen unserer Datenschutzerklärung zu sehen, deren Änderung wir nachfolgend zusammengefasst darlegen.
+
+**25\. März 2019**
+
+* [10.2](#10-2-nachrichten) erweitert. Löschen von Nachrichten mit Daten zu den neuen Funktionen in [Version 5.5](https://telegram.org/blog/unsend-privacy-emoji), die es beiden Teilnehmern ermöglichen, Nachrichten aus Einzelchats für beide Seiten ohne Zeitlimit zu entfernen.
+
+**24\. März 2021**
+
+* [3.5](#3-5-standortdaten). Standortdaten hinzugefügt.
+* Verbesserte Struktur, Verschiebung von 3.3.5 auf 3.4 und 3.3.6 auf 3.6.
+
+**26\. Oktober 2021**
+
+* [5.6](#5-6-keine-werbung-aufgrund-von-nutzerdaten) erweitert. Keine Werbung aufgrund von Nutzerdaten mit Informationen zu gesponserten Nachrichten in öffentlichen Kanälen.
+
+**19\. Juni 2022**
+
+* [8.4](#8-4-ubersetzung-von-nachrichten-auf-wunsch-des-nutzers). Übersetzung von Nachrichten auf Wunsch des Nutzers
+* [8.5](#8-5-transkription-von-sprachnachrichten-auf-wunsch-des-nutzers). Transkription von Sprachnachrichten auf Anforderung des Nutzers hinzugefügt.
+
+**8\. September 2022**
+
+* [3.2. Deine Email-Adresse](https://telegram.org/privacy/de?#3-2-deine-e-mail-adresse) mit Informationen zu Anmelde-E-Mails, die ab Telegram 9.0 verfügbar sind, ergänzt.
+
+**3\. Februar 2022**
+
+* [8.4](#8-4-ubersetzung-von-nachrichten-auf-wunsch-des-nutzers) und [8.5](#8-5-transkription-von-sprachnachrichten-auf-wunsch-des-nutzers) aktualisiert, um zu zeigen, dass die neue Premium-Funktion komplette Chats übersetzen kann.
+
+**24\. April 2023**
+
+* [1.4](#1-4-ewr-vertreter), [9.2](#9-2-ausubung-deiner-rechte) und [12](#12-weitere-informationen) mit Angaben von Telegrams EWR-Vertreter für DSGVO (GDPR) ergänzt.
+* [8.2](#8-2-telegrams-konzerngesellschaften) erwähnt nun Telegraph Inc., ein Mitglied der Telegram-Gruppe.
+
+**31\. März 2024**
+
+* [3.1.1. Optionale Daten](#3-1-1-optionale-daten).
+* Infos über [Telegram Buisness Chatbots](https://telegram.org/blog/telegram-business/de#chatbots-fur-unternehmen) den [Botnachrichten](#6-bot-nachrichten) Abschnitt (6.2, 6.3, 6.5) hinzugefügt.
+
+**23\. September 2024**
+
+* [8.3](#8-3-strafverfolgungsbehorden) aktualisiert, siehe [diesen Beitrag](https://t.me/durov/345) mit allen Details.
+
+**September 29, 2024**
+
+* [10.4](#10-4-selbstloschung-des-kontos) aktualisiert, um den neuen Standardzeitraum für die Selbstzerstörung von Konten anzuzeigen.
 
 Wesentliche Änderungen an dieser Datenschutzerklärung werden über Telegram mitgeteilt.
 
