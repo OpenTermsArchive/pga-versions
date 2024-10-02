@@ -105,6 +105,7 @@ We Remove:
 
 * Local context or expertise confirms that the statement in question could lead to imminent violence.
 * The target of the content or an authorized representative reports the content to us.
+* The target is a child.
 
 * Implicit threats to bring armaments to locations, including but not limited to places of worship, educational facilities, polling places or locations used to count votes or administer an election (or encouraging others to do the same) or locations where there are temporary signals of a heightened risk of violence.
 * Claims or speculation about election-related corruption, irregularities, or bias when combined with a signal that content is threatening violence (e.g., threats to take up or bring a weapon, visual depictions of a weapon, references to arson, theft, vandalism), including:
@@ -991,7 +992,7 @@ Content depicting, advocating for, or mocking non-consensual sexual touching, in
 * Content mocking survivors or the concept of non-consensual sexual touching
 * Content shared by a third party that identifies survivors of sexual assault when reported by the survivor
 
-Content that attempts to exploit people by:
+Content, activity or interactions that attempts to exploit people by:
 
 * Coercing money, favors or intimate imagery from people with threats to expose their intimate imagery or intimate information (sextortion)
 * Sharing, threatening, stating an intent to share, offering or asking for non-consensual intimate imagery (NCII) that fulfills all of the three following conditions:
@@ -1180,7 +1181,7 @@ In addition to content condemning, raising awareness about, or news reporting on
 
 Do not post:
 
-Content that recruits people for, facilitates or exploits people through any of the following forms of human trafficking:
+Content, activity or interactions that recruits people for, facilitates or exploits people through any of the following forms of human trafficking:
 
 * Sex trafficking (any commercial sexual activity with a minor or any commercial sexual activity with an adult involving force, fraud, or coercion)
 * Sales of children or illegal adoption
@@ -1667,50 +1668,76 @@ For the following Community Standards, we require additional information and/or 
 
 Read lessRead more
 
-Account Integrity and Authentic Identity
-========================================
+Account Integrity
+=================
 
 Policy Rationale
 
-Authenticity is the cornerstone of our community. We believe that authenticity helps create a community where people are accountable to each other, and to Facebook, in meaningful ways. We want to allow for the range of diverse ways that identity is expressed across our global community, while also preventing impersonation and identity misrepresentation. That is why we require people to create a Facebook account using the name they go by in everyday life. Our authenticity policies are intended to create a safe environment where people can trust and hold one another accountable.
+In order to maintain a safe environment and empower free expression, we restrict or remove accounts that are harmful to the community. We have built a combination of automated and manual systems to restrict and remove accounts that are used to egregiously or persistently violate our policies across any of our products.
 
-In order to maintain a safe environment and empower free expression, we remove accounts that are harmful to the community, including those that compromise the security of other accounts and our services. We have built a combination of automated and manual systems to block and remove accounts that are used to persistently or egregiously abuse our Community Standards.
+Because account removal is a serious action, whenever possible, we aim to give our community opportunities to learn our rules and follow our Community Standards. For example, a notification is issued each time we remove content, and in most cases we also provide people with information about the nature of the violation and any restrictions that are applied. Our enforcement actions are designed to be proportional to the severity of the violation, the history of violations on the account, and the risk or harm posed to the community. Continued violations, despite repeated warnings and restrictions, or violations that pose severe safety risks will lead to an account being disabled.
 
-Because account level removal is a severe action, whenever possible, we aim to give our community a chance to learn our rules and follow our Community Standards. Penalties, including account disables, are designed to be proportionate to the severity of the violation and the risk of harm posed to the community. Continued violations, despite repeated warnings and restrictions, or violations that pose severe safety risks will lead to an account being disabled.
+Learn more about how Meta enforces its policies and restricts accounts in the [Transparency Center](https://transparency.fb.com/en-gb/enforcement/taking-action/restricting-accounts/).
 
-We do not allow the use of our services and will restrict or disable accounts or other entities (such as pages, groups, and events) if you:
+We may restrict or disable accounts, other entities (Pages, groups, events) or business assets (Business Managers, ad accounts) that:
 
-* [Severely violate](https://transparency.fb.com/enforcement/taking-action/disabling-accounts/) our Community Standards.
-* [Persistently violate](https://transparency.fb.com/enforcement/taking-action/disabling-accounts/) our Community Standards.
-* Are closely linked with a network of accounts or other entities that violate or evade our policies.
-* Coordinate as part of a network of accounts or other entities in order to violate or evade our Community Standards.
-* Represent [Dangerous Individuals or Organizations](https://www.facebook.com/communitystandards/dangerous_individuals_organizations).
-* Create or use an account that demonstrates an intent to violate our Community Standards.
-* Create or use an account by scripted or other inauthentic means.
-* Create or repurpose an account or entity to evade a previous removal, including those assessed to have common ownership and content as previously removed accounts or entities.
-* Create or use an account that deliberately misrepresents your identity in order to mislead or deceive others, or to evade enforcement or violate our other Community Standards. We consider a number of factors when assessing misleading identity misrepresentation, such as:
-    * Repeated or significant changes to identity details, such as name or age
-    * Misleading profile information, such as bio details and profile location
-    * Using stock imagery or stolen photos
-    * Other related account activity
-* Impersonate others by:
-    * Using their photos with the explicit aim to deceive others.
-    * Creating an account assuming to be or speak for another person or entity.
-    * Creating a Page assuming to be or speak for another person or entity for whom the user is not authorized to do so.
-* Are under 13 years old.
-* Are a convicted sex offender.
-* Are prohibited from receiving our products, services or software under applicable laws.
+* Violate our Community Standards involving egregious harms, including those we refer to law enforcement due to the risk of imminent harm to individual or public safety
+* Violate our Community Standards involving any harms that warrant referral to law enforcement due to the risk of imminent harm to individual of public safety
+* Violate our Advertising Standards involving deceptive or dangerous business harms
+* Persistently violate our Community Standards by posting violating content and/or managing violating entities or business assets
+* Persistently violates our Advertising Standards
+* Activity or behavior indicative of a clear violating purpose
 
-In certain cases, such as those outlined below, we will seek further information about an account before taking actions ranging from temporarily restricting accounts to permanently disabling them.
+We may restrict or disable accounts, other entities (Pages, groups, events) or business assets (Business Managers, ad accounts) that are:
 
-* Accounts misrepresenting their identity (Facebook and Messenger only) by:
-    * Creating an account using a name that is not the [authentic name](https://www.facebook.com/help/112146705538576?ref=ccs) you go by in everyday life
-        * Using an inherently violating name, containing slurs or any other violations of the [Community Standards](https://transparency.fb.com/policies/community-standards/)
-    * Providing a false date of birth.
-    * Creating a single account that represents or is used by more than one person.
-    * Maintaining multiple accounts as a single user.
-* Compromised accounts.
-* Empty accounts with prolonged dormancy.
+* Owned by the same person or entity as an account that has been disabled
+* Created or repurposed to evade a previous account or entity removal, including those assessed to have common ownership and content as previously removed accounts or entities
+* Created to contact a user that has blocked an account
+* Otherwise used to evade our enforcement actions or review processes
+
+We may restrict or disable accounts, other entities (Pages, groups, events) or business assets (Business Managers, ad accounts) that demonstrate:
+
+* Close linkage with a network of accounts or other entities that violate or evade our policies
+* Coordination within a network of accounts or other entities that persistently or egregiously violate our policies
+* Activity or behavior indicative of a clear violating purpose through a network of accounts
+
+We may restrict or disable accounts or other entities (Pages, groups, events), or business assets (Business Managers, ad accounts) that engage in off-platform activity that can lead to harm on our platform, including those:
+
+* Owned by a convicted sex offender
+* Owned by a Designated Entity or run on their behalf
+* Prohibited from receiving our products, services or software under applicable laws
+
+In the following scenarios, we may request additional information about an account to ascertain ownership and/or permissible activity:
+
+* Compromised accounts
+* Creating or using an account or other entity through automated means, such as scripting (unless the scripting activity occurs through authorized routes and does not otherwise violate our policies)
+* Empty accounts with prolonged dormancy
+
+Read lessRead more
+
+Authentic Identity Representation
+=================================
+
+Policy Rationale
+
+Authenticity is the cornerstone of our community. We believe that authenticity helps create a community where people are accountable to each other, and to Meta, in meaningful ways. On Facebook, we require people to create one account using the name they go by in everyday life that represents their authentic identity. We created [Additional Profiles](https://www.facebook.com/help/967154637433480) to help people express different parts of their identity, such as their interests or businesses. On Instagram, we do not require people to use their authentic name, but we do require that they do not create accounts for the purpose of misleading others. We want to allow for the range of diverse ways that identity is expressed across our global community, while also preventing impersonation and identity misrepresentation on Facebook and Instagram.
+
+Our authenticity policies are intended to create a safe and open environment where people can trust one another and build community.
+
+We do not allow the use of our services and will restrict or disable Facebook and Instagram accounts or other Facebook entities (such as Pages, groups) that:
+
+* Belong to underage children
+* Demonstrate an explicit aim to deceive and impersonate others by using another person’s likeness or other identity details to pretend to be that person, or assume to be or speak on behalf of a person or entity for whom they have not been authorized.
+* Engage in deliberate identity misrepresentation to mislead or deceive others, evade enforcement, or violate our Community Standards.
+* Use a name containing violations of our Community Standards.
+
+In certain cases, such as those outlined below, we will seek further information before taking actions ranging from temporarily restricting to permanently disabling Facebook accounts if you:
+
+* Provide a false date of birth
+* Use a name that is not the authentic name you go by in everyday life
+* Create a single account that represents or is used by more than one person
+* Create or maintain multiple Facebook accounts
+* Create an account that represents a non-human entity, such as a business, pet, or fictional character
 
 Read lessRead more
 
