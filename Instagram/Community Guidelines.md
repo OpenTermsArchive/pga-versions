@@ -162,7 +162,7 @@ Policy Rationale
 
 We do not allow content or activity that sexually exploits or endangers children. When we become aware of apparent child exploitation, we report it to the National Center for Missing and Exploited Children (NCMEC), in compliance with applicable law. We know that sometimes people share nude images of their own children with good intentions; however, we generally remove these images because of the potential for abuse by others and to help avoid the possibility of other people reusing or misappropriating the images.
 
-We also work with external experts, including the [Facebook Safety Advisory Board](https://www.facebook.com/help/222332597793306?ref=ccs), to discuss and improve our policies and enforcement around online safety issues, especially with regard to children. Learn more about the [technology we’re using to fight against child exploitation](https://newsroom.fb.com/news/2018/10/fighting-child-exploitation/).
+We also work with external experts, including the [Meta Safety Advisory Board](https://www.facebook.com/help/222332597793306?ref=ccs), to discuss and improve our policies and enforcement around online safety issues, especially with regard to children. Learn more about the [technology we’re using to fight against child exploitation](https://newsroom.fb.com/news/2018/10/fighting-child-exploitation/).
 
 Do not post:
 
@@ -310,7 +310,7 @@ Fraud, Scams, and Deceptive Practices
 
 Policy Rationale
 
-We aim to protect users and businesses from being deceived out of their money, property or personal information. We achieve this by removing content and combatting behavior that purposefully employs deceptive means - such as wilful misrepresentation, stolen information and exaggerated claims - to either scam or defraud users and businesses, or to drive engagement. This includes content that seeks to coordinate or promote those activities using our platform. We allow people to raise awareness and educate others as well as condemn these activities.
+We aim to protect users and businesses from being deceived out of their money, property or personal information. We achieve this by removing content and combatting behavior that purposefully employs deceptive means - such as wilful misrepresentation, stolen information and exaggerated claims - to either scam or defraud users and businesses, or to drive engagement. This includes content that seeks to coordinate or promote those activities using our services. We allow people to raise awareness and educate others as well as condemn these activities.
 
 We do not allow:
 
@@ -479,7 +479,7 @@ For the following Community Standards, we require additional information and/or 
     * That offers or asks for products or services designed to facilitate the surreptitious viewing or recording of individuals, e.g., spy cams, mobile phone trackers (including those that allow tracing unknown phone numbers), or other hidden surveillance equipment.
     * That offers litigant recruitment opportunities for people to participate in class action lawsuits by impersonating a government entity or a news outlet, by using sensationalist language, or by using exaggerated claims.
     * That offers subscription services that prompt users to enter Personal Information.
-    * We do not allow entities to participate in or claim to engage in organized Fraud or Scam behavior, including the use of multiple Facebook or Instagram accounts in concert to perpetrate fraudulent behaviors.
+    * We do not allow entities to participate in or claim to engage in organized Fraud or Scam behavior, including the use of multiple accounts on our services in concert to perpetrate fraudulent behaviors.
 
 In certain cases, we allow content that may otherwise violate the Community Standards when it is determined that the content is satirical. Content will only be allowed if the violating elements of the content are being satirized or attributed to something or someone else in order to mock or criticize them.
 
@@ -557,7 +557,7 @@ Inauthentic Behavior
 
 Policy Rationale
 
-In line with our commitment to authenticity, we don't allow people to misrepresent themselves on Facebook, use fake accounts, artificially boost the popularity of content, or engage in behaviors designed to enable other violations under our Community Standards. Inauthentic Behavior refers to a variety of complex forms of deception, performed by a network of inauthentic assets controlled by the same individual or individuals, with the goal of deceiving Meta or our community or to evade enforcement under the Community Standards.
+In line with our commitment to authenticity, we don't allow people to misrepresent themselves on our services, use fake accounts, artificially boost the popularity of content, or engage in behaviors designed to enable other violations under our Community Standards. Inauthentic Behavior refers to a variety of complex forms of deception, performed by a network of inauthentic assets controlled by the same individual or individuals, with the goal of deceiving Meta or our community or to evade enforcement under the Community Standards.
 
 Where adversarial threat actors use fake accounts to engage in sophisticated Inauthentic tactics in order to influence public debate - they engage in what we’ve defined as Coordinated Inauthentic Behavior - or coordinated efforts to manipulate public debate for a strategic goal, in which fake accounts are central to the operation. This violating behavior receives a more severe and often bespoke response, in keeping with their more substantial and sophisticated efforts to deceive. Whenever possible, we share our findings about networks of Coordinated Inauthentic Behavior in our Quarterly Adversarial Threat Reports, found [here](https://transparency.fb.com/en-gb/metasecurity/threat-reporting). These reports are not meant to cover the entire universe of enforcements under the Inauthentic Behavior policy, but help inform our community’s understanding of the evolving nature of threats we face in this space.
 
@@ -570,7 +570,7 @@ We do not allow:
     * Deceive Meta or our users about:
     
     * The identity, purpose, or origin of an audience or the entity that they represent; or
-    * the popularity of Facebook or Instagram content or assets; or
+    * the popularity of content or assets on our services; or
     * a Meta asset’s ownership or control network.
     
     * To Evade enforcement under the Community Standards.
@@ -765,7 +765,7 @@ Adult Sexual Solicitation and Sexually Explicit Language
 
 Policy Rationale
 
-As noted in the [Adult Sexual Exploitation](https://www.facebook.com/communitystandards/sexual_exploitation_adults) policy, people use Facebook to discuss and draw attention to sexual violence and exploitation. We recognize the importance of and allow for this discussion.We also allow for the discussion of sex worker rights advocacy and sex work regulation. We draw the line, however, when content facilitates sexual encounters or commercial sexual services between adults. We do this to avoid facilitating transactions that may involve trafficking, coercion and non-consensual sexual acts.
+As noted in the [Adult Sexual Exploitation](https://www.facebook.com/communitystandards/sexual_exploitation_adults) policy, people use our services to discuss and draw attention to sexual violence and exploitation. We recognize the importance of and allow for this discussion.We also allow for the discussion of sex worker rights advocacy and sex work regulation. We draw the line, however, when content facilitates sexual encounters or commercial sexual services between adults. We do this to avoid facilitating transactions that may involve trafficking, coercion and non-consensual sexual acts.
 
 We also restrict sexually-explicit language that may lead to sexual solicitation because some audiences within our global community may be sensitive to this type of content, and it may impede the ability for people to connect with their friends and the broader community.
 
@@ -1050,7 +1050,7 @@ Policy Rationale
 
 We do not allow content or activity that sexually exploits or endangers children. When we become aware of apparent child exploitation, we report it to the National Center for Missing and Exploited Children (NCMEC), in compliance with applicable law. We know that sometimes people share nude images of their own children with good intentions; however, we generally remove these images because of the potential for abuse by others and to help avoid the possibility of other people reusing or misappropriating the images.
 
-We also work with external experts, including the [Facebook Safety Advisory Board](https://www.facebook.com/help/222332597793306?ref=ccs), to discuss and improve our policies and enforcement around online safety issues, especially with regard to children. Learn more about the [technology we’re using to fight against child exploitation](https://newsroom.fb.com/news/2018/10/fighting-child-exploitation/).
+We also work with external experts, including the [Meta Safety Advisory Board](https://www.facebook.com/help/222332597793306?ref=ccs), to discuss and improve our policies and enforcement around online safety issues, especially with regard to children. Learn more about the [technology we’re using to fight against child exploitation](https://newsroom.fb.com/news/2018/10/fighting-child-exploitation/).
 
 Do not post:
 
@@ -1539,7 +1539,7 @@ While we do not allow people to intentionally or unintentionally celebrate or pr
 
 We remove any content that encourages suicide, self-injury or eating disorders, including fictional content such as memes or illustrations, and any self-injury content which is graphic, regardless of context. We also remove content that mocks victims or survivors of suicide, self-injury or eating disorders, as well as real time depictions of suicide or self-injury. Content about recovery from suicide, self-injury or eating disorders that is allowed, but may contain imagery that could be upsetting (such as a healed scar) is placed behind a sensitivity screen.
 
-When people post or search for suicide, self-injury or eating disorders related content, we will direct them to local organizations that can provide support and if our Community Operations team is concerned about immediate harm we will contact local emergency services to get them help. For more information, visit the [Facebook Safety Center.](https://www.facebook.com/safety/wellbeing/suicideprevention)
+When people post or search for suicide, self-injury or eating disorders related content, we will direct them to local organizations that can provide support and if our Community Operations team is concerned about immediate harm we will contact local emergency services to get them help. For more information, visit the [Meta Safety Center.](https://www.facebook.com/safety/wellbeing/suicideprevention)
 
 With respect to live content, experts have told us that if someone is saying they intend to attempt suicide on a livestream, we should leave the content up for as long as possible because the longer someone is talking to a camera, the more opportunity there is for a friend or family member to call emergency services.However, to minimize the risk of others being negatively impacted by viewing this content, we will stop the livestream at the point at which the threat turns into an attempt. As mentioned above, in any case, we will contact emergency services if we identify someone is at immediate risk of harming themselves.
 
