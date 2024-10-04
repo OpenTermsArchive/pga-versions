@@ -117,7 +117,7 @@ We Remove:
 * References to election-related gatherings or events when combined with a signal that content is threatening violence (e.g., threats to take up or bring a weapon, visual depictions of a weapon, references to arson, theft, vandalism).
 * Threats of high- or mid-severity violence in the defense of self or another human when the criteria below are met.
 
-* Against a person (excluding persons identifiable by name of face, people targeted based on their protected characteristics, and children)
+* Against a person (excluding persons identifiable by name or face, people targeted based on their protected characteristics, and children)
 * In the context of home entry or interpersonal violence that is proportional to the violence responded to and is an immediate threat
 * The potential impact on voice outweighs the risk of imminent violence
 
@@ -150,7 +150,7 @@ Neutral discussion includes factual statements, commentary, questions, and other
 
 Condemnation includes disapproval, disgust, rejection, criticism, mockery, and other negative expressions about a designated dangerous organization or individual and their behavior.
 
-* E.g. “ I feel disgusted by the crime of Salvador Ramos. The judge’s words resonated so much to me. He should get no mercy by the court”
+* E.g. “I feel disgusted by the crime of Salvador Ramos. The judge’s words resonated so much to me. He should get no mercy by the court”
 * E.g. “Hitler’s crimes shall never be forgotten ever. These were some of the darkest moments in history”
 
 Our policies are designed to allow room for these types of discussions while simultaneously limiting risks of potential offline harm. We thus require people to clearly indicate their intent when creating or sharing such content. If a user's intention is ambiguous or unclear, we default to removing content.
@@ -395,7 +395,7 @@ Policy Rationale
 
 To encourage safety and deter potentially harmful activities, we prohibit attempts by individuals, manufacturers, and retailers to purchase, sell, raffle, gift, transfer or trade certain goods and services on our platform. We do not tolerate the exchange or sale of any drugs that may result in substance abuse covered under our policies below. Brick-and-mortar and online retailers may promote firearms, alcohol, and tobacco items available for sale off of our services; however, we restrict visibility of this content for minors. We allow discussions about the sale of these goods in stores or by online retailers, advocating for changes to regulations of goods and services covered in this policy, and advocating for or concerning the use of pharmaceutical drugs in the context of medical treatment, including discussion of physical or mental side effects.
 
-**Restricted Goods and Services consists of the following categories:**
+**Restricted Goods and Services consist of the following categories:**
 
 * Drugs and Pharmaceuticals
 * Weapons, Ammunitions, or Explosives
@@ -719,7 +719,7 @@ Content that:
         * Register at an off-site link.
         * Share Personal Identifiable Information (PII) or Other Personal Information.
         * Contact off-platform or on-platform via private message.
-        * take no action.
+        * Take no action.
 
 * _Advance Fee Fraud and Scam._ Content that:
     * Falsely promises money in exchange for an up-front fee/wire transfer/payment.
@@ -1276,7 +1276,7 @@ Content that shares or asks for private information, either on our services or t
 
 * Content sharing or asking for medical, psychological, biometric, or genetic/hereditary information of others (including when displayed visually or shared through audio or video),when it is clear that the information comes from medical records or other official documents.
 
-**Financial information.**
+**Financial information**
 
 * Content sharing or asking for personal financial information about the poster or others, defined as information about a person’s individual finances including:
     * Non-public financial records or statements.
@@ -1851,7 +1851,7 @@ We do not allow:
     * Primarily seek to manipulate public debate.
 
 * Entities to engage in, or claim to engage in **Foreign Interference**, defined as Coordinated Inauthentic Behavior where the network operators are not located in the same country as the audience the operation targets.
-* Entities to engage in, or claim to engage in **Government Interference**, defined as Coordinated Inauthentic Behavior where the operation is attributable to a government actor
+* Entities to engage in, or claim to engage in **Government Interference**, defined as Coordinated Inauthentic Behavior where the operation is attributable to a government actor.
 * Governments that have instituted sustained blocks of social media to use their official departments, agencies, and embassies to deny the use of force or violent events in the context of an attack against the territorial integrity of another state in violation of Article 2(4) of the UN charter.
 
 Read lessRead more
