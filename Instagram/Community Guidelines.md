@@ -983,7 +983,7 @@ Adult sexual arousal products
 
 Content that:
 
-* attempts to buy, sell, promote, trade, donate, gift or ask for adult sexual arousal products, that can stimulate a person’s sexual pleasure or increasing a person’s sexual arousal this includes:
+* attempts to buy, sell, promote, trade, donate, gift or ask for adult sexual arousal products, that can stimulate a person’s sexual pleasure or increase a person’s sexual arousal this includes:
     * Sex toys
     * Erotic products
     * Non-surgical genital enhancement products, such as products that stimulate sexual desire or improve sexual performance
@@ -995,7 +995,7 @@ For the following content, we restrict visibility to adults 18 years of age and 
 
 Online Gambling and Games
 
-* Content that attempts to sell, trade, depict or promote online gaming and gambling services where anything of monetary value (including cash or digital/virtual currencies, e.g., bitcoin) is required to play and anything of monetary value forms part of the prize., This includes but is not limited to:
+* Content that attempts to sell, trade, depict or promote online gaming and gambling services where anything of monetary value (including cash or digital/virtual currencies, e.g., bitcoin) is required to play and anything of monetary value forms part of the prize. This includes but is not limited to:
     * Games of skill, lotteries/raffles, betting, sports betting, casino games, games of chance, or sweepstakes/prize draws
     * Gambling Games offering a limited trial period and requiring payment thereafter
 
