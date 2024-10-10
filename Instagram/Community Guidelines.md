@@ -533,24 +533,30 @@ Authentic Identity Representation
 
 Policy Rationale
 
-Authenticity is the cornerstone of our community. We believe that authenticity helps create a community where people are accountable to each other, and to Meta, in meaningful ways. On Facebook, we require people to create one account using the name they go by in everyday life that represents their authentic identity. We created [Additional Profiles](https://www.facebook.com/help/967154637433480) to help people express different parts of their identity, such as their interests or businesses. On Instagram, we do not require people to use their authentic name, but we do require that they do not create accounts for the purpose of misleading others. We want to allow for the range of diverse ways that identity is expressed across our global community, while also preventing impersonation and identity misrepresentation on Facebook and Instagram.
+Authenticity is the cornerstone of our community. We believe that authenticity helps create a community where people are accountable to each other, and to Meta, in meaningful ways. We want to allow for the many ways that identity is expressed across our global community, while preventing impersonation and identity misrepresentation. To maintain a safe and open environment where people can trust one another and build community, we do not allow for the creation of accounts or profiles that are created or used to deceive others.
 
-Our authenticity policies are intended to create a safe and open environment where people can trust one another and build community.
+On Facebook, we require people to create one account using the name they go by in everyday life that represents their authentic identity. We created [Additional Profiles](https://www.facebook.com/help/967154637433480) to help people express different parts of their identity, such as their interests or businesses.
 
-We do not allow the use of our services and will restrict or disable Facebook and Instagram accounts or other Facebook entities (such as Pages, groups) that:
+We do not allow the use of our services and will restrict or disable Facebook, Instagram, and Threads accounts or other Facebook entities (such as Pages, groups) that:
 
 * Belong to underage children
-* Demonstrate an explicit aim to deceive and impersonate others by using another person’s likeness or other identity details to pretend to be that person, or assume to be or speak on behalf of a person or entity for whom they have not been authorized.
-* Engage in deliberate identity misrepresentation to mislead or deceive others, evade enforcement, or violate our Community Standards.
+* Impersonate another person or entity by:
+    * Using their image(s), name, or likeness with the aim to deceive others
+    * Speaking in the voice of another person or entity for whom the user is not authorized to do so (e.g. by creating a Page or Profile)
+* Engage in identity misrepresentation to mislead or deceive others, evade enforcement, or violate our Community Standards. We consider a number of factors when assessing misleading identity misrepresentation, such as:
+    * Repeated or significant changes to identity details, such as name or age
+    * Misleading profile information, such as bio details and profile location
+    * Using stock imagery
 * Use a name containing violations of our Community Standards.
 
-In certain cases, such as those outlined below, we will seek further information before taking actions ranging from temporarily restricting to permanently disabling Facebook accounts if you:
+On Facebook, we will seek further information before taking actions ranging from temporarily restricting to permanently disabling profiles or accounts if you:
 
 * Provide a false date of birth
 * Use a name that is not the authentic name you go by in everyday life
 * Create a single account that represents or is used by more than one person
 * Create or maintain multiple Facebook accounts
 * Create an account that represents a non-human entity, such as a business, pet, or fictional character
+* Maintain empty profiles with prolonged dormancy
 
 Inauthentic Behavior
 ====================
