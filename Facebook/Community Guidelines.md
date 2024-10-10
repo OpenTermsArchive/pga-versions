@@ -1720,24 +1720,30 @@ Authentic Identity Representation
 
 Policy Rationale
 
-Authenticity is the cornerstone of our community. We believe that authenticity helps create a community where people are accountable to each other, and to Meta, in meaningful ways. On Facebook, we require people to create one account using the name they go by in everyday life that represents their authentic identity. We created [Additional Profiles](https://www.facebook.com/help/967154637433480) to help people express different parts of their identity, such as their interests or businesses. On Instagram, we do not require people to use their authentic name, but we do require that they do not create accounts for the purpose of misleading others. We want to allow for the range of diverse ways that identity is expressed across our global community, while also preventing impersonation and identity misrepresentation on Facebook and Instagram.
+Authenticity is the cornerstone of our community. We believe that authenticity helps create a community where people are accountable to each other, and to Meta, in meaningful ways. We want to allow for the many ways that identity is expressed across our global community, while preventing impersonation and identity misrepresentation. To maintain a safe and open environment where people can trust one another and build community, we do not allow for the creation of accounts or profiles that are created or used to deceive others.
 
-Our authenticity policies are intended to create a safe and open environment where people can trust one another and build community.
+On Facebook, we require people to create one account using the name they go by in everyday life that represents their authentic identity. We created [Additional Profiles](https://www.facebook.com/help/967154637433480) to help people express different parts of their identity, such as their interests or businesses.
 
-We do not allow the use of our services and will restrict or disable Facebook and Instagram accounts or other Facebook entities (such as Pages, groups) that:
+We do not allow the use of our services and will restrict or disable Facebook, Instagram, and Threads accounts or other Facebook entities (such as Pages, groups) that:
 
 * Belong to underage children
-* Demonstrate an explicit aim to deceive and impersonate others by using another person’s likeness or other identity details to pretend to be that person, or assume to be or speak on behalf of a person or entity for whom they have not been authorized.
-* Engage in deliberate identity misrepresentation to mislead or deceive others, evade enforcement, or violate our Community Standards.
+* Impersonate another person or entity by:
+    * Using their image(s), name, or likeness with the aim to deceive others
+    * Speaking in the voice of another person or entity for whom the user is not authorized to do so (e.g. by creating a Page or Profile)
+* Engage in identity misrepresentation to mislead or deceive others, evade enforcement, or violate our Community Standards. We consider a number of factors when assessing misleading identity misrepresentation, such as:
+    * Repeated or significant changes to identity details, such as name or age
+    * Misleading profile information, such as bio details and profile location
+    * Using stock imagery
 * Use a name containing violations of our Community Standards.
 
-In certain cases, such as those outlined below, we will seek further information before taking actions ranging from temporarily restricting to permanently disabling Facebook accounts if you:
+On Facebook, we will seek further information before taking actions ranging from temporarily restricting to permanently disabling profiles or accounts if you:
 
 * Provide a false date of birth
 * Use a name that is not the authentic name you go by in everyday life
 * Create a single account that represents or is used by more than one person
 * Create or maintain multiple Facebook accounts
 * Create an account that represents a non-human entity, such as a business, pet, or fictional character
+* Maintain empty profiles with prolonged dormancy
 
 Read lessRead more
 
@@ -1939,11 +1945,17 @@ Memorialization
 
 Policy Rationale
 
-When someone passes away, Facebook friends and family can request that we [memorialize](https://www.facebook.com/help/150486848354038?ref=ccs)the Facebook account. Once memorialized, the word "Remembering" appears above the name on the person's profile so that the account is now a memorial site. Memorializing accounts helps create a space for remembering loved ones and protects against attempted logins and fraudulent activity. To respect the choices someone made while alive, we aim to preserve their account without changes after they pass away.
+When someone passes away, friends and family can request that we memorialize their accounts. Once memorialized, the word "Remembering" appears above the name on the person's profile so that the account is now a memorial site. Memorializing accounts helps create a space for remembering loved ones and protects against attempted logins and fraudulent activity. To respect the choices someone made while alive, we aim to preserve their account without changes after they pass away.
 
-We have also made it possible for people to identify a [legacy contact](https://www.facebook.com/help/1568013990080948?ref=ccs) to look after their Facebook account after they pass away. To support the bereaved, in some instances, we may remove or change certain content when the legacy contact or family members request it.
+On Facebook, we have made it possible for people to identify a legacy contact to look after their account after they pass away. To support the bereaved, in some instances, we may remove or change certain content when the legacy contact or family members request it.
 
-For victims of murder and suicide we will remove the following content if it appears on the deceased’s profile photo, cover photo, or among recent timeline posts when requested by a legacy contact or family member of the deceased:
+Requests to memorialize Facebook or Instagram accounts that belong to deceased users can be made with the requisite information by:
+
+* Facebook friends
+* Instagram followers
+* Family members with the correct documentation
+
+For victims of murder and suicide we will remove the following content on Facebook and Instagram if it appears on the deceased’s profile photo, cover photo, or among recent timeline posts when requested by a family member of the deceased. We may also remove this content on Facebook when requested by the Facebook legacy contact:
 
 * Content related to the deceased's death
 * Praise or support for the death, disease, or harm of the deceased
@@ -1951,7 +1963,7 @@ For victims of murder and suicide we will remove the following content if it app
 * Imagery of the convicted or alleged murderer of the deceased.
 * Relationship status or friend status of the convicted or alleged murderer of the deceased
 
-For the following Community Standards, we require additional information and/or context to make the following changes when requested by the legacy contact or an authorized representative of the deceased:
+For the following Community Standards, we require additional information and/or context to make the following changes when requested by an authorized representative of the deceased and on Facebook-only, by the legacy contact:
 
 * Remove violating comments on a memorialized profile, which would typically require the individual to self report so that we know that they are unwanted.
 * Change the deceased's individual's privacy settings from public to friends-only when there is harmful content on the profile
