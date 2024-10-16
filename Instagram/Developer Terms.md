@@ -16,6 +16,8 @@ Platform Terms
 
 _Last updated April 25, 2023_
 
+We’re updating the Platform Terms. The updates go into effect on February 3, 2025. Read the updated terms
+
 The Facebook company is now Meta. We’ve updated our Platform Terms to reflect the new name on February 8, 2022. While our company name has changed, we are continuing to offer the same products, including the Facebook app from Meta. Our Data Policy and Terms of Service remain in effect, and this name change does not affect how we use or share data. Learn more about Meta and our vision for the metaverse.
 
 These Meta Platform Terms and the Developer Policies originally went into effect on August 31, 2020. They replaced the legacy Facebook Platform Policy and the legacy Instagram Platform Policy, as well as the Supplemental Terms for Extended Platform Products and the Technology Provider Amendment to the preceding Supplemental Terms. Learn more.
