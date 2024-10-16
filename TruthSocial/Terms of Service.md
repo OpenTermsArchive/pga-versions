@@ -1,7 +1,7 @@
 Truth Social Terms of Service
 =============================
 
-**Welcome to the TRUTH SOCIAL family of products, including an online platform owned and operated by T MEDIA TECH LLC, which is available on [www.truthsocial.com](http://www.truthsocial.com/) ("Site"), as well as our related mobile application platform under Truth Social and our Truth+ app (collectively, the "Apps"). The Site and Apps have been created for your entertainment as well as educational and personal use.**
+**Welcome to the TRUTH SOCIAL family of products, including an online platform owned and operated by T MEDIA TECH LLC, which is available on [www.truthsocial.com](http://www.truthsocial.com/), as well as our related mobile application platform under Truth Social and our Truth+ app (collectively, the "Apps"). The Site and Apps have been created for your entertainment as well as educational and personal use.**
 
 **PLEASE READ SECTIONS 22 AND 23 BELOW CAREFULLY AS THEY CONTAIN A BINDING ARBITRATION AGREEMENT AND A CLASS ACTION WAIVER, WHICH MAY AFFECT YOUR LEGAL RIGHTS.**
 
