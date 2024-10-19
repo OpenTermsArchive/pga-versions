@@ -119,28 +119,6 @@ Pinterest isn’t a place for hateful content or the people and groups that prom
 
 Protected and vulnerable groups include: People grouped together based on their actual or perceived race, color, caste, ethnicity, immigration status, national origin, religion or faith, sex or gender identity, sexual orientation, disability or medical condition. It also includes people who are grouped together based on lower socio-economic status, age, weight or size, pregnancy or veteran status.
 
-### Civic participation misinformation
-
-This policy is always applicable, meaning before, during and after major civic participation events (e.g. elections).
-
-* False or misleading content that impedes an election’s integrity or an individual's or group's civic participation, including registering to vote, voting and being counted in a census.
-* False or misleading information about the dates, times, locations and procedure for voting or census participation.
-* Content that misleads voters about how to correctly fill-out and submit a ballot, including a mail-in ballot, or census form.
-* False or misleading information about who can vote or participate in the census and what information must be provided to participate.
-* False or misleading statements about who is collecting information and/or how it will be used.
-* False or misleading information about public safety that is intended to deter people from exercising their right to vote or participate in a census.
-* Content that encourages or instructs voters or participants to misrepresent themselves or illegally participate.
-* Content apparently intended to delegitimize election results on the basis of false or misleading claims.
-* Fabricated or manipulated content (e.g. content generated with AI tools) making someone appear to do or say something they didn't with the clear intent of influencing public sentiment about a political figure and/or election.
-* Our policies also prohibit threats against voting locations, census or voting personnel, voters or census participants, including intimidation and doxxing of vulnerable or protected group voters or participants.
-
-### Climate misinformation
-
-* Content that denies the existence or impacts of climate change, the human influence on climate change, or that climate change is backed by scientific consensus.
-* False or misleading content about climate change solutions that contradict well-established scientific consensus.
-* Content that misrepresents scientific data, including by omission or cherry-picking, in order to erode trust in climate science and experts.
-* Harmful false or misleading content about public safety emergencies including natural disasters and extreme weather events.
-
 ### Harassment and criticism
 
 Pinterest isn’t a place to insult, hurt or antagonize individuals or groups of people. There are good reasons to express criticism, but we may limit the distribution of or remove insulting content to keep Pinterest a positive, inspiring place; this includes:
