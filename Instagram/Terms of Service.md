@@ -3,6 +3,8 @@
 Terms and Imprint
 =================
 
+We’re updating the Instagram Terms of Use. These updates will go into effect on January 1, 2025. Read the new Terms
+
 Terms and Imprint  
   
 
