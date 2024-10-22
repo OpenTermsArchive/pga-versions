@@ -3,6 +3,10 @@ Facebook Community Standards
 
 The Facebook Community Standards outline what is and isn't allowed on Facebook.
 
+###### NOTE
+
+On November 12, 2024 this page will become the central place to see our Community Standards. Our standards apply across Facebook, Messenger, Instagram and Threads and they will not be changing. We’re simply bringing them together in one place to make them easier to find.
+
 ### Introduction
 
 Every day, people use Facebook to share their experiences, connect with friends and family, and build communities. It’s a service for more than 2 billion people to freely express themselves across countries and cultures and in dozens of languages.
