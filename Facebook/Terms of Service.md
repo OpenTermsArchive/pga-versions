@@ -4,6 +4,10 @@
 
 **Terms of Service**
 
+We’re updating the Meta Terms of Service. These updates will go into effect on January 1, 2025. [Read the new Terms](https://www.facebook.com/legal/terms/preview).
+
+  
+
 For messaging, voice and video calling services included in Meta Products, please click [here](https://www.facebook.com/legal/terms/eecc/contract_summary) for a contract summary and [here](https://www.facebook.com/legal/terms/eecc/flyout) for other information required by the European Electronic Communications Code.
 
 Meta builds technologies and services that enable people to connect with each other, build communities, and grow businesses. These Terms of Service (the "Terms") govern your use of Facebook, Messenger, and the other products, features, apps, services, technologies, and software we offer (the [Meta Products](https://www.facebook.com/help/1561485474074139?ref=tos) or [Products](https://www.facebook.com/help/1561485474074139?ref=tos)), except where we expressly state that separate terms (and not these) apply. If we show you ads on Meta Products, these Terms also govern how Meta uses information to show you ads that businesses and organizations pay us to promote. These Products are provided to you by Meta Platforms Ireland Limited. These Terms therefore constitute an agreement between you and Meta Platforms Ireland Limited.
