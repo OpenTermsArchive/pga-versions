@@ -352,6 +352,10 @@ All Notifications should meet the requirements of DMCA 17 U.S.C. § 512(c)(3) an
 
 (6) a statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed upon.
 
+Attn: Copyright Agent
+
+Email: [\[email protected\]](https://help.truthsocial.com/cdn-cgi/l/email-protection)
+
 ### B. Counter Notification
 
 If you believe your own copyrighted material has been removed from the Site as a result of a mistake or misidentification, you may submit a written counter notification to \[us/our Designated Copyright Agent\] using the contact information provided below (a "Counter Notification").
@@ -375,10 +379,6 @@ If you send us a valid, written Counter Notification meeting the requirements de
 Please note that if you materially misrepresent that the disabled or removed content was removed by mistake or misidentification, you may be liable for damages, including costs and attorney's fees. Filing a false Counter Notification constitutes perjury.
 
 Attn: Copyright Agent
-
-1100 South Ocean Blvd.
-
-Palm Beach, Florida 33480
 
 Email: [\[email protected\]](https://help.truthsocial.com/cdn-cgi/l/email-protection)
 
