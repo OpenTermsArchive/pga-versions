@@ -116,9 +116,9 @@ Related Articles
 
 [Your Threads settings](https://help.instagram.com/313609505054371/?helpref=related_articles)
 
-[Your Threads profile](https://help.instagram.com/179980294969821/?helpref=related_articles)
-
 [About Threads and the fediverse](https://help.instagram.com/169559812696339/?helpref=related_articles)
+
+[Supervision on Threads](https://help.instagram.com/1190285478353241/?helpref=related_articles)
 
 Related Articles
 
@@ -130,6 +130,6 @@ Related Articles
 
 [Your Threads settings](https://help.instagram.com/313609505054371/?helpref=related_articles)
 
-[Your Threads profile](https://help.instagram.com/179980294969821/?helpref=related_articles)
-
 [About Threads and the fediverse](https://help.instagram.com/169559812696339/?helpref=related_articles)
+
+[Supervision on Threads](https://help.instagram.com/1190285478353241/?helpref=related_articles)
