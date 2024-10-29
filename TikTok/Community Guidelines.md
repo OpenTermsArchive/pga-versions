@@ -16,25 +16,25 @@ Thank you for helping to keep TikTok a welcoming space for everyone!
 
 Keeping our platform safe, trustworthy, and vibrant requires balancing creative expression and preventing harm. We use a combination of safety approaches to strike the right balance:
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 Remove content that we do not allow
 
 Everyone who joins TikTok has the ability to freely share content on the platform. However, we remove content--whether posted publicly or privately--when we find that it violates our rules.
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/ffdeec0415e2464eacdd080db59a9098~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/27141b904baf42ebb5d89ec5ee2a52ca~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/ffdeec0415e2464eacdd080db59a9098~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/27141b904baf42ebb5d89ec5ee2a52ca~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 Restrict content that is not suitable for youth
 
 We allow a range of content on our platform, but also recognize that not all of it may be suitable for younger audiences. We restrict content that may not be suitable so that it is only viewed by adults (18 years and older). A summary of restricted content categories can be found [here](https://www.tiktok.com/community-guidelines/en/youth-safety/?cgversion=2024H1update&lang=en).
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/5a98ba5ce62b4a9e99151630eb0c3152~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/c87433c6b88044ca8872ae65709ed9c9~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/5a98ba5ce62b4a9e99151630eb0c3152~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/c87433c6b88044ca8872ae65709ed9c9~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 Make ineligible for the FYF content that does not meet our recommendation standards
 
 The FYF is an opportunity to discover new content and reach new audiences, but it is not guaranteed that all content will be recommended. Content that does not meet our standards will be ineligible for the FYF. A summary of these standards can be found [here](https://www.tiktok.com/community-guidelines/en/fyf-standards/?cgversion=2024H1update&lang=en).
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/bf1e1ae007f944e7885b59046c9e216d~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/ba1c4416b49549b59232f87d2da00bda~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/bf1e1ae007f944e7885b59046c9e216d~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/ba1c4416b49549b59232f87d2da00bda~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 Empower our community with information, tools, and resources
 
@@ -81,7 +81,7 @@ You can learn more about TikTok's tools, controls, and educational content on ou
 
 We allow a range of content on our platform, but some of it is only made available to adults. Here is a consolidated "quick guide" of content restricted from younger audiences.
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/ffdeec0415e2464eacdd080db59a9098~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/27141b904baf42ebb5d89ec5ee2a52ca~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/ffdeec0415e2464eacdd080db59a9098~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/27141b904baf42ebb5d89ec5ee2a52ca~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 RESTRICTED (18 years and older)
 
@@ -170,7 +170,7 @@ For details on how we approach content that contains images of violence but does
 
 More information
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 NOT ALLOWED
 
@@ -179,7 +179,7 @@ NOT ALLOWED
 * Promoting theft, or the destruction of property or the natural environment
 * Providing instructions on how to commit criminal activities that may harm people, animals, or property
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/0ae02df244ba4f7da192f9fdb9e82623~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/6b8159bbed9142c3b4ef31b4abd48c15~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/0ae02df244ba4f7da192f9fdb9e82623~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/6b8159bbed9142c3b4ef31b4abd48c15~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 ALLOWED
 
@@ -219,7 +219,7 @@ More information
 
 In addition, we also provide some protections related to age, and may consider other protected attributes when we have additional context, such as specific regional information provided to us by a local non-governmental organization (NGO). The attributes listed above are informed by the [Universal Declaration of Human Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights) and international conventions.
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 NOT ALLOWED
 
@@ -238,13 +238,13 @@ NOT ALLOWED
 * Content that dehumanizes or denies the existence of people because of their protected attributes, such as saying people have a mental illness if they identify as transgender
 * Deadnaming or misgendering someone by using their former name or gender rather than their chosen identity, or by promoting conversion therapy programs that attempt to change a person's sexual orientation or gender identity
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/5a98ba5ce62b4a9e99151630eb0c3152~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/c87433c6b88044ca8872ae65709ed9c9~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/5a98ba5ce62b4a9e99151630eb0c3152~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/c87433c6b88044ca8872ae65709ed9c9~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 FYF INELIGIBLE
 
 * Some content that uses stereotypes, insinuation, or indirect statements that may implicitly demean protected groups
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/0ae02df244ba4f7da192f9fdb9e82623~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/6b8159bbed9142c3b4ef31b4abd48c15~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/0ae02df244ba4f7da192f9fdb9e82623~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/6b8159bbed9142c3b4ef31b4abd48c15~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 ALLOWED
 
@@ -273,7 +273,7 @@ More information
 
 **Hateful organizations** are groups who target people on the basis of protected attributes, including inciting hate, dehumanizing individuals or groups, and promoting hateful ideologies.
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 NOT ALLOWED
 
@@ -286,7 +286,7 @@ NOT ALLOWED
 * Violent criminal organizations
 * Violent extremists
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/0ae02df244ba4f7da192f9fdb9e82623~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/6b8159bbed9142c3b4ef31b4abd48c15~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/0ae02df244ba4f7da192f9fdb9e82623~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/6b8159bbed9142c3b4ef31b4abd48c15~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 ALLOWED
 
@@ -315,7 +315,7 @@ More information
 
 **Intimate body parts** means genitalia, buttocks, and breasts (including nipple and areola).
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 NOT ALLOWED
 
@@ -331,7 +331,7 @@ NOT ALLOWED
 * Showing or promoting physical abuse, neglect, endangerment, or psychological abuse of young people
 * Revictimizing young people who have experienced abuse or exploitation, including through third party reshares
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/0ae02df244ba4f7da192f9fdb9e82623~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/6b8159bbed9142c3b4ef31b4abd48c15~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/0ae02df244ba4f7da192f9fdb9e82623~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/6b8159bbed9142c3b4ef31b4abd48c15~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 ALLOWED
 
@@ -357,7 +357,7 @@ More information
 
 **Intimate body parts** means genitalia, buttocks, and breasts (including nipple and areola).
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 NOT ALLOWED
 
@@ -367,7 +367,7 @@ NOT ALLOWED
 * Sexual harassment
 * Sextortion
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/0ae02df244ba4f7da192f9fdb9e82623~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/6b8159bbed9142c3b4ef31b4abd48c15~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/0ae02df244ba4f7da192f9fdb9e82623~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/6b8159bbed9142c3b4ef31b4abd48c15~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 ALLOWED
 
@@ -388,14 +388,14 @@ More information
 
 **Human smuggling** involves earning a profit by helping a person to illegally enter another country. It can include providing transportation, consultation, identity, and travel document fraud.
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 NOT ALLOWED
 
 * Facilitating or coordinating human smuggling acts and services
 * Recruiting or coordinating human trafficking acts
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/0ae02df244ba4f7da192f9fdb9e82623~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/6b8159bbed9142c3b4ef31b4abd48c15~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/0ae02df244ba4f7da192f9fdb9e82623~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/6b8159bbed9142c3b4ef31b4abd48c15~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 ALLOWED
 
@@ -422,7 +422,7 @@ More information
 
 **Private figures** are all people under the age of 18, and adults (18 years and older) who are not public figures.
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 NOT ALLOWED
 
@@ -433,7 +433,7 @@ NOT ALLOWED
 * Threatening or inciting others to doxx or blackmail someone, or to share or hack account information
 * Inciting others to harass a person, or promoting coordinated harassment, such as advocating for people to post comments with abusive language, or to maliciously report an account
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/0ae02df244ba4f7da192f9fdb9e82623~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/6b8159bbed9142c3b4ef31b4abd48c15~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/0ae02df244ba4f7da192f9fdb9e82623~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/6b8159bbed9142c3b4ef31b4abd48c15~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 ALLOWED
 
@@ -455,7 +455,7 @@ If you or someone you know has had thoughts of suicide or self-harm, support is 
 
 More information
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 NOT ALLOWED
 
@@ -463,7 +463,7 @@ NOT ALLOWED
 * Showing or promoting suicide or self-harm hoaxes
 * Sharing plans for suicide or self-harm
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/0ae02df244ba4f7da192f9fdb9e82623~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/6b8159bbed9142c3b4ef31b4abd48c15~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/0ae02df244ba4f7da192f9fdb9e82623~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/6b8159bbed9142c3b4ef31b4abd48c15~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 ALLOWED
 
@@ -487,7 +487,7 @@ More information
 
 **Potentially harmful weight management** means diets, medication, or exercise used for rapid or drastic weight loss or muscle gain that may create a long-term health or well-being risk.
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 NOT ALLOWED
 
@@ -501,7 +501,7 @@ NOT ALLOWED
 * Showing or promoting unhealthy body measurement and "body checking" trends, such as comparing body part size to household objects
 * Facilitating the trade or marketing of weight loss or muscle gain products
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/ffdeec0415e2464eacdd080db59a9098~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/27141b904baf42ebb5d89ec5ee2a52ca~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/ffdeec0415e2464eacdd080db59a9098~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/27141b904baf42ebb5d89ec5ee2a52ca~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 RESTRICTED (18 years and older)
 
@@ -515,7 +515,7 @@ RESTRICTED (18 years and older)
 * Promoting body types as ideal or perfect, when associated with potentially harmful weight management behaviors
 * Showing or promoting cosmetic surgery that does not include risk warnings, including before-and-after images, videos of surgical procedures, and messages discussing elective cosmetic surgery
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/5a98ba5ce62b4a9e99151630eb0c3152~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/c87433c6b88044ca8872ae65709ed9c9~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/5a98ba5ce62b4a9e99151630eb0c3152~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/c87433c6b88044ca8872ae65709ed9c9~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 FYF INELIGIBLE
 
@@ -529,7 +529,7 @@ FYF INELIGIBLE
 * Promoting body types as ideal or perfect, when associated with potentially harmful weight management behaviors
 * Showing or promoting cosmetic surgery that does not include risk warnings, including before-and-after images, videos of surgical procedures, and messages discussing elective cosmetic surgery
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/0ae02df244ba4f7da192f9fdb9e82623~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/6b8159bbed9142c3b4ef31b4abd48c15~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/0ae02df244ba4f7da192f9fdb9e82623~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/6b8159bbed9142c3b4ef31b4abd48c15~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 ALLOWED
 
@@ -559,7 +559,7 @@ More information
 
 **Moderate physical harm** is harm that is unlikely to require professional medical treatment and does not pose a risk of disability or disfigurement. This includes small cuts with minimal blood loss and minor bruising on the body.
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 NOT ALLOWED
 
@@ -570,20 +570,20 @@ NOT ALLOWED
 * Eating or drinking substances that are dangerous for humans to consume, such as rocks or detergent
 * Dangerous driving behavior, such as exceeding the speed limit, running a red light, or distracted driving (including live streaming while driving)
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/ffdeec0415e2464eacdd080db59a9098~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/27141b904baf42ebb5d89ec5ee2a52ca~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/ffdeec0415e2464eacdd080db59a9098~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/27141b904baf42ebb5d89ec5ee2a52ca~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 RESTRICTED (18 years and older)
 
 * Showing activity that involves visible or imminent moderate physical harm, or promoting activity that is likely to lead to moderate physical harm
 * Showing activity that is likely to be imitated and may lead to any physical harm
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/5a98ba5ce62b4a9e99151630eb0c3152~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/c87433c6b88044ca8872ae65709ed9c9~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/5a98ba5ce62b4a9e99151630eb0c3152~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/c87433c6b88044ca8872ae65709ed9c9~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 FYF INELIGIBLE
 
 * Showing activity that involves visible or imminent moderate physical harm, or promoting activity that is likely to lead to moderate physical harm
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/0ae02df244ba4f7da192f9fdb9e82623~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/6b8159bbed9142c3b4ef31b4abd48c15~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/0ae02df244ba4f7da192f9fdb9e82623~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/6b8159bbed9142c3b4ef31b4abd48c15~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 ALLOWED
 
@@ -606,7 +606,7 @@ More information
 
 **Sex education** means a broad variety of topics related to sex, sexuality, sexual health, and relationships.
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 NOT ALLOWED
 
@@ -616,7 +616,7 @@ NOT ALLOWED
 * Sexual services, including offering or asking for sexual acts (solicitation), sexual chats, imagery, pornography, member exclusive content, and streaming of adult content through a webcam, such as stripping, nude modeling, and masturbation (sexcamming)
 * Sexual chats, imagery, or pornography
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/0ae02df244ba4f7da192f9fdb9e82623~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/6b8159bbed9142c3b4ef31b4abd48c15~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/0ae02df244ba4f7da192f9fdb9e82623~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/6b8159bbed9142c3b4ef31b4abd48c15~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 ALLOWED
 
@@ -642,20 +642,20 @@ More information
 
 **Significant body exposure** means being clothed but having partially uncovered intimate body parts or only wearing intimate clothing, such as underwear.
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 NOT ALLOWED
 
 * Showing nudity of adults and young people, including photography and digitally created images, such as manga and anime _(learn more about CSAM in [Youth Exploitation](https://www.tiktok.com/community-guidelines/en/safety-civility?lang=en&cgversion=2024H1update#4))_
 * Showing semi-nudity or significant body exposure of young people, such as extremely cropped shirts, or only wearing underwear or lingerie
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/ffdeec0415e2464eacdd080db59a9098~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/27141b904baf42ebb5d89ec5ee2a52ca~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/ffdeec0415e2464eacdd080db59a9098~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/27141b904baf42ebb5d89ec5ee2a52ca~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 RESTRICTED (18 years and older)
 
 * Showing semi-nudity of adults, such as wearing only nipple covers or underwear that does not cover the majority of the buttocks
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/5a98ba5ce62b4a9e99151630eb0c3152~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/c87433c6b88044ca8872ae65709ed9c9~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/5a98ba5ce62b4a9e99151630eb0c3152~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/c87433c6b88044ca8872ae65709ed9c9~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 FYF INELIGIBLE
 
@@ -663,7 +663,7 @@ FYF INELIGIBLE
 * Showing youth in clothing that exposes substantial cleavage, or the clothed outline of certain intimate body parts (genitalia and nipples)
 * Showing infants and toddlers (under the age of 4) with implied nudity or partially exposing their buttocks
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/0ae02df244ba4f7da192f9fdb9e82623~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/6b8159bbed9142c3b4ef31b4abd48c15~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/0ae02df244ba4f7da192f9fdb9e82623~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/6b8159bbed9142c3b4ef31b4abd48c15~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 ALLOWED
 
@@ -699,7 +699,7 @@ More information
 
 **Sex product** means an object or device that is designed to be used for sexual pleasure, such as a sex toy.
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 NOT ALLOWED
 
@@ -710,21 +710,21 @@ NOT ALLOWED
 * Sexualized framing, such as cropping or magnifying an image, adding a digital effect (including a sticker or arrow), or bending over to draw attention to intimate body parts
 * Sexualized behavior, such as repetitive breast or buttocks shaking or pelvic thrusting, striptease, fondling clothed intimate body parts, or licking phallic-shaped objects while making sounds or facial expressions that imply sexual arousal
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/ffdeec0415e2464eacdd080db59a9098~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/27141b904baf42ebb5d89ec5ee2a52ca~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/ffdeec0415e2464eacdd080db59a9098~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/27141b904baf42ebb5d89ec5ee2a52ca~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 RESTRICTED (18 years and older)
 
 * Showing adults engaging in intimate kissing, sexualized framing, or sexualized behavior
 * Showing sex products
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/5a98ba5ce62b4a9e99151630eb0c3152~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/c87433c6b88044ca8872ae65709ed9c9~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/5a98ba5ce62b4a9e99151630eb0c3152~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/c87433c6b88044ca8872ae65709ed9c9~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 FYF INELIGIBLE
 
 * Showing adults engaging in intimate kissing, sexualized framing, or sexualized behavior
 * Showing sex products
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/0ae02df244ba4f7da192f9fdb9e82623~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/6b8159bbed9142c3b4ef31b4abd48c15~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/0ae02df244ba4f7da192f9fdb9e82623~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/6b8159bbed9142c3b4ef31b4abd48c15~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 ALLOWED
 
@@ -743,7 +743,7 @@ To help you manage your TikTok experience, we apply an "opt-in" screen or warnin
 
 More information
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 NOT ALLOWED
 
@@ -753,7 +753,7 @@ NOT ALLOWED
 * Graphic deaths and accidents
 * Dismembered, mutilated, charred, burned, or severely injured bodies
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/ffdeec0415e2464eacdd080db59a9098~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/27141b904baf42ebb5d89ec5ee2a52ca~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/ffdeec0415e2464eacdd080db59a9098~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/27141b904baf42ebb5d89ec5ee2a52ca~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 RESTRICTED (18 years and older)
 
@@ -763,7 +763,7 @@ RESTRICTED (18 years and older)
 * Extreme physical fighting
 * Graphic or potentially distressing footage of events that are in the public interest to view, such as clashes with law enforcement or the aftermath of a bombing or natural disaster
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/ffdeec0415e2464eacdd080db59a9098~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/27141b904baf42ebb5d89ec5ee2a52ca~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/ffdeec0415e2464eacdd080db59a9098~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/27141b904baf42ebb5d89ec5ee2a52ca~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 FYF INELIGIBLE
 
@@ -776,7 +776,7 @@ FYF INELIGIBLE
 * Potentially distressing material that may cause anxiety or fear, such as showing non-severe injuries and accidents, dead animals, jump scare effects, or gory make-up
 * Mildly graphic material that may cause disgust, including human and animal bodily functions and fluids (such as urine or vomit), and close-ups of organs and certain animals (such as insects or rats)
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/0ae02df244ba4f7da192f9fdb9e82623~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/6b8159bbed9142c3b4ef31b4abd48c15~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/0ae02df244ba4f7da192f9fdb9e82623~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/6b8159bbed9142c3b4ef31b4abd48c15~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 ALLOWED
 
@@ -796,7 +796,7 @@ Learn more about [animal abuse](https://www.tiktok.com/safety/animal-welfare/?la
 
 More information
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 NOT ALLOWED
 
@@ -807,7 +807,7 @@ NOT ALLOWED
 * Sexual activity between an animal and a human (bestiality)
 * Facilitating the trade or marketing of all live animals, and any part of an endangered animal, such as products and medicine made from elephant ivory, tiger bones, rhinoceros horns, or sea turtle shells
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/0ae02df244ba4f7da192f9fdb9e82623~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/6b8159bbed9142c3b4ef31b4abd48c15~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/0ae02df244ba4f7da192f9fdb9e82623~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/6b8159bbed9142c3b4ef31b4abd48c15~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 ALLOWED
 
@@ -841,7 +841,7 @@ More information
 
 **Misrepresented authoritative sources** means content that promotes misleading correlations or conclusions related to authoritative information that is recognized and trusted, such as reports from research institutions.
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 NOT ALLOWED
 
@@ -851,7 +851,7 @@ NOT ALLOWED
 * Conspiracy theories that name and attack individual people
 * Conspiracy theories that are violent or hateful, such as making a violent call to action, having links to previous violence, denying well-documented violent events, or causing prejudice towards a group with a protected attribute
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/5a98ba5ce62b4a9e99151630eb0c3152~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/c87433c6b88044ca8872ae65709ed9c9~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/5a98ba5ce62b4a9e99151630eb0c3152~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/c87433c6b88044ca8872ae65709ed9c9~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 FYF INELIGIBLE
 
@@ -862,7 +862,7 @@ FYF INELIGIBLE
 * Unverified claims related to an emergency or unfolding event
 * Potential high-harm misinformation while it is undergoing a fact-checking review
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/0ae02df244ba4f7da192f9fdb9e82623~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/6b8159bbed9142c3b4ef31b4abd48c15~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/0ae02df244ba4f7da192f9fdb9e82623~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/6b8159bbed9142c3b4ef31b4abd48c15~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 ALLOWED
 
@@ -886,7 +886,7 @@ More information
 
 **Misinformation** means false or misleading content.
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 NOT ALLOWED
 
@@ -900,7 +900,7 @@ NOT ALLOWED
 * Promoting or providing instruction on illegal participation and electoral interference, including intimidation of voters, election workers, and electoral observers
 * Calling for the disruption of a legitimate outcome of an election outside of the legal system, such as through a coup
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/5a98ba5ce62b4a9e99151630eb0c3152~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/c87433c6b88044ca8872ae65709ed9c9~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/5a98ba5ce62b4a9e99151630eb0c3152~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/c87433c6b88044ca8872ae65709ed9c9~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 FYF INELIGIBLE
 
@@ -933,14 +933,14 @@ More information
 
 **Private figures** are all people under the age of 18, and adults (18 years and older) who are not public figures.
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/bf1e1ae007f944e7885b59046c9e216d~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/ba1c4416b49549b59232f87d2da00bda~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/bf1e1ae007f944e7885b59046c9e216d~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/ba1c4416b49549b59232f87d2da00bda~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 REQUIRED DISCLOSURE (using the [AIGC label](https://support.tiktok.com/en/using-tiktok/creating-videos/ai-generated-content) or a clear caption, watermark, or sticker)
 
 * Content that is either completely generated or significantly edited by AI and contains realistic-appearing scenes or people
 * A disclosure is not required if it involves edits that do not change the core meaning of the content, such as minor retouching, changing background objects, or using TikTok Effects or filters
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 NOT ALLOWED
 
@@ -956,7 +956,7 @@ NOT ALLOWED
 * taking a position on a political issue, commercial product, or a matter of public importance (such as an elections)
 * being politically endorsed or condemned by an individual or group
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/0ae02df244ba4f7da192f9fdb9e82623~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/6b8159bbed9142c3b4ef31b4abd48c15~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/0ae02df244ba4f7da192f9fdb9e82623~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/6b8159bbed9142c3b4ef31b4abd48c15~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 ALLOWED
 
@@ -973,14 +973,14 @@ Content is ineligible for the FYF if it seeks to trick or manipulate others to i
 
 More information
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 NOT ALLOWED
 
 * Facilitating the trade or marketing of services that artificially increase engagement, such as selling followers or likes
 * Providing instructions on how to artificially increase engagement on TikTok
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/5a98ba5ce62b4a9e99151630eb0c3152~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/c87433c6b88044ca8872ae65709ed9c9~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/5a98ba5ce62b4a9e99151630eb0c3152~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/c87433c6b88044ca8872ae65709ed9c9~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 FYF INELIGIBLE
 
@@ -1004,13 +1004,13 @@ More information
 
 **Trademarks** are words, symbols, slogans, designs, or a combination of these that identifies the source of a product or service and distinguishes it from other products or services.
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 NOT ALLOWED
 
 * Content that violates someone else's copyrights, trademarks, or other intellectual property rights
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/5a98ba5ce62b4a9e99151630eb0c3152~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/c87433c6b88044ca8872ae65709ed9c9~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/5a98ba5ce62b4a9e99151630eb0c3152~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/c87433c6b88044ca8872ae65709ed9c9~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 FYF INELIGIBLE
 
@@ -1033,13 +1033,13 @@ More information
 
 **Covert influence operations** (CIO) are coordinated, inauthentic behaviors where networks of accounts work together to mislead people or our systems and try to strategically influence public discussion. This may include attempting to undermine the results of an election, influencing parts of an armed conflict, or shaping public discussion of social issues. Learn more about [covert influence operations](https://www.tiktok.com/transparency/countering-influence-operations/?lang=en).
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/bf1e1ae007f944e7885b59046c9e216d~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/ba1c4416b49549b59232f87d2da00bda~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/bf1e1ae007f944e7885b59046c9e216d~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/ba1c4416b49549b59232f87d2da00bda~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 REQUIRED DISCLOSURE (in the account name)
 
 * Parody or fan-based accounts must be clearly disclosed in the _account_ name (note that this is different than the @username)
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 NOT ALLOWED
 
@@ -1093,26 +1093,26 @@ More information
 
 **Gambling-like activities** means activities that do not rise to the level of gambling, but are similar in behavior and carry similar risks, such as social casinos and gambling-related software.
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 NOT ALLOWED
 
 * Facilitating gambling or gambling-like activities, such as providing a link to a gambling service
 * Marketing of gambling or gambling-like activities, such as encouraging people to visit a website or providing a link
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/ffdeec0415e2464eacdd080db59a9098~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/27141b904baf42ebb5d89ec5ee2a52ca~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/ffdeec0415e2464eacdd080db59a9098~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/27141b904baf42ebb5d89ec5ee2a52ca~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 RESTRICTED (18 years and older)
 
 * Showing or glamorizing gambling or gambling-like activities, such as filming someone gambling or making any general positive statements about gambling
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/5a98ba5ce62b4a9e99151630eb0c3152~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/c87433c6b88044ca8872ae65709ed9c9~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/5a98ba5ce62b4a9e99151630eb0c3152~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/c87433c6b88044ca8872ae65709ed9c9~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 FYF INELIGIBLE
 
 * Showing or glamorizing gambling or gambling-like activities, such as filming someone gambling or making any general positive statements about gambling
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/0ae02df244ba4f7da192f9fdb9e82623~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/6b8159bbed9142c3b4ef31b4abd48c15~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/0ae02df244ba4f7da192f9fdb9e82623~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/6b8159bbed9142c3b4ef31b4abd48c15~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 ALLOWED
 
@@ -1136,7 +1136,7 @@ More information
 
 **Regulated substances** include prescription drugs, over-the-counter drugs, compressed air canisters (whippets), and nitrite poppers.
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 NOT ALLOWED
 
@@ -1147,7 +1147,7 @@ NOT ALLOWED
 * Showing young people possessing or using alcohol, tobacco products, drugs, or other regulated substances
 * Showing the misuse of common household items or over-the-counter products to get intoxicated, such as antihistamines, nutmeg, nitrous oxide canisters, or sniffing glue
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/ffdeec0415e2464eacdd080db59a9098~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/27141b904baf42ebb5d89ec5ee2a52ca~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/ffdeec0415e2464eacdd080db59a9098~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/27141b904baf42ebb5d89ec5ee2a52ca~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 RESTRICTED (18 years and older)
 
@@ -1157,7 +1157,7 @@ RESTRICTED (18 years and older)
 * Showing the consumption of tobacco products by adults
 * Promoting alcohol products
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/5a98ba5ce62b4a9e99151630eb0c3152~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/c87433c6b88044ca8872ae65709ed9c9~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/5a98ba5ce62b4a9e99151630eb0c3152~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/c87433c6b88044ca8872ae65709ed9c9~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 FYF INELIGIBLE
 
@@ -1165,7 +1165,7 @@ FYF INELIGIBLE
 * Showing the consumption of excessive amounts of alcohol by adults
 * Promoting tobacco products
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/0ae02df244ba4f7da192f9fdb9e82623~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/6b8159bbed9142c3b4ef31b4abd48c15~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/0ae02df244ba4f7da192f9fdb9e82623~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/6b8159bbed9142c3b4ef31b4abd48c15~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 ALLOWED
 
@@ -1184,7 +1184,7 @@ More information
 
 **Safe or appropriate settings** include professional contexts (such as military and police), recreational environments (such as shooting ranges and hunting), educational contexts, and fictional settings.
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 NOT ALLOWED
 
@@ -1208,7 +1208,7 @@ More information
 
 **Firearms** include professionally manufactured firearms, improvised firearms (such as ghost guns or 3D printed guns), firearm accessories, and ammunition.
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 NOT ALLOWED
 
@@ -1241,7 +1241,7 @@ More information
 
 **Payment or other incentive** may refer to cash payments, free products, store credit, discounts, and special access to products, services, or events.
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/bf1e1ae007f944e7885b59046c9e216d~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/ba1c4416b49549b59232f87d2da00bda~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/bf1e1ae007f944e7885b59046c9e216d~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/ba1c4416b49549b59232f87d2da00bda~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 REQUIRED DISCLOSURE (using the [content disclosure setting](https://support.tiktok.com/en/business-and-creator/creator-and-business-accounts/promoting-a-brand-product-or-service))
 
@@ -1249,7 +1249,7 @@ REQUIRED DISCLOSURE (using the [content disclosure setting](https://support.tikt
 * Content marketing a third party brand or its business, product, or service in exchange for payment or any other incentive
 * Other material relationships, such as research about a product, service, or industry when you have a relationship or connection with a company or industry involved in the manufacture or sale of that product or service, by making a clear disclosure in a caption, watermark, or sticker
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/5a98ba5ce62b4a9e99151630eb0c3152~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/c87433c6b88044ca8872ae65709ed9c9~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/5a98ba5ce62b4a9e99151630eb0c3152~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/c87433c6b88044ca8872ae65709ed9c9~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 FYF INELIGIBLE
 
@@ -1267,7 +1267,7 @@ More information
 
 **Frauds and scams** are deceitful and deceptive acts that often exploit others for financial gain or to obtain an individual’s personal information.
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 NOT ALLOWED
 
@@ -1290,7 +1290,7 @@ If you believe you have experienced a privacy violation, you can [report it](htt
 
 More information
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 NOT ALLOWED
 
@@ -1310,7 +1310,7 @@ You should avoid clicking on suspicious links or responding to requests for info
 
 More information
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 NOT ALLOWED
 
@@ -1335,7 +1335,7 @@ Content that is ineligible for the FYF can still be discovered in other ways, su
 
 Throughout our guidelines, you will see eligibility standards for the FYF. Here is a consolidated "quick guide" of content that is ineligible for the FYF.
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/5a98ba5ce62b4a9e99151630eb0c3152~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/c87433c6b88044ca8872ae65709ed9c9~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/5a98ba5ce62b4a9e99151630eb0c3152~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/c87433c6b88044ca8872ae65709ed9c9~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 FYF INELIGIBLE
 
@@ -1519,7 +1519,7 @@ In a [multi-guest LIVE](https://support.tiktok.com/en/live-gifts-wallet/tiktok-l
 
 More information
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 NOT ALLOWED
 
@@ -1527,7 +1527,7 @@ NOT ALLOWED
 * LIVE content from an account holder under the age of 18
 * LIVE gifts sent from an account holder under the age of 18
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/5a98ba5ce62b4a9e99151630eb0c3152~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/c87433c6b88044ca8872ae65709ed9c9~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/5a98ba5ce62b4a9e99151630eb0c3152~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/c87433c6b88044ca8872ae65709ed9c9~tplv-m3rm1y8daf-default:0:0:q75.image)
 
 FYF INELIGIBLE
 
