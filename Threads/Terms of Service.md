@@ -19,7 +19,7 @@ Registered in Ireland (Companies Registration Office)
 
 File Number: 462932
 
-To contact us by email: ![](https://static.xx.fbcdn.net/assets/?revision=1268000284619235&name=impressum&density=1) 
+To contact us by email: ![](https://static.xx.fbcdn.net/assets/?revision=1579266012977092&name=impressum&density=1) 
 
 For details on how the Threads Service is funded, please see How Our Service is Funded in the [Instagram Terms of Use](https://help.instagram.com/581066165581870?helpref=faq_content).
 
@@ -110,26 +110,26 @@ Related Articles
 
 [About Threads](https://help.instagram.com/788669719351544/?helpref=related_articles)
 
-[Threads Policies and Terms](https://help.instagram.com/280495901606863/?helpref=related_articles)
-
 [About using Threads with or without a profile](https://help.instagram.com/1666837803804595/?helpref=related_articles)
 
-[Your Threads settings](https://help.instagram.com/313609505054371/?helpref=related_articles)
+[When Threads blocks communication with other servers on the fediverse](https://help.instagram.com/914046486923176/?helpref=related_articles)
 
-[Your Threads profile](https://help.instagram.com/179980294969821/?helpref=related_articles)
+[Points of support and contact on Threads](https://help.instagram.com/421572036923453/?helpref=related_articles)
 
-[About Threads and the fediverse](https://help.instagram.com/169559812696339/?helpref=related_articles)
+[Start a new thread on Threads](https://help.instagram.com/1217144552251333/?helpref=related_articles)
+
+[Change your language settings on Threads](https://help.instagram.com/601739652100106/?helpref=related_articles)
 
 Related Articles
 
 [About Threads](https://help.instagram.com/788669719351544/?helpref=related_articles)
 
-[Threads Policies and Terms](https://help.instagram.com/280495901606863/?helpref=related_articles)
-
 [About using Threads with or without a profile](https://help.instagram.com/1666837803804595/?helpref=related_articles)
 
-[Your Threads settings](https://help.instagram.com/313609505054371/?helpref=related_articles)
+[When Threads blocks communication with other servers on the fediverse](https://help.instagram.com/914046486923176/?helpref=related_articles)
 
-[Your Threads profile](https://help.instagram.com/179980294969821/?helpref=related_articles)
+[Points of support and contact on Threads](https://help.instagram.com/421572036923453/?helpref=related_articles)
 
-[About Threads and the fediverse](https://help.instagram.com/169559812696339/?helpref=related_articles)
+[Start a new thread on Threads](https://help.instagram.com/1217144552251333/?helpref=related_articles)
+
+[Change your language settings on Threads](https://help.instagram.com/601739652100106/?helpref=related_articles)
