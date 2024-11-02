@@ -122,26 +122,26 @@ Related Articles
 
 [About Threads](https://help.instagram.com/788669719351544/?helpref=related_articles)
 
-[About using Threads with or without a profile](https://help.instagram.com/1666837803804595/?helpref=related_articles)
+[Your Threads settings](https://help.instagram.com/313609505054371/?helpref=related_articles)
+
+[Threads Policies and Terms](https://help.instagram.com/280495901606863/?helpref=related_articles)
 
 [About Threads and the fediverse](https://help.instagram.com/169559812696339/?helpref=related_articles)
 
-[Manage the privacy settings for apps and websites that you’ve logged into or connected on Threads](https://help.instagram.com/342170118538764/?helpref=related_articles)
+[Post on Threads](https://help.instagram.com/391254440276136/?helpref=related_articles)
 
-[Switch your Threads profile to public or private](https://help.instagram.com/225222310104065/?helpref=related_articles)
-
-[Delete a post on Threads](https://help.instagram.com/1423683481505721/?helpref=related_articles)
+[Explore on Threads](https://help.instagram.com/703177488561974/?helpref=related_articles)
 
 Related Articles
 
 [About Threads](https://help.instagram.com/788669719351544/?helpref=related_articles)
 
-[About using Threads with or without a profile](https://help.instagram.com/1666837803804595/?helpref=related_articles)
+[Your Threads settings](https://help.instagram.com/313609505054371/?helpref=related_articles)
+
+[Threads Policies and Terms](https://help.instagram.com/280495901606863/?helpref=related_articles)
 
 [About Threads and the fediverse](https://help.instagram.com/169559812696339/?helpref=related_articles)
 
-[Manage the privacy settings for apps and websites that you’ve logged into or connected on Threads](https://help.instagram.com/342170118538764/?helpref=related_articles)
+[Post on Threads](https://help.instagram.com/391254440276136/?helpref=related_articles)
 
-[Switch your Threads profile to public or private](https://help.instagram.com/225222310104065/?helpref=related_articles)
-
-[Delete a post on Threads](https://help.instagram.com/1423683481505721/?helpref=related_articles)
+[Explore on Threads](https://help.instagram.com/703177488561974/?helpref=related_articles)
