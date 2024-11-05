@@ -204,12 +204,12 @@ Receipt of correspondence by this means does not waive any objections, including
 Our address details are:
 
 **X Corp.  
-**c/o Trust & Safety - Legal Policy  
-1355 Market Street, Suite 900  
-San Francisco, CA 94103
+**Attn: Safety - Legal Policy  
+865 FM 1209 Bldg. 2  
+Bastrop, TX 78602
 
 **Twitter International Unlimited Company  
-**c/o Trust & Safety - Legal Policy  
+**Attn: Safety - Legal Policy  
 One Cumberland Place  
 Fenian Street  
 Dublin 2  
