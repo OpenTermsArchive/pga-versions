@@ -269,22 +269,22 @@ What this policy means for you
 
 #### If you're posting content
 
-Don’t post links in your content on YouTube if they direct users to content that violates our Community Guidelines. This policy includes links that fit any of the descriptions noted below. Please note this is not a complete list.
+Don’t post links in your content on YouTube if they direct users to content that violates our Community Guidelines. This policy includes links that fit any of the descriptions noted below. Please note this is not a complete list.
 
 * Links to pornography
-* Links to websites or apps that install malware
-* Links to websites or apps phishing for a user’s sign in info, financial info, etc.
+* Links to websites or apps that install malware or [unwanted software](https://www.google.com/about/unwanted-software-policy.html)
+* Links to websites or apps phishing for a user’s sign in info, financial info, etc.
 * Links to websites, apps, or other sources that give unauthorized access to audio content, audiovisual content, video games, software, or streaming services that normally require payment
 * Links to websites that seek to raise funds or recruit for terrorist organizations
 * Links to sites containing Child Sexual Abuse Imagery (CSAI)
 * Links to sites selling items noted in our [regulated goods guidelines](https://support.google.com/youtube/answer/9229611)
 * Links to content that would violate our hate or harassment policies
 * Links to content encouraging others to commit violent acts
-* Links to content ​​that spread medical misinformation contradicting local health authorities’ (LHA) or the World Health Organization’s (WHO) medical info about COVID-19
+* Links to content ​​that spread medical misinformation contradicting local health authorities’ (LHA) or the World Health Organization’s (WHO) medical info about COVID-19
 * Links to websites or apps that spread misleading or deceptive content that can cause serious risk of egregious harm, such as interfering with democratic processes
 * Links to external sites that contain manifestos of violent attackers
 
-This policy applies to video, audio, channel, comments, pinned comments, live streams, and any other YouTube product or feature. Links can take any form that would direct a user to a site off YouTube. These links include: clickable urls, showing text of urls in videos or images, and obfuscated urls (such as writing “dot com” instead of “.com”). These links can also include verbally directing users to other sites, encouraging viewers to visit creator profiles or pages on other sites, or promising violative content on other sites. This list is not complete.
+This policy applies to video, audio, channel, comments, pinned comments, live streams, and any other YouTube product or feature. Links can take any form that would direct a user to a site off YouTube. These links include: clickable URLs, showing text of URLs in videos or images, and obfuscated URLs (such as writing “dot com” instead of “.com”). These links can also include verbally directing users to other sites, encouraging viewers to visit creator profiles or pages on other sites, or promising violative content on other sites. This list is not complete.
 
 **Note:** Affiliate content doesn't violate YouTube’s Terms of Use. Excessively posting affiliate content in dedicated accounts may violate our policies around spam. You can learn more about what's allowed in our [Spam, deceptive practices & scams policies](https://support.google.com/youtube/answer/2801973).
 
@@ -297,9 +297,9 @@ Here are some examples of content that’s not allowed on YouTube.
 * A gameplay video description contains a link promising in-game currency or online store credit but links to a site that infects the user’s computer with malware.
 * Posting a link to a phishing site that steals users’ banking info and passwords.
 * Instructing viewers to copy and paste an unclickable link in the video that takes them to a pornographic or spammy site.
-* Any link leading users to a website, file hosting service, or other source that allows them to access or download child sexual abuse imagery.
+* Any link leading users to a website, file hosting service, or other source that allows them to access or download child sexual abuse imagery.
 * Verbally directing viewers to a website to find a profile or page on another platform so they can watch content that violates YouTube’s Community Guidelines.
-* Embedding a url in a video of a site that would mislead voters about the time, place, means, or eligibility requirements for voting.
+* Embedding a URL in a video of a site that would mislead voters about the time, place, means, or eligibility requirements for voting.
 * A link to an article claiming that COVID-19 vaccines are part of a depopulation agenda.
 
 Remember that this list is not complete. If you think content might violate this policy, don’t post it.
