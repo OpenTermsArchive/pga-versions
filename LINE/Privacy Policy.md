@@ -42,7 +42,7 @@ In connection with the application of this Policy, we are the controller of the 
 
 We will process Personal Data to the extent permitted by the Applicable Laws according to this Policy.
 
-While we may provide various translations of this Policy as a reference, to the extent permitted by Applicable Laws, the [Japanese version](https://www.lycorp.co.jp/ja/company/privacypolicy/) applies to users using our Services in Japan, the [Korean version](https://www.lycorp.co.jp/ko/company/privacypolicy/) applies to users using our Services in Korea, and the [English version](https://www.lycorp.co.jp/en/company/privacypolicy/) applies to users using our Services in other countries or regions
+While we may provide various translations of this Policy as a reference, to the extent permitted by Applicable Laws, the [Japanese version](https://www.lycorp.co.jp/ja/company/privacypolicy/) applies to users using our Services in Japan, the [Korean version](https://www.lycorp.co.jp/ko/company/privacypolicy/) applies to users using our Services in Korea, and the [English version](https://www.lycorp.co.jp/en/company/privacypolicy/) applies to users using our Services in other countries or regions.
 
 ### 3.Personal Data to be collected
 
@@ -142,8 +142,7 @@ If the collected public information contains Personal Data, we may use such info
 
 ### 4.Purpose of use of Personal Data
 
-We will use the collected Personal Data (including Personal Data collected from when you use our Services and all Personal Data collected from third parties) for the following  
-purposes:
+We will use the collected Personal Data (including Personal Data collected from when you use our Services and all Personal Data collected from third parties) for the following purposes:
 
 * Provision and maintenance of our Services;
 * Development and improvement of our Services;
@@ -275,7 +274,7 @@ We may subcontract certain services required for providing our Services (e.g.: b
 The subcontractor will access the Personal Data only to the minimum extent required for performing the subcontracted services on our behalf, and will not use the Personal Data beyond the scope of the subcontracted services.  
 We will: (i) comply with Applicable Laws and investigate the qualification as a subcontractor; (ii) take measures to have the subcontractor comply with the policies related to the protection of personal information where the subcontractor is located by ways such as prescribing matters related to confidentiality in the contract with the subcontractor; and (iii) thereby establish a system for properly managing Personal Data.
 
-Countries and regions to which Personal Data is transferred: Japan, the United States, Korea, Ireland, Canada, the Philippines, Australia, Vietnam, Thailand, Taiwan, Indonesia, Singapore, the Netherlands, and Germany.
+Countries and regions to which Personal Data is transferred: Japan, the United States, Korea, Ireland, Canada, the Philippines, Australia, Vietnam, Thailand, Taiwan, Indonesia, Singapore, the Netherlands, Germany and Switzerland.
 
 #### 5.c.Sharing of Personal Data among group companies
 
@@ -452,9 +451,9 @@ When we make any material changes to this Policy, we will notify you through rea
 
 The Services are intended for a general audience. If a minor is to use our Services and provides Personal Data, the minor must do so with the consent of his/her guardian. You represent and warrant that you have the right capacity and legal capacity required for using our Services. If you are a minor, you represent and warrant that you are using our Services with the consent of your guardian. We have voluntarily imposed age restrictions on certain Services in cases where we are unable to confirm that you are of a certain age.
 
-We understand the special necessity to protect the Personal Data collected from minors in the the United States, Europe, or Thailand (under the age of 13 in the the United States, under the age of 16 in Europe, and under the age of 11 in Thailand) using our Services, and we do not knowingly collect any Personal Data from minors.  
-  
-If, however, you believe that we have collected Personal Data from minors of the aforementioned countries or regions, then please let us know via the [Contact Form](https://contact-cc.line.me/) or by writing to the address indicated below. If we learn that we have inadvertently collected Personal Data from minors of the aforementioned countries or regions, we will deactivate the relevant account(s) and will take reasonable measures to promptly delete such Personal Data from our records.
+We understand the special necessity to protect the Personal Data collected from minors in the United States., Europe, Thailand or Indonesia (under the age of 13 in the United States., under the age of 16 in Europe, under the age of 11 in Thailand, and under the age of 18 in Indonesia) using our Services, and we do not knowingly collect any Personal Data from minors.
+
+If, however, you believe that we have collected Personal Data from minors of the aforementioned countries or regions, then please let us know via the [Contact Form](https://contact-cc.line.me/) or by writing to the address indicated below. If we learn that we have inadvertently collected Personal Data from minors of the aforementioned countries or regions, we will deactivate the relevant account(s) and will take reasonable measures to promptly delete such Personal Data from our records.
 
 #### 9.b.Inquiries
 
@@ -505,7 +504,8 @@ If you do not agree to any of the changes and you no longer wish to use our Serv
 LY Corporation  
 CEO and President - Takeshi Idezawa
 
-Formulated on October 1, 2023
+Formulated on October 1, 2023  
+Date of last update: November 12, 2024
 
 ### 10.Reference
 
