@@ -33,8 +33,8 @@ To contact us by email:
   
   
 
-**The Instagram Service**
--------------------------
+**The Instagram Service**#
+--------------------------
 
 We agree to provide you with the Instagram Service. The Service includes all of the Instagram products, features, applications, services, technologies, and software that we provide to advance Instagram's mission: To bring you closer to the people and things you love. The Service is made up of the following aspects:
 
@@ -59,8 +59,8 @@ We agree to provide you with the Instagram Service. The Service includes all of 
 
   
 
-**How Our Service Is Funded**
------------------------------
+**How Our Service Is Funded**#
+------------------------------
 
 You can choose to use the Service for free with ads or to subscribe to use without ads:
 
@@ -77,15 +77,15 @@ You can learn about how we collect and use your information in our Privacy Polic
 
   
 
-**The Privacy Policy**
-----------------------
+**The Privacy Policy**#
+-----------------------
 
 Providing our Service requires collecting and using your information. The Privacy Policy explains how we collect, use, and share information across the Meta Products. It also explains the many ways you can control your information, including in the Instagram Privacy and Security Settings.
 
   
 
-**Your Commitments**
---------------------
+**Your Commitments**#
+---------------------
 
 In return for our commitment to provide the Service, we require you to make the below commitments to us.
 
@@ -124,8 +124,8 @@ In return for our commitment to provide the Service, we require you to make the 
 
   
 
-**Additional Rights We Retain**
--------------------------------
+**Additional Rights We Retain**#
+--------------------------------
 
 * If you select a username or similar identifier for your account, we may change it if we believe it is appropriate or necessary (for example, if it infringes someone's intellectual property or impersonates another user).
 * If you use content covered by intellectual property rights that we have and make available in our Service (for example, images, designs, videos, or sounds we provide that you add to content you create or share), we retain all rights to our content (but not yours).
@@ -134,8 +134,8 @@ In return for our commitment to provide the Service, we require you to make the 
 
   
 
-**Content Removal and Disabling or Terminating Your Account**
--------------------------------------------------------------
+**Content Removal and Disabling or Terminating Your Account**#
+--------------------------------------------------------------
 
 * We can remove or restrict any content you share on the Service if it violates these Terms of Use or our policies, (including our Instagram Community Guidelines), or we are required to do so by law. When we remove or restrict content, we’ll let you know without delay about this and the reason for it and explain any options you have to request another review. If you request a review, you will be notified as to whether we will uphold the decision or restore or unrestrict the content or information.
     
@@ -162,8 +162,8 @@ In return for our commitment to provide the Service, we require you to make the 
 
   
 
-**Our Agreement and What Happens if We Disagree**
--------------------------------------------------
+**Our Agreement and What Happens if We Disagree**#
+--------------------------------------------------
 
 **Our Agreement.**
 
@@ -195,8 +195,8 @@ We always appreciate feedback or other suggestions, but may use them without any
 
   
 
-**Updating These Terms**
-------------------------
+**Updating These Terms**#
+-------------------------
 
 We may change our Service and policies, and we may need to make changes to these Terms so that they accurately reflect our Service and policies. We will only make changes if the provisions are not appropriate anymore or if they are incomplete, and only if the changes are reasonable for you in consideration to your interests. Unless otherwise required by law, we will notify you of the changes and choices you have (for example, through our Service) at least 30 days before we update the Terms, and we will give you an opportunity to review them before they go into effect. Then, if you continue to use the Service, you will be bound by the updated Terms. If you do not want to agree to these or any updated Terms, you can delete your account, here.  
 
