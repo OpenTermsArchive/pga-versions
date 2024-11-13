@@ -52,7 +52,7 @@ Periscope retains different types of information for different time periods. Bro
 ### Data Controller  
 
   
-For people who live in the United States or any other country outside of the European Union or the European Economic Area, the data controller responsible for personal data is X Corp. based in San Francisco, California. For people who live in the European Union or the European Economic Area, the data controller is Twitter International Unlimited Company based in Dublin, Ireland.
+For people who live in the United States or any other country outside of the European Union or the European Economic Area, the data controller responsible for personal data is X Corp. based in Bastrop, Texas. For people who live in the European Union or the European Economic Area, the data controller is Twitter International Unlimited Company based in Dublin, Ireland.
 
 ### Preservation requests
 
@@ -76,7 +76,7 @@ Law enforcement and government preservation requests for user information may be
 ### Requests for X account information  
 
   
-Requests for user account information from law enforcement should be directed to X Corp. in San Francisco, California or Twitter International Unlimited Company in Dublin, Ireland. X responds to valid legal process issued in compliance with applicable law.
+Requests for user account information from law enforcement should be directed to X Corp. in Bastrop, Texas or Twitter International Unlimited Company in Dublin, Ireland. X responds to valid legal process issued in compliance with applicable law.
 
 ### **Private information requires a subpoena or court order**  
 
