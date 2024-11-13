@@ -1,17 +1,13 @@
-Facebook Community Standards
-============================
+Community Standards
+===================
 
-The Facebook Community Standards outline what is and isn't allowed on Facebook.
-
-###### NOTE
-
-On November 12, 2024 this page will become the central place to see our Community Standards. Our standards apply across Facebook, Messenger, Instagram and Threads and they will not be changing. We’re simply bringing them together in one place to make them easier to find.
+The Community Standards outline what is and isn't allowed on Facebook, Instagram, Messenger and Threads.
 
 ### Introduction
 
-Every day, people use Facebook to share their experiences, connect with friends and family, and build communities. It’s a service for more than 2 billion people to freely express themselves across countries and cultures and in dozens of languages.
+Every day, people use Facebook, Instagram, Messenger and Threads to share their experiences, connect with friends and family, and build communities. Our services enable billions of people to freely express themselves across countries and cultures and in dozens of languages.
 
-Meta recognizes how important it is for Facebook to be a place where people feel empowered to communicate, and we take our role seriously in keeping abuse off the service. That’s why we developed standards for what is and isn’t allowed on Facebook.
+Meta recognizes how important it is for Facebook, Instagram, Messenger and Threads to be places where people feel empowered to communicate, and we take our role seriously in keeping abuse off the service. That’s why we developed standards for what is and isn’t allowed on these services.
 
 These standards are based on feedback from people and the advice of experts in fields like technology, public safety and human rights. To ensure everyone’s voice is valued, we take great care to create standards that include different views and beliefs, especially from people and communities that might otherwise be overlooked or marginalized.
 
@@ -21,24 +17,24 @@ These standards are based on feedback from people and the advice of experts in f
 
 ### Our commitment to voice
 
-The goal of our Community Standards is to create a place for expression and give people a voice. Meta wants people to be able to talk openly about the issues that matter to them, whether through written comments, photos, music, or other artistic mediums, even if some may disagree or find them objectionable. In some cases, we allow content—which would otherwise go against our standards—if it’s [newsworthy](https://transparency.fb.com/features/approach-to-newsworthy-content/) and in the public interest. We do this only after weighing the public interest value against the risk of harm, and we look to international human rights standards to make these judgments. In other cases, we may remove content that uses ambiguous or implicit language when additional context allows us to reasonably understand that the content goes against our standards.
+The goal of our Community Standards is to create a place for expression and give people a voice. Meta wants people to be able to talk openly about the issues that matter to them, whether through written comments, photos, music, or other artistic mediums, even if some may disagree or find them objectionable. In some cases, we allow content—which would otherwise go against our standards—if it’s [newsworthy](https://transparency.meta.com/features/approach-to-newsworthy-content) and in the public interest. We do this only after weighing the public interest value against the risk of harm, and we look to international human rights standards to make these judgments. In other cases, we may remove content that uses ambiguous or implicit language when additional context allows us to reasonably understand that the content goes against our standards.
 
 Our commitment to expression is paramount, but we recognize the internet creates new and increased opportunities for abuse. For these reasons, when we limit expression, we do it in service of one or more of the following values:
 
 AUTHENTICITY
 ------------
 
-We want to make sure the content people see on Facebook is authentic. We believe that authenticity creates a better environment for sharing, and that’s why we don’t want people using Facebook to misrepresent who they are or what they’re doing.
+We want to make sure the content people see is authentic. We believe that authenticity creates a better environment for sharing, and that’s why we don’t want people using our services to misrepresent who they are or what they’re doing.
 
 SAFETY
 ------
 
-We’re committed to making Facebook a safe place. We remove content that could contribute to a risk of harm to the physical security of persons. Content that threatens people has the potential to intimidate, exclude or silence others and isn’t allowed on Facebook.
+We’re committed to making Facebook, Instagram, Messenger and Threads safe places. We remove content that could contribute to a risk of harm to the physical security of persons. Content that threatens people has the potential to intimidate, exclude or silence others and isn’t allowed on our services.
 
 PRIVACY
 -------
 
-We’re committed to protecting personal privacy and information. Privacy gives people the freedom to be themselves, choose how and when to share on Facebook and connect more easily.
+We’re committed to protecting personal privacy and information. Privacy gives people the freedom to be themselves, choose how and when to share on our services and connect more easily.
 
 DIGNITY
 -------
