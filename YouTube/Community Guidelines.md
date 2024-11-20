@@ -1696,11 +1696,12 @@ Don't post content on YouTube if it aims to directly sell, link to, or facilitat
 * Unlicensed medical services
 * Human smuggling
 
-Note: If you're providing links or contact information such as phone numbers, emails, or other means of contact where hard drugs can be purchased, or where pharmaceuticals can be purchased without a prescription, your channel may be terminated. See examples below. 
+Note: If you're providing links or contact information such as phone numbers, emails, or other means of contact where hard drugs or certain poisonous substances can be purchased, or where pharmaceuticals can be purchased without a prescription, your channel may be terminated. See examples below. 
 
 Additionally, the following content isn’t allowed on YouTube:
 
 * **Hard drug use or creation**: Hard drug use or creation, selling or facilitating the sale of hard or soft drugs, facilitating the sale of regulated pharmaceuticals without a prescription, or showing how to use steroids in non-educational content. 
+* **Poison sale or creation:** Facilitating the sale, giveaway, creation or modification of certain poisons or poisonous substances.
 * **Instructional cheating**: Content which provides instructions for academic cheating.
 
 This policy applies to videos, video descriptions, comments, live streams, and any other YouTube product or feature. Keep in mind that this isn't a complete list. Please note these policies also apply to [external links](https://support.google.com/youtube/answer/9054257) in your content. This can include clickable URLs, verbally directing users to other sites in video, as well as other forms. 
@@ -1742,8 +1743,13 @@ Keep in mind that this isn’t a complete list. 
     * Opium
     * PCP
     * Psilocybin & Psilocybe (magic mushrooms)
+* Sale of certain poisonous substances. Some examples include (note that this is not a complete list, and these substances may also be known under different names):
+    * Cyanide
+    * Chloroform
+    * Mercury
+* Instructions to make certain poisonous substances: Non-educational content that explains how to make poisonous substances.
 
-Note: If you're providing links or contact information such as phone numbers, emails, or other means of contact where hard drugs can be purchased, or where pharmaceuticals can be purchased without a prescription, your channel may be terminated.
+Note: If you're providing links or contact information such as phone numbers, emails, or other means of contact where hard drugs or poisonous substances can be purchased, or where pharmaceuticals can be purchased without a prescription, your channel may be terminated.
 
 Please remember these are just some examples, and don't post content if you think it might violate this policy.
 
