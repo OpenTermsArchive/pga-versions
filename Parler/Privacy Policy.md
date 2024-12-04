@@ -1,7 +1,7 @@
 Privacy Policy
---------------
+==============
 
-##### April 10, 2024
+April 10, 2024  
 
 PDS Partners, LLC and its affiliates (“Company,” “Parler” “we,” “our,” and/or “us”) value the privacy of individuals who use our social news applications, the websites where this Privacy Policy is posted ( “Websites”) , and related services (collectively, our “Services”). This privacy policy (the “Privacy Policy”) explains how we collect, use, and share information from our users (“Users,” “you,” and/or “your”) to facilitate your commenting, social news, and influencer networking experience. By using our Services, you agree to the collection, use, disclosure, and procedures this Privacy Policy describes. Beyond the Privacy Policy, your use of our Services is also subject to our [Terms of Service](https://parler.com/terms-of-service/).
 
@@ -125,20 +125,35 @@ We will post any adjustments to the Privacy Policy on this page, and the revised
 
 State consumer privacy laws may provide you with additional rights regarding our use of your Personal Information. California, Colorado, Connecticut, Delaware, Florida, Indiana, Iowa, Montana, Oregon, Tennessee, Texas, Utah, and Virginia provide (now or in the future) their state residents with certain rights. Note that Personal Information does not include publicly available information from government records, deidentified or aggregated consumer information, or information excluded from the scope of consumer privacy laws. Certain state legislation, including the California Consumer Privacy Act of 2018 (“CCPA”) protects various categories of Personal Information. For your convenience, we have provided the following chart summarizing the categories of Personal Information protected under the CCPA and what categories we collect as another way of covering the information set forth in Section 1 “**Information We Collect**”:
 
-|     |     |     |
-| --- | --- | --- |
-| **Category** | **Examples** | **Collected** |
-| 1\. Identifiers. | A real name, alias, postal address, unique personal identifier, online identifier, Internet Protocol address, email address, account name, Social Security number, driver’s license number, passport number, or other similar identifiers. | Some items. See Section 1 “Information We Collect” for more details. |
-| 2.          Personal information categories listed in the California Customer Records statute (Cal.<br><br>Civ. Code § 1798.80(e)). | A name, signature, Social Security number, physical characteristics or description, address, telephone number,<br><br>passport number, driver’s license or state identification card number, insurance policy number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information, medical information, or health insurance information.<br><br>Some personal information included in this category may  overlap  with  other<br><br>categories. | Some items. See Section 1 “Information We Collect” for more details. |
-| 3\. Protected classification characteristics under California or federal law. | Age (40 years or older), race, color, ancestry, national origin, citizenship, religion or creed, marital status, medical condition, physical or mental disability, sex (including gender, gender identity, gender expression, pregnancy or childbirth and related medical conditions), sexual orientation, veteran or military status, genetic information (including familial genetic information). | Age is the only of these required at registration, collected in order to verify minimum age and learn about the demographic makeup of our user base. Other protected classification characteristics are collected only if you choose to provide it in the verification process or in user-generated content (such as uploading an image or video sharing this information, or including in a bio), but this information is not analyzed, with the exception of data about a user’s sex, which is used aggregately to help us understand the demographic makeup of our user base. |
-| 4\. Commercial information. | Records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies. | Only records of (1) device type used in connection with your account, and (2) purchases of ads on Parler (if applicable). |
-| 5\. Biometric information. | Genetic, physiological, behavioral, and biological characteristics, or activity patterns used to extract a template or other identifier or identifying information, such as, fingerprints, faceprints, and voiceprints, iris or retina scans, keystroke, gait, or other physical patterns, and sleep, health, or<br><br>exercise data. | Only if you choose to provide it in user-generated content (such as uploading an image or video sharing this information, or including in a bio), but the information is analyzed only for compliance with applicable law and as described in our Guidelines Compliance Process. |
-| 6\. Internet or other similar network activity. | Browsing history, search history, information on a consumer’s interaction with a website, application, or advertisement. | See Section 1(B) to learn more about how some of these items may be collected and used. |
-| 7\. Geolocation data. | Physical location or movements including e.g., IP address information. | Only coarse location data inferred from IP address.<br><br>“Location” is an optional piece<br><br>of information which users may provide as part of profile data. |
-| 8\. Sensory data. | Audio, electronic, visual, thermal, olfactory, or similar information. | Only if using device to capture, audio, photo or video with the Services as part of user generated content. |
-| 9\. Professional or employment-related information. | Current or past job history or performance evaluations. | Only if you choose to provide it in user-generated content, for example a post, your profile bio, or display name. But this information is not further analyzed. |
-| 10\. Non-public education information (per the Family Educational Rights and Privacy Act (20 U.S.C. Section 1232g, 34 C.F.R. Part 99)). | Education records directly related to a student maintained by an educational institution or party acting on its behalf, such as grades, transcripts, class lists, student schedules, student identification codes, student financial information, or student disciplinary records. | Only if you choose to provide it in user-generated content, for example a post, your profile bio, or display name. But this information is not analyzed. |
-| 11\. Inferences drawn from other Personal Information. | Profile reflecting a person’s preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes. | No  |
+**Category**
+
+**Examples**
+
+**Collected**
+
+1\. Identifiers.A real name, alias, postal address, unique personal identifier, online identifier, Internet Protocol address, email address, account name, Social Security number, driver’s license number, passport number, or other similar identifiers.Some items. See Section 1 “Information We Collect” for more details.2.          Personal information categories listed in the California Customer Records statute (Cal.
+
+Civ. Code § 1798.80(e)).
+
+A name, signature, Social Security number, physical characteristics or description, address, telephone number,
+
+passport number, driver’s license or state identification card number, insurance policy number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information, medical information, or health insurance information.
+
+Some personal information included in this category may  overlap  with  other
+
+categories.
+
+Some items. See Section 1 “Information We Collect” for more details.3. Protected classification characteristics under California or federal law.Age (40 years or older), race, color, ancestry, national origin, citizenship, religion or creed, marital status, medical condition, physical or mental disability, sex (including gender, gender identity, gender expression, pregnancy or childbirth and related medical conditions), sexual orientation, veteran or military status, genetic information (including familial genetic information).Age is the only of these required at registration, collected in order to verify minimum age and learn about the demographic makeup of our user base. Other protected classification characteristics are collected only if you choose to provide it in the verification process or in user-generated content (such as uploading an image or video sharing this information, or including in a bio), but this information is not analyzed, with the exception of data about a user’s sex, which is used aggregately to help us understand the demographic makeup of our user base.4. Commercial information.Records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies.Only records of (1) device type used in connection with your account, and (2) purchases of ads on Parler (if applicable).5. Biometric information.Genetic, physiological, behavioral, and biological characteristics, or activity patterns used to extract a template or other identifier or identifying information, such as, fingerprints, faceprints, and voiceprints, iris or retina scans, keystroke, gait, or other physical patterns, and sleep, health, or
+
+exercise data.
+
+Only if you choose to provide it in user-generated content (such as uploading an image or video sharing this information, or including in a bio), but the information is analyzed only for compliance with applicable law and as described in our Guidelines Compliance Process.6. Internet or other similar network activity.Browsing history, search history, information on a consumer’s interaction with a website, application, or advertisement.See Section 1(B) to learn more about how some of these items may be collected and used.7. Geolocation data.Physical location or movements including e.g., IP address information.Only coarse location data inferred from IP address.
+
+“Location” is an optional piece
+
+of information which users may provide as part of profile data.
+
+8\. Sensory data.Audio, electronic, visual, thermal, olfactory, or similar information.Only if using device to capture, audio, photo or video with the Services as part of user generated content.9. Professional or employment-related information.Current or past job history or performance evaluations.Only if you choose to provide it in user-generated content, for example a post, your profile bio, or display name. But this information is not further analyzed.10. Non-public education information (per the Family Educational Rights and Privacy Act (20 U.S.C. Section 1232g, 34 C.F.R. Part 99)).Education records directly related to a student maintained by an educational institution or party acting on its behalf, such as grades, transcripts, class lists, student schedules, student identification codes, student financial information, or student disciplinary records.Only if you choose to provide it in user-generated content, for example a post, your profile bio, or display name. But this information is not analyzed.11. Inferences drawn from other Personal Information.Profile reflecting a person’s preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes.No
 
 All of the categories collected above may be provided to third parties as described in Section 3 “**How We Share the Information We Collect**”.
 
@@ -154,7 +169,7 @@ You have the right to request that we disclose certain information to you about 
 * The categories of sources for the Personal Information we collected about you.
 * Our business or commercial purpose for collecting that Personal Information.
 * The categories of third parties with whom we share that Personal Information.
-* If we disclosed your Personal Information for a business purpose, two separate lists disclosing: sales, identifying the Personal Information categories that each category of recipient purchased;  and disclosures for a business purpose, identifying the Personal Information categories that each category of recipient obtained.
+* If we disclosed your Personal Information for a business purpose, two separate lists disclosing: sales, identifying the Personal Information categories that each category of recipient purchased;  and disclosures for a business purpose, identifying the Personal Information categories that each category of recipient obtained.
 * The specific pieces of Personal Information we collected about you (also called a “data portability request”).
 
 **_Right to Delete_**
@@ -274,12 +289,60 @@ You also have the right (where applicable) to withdraw any consent given in rela
 
 Please note that the right to erasure is not absolute and it may not always be possible to erase personal data on request, including for example where the Personal Information must be retained to comply with a legal obligation.
 
-If you are in the EEA, you may lodge a complaint with a supervisory authority that has authority in your country or region. Please see the following website for contact information of the data protection      authorities       for       member           countries         in         the       EEA: [https://www.edps.europa.eu/data-protection/eu-institutions-dpo/network-dpos\_en](https://www.edps.europa.eu/data-protection/eu-institutions-dpo/network-dpos_en)
+If you are in the EEA, you may lodge a complaint with a supervisory authority that has authority in your country or region. Please see the following website for contact information of the data protection      authorities       for       member           countries         in         the       EEA: [https://www.edps.europa.eu/data-protection/eu-institutions-dpo/network-dpos\_en](https://www.edps.europa.eu/data-protection/eu-institutions-dpo/network-dpos_en)
 
 Parler is the data controller with respect to processing of your Personal Information in connection with the Services.
 
 **Contact Information**
 
-If you have any questions, comments, or concerns about our processing activities, please email us at [support@parler.com](mailto:support@parler.com)  or write to us at Parler Privacy Request, 2801 Network Boulevard, Suite 300, Frisco, TX 75034. Please note that email to [support@parler.com](mailto:support@parler.com)  should include only questions, comments, or concerns regarding our processing activities. To make a request for access or deletion of your personal Information as permitted by law, please submit a request to our Data Privacy Officer by emailing [privacy@parler.com](mailto:privacy@parler.com) or the in-app feedback form.
+If you have any questions, comments, or concerns about our processing activities, please email us at [support@parler.com](mailto:support@parler.com)  or write to us at Parler Privacy Request, 2801 Network Boulevard, Suite 300, Frisco, TX 75034. Please note that email to [support@parler.com](mailto:support@parler.com)  should include only questions, comments, or concerns regarding our processing activities. To make a request for access or deletion of your personal Information as permitted by law, please submit a request to our Data Privacy Officer by emailing [privacy@parler.com](mailto:privacy@parler.com) or the in-app feedback form.
 
 **Last Updated:** August 9, 2024
+
+‍
+
+You Found Your People
+---------------------
+
+Your creative potential is limitless. Stream, create, and connect with a global audience eager for genuine, creative content that truly resonates with your voice—because here, you’re free to be you unmuted.
+
+[Join Parler](https://app.parler.com/)
+
+[![Parler Logo](https://cdn.prod.website-files.com/670ed2f8172fef394ed82b52/670ee46b85bb2e2f6fc2ce86_Parler%20-%20White.svg)](https://parler.com/)
+
+Unleash Your Creativity and Connect Globally. The Original Public Square Championing Freedom of Expression,  Choice, and Thought.
+
+[![Apple App Store Link](https://cdn.prod.website-files.com/670ed2f8172fef394ed82b52/670ed2f8172fef394ed82bfd_AppStore.svg)](https://apps.apple.com/us/app/parler/id1402727988)[![Google Play Store Link](https://cdn.prod.website-files.com/670ed2f8172fef394ed82b52/670ed2f8172fef394ed82bfe_GooglePlay.svg)](https://play.google.com/store/apps/details?id=com.parler.parler&hl=en_US)
+
+Our Apps
+
+[Parler](https://parler.com/parler)[PlayTV](https://parler.com/playtv)[Bursts](https://parler.com/bursts)[ParlerPay](https://parler.com/parler-pay)[Marketplace](#)
+
+Blockchain
+
+[Optio](https://optio.community/)
+
+News
+
+[Parler News](https://news.parler.com/)[Blog & Updates](https://parler.com/blog)
+
+Help
+
+[Contact Us](https://parler.com/contact-us)[Help Center](https://help.parler.com/hc/90853520)
+
+**Parler’s Disclaimer and Notice**  
+Updated: October 23, 2024  
+  
+Parler’s Mission and Focus Parler is a social media platform built to champion free speech and protect user privacy. With minimal content moderation, Parler fosters an open environment where users can freely express their views. This commitment to transparency and open dialogue aligns with Parler's mission of supporting diverse perspectives in a secure digital space.  
+  
+**Blockchain-Integrated Apps and Services**  
+Beyond social media, Parler develops blockchain-integrated apps and services that interact with the decentralized Optio Blockchain. Through collaboration with Optio Services, Parler expands the functionality of the Optio network, enhancing user engagement with apps that integrate seamlessly with the blockchain. While Parler is involved in the development of these apps, the governance of the Optio Blockchain remains fully decentralized and is managed by Optio Node Owners.  
+  
+**Blockchain Governance, OPT Digital Rewards, and Future Projection**s  
+The Optio Blockchain operates through decentralized governance led by Optio Node Owners, who follow a community-driven constitution. Users can earn points that convert into OPT digital rewards by engaging with Parler apps integrated into the blockchain, which can then be used within the Parler platform. However, there is no promise of financial gain or profit associated with these rewards, as they are not investment products and have no guaranteed value outside of their utility within the ecosystem. Parler’s future projections, while promising, are subject to risks and uncertainties, and outcomes may differ from those anticipated.
+
+© 2025 Parler. All rights reserved.
+
+[Privacy Policy](https://parler.com/privacy-policy)[Terms of Service](https://parler.com/terms-of-service)[Disclaimers](https://parler.com/disclaimers)[Cookie Policy](https://parler.com/cookie-policy)
+
+[](https://app.parler.com/parler)[](https://playtv.parler.com/)[](https://www.facebook.com/ParlerMedia)[TikTok](https://www.tiktok.com/@parler_social)[](https://www.instagram.com/parler_social/)[](https://x.com/parler_social)
