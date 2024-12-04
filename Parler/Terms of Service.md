@@ -1,7 +1,7 @@
 User Agreement
---------------
+==============
 
-##### March 21, 2024
+March 21, 2024  
 
 **This Agreement governs your relationship with PDS Partners, LLC (“Parler”)** and your use of and access to all services, websites, and products provided by Parler (collectively, the Services). You agree that by accessing or using any part of the Services you are bound by the terms of this Agreement (the Terms), including the applicable [Privacy Policy](https://parler.com/privacy-policy) and [Community Guidelines](https://parler.com/community-guidelines/) incorporated herein.
 
@@ -25,13 +25,13 @@ The content complies with the [Parler Community Guidelines](https://parler.com/c
 
 You are responsible for your use of the Services and for any content that you post. Parler does not endorse, support, represent, or affirm the completeness, truthfulness, accuracy, or reliability of any of the content posted through the Services, nor does Parler endorse any opinions expressed through the Services. All content is the sole responsibility of the person who originated the content, and Parler does not take responsibility for such content.
 
-With respect to any content you contribute that uses YouTube services via Parler, you affirm that—in addition to complying with Parler’s own Terms and Community Guidelines—you are also complying with [YouTube’s more restrictive Terms](https://www.youtube.com/t/terms)[.](https://www.youtube.com/t/terms) (Users are encouraged to use Parler’s own native video capabilities whenever they wish to avoid the application of these more restrictive terms.)
+With respect to any content you contribute that uses YouTube services via Parler, you affirm that—in addition to complying with Parler’s own Terms and Community Guidelines—you are also complying with [YouTube’s more restrictive Terms.](https://www.youtube.com/t/terms) (Users are encouraged to use Parler’s own native video capabilities whenever they wish to avoid the application of these more restrictive terms.)
 
 **Parler’s Intellectual Property.** The Services and any related content, features, and functionality (including but not limited to all information, software, text, displays, images, video, and audio, and the design, selection, and arrangement thereof) are owned by Parler, Parler’s licensors, or other providers of such material and are protected by United States and international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws. Parler’s name, and all related names, logos, product and service names, designs, and slogans are trademarks that are owned by Parler, Parler’s affiliates, or Parler’s licensors. You must not use such marks without our prior written permission. All other names, logos, product and service names, designs, and slogans are the trademarks of their respective owners.
 
 **Right to Distribute.** You grant to Parler a license to any content posted by you to the Services, including a worldwide, non-exclusive, royalty-free license (with the right to sublicense) to use, copy, reproduce, process, adapt, modify, publish, transmit, display and distribute your content. You agree that Parler or its service providers or partners may display advertising in connection with your content and otherwise monetize your content without compensation to you, unless you are a participant in our Influencer Network and then you will be compensated according to the terms of that program. You warrant that you have all rights necessary to grant these rights to Parler and other members of the Parler community. You also grant a limited non-exclusive, royalty-free license to any Parler community member to use, copy, reproduce, process, adapt, modify, publish, transmit, display, and distribute any content posted by you to the Services solely in connection with that member’s use of the Services. The licenses granted by you hereunder do not include any moral rights or right of attribution.
 
-**Copyright infringement is not allowed on the Services**, and Parler will, in appropriate circumstances, terminate the account of any repeat infringer. If your copyright has been infringed by any content on the Services and you did not grant a license for this use by uploading your copyrighted work to the Services, you may submit a notice that meets all of the requirements of the [Digital Millennium Copyright](https://www.copyright.gov/title17/92chap5.html) [Act (DMCA), 17 U.S.C 512(c)(3)](https://www.copyright.gov/title17/92chap5.html)[,](https://www.copyright.gov/title17/92chap5.html) to our Darin Deaver at dmca@plunksmith.com or 2801 Network Boulevard Suite 300, Frisco, TX 75034. Your notice must include: (1) electronic or physical signature of the copyrighted work owner (or person authorized by the copyright owner), (2) a description of the copyrighted work, including the URL where the infringing content is available, or a copy of it, (3) contact details of the person submitting the notice, including email address, telephone, and mailing address, (4) statement in “good faith belief” that the work is not authorized by the copyright owner, and (5) a statement by the sender that all of the above information is accurate, and that the person sending the notice is either the copyright owner or is authorized to act on behalf of the copyright owner. Upon receiving a notice satisfying these requirements, Parler will take whatever action, in its sole discretion, it deems appropriate, including removal of the challenged content from the services.
+**Copyright infringement is not allowed on the Services**, and Parler will, in appropriate circumstances, terminate the account of any repeat infringer. If your copyright has been infringed by any content on the Services and you did not grant a license for this use by uploading your copyrighted work to the Services, you may submit a notice that meets all of the requirements of the [Digital Millennium Copyright](https://www.copyright.gov/title17/92chap5.html) [Act (DMCA), 17 U.S.C 512(c)(3),](https://www.copyright.gov/title17/92chap5.html) to our Darin Deaver at dmca@plunksmith.com or 2801 Network Boulevard Suite 300, Frisco, TX 75034. Your notice must include: (1) electronic or physical signature of the copyrighted work owner (or person authorized by the copyright owner), (2) a description of the copyrighted work, including the URL where the infringing content is available, or a copy of it, (3) contact details of the person submitting the notice, including email address, telephone, and mailing address, (4) statement in “good faith belief” that the work is not authorized by the copyright owner, and (5) a statement by the sender that all of the above information is accurate, and that the person sending the notice is either the copyright owner or is authorized to act on behalf of the copyright owner. Upon receiving a notice satisfying these requirements, Parler will take whatever action, in its sole discretion, it deems appropriate, including removal of the challenged content from the services.
 
 **You may not interfere with the Services in any way**, such as by accessing the Services through automated means in a manner that puts excessive demand on the Services; by hacking the Services; by accessing without authorization areas of the Services that are protected by technical measures designed to prevent unauthorized access; by testing the vulnerability of the Services; by impersonating Parler on the Services; by accessing the Services for any purpose that competes with the interests of Parler; by spamming Parler community members; by failing to respond to operational communications or requests from Parler; or through any other type of interference with the Services or Parler’s relationships with others.
 
@@ -75,10 +75,59 @@ ARBITRATION REQUIREMENT. At PARLER’S sole discretion, Parler may require all c
 
 The arbitrator or arbitrators for any proceeding conducted hereunder shall be a person or persons with experience in the social media business, selected in accordance with the AAA’s Commercial Arbitration Rules then in effect. The parties will be entitled to conduct discovery in accordance with the provisions of Texas’ or applicable code of civil procedure. The remedial authority of the arbitrator or arbitrators will be the same as, but no greater than, would be the remedial power of a court having jurisdiction over the Parties and their dispute. The arbitrator or arbitrators will render a written opinion based on Texas law, and specify an award, which will be final and binding upon the Parties.
 
-**You affirm that you are competent to agree to be bound by this Agreement**, meaning that you are over the age of 18 and, if applicable, have the consent of any designated guardian. In addition to the NSFW filters made available by Parler, there are “Parental Control” products and features available on the market, which can help you tailor your experience on our platform. Some examples can be found [here](https://www.pcmag.com/picks/the-best-parental-control-software) and [here](https://support.apple.com/en-us/HT201304)[.](https://support.apple.com/en-us/HT201304)
+**You affirm that you are competent to agree to be bound by this Agreement**, meaning that you are over the age of 18 and, if applicable, have the consent of any designated guardian. In addition to the NSFW filters made available by Parler, there are “Parental Control” products and features available on the market, which can help you tailor your experience on our platform. Some examples can be found [here](https://www.pcmag.com/picks/the-best-parental-control-software) and [here.](https://support.apple.com/en-us/HT201304)
 
 **Parler cannot waive any right to enforce this Agreement**, unless it does so expressly in writing. No waiver of any part of this Agreement, will be a further or continuing waiver of that part or any other part, and no failure to enforce any part of this Agreement will be deemed a waiver of any kind.
 
 **Parler may modify the Terms of this Agreement** in any way and at any time by posting such modifications through the Services. All changes are effective immediately when we post them, and you agree to be responsible for making yourself aware of any modification of the Terms and to be bound by any modification of the Terms when you continue to access or use the Services after any such modification. As a matter of courtesy, Parler endeavors to inform its community members of any such changes. These Terms supersede all prior agreements between you and Parler pertaining to the Services. Except for the statements in this document and the documents expressly incorporated herein by reference, no statement by Parler or anyone associated with Parler, whether verbal or written, can modify or supplement the Terms of this Agreement unless the modification or supplement is stated expressly in writing by referring to this Agreement. If any of the Terms in the Agreement are held to be invalid or unenforceable by a court or arbitrator or by operation of law, the remaining Terms will remain in effect.
 
 **Last Updated: Mar 21, 2024**
+
+‍
+-
+
+You Found Your People
+---------------------
+
+Your creative potential is limitless. Stream, create, and connect with a global audience eager for genuine, creative content that truly resonates with your voice—because here, you’re free to be you unmuted.
+
+[Join Parler](https://app.parler.com/)
+
+[![Parler Logo](https://cdn.prod.website-files.com/670ed2f8172fef394ed82b52/670ee46b85bb2e2f6fc2ce86_Parler%20-%20White.svg)](https://parler.com/)
+
+Unleash Your Creativity and Connect Globally. The Original Public Square Championing Freedom of Expression,  Choice, and Thought.
+
+[![Apple App Store Link](https://cdn.prod.website-files.com/670ed2f8172fef394ed82b52/670ed2f8172fef394ed82bfd_AppStore.svg)](https://apps.apple.com/us/app/parler/id1402727988)[![Google Play Store Link](https://cdn.prod.website-files.com/670ed2f8172fef394ed82b52/670ed2f8172fef394ed82bfe_GooglePlay.svg)](https://play.google.com/store/apps/details?id=com.parler.parler&hl=en_US)
+
+Our Apps
+
+[Parler](https://parler.com/parler)[PlayTV](https://parler.com/playtv)[Bursts](https://parler.com/bursts)[ParlerPay](https://parler.com/parler-pay)[Marketplace](#)
+
+Blockchain
+
+[Optio](https://optio.community/)
+
+News
+
+[Parler News](https://news.parler.com/)[Blog & Updates](https://parler.com/blog)
+
+Help
+
+[Contact Us](https://parler.com/contact-us)[Help Center](https://help.parler.com/hc/90853520)
+
+**Parler’s Disclaimer and Notice**  
+Updated: October 23, 2024  
+  
+Parler’s Mission and Focus Parler is a social media platform built to champion free speech and protect user privacy. With minimal content moderation, Parler fosters an open environment where users can freely express their views. This commitment to transparency and open dialogue aligns with Parler's mission of supporting diverse perspectives in a secure digital space.  
+  
+**Blockchain-Integrated Apps and Services**  
+Beyond social media, Parler develops blockchain-integrated apps and services that interact with the decentralized Optio Blockchain. Through collaboration with Optio Services, Parler expands the functionality of the Optio network, enhancing user engagement with apps that integrate seamlessly with the blockchain. While Parler is involved in the development of these apps, the governance of the Optio Blockchain remains fully decentralized and is managed by Optio Node Owners.  
+  
+**Blockchain Governance, OPT Digital Rewards, and Future Projection**s  
+The Optio Blockchain operates through decentralized governance led by Optio Node Owners, who follow a community-driven constitution. Users can earn points that convert into OPT digital rewards by engaging with Parler apps integrated into the blockchain, which can then be used within the Parler platform. However, there is no promise of financial gain or profit associated with these rewards, as they are not investment products and have no guaranteed value outside of their utility within the ecosystem. Parler’s future projections, while promising, are subject to risks and uncertainties, and outcomes may differ from those anticipated.
+
+© 2025 Parler. All rights reserved.
+
+[Privacy Policy](https://parler.com/privacy-policy)[Terms of Service](https://parler.com/terms-of-service)[Disclaimers](https://parler.com/disclaimers)[Cookie Policy](https://parler.com/cookie-policy)
+
+[](https://app.parler.com/parler)[](https://playtv.parler.com/)[](https://www.facebook.com/ParlerMedia)[TikTok](https://www.tiktok.com/@parler_social)[](https://www.instagram.com/parler_social/)[](https://x.com/parler_social)
