@@ -839,7 +839,7 @@ For the following content, we include a label so that people are aware the conte
 * Content that depicts older instances of self-harm such as healed cuts or other non-graphic self-injury imagery in a self-injury, suicide or recovery context.
 * Content that depicts ribs, collar bones, thigh gaps, hips, concave stomach, or protruding spine or scapula in a recovery context.
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yh/r/3yRrWspEQ3r.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yh/r/3yRrWspEQ3r.png)
 
 We provide resources to people who post written or verbal admissions of engagement in self injury, including:
 
