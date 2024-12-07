@@ -123,6 +123,7 @@ Protected and vulnerable groups include: People grouped together based on their 
 
 Pinterest isn’t a place to insult, hurt or antagonize individuals or groups of people. There are good reasons to express criticism, but we may limit the distribution of or remove insulting content to keep Pinterest a positive, inspiring place; this includes:
 
+* Cyberbullying
 * Manipulated images intended to degrade or shame
 * Shaming people for their bodies or assumed sexual or romantic history
 * Sexual remarks about people’s bodies and solicitations or offers of sexual acts
@@ -213,7 +214,7 @@ All of our Community Guidelines apply in comments posted on Pins. In addition, c
 * Self-harm content
 * Misinformation
 * Hateful activities
-* Harassment or privacy violations
+* Harassment or privacy violations, including
 * Copyright or trademark infringement
 
 ### Messages
@@ -225,7 +226,7 @@ All of our apply to messages sent between Pinners. Messages should also be welco
 * Self-harm or suicide content
 * Misinformation
 * Hateful activities like racial slurs
-* Harassing content or behavior
+* Harassing content or behavior, including
 * Exploitation of private information
 
 Intellectual property and other rights
