@@ -1,3 +1,5 @@
+* * *
+
 If you live in the United States or if your principal place of business is in the United States, you are agreeing to the [Snap Inc.  Terms of Service](https://www.snap.com/terms?lang=en-GB#inc-terms).
 
 If you live outside the United States or if your principal place of business is outside of the United States, you are agreeing to the [Snap Group Limited Terms of Service](https://www.snap.com/terms?lang=en-GB#sgl-terms).
