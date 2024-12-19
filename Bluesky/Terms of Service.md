@@ -1,7 +1,9 @@
 Terms of Service
 ================
 
-#### Last Updated: May 22, 2024
+#### Last Updated: December 18, 2024
+
+_The most recent update to the Terms of Service on December 18, 2024 introduces a standard Amendment for Government Users (1.B.i and 1.B.ii) to allow government agencies to sign up for Bluesky accounts. No other changes were made._
 
 Welcome to Bluesky Social, a social networking application provided by Bluesky! We're excited to have you on board as a user. Bluesky Social runs on the Authenticated Transfer Protocol ("**AT Protocol**"), a decentralized social networking protocol that supports many different kinds of services. These Terms of Service apply to the Bluesky Social service.
 
@@ -43,6 +45,8 @@ In some cases below, we’ve added some summary text in italics to make these Te
 
 1. Eligibility. To use Bluesky Social, you must be at least 13 years old and legally permitted to use Bluesky Social based on the laws in your country. If you are not yet an adult according to the laws of your country, your parent or legal guardian must read these Terms on your behalf. If you’re a parent or legal guardian, and you allow your child (who meets the minimum age for your country) to use the services, then these terms also apply to you, and you’re responsible for your child’s activity on the services.
 2. Accounts. To use Bluesky Social, you must create an account (“**Account**”). Don’t share your Account with others, because you’re responsible for all activities under your Account, whether or not you know about them. If you’re using Bluesky Social on behalf of a company or organization, you confirm that you have the authority to represent your company or organization. If you believe your Account created through Bluesky Social has been compromised, report it to us at support@bsky.app.
+    1. If you are a US government entity or official who wishes to use Bluesky Social for your official government use, then please see the [Terms of Service Amendment for Government Users](https://bsky.social/about/support/tos-gov) .
+    2. If you are a government entity or official located outside of the United States who wishes to use BlueSky Social for your official government use, but are unable to do so because the Terms are incompatible with applicable laws, please contact us at legal-requests@blueskyweb.xyz.
 
 3. **User Content.**
 
