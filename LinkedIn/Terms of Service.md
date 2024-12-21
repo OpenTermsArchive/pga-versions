@@ -1,7 +1,3 @@
-On November 20, 2024, we updated our User Agreement.
-
-[Click here for more details](https://lnkd.in/tos24)
-
 User Agreement
 ==============
 
