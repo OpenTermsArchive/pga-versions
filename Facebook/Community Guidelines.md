@@ -907,8 +907,8 @@ Content that solicits sexual encounters with children
 
 Content that constitutes or facilitates inappropriate interactions with children, such as:
 
-* Arranging or planning real-world sexual encounters with children
-* Purposefully exposing children to sexually explicit language or sexual material
+* Arranging or planning sexual encounters with children
+* Enticing children to engage in sexual activity through sexualized conversations or offering, displaying, obtaining or requesting sexual material to or from children, through purposeful exposure or in private messages
 * Engaging in implicitly sexual conversations in private messages with children
 * Obtaining or requesting sexual material from children in private messages
 
@@ -947,7 +947,7 @@ Content that praises, supports, promotes, advocates for, provides instructions f
 
 In addition to removing accounts that violate our Child Sexual Exploitation, Abuse and Nudity (CSEAN) policies, our reviewers and automated systems consider a broad spectrum of signals to help prevent potentially unwanted or unsafe interactions.
 
-* We may restrict access to products and features (e.g., the ability to message certain other users) for adults based on their interactions with other accounts, searches for or interactions with violating content, or membership in communities (e.g. Groups) we have removed for violating our policies.
+* We may restrict access to products and features (e.g. the ability to follow certain accounts) for adults based on their interactions with other accounts, searches for or interactions with violating content, or membership in communities (e.g. Groups) we have removed for violating our policies.
 
 For the following content, we include a warning screen so that people are aware the content may be disturbing and limit the ability to view the content to adults ages eighteen and older:
 
@@ -1200,6 +1200,10 @@ Content that offers to provide or facilitate human smuggling
 Content that asks for human smuggling services
 
 We allow content that is otherwise covered by this policy when posted in condemnation, educational, awareness raising, or news reporting contexts.
+
+For the following Community Standards, we require additional information and/or context to enforce:
+
+We may remove content that offers a job in locations that are high-risk for labor exploitation when confirmed by law enforcement, local non-governmental organizations, or other trusted partners
 
 Read lessRead more
 
@@ -1701,9 +1705,9 @@ We may restrict or disable accounts, other entities (Pages, groups, events) or b
 * Coordination within a network of accounts or other entities that persistently or egregiously violate our policies
 * Activity or behavior indicative of a clear violating purpose through a network of accounts
 
-We may restrict or disable accounts or other entities (Pages, groups, events), or business assets (Business Managers, ad accounts) that engage in off-platform activity that can lead to harm on our platform, including those:
+We will work to restrict or disable accounts or other entities (Pages, groups, events), or business assets (Business Managers, ad accounts) that engage in off-platform activity that can lead to harm on our platform, including those:
 
-* Owned by a convicted sex offender
+* Owned by a convicted sex offender, convicted of offences related to the sexual abuse of children or adults
 * Owned by a Designated Entity or run on their behalf
 * Prohibited from receiving our products, services or software under applicable laws
 
