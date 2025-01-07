@@ -51,29 +51,7 @@ Content that's not allowed; and
 
 Content that requires additional information or context to enforce on, content that is allowed with a warning screen or content that is allowed but can only be viewed by adults aged 18 and older.
 
-###### VIOLENCE AND CRIMINAL BEHAVIOR
-
-[Coordinating Harm and Promoting Crime](https://transparency.meta.com/policies/community-standards/coordinating-harm-publicizing-crime/)[Dangerous Organizations and Individuals](https://transparency.meta.com/policies/community-standards/dangerous-individuals-organizations/)[Fraud, Scams, and Deceptive Practices](https://transparency.meta.com/policies/community-standards/fraud-scams)[Restricted Goods and Services](https://transparency.meta.com/policies/community-standards/regulated-goods/)[Violence and Incitement](https://transparency.meta.com/policies/community-standards/violence-incitement/)
-
-###### SAFETY
-
-[Adult Sexual Exploitation](https://transparency.meta.com/policies/community-standards/sexual-exploitation-adults/)[Bullying and Harassment](https://transparency.meta.com/policies/community-standards/bullying-harassment/)[Child Sexual Exploitation, Abuse, and Nudity](https://transparency.meta.com/policies/community-standards/child-sexual-exploitation-abuse-nudity/)[Human Exploitation](https://transparency.meta.com/policies/community-standards/human-exploitation/)[Suicide, Self-Injury, and Eating Disorders](https://transparency.meta.com/policies/community-standards/suicide-self-injury/)
-
-###### OBJECTIONABLE CONTENT
-
-[Adult Nudity and Sexual Activity](https://transparency.meta.com/policies/community-standards/adult-nudity-sexual-activity/)[Adult Sexual Solicitation and Sexually Explicit Language](https://transparency.meta.com/policies/community-standards/sexual-solicitation/)[Hate Speech](https://transparency.meta.com/policies/community-standards/hate-speech/)[Privacy Violations](https://transparency.meta.com/policies/community-standards/privacy-violations-image-privacy-rights/)[Violent and Graphic Content](https://transparency.meta.com/policies/community-standards/violent-graphic-content/)
-
-###### INTEGRITY AND AUTHENTICITY
-
-[Account Integrity](https://transparency.meta.com/policies/community-standards/account-integrity) [Authentic Identity Representation](https://transparency.meta.com/policies/community-standards/authentic-identity-representation)[Cybersecurity](https://transparency.meta.com/policies/community-standards/cybersecurity/)[Inauthentic Behavior](https://transparency.meta.com/policies/community-standards/inauthentic-behavior/)[Memorialization](https://transparency.meta.com/policies/community-standards/memorialization/)[Misinformation](https://transparency.meta.com/policies/community-standards/misinformation/)[Spam](https://transparency.meta.com/policies/community-standards/spam/)
-
-###### RESPECTING INTELLECTUAL PROPERTY
-
-[Third-Party Intellectual Property Infringement](https://transparency.meta.com/policies/community-standards/intellectual-property/)[Using Meta Intellectual Property and Licenses](https://transparency.meta.com/policies/community-standards/meta-intellectual-property)
-
-###### CONTENT-RELATED REQUESTS AND DECISIONS
-
-[Additional Protection of Minors](https://transparency.meta.com/policies/community-standards/additional-protection-minors/)[Locally Illegal Content, Products, or Services](https://transparency.meta.com/policies/community-standards/locally-illegal-products-services)[User Requests](https://transparency.meta.com/policies/community-standards/user-requests/)
+[Coordinating Harm and Promoting Crime](https://transparency.meta.com/policies/community-standards/coordinating-harm-publicizing-crime/)[Dangerous Organizations and Individuals](https://transparency.meta.com/policies/community-standards/dangerous-individuals-organizations/)[Fraud, Scams, and Deceptive Practices](https://transparency.meta.com/policies/community-standards/fraud-scams)[Restricted Goods and Services](https://transparency.meta.com/policies/community-standards/regulated-goods/)[Violence and Incitement](https://transparency.meta.com/policies/community-standards/violence-incitement/)[Adult Sexual Exploitation](https://transparency.meta.com/policies/community-standards/sexual-exploitation-adults/)[Bullying and Harassment](https://transparency.meta.com/policies/community-standards/bullying-harassment/)[Child Sexual Exploitation, Abuse, and Nudity](https://transparency.meta.com/policies/community-standards/child-sexual-exploitation-abuse-nudity/)[Human Exploitation](https://transparency.meta.com/policies/community-standards/human-exploitation/)[Suicide, Self-Injury, and Eating Disorders](https://transparency.meta.com/policies/community-standards/suicide-self-injury/)[Adult Nudity and Sexual Activity](https://transparency.meta.com/policies/community-standards/adult-nudity-sexual-activity/)[Adult Sexual Solicitation and Sexually Explicit Language](https://transparency.meta.com/policies/community-standards/sexual-solicitation/)[Hateful Conduct](https://transparency.meta.com/policies/community-standards/hate-speech/)[Privacy Violations](https://transparency.meta.com/policies/community-standards/privacy-violations-image-privacy-rights/)[Violent and Graphic Content](https://transparency.meta.com/policies/community-standards/violent-graphic-content/)[Account Integrity](https://transparency.meta.com/policies/community-standards/account-integrity) [Authentic Identity Representation](https://transparency.meta.com/policies/community-standards/authentic-identity-representation)[Cybersecurity](https://transparency.meta.com/policies/community-standards/cybersecurity/)[Inauthentic Behavior](https://transparency.meta.com/policies/community-standards/inauthentic-behavior/)[Memorialization](https://transparency.meta.com/policies/community-standards/memorialization/)[Misinformation](https://transparency.meta.com/policies/community-standards/misinformation/)[Spam](https://transparency.meta.com/policies/community-standards/spam/)[Third-Party Intellectual Property Infringement](https://transparency.meta.com/policies/community-standards/intellectual-property/)[Using Meta Intellectual Property and Licenses](https://transparency.meta.com/policies/community-standards/meta-intellectual-property)[Additional Protection of Minors](https://transparency.meta.com/policies/community-standards/additional-protection-minors/)[Locally Illegal Content, Products, or Services](https://transparency.meta.com/policies/community-standards/locally-illegal-products-services)[User Requests](https://transparency.meta.com/policies/community-standards/user-requests/)
 
 Adult Nudity and Sexual Activity
 ================================
@@ -1303,107 +1281,76 @@ We Remove:
 * In the context of home entry or interpersonal violence that is proportional to the violence responded to and is an immediate threat
 * The potential impact on voice outweighs the risk of imminent violence
 
-Hate Speech
-===========
+Hateful Conduct
+===============
 
 Policy Rationale
 
-We believe that people use their voice and connect more freely when they don’t feel attacked on the basis of who they are. That is why we don’t allow hate speech on Facebook, Instagram, or Threads. It creates an environment of intimidation and exclusion, and in some cases may promote offline violence.
+We believe that people use their voice and connect more freely when they don’t feel attacked on the basis of who they are. That is why we don’t allow hateful conduct on Facebook, Instagram, or Threads.
 
-We define hate speech as direct attacks against people — rather than concepts or institutions— on the basis of what we call protected characteristics (PCs): race, ethnicity, national origin, disability, religious affiliation, caste, sexual orientation, sex, gender identity, and serious disease. Additionally, we consider age a protected characteristic when referenced along with another protected characteristic. We also protect refugees, migrants, immigrants, and asylum seekers from the most severe attacks, though we do allow commentary on and criticism of immigration policies. Similarly, we provide some protections for non- protected characteristics, such as occupation, when they are referenced along with a protected characteristic. Sometimes, based on local nuance, we consider certain words or phrases as frequently used proxies for PC groups.
+We define hateful conduct as direct attacks against people — rather than concepts or institutions — on the basis of what we call protected characteristics (PCs): race, ethnicity, national origin, disability, religious affiliation, caste, sexual orientation, sex, gender identity, and serious disease. Additionally, we consider age a protected characteristic when referenced along with another protected characteristic. We also protect refugees, migrants, immigrants, and asylum seekers from the most severe attacks (Tier 1 below), though we do allow commentary on and criticism of immigration policies. Similarly, we provide some protections for non- protected characteristics, such as occupation, when they are referenced along with a protected characteristic. Sometimes, based on local nuance, we consider certain words or phrases as frequently used proxies for protected characteristics.
 
-We define a hate speech attack as dehumanizing speech; statements of inferiority, expressions of contempt or disgust; cursing; and calls for exclusion or segregation. We also prohibit the use of harmful stereotypes, which we define as dehumanizing comparisons that have historically been used to attack, intimidate, or exclude specific groups, and that are often linked with offline violence. We also prohibit the usage of slurs that are used to attack people on the basis of their protected characteristics. Attacks are separated into two tiers of severity, described below.
+We remove dehumanizing speech, allegations of serious immorality or criminality, and slurs. We also remove harmful stereotypes, which we define as dehumanizing comparisons that have historically been used to attack, intimidate, or exclude specific groups, and that are often linked with offline violence. Finally, we remove serious insults, expressions of contempt or disgust, cursing, and calls for exclusion or segregation when targeting people based on protected characteristics. We separate this speech into two tiers of severity, described below.
 
-We have additional restrictions for paid content.
+We recognize that people sometimes share content that includes slurs or someone else’s speech in order to condemn the speech or report on it. In other cases, speech, including slurs, that might otherwise violate our standards is used self-referentially or in an empowering way. We allow this type of speech where the speaker’s intention is clear. Where intention is unclear, we may remove content.
 
-However, we recognize that people sometimes share content that includes slurs or someone else’s hate speech in order to condemn the speech or report on it. In other cases, speech, including slurs, that might otherwise violate our standards is used self-referentially or in an empowering way. People also sometimes express contempt or curse at a gender in the context of a romantic break-up. Other times, they use gender-exclusive language to control membership in a health or positive support group, such as a breastfeeding group for women only. Our policies are designed to allow room for these types of speech but require people to clearly indicate their intent. Where intention is unclear, we may remove content.
-
-Note: Violent speech targeting people on the basis of their protected characteristics is covered in our Violence and Incitement Policy.
-
-[Learn more about our approach to hate speech.](https://about.fb.com/news/2017/06/hard-questions-hate-speech/)
+People sometimes use sex- or gender-exclusive language when discussing access to spaces often limited by sex or gender, such as access to bathrooms, specific schools, specific military, law enforcement, or teaching roles, and health or support groups. Other times, they call for exclusion or use insulting language in the context of discussing political or religious topics, such as when discussing transgender rights, immigration, or homosexuality. Finally, sometimes people curse at a gender in the context of a romantic break-up. Our policies are designed to allow room for these types of speech.
 
 Do not post:
 
 **Tier 1**
 
-Content targeting a person or group of people (including all groups except those who are considered non-protected groups described as having carried out violent crimes or sexual offenses or representing less than half of a group) on the basis of their aforementioned protected characteristic(s) or immigration status in written or visual form with:
+Content targeting a person or group of people (except groups described as having carried out violent or sexual crimes or representing less than half of a group) on the basis of their aforementioned protected characteristic(s) or immigration status in written or visual form with:
 
-* Dehumanizing speech in the form of comparisons to or generalizations about:
-
-* Animals and pathogens
+* Dehumanizing speech in the form of comparisons to or generalizations about animals, pathogens, or other sub-human life forms, including:
 
 * Insects (including but not limited to: cockroaches, locusts)
 * Animals in general or specific types of animals that are culturally perceived as inferior (including but not limited to: Black people and apes or ape-like creatures; Jewish people and rats; Muslim people and pigs; Mexican people and worms)
-
-* Certain Inanimate Objects and Non-Human States:
-
-* Certain objects (women as household objects or property or objects in general; Black people as farm equipment; transgender or non-binary people as “it”)
-* Feces (including but not limited to: shit, crap)
-* Filth (including but not limited to: dirt, grime, or saying "\[protected characteristic or quasi-protected characteristic\] has bad hygiene")
 * Bacteria, viruses, or microbes
-* Disease (including but not limited to: cancer, sexually transmitted diseases)
-* Subhumanity (including but not limited to: savages, devils, monsters, primitives)
+* Subhumanity (including but not limited to: savages, devils, monsters)
 
-* Criminals
+* Allegations of serious immorality and criminality:
 
-* Sexual predators (including but not limited to: Muslim people having sex with goats or pigs)
-* Violent criminals (including but not limited to: terrorists, murderers, members of hate or criminal organizations)
-* Other criminals (including but not limited to “thieves,” “bank robbers,” or saying “All \[protected characteristic or quasi-protected characteristic\] are ‘criminals’”).
+* Sexual predators and pedophiles (including but not limited to: Muslim people having sex with goats or pigs)
+* Violent criminals (including but not limited to: terrorists, murderers)
 
-* Statements in the form of calls for action or statements of intent to inflict, aspirational or conditional statements about, or statements advocating or supporting harm in the following ways:
+* Calls and hopes for the following harms (serious or specific threats and calls for violence are addressed under our Violence and Incitement policy):
 
-* In favor of contracting a disease
-* In favor of experiencing a natural disaster
-* Calls for self-injury or suicide
-* Calls for death without a perpetrator or method
-* Calls for accidents and other physical harms caused either by no perpetrator or by a deity
+* Contracting a disease
+* Experiencing a natural disaster
+* Self-injury or suicide
+* Death without a perpetrator or method
+* Accidents and other physical harms caused either by no perpetrator or by a deity
 
-* Statements denying existence (including but not limited to: "\[protected characteristic(s) or quasi-protected characteristic\] do not exist", "no such thing as \[protected charactic(s) or quasi-protected characteristic\]" or “\[protected characteristic(s) or quasi-protected characteristic\] shouldn’t exist”)
-* Harmful stereotypes historically linked to intimidation, exclusion, or violence on the basis of a protected characteristic, such as Blackface; Holocaust denial; claims that Jewish people control financial, political, or media institutions; and references to Dalits as menial laborers
+* Harmful stereotypes historically linked to intimidation or violence, such as Blackface; Holocaust denial; claims that Jewish people control financial, political, or media institutions; references to Dalits as menial laborers; and comparing Black people to farm equipment.
 * Mocking the concept, events or victims of hate crimes even if no real person is depicted in an image.
-* Mocking people on the basis of their Protected Characteristics or Quasi-Protected Characteristics for having or experiencing a disease.
-
-* Content that describes or negatively targets people with slurs, where slurs are defined as words that inherently create an atmosphere of exclusion and intimidation against people on the basis of a protected characteristic, often because these words are tied to historical discrimination, oppression, and violence. They do this even when targeting someone who is not a member of the PC group that the slur inherently targets.
+* Mocking people for having or experiencing a disease.
+* Content that describes or negatively targets people with slurs. Slurs are defined as words that inherently create an atmosphere of exclusion and intimidation against people on the basis of a protected characteristic, often because these words are tied to historical discrimination, oppression, and violence.
 
   
 
 **Tier 2**
 
-Content targeting a person or group of people on the basis of their protected characteristic(s) (in written or visual form):
+Content targeting a person or group of people on the basis of their protected characteristic(s) (in written or visual form) with:
 
-* Generalizations that state inferiority in the following ways:
-    * Physical appearance, including but not limited to: ugly, hideous.
-    * Mental characteristics are defined as those about:
-        * Intellectual capacity, including but not limited to: dumb, stupid, idiots.
-        * Education, including but not limited to: illiterate, uneducated.
-        * Mental health, including but not limited to: mentally ill, retarded, crazy, insane.
-    * Moral characteristics are defined as those about:
-        * Character traits culturally perceived as negative, including but not limited to: coward, liar, arrogant, ignorant.
-        * Derogatory terms related to sexual activity, including but not limited to: whore, slut, perverts.
+* Calls or support for exclusion or segregation or statements of intent to exclude or segregate, defined as:
 
-* Other statements of inferiority, which we define as:
-    * Expressions about being less than adequate, including but not limited to: worthless, useless.
-    * Expressions about being better/worse than another protected characteristic, including but not limited to: "I believe that males are superior to females."
-    * Expressions about deviating from the norm, including but not limited to: freaks, abnormal.
+* General exclusion, which means calling for general exclusion or segregation, such as “No X allowed!”
+* Political exclusion, which means denying the right to political participation or arguing for incarceration or denial of political rights.
+* Economic exclusion, which means denying access to economic entitlements and limiting participation in the labor market. We do allow content arguing for gender-based limitations of military, law enforcement, and teaching jobs. We also allow the same content based on sexual orientation, when the content is based on religious beliefs.
+* Social exclusion, which means things like denying access to spaces (physical and online) and social services, except for sex or gender-based exclusion from spaces commonly limited by sex or gender, such as restrooms, sports and sports leagues, health and support groups, and specific schools.
 
-* Expressions of contempt, except in a romantic break-up context, and disgust, which we define as:
-    * Self-admission to intolerance on the basis of a protected characteristics, including but not limited to: homophobic, islamophobic, racist.
-    * Expressions of hate, including but not limited to: "I despise","I hate", " I can't stand".
-    * Expressions of dismissal, including but not limited to: "I don´t respect", "I don't like", " I don´t care for"
-    * Expressions that suggest the target causes sickness, including but not limited to: vomit, throw up.
-    * Expressions of repulsion or distaste, including but not limited to: vile, disgusting, yuck.
+* Insults, including those about:
 
+* Character, including but not limited to allegations of cowardice, dishonesty, basic criminality, and sexual promiscuity or other sexual immorality.
+* Mental characteristics, including but not limited to allegations of stupidity, intellectual capacity, and mental illness, and unsupported comparisons between PC groups on the basis of inherent intellectual capacity. We do allow allegations of mental illness or abnormality when based on gender or sexual orientation, given political and religious discourse about transgenderism and homosexuality and common non-serious usage of words like “weird.”
+* Other areas, including but not limited to allegations of worthlessness, uselessness, ugliness, dirtiness.
+
+* Expressions that suggest the target causes sickness, including but not limited to “make me vomit.”
 * Targeted cursing, except certain gender-based cursing in a romantic break-up context, defined as:
-    * Referring to the target as genitalia or anus, including but not limited to: cunt, dick, asshole.
-    * Profane terms or phrases or other curses with the intent to insult, including but not limited to: fuck, bitch, motherfucker.
-    * Terms or phrases calling for engagement in sexual activity, or contact with genitalia, anus, feces or urine, including but not limited to: suck my dick, kiss my ass, eat shit.
 
-* Exclusion or segregation in the form of calls for action, statements of intent, aspirational or conditional statements, or statements advocating or supporting defined as:
-
-* Explicit exclusion, which means things like expelling certain groups or saying they are not allowed or segregation.
-* Political exclusion, which means denying the right to political participation.
-* Economic exclusion, which means denying access to economic entitlements and limiting participation in the labor market.
-* Social exclusion, which means things like denying access to spaces (physical and online)and social services, except for gender-based exclusion in health and positive support Groups.
+* Targeted use of “fuck” or variations of “fuck” with intent to insult, such as “Fuck the \[Protected Characteristic\]!”
+* Terms or phrases calling for engagement in sexual activity, or contact with genitalia, anus, feces or urine, including but not limited to: suck my dick, kiss my ass, eat shit.
 
 For the following Community Standards, we require additional information and/or context to enforce:
 
@@ -1411,9 +1358,10 @@ Do not post:
 
 * Content explicitly providing or offering to provide products or services that aim to change people’s sexual orientation or gender identity.
 * Content attacking concepts, institutions, ideas, practices, or beliefs associated with protected characteristics, which are likely to contribute to imminent physical harm, intimidation or discrimination against the people associated with that protected characteristic. Meta looks at a range of signs to determine whether there is a threat of harm in the content. These include but are not limited to: content that could incite imminent violence or intimidation; whether there is a period of heightened tension such as an election or ongoing conflict; and whether there is a recent history of violence against the targeted protected group. In some cases, we may also consider whether the speaker is a public figure or occupies a position of authority.
-* Content targeting a person or group of people on the basis of their protected characteristic(s) with claims that they have or spread the novel coronavirus, are responsible for the existence of the novel coronavirus, are deliberately spreading the novel coronavirus.
 
 In certain cases, we will allow content that may otherwise violate the Community Standards when it is determined that the content is satirical. Content will only be allowed if the violating elements of the content are being satirized or attributed to something or someone else in order to mock or criticize them.
+
+Note: if you are a European Union user, and are seeing content that you believe violates hate speech laws within your country, you can submit a legal removal request to [Facebook](https://www.facebook.com/help/contact/319149701968527) or [Instagram](https://help.instagram.com/contact/406206379945942).
 
 Bullying and Harassment
 =======================
