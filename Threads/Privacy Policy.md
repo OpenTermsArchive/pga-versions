@@ -126,11 +126,11 @@ Related Articles
 
 [Threads Policies and Terms](https://help.instagram.com/280495901606863/?helpref=related_articles)
 
-[About Threads and the fediverse](https://help.instagram.com/169559812696339/?helpref=related_articles)
-
 [Post on Threads](https://help.instagram.com/391254440276136/?helpref=related_articles)
 
 [Explore on Threads](https://help.instagram.com/703177488561974/?helpref=related_articles)
+
+[About Threads and the fediverse](https://help.instagram.com/169559812696339/?helpref=related_articles)
 
 Related Articles
 
@@ -140,8 +140,8 @@ Related Articles
 
 [Threads Policies and Terms](https://help.instagram.com/280495901606863/?helpref=related_articles)
 
-[About Threads and the fediverse](https://help.instagram.com/169559812696339/?helpref=related_articles)
-
 [Post on Threads](https://help.instagram.com/391254440276136/?helpref=related_articles)
 
 [Explore on Threads](https://help.instagram.com/703177488561974/?helpref=related_articles)
+
+[About Threads and the fediverse](https://help.instagram.com/169559812696339/?helpref=related_articles)
