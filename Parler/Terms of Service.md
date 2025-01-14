@@ -126,6 +126,15 @@ Beyond social media, Parler develops blockchain-integrated apps and services tha
 **Blockchain Governance, OPT Digital Rewards, and Future Projection**s  
 The Optio Blockchain operates through decentralized governance led by Optio Node Owners, who follow a community-driven constitution. Users can earn points that convert into OPT digital rewards by engaging with Parler apps integrated into the blockchain, which can then be used within the Parler platform. However, there is no promise of financial gain or profit associated with these rewards, as they are not investment products and have no guaranteed value outside of their utility within the ecosystem. Parler’s future projections, while promising, are subject to risks and uncertainties, and outcomes may differ from those anticipated.
 
+**Plano Address:  
+**5700 Tennyson Pkwy  
+Plano, TX 75024
+
+**German Address:  
+**MiOM Kreativraum e.V.  
+Wilhelm-Mauser-Straße 47, Halle 5  
+50827 Köln
+
 © 2025 Parler. All rights reserved.
 
 [Privacy Policy](https://parler.com/privacy-policy)[Terms of Service](https://parler.com/terms-of-service)[Disclaimers](https://parler.com/disclaimers)[Cookie Policy](https://parler.com/cookie-policy)
