@@ -1021,7 +1021,7 @@ Don’t post content on YouTube if it fits any of the descriptions noted below.
 
 Other types of content that violate this policy
 
-* Content that shares, threatens to share, or encourages others to share non-public personally identifiable information (PII). 
+* Content that shares, threatens to share, or encourages others to share non-public personally identifiable information (PII).
     * PII includes, but isn’t limited to, home addresses; email addresses; sign-in credentials, like a username or password; phone numbers; passport numbers; medical records; or bank account information.
     * This doesn't include posting widely available public information, like an official’s office phone number or the phone number of a business. 
     * This policy applies to sharing your own PII, sharing someone else’s PII, and situations where you accidentally share PII.
@@ -1030,6 +1030,7 @@ Other types of content that violate this policy
 * Content that promotes harmful conspiracy theories or that targets someone by claiming they’re a part of a harmful conspiracy theory. A harmful conspiracy theory is one that has been linked to direct threats or violent acts.
 * Content that threatens an identifiable individual or their property. This includes implicit threats that don’t specify a time or place but may feature a weapon, for example.
 * Content that depicts a staged meet-up that is used to accuse an identifiable individual of egregious misconduct with a minor, without the presence of law enforcement.
+* Content that depicts vigilantes restraining or assaulting individuals, or engaging in a dangerous or reckless vehicle pursuit to apprehend an individual.
 * Content reveling in or mocking the death or serious injury of an identifiable individual.
 * Content that realistically simulates deceased minors or victims of deadly or well-documented major violent events describing their death or violence experienced.
 * Content that depicts creators simulating acts of serious violence against others. For example, executions, torture, maimings, beatings, and more.
@@ -1047,9 +1048,9 @@ Exceptions
 
 If the primary purpose is educational, documentary, scientific, or artistic in nature, we may allow content that includes harassment. These exceptions are not a pass to harass someone. Some examples include:
 
-* **Debates related to high-profile officials or leaders**: Content featuring debates or discussions of topical issues concerning individuals who have positions of power, like high-profile government officials or CEOs of major multinational corporations.
-* **Scripted performances**: Insults made in the context of an artistic medium such as scripted satire, stand up comedy, or music (such as a diss track). Note: This exception is not a pass to harass someone and claim “I was joking.”
-* **Harassment education or awareness**: Content that features actual or simulated harassment for documentary purposes or with willing participants (such as actors) to combat cyberbullying or raise awareness.
+* **Debates related to high-profile officials or leaders:** Content featuring debates or discussions of topical issues concerning individuals who have positions of power, like high-profile government officials or CEOs of major multinational corporations.
+* **Scripted performances:** Insults made in the context of an artistic medium such as scripted satire, stand up comedy, or music (such as a diss track). Note: This exception is not a pass to harass someone and claim “I was joking.”
+* **Harassment education or awareness:** Content that features actual or simulated harassment for documentary purposes or with willing participants (such as actors) to combat cyberbullying or raise awareness.
 
 Note: We take a harder line on content that maliciously insults someone based on their [protected group status](https://support.google.com/youtube/answer/2801939?hl=en), regardless of whether or not they are a high-profile individual.
 
@@ -1074,15 +1075,15 @@ Here are some examples of content that’s not allowed on YouTube:
 * Using an extreme insult to dehumanize an individual based on their intrinsic attributes. For example: “Look at this dog of a woman! She’s not even a human being — she must be some sort of mutant or animal!”
 * Targeting an individual and expressing a wish for their death or serious injury: “I hate her so much. I wish she’d just get hit by a truck and die.”
 * Depicting an identifiable individual being murdered or seriously injured. For example: A video includes a clip from a movie, where one character is brutally shot and killed. The video is edited so that a real individual’s photo is placed over the actor’s face.
-* Threatening someone’s physical safety. This includes explicit threats like, “When I see you on Saturday, I’m going to kill you.” This also includes implying violence by making statements like, “You better watch out, I’m coming for you” while brandishing a weapon.
+* Threatening someone’s physical safety. This includes explicit threats like, “When I see you on Saturday, I’m going to kill you.” This also includes implying violence by making statements like, “You better watch out, I’m coming for you” while brandishing a weapon.
 * Posting an individual’s non-public personally identifiable information, like a phone number, home address, or email address, to direct abusive attention or traffic toward them. For example, saying, “I got a hold of their phone number. Call and leave messages until they pick up!”
 * “Raiding” or directing malicious abuse to identifiable individuals through in-game voice chat or messages during a stream.
-* Directing users to leave abusive comments in another creator's comment section.
+* Directing users to leave abusive comments in another creator's comment section.
 * Linking to off platform sites that host or feature non-consensual intimate imagery.
 * Requesting that other users get in touch to share non-consensual intimate imagery.
 * “Swatting” or other prank calls to emergency or crisis response services, or encouraging viewers to act in this or any other harassing behavior.
 * Stalking or attempting to blackmail users.
-* Video game content which has been developed or modified (“modded”) to promote violence against an individual.
+* Video game content which has been developed or modified (“modded”) to promote violence against an individual.
 
 Remember, this list isn't exhaustive. Don't post content if you think it might violate this policy.
 
