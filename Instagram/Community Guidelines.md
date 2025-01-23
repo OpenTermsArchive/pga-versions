@@ -1405,7 +1405,6 @@ Note: This policy does not apply to individuals who are part of designated organ
     * Calls for death and statements in favor of contracting or developing a medical condition.
     * Celebration or mocking of death or medical condition.
     * Claims about sexually transmitted infections.
-    * Derogatory terms related to female gendered cursing.
     * Statements of inferiority about physical appearance.
 
 **Tier 2: Additional protections for all Minors, Private Adults and Limited Scope Public Figures (for example, individuals whose primary fame is limited to their activism, journalism, or those who become famous through involuntary means):**
@@ -1448,6 +1447,7 @@ Note: This policy does not apply to individuals who are part of designated organ
 * Minors get the most protection under our policy. In addition to all the protections listed above, private minors are also protected from:
     * Allegations about criminal or illegal behavior.
     * Videos of physical bullying against minors, shared in any context.
+    * Derogatory terms related to female gendered cursing.
 
 **Bullying and harassment through pages, groups, events and messages**
 
