@@ -1857,8 +1857,7 @@ These policies prohibit certain types of content relating to free and fair democ
 * **Candidate eligibility:** Content that advances false claims related to the technical eligibility requirements for current political candidates and sitting elected government officials to serve in office. Eligibility requirements considered are based on applicable national law, and include age, citizenship, or vital status.
 * **Incitement to interfere with democratic processes:** Content encouraging others to interfere with democratic processes. This includes obstructing or interrupting voting procedures.
 * **Election integrity:** Content advancing false claims that widespread fraud, errors, or glitches occurred in certain past elections to determine heads of government. Or, content that claims that the certified results of those elections were false. This policy currently applies to:
-    * The 2021 German federal election
-    * The 2014, 2018, and 2022 Brazilian Presidential elections
+    * The 2014, 2018, and 2022 Brazilian Presidential elections
 
 Keep in mind that this isn't a complete list.
 
@@ -1890,8 +1889,7 @@ Incitement to interfere with democratic processes
 
 Election integrity
 
-* Content advancing false claims that widespread fraud, error, or glitches changed the outcome of the German parliamentary (Bundestag) elections, delegitimizes the formation of the new government or the election and appointment of the next German Chancellor.
-* False claims that widespread fraud, error, or glitches changed the outcome of the 2018 Brazilian presidential election.  
+* False claims that widespread fraud, error, or glitches changed the outcome of the 2018 Brazilian presidential election.
 
 Educational, documentary, scientific, or artistic content
 ---------------------------------------------------------
