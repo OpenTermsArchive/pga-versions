@@ -150,4 +150,4 @@ Wilhelm-Mauser-Straße 47, Halle 5
 
 [Privacy Policy](https://parler.com/privacy-policy)[Terms of Service](https://parler.com/terms-of-service)[Disclaimers](https://parler.com/disclaimers)[Cookie Policy](https://parler.com/cookie-policy)
 
-[](https://app.parler.com/parler)[](https://playtv.parler.com/)[](https://www.facebook.com/ParlerMedia)[TikTok](https://www.tiktok.com/@parler_social)[](https://www.instagram.com/parler_social/)[](https://x.com/parler_social)
+[](https://app.parler.com/parler)[](https://playtv.parler.com/)[](https://www.facebook.com/ParlerMedia)[TikTok](https://www.tiktok.com/@getparler?_t=ZT-8tRfN9teBVm&_r=1)[](https://www.instagram.com/getparler)[](https://x.com/getparlerapp)
