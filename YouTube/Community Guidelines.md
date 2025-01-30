@@ -213,7 +213,7 @@ If your content violates this policy, we will remove the content and send you an
 
 If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
-If you get 3 strikes within 90 days, your channel will be terminated. [Learn more about our strikes system](https://support.google.com/youtube/answer/2802032).
+If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strikes system](https://support.google.com/youtube/answer/2802032).
 
 We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
@@ -280,7 +280,6 @@ Don’t post links in your content on YouTube if they direct users to content th
 * Links to sites selling items noted in our [regulated goods guidelines](https://support.google.com/youtube/answer/9229611)
 * Links to content that would violate our hate or harassment policies
 * Links to content encouraging others to commit violent acts
-* Links to content ​​that spread medical misinformation contradicting local health authorities’ (LHA) or the World Health Organization’s (WHO) medical info about COVID-19
 * Links to websites or apps that spread misleading or deceptive content that can cause serious risk of egregious harm, such as interfering with democratic processes
 * Links to external sites that contain manifestos of violent attackers
 
@@ -300,7 +299,6 @@ Here are some examples of content that’s not allowed on YouTube.
 * Any link leading users to a website, file hosting service, or other source that allows them to access or download child sexual abuse imagery.
 * Verbally directing viewers to a website to find a profile or page on another platform so they can watch content that violates YouTube’s Community Guidelines.
 * Embedding a URL in a video of a site that would mislead voters about the time, place, means, or eligibility requirements for voting.
-* A link to an article claiming that COVID-19 vaccines are part of a depopulation agenda.
 
 Remember that this list is not complete. If you think content might violate this policy, don’t post it.
 
@@ -311,7 +309,7 @@ If your content violates this policy, we will remove the content and send you an
 
 If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
-If you get 3 strikes within 90 days, your channel will be terminated. [Learn more about our strikes system](https://support.google.com/youtube/answer/2802032).
+If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strikes system](https://support.google.com/youtube/answer/2802032).
 
 We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
@@ -474,7 +472,7 @@ If your content violates this policy, we will remove the content and send you an
 
 If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
-If you get 3 strikes within 90 days, your channel will be terminated. [Learn more about our strikes system](https://support.google.com/youtube/answer/2802032).
+If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strikes system](https://support.google.com/youtube/answer/2802032).
 
 We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
@@ -628,7 +626,7 @@ If your content violates this policy, we will remove the content and send you an
 
 If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
-If you get 3 strikes within 90 days, your channel will be terminated. [Learn more about our strikes system](https://support.google.com/youtube/answer/2802032).
+If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strikes system](https://support.google.com/youtube/answer/2802032).
 
 We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
@@ -779,7 +777,7 @@ If your content violates this policy, we will remove the content and send you an
 
 If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
-If you get 3 strikes within 90 days, your channel will be terminated. [Learn more about our strikes system](https://support.google.com/youtube/answer/2802032).
+If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strikes system](https://support.google.com/youtube/answer/2802032).
 
 We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
@@ -938,7 +936,7 @@ If your content violates this policy, we will remove the content and send you an
 
 If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
-If you get 3 strikes within 90 days, your channel will be terminated. [Learn more about our strikes system](https://support.google.com/youtube/answer/2802032).
+If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strikes system](https://support.google.com/youtube/answer/2802032).
 
 We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
@@ -994,7 +992,7 @@ If your content violates this policy, we will remove the content and send you an
 
 If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
-If you get 3 strikes within 90 days, your channel will be terminated. [Learn more about our strikes system](https://support.google.com/youtube/answer/2802032).
+If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strikes system](https://support.google.com/youtube/answer/2802032).
 
 We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
@@ -1094,7 +1092,7 @@ If your content violates this policy, we will remove the content and send you an
 
 If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
-If you get 3 strikes within 90 days, your channel will be terminated. [Learn more about our strikes system](https://support.google.com/youtube/answer/2802032).
+If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strikes system](https://support.google.com/youtube/answer/2802032).
 
 We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
@@ -1269,7 +1267,7 @@ If your content violates this policy, we will remove the content and send you an
 
 If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
-If you get 3 strikes within 90 days, your channel will be terminated. [Learn more about our strikes system](https://support.google.com/youtube/answer/2802032).
+If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strikes system](https://support.google.com/youtube/answer/2802032).
 
 We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
@@ -1390,7 +1388,7 @@ If your content violates this policy, we will remove the content and send you an
 
 If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
-If you get 3 strikes within 90 days, your channel will be terminated. [Learn more about our strikes system](https://support.google.com/youtube/answer/2802032).
+If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strikes system](https://support.google.com/youtube/answer/2802032).
 
 We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
@@ -1581,7 +1579,7 @@ If your content violates this policy, we will remove the content and send you an
 
 If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
-If you get 3 strikes within 90 days, your channel will be terminated. [Learn more about our strikes system](https://support.google.com/youtube/answer/2802032).
+If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strikes system](https://support.google.com/youtube/answer/2802032).
 
 We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
@@ -1659,7 +1657,7 @@ If your content violates this policy, we will remove the content and send you an
 
 If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
-If you get 3 strikes within 90 days, your channel will be terminated. [Learn more about our strikes system](https://support.google.com/youtube/answer/2802032).
+If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strikes system](https://support.google.com/youtube/answer/2802032).
 
 We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
@@ -1774,7 +1772,7 @@ If your content violates this policy, we will remove the content and send you an
 
 If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
-If you get 3 strikes within 90 days, your channel will be terminated. [Learn more about our strikes system](https://support.google.com/youtube/answer/2802032).
+If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strikes system](https://support.google.com/youtube/answer/2802032).
 
 We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
@@ -1917,19 +1915,21 @@ If your content violates this policy, we will remove the content and send you an
 
 If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
-If you get 3 strikes within 90 days, your channel will be terminated. [Learn more about our strikes system](https://support.google.com/youtube/answer/2802032).
+If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strikes system](https://support.google.com/youtube/answer/2802032).
 
 We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
 Medical misinformation policy
 =============================
 
-YouTube doesn't allow content that poses a serious risk of egregious harm by spreading medical misinformation that contradicts local health authorities’ (LHAs) or the World Health Organization’s (WHO) guidance about specific health conditions and substances. This policy includes the following categories:
+**Note:** YouTube reviews all its Community Guidelines as a normal course of business.  In our [2023 blog post](https://blog.youtube/inside-youtube/a-long-term-vision-for-medical-misinformation-policies/) we announced ending several of our COVID-19 policies and we have now retired the remaining standalone COVID-19 policies given the reduced burden of disease. Our broader Medical Misinformation framework continues to apply to content related to infectious diseases including influenza and measles.
+
+YouTube doesn't allow content that poses a serious risk of egregious harm by spreading medical misinformation that contradicts local health authority (LHA) guidance about specific health conditions and substances. This policy includes the following categories:
 
 * Prevention misinformation
 * Treatment misinformation
 
-**Note:** YouTube’s medical misinformation policies are subject to change in response to changes to guidance from health authorities or WHO. There may be a delay between new LHAs/WHO guidance and policy updates, and our policies may not cover all LHA/WHO guidance related to specific health conditions and substances.
+**Note:** YouTube’s medical misinformation policies are subject to change in response to changes to guidance from health authorities. There may be a delay between new guidance and policy updates, and our policies may not cover all LHA guidance related to specific health conditions and substances.
 
 **What this policy means for you**
 ----------------------------------
@@ -1938,7 +1938,7 @@ YouTube doesn't allow content that poses a serious risk of egregious harm by spr
 
 **Prevention misinformation:** We do not allow content that promotes information that contradicts health authority guidance on the prevention or transmission of specific health conditions, or on the safety, efficacy or ingredients of currently approved and administered vaccines.
 
-**Treatment misinformation:** We do not allow content that promotes information that contradicts health authority guidance on treatments for specific health conditions, including promotion of specific harmful substances or practices that have not been approved by local health authorities or the World Health Organization as safe or effective, or that have been confirmed to cause severe harm.
+**Treatment misinformation:** We do not allow content that promotes information that contradicts health authority guidance on treatments for specific health conditions, including promotion of specific harmful substances or practices that have not been approved by local health authorities as safe or effective, or that have been confirmed to cause severe harm.
 
 These policies apply to videos, video descriptions, comments, live streams, and any other YouTube product or feature. Keep in mind that this isn't a complete list. Please note these policies also apply to [external links](https://support.google.com/youtube/answer/9054257) in your content. This can include clickable URLs, verbally directing users to other sites in video, as well as other forms.
 
@@ -1963,7 +1963,7 @@ Harmful substances & practices as prevention methods
 
 Vaccine misinformation
 
-* Claims that contradict health authority and World Health Organization guidance on **safety**, **efficacy**, and **ingredients of currently administered and approved vaccines**.
+* Claims that contradict health authority guidance on **safety**, **efficacy**, and **ingredients of currently administered and approved vaccines**.
     * **Vaccine safety:** Content alleging that vaccines cause chronic side effects, such as cancer or paralysis, outside of rare side effects that are recognized by health authorities.
         * Examples:
             * Claims that the MMR vaccine causes autism.
@@ -1972,8 +1972,7 @@ Vaccine misinformation
             * Claims that an approved vaccine will cause death, infertility, miscarriage, autism, or contraction of other infectious diseases.
             * Claims that achieving herd immunity through natural infection is safer than vaccinating the population.
     * **Vaccine efficacy:** Content claiming that vaccines have no impact on the prevention of disease.
-        * Examples:
-            * Claims that vaccines do not reduce risk of contracting illness.
+        * Example:
             * Claims that vaccines do not reduce the severity of illness, including hospitalization or death.
     * **Ingredients in vaccines:** Content misrepresenting the ingredients contained in vaccines.
         * Examples:
@@ -1996,8 +1995,6 @@ Health authority vaccine information:
 * [MHLW Immunization Information](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/yobou-sesshu/index.html) (Japan)
 * [National Vaccination Calendar](https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/c/calendario-nacional-de-vacinacao) (Brazil)
 * [Universal Vaccination Program](https://www.gob.mx/salud/censia/acciones-y-programas/programa-de-vacunacion-universal) (Mexico)
-* [World Health Organization vaccine safety](https://www.who.int/news-room/q-a-detail/vaccines-and-immunization-vaccine-safety) (Global)
-* [World Health Organization vaccine preventable diseases](https://www.who.int/teams/immunization-vaccines-and-biologicals/diseases) (Global)
 
 Additional vaccine information:
 
@@ -2008,7 +2005,7 @@ Additional vaccine information:
 Transmission information
 ------------------------
 
-* Content that promotes transmission information that contradicts local health authorities or the World Health Organization.
+* Content that promotes transmission information that contradicts local health authorities.
 
 #### **Treatment misinformation**
 
@@ -2024,7 +2021,7 @@ Harmful substances & practices as treatment methods
     * Chelation therapy to treat autism
     * Colloidal silver
     * Gasoline, diesel and kerosene
-* Content that recommends the use of specific methods for the treatment of cancer when those have not been approved by local health authorities or the World Health Organization as safe or effective or have been confirmed to be harmful or ineffective for cancer treatment.
+* Content that recommends the use of specific methods for the treatment of cancer when those have not been approved by local health authorities as safe or effective or have been confirmed to be harmful or ineffective for cancer treatment.
     * Examples:
         * Content that promotes the use of the following methods for the treatment of cancer, outside of clinical trials:
             * Caesium chloride (cesium salts)
@@ -2051,9 +2048,7 @@ Harmful alternative methods & discouragement of professional treatment
     * Content that claims that juicing has better results than chemotherapy in treating cancer.
 * Content that recommends alternative treatments in place of approved treatments for cancer.
     * Content that promotes diet and exercise instead of seeking approved treatment for cancer.
-* Content that contradicts local health authorities’ or the World Health Organization’s guidance on the safety of chemical and surgical abortion:
-    * Claims that abortion causes breast cancer.
-    * Claims that abortion commonly results in or carries a high risk of infertility or future miscarriage.
+* Content that contradicts local health authorities’ guidance on the safety of chemical and surgical abortion.
 * Promotion of alternative abortion methods in place of chemical or surgical methods deemed safe by health authorities.
 * Promotion of alternative formulas for infants in place of breast milk or commercial formula.
 
@@ -2069,19 +2064,21 @@ YouTube also believes people should be able to share their own experiences, incl
 
 If your content violates this policy, we’ll remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
 
-If this is your first time violating our Community Guidelines, you’ll likely get a warning with no penalty to your channel. If it’s not, we may issue a strike against your channel. If you get 3 strikes within 90 days, your channel will be terminated. You can learn more about [our strikes system here](https://support.google.com/youtube/answer/2802032).
+If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the option to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning. You can learn more about [our strikes system here](https://support.google.com/youtube/answer/2802032).
 
 We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. You can learn more about [channel or account terminations here](https://support.google.com/youtube/answer/2802168).
 
 Medical misinformation policy
 =============================
 
-YouTube doesn't allow content that poses a serious risk of egregious harm by spreading medical misinformation that contradicts local health authorities’ (LHAs) or the World Health Organization’s (WHO) guidance about specific health conditions and substances. This policy includes the following categories:
+**Note:** YouTube reviews all its Community Guidelines as a normal course of business.  In our [2023 blog post](https://blog.youtube/inside-youtube/a-long-term-vision-for-medical-misinformation-policies/) we announced ending several of our COVID-19 policies and we have now retired the remaining standalone COVID-19 policies given the reduced burden of disease. Our broader Medical Misinformation framework continues to apply to content related to infectious diseases including influenza and measles.
+
+YouTube doesn't allow content that poses a serious risk of egregious harm by spreading medical misinformation that contradicts local health authority (LHA) guidance about specific health conditions and substances. This policy includes the following categories:
 
 * Prevention misinformation
 * Treatment misinformation
 
-**Note:** YouTube’s medical misinformation policies are subject to change in response to changes to guidance from health authorities or WHO. There may be a delay between new LHAs/WHO guidance and policy updates, and our policies may not cover all LHA/WHO guidance related to specific health conditions and substances.
+**Note:** YouTube’s medical misinformation policies are subject to change in response to changes to guidance from health authorities. There may be a delay between new guidance and policy updates, and our policies may not cover all LHA guidance related to specific health conditions and substances.
 
 **What this policy means for you**
 ----------------------------------
@@ -2090,7 +2087,7 @@ YouTube doesn't allow content that poses a serious risk of egregious harm by spr
 
 **Prevention misinformation:** We do not allow content that promotes information that contradicts health authority guidance on the prevention or transmission of specific health conditions, or on the safety, efficacy or ingredients of currently approved and administered vaccines.
 
-**Treatment misinformation:** We do not allow content that promotes information that contradicts health authority guidance on treatments for specific health conditions, including promotion of specific harmful substances or practices that have not been approved by local health authorities or the World Health Organization as safe or effective, or that have been confirmed to cause severe harm.
+**Treatment misinformation:** We do not allow content that promotes information that contradicts health authority guidance on treatments for specific health conditions, including promotion of specific harmful substances or practices that have not been approved by local health authorities as safe or effective, or that have been confirmed to cause severe harm.
 
 These policies apply to videos, video descriptions, comments, live streams, and any other YouTube product or feature. Keep in mind that this isn't a complete list. Please note these policies also apply to [external links](https://support.google.com/youtube/answer/9054257) in your content. This can include clickable URLs, verbally directing users to other sites in video, as well as other forms.
 
@@ -2115,7 +2112,7 @@ Harmful substances & practices as prevention methods
 
 Vaccine misinformation
 
-* Claims that contradict health authority and World Health Organization guidance on **safety**, **efficacy**, and **ingredients of currently administered and approved vaccines**.
+* Claims that contradict health authority guidance on **safety**, **efficacy**, and **ingredients of currently administered and approved vaccines**.
     * **Vaccine safety:** Content alleging that vaccines cause chronic side effects, such as cancer or paralysis, outside of rare side effects that are recognized by health authorities.
         * Examples:
             * Claims that the MMR vaccine causes autism.
@@ -2124,8 +2121,7 @@ Vaccine misinformation
             * Claims that an approved vaccine will cause death, infertility, miscarriage, autism, or contraction of other infectious diseases.
             * Claims that achieving herd immunity through natural infection is safer than vaccinating the population.
     * **Vaccine efficacy:** Content claiming that vaccines have no impact on the prevention of disease.
-        * Examples:
-            * Claims that vaccines do not reduce risk of contracting illness.
+        * Example:
             * Claims that vaccines do not reduce the severity of illness, including hospitalization or death.
     * **Ingredients in vaccines:** Content misrepresenting the ingredients contained in vaccines.
         * Examples:
@@ -2148,8 +2144,6 @@ Health authority vaccine information:
 * [MHLW Immunization Information](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/yobou-sesshu/index.html) (Japan)
 * [National Vaccination Calendar](https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/c/calendario-nacional-de-vacinacao) (Brazil)
 * [Universal Vaccination Program](https://www.gob.mx/salud/censia/acciones-y-programas/programa-de-vacunacion-universal) (Mexico)
-* [World Health Organization vaccine safety](https://www.who.int/news-room/q-a-detail/vaccines-and-immunization-vaccine-safety) (Global)
-* [World Health Organization vaccine preventable diseases](https://www.who.int/teams/immunization-vaccines-and-biologicals/diseases) (Global)
 
 Additional vaccine information:
 
@@ -2160,7 +2154,7 @@ Additional vaccine information:
 Transmission information
 ------------------------
 
-* Content that promotes transmission information that contradicts local health authorities or the World Health Organization.
+* Content that promotes transmission information that contradicts local health authorities.
 
 #### **Treatment misinformation**
 
@@ -2176,7 +2170,7 @@ Harmful substances & practices as treatment methods
     * Chelation therapy to treat autism
     * Colloidal silver
     * Gasoline, diesel and kerosene
-* Content that recommends the use of specific methods for the treatment of cancer when those have not been approved by local health authorities or the World Health Organization as safe or effective or have been confirmed to be harmful or ineffective for cancer treatment.
+* Content that recommends the use of specific methods for the treatment of cancer when those have not been approved by local health authorities as safe or effective or have been confirmed to be harmful or ineffective for cancer treatment.
     * Examples:
         * Content that promotes the use of the following methods for the treatment of cancer, outside of clinical trials:
             * Caesium chloride (cesium salts)
@@ -2203,9 +2197,7 @@ Harmful alternative methods & discouragement of professional treatment
     * Content that claims that juicing has better results than chemotherapy in treating cancer.
 * Content that recommends alternative treatments in place of approved treatments for cancer.
     * Content that promotes diet and exercise instead of seeking approved treatment for cancer.
-* Content that contradicts local health authorities’ or the World Health Organization’s guidance on the safety of chemical and surgical abortion:
-    * Claims that abortion causes breast cancer.
-    * Claims that abortion commonly results in or carries a high risk of infertility or future miscarriage.
+* Content that contradicts local health authorities’ guidance on the safety of chemical and surgical abortion.
 * Promotion of alternative abortion methods in place of chemical or surgical methods deemed safe by health authorities.
 * Promotion of alternative formulas for infants in place of breast milk or commercial formula.
 
@@ -2221,6 +2213,6 @@ YouTube also believes people should be able to share their own experiences, incl
 
 If your content violates this policy, we’ll remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
 
-If this is your first time violating our Community Guidelines, you’ll likely get a warning with no penalty to your channel. If it’s not, we may issue a strike against your channel. If you get 3 strikes within 90 days, your channel will be terminated. You can learn more about [our strikes system here](https://support.google.com/youtube/answer/2802032).
+If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the option to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning. You can learn more about [our strikes system here](https://support.google.com/youtube/answer/2802032).
 
 We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. You can learn more about [channel or account terminations here](https://support.google.com/youtube/answer/2802168).
