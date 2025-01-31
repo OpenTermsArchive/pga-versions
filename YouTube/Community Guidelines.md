@@ -211,7 +211,7 @@ What happens if content violates this policy
 
 If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link. Note that violative URLs posted within the video itself or in the video’s metadata may result in the video being removed.
 
-If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
+If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the option to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning may not expire and your channel may be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
 If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strikes system](https://support.google.com/youtube/answer/2802032).
 
@@ -307,7 +307,7 @@ What happens if content violates this policy
 
 If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link. Note that violative URLs posted within the video itself or in the video’s metadata may result in the video being removed.
 
-If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
+If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the option to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning may not expire and your channel may be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
 If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strikes system](https://support.google.com/youtube/answer/2802032).
 
@@ -317,8 +317,6 @@ Spam, deceptive practices, & scams policies
 ===========================================
 
 The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. **T****ake the time to carefully read the policy below**. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
-
-**Note:** We recently reorganized our [Community Guidelines](https://support.google.com/youtube/answer/9288567) to provide further clarity around our policies related to Misinformation on YouTube. To review these policies, check out our articles on [Misinformation](https://support.google.com/youtube/answer/10834785) and [Elections misinformation](https://support.google.com/youtube/answer/10835034).
 
 YouTube doesn’t allow spam, scams, or other deceptive practices that take advantage of the YouTube community. We also don’t allow content where the main purpose is to trick others into leaving YouTube for another site.
 
@@ -344,7 +342,7 @@ Don’t post content on YouTube if it fits any of the descriptions noted below.
 
 This policy applies to videos, video descriptions, comments, live streams, and any other YouTube product or feature. Keep in mind that this isn't a complete list. Please note these policies also apply to [external links](https://support.google.com/youtube/answer/9054257) in your content. This can include clickable URLs, verbally directing users to other sites in video, as well as other forms.
 
-**Note**: You're allowed to encourage viewers to subscribe, hit the like button, share, or leave a comment.
+**Note:** You're allowed to encourage viewers to subscribe, hit the like button, share, or leave a comment.
 
 Video Spam
 ----------
@@ -419,13 +417,13 @@ Remember these are just some examples, and don't post content if you think it mi
 What happens if content violates this policy
 --------------------------------------------
 
-If your content violates this policy, we may suspend your monetization or terminate your channel or account. Learn more about [monetization policies](https://support.google.com/youtube/answer/1311392?hl=en)) and [channel or account terminations](https://support.google.com/youtube/answer/2802168).
+If your content violates this policy, we may suspend your monetization or terminate your channel or account. Learn more about [monetization policies](https://support.google.com/youtube/answer/1311392) and [channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
 For some violations, we may remove the content and issue a warning or a strike against your channel. If this happens, we’ll send you an email to let you know.
 
-You can take a policy training to allow the warning to expire after 90 days. However, if your content violates the same policy within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning. We may prevent repeat offenders from taking policy trainings in the future.
+You can take an optional policy training to allow the warning to expire after 90 days. However, if your content violates the same policy within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning. We may prevent repeat offenders from taking policy trainings in the future.
 
-If you get 3 strikes within 90 days, your channel will be terminated. Learn more about [our strike system](https://support.google.com/youtube/answer/2802032).
+If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strike system](https://support.google.com/youtube/answer/2802032).
 
 Playlists policy
 ================
@@ -470,7 +468,7 @@ What happens if content violates this policy
 
 If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link. Note that violative URLs posted within the video itself or in the video’s metadata may result in the video being removed.
 
-If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
+If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the option to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning may not expire and your channel may be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
 If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strikes system](https://support.google.com/youtube/answer/2802032).
 
@@ -624,7 +622,7 @@ What happens if content violates this policy
 
 If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link. Note that violative URLs posted within the video itself or in the video’s metadata may result in the video being removed.
 
-If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
+If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the option to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning may not expire and your channel may be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
 If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strikes system](https://support.google.com/youtube/answer/2802032).
 
@@ -775,7 +773,7 @@ What happens if content violates this policy
 
 If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link. Note that violative URLs posted within the video itself or in the video’s metadata may result in the video being removed.
 
-If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
+If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the option to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning may not expire and your channel may be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
 If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strikes system](https://support.google.com/youtube/answer/2802032).
 
@@ -934,7 +932,7 @@ What happens if content violates this policy
 
 If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link. Note that violative URLs posted within the video itself or in the video’s metadata may result in the video being removed.
 
-If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
+If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the option to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning may not expire and your channel may be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
 If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strikes system](https://support.google.com/youtube/answer/2802032).
 
@@ -990,7 +988,7 @@ What happens if content violates this policy
 
 If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link. Note that violative URLs posted within the video itself or in the video’s metadata may result in the video being removed.
 
-If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
+If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the option to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning may not expire and your channel may be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
 If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strikes system](https://support.google.com/youtube/answer/2802032).
 
@@ -1001,7 +999,7 @@ Harassment & cyberbullying policies
 
 The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. **T****ake the time to carefully read the policy below**. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
 
-We don’t allow content that targets someone with prolonged insults or slurs based on their physical traits or [protected group status](https://support.google.com/youtube/answer/2801939#protected_group), like age, disability, ethnicity, gender, sexual orientation, or race. We also don’t allow other harmful behaviors, like threats or doxxing. Keep in mind that we take a stricter approach on content that targets minors.
+We don’t allow content that targets someone with prolonged insults or slurs based on their physical traits or [protected group status](https://support.google.com/youtube/answer/2801939#protected_group). We also don’t allow other harmful behaviors, like threats or doxxing. Keep in mind that we take a stricter approach on content that targets minors.
 
 If you find content that violates this policy, report it. Instructions for reporting violations of our Community Guidelines [are available here](https://support.google.com/youtube/answer/2802027). If you find many videos or comments that you would like to report, you can [report the channel](https://support.google.com/youtube/answer/2802027#report_channel). For tips about how to stay safe, keep your account secure, and protect your privacy, check out the [Creator Safety Center](https://www.youtube.com/creators/safety/) and [Stay safe on YouTube](https://support.google.com/youtube/answer/9563682).
 
@@ -1014,14 +1012,14 @@ What this policy means for you
 
 Don’t post content on YouTube if it fits any of the descriptions noted below.
 
-* Content that contains prolonged insults or slurs based on someone's intrinsic attributes. These attributes include their [protected group status](https://support.google.com/youtube/answer/2801939), physical attributes, or their status as a survivor of sexual assault, non-consensual intimate imagery distribution, domestic abuse, child abuse and more.
+* Content that contains prolonged insults or slurs based on someone's intrinsic attributes. These attributes include their [protected group status](https://support.google.com/youtube/answer/2801939), physical attributes, or their status as a survivor of sexual assault, non-consensual intimate imagery distribution, domestic abuse, child abuse and more.
 * Content uploaded with the intent to shame, deceive or insult a minor. This means intending to make a minor feel unpleasant emotions, like distress, shame, or worthlessness; intending to trick them to behave in ways that may harm themselves or their property; or engaging in name-calling toward them. A minor is someone under 18 years old.
 
 Other types of content that violate this policy
 
 * Content that shares, threatens to share, or encourages others to share non-public personally identifiable information (PII).
     * PII includes, but isn’t limited to, home addresses; email addresses; sign-in credentials, like a username or password; phone numbers; passport numbers; medical records; or bank account information.
-    * This doesn't include posting widely available public information, like an official’s office phone number or the phone number of a business. 
+    * This doesn't include posting widely available public information, like an official’s office phone number or the phone number of a business.
     * This policy applies to sharing your own PII, sharing someone else’s PII, and situations where you accidentally share PII.
     * Content must clearly indicate when fake PII is shared. For example, using fake login credentials as part of a training.
 * Content that encourages abusive behavior, like brigading. Brigading is when an individual encourages the coordinated abuse of an identifiable individual on or off YouTube.
@@ -1030,8 +1028,8 @@ Other types of content that violate this policy
 * Content that depicts a staged meet-up that is used to accuse an identifiable individual of egregious misconduct with a minor, without the presence of law enforcement.
 * Content that depicts vigilantes restraining or assaulting individuals, or engaging in a dangerous or reckless vehicle pursuit to apprehend an individual.
 * Content reveling in or mocking the death or serious injury of an identifiable individual.
-* Content that realistically simulates deceased minors or victims of deadly or well-documented major violent events describing their death or violence experienced.
-* Content that depicts creators simulating acts of serious violence against others. For example, executions, torture, maimings, beatings, and more.
+* Content that realistically simulates deceased individuals describing their death or violence experienced.
+* Content that depicts creators simulating acts of serious violence against others. For example, executions, torture, maimings, beatings, and more.
 * Content that contains stalking of an identifiable individual.
 * Content that denies or minimizes someone’s role as a victim of a well-documented, major violent event.
 * Content that contains unwanted sexualization of an identifiable individual. This includes:
@@ -1044,7 +1042,7 @@ This policy applies to videos, video descriptions, comments, live streams, and a
 Exceptions
 ----------
 
-If the primary purpose is educational, documentary, scientific, or artistic in nature, we may allow content that includes harassment. These exceptions are not a pass to harass someone. Some examples include:
+If the primary purpose is educational, documentary, scientific, or artistic in nature, we may allow content that includes harassment. These exceptions are not a pass to harass someone. Some examples include:
 
 * **Debates related to high-profile officials or leaders:** Content featuring debates or discussions of topical issues concerning individuals who have positions of power, like high-profile government officials or CEOs of major multinational corporations.
 * **Scripted performances:** Insults made in the context of an artistic medium such as scripted satire, stand up comedy, or music (such as a diss track). Note: This exception is not a pass to harass someone and claim “I was joking.”
@@ -1069,7 +1067,6 @@ Here are some examples of content that’s not allowed on YouTube:
 
 * Repeatedly showing pictures of someone and then making statements like “Look at this creature’s teeth, they’re so disgusting!”, with similar commentary targeting intrinsic attributes throughout the video.
 * Targeting an individual based on their membership in a [protected group](https://support.google.com/youtube/answer/2801939), such as by saying: “Look at this \[slur targeting a protected group\]!”
-* Targeting an individual and making claims they are involved in human trafficking in the context of a harmful conspiracy theory where the conspiracy is linked to direct threats or violent acts.
 * Using an extreme insult to dehumanize an individual based on their intrinsic attributes. For example: “Look at this dog of a woman! She’s not even a human being — she must be some sort of mutant or animal!”
 * Targeting an individual and expressing a wish for their death or serious injury: “I hate her so much. I wish she’d just get hit by a truck and die.”
 * Depicting an identifiable individual being murdered or seriously injured. For example: A video includes a clip from a movie, where one character is brutally shot and killed. The video is edited so that a real individual’s photo is placed over the actor’s face.
@@ -1090,7 +1087,7 @@ What happens if content violates this policy
 
 If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link. Note that violative URLs posted within the video itself or in the video’s metadata may result in the video being removed.
 
-If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
+If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the option to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning may not expire and your channel may be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
 If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strikes system](https://support.google.com/youtube/answer/2802032).
 
@@ -1165,7 +1162,7 @@ Extremely dangerous challenges
 * **Asphyxiation**: Any activity that prevents breathing or can lead to suffocation. Examples include:
     * Choking, drowning, or hanging games
     * Eating non-food items
-* **Misuse of weapons**: Using weapons, like guns or knives, without proper safety precautions or in a way that could cause physical harm. Examples include the "No Lackin'" challenge.
+* **Misuse of weapons**: Using weapons, like guns or knives, without proper safety precautions or in a way that could cause physical harm.
 * **Ingesting harmful substances**: Eating, consuming, or inserting non-food objects or chemicals that may cause illness or poisoning. Examples include detergent-eating challenges.
 * **Burning, freezing, and electrocution**: Activities with a serious risk of severe burns, freezing, frostbite, or electrocution. Examples include the fire challenge and the hot water challenge.
 * **Mutilation and blunt force trauma**: Examples include:
@@ -1265,7 +1262,7 @@ What happens if content violates this policy
 
 If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link. Note that violative URLs posted within the video itself or in the video’s metadata may result in the video being removed.
 
-If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
+If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the option to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning may not expire and your channel may be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
 If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strikes system](https://support.google.com/youtube/answer/2802032).
 
@@ -1276,28 +1273,19 @@ Familiarize yourself with the rest of our [Community Guidelines](https://support
 Hate speech policy
 ==================
 
-  
- 
-
 The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. **T****ake the time to carefully read the policy below**. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
 
-**Note:** On June 5, 2019, we announced some changes to our hate speech policies. You can [learn more about those changes here](https://youtube.googleblog.com/2019/06/our-ongoing-work-to-tackle-hate.html). The below policy has been updated with those changes.
-
-Hate speech is not allowed on YouTube. We don’t allow content that promotes violence or hatred against individuals or groups based on any of the following attributes, which indicate a protected group status under YouTube’s policy:
+Hate speech is not allowed on YouTube. We don’t allow content that promotes violence or hatred against individuals or groups based on any of the following attributes, which indicate a protected group status under YouTube’s policy:
 
 * Age
-* Caste
+* Caste, Ethnicity, or Race
 * Disability
-* Ethnicity
-* Gender Identity and Expression
-* Nationality
-* Race
 * Immigration Status
+* Nationality
 * Religion
-* Sex/Gender
-* Sexual Orientation
-* Victims of a major violent event and their kin
+* Sex, Gender, or Sexual Orientation
 * Veteran Status
+* Victims of a major violent event and their kin
 
 If you find content that violates this policy, report it. Instructions for reporting violations of our Community Guidelines [are available here](https://support.google.com/youtube/answer/2802027). If you've found a few videos or comments that you would like to report, you can [report the channel](https://support.google.com/youtube/answer/2802027#report_channel).
 
@@ -1314,37 +1302,36 @@ Don’t post content on YouTube if the purpose of that content is to do one or m
 Other types of content that violates this policy
 ------------------------------------------------
 
-* Dehumanization of individuals or groups by calling them subhuman, comparing them to animals, insects, pests, disease, or any other non-human entity based on their protected group status.
+* Dehumanization of individuals or groups by calling them subhuman, comparing them to animals, insects, pests, disease, or any other non-human entity based on their protected group status.
 * Praise or glorification of violence against individuals or groups based on their protected group status.
 * Use of racial, religious, or other slurs and stereotypes that incite or promote hatred based on protected group status. This can take the form of speech, text, or imagery promoting these stereotypes or treating them as factual.
 * Claim that individuals or groups are physically or mentally inferior, deficient, or diseased based on their protected group status. This includes statements that one group is less than another, calling them less intelligent, less capable, or damaged. This also includes calls for the subjugation or domination over individuals or groups based on their protected group status.
-* Promotion of hateful supremacism by alleging the superiority of a group over those with protected group status to justify violence, discrimination, segregation, or exclusion. This includes content containing hateful supremacist propaganda, such as the recruitment of new members or requests for financial support for their ideology, and music videos promoting hateful supremacism in the lyrics, metadata, or imagery.
+* Promotion of hateful supremacism by alleging the superiority of a group over those with protected group status to justify violence, discrimination, segregation, or exclusion. This includes content containing hateful supremacist propaganda, such as the recruitment of new members or requests for financial support for their ideology, and music videos promoting hateful supremacism in the lyrics, metadata, or imagery.
 * Conspiratorial claims that individuals or groups are evil, corrupt, or malicious based on their protected group status.
-* Denial or minimization of a well-documented, major violent event or the victimhood of such an event.
-* Attacks on individuals or groups based on their emotional, romantic, and/or sexual attraction to other people.
+* Denial or minimization of a well-documented, major violent event or the victimhood of such an event.
 
 Educational, documentary, scientific, and artistic content
 ----------------------------------------------------------
 
-We may allow content that includes hate speech if that content includes additional educational, documentary, scientific, or artistic context. Additional context may include condemning, refuting, including opposing views, or satirizing hate speech. This is not a pass to promote hate speech. Examples include:
+We may allow content that includes hate speech if that content includes additional educational, documentary, scientific, or artistic context. Additional context may include condemning, refuting, including opposing views, or satirizing hate speech. This is not a pass to promote hate speech. Examples include:
 
 * **A documentary about a hate group:** Educational content that isn’t supporting the group or promoting ideas would be allowed. A documentary promoting violence or hatred wouldn’t be allowed.
-* **A documentary about the scientific study of humans:** A documentary about how theories have changed over time, even if it includes theories about the inferiority or superiority of specific groups, would be allowed because it’s educational. We won’t allow a documentary claiming there's scientific evidence today that an individual or group is inferior or subhuman.
-* Historical footage of an event, like WWII, which doesn't promote violence or hatred. 
+* **A documentary about the scientific study of humans:** A documentary about how theories have changed over time, even if it includes theories about the inferiority or superiority of specific groups, would be allowed because it’s educational. We won’t allow a documentary claiming there's scientific evidence today that an individual or group is inferior or subhuman.
+* Historical footage of an event, like WWII, which doesn't promote violence or hatred.
 
-This policy applies to videos, video descriptions, comments, live streams, and any other YouTube product or feature. Please note these policies also apply to [external links](https://support.google.com/youtube/answer/9054257) in your content. This can include clickable URLs, verbally directing users to other sites in video, as well as other forms. 
+This policy applies to videos, video descriptions, comments, live streams, and any other YouTube product or feature. Please note these policies also apply to [external links](https://support.google.com/youtube/answer/9054257) in your content. This can include clickable URLs, verbally directing users to other sites in video, as well as other forms.
 
 For educational, documentary, scientific, or artistic content that includes hate speech, this context must appear in the images or audio of the video itself. Providing it in the title or description is insufficient.
 
-Monetization and other penalties 
----------------------------------
+Monetization and other penalties
+--------------------------------
 
 In some rare cases, we may remove content or issue other penalties when a creator:
 
 * Repeatedly encourages abusive audience behavior.
 * Repeatedly targets, insults, and abuses a group based on protected group status across multiple uploads.
-* Exposes a group with protected group status to risks of physical harm based on the local social or political context.
-* Creates content that harms the YouTube ecosystem by persistently inciting hostility against a group with protected group status for personal financial gain.
+* Exposes a group with protected group status to risks of physical harm based on the local social or political context.
+* Creates content that harms the YouTube ecosystem by persistently inciting hostility against a group with protected group status for personal financial gain.
 
 Examples
 --------
@@ -1358,17 +1345,14 @@ More examples
 -------------
 
 * “Get out there and punch a \[person with protected group status\].”
-* “Everyone in \[groups with protected group status\] are criminals and thugs.”
 * “\[Person with protected group status\] is scum of the earth.”
 * “\[People with protected group status\] are a disease.”
 * “\[People with protected group status\] are less intelligent than us because their brains are smaller.”
-* “\[Group with protected group status\] threaten our existence, so we should drive them out at every chance we get.”
-* “\[Group with protected group status\] have an agenda to run the world and get rid of us.”
-* “\[Protected group status\] is just a form of mental illness that needs to be cured.”
+* “\[Group with protected group status\] have an agenda to run the world and get rid of us.”
 * “\[Person with protected group status\] shouldn't be educated in schools because they shouldn't be educated at all.”
 * “All of the so-called victims of this violent event are actors. No one was hurt, and this is just a false flag.”
 * “People died in the event, but a truly insignificant number.”
-* Shouting “\[people with protected group status\] are pests!” at someone regardless of whether the person does or does not have the alleged protected group status. 
+* Shouting “\[people with protected group status\] are pests!” at someone regardless of whether the person does or does not have the alleged protected group status.
 * Video game content which has been developed or modified (“modded”) to promote violence or hatred against a group with any of the attributes noted above.
 
 Please remember these are just some examples, and don't post content if you think it might violate this policy.
@@ -1386,17 +1370,14 @@ What happens if content violates this policy
 
 If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link. Note that violative URLs posted within the video itself or in the video’s metadata may result in the video being removed.
 
-If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
+If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the option to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning may not expire and your channel may be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
 If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strikes system](https://support.google.com/youtube/answer/2802032).
 
 We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
-If we think your content comes close to hate speech, we may limit YouTube features available for that content. You can learn more about [limited features here](https://support.google.com/youtube/answer/7458465).
-
 * [The importance of context](https://support.google.com/youtube/answer/6345162)
 * [Recent transparency report](https://transparencyreport.google.com/youtube-policy/removals)
-* [Limited features for certain videos](https://support.google.com/youtube/answer/7458465)
 
 Violent extremist or criminal organizations policy
 ==================================================
@@ -1454,7 +1435,7 @@ What happens if content violates this policy
 
 If your content violates this policy, we'll remove the content and send you an email to let you know.
 
-If this is your first time violating our Community Guidelines, you'll likely get a warning. If it’s not, we may issue a strike against your channel. If you get 3 strikes within 90 days, your channel will be terminated. You can learn more about our strikes system [here](https://support.google.com/youtube/answer/2802032).
+If this is your first time violating our Community Guidelines, you'll likely get a warning. If it’s not, we may issue a strike against your channel. If you get 3 strikes within 90 days, your channel may be terminated. You can learn more about our strikes system [here](https://support.google.com/youtube/answer/2802032).
 
 Violations may result in monetization being disabled on any of your accounts in accordance with our [YouTube channel monetization policies](https://support.google.com/youtube/answer/1311392). This can include warnings. If you feel this is a mistake, you can appeal. If the violation is overturned, you can apply for monetization once you're eligible in YouTube Studio.
 
@@ -1577,7 +1558,7 @@ What happens if content violates this policy
 
 If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link. Note that violative URLs posted within the video itself or in the video’s metadata may result in the video being removed.
 
-If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
+If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the option to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning may not expire and your channel may be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
 If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strikes system](https://support.google.com/youtube/answer/2802032).
 
@@ -1655,7 +1636,7 @@ What happens if content violates this policy
 
 If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link. Note that violative URLs posted within the video itself or in the video’s metadata may result in the video being removed.
 
-If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
+If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the option to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning may not expire and your channel may be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
 If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strikes system](https://support.google.com/youtube/answer/2802032).
 
@@ -1770,7 +1751,7 @@ What happens if content violates this policy
 
 If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link. Note that violative URLs posted within the video itself or in the video’s metadata may result in the video being removed.
 
-If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
+If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the option to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning may not expire and your channel may be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
 If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strikes system](https://support.google.com/youtube/answer/2802032).
 
@@ -1913,7 +1894,7 @@ What happens if content violates this policy
 
 If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link. Note that violative URLs posted within the video itself or in the video’s metadata may result in the video being removed.
 
-If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
+If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the option to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning may not expire and your channel may be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
 If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strikes system](https://support.google.com/youtube/answer/2802032).
 
