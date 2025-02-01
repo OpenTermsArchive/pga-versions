@@ -483,7 +483,7 @@ What is considered ‘Adult’ content on Quora?
 
 Official Quora Account
 
-* 2022-09-02T22:53:52Z
+* 2025-01-31T13:23:21Z
 
 Quora defines adult content as any content (e.g., writing, imagery, or video) that is pornographic, depicts a sexual act, or is otherwise overtly sexual. Below are some examples of adult content:
 
@@ -494,7 +494,8 @@ Quora defines adult content as any content (e.g., writing, imagery, or video) th
 * Provocative, sexually explicit content including sexual fetishes or graphic language that is not educational in nature (e.g., detailed descriptions of performing sexual acts)
 * Nudity, such as images of nude adults, without an educational or newsworthy purpose
 * Sexually explicit or suggestive jokes
-* Images that focus only on intimate body parts (e.g. the crotch) even if clothed
+* Images that overly focused on intimate body parts (e.g. the crotch) even if clothed
+* Non-professional media depicting individuals posing provocatively in underwear and/or transparent clothing in private settings
 * Non-educational discussion of pornographic websites
 
 **Examples of content that is _not_ considered adult:**
@@ -502,6 +503,7 @@ Quora defines adult content as any content (e.g., writing, imagery, or video) th
 * Videos of breasts with post-mastectomy scarring, a parent breastfeeding their child
 * Artwork that contains nudity including paintings, sculptures, and photographs that have artistic merit and whose primary purpose isn’t to create sexual arousal
 * Tribal nudity - for example, uncontacted people of the Amazon shared for educational purpose.
+* Professional photoshoots depicting models in branded lingerie or swimwear
 * Discussions of puberty or sexual education
 * Testimonies from victims of sexual violence
 * Broad discussion about sex industries using academic terms
