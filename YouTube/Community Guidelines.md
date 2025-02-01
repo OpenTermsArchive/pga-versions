@@ -671,7 +671,7 @@ Here’s what we consider when we remove or age-restrict these kinds of thumbnai
 What happens when thumbnails violate our policies
 -------------------------------------------------
 
-If your thumbnail contains pornography, we may terminate your channel. If your thumbnail violates other policies, we remove the thumbnail and may issue a strike against your account. If it's the first time you’ve posted content that violates our Community Guidelines, you get a warning with no penalty to your channel. You will have the option to take a policy training to allow the warning to expire after 90 days. However, if one of your thumbnails violates the same policy within that 90 day window, the warning may not expire and your channel may be given a strike. If you violate a different policy after completing the training, you will get another warning.
+If your thumbnail contains pornography, we may terminate your channel. If your thumbnail violates other policies, we remove the thumbnail and may issue a strike against your account. If it's the first time you’ve posted content that violates our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the option to take a policy training to allow the warning to expire after 90 days. However, if one of your thumbnails violates the same policy within that 90 day window, the warning may not expire and your channel may be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
 If you get three strikes in 90 days or your channel is dedicated to violative content, your channel may be terminated. Learn more about our [strikes system](https://support.google.com/youtube/answer/2802032).
 
