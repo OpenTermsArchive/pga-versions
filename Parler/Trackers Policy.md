@@ -61,7 +61,7 @@ Blockchain
 
 News
 
-[Parler News](https://news.parler.com/)[Blog & Updates](https://www.parler.com/blog)
+[Parler Pulse](https://parlerpulse.com/)[Blog](https://www.parler.com/blog)
 
 Help
 
