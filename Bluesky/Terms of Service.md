@@ -1,9 +1,9 @@
 Terms of Service
 ================
 
-#### Last Updated: December 18, 2024
+#### Last Updated: February 7, 2025
 
-_The most recent update to the Terms of Service on December 18, 2024 introduces a standard Amendment for Government Users (1.B.i and 1.B.ii) to allow government agencies to sign up for Bluesky accounts. No other changes were made._
+_The most recent update to the Terms of Service on February 7, 2025 introduces contact information for the EU and EU member states._
 
 Welcome to Bluesky Social, a social networking application provided by Bluesky! We're excited to have you on board as a user. Bluesky Social runs on the Authenticated Transfer Protocol ("**AT Protocol**"), a decentralized social networking protocol that supports many different kinds of services. These Terms of Service apply to the Bluesky Social service.
 
@@ -148,3 +148,5 @@ _Summary: The following standard legal provisions are included to permit the Ter
 4. Construction. Both you and Bluesky will be treated equally when it comes to interpreting these Terms. For purposes of these Terms, the words “include,” “includes,” and “including” are meant to be followed by the words “without limitation.”
 
 36. **Contact Information.** If you have any questions about these Terms or Bluesky Social, please contact Bluesky at support@bsky.app.
+
+Competent authorities of the EU and EU Member States that want to contact Bluesky under the Digital Services Act can obtain the necessary contact details from AWO Belgium (AWO), Bluesky's representative pursuant to Article 13 of the Digital Services Act, registered at Square de Meeus 35, 1000 Brussels, Belgium. AWO can be contacted by email at dsa.bluesky@awo.agency, by phone at + 32 2 882 71 88, or by post. Requests can be accepted in English or French. If you are not a competent EU or EU member authority, your request will not be processed and you will not get a response.
