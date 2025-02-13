@@ -124,7 +124,7 @@ News
 
 Help
 
-[Contact Us](https://parler.com/contact-us)[Help Center](https://help.parler.com/hc/90853520)
+[Contact Us](https://parler.com/contact-us)[Press Kit](https://parler.com/press-kit)[Help Center](https://help.parler.com/hc/90853520)
 
 **Parler’s Disclaimer and Notice**  
 Updated: October 23, 2024  
