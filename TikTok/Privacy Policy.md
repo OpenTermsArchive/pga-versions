@@ -374,16 +374,7 @@ You can also contact us at the following postal address.
 * **For users in the European Economic Area and Switzerland**: TikTok Technology Limited, The Sorting Office, Ropemaker Place, Dublin 2, Dublin, D02 HD23, Ireland.
 * **For users in the United Kingdom**: TikTok Information Technologies UK Limited, Kaleidoscope, 4 Lindsey Street, London, EC1A 9HP, United Kingdom.
 
-  
-
-If you are a US user, features, websites, and processing described below or on other websites may not be available due to the Protecting Americans from Foreign Adversary Controlled Applications Act, Pub. L. No. 118-50, Div. H, 138 Stat. 895 (2024).
-
-To submit a consumer rights request during this interruption, please [click here](https://www.tiktok.com/legal/report/privacy).
-
-  
-
 Children's Privacy Policy
-=========================
 
 _Last updated: October 1, 2024_
 
