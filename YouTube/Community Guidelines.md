@@ -15,7 +15,7 @@ What areas do Community Guidelines cover?
 
 You'll find a full list of our Community Guidelines below:
 
-#### Spam & deceptive practices
+Spam & deceptive practices
 
 * [Fake engagement](https://support.google.com/youtube/answer/3399767?hl=en&ref_topic=9282365)
     
@@ -30,7 +30,7 @@ You'll find a full list of our Community Guidelines below:
 * [Additional policies](https://support.google.com/youtube/answer/2801981?hl=en&ref_topic=9282365)
     
 
-#### Sensitive content
+Sensitive content
 
 * [Child safety](https://support.google.com/youtube/answer/2801999?hl=en&ref_topic=9282679)
     
@@ -43,7 +43,7 @@ You'll find a full list of our Community Guidelines below:
 * [Vulgar language](https://support.google.com/youtube/answer/10072685?hl=en&ref_topic=9282679)
     
 
-#### Violent or dangerous content
+Violent or dangerous content
 
 * [Harassment and cyberbullying](https://support.google.com/youtube/answer/2802268?hl=en&ref_topic=9282436)
     
@@ -56,14 +56,14 @@ You'll find a full list of our Community Guidelines below:
 * [Violent or graphic content](https://support.google.com/youtube/answer/2802008?hl=en&ref_topic=9282436)
     
 
-#### Regulated goods
+Regulated goods
 
 * [Firearms](https://support.google.com/youtube/answer/7667605?hl=en)
     
 * [Sale of illegal or regulated goods or services](https://support.google.com/youtube/answer/9229611?hl=en)
     
 
-#### Misinformation
+Misinformation
 
 * [Misinformation](https://support.google.com/youtube/answer/10834785?hl=en)
     
@@ -72,7 +72,7 @@ You'll find a full list of our Community Guidelines below:
 * [Medical misinformation](https://support.google.com/youtube/answer/13813322?hl=en)
     
 
-#### Educational, Documentary, Scientific, and Artistic (EDSA) content
+Educational, Documentary, Scientific, and Artistic (EDSA) content
 
 * [How YouTube evaluates Educational, Documentary, Scientific, and Artistic (EDSA) content](https://support.google.com/youtube/answer/6345162?hl=en&hl=en&ref_topic=9282435&sjid=277005303270439027-NA)
     
@@ -115,7 +115,7 @@ Sometimes videos that might otherwise violate our Community Guidelines may be al
 
 EDSA exceptions are a critical way we make sure that important speech stays on YouTube, while protecting the wider YouTube ecosystem from harmful content.
 
-#### Resources
+Resources
 
 * [How YouTube evaluates Educational, Documentary, Scientific, and Artistic (EDSA) content](https://support.google.com/youtube/answer/6345162?hl=en&hl=en&ref_topic=9282435&sjid=277005303270439027-NA)
     
@@ -132,7 +132,7 @@ Community Guidelines Strikes
 
 If our reviewers decide that content violates our Community Guidelines, we remove the content and send a notice to the Creator. The first time a Creator violates our Community Guidelines, they receive a warning with no penalty to the channel. After one warning, we’ll issue a Community Guidelines strike to the channel and the account will have temporary restrictions including not being allowed to upload videos, live streams, or stories for a 1-week period. Channels that receive three strikes within a 90-day period will be terminated. Channels that are dedicated to violating our policies or that have a single case of severe abuse of the platform, will bypass our strikes system and be terminated. All strikes and terminations can be appealed if the Creator believes there was an error, and our teams will re-review the decision.
 
-#### Resources
+Resources
 
 * [Learn more about Community Guidelines strikes](https://support.google.com/youtube/answer/2802032?hl=en)
     
@@ -144,7 +144,7 @@ Age-Restricting Content
 
 Sometimes content doesn't violate our Community Guidelines, but may not be appropriate for viewers under 18 years of age. In these cases, our review team will place an age restriction on the video so it will not be visible to viewers under 18 years of age, logged-out users, or to those who have [Restricted Mode](https://support.google.com/youtube/answer/174084) enabled. Creators can also choose to [age restrict their own content](https://support.google.com/youtube/answer/2950063?hl=en&ref_topic=9387083) at upload if they think it’s not suitable for younger audiences.
 
-#### Resources
+Resources
 
 * [Learn more about age-restricted content](https://support.google.com/youtube/answer/2802167?hl=en&ref_topic=9387060)
 
