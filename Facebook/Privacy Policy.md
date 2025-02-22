@@ -49,7 +49,7 @@ In this Policy we list the kinds of information we collect. Here are some import
 * Information from the phone, computer, or tablet you use our Products on, like what kind it is and what version of our app you’re using
 * Information from [partners\[2\]](#annotation-2) about things you do both on and off of our Products. This could include other websites you visit, apps you use or online games you play.
 
-[Play Video](https://mbasic.facebook.com/video_redirect/?src=https%3A%2F%2Fvideo-fra3-1.xx.fbcdn.net%2Fo1%2Fv%2Ft2%2Ff2%2Fm69%2FAQPHbM1Y6Ilbyq0xANe0c481oa-MEy1SbKZX1Pbetrpb11aIhZwqsYrqdvKXj04fR-dbc6N31R7SO_GQylrXx6l1.mp4%3Fstrext%3D1%26_nc_cat%3D101%26_nc_sid%3D8bf8fe%26_nc_ht%3Dvideo-fra3-1.xx.fbcdn.net%26_nc_ohc%3DDEhoLzQu7cYQ7kNvgFv-KiO%26efg%3DeyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNjQwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTExMzU1MjIzOTY2MzUyNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9%26ccb%3D9-4%26_nc_zt%3D28%26oh%3D00_AYBnPF2zuCNbn8Z0JAVQKcEO8Kkw_6IJQ3gOOm9LjWbRgA%26oe%3D67BEDE75&source=misc&id=1078484169415755&noredirect=0&watermark=0&__tn__=F)
+[Play Video](https://mbasic.facebook.com/video_redirect/?src=https%3A%2F%2Fvideo-fra3-1.xx.fbcdn.net%2Fo1%2Fv%2Ft2%2Ff2%2Fm69%2FAQPHbM1Y6Ilbyq0xANe0c481oa-MEy1SbKZX1Pbetrpb11aIhZwqsYrqdvKXj04fR-dbc6N31R7SO_GQylrXx6l1.mp4%3Fstrext%3D1%26_nc_cat%3D101%26_nc_sid%3D8bf8fe%26_nc_ht%3Dvideo-fra3-1.xx.fbcdn.net%26_nc_ohc%3DDEhoLzQu7cYQ7kNvgFv-KiO%26efg%3DeyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNjQwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTExMzU1MjIzOTY2MzUyNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9%26ccb%3D9-4%26_nc_zt%3D28%26oh%3D00_AYCXX0hP-vz9FP_YPuDbVnXXL_Ev2yLPLTPzvDCH2_QzlA%26oe%3D67BF8735&source=misc&id=1078484169415755&noredirect=0&watermark=0&__tn__=F)
 
 The information we collect and process about you depends on how you use our [Products\[3\]](#annotation-3). For example, we collect different information if you sell furniture on Marketplace than if you post a reel on Instagram. When you use our Products, we collect some information about you [even if you don't have an account\[4\]](#annotation-4).
 
@@ -144,7 +144,7 @@ Some information is required for our Products to work. Other information is opti
 
 In some cases information is de-identified, aggregated, or anonymized by third parties so that it no longer identifies individuals before it’s made available to us. We use this information as described below without trying to re-identify individuals.
 
-[Manage the information we collect about you Privacy Center](https://www.facebook.com/privacy/guide/collection/)
+[Manage the information we collect about you](https://www.facebook.com/privacy/guide/collection/)
 
 2
 
@@ -403,7 +403,7 @@ Here are some of the ways we use your information:
 * We send you messages about the Products you use or ones you might like, if you let us
 * We research for the good of people around the world, like to advance technology or to help out in a crisis
 
-[Play Video](https://mbasic.facebook.com/video_redirect/?src=https%3A%2F%2Fvideo-fra3-1.xx.fbcdn.net%2Fo1%2Fv%2Ft2%2Ff2%2Fm69%2FAQPUz9KSP4EcCINy-riSUXWL1EoZotE38pje73xlXjDGAc7XGvezM3ARLrzpTwLP1_Wh1OS130onddLBRMneYbK5.mp4%3Fstrext%3D1%26_nc_cat%3D101%26_nc_sid%3D8bf8fe%26_nc_ht%3Dvideo-fra3-1.xx.fbcdn.net%26_nc_ohc%3D7tR6vfLIlW4Q7kNvgE76yLM%26efg%3DeyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNDI2LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6Mjc2OTI5MDMxOTA2NzE5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%253D%26ccb%3D9-4%26_nc_zt%3D28%26oh%3D00_AYAMU9X0aFLzYNQKaYFFkrYVgjPGUZQtctLJYZ8s8YHyBQ%26oe%3D67BEFF45&source=misc&id=3234506963505309&noredirect=0&watermark=0&__tn__=F)
+[Play Video](https://mbasic.facebook.com/video_redirect/?src=https%3A%2F%2Fvideo-fra3-1.xx.fbcdn.net%2Fo1%2Fv%2Ft2%2Ff2%2Fm69%2FAQPUz9KSP4EcCINy-riSUXWL1EoZotE38pje73xlXjDGAc7XGvezM3ARLrzpTwLP1_Wh1OS130onddLBRMneYbK5.mp4%3Fstrext%3D1%26_nc_cat%3D101%26_nc_sid%3D8bf8fe%26_nc_ht%3Dvideo-fra3-1.xx.fbcdn.net%26_nc_ohc%3DcE9OmUem0z8Q7kNvgG-P0Ow%26efg%3DeyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNDI2LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6Mjc2OTI5MDMxOTA2NzE5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%253D%26ccb%3D9-4%26_nc_zt%3D28%26oh%3D00_AYCk1UpvlSKOk_nhBK7JthgDvRLBZbRwBqmrUaBQMpW0UQ%26oe%3D67BFA805&source=misc&id=3234506963505309&noredirect=0&watermark=0&__tn__=F)
 
 We use [information we collect](#1-WhatInformationDoWe) to provide a personalized experience to you, including ads (if we show you ads on Meta Products), along with the other purposes we explain in detail below.
 
@@ -426,7 +426,7 @@ When you use our Products, you see ads, such as boosted posts or product listing
 
 [Learn more](https://www.facebook.com/help/794535777607370) about some of the ways we show you ads that we think may be interesting to you, including using machine learning.
 
-[Learn more about how ads work Privacy Center](https://www.facebook.com/privacy/guide/ads/)
+[Learn more about how ads work](https://www.facebook.com/privacy/guide/ads/)
 
 [Manage Ad preferences](https://mbasic.facebook.com/settings/ads/)
 
@@ -459,7 +459,7 @@ We use location-related information, such as your current location, where you li
 * Provide, personalize and improve our Products, including ads (if we show you ads on Meta Products), for you and others. [See an example\[33\]](#annotation-33).
 * Detect suspicious activity and help keep your account secure. [Learn how.\[34\]](#annotation-34)
 
-[How to manage Facebook location settings Facebook Help Center](https://www.facebook.com/help/337244676357509)[How to turn Instagram location services on or off Instagram Help Center](https://mbasic.facebook.com/privacy/policy/printable/https%3A%2F%2Flm.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fhelp.instagram.com%2F171821142968851)
+[How to manage Facebook location settings](https://www.facebook.com/help/337244676357509)[How to turn Instagram location services on or off](https://mbasic.facebook.com/privacy/policy/printable/https%3A%2F%2Flm.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fhelp.instagram.com%2F171821142968851)
 
 [Manage location settings](https://mbasic.facebook.com/privacy/policy/printable/?back_id=link-collection-5&link_dialog=LOCATION&entry=0)
 
@@ -555,7 +555,7 @@ Here are some examples of our research:
 
 25
 
-[Play Video](https://mbasic.facebook.com/video_redirect/?src=https%3A%2F%2Fvideo-fra5-2.xx.fbcdn.net%2Fo1%2Fv%2Ft2%2Ff2%2Fm69%2FAQMkxKtPFjj_5Cfylgq4IfQujNtlJXjKIKvVP6BB5JaQYHlvsjELTssObcdysPt2xPzetuZLlHeD1ii0_P9BpbDl.mp4%3Fstrext%3D1%26_nc_cat%3D109%26_nc_sid%3D8bf8fe%26_nc_ht%3Dvideo-fra5-2.xx.fbcdn.net%26_nc_ohc%3DrUtnSa7-6dQQ7kNvgEfnikS%26efg%3DeyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNDI2LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MzYxMTg3OTk4MjM5MTg0NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9%26ccb%3D9-4%26_nc_zt%3D28%26oh%3D00_AYC0geHGqU2SqZ5lSWjHkqHqc3Y-z0BwRumzQx6lwe40AA%26oe%3D67BEEEAD&source=misc&id=313266294163634&noredirect=0&watermark=0&__tn__=F)
+[Play Video](https://mbasic.facebook.com/video_redirect/?src=https%3A%2F%2Fvideo-fra5-2.xx.fbcdn.net%2Fo1%2Fv%2Ft2%2Ff2%2Fm69%2FAQMkxKtPFjj_5Cfylgq4IfQujNtlJXjKIKvVP6BB5JaQYHlvsjELTssObcdysPt2xPzetuZLlHeD1ii0_P9BpbDl.mp4%3Fstrext%3D1%26_nc_cat%3D109%26_nc_sid%3D8bf8fe%26_nc_ht%3Dvideo-fra5-2.xx.fbcdn.net%26_nc_ohc%3DrUtnSa7-6dQQ7kNvgEfnikS%26efg%3DeyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNDI2LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MzYxMTg3OTk4MjM5MTg0NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9%26ccb%3D9-4%26_nc_zt%3D28%26oh%3D00_AYD4pF8vsaziaQqZ-Y8sclu8OxJ-A7ihzEbr1pXrF2jlnA%26oe%3D67BF976D&source=misc&id=313266294163634&noredirect=0&watermark=0&__tn__=F)
 
 If you choose to add your accounts to the same Accounts Center, we'll combine your [information across your accounts](https://www.meta.com/help/accounts-center/Information-used-across-accounts/). Here's what we'll use it for, we'll:
 
@@ -572,7 +572,7 @@ Even if you don't add your accounts to the same Accounts Center, we use informat
 * More accurately count people and measure how they use our Products
 * Make sure our Products are working correctly so we can fix them if they’re not
 
-[How to add or delete accounts in your Accounts Center Facebook Help Center](https://www.facebook.com/help/213446087365127/)
+[How to add or delete accounts in your Accounts Center](https://www.facebook.com/help/213446087365127/)
 
 [Manage accounts](https://accountscenter.facebook.com/accounts/)
 
@@ -611,7 +611,7 @@ For example:
 * If you’ve recently engaged with a certain topic on Facebook, we might then suggest other posts that are related to that topic. So if you recently liked or commented on a post from a basketball Page, we could suggest other posts about basketball.
 * You might see posts based on where you are and what people near you are interacting with on Facebook. So if you’re near a sports stadium, we can suggest games or events occurring at the stadium. [Learn more](#2.subpage.6-HowWeUseLocation) about how we use location-related information.
 
-[How to manage your Facebook Feed Facebook Help Center](https://www.facebook.com/help/964154640320617/control-what-you-see-in-news-feed)[How to manage your Instagram Feed Instagram Help Center](https://mbasic.facebook.com/privacy/policy/printable/https%3A%2F%2Flm.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fhelp.instagram.com%2F505299634436870%2F%3Fparent_cms_id%3D1986234648360433)
+[How to manage your Facebook Feed](https://www.facebook.com/help/964154640320617/control-what-you-see-in-news-feed)[How to manage your Instagram Feed](https://mbasic.facebook.com/privacy/policy/printable/https%3A%2F%2Flm.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fhelp.instagram.com%2F505299634436870%2F%3Fparent_cms_id%3D1986234648360433)
 
 [Manage Facebook Feed](https://mbasic.facebook.com/feed_preferences/home/)
 
@@ -758,7 +758,7 @@ People who use our Products can share information about you with the audience th
 
 If you’re uncomfortable with what others have shared about you on our Products, you can always choose to [report posts and stories](https://www.facebook.com/help/1380418588640631?ref=dp).
 
-[Remove a tag from a photo or post on Facebook Facebook Help Center](https://www.facebook.com/help/140906109319589)[Remove a tag from a photo or video on Instagram Instagram Help Center](https://mbasic.facebook.com/privacy/policy/printable/https%3A%2F%2Flm.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fhelp.instagram.com%2F178891742266091)
+[Remove a tag from a photo or post on Facebook](https://www.facebook.com/help/140906109319589)[Remove a tag from a photo or video on Instagram](https://mbasic.facebook.com/privacy/policy/printable/https%3A%2F%2Flm.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fhelp.instagram.com%2F178891742266091)
 
 [Manage tags](https://www.facebook.com/0/allactivity/?category_key=manageyourtags&audience=EVERYONE&manage_mode=1)
 
@@ -789,7 +789,7 @@ Public content can also be seen, accessed, reshared or downloaded through third-
 * The media, like TV
 * Other apps and websites connected to our Products
 
-[Public information on Facebook Facebook Help Center](https://www.facebook.com/help/203805466323736?ref=dp)[How to make a public account private on Instagram Instagram Help Center](https://mbasic.facebook.com/privacy/policy/printable/https%3A%2F%2Flm.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fhelp.instagram.com%2F448523408565555)
+[Public information on Facebook](https://www.facebook.com/help/203805466323736?ref=dp)[How to make a public account private on Instagram](https://mbasic.facebook.com/privacy/policy/printable/https%3A%2F%2Flm.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fhelp.instagram.com%2F448523408565555)
 
 [Manage public information](https://mbasic.facebook.com/privacy/policy/printable/?back_id=link-collection-9&link_dialog=PRIVACY_CHECKUP&entry=0)
 
@@ -821,7 +821,7 @@ Apps or websites you’ve logged into using Facebook Login or connected to your 
 
 We encourage you to visit your Apps and Websites settings from time to time to review which apps and websites continue to have access to your information through Facebook Login or Instagram.
 
-[How to manage apps and websites on Facebook Facebook Help Center](https://www.facebook.com/help/1727608884153160/app-visibility-and-privacy)[How to manage apps and websites on Instagram Instagram Help Center](https://mbasic.facebook.com/privacy/policy/printable/https%3A%2F%2Flm.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fhelp.instagram.com%2F1144624522593085)
+[How to manage apps and websites on Facebook](https://www.facebook.com/help/1727608884153160/app-visibility-and-privacy)[How to manage apps and websites on Instagram](https://mbasic.facebook.com/privacy/policy/printable/https%3A%2F%2Flm.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fhelp.instagram.com%2F1144624522593085)
 
 [Manage apps and websites](https://mbasic.facebook.com/privacy/policy/printable/?back_id=link-collection-10&link_dialog=MANAGE_APPS&entry=0)
 
@@ -837,9 +837,9 @@ How integrated partners handle your information
 
 Integrated partners handle the information you share with them according to their own terms and policies, not Meta’s. You can review their privacy policy on their website or app to learn how they receive and process your information. In some cases, they use a separate service provider to receive and process your information.
 
-[How Meta reviews apps that integrate with our Products Facebook Developers](https://developers.facebook.com/docs/apps/review/)
+[How Meta reviews apps that integrate with our Products](https://developers.facebook.com/docs/apps/review/)
 
-[Learn more about audiences Privacy Center](https://www.facebook.com/privacy/guide/sharing/)
+[Learn more about audiences](https://www.facebook.com/privacy/guide/sharing/)
 
 [Manage apps and websites](https://mbasic.facebook.com/privacy/policy/printable/?back_id=link-collection-11&link_dialog=MANAGE_APPS&entry=0)
 
@@ -859,7 +859,7 @@ On Facebook, the audience can be made up of:
 
 On Instagram, you can set the audience for what you share by choosing between a private or public account. With a [private account](https://mbasic.facebook.com/privacy/policy/printable/https%3A%2F%2Flm.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fhelp.instagram.com%2F448523408565555), only followers you approve can see what you share. With a public account, your posts and other content on Instagram can be seen by anyone, on or off our Products, including if they don’t have an account. You can restrict the audience for your content by blocking individual accounts from viewing them. You can also create a close friends list for certain types of content that only the people on that list can see.
 
-[Audience settings Manage your audience settings on Facebook or Instagram.](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AAUDIENCE_SETTINGS&element=privacy_policy_list_cell&containing_element_id=POLICY_ANNOTATION%3A3.ex.2-ChoosingAnAudienceOn&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F%3Flink_dialog%3DAUDIENCE_SETTINGS%26entry%3D0)
+[Audience settings](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AAUDIENCE_SETTINGS&element=privacy_policy_list_cell&containing_element_id=POLICY_ANNOTATION%3A3.ex.2-ChoosingAnAudienceOn&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F%3Flink_dialog%3DAUDIENCE_SETTINGS%26entry%3D0)
 
 ### Audience settings are different from app permissions
 
@@ -1129,7 +1129,7 @@ Meta Products share information with other Meta Companies:
 
 [See some examples\[59\]](#annotation-59) of why we share.
 
-[Review the privacy policies of the other Meta Companies Facebook Help Center](https://www.facebook.com/help/111814505650678)
+[Review the privacy policies of the other Meta Companies](https://www.facebook.com/help/111814505650678)
 
 57
 
@@ -1413,7 +1413,7 @@ We rely on [appropriate mechanisms\[73\]](#annotation-73) for international data
 
 We also make sure that appropriate safeguards are in place whenever we transfer your information. For example, we encrypt your information when it’s in transit over public networks to protect it from unauthorized access.
 
-[How information is safeguarded as it’s transferred to the United States Facebook Newsroom](https://mbasic.facebook.com/privacy/policy/printable/https%3A%2F%2Flm.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fabout.fb.com%2Fnews%2F2021%2F03%2Fsteps-we-take-to-transfer-data-securely%2F)
+[How information is safeguarded as it’s transferred to the United States](https://mbasic.facebook.com/privacy/policy/printable/https%3A%2F%2Flm.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fabout.fb.com%2Fnews%2F2021%2F03%2Fsteps-we-take-to-transfer-data-securely%2F)
 
 68
 
