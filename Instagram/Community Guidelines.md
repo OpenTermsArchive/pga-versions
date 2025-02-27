@@ -827,8 +827,9 @@ Content that:
 * Admits to buying, trading or co-ordinating the trade of high-risk drugs by the poster of the content by themselves or through others.
 * Admits to personal use without acknowledgment of or reference to recovery, treatment, or other assistance to combat usage. This content may not speak positively about, encourage use of, coordinate or provide instructions to make or use high-risk drugs.
 * Coordinates or promotes (by which we mean speaks positively about, encourages the use of, or provides instructions to use or make) high-risk drugs.
+* Note: Debating or advocating for the legality or discussing scientific or medical merits of high risk drugs is allowed. This includes news and public service announcements.
 
-Non-medical drugs (drugs or substances that are not being used for an intended medical purposes or are used to achieve a high - this includes precursor chemicals or substances that are used for the production of these drugs.)
+Non-medical drugs (drugs or substances that are not being used for an intended medical purpose or are used to achieve a high - this includes precursor chemicals or substances that are used for the production of these drugs.)
 
 Content that:
 
@@ -836,16 +837,19 @@ Content that:
 * Admits to buying, trading or co-ordinating the trade of non-medical drugs by the poster of the content by themselves or through others.
 * Admits to personal use without acknowledgment of or reference to recovery, treatment, or other assistance to combat usage. This content may not speak positively about, encourage use of, coordinate or provide instructions to make or use non-medical drugs.
 * Coordinates or promotes (by which we mean speaks positively about, encourages the use of, or provides instructions to use or make) non-medical drugs.
+* Attempts to sell or promote non-medical drugs paraphernalia.
+* Contains merchandise depicting non-medical drugs.
 
 Prescription drugs (drugs that require a prescription or medical professionals to administer)
 
 Content that:
 
 * Attempts to buy, sell or trade prescription drugs except when:
-    * Listing the price of vaccines in an explicit education or discussion context.
-    * Offering delivery when posted by legitimate healthcare e-commerce businesses.
+    * Listing the price of vaccines in an explicit education or discussion context when restricted to adults 18 years of age or over.
+    * Offering delivery when posted by legitimate healthcare e-commerce businesses when restricted to adults 18 years of age or over. This content must also include a disclaimer to consult a licensed health professional or obtain a valid prescription.
 * Attempts to donate or gift prescription drugs, except in the event of an economic, health, societal or natural disaster crisis.
-* Asks for prescription drugs, except when content discusses the affordability, accessibility or efficacy of prescription drugs in a medical context
+* Asks for prescription drugs, except when content discusses the affordability, accessibility or efficacy of prescription drugs in a medical context.
+* Note: Debating or advocating for the legality or discussing scientific or medical merits of prescription drugs is allowed. This includes news and public service announcements.
 
 Entheogens
 
@@ -866,7 +870,17 @@ Entheogens
 Cannabis and Cannabis Derived Products
 
 * Content that coordinates or promotes (by which we mean speaks positively about, encourages the use of, or provides instructions to use or make) marijuana and products containing THC or related psychoactive components.
+* Business related content posted by marijuana dispensaries where there are no attempts to buy, sell or trade marijuana and products containing THC or related psychoactive components.
 * Content that attempts to buy, sell, trade, donate, gift or ask for ingestible cannabidiol (CBD) or similar cannabinoid products.
+* Content that attempts to buy, sell, trade, donate, gift or ask for non-ingestible cannabidiol (CBD) or similar cannabinoid products.
+* Content making disease claims relating to non-ingestible cannabidiol (CBD) or similar cannabinoid products.
+* Content depicting marijuana paraphernalia.
+
+Prescription drugs
+
+* Content that attempts to buy, sell or trade prescription drugs in any context, including when posted by legitimate healthcare e-commerce businesses.
+* Content that attempts to buy, sell, trade, donate, gift or ask for over-the-counter medicine.
+* Content that includes admission or consumption of prescription drugs.
 
 **Weapons, Ammunitions, or Explosives**
 
@@ -880,15 +894,15 @@ Content that:
 * Attempts to donate or gift firearms, firearm parts, ammunition, explosives, or lethal enhancements except when posted in the following contexts:
     * Donating, trading in or buying back firearms and ammunition by a Page, Group or Instagram profile representing legitimate brick-and-mortar entities, including retail businesses, websites, brands or government agencies, or a private individual sharing content on behalf of legitimate brick-and-mortar entities.
     * An auction or raffle of firearms by legitimate brick-and-mortar entities, including retail businesses, government-affiliated organizations or non-profits, or private individuals affiliated with or sponsored by legitimate brick-and-mortar entities.
-* Asks for firearms, firearm parts, ammunition, explosives, or lethal enhancements
+* Asks for firearms, firearm parts, ammunition, explosives, or lethal enhancements.
 * Sells, gifts, exchanges, transfers, coordinates, promotes (by which we mean speaks positively about, encourages the use of) or provides access to 3D printing or computer-aided manufacturing instructions for firearms or firearms parts regardless of context or poster.
-* Attempts to buy, sell, or trade machine gun conversion devices
+* Attempts to buy, sell, or trade machine gun conversion devices.
 
 For the following content, we restrict visibility to adults 21 years of age and older:
 
 Weapons, Ammunitions, or Explosives
 
-* Content posted by or promoting legitimate brick-and-mortar store, entities, including retail businesses websites, brands, or government agencies which attempt to buy, sell, trade, donate or gift (including in the context of an auction or a raffle) firearms, firearm parts, ammunition, explosives, or lethal enhancements.
+* Content posted by or promoting legitimate brick-and-mortar store, entities, including retail businesses, websites, brands, or government agencies which attempt to buy, sell, trade, donate or gift (including in the context of an auction or a raffle) firearms, firearm parts, ammunition, explosives, or lethal enhancements.
 
 For the following content, we restrict visibility to adults 18 years of age and older:
 
@@ -912,7 +926,7 @@ Content that:
 
 For the following content, we restrict visibility to adults 18 years of age and older:
 
-* Content posted by or promoting legitimate brick-and-mortar entities, including retail businesses websites or brands, which attempt to buy, sell, trade, donate or gift of alcohol or tobacco products.
+* Content posted by or promoting legitimate brick-and-mortar entities, including retail businesses, websites or brands, which attempt to buy, sell, trade, donate or gift of alcohol or tobacco products.
 * Content depicting the consumption of tobacco, nicotine products, or “ENDS” products.
 * Content that coordinates or promotes the use of tobacco, nicotine products, “ENDS” products, or tobacco brands.
 
@@ -923,17 +937,17 @@ We do not allow:
 Content that:
 
 * Attempts to buy, sell or trade alcohol except when:
-    * Posted by a Page, Group, or Instagram profile representing legitimate brick-and-mortar entities, including retail businesses, websites or brands, or a private individual sharing content on behalf of legitimate brick-and-mortar entities, including offering delivery services and brand giveaways
-    * Content refers to alcohol or offering an invitation to an alcohol venue where alcohol will be exchanged or consumed on location at an event, restaurant, bar, or party
+    * Posted by a Page, Group, or Instagram profile representing legitimate brick-and-mortar entities, including retail businesses, websites or brands, or a private individual sharing content on behalf of legitimate brick-and-mortar entities, including offering delivery services and brand giveaways.
+    * Content refers to alcohol or offering an invitation to an alcohol venue where alcohol will be exchanged or consumed on location at an event, restaurant, bar, or party.
 
-* Attempts to donate or gift alcohol or tobacco except when posted by a Page, Group, or Instagram profile representing legitimate brick-and-mortar entities, including retail businesses, websites or brands, or a private individual sharing content on behalf of legitimate brick-and-mortar entities
-* Asks for alcohol products and beverages
+* Attempts to donate or gift alcohol or tobacco except when posted by a Page, Group, or Instagram profile representing legitimate brick-and-mortar entities, including retail businesses, websites or brands, or a private individual sharing content on behalf of legitimate brick-and-mortar entities.
+* Asks for alcohol products and beverages.
 
 For the following content, we restrict visibility to adults 18 years of age and older:
 
-* Content posted by or promoting legitimate brick-and-mortar entities, including retail businesses websites or brands, which attempt to buy, sell, trade, donate or gift alcohol products or beverages
-* Content depicting the consumption of alcohol products or beverages or sharing recipes for alcoholic beverages
-* Content referring to alcohol products or offering an invitation to an alcohol venue where alcohol will be exchanged or consumed
+* Content posted by or promoting legitimate brick-and-mortar entities, including retail businesses, websites or brands, which attempt to buy, sell, trade, donate or gift alcohol products or beverages.
+* Content depicting the consumption of alcohol products or beverages or sharing recipes for alcoholic beverages.
+* Content referring to alcohol products or offering an invitation to an alcohol venue where alcohol will be exchanged or consumed.
 
 **Health and Wellness**
 
@@ -943,9 +957,9 @@ Weight loss products or services
 
 Content that:
 
-* Attempts to buy, sell, trade, donate, gift, mention, ask for, weight loss products or services
-* Admits to or depicts using a weight loss product, in a favorable context or discusses its side effects
-* Shows coordination or promotion (by which we mean speaks positively, encourages the use of or provides instructions to use or make) a diet product
+* Attempts to buy, sell, trade, donate, gift, mention, ask for, weight loss products or services.
+* Admits to or depicts using a weight loss product, in a favorable context or discusses its side effects.
+* Shows coordination or promotion (by which we mean speaks positively, encourages the use of or provides instructions to use or make) a diet product.
 * Depict a before and after body-change comparison in the context of weight loss, showcasing weight loss after using a product in a manner that may make people feel bad about their appearance or imply negative self-perception.
 
   
@@ -954,12 +968,12 @@ Cosmetic Products, Procedures, or Surgeries
 Content that:
 
 * Attempts to buy, sell, trade, donate, gift, mention, or ask for cosmetic products, procedures, or surgeries. This includes:
-    * Skin Whitening products such as; bleaching creams
+    * Skin Whitening products such as bleaching creams.
     * Cosmetic procedures with the intention to treat, or restore function or structure of people’s faces or bodies.
 
-* Admits to or depicts using a cosmetic procedure or surgery, highlighting its positive or negative impact, or side effects
-* Shows coordination or promotion (by which we mean speaks positively, encourages the use of or provides instructions to use or perform) of a cosmetic procedure or surgery
-* Depict the before and after transformation of skin conditions after the usage of a cosmetic product, procedure, or surgery in a manner that may make people feel bad about their appearance or imply negative self-perception
+* Admits to or depicts using a cosmetic procedure or surgery, highlighting its positive or negative impact, or side effects.
+* Shows coordination or promotion (by which we mean speaks positively, encourages the use of or provides instructions to use or perform) of a cosmetic procedure or surgery.
+* Depict the before and after transformation of skin conditions after the usage of a cosmetic product, procedure, or surgery in a manner that may make people feel bad about their appearance or imply negative self-perception.
 
 Note: Fitness services such as Pilates, and temporary cosmetics such as makeup are not covered by this policy.
 
@@ -967,7 +981,7 @@ Adult sexual arousal products
 
 Content that:
 
-* attempts to buy, sell, promote, trade, donate, gift or ask for adult sexual arousal products, that can stimulate a person’s sexual pleasure or increase a person’s sexual arousal this includes:
+* Attempts to buy, sell, promote, trade, donate, gift or ask for adult sexual arousal products, that can stimulate a person’s sexual pleasure or increase a person’s sexual arousal. This includes:
     * Sex toys
     * Erotic products
     * Non-surgical genital enhancement products, such as products that stimulate sexual desire or improve sexual performance
@@ -980,8 +994,8 @@ For the following content, we restrict visibility to adults 18 years of age and 
 Online Gambling and Games
 
 * Content that attempts to sell, trade, depict or promote online gaming and gambling services where anything of monetary value (including cash or digital/virtual currencies, e.g., bitcoin) is required to play and anything of monetary value forms part of the prize. This includes but is not limited to:
-    * Games of skill, lotteries/raffles, betting, sports betting, casino games, games of chance, or sweepstakes/prize draws
-    * Gambling Games offering a limited trial period and requiring payment thereafter
+    * Games of skill, lotteries/raffles, betting, sports betting, casino games, games of chance, or sweepstakes/prize draws.
+    * Gambling Games offering a limited trial period and requiring payment thereafter.
 
   
 Social Casino Games
@@ -999,12 +1013,15 @@ Content that:
 * Depicts poaching of endangered species or their parts committed by the poster of the content by themselves or their associates.
 * Shows coordination or promotion (by which we mean speaks positively about, encourages the poaching of, or provides instructions) to use or make products from endangered species or their parts, or any endangered wildlife or plants.
 
-Live non-endangered animals excluding livestock
+Non-endangered animals
 
 * Content that attempts to buy, sell or trade live non-endangered animals except when:
     * Posted by a Page, Group or Instagram profile representing legitimate brick-and-mortar entities, including retail businesses, legitimate websites, brands, or rehoming shelters, or a private individual sharing content on behalf of legitimate brick-and-mortar entities.
-    * Posted in the context of donating or rehoming live non-endangered animals, including rehoming fees for peer-to-peer adoptions
+    * Posted in the context of adopting, gifting, asking for, donating or rehoming live non-endangered animals, including rehoming fees for peer-to-peer adoptions
     * Selling an animal for a religious offering, or offering a reward for lost pets.
+    * Posted in the context of sale of livestock.
+    * Posted in the context of buying, selling or gifting, asking for, donating animal horns, organs, limbs, carcasses, taxidermy, feces (excluding compost or fertilizer).
+    * Posted in the context of offering animals’ related products for human consumption such as: eggs, fish, etc.
 
 **Historic Artifacts**
 
@@ -1016,16 +1033,19 @@ Content that attempts to buy, sell, trade, donate or gift or asks for historical
 
 We do not allow:
 
-Content that attempts to buy, sell, trade, donate or gift or asks for hazardous goods and materials
+Content that attempts to buy, sell, trade, donate or gift or asks for hazardous goods and materials.
 
-**Body Parts and Fluids**
+**Human Body Parts and Bodily Fluids**
 
 We do not allow:
 
 Content that:
 
 * Attempts to buy, sell or trade human body parts, even beyond the human-trafficking content prohibited under the [Human Exploitation policy](https://transparency.meta.com/policies/community-standards/human-exploitation/).
-* Attempts to buy, sell or trade human fluids, except for a donation
+* Asking for human fluids exchange.
+* Attempts to buy, sell or trade human fluids.
+
+* Except when posted for donation of human fluids such as semen or blood plasma.
 
 Child Sexual Exploitation, Abuse, and Nudity
 ============================================
