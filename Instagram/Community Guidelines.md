@@ -1047,6 +1047,12 @@ Content that:
 
 * Except when posted for donation of human fluids such as semen or blood plasma.
 
+**Recalled Goods**
+
+We do not allow:
+
+Content that attempts to buy, sell, trade, coordinate the trade of, donate, gift or ask for recalled goods.
+
 Child Sexual Exploitation, Abuse, and Nudity
 ============================================
 
