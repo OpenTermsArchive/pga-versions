@@ -151,7 +151,7 @@ Resources
 Fake engagement policy
 ======================
 
-The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. **T****ake the time to carefully read the policy below**. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
+The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. Take the time to carefully read the policy below. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
 
 YouTube doesn’t allow anything that artificially increases the number of views, likes, comments, or other metrics either by using automatic systems or serving up videos to unsuspecting viewers. Also, content that solely exists to incentivize viewers for engagement (views, likes, comments, etc) is prohibited.
 
@@ -215,12 +215,12 @@ If this is your first time violating our Community Guidelines, you'll likely get
 
 If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strikes system](https://support.google.com/youtube/answer/2802032).
 
-We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
+We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. Learn more about [channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
 Impersonation policy
 ====================
 
-The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. **T****ake the time to carefully read the policy below**. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
+The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. Take the time to carefully read the policy below. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
 
 Content intended to impersonate a person or channel is not allowed on YouTube. YouTube also enforces trademark holder rights. When a channel, or content in the channel, causes confusion about the source of goods and services advertised, it may not be allowed.
 
@@ -311,12 +311,12 @@ If this is your first time violating our Community Guidelines, you'll likely get
 
 If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strikes system](https://support.google.com/youtube/answer/2802032).
 
-We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
+We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. Learn more about [channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
 Spam, deceptive practices, & scams policies
 ===========================================
 
-The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. **T****ake the time to carefully read the policy below**. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
+The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. Take the time to carefully read the policy below. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
 
 YouTube doesn’t allow spam, scams, or other deceptive practices that take advantage of the YouTube community. We also don’t allow content where the main purpose is to trick others into leaving YouTube for another site.
 
@@ -472,7 +472,7 @@ If this is your first time violating our Community Guidelines, you'll likely get
 
 If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strikes system](https://support.google.com/youtube/answer/2802032).
 
-We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
+We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. Learn more about [channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
 Additional policies
 ===================
@@ -497,7 +497,7 @@ We may ask you to confirm your age if we think that you are not old enough to us
 Child safety policy
 ===================
 
-The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. **T****ake the time to carefully read the policy below**. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
+The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. Take the time to carefully read the policy below. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
 
 **Update:** Content that targets young minors and families but contains sexual themes, violence, obscene, or other mature themes not suitable for young audiences, is not allowed on YouTube. In addition to your titles, descriptions, and tags, ensure your [audience selection](https://support.google.com/youtube/answer/9528076) matches the audience your content is suitable for.
 
@@ -626,14 +626,14 @@ If this is your first time violating our Community Guidelines, you'll likely get
 
 If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strikes system](https://support.google.com/youtube/answer/2802032).
 
-We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
+We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. Learn more about [channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
 We have zero tolerance for predatory behavior on YouTube. If we think a child is in danger based on reported content, we’ll help law enforcement investigate the content.
 
 Thumbnails policy
 =================
 
-The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. **T****ake the time to carefully read the policy below**. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
+The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. Take the time to carefully read the policy below. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
 
 Thumbnails and other images that violate our [Community Guidelines](https://www.youtube.com/t/community_guidelines) aren’t allowed on YouTube. Images include banners, avatars, posts, and any other YouTube feature that has images.
 
@@ -675,12 +675,12 @@ If your thumbnail contains pornography, we may terminate your channel. If your t
 
 If you get three strikes in 90 days or your channel is dedicated to violative content, your channel may be terminated. Learn more about our [strikes system](https://support.google.com/youtube/answer/2802032).
 
-We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
+We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. Learn more about [channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
 Nudity & Sexual Content Policy
 ==============================
 
-The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. **T****ake the time to carefully read the policy below**. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
+The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. Take the time to carefully read the policy below. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
 
 Explicit content meant to be sexually gratifying is not allowed on YouTube. Posting pornography may result in content removal or channel termination. Videos containing fetish content will be removed or age-restricted. In most cases, violent, graphic, or humiliating fetishes are not allowed on YouTube.
 
@@ -775,14 +775,14 @@ If this is your first time violating our Community Guidelines, you'll likely get
 
 If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strikes system](https://support.google.com/youtube/answer/2802032).
 
-We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
+We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. Learn more about [channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
 If your content contains pornography, we may terminate your channel.
 
 ​Suicide, self-harm, and eating disorders policy
 ================================================
 
-The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. **T****ake the time to carefully read the policy below**. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
+The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. Take the time to carefully read the policy below. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
 
 At YouTube, we take the health and well-being of all our creators and viewers seriously. Awareness and understanding of mental health is important and we support creators sharing their stories, such as posting content discussing their experiences with depression, self-harm, eating disorders, or other mental health issues.
 
@@ -932,7 +932,7 @@ If this is your first time violating our Community Guidelines, you'll likely get
 
 If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strikes system](https://support.google.com/youtube/answer/2802032).
 
-We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
+We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. Learn more about [channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
 Finally we may also limit your access to live streaming if you suggest that you’ll live stream content that will violate our Community Guidelines. [Learn more about restrictions on live streaming.](https://support.google.com/youtube/answer/2853834?hl=en)
 
@@ -946,7 +946,7 @@ YouTube may show features or resources to users when content contains suicide or
 Vulgar language policy
 ======================
 
-The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. **T****ake the time to carefully read the policy below**. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
+The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. Take the time to carefully read the policy below. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
 
 Some language may not be appropriate for viewers under 18.
 
@@ -988,12 +988,12 @@ If this is your first time violating our Community Guidelines, you'll likely get
 
 If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strikes system](https://support.google.com/youtube/answer/2802032).
 
-We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
+We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. Learn more about [channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
 Harassment & cyberbullying policies
 ===================================
 
-The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. **T****ake the time to carefully read the policy below**. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
+The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. Take the time to carefully read the policy below. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
 
 We don’t allow content that targets someone with prolonged insults or slurs based on their physical traits or [protected group status](https://support.google.com/youtube/answer/2801939#protected_group). We also don’t allow other harmful behaviors, like threats or doxxing. Keep in mind that we take a stricter approach on content that targets minors.
 
@@ -1087,7 +1087,7 @@ If this is your first time violating our Community Guidelines, you'll likely get
 
 If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strikes system](https://support.google.com/youtube/answer/2802032).
 
-We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
+We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. Learn more about [channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
 Harmful or dangerous content policy
 ===================================
@@ -1260,14 +1260,14 @@ If this is your first time violating our Community Guidelines, you'll likely get
 
 If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strikes system](https://support.google.com/youtube/answer/2802032).
 
-We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
+We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. Learn more about [channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
 Familiarize yourself with the rest of our [Community Guidelines](https://support.google.com/youtube/answer/9288567).
 
 Hate speech policy
 ==================
 
-The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. **T****ake the time to carefully read the policy below**. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
+The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. Take the time to carefully read the policy below. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
 
 Hate speech is not allowed on YouTube. We don’t allow content that promotes violence or hatred against individuals or groups based on any of the following attributes, which indicate a protected group status under YouTube’s policy:
 
@@ -1368,7 +1368,7 @@ If this is your first time violating our Community Guidelines, you'll likely get
 
 If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strikes system](https://support.google.com/youtube/answer/2802032).
 
-We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
+We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. Learn more about [channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
 * [The importance of context](https://support.google.com/youtube/answer/6345162)
 * [Recent transparency report](https://transparencyreport.google.com/youtube-policy/removals)
@@ -1378,7 +1378,7 @@ Violent extremist or criminal organizations policy
 
   
 
-The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. **T****ake the time to carefully read the policy below**. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
+The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. Take the time to carefully read the policy below. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
 
 Content intended to praise, promote, or aid violent extremist or criminal organizations is not allowed on YouTube. These organizations are not allowed to use YouTube for any purpose, including recruitment.
 
@@ -1435,12 +1435,12 @@ If you get 3 strikes within 90 days, your channel may be terminated. You can lea
 
 Violations may result in monetization being disabled on any of your accounts in accordance with our [YouTube channel monetization policies](https://support.google.com/youtube/answer/1311392). This can include warnings. If you feel this is a mistake, you can appeal. If the violation is overturned, you can apply for monetization once you're eligible in YouTube Studio.
 
-We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
+We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. Learn more about [channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
 Violent or graphic content policies
 ===================================
 
-The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. **T****ake the time to carefully read the policy below**. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
+The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. Take the time to carefully read the policy below. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
 
 Violent or gory content intended to shock or disgust viewers, or content encouraging others to commit violent acts, are not allowed on YouTube.
 
@@ -1558,7 +1558,7 @@ If this is your first time violating our Community Guidelines, you'll likely get
 
 If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strikes system](https://support.google.com/youtube/answer/2802032).
 
-We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
+We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. Learn more about [channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
 Firearms policy
 ===============
@@ -1634,7 +1634,7 @@ If this is your first time violating our Community Guidelines, you'll likely get
 
 If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strikes system](https://support.google.com/youtube/answer/2802032).
 
-We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
+We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. Learn more about [channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
 If you find content that violates this policy, report it. Instructions for reporting violations of our Community Guidelines [are available here](https://support.google.com/youtube/answer/2802027). If you've found a few videos or comments that you would like to report, you can [report the channel](https://support.google.com/youtube/answer/2802027#report_channel).
 
@@ -1644,7 +1644,7 @@ Illegal or regulated goods or services policies
   
  
 
-The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. **T****ake the time to carefully read the policy below**. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
+The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. Take the time to carefully read the policy below. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
 
 Content intended to sell certain regulated goods and services is not allowed on YouTube.
 
@@ -1655,7 +1655,7 @@ What this policy means for you
 
 #### If you're posting content
 
-Don't post content on YouTube if it aims to directly sell, link to, or facilitate access to any of the regulated goods and services listed below. Making the sale of these items or facilitating the use of these services possible by posting links, email, phone number or other means to contact a seller directly is not allowed.
+Don't post content on YouTube if it aims to directly sell, link to, or facilitate access to any of the regulated goods and services listed below. Making the sale of these items or facilitating the use of these services possible by posting links, email, phone number or other means to contact a provider directly is not allowed.
 
 * Alcohol
 * Bank account passwords, stolen credit cards, or other financial information
@@ -1666,7 +1666,7 @@ Don't post content on YouTube if it aims to directly sell, link to, or facilitat
 * Endangered species or parts of endangered species
 * [Firearms and certain firearms accessories](https://support.google.com/youtube/answer/7667605)
 * Nicotine, including vaping products
-* [Online gambling sites not yet reviewed](https://support.google.com/youtube/answer/9910779) by Google or YouTube
+* [Online gambling sites](https://support.google.com/youtube/answer/9910779) not certified by Google
 * Pharmaceuticals without a prescription
 * Sex or escort services
 * Unlicensed medical services
@@ -1676,7 +1676,7 @@ Note: If you're providing links or contact information such as phone numbers, em
 
 Additionally, the following content isn’t allowed on YouTube:
 
-* **Hard drug use or creation**: Hard drug use or creation, selling or facilitating the sale of hard or soft drugs, facilitating the sale of regulated pharmaceuticals without a prescription, or showing how to use steroids in non-educational content. 
+* **Hard drug use or creation**: Hard drug use or creation, selling or facilitating the sale of hard or soft drugs, facilitating the sale of regulated pharmaceuticals without a prescription, or showing how to use steroids in non-educational content.
 * **Poison sale or creation:** Facilitating the sale, giveaway, creation or modification of certain poisons or poisonous substances.
 * **Instructional cheating**: Content which provides instructions for academic cheating.
 
@@ -1689,7 +1689,8 @@ Here are some examples of content that’s not allowed on YouTube.
 
 Keep in mind that this isn’t a complete list. 
 
-* Linking to an online gambling or sports betting site that is not approved.
+* Facilitating access to an online gambling or sports betting site that is not approved.
+* Promising the viewer guaranteed returns via online gambling, regardless of whether the site is approved or not.
 * Selling counterfeit passports or providing instructions on creating forged official documents.
 * Advertising escort, prostitution, or erotic massage services.
 * Content instructing how to purchase drugs on the dark web.
@@ -1739,6 +1740,7 @@ Examples of age-restricted content
 
 * Content that promotes a cannabis dispensary.
 * Content that reviews brands of nicotine e-liquid.
+* Content that facilitates access to, promotes, or depicts online gambling, including content from approved sites.
 
 What happens if content violates this policy
 --------------------------------------------
@@ -1749,7 +1751,7 @@ If this is your first time violating our Community Guidelines, you'll likely get
 
 If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strikes system](https://support.google.com/youtube/answer/2802032).
 
-We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
+We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. Learn more about [channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
 Misinformation policies
 =======================
@@ -1889,7 +1891,7 @@ If this is your first time violating our Community Guidelines, you'll likely get
 
 If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strikes system](https://support.google.com/youtube/answer/2802032).
 
-We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. [Learn more about channel or account terminations](https://support.google.com/youtube/answer/2802168).
+We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. Learn more about [channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
 Medical misinformation policy
 =============================
