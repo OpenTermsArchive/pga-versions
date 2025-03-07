@@ -5,6 +5,8 @@ Terms of Service
 
 Table of Contents
 
+We're updating our Terms of Service, effective April 30, 2025. You can preview the updated Terms of Service .
+
 Thank you for using Pinterest!
 ==============================
 
