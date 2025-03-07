@@ -5,6 +5,8 @@ Privacy Policy
 
 Table of Contents
 
+We're updating our Privacy Policy, effective April 30, 2025. You can preview the updated Privacy Policy .
+
 California Privacy Statement
 ============================
 
