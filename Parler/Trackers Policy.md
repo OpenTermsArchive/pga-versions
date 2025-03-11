@@ -61,7 +61,7 @@ Blockchain
 
 Media
 
-[Parler Pulse](https://parlerpulse.com/)[Blog](https://www.parler.com/blog) [Press Releases](https://www.parler.com/press-releases)[Press Kit](https://www.parler.com/press-kit)
+[Parler Pulse](https://parlerpulse.com/)[Blog](https://www.parler.com/blog) [Press Releases](https://www.parler.com/releases-and-updates)[Press Kit](https://www.parler.com/press-kit)
 
 Help
 
