@@ -3,7 +3,7 @@ Platform Policies
 
 Official Quora Account
 
-* 2024-04-18T23:29:09Z
+* 2025-03-14T13:17:34Z
 
 Quora is a place that empowers people to share and grow the world's knowledge. In order to provide everyone with a safe and authentic experience using Quora, the following types of content and behaviors are prohibited:
 
@@ -22,6 +22,7 @@ Spam negatively impacts interaction on the platform, reduces trust, and inhibits
 * Posting irrelevant answers or comments
 * Editing your questions to include links or irrelevant information
 * Posting questions to promote a business or service, or for solicitation
+* Excessively promoting the same product or service
 
 ### [Harassment and Bullying](#h_01GFWFFH6XDYCRCYR30NBF6WBM)
 
@@ -178,7 +179,7 @@ Spaces Policies
 
 Official Quora Account
 
-* 2024-07-23T12:36:21Z
+* 2025-03-14T13:17:56Z
 
 On Quora, people share questions, answers, and other content to collectively build knowledge and community within a Space. Quora generally moderates items within Spaces at a content-level, however, repeated or serious violations may result in the removal of the entire Space. Note that Space admins may decide to set more restrictive policies for individual Spaces that they manage. Below are the following policies for Quora Spaces:
 
@@ -308,6 +309,7 @@ Spam negatively impacts interaction on the platform, reduces trust, and inhibits
 * Posting irrelevant answers or comments
 * Editing your questions to include links or irrelevant information
 * Posting questions to promote a business or service, or for solicitation
+* Excessively promoting the same product or service
 
 ### [Impersonation](#h_01FSDDZ1HT20K0EZWQHPPWVJGK)
 
