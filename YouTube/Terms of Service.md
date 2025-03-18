@@ -455,4 +455,4 @@ Vatican City        800599102
 
 Wallis & Futuna        +33185149665
 
-#### Gültig ab January 5, 2022 ([vorherige Version ansehen](https://www.youtube.com/t/terms?archive=20210601))
+#### Effective as of January 5, 2022 ([view previous version](https://www.youtube.com/t/terms?archive=20210601))
