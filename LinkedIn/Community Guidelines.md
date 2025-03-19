@@ -395,5 +395,7 @@ Examples of spam
     
 * Excessive, irrelevant, or repetitive comments or messages
     
+* Articles that are misleading or malicious, often in order to manipulate search engines.
+    
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
