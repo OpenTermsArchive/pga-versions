@@ -466,7 +466,7 @@ Kioi Tower, Tokyo Garden Terrace Kioicho,
 102-8282 Japan
 
 Person responsible for the handling of personal data  
-Chief Privacy Governance Officer
+Chief Data Officer
 
 If you are in the European Economic Area (EEA), the United Kingdom, or Thailand, you may contact the Data Protection Officer, our EU representative below, our UK representative below, or Thailand representative below, or you may lodge a complaint with a supervisory authority in the European Economic Area, the United Kingdom, or Thailand.
 
@@ -505,7 +505,7 @@ LY Corporation
 CEO and President - Takeshi Idezawa
 
 Formulated on October 1, 2023  
-Date of last update: November 12, 2024
+Date of last update: March 19, 2025
 
 ### 10.Reference
 
@@ -517,7 +517,6 @@ Among our Services, we are providing certain services or functions only in certa
 Applicable countries: Japan, Taiwan, Thailand, Indonesia
 
 Related information: Requests regarding the use of information to improve services ([Japan](https://terms.line.me/line_communication_privacy) , [Taiwan](https://terms.line.me/line_communication_privacy_tw), [Thailand](https://terms.line.me/line_communication_privacy/), [Indonesia](https://terms.line.me/line_communication_privacy/))  
-Related settings: Settings > Privacy management > Provision of information > Communication-related information  
 Related settings: Settings > Privacy management > Provision of information > Communication-related information
 
 (\*2) Provision of optimal information/service through utilization of location information  
