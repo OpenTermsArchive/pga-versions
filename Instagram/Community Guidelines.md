@@ -478,8 +478,8 @@ We may restrict or disable accounts, other entities (Pages, groups, events) or b
 * Violate our Community Standards involving any harms that warrant referral to law enforcement due to the risk of imminent harm to individual of public safety
 * Violate our Advertising Standards involving deceptive or dangerous business harms
 * Persistently violate our Community Standards by posting violating content and/or managing violating entities or business assets
-* Persistently violates our Advertising Standards
-* Activity or behavior indicative of a clear violating purpose
+* Persistently violate our Advertising Standards
+* Demonstrate activity or behavior indicative of a clear violating purpose
 
 We may restrict or disable accounts, other entities (Pages, groups, events) or business assets (Business Managers, ad accounts) that are:
 
