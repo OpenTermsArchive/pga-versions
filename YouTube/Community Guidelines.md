@@ -359,7 +359,6 @@ The following types of content are not allowed on YouTube. Keep in mind this lis
 * Repeatedly uploading content that you don’t own and that isn’t [EDSA](https://support.google.com/youtube/answer/6345162).
 
 Misleading metadata or thumbnails
----------------------------------
 
 The following types of content are not allowed on YouTube. Keep in mind this list isn't a complete list.
 
