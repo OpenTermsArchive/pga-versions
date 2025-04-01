@@ -325,7 +325,7 @@ If you find content that violates this policy, report it. Instructions for repor
 What these policies mean for you
 --------------------------------
 
-#### If you're posting content
+### If you're posting content
 
 Don’t post content on YouTube if it fits any of the descriptions noted below.
 
@@ -335,9 +335,9 @@ Don’t post content on YouTube if it fits any of the descriptions noted below.
     * Sends audiences to sites that spread harmful software, try to gather personal info, or other sites that have a negative impact.
 * **Misleading Metadata or Thumbnails:** Using the title, thumbnails, or description to trick users into believing the content is something it is not. This includes titles, thumbnails, or descriptions leading viewers to believe they will see something in a video, but then not including it in the video content itself.
 * **Scams:** Content offering cash gifts, “get rich quick” schemes, or pyramid schemes (sending money without a tangible product in a pyramid structure).
-* **Incentivization Spam:** Content that sells engagement metrics such as views, likes, comments, or any other metric on YouTube. This type of spam can also include content where the only purpose is to boost subscribers, views, or other metrics. For example, offering to subscribe to another creator’s channel solely in exchange for them subscribing to your channel, also known as "Sub4Sub" content.
+* **Incentivization Spam:** Content that sells engagement metrics such as views, likes, comments, or any other metric on YouTube. This type of spam can also include content where the only purpose is to boost subscribers, views, or other metrics. For example, offering to subscribe to another creator’s channel solely in exchange for them subscribing to your channel, also known as "Sub4Sub" content.
 * **Comments Spam:** Comments where the sole purpose is to gather personal info from viewers, misleadingly drive viewers off YouTube, or perform any of the prohibited behaviors noted above.
-* **Repetitive comments:** Leaving large amounts of identical, untargeted or repetitive comments.
+* **Repetitive comments:** Leaving large amounts of identical, untargeted or repetitive comments. Note that this type of engagement may lead to the removal of your comments.
 * **3rd party content:** Live streams that include unauthorized 3rd party content that are not corrected after repeated warnings of possible abuse. Channel owners should actively monitor their live streams and correct any potential issues in a timely manner.
 
 This policy applies to videos, video descriptions, comments, live streams, and any other YouTube product or feature. Keep in mind that this isn't a complete list. Please note these policies also apply to [external links](https://support.google.com/youtube/answer/9054257) in your content. This can include clickable URLs, verbally directing users to other sites in video, as well as other forms.
@@ -504,12 +504,12 @@ YouTube doesn’t allow content that endangers the emotional and physical well-b
 
 If you find content that violates this policy, report it. If you believe that a child is in danger, you should get in touch with your local law enforcement to report the situation immediately.
 
-Instructions for reporting violations of our Community Guidelines [are available here](https://support.google.com/youtube/answer/2802027). If you've found multiple videos or comments that you would like to report, you can [report the channel](https://support.google.com/youtube/answer/2802027#report_channel).
+Instructions for reporting violations of our Community Guidelines [are available here](https://support.google.com/youtube/answer/2802027). If you've found multiple videos or comments that you would like to report, you can [report the channel](https://support.google.com/youtube/answer/2802027).
 
 What this policy means for you
 ------------------------------
 
-#### If you're posting content
+### If you're posting content
 
 Don’t post content on YouTube if it fits any of the descriptions below.
 
@@ -559,7 +559,7 @@ We may add an age restriction to content that includes any of the following.
 
 Content featuring minors
 
-To protect minors on YouTube, content that doesn’t violate our policies but features children may have some features disabled at both the channel and content level. These features may include:
+To protect minors on YouTube, content that doesn’t violate our policies but depicts children or is uploaded by minors may have some features disabled at both the channel and content level. These features may include:
 
 * Comments
 * Live chat
@@ -567,6 +567,8 @@ To protect minors on YouTube, content that doesn’t violate our policies but fe
 * Video recommendations (how and when your video is recommended)
 * Posts
 * Shorts Video remixing
+
+Note that we may also apply stricter display standards to comments, posts, and live chat messages on channels owned by minors or associated with content depicting or uploaded by minors.
 
 **How to protect minors in your content**
 
