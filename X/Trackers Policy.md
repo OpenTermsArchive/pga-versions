@@ -3432,3 +3432,21 @@ Learn More (Privacy Policy URL)
 Web Domain
 
 .x.com
+
+Name
+
+idp\_user\_ssf
+
+Description
+
+This cookie is for authentication.
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://twitter.com/privacy
+
+Web Domain
+
+Any Twitter Domain
