@@ -764,7 +764,7 @@ More examples
 * Audio or textual depictions of sexual acts for the purpose of sexual gratification
 * Content showing bodily fluids or excretion, such as urine, for the purpose of sexual gratification
 * Content using otherwise everyday objects or scenarios, such as injections or eating, for the purpose of sexual gratification
-* Video game content which has been developed or modified (“modded”) for sexual gratification, or focuses on themes of unwanted sexualization 
+* Video game content which has been developed or modified (“modded”) for sexual gratification, or focuses on themes of unwanted sexualization
     
 
 What happens if content violates this policy
