@@ -1,7 +1,7 @@
 Privacy Policy
 --------------
 
-How we use info for AI at Meta Based on feedback from regulators, we’re still delaying our plans to use your information from Meta Products to develop and improve [AI at Meta](https://privacycenter.instagram.com/privacy/genai/). We’ll let you know before we start using this information for this purpose, and how you can exercise your right to object. Other updates We updated our Privacy Policy on April 7, 2025. [View our previous policy.](https://privacycenter.instagram.com/policy/version/26538104089138560/)
+How we use info for AI at Meta Based on feedback from regulators, we’re still delaying our plans to use your information from Meta Products to develop and improve [AI at Meta](https://privacycenter.instagram.com/privacy/genai/). We’ll let you know before we start using this information for this purpose, and how you can exercise your right to object. Other updates We updated our Privacy Policy on April 7, 2025. [View our previous policy.](https://privacycenter.instagram.com/policy/version/8810742435690564/)
 
 How to manage the info we use
 
