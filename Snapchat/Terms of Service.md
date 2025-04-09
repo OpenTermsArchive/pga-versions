@@ -5,8 +5,6 @@ Secondary Navigation
     * [Snap Inc. Terms of Service](https://www.snap.com/terms?lang=en-GB#inc-terms)
     * [Snap Group Limited Terms of Service](https://www.snap.com/terms?lang=en-GB#sgl-terms)
 
-**We've updated our Terms of Service, effective 7 April 2025. You can view the prior Terms of Service, which apply to all users until 7 April 2025,** [**here**](https://www.snap.com/terms-02-26-2024?lang=en-GB)**.**
-
 Click here for a helpful summary of the Snap Terms of Service
 
 The [Snap Terms of Service](https://www.snap.com/terms?lang=en-GB) is a contract between you and Snap. It explains the rules for using Snapchat and our other services (which we call our “Services”). These rules are legally binding, so it's important to understand them. Here’s a quick breakdown of the key points, but you should still read the whole thing:
