@@ -1,11 +1,16 @@
+Cookie Notice
+=============
+
+Last modified on 02/09/2021 [See prior versions of Cookie Notice](https://www.twitch.tv/en/legal/cookie-notice/archive)
+
 **Cookie Notice**
 -----------------
 
 This Cookie Notice applies to your use of [www.twitch.tv](http://www.twitch.tv/), and any other websites, applications, or services provided by Twitch Interactive, Inc. (with its affiliates, “Twitch”, “we” or “us”) that link to this Cookie Notice (collectively, the “Twitch Services”). Twitch uses certain technologies to collect information through the Twitch Services. In this Cookie Notice, we refer to these technologies, which include HTTP cookies, local storage, pixel tags and web beacons, collectively as “cookies.” This notice explains the different types of cookies used on Twitch Services and how you can control them. We may change this Cookie Notice at any time: please take a look at the “last modified” legend at the top of this page to see when this Cookie Notice was last revised. 
 
-By visiting www.twitch.tv, setting up your Twitch account, or using the Twitch Services, you are accepting the information handling practices and storage and access of cookies as described in this Cookie Notice.
+By visiting [www.twitch.tv](https://www.twitch.tv/), setting up your Twitch account, or using the Twitch Services, you are accepting the information handling practices and storage and access of cookies as described in this Cookie Notice.
 
-We hope that this notice helps you understand, and feel more confident about, our use of cookies. If you have any further queries, please contact us at privacy@twitch.tv.
+We hope that this notice helps you understand, and feel more confident about, our use of cookies. If you have any further queries, please contact us at [privacy@twitch.tv](mailto:privacy@twitch.tv).
 
 #### **What is a Cookie?**
 
