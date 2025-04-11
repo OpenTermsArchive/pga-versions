@@ -3450,3 +3450,273 @@ https://twitter.com/privacy
 Web Domain
 
 Any Twitter Domain
+
+Name
+
+\_\_cf\_bm
+
+Description
+
+This cookie is for Cloudflare to monitor traffic
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://www.cloudflare.com/privacypolicy
+
+Web Domain
+
+Any Twitter Domain
+
+Name
+
+\_shopify\_y
+
+Description
+
+This cookie is for Shopify reporting and analytics
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://www.shopify.com/legal/privacy
+
+Web Domain
+
+.x.com
+
+Name
+
+cart\_currency
+
+Description
+
+This cookie is for shop functionality on shop.x.com
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://www.shopify.com/legal/privacy
+
+Web Domain
+
+shop.x.com
+
+Name
+
+\_shopify\_s
+
+Description
+
+This cookie is for Shopify reporting and analytics
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://www.shopify.com/legal/privacy
+
+Web Domain
+
+.x.com
+
+Name
+
+localization
+
+Description
+
+This cookie is for shop functionality on shop.x.com
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://www.shopify.com/legal/privacy
+
+Web Domain
+
+shop.x.com
+
+Name
+
+secure\_customer\_sig
+
+Description
+
+This cookie is for shop functionality on shop.x.com
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://www.shopify.com/legal/privacy
+
+Web Domain
+
+shop.x.com
+
+Name
+
+\_dd\_s
+
+Description
+
+This cookie is for shop functionality on shop.x.com
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://www.datadoghq.com/legal/privacy
+
+Web Domain
+
+shop.x.com
+
+Name
+
+shopify\_pay\_redirect
+
+Description
+
+This cookie is for shop functionality on shop.x.com
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://www.shopify.com/legal/privacy
+
+Web Domain
+
+shop.x.com
+
+Name
+
+\_shopify\_sa\_t
+
+Description
+
+This cookie is for Shopify reporting and analytics
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://www.shopify.com/legal/privacy
+
+Web Domain
+
+.x.com
+
+Name
+
+\_landing\_page
+
+Description
+
+This cookie is for Shopify reporting and analytics
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://www.shopify.com/legal/privacy
+
+Web Domain
+
+.x.com
+
+Name
+
+\_orig\_referrer
+
+Description
+
+This cookie is for Shopify reporting and analytics
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://www.shopify.com/legal/privacy
+
+Web Domain
+
+.x.com
+
+Name
+
+\_tracking\_consent
+
+Description
+
+This cookie is for user preferences in Shopify
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://www.shopify.com/legal/privacy
+
+Web Domain
+
+.x.com
+
+Name
+
+\_shopify\_sa\_p
+
+Description
+
+This cookie is for Shopify reporting and analytics
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://www.shopify.com/legal/privacy
+
+Web Domain
+
+.x.com
+
+Name
+
+keep\_alive
+
+Description
+
+This cookie is for shop functionality on shop.x.com
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://www.shopify.com/legal/privacy
+
+Web Domain
+
+shop.x.com
+
+Name
+
+\_gcl\_au
+
+Description
+
+This cookie is for Google Analytics
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://policies.google.com/privacy
+
+Web Domain
+
+.x.com
