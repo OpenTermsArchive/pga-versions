@@ -208,12 +208,10 @@ Our address details are:
 865 FM 1209 Bldg. 2  
 Bastrop, TX 78602
 
-**Twitter International Unlimited Company  
-**Attn: Safety - Legal Policy  
-One Cumberland Place  
-Fenian Street  
-Dublin 2  
-D02 AX07  
+**Twitter International Unlimited Company**  
+One Cumberland Place,  
+Fenian Street,  
+Dublin 2,  
 Ireland
 
 Receipt of correspondence by any of these means is for convenience only and does not waive any objections, including the lack of jurisdiction or proper service. Governmental entities who do not submit legal requests through the Legal Request Submissions site should expect longer response times.
