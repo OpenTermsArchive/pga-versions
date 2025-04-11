@@ -143,15 +143,16 @@ Help
 [Contact Us](https://parler.com/contact-us)[Help Center](https://help.parler.com/hc/90853520)
 
 **Parler’s Disclaimer and Notice**  
-Updated: October 23, 2024  
+Updated: March 21, 2025  
   
-Parler’s Mission and Focus Parler is a social media platform built to champion free speech and protect user privacy. With minimal content moderation, Parler fosters an open environment where users can freely express their views. This commitment to transparency and open dialogue aligns with Parler's mission of supporting diverse perspectives in a secure digital space.  
+**About  
+‍**Parler is a social media platform that champions free speech, protects user privacy, and fosters an open environment for diverse perspectives. With minimal content moderation, Parler provides a secure digital space for users to express themselves freely by posting short-form and long-form content. Beyond its social media platform, Parler develops blockchain-integrated apps and services that interact with the decentralized Optio Blockchain, enhancing user engagement and creating innovative opportunities for community collaboration.  
   
-**Blockchain-Integrated Apps and Services**  
-Beyond social media, Parler develops blockchain-integrated apps and services that interact with the decentralized Optio Blockchain. Through collaboration with Optio Services, Parler expands the functionality of the Optio network, enhancing user engagement with apps that integrate seamlessly with the blockchain. While Parler is involved in the development of these apps, the governance of the Optio Blockchain remains fully decentralized and is managed by Optio Node Owners.  
+**Disclaimer  
+‍**Parler is committed to transparency and protecting user privacy. While the platform integrates blockchain-based apps and services, Parler does not manage or govern the Optio Blockchain, which operates under a decentralized, community-driven governance model. Users may earn points through engagement with Parler apps, which are converted into OPT digital rewards. These digital rewards are not investment products, do not hold guaranteed monetary value, and do not promise financial gain or profit. The value of any digital reward is determined by market conditions, community participation, and market volatility, and no centralized entity — including Parler — has any control over the value of these digital rewards. Participation is voluntary and based solely on user engagement. Users should utilize blockchain technologies at their own risk. Parler does not distribute digital rewards or tokens and is not liable for third-party transactions or the conversion of digital rewards.  
   
-**Blockchain Governance, OPT Digital Rewards, and Future Projection**s  
-The Optio Blockchain operates through decentralized governance led by Optio Node Owners, who follow a community-driven constitution. Users can earn points that convert into OPT digital rewards by engaging with Parler apps integrated into the blockchain, which can then be used within the Parler platform. However, there is no promise of financial gain or profit associated with these rewards, as they are not investment products and have no guaranteed value outside of their utility within the ecosystem. Parler’s future projections, while promising, are subject to risks and uncertainties, and outcomes may differ from those anticipated.
+**Forward-Looking Projection Statement  
+This website may contain forward-looking statements that reflect current expectations, projections, and assumptions about future developments and performance. These statements are not guarantees of future results and are subject to risks, uncertainties, and other factors that could cause actual outcomes to differ materially from those expressed or implied herein. Factors that may impact forward-looking statements include, but are not limited to, changes in market conditions, technological advancements, regulatory developments, and competitive pressures. Parler assumes no obligation to update or revise any forward-looking statements to reflect changes in circumstances, events, or expectations. Readers are advised not to place undue reliance on these statements as they are inherently speculative and subject to change.**  
 
 **Plano Address:  
 **5700 Tennyson Pkwy  
