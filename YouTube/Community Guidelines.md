@@ -1498,7 +1498,7 @@ We may apply an age-restriction rather than remove violent or graphic content if
 
 We also consider public interest when deciding whether content should be allowed, age-restricted, or removed. For example, we may allow or age-restrict graphic or violent content documenting warzones, civil unrest, humanitarian crises, or natural disasters with adequate educational, documentary, scientific or artistic context in the images or audio of the video, the video title, or the video description.
 
-We may also age-restrict dramatized violence when it contains graphic scenes, such as people being dismembered or decapitated, or shows human corpses with these severe injuries. Generally, we do not remove dramatized violence when the content or metadata lets us know that the content is fictional, or when it’s apparent from the content itself, such as animated content or video games.
+We may age-restrict dramatized violence when it contains graphic scenes, such as people being tortured, dismembered, or decapitated. We may also age-restrict content that focuses on human corpses with these severe injuries or violent deaths of a person that show blood. We make a distinction between dramatized violence featuring real human actors and content featuring animations or video games. Dramatized violence featuring real human actors may be more likely to face age-restrictions, especially if the content is particularly graphic or realistic. Generally, we do not remove dramatized violence when the content or metadata lets us know that the content is fictional, or when it’s apparent from the content itself, such as with animated content or video games.
 
 We consider the following when deciding whether to allow, age-restrict or remove content. Note that this isn’t a complete list:
 
@@ -1509,6 +1509,7 @@ We consider the following when deciding whether to allow, age-restrict or remove
 * Whether there’s context that lets viewers know that the imagery is dramatized or fictional. For example, through info in the video, title, or description.
 * Whether the violence is part of a religious or cultural practice, and the uploader gives viewers that context.
 * Whether the content shows the killing of an animal via traditional or standard practices for hunting, religious practice, or food preparation.
+* Whether the dramatized violence is depicted with real human actors or animation including video games.
 
 This policy applies to videos, video descriptions, comments, live streams, and any other YouTube product or feature.
 
