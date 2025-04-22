@@ -1,3 +1,31 @@
+[Skip to content](#start-of-content)
+
+[Spotify](https://www.spotify.com/de-en/)
+
+* * [Premium Individual 1 account - For one person.](https://www.spotify.com/de-en/premium/?ref=spotifycom_header_premium_individual)
+    * [Premium Duo 2 accounts - For couples under one roof.](https://www.spotify.com/de-en/duo/?ref=spotifycom_header_premium_duo)
+    * [Premium Family 6 accounts - For family members under one roof.](https://www.spotify.com/de-en/family/?ref=spotifycom_header_premium_family)
+    * [Premium Student 1 account - Discount for eligible students.](https://www.spotify.com/de-en/student/?ref=spotifycom_header_premium_student)
+    
+* [Support](https://support.spotify.com/)
+* [Download](https://www.spotify.com/de-en/download/)
+
+* [Sign up](https://www.spotify.com/de-en/signup/)
+* [Log in](https://www.spotify.com/de-en/login/?continue=https%3A%2F%2Fopen.spotify.com%2F__noul__%3Fl2l%3D1%26nd%3D1)
+
+![](/safetyandprivacy/files/safetyAndPrivacyCenter_renaissance_banner.png)
+
+Safety and Privacy Centre
+=========================
+
+[Home](https://www.spotify.com/de-en/safetyandprivacy)
+
+[Safety](https://www.spotify.com/de-en/safetyandprivacy/platform-rules)
+
+[Privacy](https://www.spotify.com/de-en/safetyandprivacy/personal-data-collected)
+
+[Regulatory and Transparency Reports](https://www.spotify.com/de-en/safetyandprivacy/transparency)
+
 Spotify Platform Rules
 ======================
 
@@ -133,3 +161,57 @@ How can I report an issue?
 --------------------------
 
 Have you found an issue with a piece of content on Spotify? If so, please let us know by reporting it [here](https://support.spotify.com/content-policy-reporting/).
+
+[Spotify](https://www.spotify.com/de-en/)
+
+Company
+-------
+
+* [About](https://www.spotify.com/de-en/about-us/contact/)
+* [Jobs](https://www.lifeatspotify.com/)
+* [For the Record](https://newsroom.spotify.com/)
+
+Communities
+-----------
+
+* [For Artists](https://artists.spotify.com/)
+* [Developers](https://developer.spotify.com/)
+* [Advertising](https://ads.spotify.com/)
+* [Investors](https://investors.spotify.com/)
+* [Vendors](https://spotifyforvendors.com/)
+
+Useful links
+------------
+
+* [Support](https://support.spotify.com/)
+* [Web Player](https://open.spotify.com/)
+* [Free Mobile App](https://www.spotify.com/de-en/free/)
+
+Spotify Plans
+-------------
+
+* [Premium Individual](https://www.spotify.com/de-en/premium/#ref=spotifycom_footer_premium_individual)
+* [Premium Duo](https://www.spotify.com/de-en/duo/#ref=spotifycom_footer_premium_duo)
+* [Premium Family](https://www.spotify.com/de-en/family/#ref=spotifycom_footer_premium_family)
+* [Premium Student](https://www.spotify.com/de-en/student/#ref=spotifycom_footer_premium_student)
+* [Spotify Free](https://www.spotify.com/de-en/free/#ref=spotifycom_footer_free)
+
+* [](https://instagram.com/spotify "Instagram")
+* [](https://twitter.com/spotify "Twitter")
+* [](https://www.facebook.com/Spotify "Facebook")
+
+[Germany (English)](https://www.spotify.com/de-en/select-your-country-region/)
+
+* [Legal](https://www.spotify.com/de-en/legal/)
+    
+* [Safety & Privacy Center](https://www.spotify.com/de-en/safetyandprivacy/)
+    
+* [Privacy Policy](https://www.spotify.com/de-en/legal/privacy-policy/)
+    
+
+* [About Ads](https://www.spotify.com/de-en/legal/privacy-policy/#s3)
+    
+* [Accessibility](https://www.spotify.com/de-en/accessibility/)
+    
+
+© 2025 Spotify AB
