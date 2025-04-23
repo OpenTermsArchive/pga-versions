@@ -17,7 +17,7 @@ These standards are based on feedback from people and the advice of experts in f
 
 ### Our commitment to voice
 
-The goal of our Community Standards is to create a place for expression and give people a voice. Meta wants people to be able to talk openly about the issues that matter to them, whether through written comments, photos, music, or other artistic mediums, even if some may disagree or find them objectionable. In some cases, we allow content—which would otherwise go against our standards—if it’s [newsworthy](https://transparency.meta.com/features/approach-to-newsworthy-content) and in the public interest. We do this only after weighing the public interest value against the risk of harm, and we look to international human rights standards to make these judgments. In other cases, we may remove content that uses ambiguous or implicit language when additional context allows us to reasonably understand that the content goes against our standards.
+The goal of our Community Standards is to create a place for expression and give people a voice. Meta wants people to be able to talk openly about the issues that matter to them, whether through written comments, photos, music, or other artistic mediums, even if some may disagree or find them objectionable. In some cases, we allow content—which would otherwise go against our standards—if it’s and in the public interest. We do this only after weighing the public interest value against the risk of harm, and we look to international human rights standards to make these judgments. In other cases, we may remove content that uses ambiguous or implicit language when additional context allows us to reasonably understand that the content goes against our standards.
 
 Our commitment to expression is paramount, but we recognize the internet creates new and increased opportunities for abuse. For these reasons, when we limit expression, we do it in service of one or more of the following values:
 
@@ -349,7 +349,7 @@ We Remove:
 **Voter and/or census fraud**
 
 * Offers to buy or sell votes with cash, gifts, services or other material goods, except if shared in condemning, awareness raising, news reporting, or humorous or satirical contexts.
-* Advocating, providing instructions for, or demonstrating explicit intent to illegally participate in a voting or census process, except if shared in condemning, awareness raising, news reporting, or humorous or satirical contexts.
+* Advocating, providing instructions for, or demonstrating explicit intent to illegally participate in a voting (for example, voting twice or fabricating your voting eligibility) or census process (for example, misrepresenting demographic information or how many people are in your household), except if shared in condemning, awareness raising, news reporting, or humorous or satirical contexts.
 
 For the following content, we include a label so that people are aware the content may be sensitive:
 
@@ -422,8 +422,9 @@ Content that:
 * Admits to buying, trading or co-ordinating the trade of high-risk drugs by the poster of the content by themselves or through others.
 * Admits to personal use without acknowledgment of or reference to recovery, treatment, or other assistance to combat usage. This content may not speak positively about, encourage use of, coordinate or provide instructions to make or use high-risk drugs.
 * Coordinates or promotes (by which we mean speaks positively about, encourages the use of, or provides instructions to use or make) high-risk drugs.
+* Note: Debating or advocating for the legality or discussing scientific or medical merits of high risk drugs is allowed. This includes news and public service announcements.
 
-Non-medical drugs (drugs or substances that are not being used for an intended medical purposes or are used to achieve a high - this includes precursor chemicals or substances that are used for the production of these drugs.)
+Non-medical drugs (drugs or substances that are not being used for an intended medical purpose or are used to achieve a high - this includes precursor chemicals or substances that are used for the production of these drugs.)
 
 Content that:
 
@@ -431,16 +432,19 @@ Content that:
 * Admits to buying, trading or co-ordinating the trade of non-medical drugs by the poster of the content by themselves or through others.
 * Admits to personal use without acknowledgment of or reference to recovery, treatment, or other assistance to combat usage. This content may not speak positively about, encourage use of, coordinate or provide instructions to make or use non-medical drugs.
 * Coordinates or promotes (by which we mean speaks positively about, encourages the use of, or provides instructions to use or make) non-medical drugs.
+* Attempts to sell or promote non-medical drugs paraphernalia.
+* Contains merchandise depicting non-medical drugs.
 
 Prescription drugs (drugs that require a prescription or medical professionals to administer)
 
 Content that:
 
 * Attempts to buy, sell or trade prescription drugs except when:
-    * Listing the price of vaccines in an explicit education or discussion context.
-    * Offering delivery when posted by legitimate healthcare e-commerce businesses.
+    * Listing the price of vaccines in an explicit education or discussion context when restricted to adults 18 years of age or over.
+    * Offering delivery when posted by legitimate healthcare e-commerce businesses when restricted to adults 18 years of age or over. This content must also include a disclaimer to consult a licensed health professional or obtain a valid prescription.
 * Attempts to donate or gift prescription drugs, except in the event of an economic, health, societal or natural disaster crisis.
-* Asks for prescription drugs, except when content discusses the affordability, accessibility or efficacy of prescription drugs in a medical context
+* Asks for prescription drugs, except when content discusses the affordability, accessibility or efficacy of prescription drugs in a medical context.
+* Note: Debating or advocating for the legality or discussing scientific or medical merits of prescription drugs is allowed. This includes news and public service announcements.
 
 Entheogens
 
@@ -461,7 +465,17 @@ Entheogens
 Cannabis and Cannabis Derived Products
 
 * Content that coordinates or promotes (by which we mean speaks positively about, encourages the use of, or provides instructions to use or make) marijuana and products containing THC or related psychoactive components.
+* Business related content posted by marijuana dispensaries where there are no attempts to buy, sell or trade marijuana and products containing THC or related psychoactive components.
 * Content that attempts to buy, sell, trade, donate, gift or ask for ingestible cannabidiol (CBD) or similar cannabinoid products.
+* Content that attempts to buy, sell, trade, donate, gift or ask for non-ingestible cannabidiol (CBD) or similar cannabinoid products.
+* Content making disease claims relating to non-ingestible cannabidiol (CBD) or similar cannabinoid products.
+* Content depicting marijuana paraphernalia.
+
+Prescription drugs
+
+* Content that attempts to buy, sell or trade prescription drugs in any context, including when posted by legitimate healthcare e-commerce businesses.
+* Content that attempts to buy, sell, trade, donate, gift or ask for over-the-counter medicine.
+* Content that includes admission or consumption of prescription drugs.
 
 **Weapons, Ammunitions, or Explosives**
 
@@ -475,15 +489,15 @@ Content that:
 * Attempts to donate or gift firearms, firearm parts, ammunition, explosives, or lethal enhancements except when posted in the following contexts:
     * Donating, trading in or buying back firearms and ammunition by a Page, Group or Instagram profile representing legitimate brick-and-mortar entities, including retail businesses, websites, brands or government agencies, or a private individual sharing content on behalf of legitimate brick-and-mortar entities.
     * An auction or raffle of firearms by legitimate brick-and-mortar entities, including retail businesses, government-affiliated organizations or non-profits, or private individuals affiliated with or sponsored by legitimate brick-and-mortar entities.
-* Asks for firearms, firearm parts, ammunition, explosives, or lethal enhancements
+* Asks for firearms, firearm parts, ammunition, explosives, or lethal enhancements.
 * Sells, gifts, exchanges, transfers, coordinates, promotes (by which we mean speaks positively about, encourages the use of) or provides access to 3D printing or computer-aided manufacturing instructions for firearms or firearms parts regardless of context or poster.
-* Attempts to buy, sell, or trade machine gun conversion devices
+* Attempts to buy, sell, or trade machine gun conversion devices.
 
 For the following content, we restrict visibility to adults 21 years of age and older:
 
 Weapons, Ammunitions, or Explosives
 
-* Content posted by or promoting legitimate brick-and-mortar store, entities, including retail businesses websites, brands, or government agencies which attempt to buy, sell, trade, donate or gift (including in the context of an auction or a raffle) firearms, firearm parts, ammunition, explosives, or lethal enhancements.
+* Content posted by or promoting legitimate brick-and-mortar store, entities, including retail businesses, websites, brands, or government agencies which attempt to buy, sell, trade, donate or gift (including in the context of an auction or a raffle) firearms, firearm parts, ammunition, explosives, or lethal enhancements.
 
 For the following content, we restrict visibility to adults 18 years of age and older:
 
@@ -507,7 +521,7 @@ Content that:
 
 For the following content, we restrict visibility to adults 18 years of age and older:
 
-* Content posted by or promoting legitimate brick-and-mortar entities, including retail businesses websites or brands, which attempt to buy, sell, trade, donate or gift of alcohol or tobacco products.
+* Content posted by or promoting legitimate brick-and-mortar entities, including retail businesses, websites or brands, which attempt to buy, sell, trade, donate or gift of alcohol or tobacco products.
 * Content depicting the consumption of tobacco, nicotine products, or “ENDS” products.
 * Content that coordinates or promotes the use of tobacco, nicotine products, “ENDS” products, or tobacco brands.
 
@@ -518,17 +532,17 @@ We do not allow:
 Content that:
 
 * Attempts to buy, sell or trade alcohol except when:
-    * Posted by a Page, Group, or Instagram profile representing legitimate brick-and-mortar entities, including retail businesses, websites or brands, or a private individual sharing content on behalf of legitimate brick-and-mortar entities, including offering delivery services and brand giveaways
-    * Content refers to alcohol or offering an invitation to an alcohol venue where alcohol will be exchanged or consumed on location at an event, restaurant, bar, or party
+    * Posted by a Page, Group, or Instagram profile representing legitimate brick-and-mortar entities, including retail businesses, websites or brands, or a private individual sharing content on behalf of legitimate brick-and-mortar entities, including offering delivery services and brand giveaways.
+    * Content refers to alcohol or offering an invitation to an alcohol venue where alcohol will be exchanged or consumed on location at an event, restaurant, bar, or party.
 
-* Attempts to donate or gift alcohol or tobacco except when posted by a Page, Group, or Instagram profile representing legitimate brick-and-mortar entities, including retail businesses, websites or brands, or a private individual sharing content on behalf of legitimate brick-and-mortar entities
-* Asks for alcohol products and beverages
+* Attempts to donate or gift alcohol or tobacco except when posted by a Page, Group, or Instagram profile representing legitimate brick-and-mortar entities, including retail businesses, websites or brands, or a private individual sharing content on behalf of legitimate brick-and-mortar entities.
+* Asks for alcohol products and beverages.
 
 For the following content, we restrict visibility to adults 18 years of age and older:
 
-* Content posted by or promoting legitimate brick-and-mortar entities, including retail businesses websites or brands, which attempt to buy, sell, trade, donate or gift alcohol products or beverages
-* Content depicting the consumption of alcohol products or beverages or sharing recipes for alcoholic beverages
-* Content referring to alcohol products or offering an invitation to an alcohol venue where alcohol will be exchanged or consumed
+* Content posted by or promoting legitimate brick-and-mortar entities, including retail businesses, websites or brands, which attempt to buy, sell, trade, donate or gift alcohol products or beverages.
+* Content depicting the consumption of alcohol products or beverages or sharing recipes for alcoholic beverages.
+* Content referring to alcohol products or offering an invitation to an alcohol venue where alcohol will be exchanged or consumed.
 
 **Health and Wellness**
 
@@ -538,9 +552,9 @@ Weight loss products or services
 
 Content that:
 
-* Attempts to buy, sell, trade, donate, gift, mention, ask for, weight loss products or services
-* Admits to or depicts using a weight loss product, in a favorable context or discusses its side effects
-* Shows coordination or promotion (by which we mean speaks positively, encourages the use of or provides instructions to use or make) a diet product
+* Attempts to buy, sell, trade, donate, gift, mention, ask for, weight loss products or services.
+* Admits to or depicts using a weight loss product, in a favorable context or discusses its side effects.
+* Shows coordination or promotion (by which we mean speaks positively, encourages the use of or provides instructions to use or make) a diet product.
 * Depict a before and after body-change comparison in the context of weight loss, showcasing weight loss after using a product in a manner that may make people feel bad about their appearance or imply negative self-perception.
 
   
@@ -549,12 +563,12 @@ Cosmetic Products, Procedures, or Surgeries
 Content that:
 
 * Attempts to buy, sell, trade, donate, gift, mention, or ask for cosmetic products, procedures, or surgeries. This includes:
-    * Skin Whitening products such as; bleaching creams
+    * Skin Whitening products such as bleaching creams.
     * Cosmetic procedures with the intention to treat, or restore function or structure of people’s faces or bodies.
 
-* Admits to or depicts using a cosmetic procedure or surgery, highlighting its positive or negative impact, or side effects
-* Shows coordination or promotion (by which we mean speaks positively, encourages the use of or provides instructions to use or perform) of a cosmetic procedure or surgery
-* Depict the before and after transformation of skin conditions after the usage of a cosmetic product, procedure, or surgery in a manner that may make people feel bad about their appearance or imply negative self-perception
+* Admits to or depicts using a cosmetic procedure or surgery, highlighting its positive or negative impact, or side effects.
+* Shows coordination or promotion (by which we mean speaks positively, encourages the use of or provides instructions to use or perform) of a cosmetic procedure or surgery.
+* Depict the before and after transformation of skin conditions after the usage of a cosmetic product, procedure, or surgery in a manner that may make people feel bad about their appearance or imply negative self-perception.
 
 Note: Fitness services such as Pilates, and temporary cosmetics such as makeup are not covered by this policy.
 
@@ -562,7 +576,7 @@ Adult sexual arousal products
 
 Content that:
 
-* attempts to buy, sell, promote, trade, donate, gift or ask for adult sexual arousal products, that can stimulate a person’s sexual pleasure or increase a person’s sexual arousal this includes:
+* Attempts to buy, sell, promote, trade, donate, gift or ask for adult sexual arousal products, that can stimulate a person’s sexual pleasure or increase a person’s sexual arousal. This includes:
     * Sex toys
     * Erotic products
     * Non-surgical genital enhancement products, such as products that stimulate sexual desire or improve sexual performance
@@ -575,8 +589,8 @@ For the following content, we restrict visibility to adults 18 years of age and 
 Online Gambling and Games
 
 * Content that attempts to sell, trade, depict or promote online gaming and gambling services where anything of monetary value (including cash or digital/virtual currencies, e.g., bitcoin) is required to play and anything of monetary value forms part of the prize. This includes but is not limited to:
-    * Games of skill, lotteries/raffles, betting, sports betting, casino games, games of chance, or sweepstakes/prize draws
-    * Gambling Games offering a limited trial period and requiring payment thereafter
+    * Games of skill, lotteries/raffles, betting, sports betting, casino games, games of chance, or sweepstakes/prize draws.
+    * Gambling Games offering a limited trial period and requiring payment thereafter.
 
   
 Social Casino Games
@@ -594,12 +608,15 @@ Content that:
 * Depicts poaching of endangered species or their parts committed by the poster of the content by themselves or their associates.
 * Shows coordination or promotion (by which we mean speaks positively about, encourages the poaching of, or provides instructions) to use or make products from endangered species or their parts, or any endangered wildlife or plants.
 
-Live non-endangered animals excluding livestock
+Non-endangered animals
 
 * Content that attempts to buy, sell or trade live non-endangered animals except when:
     * Posted by a Page, Group or Instagram profile representing legitimate brick-and-mortar entities, including retail businesses, legitimate websites, brands, or rehoming shelters, or a private individual sharing content on behalf of legitimate brick-and-mortar entities.
-    * Posted in the context of donating or rehoming live non-endangered animals, including rehoming fees for peer-to-peer adoptions
+    * Posted in the context of adopting, gifting, asking for, donating or rehoming live non-endangered animals, including rehoming fees for peer-to-peer adoptions
     * Selling an animal for a religious offering, or offering a reward for lost pets.
+    * Posted in the context of sale of livestock.
+    * Posted in the context of buying, selling or gifting, asking for, donating animal horns, organs, limbs, carcasses, taxidermy, feces (excluding compost or fertilizer).
+    * Posted in the context of offering animals’ related products for human consumption such as: eggs, fish, etc.
 
 **Historic Artifacts**
 
@@ -611,16 +628,25 @@ Content that attempts to buy, sell, trade, donate or gift or asks for historical
 
 We do not allow:
 
-Content that attempts to buy, sell, trade, donate or gift or asks for hazardous goods and materials
+Content that attempts to buy, sell, trade, donate or gift or asks for hazardous goods and materials.
 
-**Body Parts and Fluids**
+**Human Body Parts and Bodily Fluids**
 
 We do not allow:
 
 Content that:
 
 * Attempts to buy, sell or trade human body parts, even beyond the human-trafficking content prohibited under the [Human Exploitation policy](https://transparency.meta.com/policies/community-standards/human-exploitation/).
-* Attempts to buy, sell or trade human fluids, except for a donation
+* Asking for human fluids exchange.
+* Attempts to buy, sell or trade human fluids.
+
+* Except when posted for donation of human fluids such as semen or blood plasma.
+
+**Recalled Goods**
+
+We do not allow:
+
+Content that attempts to buy, sell, trade, coordinate the trade of, donate, gift or ask for recalled goods.
 
 Read lessRead more
 
@@ -1087,7 +1113,6 @@ Note: This policy does not apply to individuals who are part of designated organ
     * Calls for death and statements in favor of contracting or developing a medical condition.
     * Celebration or mocking of death or medical condition.
     * Claims about sexually transmitted infections.
-    * Derogatory terms related to female gendered cursing.
     * Statements of inferiority about physical appearance.
 
 **Tier 2: Additional protections for all Minors, Private Adults and Limited Scope Public Figures (for example, individuals whose primary fame is limited to their activism, journalism, or those who become famous through involuntary means):**
@@ -1130,6 +1155,7 @@ Note: This policy does not apply to individuals who are part of designated organ
 * Minors get the most protection under our policy. In addition to all the protections listed above, private minors are also protected from:
     * Allegations about criminal or illegal behavior.
     * Videos of physical bullying against minors, shared in any context.
+    * Derogatory terms related to female gendered cursing.
 
 **Bullying and harassment through pages, groups, events and messages**
 
@@ -1317,107 +1343,76 @@ For the following Community Standards, we require additional information and/or 
 
 Read lessRead more
 
-Hate Speech
-===========
+Hateful Conduct
+===============
 
 Policy Rationale
 
-We believe that people use their voice and connect more freely when they don’t feel attacked on the basis of who they are. That is why we don’t allow hate speech on Facebook, Instagram, or Threads. It creates an environment of intimidation and exclusion, and in some cases may promote offline violence.
+We believe that people use their voice and connect more freely when they don’t feel attacked on the basis of who they are. That is why we don’t allow hateful conduct on Facebook, Instagram, or Threads.
 
-We define hate speech as direct attacks against people — rather than concepts or institutions— on the basis of what we call protected characteristics (PCs): race, ethnicity, national origin, disability, religious affiliation, caste, sexual orientation, sex, gender identity, and serious disease. Additionally, we consider age a protected characteristic when referenced along with another protected characteristic. We also protect refugees, migrants, immigrants, and asylum seekers from the most severe attacks, though we do allow commentary on and criticism of immigration policies. Similarly, we provide some protections for non- protected characteristics, such as occupation, when they are referenced along with a protected characteristic. Sometimes, based on local nuance, we consider certain words or phrases as frequently used proxies for PC groups.
+We define hateful conduct as direct attacks against people — rather than concepts or institutions — on the basis of what we call protected characteristics (PCs): race, ethnicity, national origin, disability, religious affiliation, caste, sexual orientation, sex, gender identity, and serious disease. Additionally, we consider age a protected characteristic when referenced along with another protected characteristic. We also protect refugees, migrants, immigrants, and asylum seekers from the most severe attacks (Tier 1 below), though we do allow commentary on and criticism of immigration policies. Similarly, we provide some protections for non- protected characteristics, such as occupation, when they are referenced along with a protected characteristic. Sometimes, based on local nuance, we consider certain words or phrases as frequently used proxies for protected characteristics.
 
-We define a hate speech attack as dehumanizing speech; statements of inferiority, expressions of contempt or disgust; cursing; and calls for exclusion or segregation. We also prohibit the use of harmful stereotypes, which we define as dehumanizing comparisons that have historically been used to attack, intimidate, or exclude specific groups, and that are often linked with offline violence. We also prohibit the usage of slurs that are used to attack people on the basis of their protected characteristics. Attacks are separated into two tiers of severity, described below.
+We remove dehumanizing speech, allegations of serious immorality or criminality, and slurs. We also remove harmful stereotypes, which we define as dehumanizing comparisons that have historically been used to attack, intimidate, or exclude specific groups, and that are often linked with offline violence. Finally, we remove serious insults, expressions of contempt or disgust, cursing, and calls for exclusion or segregation when targeting people based on protected characteristics. We separate this speech into two tiers of severity, described below.
 
-We have additional restrictions for paid content.
+We recognize that people sometimes share content that includes slurs or someone else’s speech in order to condemn the speech or report on it. In other cases, speech, including slurs, that might otherwise violate our standards is used self-referentially or in an empowering way. We allow this type of speech where the speaker’s intention is clear. Where intention is unclear, we may remove content.
 
-However, we recognize that people sometimes share content that includes slurs or someone else’s hate speech in order to condemn the speech or report on it. In other cases, speech, including slurs, that might otherwise violate our standards is used self-referentially or in an empowering way. People also sometimes express contempt or curse at a gender in the context of a romantic break-up. Other times, they use gender-exclusive language to control membership in a health or positive support group, such as a breastfeeding group for women only. Our policies are designed to allow room for these types of speech but require people to clearly indicate their intent. Where intention is unclear, we may remove content.
-
-Note: Violent speech targeting people on the basis of their protected characteristics is covered in our Violence and Incitement Policy.
-
-[Learn more about our approach to hate speech.](https://about.fb.com/news/2017/06/hard-questions-hate-speech/)
+People sometimes use sex- or gender-exclusive language when discussing access to spaces often limited by sex or gender, such as access to bathrooms, specific schools, specific military, law enforcement, or teaching roles, and health or support groups. Other times, they call for exclusion or use insulting language in the context of discussing political or religious topics, such as when discussing transgender rights, immigration, or homosexuality. Finally, sometimes people curse at a gender in the context of a romantic break-up. Our policies are designed to allow room for these types of speech.
 
 Do not post:
 
 **Tier 1**
 
-Content targeting a person or group of people (including all groups except those who are considered non-protected groups described as having carried out violent crimes or sexual offenses or representing less than half of a group) on the basis of their aforementioned protected characteristic(s) or immigration status in written or visual form with:
+Content targeting a person or group of people (except groups described as having carried out violent or sexual crimes or representing less than half of a group) on the basis of their aforementioned protected characteristic(s) or immigration status in written or visual form with:
 
-* Dehumanizing speech in the form of comparisons to or generalizations about:
-
-* Animals and pathogens
+* Dehumanizing speech in the form of comparisons to or generalizations about animals, pathogens, or other sub-human life forms, including:
 
 * Insects (including but not limited to: cockroaches, locusts)
 * Animals in general or specific types of animals that are culturally perceived as inferior (including but not limited to: Black people and apes or ape-like creatures; Jewish people and rats; Muslim people and pigs; Mexican people and worms)
-
-* Certain Inanimate Objects and Non-Human States:
-
-* Certain objects (women as household objects or property or objects in general; Black people as farm equipment; transgender or non-binary people as “it”)
-* Feces (including but not limited to: shit, crap)
-* Filth (including but not limited to: dirt, grime, or saying "\[protected characteristic or quasi-protected characteristic\] has bad hygiene")
 * Bacteria, viruses, or microbes
-* Disease (including but not limited to: cancer, sexually transmitted diseases)
-* Subhumanity (including but not limited to: savages, devils, monsters, primitives)
+* Subhumanity (including but not limited to: savages, devils, monsters)
 
-* Criminals
+* Allegations of serious immorality and criminality:
 
-* Sexual predators (including but not limited to: Muslim people having sex with goats or pigs)
-* Violent criminals (including but not limited to: terrorists, murderers, members of hate or criminal organizations)
-* Other criminals (including but not limited to “thieves,” “bank robbers,” or saying “All \[protected characteristic or quasi-protected characteristic\] are ‘criminals’”).
+* Sexual predators and pedophiles (including but not limited to: Muslim people having sex with goats or pigs)
+* Violent criminals (including but not limited to: terrorists, murderers)
 
-* Statements in the form of calls for action or statements of intent to inflict, aspirational or conditional statements about, or statements advocating or supporting harm in the following ways:
+* Calls and hopes for the following harms (serious or specific threats and calls for violence are addressed under our Violence and Incitement policy):
 
-* In favor of contracting a disease
-* In favor of experiencing a natural disaster
-* Calls for self-injury or suicide
-* Calls for death without a perpetrator or method
-* Calls for accidents and other physical harms caused either by no perpetrator or by a deity
+* Contracting a disease
+* Experiencing a natural disaster
+* Self-injury or suicide
+* Death without a perpetrator or method
+* Accidents and other physical harms caused either by no perpetrator or by a deity
 
-* Statements denying existence (including but not limited to: "\[protected characteristic(s) or quasi-protected characteristic\] do not exist", "no such thing as \[protected charactic(s) or quasi-protected characteristic\]" or “\[protected characteristic(s) or quasi-protected characteristic\] shouldn’t exist”)
-* Harmful stereotypes historically linked to intimidation, exclusion, or violence on the basis of a protected characteristic, such as Blackface; Holocaust denial; claims that Jewish people control financial, political, or media institutions; and references to Dalits as menial laborers
+* Harmful stereotypes historically linked to intimidation or violence, such as Blackface; Holocaust denial; claims that Jewish people control financial, political, or media institutions; references to Dalits as menial laborers; and comparing Black people to farm equipment.
 * Mocking the concept, events or victims of hate crimes even if no real person is depicted in an image.
-* Mocking people on the basis of their Protected Characteristics or Quasi-Protected Characteristics for having or experiencing a disease.
-
-* Content that describes or negatively targets people with slurs, where slurs are defined as words that inherently create an atmosphere of exclusion and intimidation against people on the basis of a protected characteristic, often because these words are tied to historical discrimination, oppression, and violence. They do this even when targeting someone who is not a member of the PC group that the slur inherently targets.
+* Mocking people for having or experiencing a disease.
+* Content that describes or negatively targets people with slurs. Slurs are defined as words that inherently create an atmosphere of exclusion and intimidation against people on the basis of a protected characteristic, often because these words are tied to historical discrimination, oppression, and violence.
 
   
 
 **Tier 2**
 
-Content targeting a person or group of people on the basis of their protected characteristic(s) (in written or visual form):
+Content targeting a person or group of people on the basis of their protected characteristic(s) (in written or visual form) with:
 
-* Generalizations that state inferiority in the following ways:
-    * Physical appearance, including but not limited to: ugly, hideous.
-    * Mental characteristics are defined as those about:
-        * Intellectual capacity, including but not limited to: dumb, stupid, idiots.
-        * Education, including but not limited to: illiterate, uneducated.
-        * Mental health, including but not limited to: mentally ill, retarded, crazy, insane.
-    * Moral characteristics are defined as those about:
-        * Character traits culturally perceived as negative, including but not limited to: coward, liar, arrogant, ignorant.
-        * Derogatory terms related to sexual activity, including but not limited to: whore, slut, perverts.
+* Calls or support for exclusion or segregation or statements of intent to exclude or segregate, defined as:
 
-* Other statements of inferiority, which we define as:
-    * Expressions about being less than adequate, including but not limited to: worthless, useless.
-    * Expressions about being better/worse than another protected characteristic, including but not limited to: "I believe that males are superior to females."
-    * Expressions about deviating from the norm, including but not limited to: freaks, abnormal.
+* General exclusion, which means calling for general exclusion or segregation, such as “No X allowed!”
+* Political exclusion, which means denying the right to political participation or arguing for incarceration or denial of political rights.
+* Economic exclusion, which means denying access to economic entitlements and limiting participation in the labor market. We do allow content arguing for gender-based limitations of military, law enforcement, and teaching jobs. We also allow the same content based on sexual orientation, when the content is based on religious beliefs.
+* Social exclusion, which means things like denying access to spaces (physical and online) and social services, except for sex or gender-based exclusion from spaces commonly limited by sex or gender, such as restrooms, sports and sports leagues, health and support groups, and specific schools.
 
-* Expressions of contempt, except in a romantic break-up context, and disgust, which we define as:
-    * Self-admission to intolerance on the basis of a protected characteristics, including but not limited to: homophobic, islamophobic, racist.
-    * Expressions of hate, including but not limited to: "I despise","I hate", " I can't stand".
-    * Expressions of dismissal, including but not limited to: "I don´t respect", "I don't like", " I don´t care for"
-    * Expressions that suggest the target causes sickness, including but not limited to: vomit, throw up.
-    * Expressions of repulsion or distaste, including but not limited to: vile, disgusting, yuck.
+* Insults, including those about:
 
+* Character, including but not limited to allegations of cowardice, dishonesty, basic criminality, and sexual promiscuity or other sexual immorality.
+* Mental characteristics, including but not limited to allegations of stupidity, intellectual capacity, and mental illness, and unsupported comparisons between PC groups on the basis of inherent intellectual capacity. We do allow allegations of mental illness or abnormality when based on gender or sexual orientation, given political and religious discourse about transgenderism and homosexuality and common non-serious usage of words like “weird.”
+* Other areas, including but not limited to allegations of worthlessness, uselessness, ugliness, dirtiness.
+
+* Expressions that suggest the target causes sickness, including but not limited to “make me vomit.”
 * Targeted cursing, except certain gender-based cursing in a romantic break-up context, defined as:
-    * Referring to the target as genitalia or anus, including but not limited to: cunt, dick, asshole.
-    * Profane terms or phrases or other curses with the intent to insult, including but not limited to: fuck, bitch, motherfucker.
-    * Terms or phrases calling for engagement in sexual activity, or contact with genitalia, anus, feces or urine, including but not limited to: suck my dick, kiss my ass, eat shit.
 
-* Exclusion or segregation in the form of calls for action, statements of intent, aspirational or conditional statements, or statements advocating or supporting defined as:
-
-* Explicit exclusion, which means things like expelling certain groups or saying they are not allowed or segregation.
-* Political exclusion, which means denying the right to political participation.
-* Economic exclusion, which means denying access to economic entitlements and limiting participation in the labor market.
-* Social exclusion, which means things like denying access to spaces (physical and online)and social services, except for gender-based exclusion in health and positive support Groups.
+* Targeted use of “fuck” or variations of “fuck” with intent to insult, such as “Fuck the \[Protected Characteristic\]!”
+* Terms or phrases calling for engagement in sexual activity, or contact with genitalia, anus, feces or urine, including but not limited to: suck my dick, kiss my ass, eat shit.
 
 For the following Community Standards, we require additional information and/or context to enforce:
 
@@ -1425,9 +1420,10 @@ Do not post:
 
 * Content explicitly providing or offering to provide products or services that aim to change people’s sexual orientation or gender identity.
 * Content attacking concepts, institutions, ideas, practices, or beliefs associated with protected characteristics, which are likely to contribute to imminent physical harm, intimidation or discrimination against the people associated with that protected characteristic. Meta looks at a range of signs to determine whether there is a threat of harm in the content. These include but are not limited to: content that could incite imminent violence or intimidation; whether there is a period of heightened tension such as an election or ongoing conflict; and whether there is a recent history of violence against the targeted protected group. In some cases, we may also consider whether the speaker is a public figure or occupies a position of authority.
-* Content targeting a person or group of people on the basis of their protected characteristic(s) with claims that they have or spread the novel coronavirus, are responsible for the existence of the novel coronavirus, are deliberately spreading the novel coronavirus.
 
 In certain cases, we will allow content that may otherwise violate the Community Standards when it is determined that the content is satirical. Content will only be allowed if the violating elements of the content are being satirized or attributed to something or someone else in order to mock or criticize them.
+
+Note: if you are a European Union user, and are seeing content that you believe violates hate speech laws within your country, you can submit a legal removal request to [Facebook](https://www.facebook.com/help/contact/319149701968527) or [Instagram](https://help.instagram.com/contact/406206379945942).
 
 Read lessRead more
 
@@ -1689,8 +1685,8 @@ We may restrict or disable accounts, other entities (Pages, groups, events) or b
 * Violate our Community Standards involving any harms that warrant referral to law enforcement due to the risk of imminent harm to individual of public safety
 * Violate our Advertising Standards involving deceptive or dangerous business harms
 * Persistently violate our Community Standards by posting violating content and/or managing violating entities or business assets
-* Persistently violates our Advertising Standards
-* Activity or behavior indicative of a clear violating purpose
+* Persistently violate our Advertising Standards
+* Demonstrate activity or behavior indicative of a clear violating purpose
 
 We may restrict or disable accounts, other entities (Pages, groups, events) or business assets (Business Managers, ad accounts) that are:
 
@@ -1871,7 +1867,7 @@ Misinformation
 
 Policy Rationale
 
-Misinformation is different from other types of speech addressed in our Community Standards because there is no way to articulate a comprehensive list of what is prohibited. With graphic violence or hate speech, for instance, our policies specify the speech we prohibit, and even persons who disagree with those policies can follow them. With misinformation, however, we cannot provide such a line. The world is changing constantly, and what is true one minute may not be true the next minute. People also have different levels of information about the world around them, and may believe something is true when it is not. A policy that simply prohibits “misinformation” would not provide useful notice to the people who use our services and would be unenforceable, as we don’t have perfect access to information.
+Misinformation is different from other types of speech addressed in our Community Standards because there is no way to articulate a comprehensive list of what is prohibited. With graphic violence or hateful conduct, for instance, our policies specify the content we prohibit, and even persons who disagree with those policies can follow them. With misinformation, however, we cannot provide such a line. The world is changing constantly, and what is true one minute may not be true the next minute. People also have different levels of information about the world around them, and may believe something is true when it is not. A policy that simply prohibits “misinformation” would not provide useful notice to the people who use our services and would be unenforceable, as we don’t have perfect access to information.
 
 Instead, our policies articulate different categories of misinformation and try to provide clear guidance about how we treat that speech when we see it. For each category, our approach reflects our attempt to balance our values of expression, safety, dignity, authenticity, and privacy.
 
@@ -1879,7 +1875,7 @@ We remove misinformation where it is likely to directly contribute to the risk o
 
 For all other misinformation, we focus on reducing its prevalence or creating an environment that fosters a productive dialogue. We know that people often use misinformation in harmless ways, such as to exaggerate a point (“This team has the worst record in the history of the sport!”) or in humor or satire (“My husband just won Husband of the Year.”) They also may share their experience through stories that contain inaccuracies. In some cases, people share deeply-held personal opinions that others consider false or share information that they believe to be true but others consider incomplete or misleading.
 
-Recognizing how common such speech is, we focus on slowing the spread of hoaxes and viral misinformation, and directing users to authoritative information. As part of that effort, we partner with third-party fact checking organizations to review and rate the accuracy of the most viral content on our platforms (see [here](https://transparency.fb.com/en-gb/features/how-fact-checking-works/) to learn more about how our fact-checking program works). We also provide [resources](https://www.facebook.com/journalismproject/programs/third-party-fact-checking/industry-investments) to increase media and digital literacy so people can decide what to read, trust, and share themselves. We require people to disclose, using our AI-disclosure tool, whenever they post organic content with photorealistic video or realistic-sounding audio that was digitally created or altered, and we may apply penalties if they fail to do so. We may also add a label to certain digitally created or altered content that creates a particularly high risk of misleading people on a matter of public importance.
+Recognizing how common such speech is, we focus on providing users with helpful information when there is potentially misleading or confusing content. As part of that effort, outside of the United States we partner with third-party fact checking organizations in many parts of the world to review and rate the accuracy of the most viral content on our platforms (see [here](https://transparency.fb.com/features/how-fact-checking-works/) and [here](https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes) for our approach in the United States). Beginning in the United States, the Community Notes program lets people add more context to Facebook, Instagram and Threads posts that are potentially misleading or confusing (see [here](https://transparency.meta.com/features/community-notes)). We also provide resources to increase media and digital literacy so people can decide what to read, trust, and share themselves. We require people to disclose, using our AI-disclosure tool, whenever they post organic content with photorealistic video or realistic-sounding audio that was digitally created or altered, and we may apply penalties if they fail to do so. We may also add a label to certain digitally created or altered content that creates a particularly high risk of misleading people on a matter of public importance.
 
 Finally, we prohibit content and behavior in other areas that often overlap with the spread of misinformation. For example, our Community Standards prohibit [fake accounts](https://www.facebook.com/communitystandards/misrepresentation), [fraud](https://www.facebook.com/communitystandards/fraud_deception), and [coordinated inauthentic behavior](https://www.facebook.com/communitystandards/inauthentic_behavior).
 
@@ -2015,7 +2011,7 @@ User Requests
 
 Policy Rationale
 
-Meta responds to requests for account removal in accordance with applicable law and our terms of service. Each and every request we receive is carefully reviewed and may reject or require additional clarification for certain requests.
+Meta responds to requests for account removal in accordance with applicable law and our Terms of service. Each and every request we receive is carefully reviewed and may reject or require additional clarification for certain requests.
 
 We comply with requests for removal of:
 
