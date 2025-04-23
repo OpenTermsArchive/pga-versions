@@ -33,7 +33,7 @@ Read the full Policy below.
 
 This Policy describes the information we, Meta Platforms Ireland Limited, process to provide [Meta Products](https://www.facebook.com/help/1561485474074139/), which we also call "Products."
 
-[Return to top](#)
+Return to top
 
 What information do we collect?
 ===============================
@@ -48,8 +48,6 @@ In this Policy we list the kinds of information we collect. Here are some import
 * Who your friends or followers are, and what they do on our Products
 * Information from the phone, computer, or tablet you use our Products on, like what kind it is and what version of our app you’re using
 * Information from [partners\[2\]](#annotation-2) about things you do both on and off of our Products. This could include other websites you visit, apps you use or online games you play.
-
-[Play Video](https://mbasic.facebook.com/video_redirect/?src=https%3A%2F%2Fvideo-fra3-1.xx.fbcdn.net%2Fo1%2Fv%2Ft2%2Ff2%2Fm69%2FAQPHbM1Y6Ilbyq0xANe0c481oa-MEy1SbKZX1Pbetrpb11aIhZwqsYrqdvKXj04fR-dbc6N31R7SO_GQylrXx6l1.mp4%3Fstrext%3D1%26_nc_cat%3D101%26_nc_sid%3D8bf8fe%26_nc_ht%3Dvideo-fra3-1.xx.fbcdn.net%26_nc_ohc%3DSJdfJZ6EZ8QQ7kNvwGJ15zK%26efg%3DeyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNjQwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTExMzU1MjIzOTY2MzUyNCwiYXNzZXRfYWdlX2RheXMiOjEwNzIsInZpX3VzZWNhc2VfaWQiOjEwMTI4LCJkdXJhdGlvbl9zIjoxMDMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%253D%253D%26ccb%3D17-1%26_nc_zt%3D28%26oh%3D00_AfF84mzWNe4v3VK9tQ5ZM9rF5xhjy3qZWBRO7VJrUBae0Q%26oe%3D680EA135&source=misc&id=1078484169415755&noredirect=0&watermark=0&__tn__=F)
 
 The information we collect and process about you depends on how you use our [Products\[3\]](#annotation-3). For example, we collect different information if you sell furniture on Marketplace than if you post a reel on Instagram. When you use our Products, we collect some information about you [even if you don't have an account\[4\]](#annotation-4).
 
@@ -387,7 +385,7 @@ A partner who uses technologies that help you make a connection to them through 
 
 A person, business, organization or body that is not part of the Meta Companies
 
-[Return to top](#)
+Return to top
 
 How do we use your information?
 ===============================
@@ -402,8 +400,6 @@ Here are some of the ways we use your information:
 * We work to prevent harmful behavior and keep people safe on our Products
 * We send you messages about the Products you use or ones you might like, if you let us
 * We research for the good of people around the world, like to advance technology or to help out in a crisis
-
-[Play Video](https://mbasic.facebook.com/video_redirect/?src=https%3A%2F%2Fvideo-fra3-1.xx.fbcdn.net%2Fo1%2Fv%2Ft2%2Ff2%2Fm69%2FAQPUz9KSP4EcCINy-riSUXWL1EoZotE38pje73xlXjDGAc7XGvezM3ARLrzpTwLP1_Wh1OS130onddLBRMneYbK5.mp4%3Fstrext%3D1%26_nc_cat%3D101%26_nc_sid%3D8bf8fe%26_nc_ht%3Dvideo-fra3-1.xx.fbcdn.net%26_nc_ohc%3Du-6RqgEuCmgQ7kNvwHqy9lI%26efg%3DeyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNDI2LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6Mjc2OTI5MDMxOTA2NzE5LCJhc3NldF9hZ2VfZGF5cyI6MTA4NSwidmlfdXNlY2FzZV9pZCI6MTAxMjgsImR1cmF0aW9uX3MiOjk0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%253D%26ccb%3D17-1%26_nc_zt%3D28%26oh%3D00_AfH_Y-D62cBU3r-StoxmVa7k4z-nALmmIkUxpDtS1-j31w%26oe%3D680EC205&source=misc&id=3234506963505309&noredirect=0&watermark=0&__tn__=F)
 
 We use [information we collect](#1-WhatInformationDoWe) to provide a personalized experience to you, including ads (if we show you ads on Meta Products), along with the other purposes we explain in detail below.
 
@@ -555,8 +551,6 @@ Here are some examples of our research:
 
 25
 
-[Play Video](https://mbasic.facebook.com/video_redirect/?src=https%3A%2F%2Fvideo-fra5-2.xx.fbcdn.net%2Fo1%2Fv%2Ft2%2Ff2%2Fm69%2FAQMkxKtPFjj_5Cfylgq4IfQujNtlJXjKIKvVP6BB5JaQYHlvsjELTssObcdysPt2xPzetuZLlHeD1ii0_P9BpbDl.mp4%3Fstrext%3D1%26_nc_cat%3D109%26_nc_sid%3D8bf8fe%26_nc_ht%3Dvideo-fra5-2.xx.fbcdn.net%26_nc_ohc%3DSp5YLJLkATIQ7kNvwE2xid0%26efg%3DeyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNDI2LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MzYxMTg3OTk4MjM5MTg0NiwiYXNzZXRfYWdlX2RheXMiOjEwNzIsInZpX3VzZWNhc2VfaWQiOjEwMTI4LCJkdXJhdGlvbl9zIjo5NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9%26ccb%3D17-1%26_nc_zt%3D28%26oh%3D00_AfEHA-yEyjBloBnydgUfSl0Ivp9nIp-uW7SZa1mCVN6kMw%26oe%3D680EB16D&source=misc&id=313266294163634&noredirect=0&watermark=0&__tn__=F)
-
 If you choose to add your accounts to the same Accounts Center, we'll combine your [information across your accounts](https://www.meta.com/help/accounts-center/Information-used-across-accounts/). Here's what we'll use it for, we'll:
 
 * Provide you with controls over [connected experiences](https://www.meta.com/help/accounts-center/enable-connected-experiences-accounts-center/)
@@ -696,7 +690,7 @@ Devices include computers, phones, hardware, connected TVs, Meta Quest and other
 
 A person, business, organization or body that provides services to Meta or to our users on behalf of Meta. For example, our service providers do things like investigate suspicious activity and provide customer support.
 
-[Return to top](#)
+Return to top
 
 How is your information shared on Meta Products or with integrated partners?
 ============================================================================
@@ -902,7 +896,7 @@ If you use Facebook Login to log into an app, the app developer might request ac
 
 Your friends might choose to share their friends lists with app developers through Facebook Login. But your friends can’t use Facebook Login to share nonpublic information about you.
 
-[Return to top](#)
+Return to top
 
 How do we share information with third parties?
 ===============================================
@@ -1101,7 +1095,7 @@ A third party that creates reports to help advertisers understand how their cont
 
 A third party that helps market or advertise Meta and our Products, measures the effectiveness of our own marketing campaigns and performs advertising research
 
-[Return to top](#)
+Return to top
 
 How do the Meta Companies work together?
 ========================================
@@ -1166,7 +1160,7 @@ We also share information with Meta Companies to support innovation. For example
 
 We count the number of unique users, monthly active users and daily active users on our products. This information helps us understand the community using our products and publicly share important trends about how our products are used.
 
-[Return to top](#)
+Return to top
 
 What is our legal basis for processing your information, and what are your rights?
 ==================================================================================
@@ -1283,7 +1277,7 @@ This Policy describes the information we, Meta Platforms Ireland Limited, proces
 
 A person, business, organization or body that is not part of the Meta Companies
 
-[Return to top](#)
+Return to top
 
 How long do we keep your information?
 =====================================
@@ -1378,7 +1372,7 @@ We also might preserve some of your account information as part of our review of
 
 We may preserve your information where we deem it necessary for reasons related to a legal claim or complaint. For example, we may be required to defend ourselves in legal proceedings in a claim related to your information.
 
-[Return to top](#)
+Return to top
 
 How do we transfer information?
 ===============================
@@ -1457,7 +1451,7 @@ Learn more about the adequacy decision for each country:
 * [Argentina](https://mbasic.facebook.com/privacy/policy/printable/https%3A%2F%2Flm.facebook.com%2Fl.php%3Fu=https%3A%2F%2Feur-lex.europa.eu%2Flegal-content%2FEN%2FTXT%2F%3Furi%3DCELEX%253A32003D0490)
 * [Canada](https://mbasic.facebook.com/privacy/policy/printable/https%3A%2F%2Flm.facebook.com%2Fl.php%3Fu=https%3A%2F%2Feur-lex.europa.eu%2Flegal-content%2Fen%2FTXT%2F%3Furi%3DCELEX%253A32002D0002)
 
-[Return to top](#)
+Return to top
 
 How do we respond to legal requests, comply with applicable law and prevent harm?
 =================================================================================
@@ -1550,14 +1544,14 @@ We also might preserve some of your account information as part of our review of
 
 We may preserve your information where we deem it necessary for reasons related to a legal claim or complaint. For example, we may be required to defend ourselves in legal proceedings in a claim related to your information.
 
-[Return to top](#)
+Return to top
 
 How will you know the Policy has changed?
 =========================================
 
 We'll notify you before we make material changes to this Policy. You’ll have the opportunity to review the revised Policy before you choose to continue using our Products.
 
-[Return to top](#)
+Return to top
 
 How to contact Meta with questions
 ==================================
@@ -1580,7 +1574,7 @@ D04 X2K5, Ireland
 
 You also have the right to lodge a complaint with Meta Platforms Ireland's lead supervisory authority, the Irish Data Protection Commission, or your local supervisory authority.
 
-[Return to top](#)
+Return to top
 
 Legal basis information
 =======================
@@ -1698,4 +1692,4 @@ For example, if you unlawfully collect and use Facebook user data, we may share 
 
 For example, if you post threatening or harmful content, we may share your information across the Meta Companies to protect ourselves and others. This can include blocking your access to certain features or disabling your account across the Meta Companies.
 
-[Return to top](#)
+Return to top
