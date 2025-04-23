@@ -46,7 +46,7 @@ In some cases below, we’ve added some summary text in italics to make these Te
 1. Eligibility. To use Bluesky Social, you must be at least 13 years old and legally permitted to use Bluesky Social based on the laws in your country. If you are not yet an adult according to the laws of your country, your parent or legal guardian must read these Terms on your behalf. If you’re a parent or legal guardian, and you allow your child (who meets the minimum age for your country) to use the services, then these terms also apply to you, and you’re responsible for your child’s activity on the services.
 2. Accounts. To use Bluesky Social, you must create an account (“**Account**”). Don’t share your Account with others, because you’re responsible for all activities under your Account, whether or not you know about them. If you’re using Bluesky Social on behalf of a company or organization, you confirm that you have the authority to represent your company or organization. If you believe your Account created through Bluesky Social has been compromised, report it to us at support@bsky.app.
     1. If you are a US government entity or official who wishes to use Bluesky Social for your official government use, then please see the [Terms of Service Amendment for Government Users](https://bsky.social/about/support/tos-gov) .
-    2. If you are a government entity or official located outside of the United States who wishes to use BlueSky Social for your official government use, but are unable to do so because the Terms are incompatible with applicable laws, please contact us at legal-requests@blueskyweb.xyz.
+    2. If you are a government entity or official located outside of the United States who wishes to use Bluesky Social for your official government use, but are unable to do so because the Terms are incompatible with applicable laws, please contact us at legal-requests@blueskyweb.xyz.
 
 3. **User Content.**
 
@@ -150,3 +150,13 @@ _Summary: The following standard legal provisions are included to permit the Ter
 36. **Contact Information.** If you have any questions about these Terms or Bluesky Social, please contact Bluesky at support@bsky.app.
 
 Competent authorities of the EU and EU Member States that want to contact Bluesky under the Digital Services Act can obtain the necessary contact details from AWO Belgium (AWO), Bluesky's representative pursuant to Article 13 of the Digital Services Act, registered at Square de Meeus 35, 1000 Brussels, Belgium. AWO can be contacted by email at dsa.bluesky@awo.agency, by phone at + 32 2 882 71 88, or by post. Requests can be accepted in English or French. If you are not a competent EU or EU member authority, your request will not be processed and you will not get a response.
+
+Zustellungsbevollmächtigter ausschließlich für Gerichtsverfahren vor deutschen Gerichten im Sinne des § 5 Netzwerkdurchsetzungsgesetz (NetzDG):
+
+Gleiss Lutz Hootz Hirsch PartmbB Rechtsanwälte, Steuerberater  
+– NetzDG-Zustellungen –  
+Washingtonplatz 3  
+10557 Berlin  
+Deutschland
+
+**Wichtig**: Andere Dokumente (wie z.B. Schreiben von Nutzern) können dort nicht zugestellt werden und werden nicht bearbeitet.
