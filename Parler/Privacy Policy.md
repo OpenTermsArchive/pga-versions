@@ -349,7 +349,7 @@ Your creative potential is limitless. Stream, create, and connect with a global 
 
 [Join Parler](https://app.parler.com/)
 
-[![Parler Logo](https://cdn.prod.website-files.com/670ed2f8172fef394ed82b52/670ee46b85bb2e2f6fc2ce86_Parler%20-%20White.svg)](https://parler.com/)
+[![Parler - Uncensored Social Media App](https://cdn.prod.website-files.com/670ed2f8172fef394ed82b52/670ee46b85bb2e2f6fc2ce86_Parler%20-%20White.svg)](https://parler.com/)
 
 Unleash Your Creativity and Connect Globally. The Original Public Square Championing Freedom of Expression,  Choice, and Thought.
 
