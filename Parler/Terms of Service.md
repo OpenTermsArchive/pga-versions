@@ -128,7 +128,7 @@ Unleash Your Creativity and Connect Globally. The Original Public Square Champio
 
 Our Apps
 
-[Parler](https://parler.com/parler)[PlayTV](https://parler.com/playtv)[Bursts](https://parler.com/bursts)[ParlerPay](https://parler.com/parler-pay)[Parler Shop](https://marketplace.parler.com/)[Marketplace](#)
+[Parler](https://parler.com/parler)[PlayTV](https://parler.com/playtv)[Bursts](https://parler.com/bursts)[Parler Shop](https://marketplace.parler.com/)[Marketplace](#)
 
 Blockchain
 
