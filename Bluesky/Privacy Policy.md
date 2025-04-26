@@ -24,7 +24,7 @@ Bluesky’s app is a microblogging app and service ("the **Bluesky App**") that 
   
 **Bluesky App Privacy Notice**
 
-This Privacy Notice explains how Bluesky, PBC d.b.a. Bluesky (“Bluesky,” “we,” “us,” or “our”) collects, uses, and shares your personal information when you use the Bluesky App, and how you can exercise your privacy rights.
+This Privacy Notice explains how Bluesky Social, PBC d.b.a. Bluesky (“Bluesky,” “we,” “us,” or “our”) collects, uses, and shares your personal information when you use the Bluesky App, and how you can exercise your privacy rights.
 
 This Privacy Notice applies to the personal information we process in connection with our websites bsky.app, bsky.social, and atproto.com (each a **“Site”**) and the Bluesky App. In this Privacy Notice, we refer to the Sites and the Bluesky App as the **“Bluesky App Services”**.
 
