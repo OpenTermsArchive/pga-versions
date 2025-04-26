@@ -13,7 +13,7 @@ Bluesky Social is available as a desktop application at bsky.app and bsky.social
 
 These terms only apply to social networking that happens on Bluesky Social services, including the Sites and Bluesky App. If you’re using another social networking application on the AT Protocol that isn’t Bluesky Social (we call this a “**Developer Application**”), the developers of the other service will provide the terms and conditions that govern your experience.
 
-When we say “**Bluesky**,” “**we**,” “**us**,” and “**our**” in these Terms, we mean Bluesky, PBC.
+When we say “**Bluesky**,” “**we**,” “**us**,” and “**our**” in these Terms, we mean Bluesky Social, PBC.
 
 _Important Note: These Terms contain an agreement to resolve most disputes between us through arbitration (instead of suing in court) and to waive jury trials and class actions. Please read Sections 14 and 15 carefully._
 
