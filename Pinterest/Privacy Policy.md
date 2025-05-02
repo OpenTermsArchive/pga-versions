@@ -5,8 +5,6 @@ Privacy Policy
 
 Table of Contents
 
-This updated Privacy Policy will be effective April 30, 2025. Until the effective date, you can view our current Privacy Policy .
-
 State Privacy Law Disclosure & Notice at Collection
 ===================================================
 
