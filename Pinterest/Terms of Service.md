@@ -5,8 +5,6 @@ Terms of Service
 
 Table of Contents
 
-These updated Terms of Service will be effective April 30, 2025. Until the effective date, you can view our current Terms of Service .
-
 Thank you for using Pinterest!
 ==============================
 
