@@ -65,7 +65,7 @@ Media
 
 Help
 
-[Contact Us](https://www.parler.com/contact-us)[Help Center](https://help.parler.com/hc/90853520)
+[Contact Us](https://www.parler.com/contact-us)[Help Center](https://help.parler.com/hc/90853520)[Sitemap](https://www.parler.com/sitemap)
 
 **Parler’s Disclaimer and Notice**  
 Updated: March 21, 2025  
