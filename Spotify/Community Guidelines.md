@@ -13,7 +13,7 @@
 * [Sign up](https://www.spotify.com/de-en/signup/)
 * [Log in](https://www.spotify.com/de-en/login/?continue=https%3A%2F%2Fopen.spotify.com%2F__noul__%3Fl2l%3D1%26nd%3D1)
 
-![](/safetyandprivacy/files/safetyAndPrivacyCenter_renaissance_banner.png)
+![Illustration of a head with a colourful, imaginative landscape inside.](https://cdn.sanity.io/images/a7n8eucj/production/2f5f1d4fce516049e96713bb9a817c5c494e0cff-4000x2250.png)
 
 Safety and Privacy Centre
 =========================
