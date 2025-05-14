@@ -3,11 +3,7 @@ Threads Terms of Use and Impressum
 
 Threads Terms of Use and Impressum
 
-We’re updating our Threads Terms of Use. These updates will go into effect on May 13, 2025. [Read the new terms](https://help.instagram.com/430705316769444/?helpref=faq_content).
-
-  
-
-Welcome to the Threads Service. These Threads Terms of Use (the “**Terms**”) primarily govern your use of the Threads Service. Threads is one of the “[Meta Products](https://www.facebook.com/help/1561485474074139?helpref=faq_content)” and, specifically part of Instagram, so the [Instagram Terms of Use](https://help.instagram.com/581066165581870?helpref=faq_content) and the [Instagram Community Guidelines](https://help.instagram.com/477434105621119?helpref=faq_content) (collectively the “**Instagram Terms**”) also apply to your use of the Threads Service. Any capitalized terms we use here, but do not define below, have the meaning given to them in the Instagram Terms. By using the Threads Service, you agree to these Terms and the Instagram Terms. If there is any conflict between these Terms and the Instagram Terms, then these Terms will prevail with respect to your use of the Threads Service and solely to the extent of the conflict.
+Welcome to the Threads Service. These Threads Terms of Use (the “**Terms**”) primarily govern your use of the Threads Service. Threads is one of the “[Meta Products](https://www.facebook.com/help/1561485474074139?helpref=faq_content)” and, specifically part of Instagram, so the [Meta Community Standards](https://help.instagram.com/477434105621119?ref=igtos&helpref=faq_content) and the [Instagram Terms of Use](https://help.instagram.com/581066165581870?helpref=faq_content) (collectively the “**Instagram Terms**”) also apply to your use of the Threads Service. Any capitalized terms we use here, but do not define below, have the meaning given to them in the Instagram Terms. By using the Threads Service, you agree to these Terms and the Instagram Terms. If there is any conflict between these Terms and the Instagram Terms, then these Terms will prevail with respect to your use of the Threads Service and solely to the extent of the conflict.
 
 The Threads Service is provided to you by Meta Platforms Ireland Limited (“Meta”, “us”, we”, and/or “our”). Any capitalized terms we use here, but do not define below, have the meaning given to them in the Instagram Terms.
 
@@ -45,9 +41,14 @@ For details on how the Threads Service is funded, please see How Our Service is 
 * **Who Can Use the Threads Service**
     
     * In order to use the Threads Service, you must comply with these Terms and the rest of the [Instagram Terms](https://help.instagram.com/581066165581870?helpref=faq_content). For clarity, any provisions under the Instagram Terms regarding who is able to use Instagram will also apply to your ability to use the Threads Service.
-    * If you choose to use Threads with a profile, you will sign up and login to the Threads Service using your Instagram account or any other account that we may choose to enable in the future, and you will benefit from a personalised experience on Threads, Instagram, or any other relevant service. You are solely responsible for any activity on your profile and for maintaining the confidentiality and security of your password.
+    * There are two ways to create a Threads profile:
+        
+        * You can sign up and login to the Threads Service with your Instagram account or any other account that we may choose to enable in the future, and you will benefit from a personalized experience on Threads, Instagram, or any other relevant service.
+        * Alternatively, you can sign up and login to the Threads Service with your email address or mobile number. If you already use Instagram, your Instagram information will not be used to do things like personalize your Threads experience or recommendations, including ads.
+        
+    * You are solely responsible for any activity on your profile and for maintaining the confidentiality and security of your password.
+    * You can also choose to use the Threads Service without a profile to browse content, but you won’t be able to post, interact or see recommendations for you.
     * When signing up for the Threads Service, you can't impersonate others or provide inaccurate information. You must provide us with accurate and up to date information (including registration information), which may include providing personal data.
-    * You can also choose to use Threads without a profile to browse content, but you won’t be able to post, interact, or see recommendations for you.
     
 * **How You Can’t Use the Threads Service**
     
@@ -91,7 +92,7 @@ For details on how the Threads Service is funded, please see How Our Service is 
     
 * **Privacy**
     
-    * Our [Privacy Policy](https://privacycenter.instagram.com/policy/) and the Threads Supplemental Privacy Policy explain how we collect, use, and share information across the Meta Products, including for the Threads Service.
+    * Our [Privacy Policy](https://privacycenter.instagram.com/policy/) and the [Threads Supplemental Privacy Policy](https://help.instagram.com/515230437301944?helpref=faq_content) explain how we collect, use, and share information across the Meta Products, including for the Threads Service.
     
 * **Ownership**
     
@@ -107,7 +108,7 @@ For details on how the Threads Service is funded, please see How Our Service is 
     * We may modify these Terms from time to time, in which case we will update the “Last Updated” date at the bottom of these Terms. If we make changes that are material, we will use reasonable efforts to provide you with notice, for example, by e-mail and/or by placing notice on the Threads Service at least 30 days before we make changes to these Terms, unless the changes are required for safety or security purposes or to comply with applicable law. We hope that you continue using the Threads Service but, if you do not agree to our updated Terms, you should stop using the service. You can learn about deactivating your Threads profile [here](https://help.instagram.com/558007373138554?helpref=faq_content) or deleting your Threads profile [here](https://help.instagram.com/313703828012423?helpref=faq_content).
     
 
-Last Updated: 4 December 2023
+Effective: 13 May 2025
 
 Related Articles
 ----------------
