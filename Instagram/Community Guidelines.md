@@ -60,74 +60,90 @@ Policy Rationale
 
 We restrict the display of nudity or sexual activity because some people in our community may be sensitive to this type of content, particularly due to cultural background or age.
 
-We understand that nudity can be shared for a variety of reasons, including as a form of protest, to raise awareness about a cause or for educational or medical reasons. Where appropriate and such intent is clear, we make allowances for the content. For example, while we restrict some images of female breasts that include the nipple, we allow other images, including those depicting acts of protest, women actively engaged in breast-feeding and photos of post-mastectomy scarring. We also allow real world art that depicts nudity such as photographs of paintings, sculptures, etc. We default to removing sexual imagery to prevent the sharing of non-consensual or underage content.
+We understand that nudity can be shared for a variety of reasons, including as a form of protest, to raise awareness about a cause or for educational or medical reasons. Where appropriate and such intent is clear, we make allowances for the content. For example, while we restrict some images of female breasts that include the nipple, we allow other images, including those depicting acts of protest, women actively engaged in breast-feeding and photos of post-mastectomy scarring (sometimes labeled with a sensitive warning screen). We also allow real world art that depicts nudity such as photographs of paintings, sculptures, etc (sometimes labeled with a sensitive warning screen and age-based restrictions). We default to removing sexual imagery to prevent the sharing of non-consensual or underage content.
 
 Under this policy, we remove real photographs and videos of nudity and sexual activity, AI- or computer-generated images of nudity and sexual activity, and digital imagery, regardless of whether it looks “photorealistic” (as in, it looks like a real person). As noted above, we also make careful allowances for real world art and certain medical, educational, and awareness-raising content, and these are detailed in the policy.
 
 Content relating to child nudity is addressed in our Community Standard on [Child Sexual Exploitation, Abuse and Nudity](https://transparency.fb.com/policies/community-standards/child-sexual-exploitation-abuse-nudity/).
 
-We do not allow:
+We do not allow the following content for all users:
 
-* Imagery, and digital imagery, of adult nudity, if it depicts:
-    * Visible genitalia (including when obscured by pubic hair) except when labeled with a sensitive warning screen in a medical or health context (for example, birth giving and after-birth moments, gender confirmation surgery, examination for cancer or other diseases)
-    * Visible anuses and/or fully nude close-ups of buttocks except when labeled with a sensitive warning screen in a medical or health context or when edited onto a public figure
-    * Uncovered female nipples, except in a breastfeeding, mastectomy, medical, health, or act of protest context
-    * Note that we allow all the above in the context of famine, genocide, war crimes, or crimes against humanity
-* Imagery of adult sexual activity, including:
+**Adult Nudity**
+
+* Photorealistic/digital imagery of adult nudity, if it depicts:
+    
+    * Visible genitalia (including when obscured by pubic hair or digital overlays)
+    * Visible anuses and/or close-ups of visible buttocks
+    * Visible female nipples, except in a breastfeeding, or act of protest context
+    
+    * Photorealistic/ digital videos that focus on commonly sexualized body parts (such as genitalia, crotch, breasts, anus, buttocks, lips, mouth/tongue) recorded without the awareness of the person(s) depicted in them
+    * Photorealistic/ digital imagery or real world art depicting upskirt imagery of sexualized body parts
+    * Note that with some restrictions, we may allow depictions of adult nudity in additional special contexts, such as medical or health contexts. This is covered in greater detail in the sections below.
+
+**Adult Sexual Activity**
+
+* Photorealistic/ digital imagery of adult sexual activity, including:
     * Explicit sexual activity or stimulation
-        * Explicit sexual intercourse or oral sex, as indicated by a person’s mouth or genitals entering or in contact with another person's genitals or anus, when at least one person's genitals or anus is visible
+        * Explicit sexual intercourse or oral sex, as indicated by a person’s mouth or genitals entering or in contact with another person's genitals or anus, or genitals placed upon or inserted into a sex toy, when at least one person's genitals or anus is visible
         * Explicit stimulation of a person’s genitals or anus, as indicated by stimulation, or the insertion of sex toys into the person’s genitals or anus, when the contact with the genitals or anus is directly visible
-    * Implicit sexual activity or stimulation, except when labeled with a sensitive warning screen in a medical, health or sexual wellness context; or when limited to adults, ages 18 years or older in promotional content, recognised fictional images or images with indicators of fiction:
+    * Implicit sexual activity or stimulation:
         * Implicit sexual intercourse or oral sex, as indicated by a person’s mouth or genitals entering or in contact with another person's genitals or anus, when the genitals or anus and/or the entry or contact is not directly visible
-        * Implicit stimulation of a person’s genitals or anus, as indicated by stimulation, or the placement of sex toys above or insertion of sex toys into the person’s genitals or anus, when the genitals or anus, stimulation, placement, and/or insertion is not directly visible
-    * Other sexual activity or stimulation, except when labeled with a sensitive warning screen in a medical or health context, or when limited to adults, ages 18 years or older, promotional content, recognised fictional images or images with indicators of fiction:
+        * Implicit stimulation of a person’s genitals or anus, or genitals placed upon or inserted into a sex toy, as indicated by stimulation, or the placement of sex toys above or insertion of sex toys into the person’s genitals or anus, when the genitals or anus, stimulation, placement, and/or insertion is not directly visible
+        * Impending sexual activity, as indicated by positions which suggest contact is about to be initiated between a person's hand, mouth or genitals with another person's genitals or anus.
+    * Other sexual activity or stimulation:
         * Erections
         * Presence of by-products of sexual activity
         * Sex toys placed upon or inserted into mouth
         * Stimulation of visible human nipples
         * Squeezing female breasts, defined as a grabbing motion with curved fingers that shows both marks and clear shape change of the breasts. We allow squeezing in breastfeeding contexts.
-    * Imagery depicting fetish that involves:
+    * Photorealistic/ digital imagery or real world art depicting fetish that involves the following:
         * Acts that are likely to lead to the death of a person or animal
         * Dismemberment
         * Cannibalism
         * Feces, urine, spit, snot, menstruation or vomit
         * Bestiality
         * Incest
-    * Digital imagery of adult sexual activity, except when posted in the context of medical awareness, scientific discourse or discussion of sexual health, or when it meets one of the criteria below and viewing is limited to adults, ages 18 years or older.
+        * BDSM (bondage and discipline, domination and submission, sadism and masochism), only when sexual indicators are also present
 * Extended audio of sexual activity
+* Note that with some restrictions, we may allow depictions of sexual activity in special contexts, such as medical or health contexts. This is covered in greater detail in the sections below.
 
-For the following content, we include a label so that people are aware the content may be sensitive:
+For the following content, we limit the ability to view the content to users, ages 18 and older and include a label so that people are aware the content may be sensitive:
 
-* Imagery, and digital imagery, of visible genitalia, fully nude close-ups of buttocks, or visible anuses, when shared in a medical or health context. This can include, for example:
-
-* Birth-giving and after-birth giving moments
-* Gender confirmation surgery
-* Self-examination for cancer or other disease
-
-* Imagery of implicit/other sexual activity or stimulation when shared in a medical or health context
-* Imagery of implicit sexual activity or stimulation in sexual wellness context
-
-For the following content, we limit the ability to view the content to adults, ages 16 and older:
-
-* Imagery depicting near nudity such as nudity covered only by digital overlay or an opaque object and nudity obscured by see-through clothing
-* Imagery depicting persons making sexual poses, defined as poses simulating sexual activity or where groin, buttock or female breast(s) are in focus (including in real world art and digital imagery)
-* Imagery depicting sex-related activity (including in real world art and digital imagery) such as kissing with visible tongue and sexual or erotic dancing
-* Imagery depicting gestures that signify genitalia, masturbation, oral sex, or sexual intercourse (including in real world art and digital imagery)
-* Imagery depicting logos, screenshots or video clips of known pornographic websites
-* Content that contains sexual audio
+* Digital imagery and real world art of explicit sexual activity or stimulation in a medical or health context
+* Photorealistic/ digital imagery and real world art of implicit or other sexual activity or stimulation in a medical or health context
+* Real world art of visible genitalia (including genitalia covered by digital overlay or obscurement and genitalia obscured by pubic hair only), visible anuses, close-ups of visible buttocks or visible female nipples, where the nudity is the focus of the image and not in a medical or health context
+* Photorealistic/ digital imagery of visible genitalia (including genitalia covered by digital overlay or obscurement and genitalia obscured by pubic hair), close-ups of visible buttocks, visible anuses or visible female nipples, when shared in the context of famine, genocide, war crimes, or crimes against humanity
 
 For the following content, we limit the ability to view the content to adults, ages 18 and older:
 
+* Photorealistic/digital imagery depicting near nudity such as nudity covered only by digital overlay or an opaque object and certain instances of nudity obscured by see-through clothing
+* Photorealistic/digital imagery of persons where crotch, buttock or female breast(s) are the focus of the image
+* Photorealistic/ digital imagery and real world art of explicit, implicit or other sexual activity or stimulation when only body shapes or contours are visible
 * Real-world art, where
 
-* Imagery depicts implicit, explicit, or other sexual activity or stimulation except when posted in the context of medical awareness, scientific discourse or discussion of sexual health
+* Imagery depicts implicit, explicit, or other sexual activity or stimulation except when posted in a medical or health context
 * Imagery depicts bestiality, provided it is shared neutrally or in condemnation and the people or animals depicted are not real.
 
-* Implicit/other sexual activity or stimulation in promotional content, recognized fictional images or with indicators of fiction
-* Digital imagery and real world art of adult sexual activity, where:
+* Recognized fictional photorealistic imagery depicting implicit or other sexual activity or stimulation
+* Photorealistic/digital imagery and real world art depicting:
 
-* The content was posted in a satirical or humorous context
-* Only body shapes or contours are visible
+* Sex-related activity such as kissing with visible tongue and sexual or erotic dancing
+* Persons simulating sexual activity
+* Gestures that signify genitalia, masturbation, oral sex, or sexual intercourse
+* Logos, screenshots or video clips of known pornographic websites
+
+* Content that contains audio of sexual activity
+
+For the following content, we include a label so that people are aware the content may be sensitive:
+
+* Photorealistic/ digital imagery and real world art depicting:
+
+* Visible genitalia (including genitalia covered by digital overlay or obscurement and genitalia obscured by pubic hair), close-ups of visible buttocks, or visible anuses, when shared in a medical or health context. This can include, for example:
+
+* Birth-giving and after-birth giving moments
+* Self-examination for cancer or other disease
+
+* Visible female nipples, when shared in a medical or health context (including mastectomy or cancer survivor tattoos)
 
 For the following Community Standards, we require additional information and/or context to enforce:
 
@@ -749,45 +765,47 @@ Adult Sexual Solicitation and Sexually Explicit Language
 
 Policy Rationale
 
-As noted in the [Adult Sexual Exploitation](https://www.facebook.com/communitystandards/sexual_exploitation_adults) policy, people use our services to discuss and draw attention to sexual violence and exploitation. We recognize the importance of and allow for this discussion.We also allow for the discussion of sex worker rights advocacy and sex work regulation. We draw the line, however, when content facilitates sexual encounters or commercial sexual services between adults. We do this to avoid facilitating transactions that may involve trafficking, coercion and non-consensual sexual acts.
+As noted in the [Adult Sexual Exploitation](https://www.facebook.com/communitystandards/sexual_exploitation_adults) policy, people use our services to discuss and draw attention to sexual violence and exploitation. We recognize the importance of and allow for this discussion.We also allow for the discussion of sex worker rights advocacy and sex work regulation. However, we draw the line, however, when content facilitates sexual encounters or commercial sexual services between adults or when content asks for or offers pornographic or sexual content. We do this to avoid facilitating transactions that may involve trafficking, coercion and non-consensual sexual acts.
 
 We also restrict sexually-explicit language that may lead to sexual solicitation because some audiences within our global community may be sensitive to this type of content, and it may impede the ability for people to connect with their friends and the broader community.
 
 We do not allow:
 
-Content that offers or asks for prostitution, defined as offering oneself or asking for sexual activities in exchange for money or anything of value such as:
+Content that offers, asks or provides methods of contact for prostitution, which is defined as asking for or offering oneself for sexual encounters in exchange for money or anything of value by:
 
-* Offering or asking for sexual activity (for example, escort services, sexual/erotic massages, sex chats/conversations, fetish/domination services)
-* Slang terms for prostitution combined with an ask or offer of availability, price, hint at price, or compensation, location, or contact information
-* Content that engages in explicit or implicit sexual solicitation combined with a price, hint at price, or compensation
-* Content that recruits or offers other people for third-party commercial sex work is separately considered under the Human Exploitation policy.
+* Offering or asking for sexual encounters (for example, escort services, sexual/erotic massages, sex chats/conversations, fetish/domination services)
+* Using slang terms for prostitution combined with an ask or offer of availability, price, or any signal of a transaction for money or something of value, location, or contact information
+* Engaging in sexual solicitation combined with a price or any signal of a transaction for money or something of value
+* Depicting or mentioning sexual encounters or partners with a price or any signals of monetary or in-kind transactions.
+* Recruiting or offering other people for third-party commercial sex work is covered by the Human Exploitation policy.
 
-Content that engages in explicit sexual solicitation by, offering or asking for sexual activities such as:
+Content that engages in sexual solicitation by, offering, asking or providing methods of contact for sexual encounters such as:
 
-* Sex or sexual partners (including partners who share fetish or sexual interests).
-* Sex chat or conversations.
-* Nude photos/videos/imagery/sexual fetish items.
-* Offers or asks that include sexual slang terms.
+* Sexual intercourse or stimulation
+* Oral sex
+* Sexual Fetishes
+* Sex chats or conversations
+* Sexual or erotic massages
+* Erotic dancing or stripping
+* Sharing of nude imagery (such as nudes, sex videos)
 
-Content that engages in implicit or indirect sexual solicitation (defined as sharing contact information, or suggesting to be contacted directly) with a sexually suggestive element. Sexually suggestive elements can include content prohibited under the Adult Nudity and Sexual Activity policy or mentions or depictions of regionalized sexual slang, commonly sexualized emojis, sexually suggestive poses, sexual roles, sex positions, fetish scenarios, state of arousal, etc.
+Content that asks for, offers or provides methods of contact to acquire pornographic material, or contains usernames or links to pornographic websites.
 
-Content that offers or asks for pornographic material including, but not limited to, sharing of links to external pornographic websites.
+Sexually explicit language that uses explicit or graphic detail about:
 
-Sexually explicit language that goes into graphic detail about:
+* Genitals,
+* States of sexual arousal (e.g., wetness or erection)
+* Sexual Encounters
+* The above does not include content shared in a humorous, satirical context or as sexual cursing
 
-* A state of sexual arousal (e.g., wetness or erection)
-* An act of sexual intercourse (e.g., sexual penetration, self-pleasuring or exercising fetish scenarios)
-* The above does not include content shared in a humorous, satirical or educational context, as a sexual metaphor or as sexual cursing
-
-We allow content that is otherwise covered by this policy when posted in condemnation, educational, awareness raising or news reporting contexts. We also do not prohibit under the policy content expressing desire for sexual activity, promoting sex education, discussing sexual practices or experiences, or offering classes or programs that teach about sex.
+We allow content that is otherwise covered by this policy when posted in condemnation, educational, awareness raising or news reporting contexts. We also do not prohibit discussing sexual practices under the policy. However, these could be restricted to adults over 18 years of age as per the Health & Wellness policy to facilitate age-appropriate experiences for minors.
 
 For the following content, we limit the ability to view the content to adults, ages 18 and older:
 
-* Content expressing desire for adult sexual activity, or discussing sexual practices or experiences, even without sexual solicitation
-* Sexual metaphors or sexual cursing that goes into graphic detail about: A state of sexual arousal (e.g., wetness or erection)
-
-* A state of sexual arousal (e.g., wetness or erection)
-* An act of sexual intercourse (e.g., sexual penetration, self-pleasuring or exercising fetish scenarios)
+* Content discussing sexual practices or experiences
+* Content that contains usernames, links to or logos of Adult Subscription Websites
+* Sexually explicit language in humorous or satirical contexts, including sexual metaphors
+* Sexually suggestive language that refers to sexual encounters
 
 For the following Community Standards, we require additional information and/or context to enforce:
 
@@ -889,26 +907,28 @@ We do not allow:
 Content that:
 
 * Attempts to buy, sell, or trade, firearms, firearm parts, ammunition, explosives, or lethal enhancements except when:
-    * posted by a Page, Group or Instagram profile representing legitimate brick-and-mortar entities, including retail businesses, websites, brands or government agencies (e.g. police department, fire department) or a private individual sharing content on behalf of legitimate brick-and-mortar entities.
+    * posted by a Page, Group or Instagram profile representing legitimate brick-and-mortar entities, including retail businesses, websites, brands or government agencies (e.g. police department, fire department) or a private individual sharing content on behalf of legitimate brick-and-mortar entities; and visibility is restricted to adults 21 years of age and over.
 
 * Attempts to donate or gift firearms, firearm parts, ammunition, explosives, or lethal enhancements except when posted in the following contexts:
-    * Donating, trading in or buying back firearms and ammunition by a Page, Group or Instagram profile representing legitimate brick-and-mortar entities, including retail businesses, websites, brands or government agencies, or a private individual sharing content on behalf of legitimate brick-and-mortar entities.
-    * An auction or raffle of firearms by legitimate brick-and-mortar entities, including retail businesses, government-affiliated organizations or non-profits, or private individuals affiliated with or sponsored by legitimate brick-and-mortar entities.
+    * Donating, trading in or buying back firearms and ammunition by a Page, Group or Instagram profile representing legitimate brick-and-mortar entities, including retail businesses, websites, brands or government agencies, or a private individual sharing content on behalf of legitimate brick-and-mortar entities; and visibility is restricted to adults 21 years of age and over.
+    * An auction or raffle of firearms by legitimate brick-and-mortar entities, including retail businesses, government-affiliated organizations or non-profits, or private individuals affiliated with or sponsored by legitimate brick-and-mortar entities; and visibility is restricted to adults 21 years of age and over.
 * Asks for firearms, firearm parts, ammunition, explosives, or lethal enhancements.
-* Sells, gifts, exchanges, transfers, coordinates, promotes (by which we mean speaks positively about, encourages the use of) or provides access to 3D printing or computer-aided manufacturing instructions for firearms or firearms parts regardless of context or poster.
-* Attempts to buy, sell, or trade machine gun conversion devices.
+* Attempts to buy, sell, gift, exchange, transfer, coordinate, speaks positively about, encourages the use of or provides access to 3D printing or computer-aided manufacturing instructions for firearms or firearms parts regardless of context or poster.
+* Attempts to buy, sell, trade, donate, gift, asks for or admits ownership machine gun conversion devices.
 
 For the following content, we restrict visibility to adults 21 years of age and older:
 
 Weapons, Ammunitions, or Explosives
 
-* Content posted by or promoting legitimate brick-and-mortar store, entities, including retail businesses, websites, brands, or government agencies which attempt to buy, sell, trade, donate or gift (including in the context of an auction or a raffle) firearms, firearm parts, ammunition, explosives, or lethal enhancements.
+* Content posted by or promoting legitimate brick-and-mortar store, entities, including retail businesses, websites, brands, or government agencies which attempt to buy, sell, trade, donate, gift or asks for (including in the context of an auction or a raffle) firearms, firearm parts, ammunition, explosives, or lethal enhancements.
 
 For the following content, we restrict visibility to adults 18 years of age and older:
 
-Bladed Items:
+Bladed items and other weapons:
 
 * Content that attempts to buy, sell, trade, coordinate, donate, gift or asks for: bladed items and any other weapons (e.g., pepper spray or knuckle rings).
+* Content that speaks positively about, provides instructions to use or encourages the use of firearms, firearm parts, ammunition, explosives, lethal enhancements, or bladed items in product reviews
+* Sales offers and the promotion of non-lethal accessories
 
 **Tobacco and Related Products**
 
@@ -929,6 +949,11 @@ For the following content, we restrict visibility to adults 18 years of age and 
 * Content posted by or promoting legitimate brick-and-mortar entities, including retail businesses, websites or brands, which attempt to buy, sell, trade, donate or gift of alcohol or tobacco products.
 * Content depicting the consumption of tobacco, nicotine products, or “ENDS” products.
 * Content that coordinates or promotes the use of tobacco, nicotine products, “ENDS” products, or tobacco brands.
+* Content depicting Tobacco Cessation Products
+* Content discussing or promoting the use of tobacco, tobacco paraphernalia, or tobacco brands
+* Media content depicting smoking or tobacco consumption in a non-fictional context
+
+* Except in the context of anti-smoking campaigns, counseling services for smoking addiction, smoking rehabilitation, or PSA context
 
 **Alcohol**
 
@@ -957,7 +982,7 @@ Weight loss products or services
 
 Content that:
 
-* Attempts to buy, sell, trade, donate, gift, mention, ask for, weight loss products or services.
+* Attempts to buy, sell, trade, donate, gift, mention or ask for weight loss products or services.
 * Admits to or depicts using a weight loss product, in a favorable context or discusses its side effects.
 * Shows coordination or promotion (by which we mean speaks positively, encourages the use of or provides instructions to use or make) a diet product.
 * Depict a before and after body-change comparison in the context of weight loss, showcasing weight loss after using a product in a manner that may make people feel bad about their appearance or imply negative self-perception.
@@ -981,11 +1006,36 @@ Adult sexual arousal products
 
 Content that:
 
-* Attempts to buy, sell, promote, trade, donate, gift or ask for adult sexual arousal products, that can stimulate a person’s sexual pleasure or increase a person’s sexual arousal. This includes:
+* Attempts to buy, sell, promote, trade, donate, gift or ask for adult sexual arousal products, where the primary focus is to stimulate a person’s sexual pleasure or increase a person’s sexual arousal, in a fictional or non-fictional context. This includes:
     * Sex toys
     * Erotic products
     * Non-surgical genital enhancement products, such as products that stimulate sexual desire or improve sexual performance
     * Products where the primary focus is to stimulate sexual desire or arousal
+    * Depiction of sex toys with no clear context
+
+  
+Reproductive Health or Wellness Products
+
+Content that:
+
+* Attempts to buy, sell, promote, trade, donate, gift or ask for reproductive health or wellness products, where the primary focus is on sexual pleasure and not medical benefits. This includes:
+
+* Reproductive Health or Wellness products when focused on sexual pleasure and containing phallic or yonic objects
+* Products addressing sexual reproductive disorders, where the primary focus is on sexual pleasure and not medical benefits
+* Cosmetic genital surgeries
+* Adult genital surgeries
+* Sex education with focus on sexual pleasure
+
+  
+Adult sexual businesses
+
+Content that:
+
+* Attempts to buy, sell, promote, or ask for adult sexual businesses, that can stimulate a person’s sexual pleasure or increase a person’s sexual arousal. This includes:
+
+* Adult entertainment businesses
+* Adult establishments
+* Instructional sexual services
 
 **Online Gambling and Games**
 
@@ -1001,6 +1051,11 @@ Online Gambling and Games
 Social Casino Games
 
 * Content that attempts to sell, trade, depict or promote social casino games that simulate gambling games such as slot machines, where there is no opportunity to win money or money’s worth. This includes content that indicates the opportunity to win “coins” of no monetary value.
+
+  
+Free-to-play games with Gambling context
+
+* Content that attempts to sell, trade, depict or promote free-to-play games that simulate gambling games, where anything of monetary value is not required to play the game, but there may be an opportunity to win money or money’s worth.
 
 **Endangered and protected species (wildlife and plants)**
 
@@ -1515,43 +1570,47 @@ Policy Rationale
 
 We care deeply about the safety of the people who use our apps. We regularly consult with experts in suicide, self-injury and eating disorders to help inform our policies and enforcement, and we work with organizations around the world to provide assistance to people in distress.
 
-While we do not allow people to intentionally or unintentionally celebrate or promote suicide, self-injury or eating disorders, we do allow people to discuss these topics because we want our services to be a space where people can share their experiences, raise awareness about these issues, and seek support from one another.
+While we do not allow people to intentionally or unintentionally celebrate or promote suicide, self-injury or eating disorders, we do allow people to discuss these topics because we want our services to be a space where people can share their experiences, raise awareness about these issues, and seek support from one another. We may also limit the ability to view this content to adults aged 18 and older.
 
-We remove any content that encourages suicide, self-injury or eating disorders, including fictional content such as memes or illustrations, and any self-injury content which is graphic, regardless of context. We also remove content that mocks victims or survivors of suicide, self-injury or eating disorders, as well as real time depictions of suicide or self-injury. Content about recovery from suicide, self-injury or eating disorders that is allowed, but may contain imagery that could be upsetting (such as a healed scar) is placed behind a sensitivity screen.
+We remove any content that encourages suicide, self-injury or eating disorders, including fictional content such as memes or illustrations, and any self-injury content which is graphic, regardless of context. We remove content that contains instructions for extreme weight loss behaviour. We also remove content that mocks victims or survivors of suicide, self-injury or eating disorders, as well as real time depictions of suicide or self-injury. Content about recovery from suicide, self-injury or eating disorders that is allowed, but may contain imagery that could be upsetting (such as a healed scar) is placed behind a sensitivity screen and we will also limit the ability to view the content to adults aged 18 and older.
 
 When people post or search for suicide, self-injury or eating disorders related content, we will direct them to local organizations that can provide support and if our Community Operations team is concerned about immediate harm we will contact local emergency services to get them help. For more information, visit the [Meta Safety Center.](https://www.facebook.com/safety/wellbeing/suicideprevention)
 
 With respect to live content, experts have told us that if someone is saying they intend to attempt suicide on a livestream, we should leave the content up for as long as possible because the longer someone is talking to a camera, the more opportunity there is for a friend or family member to call emergency services.However, to minimize the risk of others being negatively impacted by viewing this content, we will stop the livestream at the point at which the threat turns into an attempt. As mentioned above, in any case, we will contact emergency services if we identify someone is at immediate risk of harming themselves.
 
-Do not post:
+We do not allow:
 
-Content that promotes, encourages, coordinates, or provides instructions for suicide, self-injury, or eating disorders.
-
-* Content that depicts graphic suicide, self-injury, and eating disorder imagery
+* Content that promotes, encourages, coordinates, or provides instructions for suicide, self-injury, or eating disorders.
+* Content that depicts graphic suicide, self-injury or eating disorder imagery
 * Content depicting a person who engaged in a suicide attempt or death by suicide
-* Content that focuses on depiction of ribs, collar bones, thigh gaps, hips, concave stomach, or protruding spine or scapula when shared together with terms associated with eating disorders
-* Content that contains instructions for drastic and unhealthy weight loss when shared together with terms associated with eating disorders
-* Content that mocks victims or survivors of suicide, self-injury or eating disorders who are either publicly known or implied to have experienced suicide or self-injury
+* Imagery of people when shared together with terms associated with eating disorders
+* Content that focuses on depiction of ribs, collar bones, thigh gaps, hips, concave stomach, protruding spine, scapula, visible bones in arms or legs or hollow cheeks when shared together with terms associated with eating disorders
+* Content that contains instructions for extreme weight loss behaviour
+* Content admitting to extreme weight loss behaviour when shared together with terms associated with eating disorders
+* Content that contains instructions for restrictive dieting when shared together with terms associated with eating disorders
+* Content that mocks victims or survivors of suicide, self-injury or eating disorders who are either publicly known or implied to be experiencing or have experienced suicide, self-injury or eating disorders
 * Imagery depicting body modification (e.g., tattoo, piercing, scarification, self-flagellation, etc.) when shared in a suicide or self-injury context
 
 For the following content, we include a warning screen so that people are aware the content may be sensitive. We also limit the ability to view the content to adults, ages 18 and older:
 
 * Photos or videos depicting a person who engaged in euthanasia/assisted suicide in a medical setting.
-
-For the following content, we include a label so that people are aware the content may be sensitive:
-
-* Content that depicts older instances of self-harm such as healed cuts or other non-graphic self-injury imagery in a self-injury, suicide or recovery context.
-* Content that depicts ribs, collar bones, thigh gaps, hips, concave stomach, or protruding spine or scapula in a recovery context.
+* Content that depicts older instances of self-injury such as healed cuts or other non-graphic self-injury imagery in a self-injury, suicide or recovery context
+* Content that depicts ribs, collar bones, thigh gaps, hips, concave stomach, protruding spine, scapula, visible bones in arms or legs or hollow cheeks in a recovery context
 
 ![](https://static.xx.fbcdn.net/rsrc.php/v4/yh/r/3yRrWspEQ3r.png)
 
-We provide resources to people who post written or verbal admissions of engagement in self injury, including:
+For the following content, we provide resources to people and limit the ability to view the content to adults aged 18 and older:
 
-* Suicide.
-* Euthanasia/assisted suicide.
-* Self-harm.
-* Eating disorders.
-* Vague, potentially suicidal statements or references (including memes or stock imagery about sad mood or depression) in a suicide or self-injury context.
+* Written or verbal admission of suicide, self-injury or eating disorders.
+* Vague, potentially suicidal statements or references (including memes or stock imagery about sad mood depression, presenting death as an escape, or content from popular culture with emphasis on dark, depressive thoughts) in a suicide or self-injury context.
+
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yh/r/3yRrWspEQ3r.png)
+
+For the following content, we limit the ability to view the content to adults aged 18 and older:
+
+* Mocking or dismissing the concept of suicide, self-injury or eating disorders
+* Narratives that contain a description of suicide with details that go beyond the mere naming or mentioning of the act or the aftermath
+* Admitting to extreme weight loss behavior
 
 For the following Community Standards, we require additional information and/or context to enforce:
 
@@ -1564,11 +1623,11 @@ Violent and Graphic Content
 
 Policy Rationale
 
-We understand that people have different sensitivities with regard to graphic and violent imagery. To protect users from such content, we remove the most graphic content and add warning labels to other graphic content so that people are aware it may be sensitive or disturbing before they click through. We may also restrict the ability for users under 18 to view such content (or “age-gate” the content).
+We understand that people have different sensitivities with regard to graphic and violent imagery. To protect users from such content, we remove the most graphic content and add warning labels to other types of content so that people are aware it may be sensitive before they click through. We restrict the ability for younger users to see content that may not be suitable or age-appropriate for them. By doing so, we aim to provide an appropriate user experience, while continuing to provide space for our users to express themselves.
 
 We recognize that users may share content in order to shed light on or condemn acts such as human rights abuses or armed conflict. Our policies consider when content shared in this context and allow room for discussion and awareness raising accordingly.
 
-In ads, we provide additional protections. For example, content that has been deemed sensitive or disturbing is not eligible to run in ads. We also prohibit ads from including images and videos that are shocking, gruesome, or otherwise sensational.
+For paid advertising, we provide additional protections. For example, content that has been deemed sensitive is not eligible to run in ads. We also prohibit ads from including images and videos that are shocking, gruesome, or otherwise sensational. For more information, please consult our [Advertising Standards](https://transparency.meta.com/policies/ad-standards/objectionable-content/sensational-content).
 
 Do not post:
 
@@ -1597,7 +1656,7 @@ We remove
 * Explicit sadistic remarks made towards the suffering of animals depicted in imagery, and imagery depicting animals going from live to dead.
 * Offering or soliciting imagery that is deleted or receives a warning screen under this policy, when accompanied by sadistic remarks.
 
-For the following content, we include a warning screen so that people are aware the content may be disturbing. We also limit the ability to view the content to adults, ages 18 and older:
+For the following content, we include a warning screen so that people are aware the content may be sensitive. We also limit the ability to view the content to adults, ages 18 and older:
 
 **Imagery of people**
 
@@ -1625,42 +1684,86 @@ Imagery depicting non-medical foreign objects (e.g., knives, nails, or other met
 
 Imagery depicting a person’s broken, bleeding teeth, removed teeth where blood is present; or the insertion of foreign objects into the teeth or gums.
 
+Imagery depicting fetuses and babies outside of the womb that are deceased, unless another person is present in the image.
+
 **Imagery of animals**
 
-Any imagery of animals, still living or going from live to dead, – depicting dismemberment, visible innards, burning or charring, or being boiled alive.
+Any imagery of animals, living or dead, – depicting dismemberment, visible innards, burning or charring, or being boiled alive.
 
-Any imagery of animals, when there are visible innards or dismemberment of non-regenerating body parts, unless in the wild.
+Imagery of animals going from live to dead.
+
+Imagery of humans committing acts of brutality on living animals (e.g. kicking, drowning, or plucking feathers).
 
 For the following content, we include a label so that people are aware the content may be sensitive:
 
 **Imagery of people**
 
-Imagery (both videos and still images) depicting non-medical foreign objects (e.g., knives, nails, or other metal objects) piercing a person’s skin in a religious or cultural context.
-
-Imagery depicting visible innards in a birthing context.
-
 Imagery depicting a person’s violent death or life threatening event when the act of violence is committed by uniformed personnel performing a police function.
 
 Imagery depicting acts of brutality (e.g., acts of violence or lethal threats on forcibly restrained subjects) by uniformed personnel performing a police function.
 
-Imagery depicting fetuses and babies outside of the womb that are deceased, unless another person is present in the image.
+For the following content, we limit the ability to view it to users who are 18 and older:
 
-Imagery, in a medical context, depicting a person’s broken, bleeding teeth, removed teeth where blood is present; or the insertion of foreign objects into the teeth or gums.
+**Imagery of people**
+
+Imagery depicting partially or fully uncovered deceased people, even if there are no visible indicators of violent death.
+
+Imagery depicting fetuses and babies outside of the womb that are deceased, when another person is present in the image.
+
+Imagery depicting needles piercing a person’s skin outside of a vaccination, acupuncture or dry-needling, tattooing, or piercing context.
+
+Imagery depicting injured people in medical contexts when they appear to be in pain or distress, bruised, or with medical tubing in their face and/or hands.
+
+Imagery depicting human waste and bodily fluids (e.g., feces, urine, vomit, earwax, mucus, byproduct of dermal extractions, or blood).
+
+Imagery depicting vehicles that are burning or exploding, or depicting the moment or aftermath of speeding vehicles’ impact with other objects where the vehicle is dislodged from its path and / or the vehicle’s driver or passenger compartments are severely damaged.
 
 **Imagery of animals**
 
-Imagery depicting already-dead animals, if there is dismemberment, visible innards, burning or charring, or where blood is present.
+Imagery depicting animals, living or dead, where visible blood is present.
 
-Imagery depicting animals going from live to dead if there is no dismemberment, or visible innards, burning or charring, or boiling alive.
+Imagery depicting animals in a birthing context (e.g., there is blood or visible innards present).
 
-Imagery depicting people committing acts of brutality (e.g., acts of violence or lethal threats on forcibly restrained subjects) on living animals.
+Imagery depicting animals, living or dead, where insects are seen coming out of them (e.g., maggots or worms).
+
+Imagery depicting injured animals suffering.
+
+**Fictional Imagery**
+
+Imagery depicting fictional people in the following contexts:
+
+* Dismemberment;
+* Visible innards, such as exposed organs, bones, or muscle tissue;
+* Burning or charred persons;
+* Throat-slitting; or
+* Violent deaths or life threatening events.
+
+Imagery depicting fictional people that is photorealistic (where the imagery looks like or closely resembles a photograph or video of a real person), in the following contexts:
+
+* Non-medical foreign objects (e.g., knives, nails, or other metal objects) piercing the skin;
+* Human waste or bodily fluids (e.g., feces, urine, vomit, earwax, mucus, or byproduct of dermal extractions), excluding blood;
+* Deceased babies or fetuses outside the womb;
+
+Imagery depicting fictional, but photorealistic, animals in the following contexts:
+
+* Dismemberment;
+* Visible innards, such as exposed organs, bones, or muscle tissue;
+* Burning or charred animals;
+* Animals being boiled alive;
+* Blood is present;
+* Animals going from live to dead;
+* People committing acts of brutality (e.g., e.g. kicking, drowning, or plucking feathers) on living animals;
+* Injured animals suffering
+* Animals with insects coming out from inside them (e.g., maggots or worms).
 
 For the following Community Standards, we require additional information and/or context to enforce:
 
-We remove:
+We do not allow:
 
-Imagery depicting the violent death of someone when a family member of the deceased requests its removal.
-
-Video which includes audio, but not a visual depiction, of a person’s violent death when the person’s death is confirmed by law enforcement record, death certificate, Trusted Partner report, or media report and a family member of the deceased requests its removal.
+Imagery or audio of a person’s violent death when the person’s death is confirmed by law enforcement record, death certificate, Trusted Partner report, or media report and a family member of the deceased requests its removal.
 
 Video of charred or burning humans in the context of self-immolation as an act of protest.
+
+We may allow:
+
+Imagery of a person’s violent death or life-threatening event when the depiction is incidental
