@@ -484,7 +484,7 @@ We do not allow:
 Content that:
 
 * Attempts to buy, sell, or trade, firearms, firearm parts, ammunition, explosives, or lethal enhancements except when:
-    * posted by a Page, Group or Instagram profile representing legitimate brick-and-mortar entities, including retail businesses, websites, brands or government agencies (e.g. police department, fire department) or a private individual sharing content on behalf of legitimate brick-and-mortar entities; and visibility is restricted to adults 21 years of age and over.
+    * Posted by a Page, Group or Instagram profile representing legitimate brick-and-mortar entities, including retail businesses, websites, brands or government agencies (e.g. police department, fire department) or a private individual sharing content on behalf of legitimate brick-and-mortar entities; and visibility is restricted to adults 21 years of age and over.
 
 * Attempts to donate or gift firearms, firearm parts, ammunition, explosives, or lethal enhancements except when posted in the following contexts:
     * Donating, trading in or buying back firearms and ammunition by a Page, Group or Instagram profile representing legitimate brick-and-mortar entities, including retail businesses, websites, brands or government agencies, or a private individual sharing content on behalf of legitimate brick-and-mortar entities; and visibility is restricted to adults 21 years of age and over.
@@ -884,7 +884,7 @@ With respect to live content, experts have told us that if someone is saying the
 
 We do not allow:
 
-* Content that promotes, encourages, coordinates, or provides instructions for suicide, self-injury, or eating disorders.
+* Content that promotes, encourages, coordinates, or provides instructions for suicide, self-injury, or eating disorders
 * Content that depicts graphic suicide, self-injury or eating disorder imagery
 * Content depicting a person who engaged in a suicide attempt or death by suicide
 * Imagery of people when shared together with terms associated with eating disorders
@@ -897,7 +897,7 @@ We do not allow:
 
 For the following content, we include a warning screen so that people are aware the content may be sensitive. We also limit the ability to view the content to adults, ages 18 and older:
 
-* Photos or videos depicting a person who engaged in euthanasia/assisted suicide in a medical setting.
+* Photos or videos depicting a person who engaged in euthanasia/assisted suicide in a medical setting
 * Content that depicts older instances of self-injury such as healed cuts or other non-graphic self-injury imagery in a self-injury, suicide or recovery context
 * Content that depicts ribs, collar bones, thigh gaps, hips, concave stomach, protruding spine, scapula, visible bones in arms or legs or hollow cheeks in a recovery context
 
@@ -905,7 +905,7 @@ For the following content, we include a warning screen so that people are aware 
 
 For the following content, we provide resources to people and limit the ability to view the content to adults aged 18 and older:
 
-* Written or verbal admission of suicide, self-injury or eating disorders.
+* Written or verbal admission of suicide, self-injury or eating disorders
 * Vague, potentially suicidal statements or references (including memes or stock imagery about sad mood depression, presenting death as an escape, or content from popular culture with emphasis on dark, depressive thoughts) in a suicide or self-injury context.
 
 ![](https://static.xx.fbcdn.net/rsrc.php/v4/yh/r/3yRrWspEQ3r.png)
@@ -1650,12 +1650,12 @@ We do not allow the following content for all users:
 **Adult Sexual Activity**
 
 * Photorealistic/ digital imagery of adult sexual activity, including:
-    * Explicit sexual activity or stimulation
+    * Explicit sexual activity or stimulation:
         * Explicit sexual intercourse or oral sex, as indicated by a person’s mouth or genitals entering or in contact with another person's genitals or anus, or genitals placed upon or inserted into a sex toy, when at least one person's genitals or anus is visible
         * Explicit stimulation of a person’s genitals or anus, as indicated by stimulation, or the insertion of sex toys into the person’s genitals or anus, when the contact with the genitals or anus is directly visible
     * Implicit sexual activity or stimulation:
         * Implicit sexual intercourse or oral sex, as indicated by a person’s mouth or genitals entering or in contact with another person's genitals or anus, when the genitals or anus and/or the entry or contact is not directly visible
-        * Implicit stimulation of a person’s genitals or anus, or genitals placed upon or inserted into a sex toy, as indicated by stimulation, or the placement of sex toys above or insertion of sex toys into the person’s genitals or anus, when the genitals or anus, stimulation, placement, and/or insertion is not directly visible
+        * Implicit stimulation of a person’s genitals or anus, as indicated by stimulation, or the placement of sex toys above or insertion of sex toys into the person’s genitals or anus, or genitals placed upon or inserted into a sex toy, when the genitals or anus, stimulation, placement, and/or insertion is not directly visible
         * Impending sexual activity, as indicated by positions which suggest contact is about to be initiated between a person's hand, mouth or genitals with another person's genitals or anus.
     * Other sexual activity or stimulation:
         * Erections
@@ -1714,7 +1714,7 @@ For the following content, we include a label so that people are aware the conte
 
 For the following Community Standards, we require additional information and/or context to enforce:
 
-* In certain cases, we will allow content that may otherwise violate the Community Standards when it is determined that the content is satirical. Content will only be allowed if the violating elements of the content are being satirized or attributed to something or someone else in order to mock or criticize them.
+* In certain cases, **we will allow content for ages 18 and older with a label** that may otherwise violate the Community Standards when it is determined that the content is satirical. Content will only be allowed if the violating elements of the content are being satirised or attributed to something or someone else in order to mock or criticize them.
 
 Read lessRead more
 
@@ -1723,7 +1723,7 @@ Adult Sexual Solicitation and Sexually Explicit Language
 
 Policy Rationale
 
-As noted in the [Adult Sexual Exploitation](https://www.facebook.com/communitystandards/sexual_exploitation_adults) policy, people use our services to discuss and draw attention to sexual violence and exploitation. We recognize the importance of and allow for this discussion.We also allow for the discussion of sex worker rights advocacy and sex work regulation. However, we draw the line, however, when content facilitates sexual encounters or commercial sexual services between adults or when content asks for or offers pornographic or sexual content. We do this to avoid facilitating transactions that may involve trafficking, coercion and non-consensual sexual acts.
+As noted in the [Adult Sexual Exploitation](https://www.facebook.com/communitystandards/sexual_exploitation_adults) policy, people use our services to discuss and draw attention to sexual violence and exploitation. We recognize the importance of and allow for this discussion.We also allow for the discussion of sex worker rights advocacy and sex work regulation. However, we draw the line at content that facilitates sexual encounters or commercial sexual services between adults or when content asks for or offers pornographic or sexual content. We do this to avoid facilitating transactions that may involve trafficking, coercion and non-consensual sexual acts.
 
 We also restrict sexually-explicit language that may lead to sexual solicitation because some audiences within our global community may be sensitive to this type of content, and it may impede the ability for people to connect with their friends and the broader community.
 
@@ -1751,7 +1751,7 @@ Content that asks for, offers or provides methods of contact to acquire pornogra
 
 Sexually explicit language that uses explicit or graphic detail about:
 
-* Genitals,
+* Genitals
 * States of sexual arousal (e.g., wetness or erection)
 * Sexual Encounters
 * The above does not include content shared in a humorous, satirical context or as sexual cursing
