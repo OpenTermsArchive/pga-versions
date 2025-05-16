@@ -1,7 +1,7 @@
 Terms of Service
 ================
 
-Modified: March 21, 2025  
+Modified: May, 14, 2025  
 
 **These terms govern your relationship with PDS Partners, LLC (“Parler”)** and your use of and access to all services, websites, and products provided by Parler (collectively, the Services). You agree that by accessing or using any part of the Services you are bound by the terms of this Agreement (the Terms), including the applicable [Privacy Policy](https://parler.com/privacy-policy) and [Community Guidelines](https://parler.com/community-guidelines/) incorporated herein.
 
@@ -104,6 +104,25 @@ Users acknowledge and agree that blockchain-related features involve emerging te
 Users are solely responsible for managing their blockchain-related credentials, such as private keys, wallet addresses, or other identifiers. Parler does not store, manage, or recover these credentials for users.
 
 By engaging with blockchain-enabled features, users agree to comply with all applicable laws and regulations governing blockchain use in their jurisdiction.
+
+Parler offers users the optional ability to “Boost” their posts for increased visibility across the Parler platform. Users may elect to pay for a Boosted Post either by (a) paying a flat fee in United States Dollars (USD) or (b) using OPT digital rewards based on the current market value of OPT as determined by CoinStore, an independent third-party digital asset exchange.
+
+**Boosted Posts**
+
+By choosing to Boost a post, users acknowledge and agree that:
+
+* Use of OPT for Boosted Posts is entirely voluntary and at their sole discretion.
+* OPT is a utility token earned through participation and contribution to the decentralized Optio blockchain network. It is not a security, does not represent an investment, and is not reliant upon the efforts of others for its value.
+* Parler does not operate or control CoinStore or any other third-party exchange and is not responsible for any changes in the market valuation of OPT.
+* Parler makes no warranties, representations, or guarantees regarding the value, performance, or future price of OPT.
+* Users are solely responsible for verifying the current value of OPT and making an informed decision prior to completing any Boosted Post transaction using OPT.
+* Parler is not a digital asset exchange and does not engage in the sale, trading, or transfer of OPT.
+
+All Boosted Post transactions are final, non-refundable, and subject to the Terms and Conditions herein.
+
+There can be no guarantee that Boosted Posts will be successful, or achieve particular success. Neither Parler nor Optio is responsible for any aspect of a user’s content, website, or applications with which Boosted Posts may be associated. User represents, warrants, and covenants that (i) all Posts are, and will be updated to remain, current and accurate; (ii) your Posts are either original to you or you have secured all necessary rights, consents, waivers and licenses for their use as contemplated by the Agreement, and you are responsible for all royalties, payments, and fees with respect thereto (e.g., performing rights society fees); and (iii) if your Post is an advertisement, you will clearly and conspicuously disclose that such Post is an advertisement within the content of that Post as required by applicable laws and regulations, including all advertising laws and, where applicable, FTC regulations including the FTC’s Guides Concerning the Use of Endorsements and Testimonials in Advertising, 16 C.F.R. Part 255.
+
+At any time, for any or no reason, we may terminate Boosted Posts, and you or we may terminate this Agreement. At any time and at our sole discretion, we may update or modify the features or functionality of Boosted Posts, or this Agreement. We may also, at our sole discretion, terminate your participation in or suspend and/or limit your participation in Boosted Posts, including suspending or removing your associated Post(s). Neither Parler nor Optio will have any liability regarding the foregoing decisions.
 
 **You affirm that you are competent to agree to be bound by this Agreement**, meaning that you are over the age of 18 and, if applicable, have the consent of any designated guardian. In addition to the NSFW filters made available by Parler, there are “Parental Control” products and features available on the market, which can help you tailor your experience on our platform. Some examples can be found [here](https://www.pcmag.com/picks/the-best-parental-control-software) and [here.](https://support.apple.com/en-us/HT201304)
 
