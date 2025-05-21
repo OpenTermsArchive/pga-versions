@@ -50,6 +50,12 @@ Insbesondere um es deinen Kontakten und anderen Personen zu ermöglichen, mit di
 
 Wir verlangen **nicht**, dass dein Anzeigename dein richtiger Name ist. Beachte, dass Nutzer, die dich in ihren Kontakten haben, dich mit dem Namen sehen, den sie gespeichert haben, und nicht nach deinem Anzeigenamen. Auf diese Weise kann deine Mutter z.B. den Anzeigenamen “Johnny Depp” tragen, während sie dir gegenüber als “Mama” und ihren Mitarbeitern gegenüber als “Chef” angezeigt wird (oder umgekehrt).
 
+#### [](#3-1-1-optionale-daten)3.1.1 Optionale Daten
+
+Wenn du möchtest, kannst du deinen Geburtstag (mit oder ohne Jahreszahl) zu deinem Telegram-Profil hinzufügen. Du kannst genau festlegen, welche Nutzer deinen Geburtstag in deinem Profil sehen können. Standardmäßig sind das deine Kontakte, die an diesen Tag erinnert werden. Wir können Informationen über dein Alter verwenden, um zu bestimmen, ob du Zugang zu altersspezifischen Inhalten hast.
+
+[Telegram Business](https://telegram.org/blog/telegram-business/de) Abonnenten können ihrem Profil einen festen Standort und eine Liste der Öffnungszeiten hinzufügen, um es Kunden zu erleichtern, ihr Geschäft auf Telegram zu finden und mit ihnen in Kontakt zu treten. Diese Informationen sind immer öffentlich.
+
 #### [](#3-2-deine-e-mail-adresse)3.2. Deine E-Mail-Adresse
 
 Wenn du die zweistufige Bestätigung für dein Konto aktivierst oder Dokumente mithilfe der Telegram Passport-Funktion speicherst, kannst du eine E-Mail-Adresse zur Passwortwiederherstellung einrichten. Diese Adresse wird nur verarbeitet, um dir einen Code zur Passwortwiederherstellung zu senden, wenn du es vergessen haben solltest. Wir versenden insbesondere keine Marketing- oder “wir vermissen dich” und ähnliche Nonsense-Mails an dich.
@@ -170,6 +176,24 @@ Bots können auch die folgenden Daten erhalten, wenn du mit ihnen interagierst.
 
 Mit Ausnahme unserer eigenen Bots sind keine anderen Bots oder Drittanbieter-Bot-Entwickler mit Telegram verbunden oder beauftragt. Sie sind völlig unabhängig von uns. Sie sollten dich um Erlaubnis bitten, bevor sie auf deine Daten zugreifen oder du sie ihnen zur Verfügung stellst.
 
+#### [](#6-5-telegram-business-chatbots)6.5. Telegram Business Chatbots
+
+[Telegram Business](https://telegram.org/blog/telegram-business/de) Abonnenten können Bots Dritter mit ihrem Telegram-Konto verknüpfen, um automatisch Nutzernachrichten zu verarbeiten und zu beantworten.
+
+#### [](#6-5-1-kommunikation-mit-einem-business-chatbot)6.5.1. Kommunikation mit einem Business Chatbot
+
+Telegram-Nutzer können bereits seit 2015 mit Bots kommunizieren. Dazu gehören auch Bots, die von Unternehmen betrieben werden. Mit der Einführung von Telegram Business können Nutzer auch in privaten Chats mit Telegram Business Nutzern, die einen Chatbot mit ihrem Konto verbunden haben, reibungslos mit Bots kommunizieren.
+
+Wenn du eine Nachricht an einen Telegram Business Nutzer sendest, der einen Chatbot mit seinem Konto verknüpft hat, kommunizierst du möglicherweise mit einem Bot, der grundlegende Daten über dich erhält, wie in [Abschnitt 6.3](#6-3-welche-daten-an-bots-ubermittelt-werden) beschrieben.
+
+#### [](#6-5-2-einen-business-chatbot-zur-verwaltung-deiner-chats-verwend)6.5.2. Einen Business-Chatbot zur Verwaltung deiner Chats verwenden
+
+Wenn du einen Bot eines Drittanbieters über Telegram Business mit deinem Konto verbindest, hat der Bot Zugriff auf grundlegende Informationen über dein Konto (siehe [Abschnitt 6.3](#6-3-welche-daten-an-bots-ubermittelt-werden)) und kann dir private Nachrichten senden.
+
+Außerdem hat der Bot Zugriff auf alle Nachrichten, Medien und Dateien in den privaten Chats, die du ihm erlaubst zu verwalten. Wenn du ihm diese Erlaubnis erteilst (und nur in den privaten Chats, die du ihm zugewiesen hast), kann der Bot in deinem Namen Nachrichten versenden und andere Aktionen durchführen.
+
+Du kannst die Berechtigungen des Bots, einschließlich der Liste der Chats, auf die er zugreifen kann, jederzeit unter _Einstellungen > Telegram Business > Chatbots_ in den offiziellen Telegram-Apps ändern oder widerrufen.
+
 ### [](#7-zahlungsdienste-dritter)7\. Zahlungsdienste Dritter
 
 #### [](#7-1-zahlungsinformationen)7.1. Zahlungsinformationen
@@ -211,6 +235,10 @@ Wenn Telegram eine gültige Anordnung von den zuständigen Justizbehörden erhä
 Nutzer können eine bestimmte Textnachricht in eine andere Sprache übersetzen, indem sie im Aktivitätsmenü der Nachricht auf „Übersetzen“ tippen (um diese Option zu aktivieren, sollte der Nutzer zuerst die Übersetzungsdienste über _Einstellungen > Sprache_ aktivieren).
 
 Da Telegram bei der automatischen Übersetzung von Nachrichten auf eine Drittpartei, Google LLC, eine Tochtergesellschaft von Alphabet Inc, zurückgreifen kann, kann der Text der Nachricht oder bestimmter Nachrichten, die Nutzer übersetzen möchten, an Google weitergegeben werden, um deren übersetzten Versionen zu erhalten. Google greift nur zur Bereitstellung einer Übersetzung auf die Daten zu und verwendet sie nicht für andere Google-Produkte, -Dienste oder -Werbung.
+
+#### [](#8-5-transkription-von-sprachnachrichten-auf-wunsch-des-nutzers)8.5. Transkription von Sprachnachrichten auf Wunsch des Nutzers
+
+Einige Nutzer können eine Sprachnachricht in Text umwandeln, indem sie auf das in Sprachnachrichten angezeigte Sprache-zu-Text-Symbol („→A“) tippen (um diese Option nutzen zu können, sollten Nutzer Telegram Premium über Einstellungen > Telegram Premium abonnieren). Da Telegram bei der Sprache-zu-Text Umwandlung auf eine Drittpartei, Google LLC, eine Tochtergesellschaft von Alphabet Inc, zurückgreifen kann, können die Audiodaten von Sprachnachrichten, die Nutzer in Text konvertieren möchten, an Google weitergegeben werden, um deren transkribierten Versionen zu erhalten. Es dürfen nur Audiodaten zu diesem Zweck weitergegeben werden (es werden keine anderen Daten, wie die IP-Adresse des Nutzers oder Informationen über sein Konto, weitergegeben). Gemäß der Vereinbarung zwischen Telegram und Google wird Telegram die Transkriptionen im Namen seiner Nutzer bezahlen und Google wird nur auf die Audiodaten zugreifen, um eine transkribierte Version bereitzustellen – es werden keine Audiodaten oder Transkripte protokolliert und die Daten nicht für andere Google-Produkte, -Dienste oder -Werbung verwendet.
 
 ### [](#9-deine-rechte-in-bezug-auf-die-personenbezogenen-daten-die-wir)9\. Deine Rechte in Bezug auf die personenbezogenen Daten, die wir verarbeiten
 
