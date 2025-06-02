@@ -18,13 +18,18 @@
 Safety and Privacy Centre
 =========================
 
-[Home](https://www.spotify.com/de-en/safetyandprivacy)
-
-[Safety](https://www.spotify.com/de-en/safetyandprivacy/platform-rules)
-
-[Privacy](https://www.spotify.com/de-en/safetyandprivacy/personal-data-collected)
-
-[Regulatory and Transparency Reports](https://www.spotify.com/de-en/safetyandprivacy/transparency)
+* Home
+    
+* Safety
+    
+     [Platform Rules](https://www.spotify.com/de-en/safetyandprivacy/platform-rules) [Content actions](https://www.spotify.com/de-en/safetyandprivacy/content-actions) [Reporting content](https://www.spotify.com/de-en/safetyandprivacy/reporting-content) [Guidance for parents or caregivers](https://www.spotify.com/de-en/safetyandprivacy/parental-guide) [Election integrity at Spotify](https://www.spotify.com/de-en/safetyandprivacy/elections-integrity) [Our approach to dangerous and deceptive content](https://www.spotify.com/de-en/safetyandprivacy/dangerous-deceptive-content) [Our approach to violent extremism](https://www.spotify.com/de-en/safetyandprivacy/violent-extremism) [Understanding recommendations](https://www.spotify.com/de-en/safetyandprivacy/understanding-recommendations) [Digital Services Act Points of Contact](https://www.spotify.com/de-en/safetyandprivacy/dsa-points-of-contact)
+    
+* Privacy
+    
+     [Collecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/personal-data-collected) [Protecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/protecting-personal-data) [Your privacy controls](https://www.spotify.com/de-en/safetyandprivacy/privacy-controls) [Learn more about privacy](https://www.spotify.com/de-en/safetyandprivacy/learn-more-about-privacy)
+    
+* Regulatory and Transparency Reports
+    
 
 Spotify Platform Rules
 ======================
