@@ -54,7 +54,7 @@ _Advertising or Marketing Cookies:_ Twitch uses first and third party cookies to
 | --- | --- |
 | **_Advertising & Marketing cookie examples_** |     |
 | ad-id, ad-privacy (Amazon) | Informs advertising activity, the delivery of ads on Twitch (including interest-based ads), through Amazon advertising systems and other partners. |
-| \_s; branch\_session (Branch)  <br> <br><br>kxsegs, kxuser,<br><br>kxtwitch\_\* (Salesforce DMP) | Helps Twitch (1) acquire new users by delivering targeted Ads to users off Twitch properties (2) Measure marketing campaign ROI to determine the sources of new Twitch users. |
+| \_s; branch\_session (Branch)  <br><br>kxsegs, kxuser,<br><br>kxtwitch\_\* (Salesforce DMP) | Helps Twitch (1) acquire new users by delivering targeted Ads to users off Twitch properties (2) Measure marketing campaign ROI to determine the sources of new Twitch users. |
 | uid, uidr (comScore) | Ads measurement and analytics partner. |
 
 **How does Twitch use third party cookies?**
