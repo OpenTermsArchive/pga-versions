@@ -335,31 +335,31 @@ If you see something on Quora that you believe violates our policies, please rep
 
 Quora has the sole authority and final decision as to whether content or behavior violates these policies. We may enforce these policies in a variety of ways, including, but not limited to written warnings, removal of content, adding warning tags to content, or the limitation or termination of a user’s access to Quora.
 
-Questions and Answers Policies
-==============================
+Question and Answer Policies
+============================
 
 Official Quora Account
 
-* 2024-04-18T23:32:25Z
+* 2025-06-04T19:46:03Z
 
-Questions and answers must adhere to Quora’s Platform Policies, as well as the additional policies outlined below:
+Questions and answers must adhere to Quora’s [Platform Policies](https://help.quora.com/hc/en-us/articles/360000470706), as well as the additional policies outlined below:
 
-### The following are Quora’s policies for posting questions:
+### The following are Quora's policies for posting questions:
 
 * Questions are viewed as community property.
 * A question can be merged into another question if both ask the same thing.
 * Quora requires correct spelling, punctuation, grammar and capitalization to be used in questions.
 
-**Note**: Questions that are merely badly formatted or unclear will be tagged for improvement rather than removed.  
-  
-If you feel your question has been incorrectly deleted, please use this [contact form](https://help.quora.com/hc/requests/new?ticket_form_id=198746) to submit an appeal.
+**Note**: Questions that are merely badly formatted or unclear will be tagged for improvement rather than removed.
 
-### The following are Quora’s policies for writing answers:
+### The following are Quora's policies for writing answers:
 
 * Answers should respond to the question asked.
 * A user should **disclose any** [relevant affiliations](https://help.quora.com/hc/en-us/articles/360055133711) explicitly in an answer or in the [credential](https://help.quora.com/hc/en-us/articles/115005507963) that appears with the answer. Affiliate links are not allowed.
 * Self-promotional links or self-promotion that does not form a part of a direct and helpful response to the question is not allowed.
 * The gist of the answer should be able to be understood without having to leave Quora to access an external website. Answers that cannot be understood without navigating to an external site and appear to be doing so for promotional purposes may be collapsed and/or removed.
+
+If you feel your question or answer has been incorrectly deleted, please use this [contact form](https://help.quora.com/hc/requests/new?ticket_form_id=198746) to submit an appeal.
 
 What is Quora's policy on adding images and videos?
 ===================================================
