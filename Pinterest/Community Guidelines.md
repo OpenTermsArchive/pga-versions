@@ -23,7 +23,7 @@ We’re committed to presenting you with clear and transparent expectations that
 
 ### Adult content
 
-Pinterest isn’t a place for adult or sexually exploitative content, including pornography and most nudity. We remove or limit the distribution of mature and explicit or exploitative content, including:
+Pinterest isn’t a place for adult or sexually exploitative content, including pornography and nudity. We remove or limit the distribution of mature and explicit or exploitative content, including:
 
 * Nudity
 * Sexualized content, even if the people are clothed or partially clothed
@@ -32,8 +32,6 @@ Pinterest isn’t a place for adult or sexually exploitative content, including 
 * Non-consensual intimate images (NCII), meaning images of a private or sexual nature obtained or published without consent (this includes revenge porn and up-skirt images)
 * Adult sexual services that may involve sexual or physical exploitation or trafficking, like sex cams and escort services
 * Financial sextortion instructions or tools
-
-We allow some nudity in certain contexts, although we may limit its distribution. For instance, nudity in paintings and sculptures and in science and historical contexts is okay. Content about breastfeeding and mastectomies is also allowed.
 
 ### Prohibited and regulated goods, services and activities
 
@@ -298,4 +296,4 @@ Our guidelines around spam are:
 * Don't attempt to evade our anti-spam systems. For example, don’t use redirection to attempt to link to a site that is not permitted on Pinterest.
     * With respect to redirection, we encourage you to follow a “no surprises” principle — Pinners should be able to reasonably anticipate where your link will take them. Links that exhibit excessive or deceptive redirection, as well as shortener services that are abused for spam, may be blocked.
 
-Last updated: April 2025
+Last updated: June 2025
