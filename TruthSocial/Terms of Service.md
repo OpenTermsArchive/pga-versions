@@ -466,12 +466,17 @@ Visiting the Service, creating a Profile or an Account, registering as a User, s
 
 You hereby waive any rights or requirements under any statutes, regulations, rules, ordinances, or other laws in any jurisdiction which require an original signature or delivery or retention of non-electronic records, or to payments or the granting of credits by any means other than electronic means.
 
-30\. CALIFORNIA USERS AND RESIDENTS
+30\. PAID SERVICES
+------------------
+
+All fees and charges are non-refundable, including for unused portions of cancelled subscriptions. Subscriptions will be charged automatically, at the frequency (monthly or yearly) specified when you subscribe. We reserve the right to change the pricing of all Services at any time. In the event of a price change, we will post the new pricing on the relevant Service and attempt to notify you by sending an email to the address you have registered. We may offer promotional periods to fee-based subscriptions or services for free or at special discounted prices. Unless otherwise stated, these promotional periods will automatically become paying subscriptions at the posted subscription rate if you do not cancel before the end of the trial period.
+
+31\. CALIFORNIA USERS AND RESIDENTS
 -----------------------------------
 
 If any complaint with us is not satisfactorily resolved, you can contact the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs in writing at 1625 North Market Blvd., Suite N 112, Sacramento, California 95834 or by telephone at (800) 952-5210 or (916) 445-1254.
 
-31\. MISCELLANEOUS
+32\. MISCELLANEOUS
 ------------------
 
 These Terms of Service and any policies or operating rules posted by us on the Service, including privacy policies, constitute the entire agreement and understanding between you and us. Our failure to exercise or enforce any right or provision of these Terms of Service shall not operate as a waiver of such right or provision.
@@ -484,12 +489,12 @@ There is no joint venture, partnership, employment or agency relationship create
 
 You hereby waive any and all defenses you may have based on the electronic form of these Terms of Service and the lack of signing by the parties hereto to execute these Terms of Service.
 
-32\. CONTACT US
+33\. CONTACT US
 ---------------
 
 In order to resolve a complaint regarding the Service or any Content or to receive further information regarding use of the Service or Content, please contact us at [\[email protected\]](https://help.truthsocial.com/cdn-cgi/l/email-protection) Users may report "hateful conduct," as defined by New York law, to [\[email protected\]](https://help.truthsocial.com/cdn-cgi/l/email-protection).
 
-33\. SMS Terms and Conditions
+34\. SMS Terms and Conditions
 -----------------------------
 
 Our collection and use of your personal information is also subject to our Privacy Policy. By signing up, you accept and agree to these Mobile Messaging Terms and our Privacy Policy.
