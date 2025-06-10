@@ -12,6 +12,11 @@ These guidelines set the guardrails for what behavior is and is not allowed on o
   
 We consider our Community Guidelines to be a living document, and we work with streamers, mods, and external safety and policy experts to review and update them regularly. In addition to these guidelines, streamers and moderators can also use customizable [Twitch safety tools](https://safety.twitch.tv/s/article/Chat-Tools) to tailor their channel standards to meet their needs. Viewers, moderators, and streamers play a crucial role by reporting content or behavior that breaks our Community Guidelines. Reports are reviewed by our global Safety Operations team who work 24/7/365 to ensure a swift response. In this way, we all work together to promote a safe and welcoming live environment.
 
+Enforcement Notes
+=================
+
+For some of our Community Guidelines below, you will see an “Enforcement Notes and Clarifications” section. Enforcement Notes are additional examples of what is and isn’t allowed on Twitch, focused on clarifying existing policies already being enforced. Enforcement Notes are not new policies or new rules. We write these notes to share more information about our existing Community Guidelines and to answer commonly asked questions.
+
   
 [(Expand All)](#)
 
@@ -45,11 +50,17 @@ If you feel like you’re struggling, or you know someone who you believe might 
 
   Enforcement Notes and Clarifications:
 
+_Enforcement Notes are additional examples of what is and isn’t allowed on Twitch, focused on clarifying existing policies already being enforced. Updates here do not indicate a change in policy, but are additional examples of existing enforcements._
+
 * Selling activities which may cause harm for monetary gain (such as subscriptions, Bits, tips, etc.) is not allowed. 
     * Prohibited examples: Taking shots of alcohol for subs or doing the “Cinnamon challenge” for a set amount of Bits.
 * Drinking goal streams are allowed provided the drinking that takes place is not excessive and would not reasonably be expected to cause harm.
-    * Allowed Examples:  “I will open this bottle of prosecco at 100 subscribers” or “Drinking stream when we hit 50 new subs tonight” 
-    * Prohibited Examples: “I will down this bottle of vodka at 300 subscribers” or “I will take a shot for every 100 Bits”
+    * Allowed examples:  “I will open this bottle of prosecco at 100 subscribers” or “Drinking stream when we hit 50 new subs tonight” 
+    * Prohibited examples: “I will down this bottle of vodka at 300 subscribers” or “I will take a shot for every 100 Bits”
+* Dangerous or distracted driving–such as operating your vehicle while interacting with your stream in a way that removes your eyes from the road or hands from controlling your vehicle–is never acceptable on Twitch. 
+    * Allowed example: Setting up your streaming device/camera while parked in a safe location prior to driving.
+    * Allowed example: Listening to text-to-speech chat messages and responding verbally out loud.
+    * Prohibited example: Reading chat messages or physically touching your streaming camera or device for prolonged periods of time or frequency while driving.
 
 Violence and Threats
 --------------------
@@ -115,6 +126,8 @@ Youth Safety
 [](#)
 
   Enforcement Notes and Clarifications \[content warning\]:
+
+_Enforcement Notes are additional examples of what is and isn’t allowed on Twitch, focused on clarifying existing policies already being enforced. Updates here do not indicate a change in policy, but are additional examples of existing enforcements._
 
 * Depicting fictional anime characters of a child-like appearance (“lolis”/”shotas”) with any kind of sexual framing is not allowed. This applies to VTubers and within games where avatars are uploaded, such as VRChat, with child-like avatars even if the broadcaster and operator of the avatar is above the age of 18. 
 * Any humor regarding anything sexual in relation to minors will result in immediate action on your account.
@@ -197,6 +210,17 @@ Sharing someone else’s sensitive data without their permission can be both a d
 * Share restricted or protected social profiles or any information from those profiles
 * Share content that violates another’s reasonable expectation of privacy, for example streaming from a private space, without permission
 * Broadcast an unwanted intrusion of private video conference calls
+    
+
+[](#)
+
+  Enforcement Notes and Clarifications:
+
+_Enforcement Notes are additional examples of what is and isn’t allowed on Twitch, focused on clarifying existing policies already being enforced. Updates here do not indicate a change in policy, but are additional examples of existing enforcements._
+
+* Requesting or soliciting personally identifiable information that could reasonably be expected to harm a user's safety– physically, financially, or otherwise–if shared is not allowed in chat or on stream.
+    * Allowed example: A streamer asking a viewer in chat "What's your first name?" or "What state are you from?" if relevant to conversation.
+    * Prohibited example: A streamer asks their chat to "Share your bank details for a giveaway!"
 
 Civility and Respect
 ====================
@@ -275,6 +299,8 @@ We define 'protected groups' as a subset of the population with a shared protect
 
   Enforcement Notes and Clarifications \[content warning\]:
 
+_Enforcement Notes are additional examples of what is and isn’t allowed on Twitch, focused on clarifying existing policies already being enforced. Updates here do not indicate a change in policy, but are additional examples of existing enforcements._
+
 * We take into consideration if the reported user belongs to the targeted protected group to help determine if an offense occurred.
     * We consider context when enforcing. Self-deprecating terminology in a positive or joking way may be treated differently than terminology targeted at someone else.
     * The “N-word” with a “hard R”, a racial slur, is never allowed under any circumstances.
@@ -282,8 +308,8 @@ We define 'protected groups' as a subset of the population with a shared protect
     * Allowed examples: Speaking of an experience where a slur was used against yourself or which you overheard - “I was at the supermarket and heard someone yell \[slur\]” or “I was once called a \[slur\] at work by a colleague”.
 * We prohibit the use of terms that may not be harmful or abusive in isolation, but can be used as a slur or to denigrate others in certain contexts. Similar to other terms that may be used as a proxy for a protected group, we treat “Zionists” as a proxy for Jews or Israelis if the word is used in a context to promote harm or violence, or when used to make dehumanizing comparisons or perpetuate antisemitic stereotypes. Comments regarding Zionism that are about the political movement, including criticisms, do not violate our Hateful Conduct Policy. Comments that call for violence against Zionism as a political movement, or comments that would otherwise violate our policies, are not allowed.
     
-    * Prohibited example: Zionist \[name of animal\].
     * Allowed example: Zionist settlers keep encroaching Palestinian borders.
+    * Prohibited example: Zionist \[name of animal\].
 
 Harassment
 ----------
@@ -455,7 +481,7 @@ In order to protect the intellectual property rights of others and comply with i
 * Goods or services protected by trademark
 * Closed Alphas/Betas and Pre-Release Games. We ask that you respect all publisher/developer-enforced release dates, embargoes, and NDAs by waiting to broadcast these games until everyone else gets to. Unless given prior approval, your channel may be subject to DMCA takedown by a rights holder. 
 
-[Learn more](https://www.twitch.tv/p/legal/community-guidelines/music/) about our policies regarding including music in your Twitch channel.
+[Learn more](https://legal.twitch.com/legal/music/) about our policies regarding including music in your Twitch channel.
 
 [](#)
 
@@ -484,6 +510,8 @@ Although we allow a variety of content to be shown on Twitch, content that featu
 [](#)
 
   Enforcement Notes and Clarifications:
+
+_Enforcement Notes are additional examples of what is and isn’t allowed on Twitch, focused on clarifying existing policies already being enforced. Updates here do not indicate a change in policy, but are additional examples of existing enforcements._
 
 * Randomized video content that you can not control is never allowed under any circumstances due to the risks it poses to viewers of the stream.
     * Prohibited example: streaming Ome.tv interactions.
@@ -518,6 +546,8 @@ For information about content relating to sexuality and sexual themes that is al
 
   Enforcement Notes and Clarifications \[content warning\]:
 
+_Enforcement Notes are additional examples of what is and isn’t allowed on Twitch, focused on clarifying existing policies already being enforced. Updates here do not indicate a change in policy, but are additional examples of existing enforcements._
+
 * Direct links to websites that primarily provide sexual content are not allowed in your content (overlay, bio, sent in chat, etc).
     * If any links to this kind of content through methods such as link aggregators are found, Twitch may apply the Sexual Themes Content Classification Label for a set amount of time.
 * We allow certain content that includes sexual themes, providing it is educational in nature, has relevant Content Classification Labels applied to the stream, and doesn’t break our other guidelines such as Nudity. 
@@ -531,7 +561,7 @@ For information about content relating to sexuality and sexual themes that is al
 * Emotes, badges, and cheermotes are also subject to our policies. Because subscriber emotes are available for use globally across Twitch and highly visible outside of their original channels, our emote guidelines may be more restrictive than our general Community Guidelines in some instances. Please refer to the [Emote Guidelines](https://help.twitch.tv/s/article/emote-guidelines) to review emote-specific standards for sexual content. 
 * Games featuring nudity, pornography, sex, or sexual violence as a core focus or feature are entirely prohibited. Custom gameplay or visual modifications that include nudity or sex content, including uncensored patches, in otherwise allowed games are prohibited.
 * For games where nudity is not the core focus or feature, the Mature-rated Games Content Classification Label is sufficient for incidental nudity. However, the Sexual Themes Content Classification Label must be applied to gameplay that includes nudity but is not the main focus of the game.
-    * Allowed Example: Streaming Grand Theft Auto V with the Mature-rated Games Content Classification Label.
+    * Allowed example: Streaming Grand Theft Auto V with the Mature-rated Games Content Classification Label.
 * Users may not engage in simulated sexual activity or erotic roleplay with other players in online games. Games that primarily consist of user-generated content, in-game roleplay, or interactions in virtual reality are not exempt from this policy.
     * Prohibited example: Simulating sexual activity on VRChat.
 * As long as attire requirements are met, body painting on the breasts and buttocks is allowed with a Sexual Themes Content Classification Label. 
@@ -601,6 +631,8 @@ The standard chest coverage requirements outlined above do not apply to individu
 [](#)
 
   Enforcement Notes and Clarifications \[content warning\]:
+
+_Enforcement Notes are additional examples of what is and isn’t allowed on Twitch, focused on clarifying existing policies already being enforced. Updates here do not indicate a change in policy, but are additional examples of existing enforcements._
 
 * When evaluating reports for sexual conduct, attire is just one factor we will use in making a determination on whether conduct is acceptable.
     * We recommend streamers wear attire that would be publicly appropriate for the context, location, and activity they are broadcasting. For example, workout clothes would be appropriate for a fitness stream and a swimsuit would be appropriate for a stream from a public beach.
@@ -828,19 +860,17 @@ We may identify others as we move forward.
 
 [](#)
 
-  **Prohibited Gambling Content FAQ:**
+  Enforcement Notes and Clarifications:
 
-**Are free social versions of these websites allowed?** 
+_Enforcement Notes are additional examples of what is and isn’t allowed on Twitch, focused on clarifying existing policies already being enforced. Updates here do not indicate a change in policy, but are additional examples of existing enforcements._
 
-No, we do not allow free social versions of the sites listed above.
-
-**Does this policy prohibit fantasy sports, sports betting, and poker?**
-
-No, we still permit broadcasting websites focused on fantasy sports, sports betting, and poker at this time.
-
-**Is sponsorship of skins gambling, such as for CSGO skins, allowed on Twitch?**
-
-No, promotion or sponsorship of skins gambling is prohibited under our policy.
+* Promotion or sponsorship of skins gambling, such as for CSGO skins, is prohibited under our policy.
+* Free or social versions of the prohibited gambling sites are also prohibited.
+* We do permit broadcasting websites focused on fantasy sports, sports betting, and poker at this time.
+* Images or logos containing any of the listed prohibited gambling sites, mentioned above, are not allowed, and are considered the same as sharing direct links to these gambling sites.
+    * Prohibited example: A logo representing any of the listed prohibited gambling sites on the screen at any time or within your bio.
+* The restriction on prohibited gambling sites applies whether or not you personally participate in gambling activity. 
+    * Prohibited example: Watching or restreaming gameplay from any of the prohibited gambling sites listed above. 
 
 Authenticity
 ============
@@ -863,7 +893,9 @@ Impersonation is a malicious practice that compromises trust in our service and 
 
   Enforcement Notes and Clarifications:
 
-* If you are being impersonated as a streamer on Twitch and the content does not qualify for action under [the DMCA process](https://www.twitch.tv/p/legal/dmca-guidelines/) (such as a branded trademark), please report the stream under “Impersonation”. Please provide full information in the report.
+_Enforcement Notes are additional examples of what is and isn’t allowed on Twitch, focused on clarifying existing policies already being enforced. Updates here do not indicate a change in policy, but are additional examples of existing enforcements._
+
+* If you are being impersonated as a streamer on Twitch and the content does not qualify for action under [the DMCA process](https://www.twitch.tv/p/legal/dmca-guidelines/) (such as a branded trademark), please report the stream under “Impersonation”. Please provide full information in the report.
     * We take into account a number of factors such as usernames and bios, as well as if the person being impersonated submits the report when determining whether to enforce.
 
 Spam, Scams, and Other Malicious Conduct
@@ -891,16 +923,18 @@ We understand that sometimes streamers are victims of account takeover, fraud, o
 
   Enforcement Notes and Clarifications:
 
+_Enforcement Notes are additional examples of what is and isn’t allowed on Twitch, focused on clarifying existing policies already being enforced. Updates here do not indicate a change in policy, but are additional examples of existing enforcements._
+
 * Redirecting users to a livestream on another service via links on your Twitch page, QR codes, broadcast titles, and go-live notifications, is prohibited.
     * Links to social media profiles, not directly tied to a livestream and links present in your Bio (About Me) or Panels are still permitted.
 * Drops are meant to be earned during live gameplay with your community - not through streaming unrelated content like static images, rebroadcasts of past VODs/footage, or other scenarios where you are not interacting with your community.
-    * Prohibited example:  Using VODs or static images to stream with the core purpose of “Drop Farming”.
     * Allowed example: Streaming a game with drops but taking a small break with a temporary “Be right back” static image.
+    * Prohibited example:  Using VODs or static images to stream with the core purpose of “Drop Farming”.
 * [Shared Viewership](https://link.twitch.tv/SharedViewership), through utilizing Shared Chat as a tool, is designed to highlight the total number of community members present when two or more streamers are both live and collaborating together. Abusing these tools to artificially promote or inflate viewership without appropriate collaboration is not allowed, with some exceptions as noted below.
-    * Prohibited example: Two streamers are live utilizing Shared Viewership, but no active collaboration (not sharing audio or video) is taking place. Instead, they are simply “hosting” each other with Shared Chat to inflate their Shared Viewcount.
-    * Prohibited example: Utilizing viewership to highlight an alt account owned by the streamer.
     * Allowed example: Two streamers are playing a game and are in the same game interacting with each other over audio (e.g. Stream Together audio or in-game comms).
     * Allowed example: A streamer is working with a brand to appear on their official Twitch account at the same time as the streamer’s own channel for the release of their new game or product utilizing Shared Viewership.
+    * Prohibited example: Two streamers are live utilizing Shared Viewership, but no active collaboration (not sharing audio or video) is taking place. Instead, they are simply “hosting” each other with Shared Chat to inflate their Shared Viewcount.
+    * Prohibited example: Utilizing viewership to highlight an alt account owned by the streamer.
 
 Suspension Evasion
 ------------------
