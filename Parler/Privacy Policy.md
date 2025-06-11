@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Updated: March 25, 2025  
+Updated: June 10, 2025  
 
 PDS Partners, LLC and its affiliates (“Company,” “Parler” “we,” “our,” and/or “us”) value the privacy of individuals who use our social news applications, the websites where this Privacy Policy is posted ( “Websites”) , and related services (collectively, our “Services”). This privacy policy (the “Privacy Policy”) explains how we collect, use, and share information from our users (“Users,” “you,” and/or “your”) to facilitate your commenting, social news, and influencer networking experience. By using our Services, you agree to the collection, use, disclosure, and procedures this Privacy Policy describes. Beyond the Privacy Policy, your use of our Services is also subject to our [Terms of Service](https://parler.com/terms-of-service/).
 
@@ -9,11 +9,11 @@ We neither sell your information to third parties nor share your information wit
 
 We recognize that information privacy is an ongoing responsibility, and so we will from time to time update this Privacy Policy as we undertake new privacy practices or adopt new privacy policies.
 
-1. **Information We Collect**
+**Information We Collect**
 
 “Personal Information” is information that identifies, relates to, describes, or can be reasonably linked to, directly or indirectly, a particular individual or household. We may collect Personal Information (as we have done in the past) from you on or through the Services in a variety of ways, including when you register on the Services, sign up for communications, or make any purchases. We also may, from time to time, use Personal Information about you to improve the Services, and for the various purposes outlined in this Privacy Policy.
 
-1. Information You Provide to Us.
+Information You Provide to Us.
 
 **Registration and Profile Information.** When you sign up for an account or update your profile information, we collect Personal Information you provide to us such as your name, email address, phone number, display name, profile photo, preferred language, date of birth, and any Personal Information you voluntarily provide in your profile biography, including gender and location. **Note: either an email address or phone number is required for registration purposes, and both are recommended for account security and ease in recovery.**
 
@@ -25,7 +25,7 @@ We recognize that information privacy is an ongoing responsibility, and so we wi
 
 **Your Contacts.** If you permit us to access the address book on your device or give us permission to import your contacts from an email account associated with your account, we may access and store names and contact information, including Personal Information, from your address book, to help you follow your contacts, and your contacts to follow you.
 
-1. Information We Collect When You Use Our Services.
+Information We Collect When You Use Our Services.
 
 We may collect information that may not reasonably identify you or your household personally but is linked to your computer or device (“Device Identifiable Information”). We collect Device Identifiable Information from you in the normal course of providing the Services. When you visit our Services to browse, read, or download information, we automatically collect information about your computer that your browser sends, such as your IP address, browser type and language, access times, pages visited, and referring website addresses. We may use Device Identifiable Information to analyze trends, help administer and improve the Services, to learn about and determine which pages of the Websites visitors view and for how long, how visitors navigate throughout the Services, and to gather broad demographic information for aggregate use. We may also collect Device Identifiable Information through “cookies” or “web beacons” as explained below.
 
@@ -39,7 +39,7 @@ Cookies operate in the background, and you can turn them off by adjusting your W
 
 For more information on your choices regarding cookies, you can review the FTC’s guide to opting out of online tracking for computers and mobile devices. Your browser and our Services may offer you a “Do Not Track” option, which allows you to signal to operators of websites and web applications and services that you do not want them to track your online activities.
 
-1. **How We Use the Information We Collect**
+**How We Use the Information We Collect**
 
 We may use the Personal Information we collect:
 
@@ -62,7 +62,7 @@ We may use the Personal Information we collect:
 
 We will not collect additional categories of Personal Information or use the Personal Information we collected for materially different, unrelated, or incompatible purposes without updating this Privacy Policy to provide you with notice as set out in Section 11 “**Changes to the Privacy Policy**” below.
 
-1. **How We Share the Information We Collect**
+**How We Share the Information We Collect**
 
 **Vendors and Service Providers.** We may share any Personal Information we receive with vendors and service providers retained in connection with the provision of our Services.
 
@@ -76,7 +76,7 @@ We will not collect additional categories of Personal Information or use the Per
 
 **Consent.** We may also disclose your Personal Information with your permission.
 
-1. **Your Choices**
+**Your Choices**
 
 **Sharing Preferences.** We provide you with settings to allow you to set your sharing preferences for content you post to our Services. Certain Personal Information, such as your display name, may always be publicly available to others, and other Personal Information is made publicly available to others by default. To change whether certain information is publicly viewable, you can adjust the settings in your account.
 
@@ -94,105 +94,117 @@ Note: Even if you opt-out of receiving promotional messages from us, you will co
 
 **Additional Privacy Rights.** In addition, State and European Economic Area consumer privacy laws may provide their residents with additional rights regarding our use of their personal information. Please see Sections 12 and 14 below for additional information.
 
-1. **Third Party Links and Sites**
+**Third Party Links and Sites**
 
 Our Services may contain links to other websites, products, or services that we do not own or operate. We are not responsible for the privacy practices of these third parties. Please be aware that this Privacy Policy does not apply to your activities on these third-party services or any information you disclose to these third parties. We encourage you to read their privacy policies before providing any information to them.
 
 For example, any information you share with Google as a consequence of sharing or interacting with YouTube content on Parler is governed by [Google’s privacy policy](http://www.google.com/policies/privacy). Google now provides users some control over the collection of data by its users and API Clients like Parler; [follow this link](https://myaccount.google.com/permissions) for more information on revoking an API client’s access to your data. Exercising such control may require having a Google account, which itself may be a privacy concern for some of our members. Therefore, members are encouraged to use Parler’s own native video capabilities (or the capabilities of other platforms equally respectful of member privacy) if they wish to avoid sharing data with Google. (A similar disclaimer applies to Rumble, an emerging competitor of Google- YouTube. When in doubt, consult the privacy policy of the entity responsible for facilitating the display of content on our Services, before choosing to interact with it, so you can make an informed decision about your privacy.)
 
-1. **Security**
+**Security**
 
 We make reasonable efforts to protect your Personal Information by using physical and electronic safeguards designed to improve the security of the Personal Information we maintain. However, no method of transmission or storage of data is 100% secure and we will not be responsible for any damage that results from a security breach of data or the unauthorized access to or use of information, whether Personal Information or Device Identifiable Information. To the extent we provide your Personal Information to any third parties, we will request that they use reasonable security measures to protect your information.
 
-1. **Children’s Data**
+**Children’s Data**
 
 We do not knowingly collect, maintain, or use Personal Information from children under 18 years of age, and no part of our Services is directed to children. If you learn that a child has provided us with Personal Information in violation of this Privacy Policy, then you may alert us at [support@Parler.com](mailto:support@parler.com) and we will delete such information.
 
-1. **International Transfers of Data**
+**International Transfers of Data**
 
 Our Services are hosted in the United States and intended for visitors located within the United States. If you choose to use our Services from the European Union or other regions of the world with laws governing data collection and use that may differ from U.S. law, then please note that you are transferring your Personal Information outside of those regions to the United States for storage and processing. By providing any information, including Personal Information, on or to our Services, you consent to such transfer, storage, and processing.
 
-1. **Update or Delete Your Information**
+**Update or Delete Your Information**
 
 You can update your account and profile information through your account settings. You can delete your account by selecting that option via your account settings.
 
-1. **Data Retention**
+**Data Retention**
 
 We will retain your personal data only for as long as is necessary for the purposes set out in this privacy policy. We will retain and use your information to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
 
 We will also retain usage data for internal analysis purposes. Usage data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our service, or we are legally obligated to retain this data for longer time periods.
 
-1. **Changes to the Privacy Policy**
+**Changes to the Privacy Policy**
 
 We will post any adjustments to the Privacy Policy on this page, and the revised version will be effective when it is posted. If we materially change the ways in which we use or share Personal Information previously collected from you through our Services, we will notify you through our Services, by email, or other communication. **Your continued use of our Services following our posting or notifying you of changes constitutes your acceptance of such changes.**
 
-1. **Additional Rights in Your State**
+**Additional Rights in Your State**
 
-State consumer privacy laws may provide you with additional rights regarding our use of your Personal Information. California, Colorado, Connecticut, Delaware, Florida, Indiana, Iowa, Montana, Oregon, Tennessee, Texas, Utah, and Virginia provide (now or in the future) their state residents with certain rights. Note that Personal Information does not include publicly available information from government records, deidentified or aggregated consumer information, or information excluded from the scope of consumer privacy laws. Certain state legislation, including the California Consumer Privacy Act of 2018 (“CCPA”) protects various categories of Personal Information. For your convenience, we have provided the following chart summarizing the categories of Personal Information protected under the CCPA and what categories we collect as another way of covering the information set forth in Section 1 “**Information We Collect**”:
+State consumer privacy laws may provide you with additional rights regarding our use of your Personal Information.
+
+**California, Colorado, Connecticut, Delaware, Florida, Indiana, Iowa, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Tennessee, Texas, Utah, and Virginia.**
+
+* Know what personal data is collected;
+* Access and obtain a copy of their personal data;
+* Correct inaccuracies in personal data;
+* Delete personal data;
+* Opt out of the sale or sharing of personal data;
+* Opt out of targeted advertising and profiling;
+* Appeal decisions related to these rights.
+
+Note that Personal Information does not include publicly available information from government records, deidentified or aggregated consumer information, or information excluded from the scope of consumer privacy laws. Certain state legislation, including the California Consumer Privacy Act of 2018 (“CCPA”) protects various categories of Personal Information. For your convenience, we have provided the following chart summarizing the categories of Personal Information protected under the CCPA and what categories we collect as another way of covering the information set forth in Section 1 “**Information We Collect**”:
 
 **Categories of Personal Information and Collection Practices**
 
-1. **Identifiers**
+**Identifiers**
 
 This includes items such as a real name, alias, postal address, unique personal identifier, online identifier, Internet Protocol (IP) address, email address, account name, Social Security number, driver’s license number, passport number, or other similar identifiers.
 
 Some of these items are collected. More details can be found in Section 1, “Information We Collect.”
 
-1. **Personal Information Categories Listed in the California Customer Records Statute (Cal. Civ. Code § 1798.80(e))**
+**Personal Information Categories Listed in the California Customer Records Statute (Cal. Civ. Code § 1798.80(e))**
 
 This category covers a name, signature, Social Security number, physical characteristics or description, address, telephone number, passport number, driver’s license or state identification card number, insurance policy number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information, medical information, or health insurance information. Some of this information may overlap with other categories.
 
 Some of these items are collected. See Section 1, “Information We Collect,” for more details.
 
-1. **Protected Classification Characteristics Under California or Federal Law**
+**Protected Classification Characteristics Under California or Federal Law**
 
 These characteristics include age (40 years or older), race, color, ancestry, national origin, citizenship, religion or creed, marital status, medical condition, physical or mental disability, sex (including gender, gender identity, gender expression, pregnancy or childbirth and related conditions), sexual orientation, veteran or military status, and genetic information (including familial genetic information).
 
 Only age is required at registration to verify minimum age and understand user demographics. Other characteristics are collected only if provided voluntarily in verification processes or user-generated content (such as uploading images or videos or including details in a bio). This data is not analyzed, except for sex, which is used in aggregate for demographic purposes.
 
-1. **Commercial Information**
+**Commercial Information**
 
 This includes records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies.
 
 Only two types of commercial information are collected: (1) the type of device used in connection with the account, and (2) purchases of ads on Parler (if applicable).
 
-1. **Biometric Information**
+**Biometric Information**
 
 This includes genetic, physiological, behavioral, and biological characteristics or activity patterns used to extract templates or other identifying information. Examples include fingerprints, faceprints, voiceprints, iris or retina scans, keystroke patterns, gait, sleep, health, or exercise data.
 
 Collected only if provided in user-generated content (such as images or videos) and only analyzed for legal compliance purposes as outlined in the Guidelines Compliance Process.
 
-1. **Internet or Other Similar Network Activity**
+**Internet or Other Similar Network Activity**
 
 This includes browsing history, search history, and information regarding interactions with websites, applications, or advertisements.
 
 More details on what is collected and how it is used can be found in Section 1(B).
 
-1. **Geolocation Data**
+**Geolocation Data**
 
 This includes physical location or movements, for example, inferred from IP address information.
 
 Only coarse location data from IP addresses is collected. “Location” is an optional field that users may provide in their profile.
 
-1. **Sensory Data**
+**Sensory Data**
 
 This category covers audio, electronic, visual, thermal, olfactory, or similar information.
 
 Collected only when users use devices to capture audio, photos, or videos as part of user-generated content.
 
-1. **Professional or Employment-Related Information**
+**Professional or Employment-Related Information**
 
 This includes current or past job history or performance evaluations.
 
 Collected only if provided in user-generated content, such as posts, profile bios, or display names. This information is not further analyzed.
 
-1. **Non-Public Education Information (per the Family Educational Rights and Privacy Act - FERPA)**
+**Non-Public Education Information (per the Family Educational Rights and Privacy Act - FERPA)**
 
 This includes education records directly related to a student, such as grades, transcripts, class lists, student schedules, identification codes, financial information, or disciplinary records.
 
 Collected only if provided in user-generated content and not further analyzed.
 
-1. **Inferences Drawn from Other Personal Information**
+**Inferences Drawn from Other Personal Information**
 
 This refers to profiles reflecting a person’s preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes.
 
@@ -200,7 +212,7 @@ This information is not collected.
 
 All of the categories collected above may be provided to third parties as described in Section 3 “**How We Share the Information We Collect**”.
 
-1. Your Rights and Choices
+Your Rights and Choices
 
 Data privacy legislation provides consumers in certain states with specific rights regarding their Personal Information. This section describes your data privacy rights if you are a California resident and explains how to exercise those rights.
 
@@ -274,7 +286,7 @@ We will not discriminate against you for exercising any of your data privacy rig
 
 However, we may offer you certain financial incentives permitted by data privacy legislation that **can result** in different prices, rates, or quality levels. Any legally-permitted financial incentive we offer will reasonably relate to your Personal Information’s value and contain written terms that describe the program’s material aspects. Participation in a financial incentive program requires your prior opt- in consent, which you may revoke at any time.
 
-1. Other State Privacy Rights.
+Other State Privacy Rights.
 
 California’s “Shine the Light” law (Civil Code Section § 1798.83) permits users of our Website who are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. Not all information sharing is covered by the “Shine The Light” requirements and only information on covered sharing may be included in our response. To make such a request, please do so via emailing [support@Parler.com](mailto:support@Parler.com), the in-app feedback form, or write to us at:
 
@@ -332,7 +344,7 @@ You also have the right (where applicable) to withdraw any consent given in rela
 
 Please note that the right to erasure is not absolute and it may not always be possible to erase personal data on request, including for example where the Personal Information must be retained to comply with a legal obligation.
 
-If you are in the EEA, you may lodge a complaint with a supervisory authority that has authority in your country or region. Please see the following website for contact information of the data protection authorities for member countries in the EA: [https://www.edps.europa.eu/data-protection/eu-institutions-dpo/network-dpos\_en](https://www.edps.europa.eu/data-protection/eu-institutions-dpo/network-dpos_en)
+If you are in the EEA, you may lodge a complaint with a supervisory authority that has authority in your country or region. Please see the following website for contact information of the data protection      authorities       for       member           countries         in         the       EEA: [https://www.edps.europa.eu/data-protection/eu-institutions-dpo/network-dpos\_en](https://www.edps.europa.eu/data-protection/eu-institutions-dpo/network-dpos_en)
 
 Parler is the data controller with respect to processing of your Personal Information in connection with the Services.
 
