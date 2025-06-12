@@ -469,7 +469,7 @@ For the following Community Standards, we require additional information and/or 
     * Involving fraud/scam that have been reported by a trusted entity.
     * Related to bribery or embezzlement.
     * That offers vaccines in an attempt to scam or defraud users.
-    * That attempts to establish a fake persona or to pretend to be a famous person in an attempt to scam or defraud.
+    * That attempts to establish a fake persona, pretends to be a famous person, or makes unauthorized use of an image of a famous person in an attempt to scam or defraud.
     * That offers or asks for products or services designed to facilitate the surreptitious viewing or recording of individuals, e.g., spy cams, mobile phone trackers (including those that allow tracing unknown phone numbers), or other hidden surveillance equipment.
     * That offers litigant recruitment opportunities for people to participate in class action lawsuits by impersonating a government entity or a news outlet, by using sensationalist language, or by using exaggerated claims.
     * That offers subscription services that prompt users to enter Personal Information.
