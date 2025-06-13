@@ -953,7 +953,7 @@ NOT ALLOWED
 * A public figure who is:
 
 * being degraded or harassed, or engaging in criminal or anti-social behavior
-* taking a position on a political issue, commercial product, or a matter of public importance (such as an elections)
+* taking a position on a political issue, commercial product, or a matter of public importance (such as an election)
 * being politically endorsed or condemned by an individual or group
 
 ![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/0ae02df244ba4f7da192f9fdb9e82623~tplv-m3rm1y8daf-default:0:0:q75.image)![](//p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/6b8159bbed9142c3b4ef31b4abd48c15~tplv-m3rm1y8daf-default:0:0:q75.image)
