@@ -1124,12 +1124,12 @@ Alternate versions of Adults Only titles with an ESRB rating of Mature or lower 
 
 Game reviews are conducted following reports from the community. If the game is unrated by the ESRB and a wholly-comparable rated title cannot be found, the moderation team determines whether the game violates our Community Guidelines. Titles may be restricted if they are sufficiently extreme by a single element of the game (e.g. sexual content, violence, intent) or several elements in aggregate violate our policies.  
   
-User accounts broadcasting or uploading content that feature gameplay from these titles can be reported via the user report tool under the option "Prohibited Game." Reported users may receive a strike and a temporary account suspension. In order to discourage sharing this content, all titles on the list are removed from the game selector found on the broadcaster dashboard. Using the mature content flag, setting the broadcast or VOD to one of these titles, a different title, or ‘Not Playing’ does not constitute an exemption from this policy.
+User accounts broadcasting or uploading content that feature gameplay from these titles can be reported via the user report tool under the option "Prohibited Game." Reported users may receive a temporary account suspension. In order to discourage sharing this content, all titles on the list are removed from the game selector found on the broadcaster dashboard. Using the mature content flag, setting the broadcast or VOD to one of these titles, a different title, or ‘Not Playing’ does not constitute an exemption from this policy.
 
 Example Prohibited Games
 ========================
 
-![croppedShield on Ice.png](/servlet/rtaImage?eid=ka06e0000013j1t&feoid=00N3i00000DRo3D&refid=0EM3i000001uK8Q)**Safety Tip:** This list is not exhaustive. We regularly update this list and games may be added or removed if the game's official ESRB rating changes or if the content of an unrated game changes. For more on gaming content restrictions, please read the [Community Guidelines](https://safety.twitch.tv/s/article/Community-Guidelines).
+![croppedShield on Ice.png](/servlet/rtaImage?eid=ka0at000000CmP3&feoid=00N3i00000DRo3D&refid=0EM3i000001uK8Q)**Safety Tip:** This list is not exhaustive. We regularly update this list and games may be added or removed if the game's official ESRB rating changes or if the content of an unrated game changes. For more on gaming content restrictions, please read the [Community Guidelines](https://safety.twitch.tv/s/article/Community-Guidelines).
 
 * 3DXChat
 * All Randomized Video Chat Platforms
@@ -1350,9 +1350,9 @@ In addition to content prohibited by our [Community Guidelines](https://safety.
         * VoHiYo derivatives may not use or appear to use original assets.
         * Kappa and VoHiYo derivatives are not exempt from any other applicable policies.
 
-Severe abuse of emote submissions, including severe policy violations and repeated submissions of content previously rejected or taken down, may result in a penalty on your account. Such actions may include: removal of content, a strike on the account, and/or suspension of account(s).
+Severe abuse of emote submissions, including severe policy violations and repeated submissions of content previously rejected or taken down, may result in a penalty on your account. Such actions may include: removal of content and/or suspension of account(s).
 
-![VoHiYo.png](/servlet/rtaImage?eid=ka03i00000119l1&feoid=00N3i00000DRo3D&refid=0EM3i000001uKfo)**Troubleshooting Tip:** For more information about emote style and formatting requirements, check out our [help article](https://help.twitch.tv/s/article/emote-guidelines#sizeformat).
+![VoHiYo.png](/servlet/rtaImage?eid=ka0at000000CmDl&feoid=00N3i00000DRo3D&refid=0EM3i000001uKfo)**Troubleshooting Tip:** For more information about emote style and formatting requirements, check out our [help article](https://help.twitch.tv/s/article/emote-guidelines#sizeformat).
 
 Respect Intellectual and Artistic Property Rights
 =================================================
