@@ -149,7 +149,18 @@ _Summary: The following standard legal provisions are included to permit the Ter
 
 36. **Contact Information.** If you have any questions about these Terms or Bluesky Social, please contact Bluesky at support@bsky.app.
 
-Competent authorities of the EU and EU Member States that want to contact Bluesky under the Digital Services Act can obtain the necessary contact details from AWO Belgium (AWO), Bluesky's representative pursuant to Article 13 of the Digital Services Act, registered at Square de Meeus 35, 1000 Brussels, Belgium. AWO can be contacted by email at dsa.bluesky@awo.agency, by phone at + 32 2 882 71 88, or by post. Requests can be accepted in English or French. If you are not a competent EU or EU member authority, your request will not be processed and you will not get a response.
+Competent authorities of the EU and EU Member States that want to contact Bluesky under the Digital Services Act can obtain the necessary contact details from
+
+VeraSafe Ireland Ltd. (registration number 619028)  
+Unit 3D North Point House  
+North Point Business Park  
+New Mallow Road  
+Cork T23AT2P  
+Ireland  
+Telephone: +420 228 881 031  
+Email: [dsa.rep.bluesky@verasafe.com](mailto:dsa.rep.bluesky@verasafe.com)
+
+Requests are accepted in English. Competent EU or EU member authorities may file requests by following the instructions [here](https://bsky.social/about/support). If you are not a competent EU or EU member authority, your request will not be processed and you will not get a response.
 
 Zustellungsbevollmächtigter ausschließlich für Gerichtsverfahren vor deutschen Gerichten im Sinne des § 5 Netzwerkdurchsetzungsgesetz (NetzDG):
 
@@ -157,6 +168,6 @@ Gleiss Lutz Hootz Hirsch PartmbB Rechtsanwälte, Steuerberater
 – NetzDG-Zustellungen –  
 Washingtonplatz 3  
 10557 Berlin  
-Deutschland
+Deutschland  
 
 **Wichtig**: Andere Dokumente (wie z.B. Schreiben von Nutzern) können dort nicht zugestellt werden und werden nicht bearbeitet.
