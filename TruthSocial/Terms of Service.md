@@ -471,6 +471,8 @@ You hereby waive any rights or requirements under any statutes, regulations, rul
 
 All fees and charges are non-refundable, including for unused portions of cancelled subscriptions. Subscriptions will be charged automatically, at the frequency (monthly or yearly) specified when you subscribe. We reserve the right to change the pricing of all Services at any time. In the event of a price change, we will post the new pricing on the relevant Service and attempt to notify you by sending an email to the address you have registered. We may offer promotional periods to fee-based subscriptions or services for free or at special discounted prices. Unless otherwise stated, these promotional periods will automatically become paying subscriptions at the posted subscription rate if you do not cancel before the end of the trial period.
 
+Applicable federal, state and local taxes will apply to subscriptions (both monthly and annual). We will not be able to notify you of any changes in applicable taxes. You are responsible for all third-party Internet access charges and taxes in connection with your use of the Services. Please check with your Internet provider for information on possible Internet data usage charges.
+
 31\. CALIFORNIA USERS AND RESIDENTS
 -----------------------------------
 
