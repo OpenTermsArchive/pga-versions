@@ -3,7 +3,7 @@ Platform Policies
 
 Official Quora Account
 
-* 2025-03-14T13:17:34Z
+* 2025-06-23T11:16:36Z
 
 Quora is a place that empowers people to share and grow the world's knowledge. In order to provide everyone with a safe and authentic experience using Quora, the following types of content and behaviors are prohibited:
 
@@ -15,6 +15,7 @@ Spam negatively impacts interaction on the platform, reduces trust, and inhibits
 * Selling weapons or controlled substances
 * Promoting illegal streaming links or websites, get-rich-quick schemes, miraculous improvements such as rapid weight loss programs, scams like advance-fee scams, unofficial password or account recovery services, or hacking services
 * Coordinated inauthentic activity, such as vote manipulation
+* Promoting products or services that artificially manipulate engagement metrics, such as selling accounts, followers, likes, or reviews
 * Posting deceptive or malicious links on Quora, including ones that mimic Quora UI that direct users to unexpected websites
 * Posting the same content repeatedly, or sending the same messages repeatedly
 * Doing any of the following for the purpose of driving traffic to an external site or for monetary gain:
@@ -179,7 +180,7 @@ Spaces Policies
 
 Official Quora Account
 
-* 2025-03-14T13:17:56Z
+* 2025-06-23T11:16:40Z
 
 On Quora, people share questions, answers, and other content to collectively build knowledge and community within a Space. Quora generally moderates items within Spaces at a content-level, however, repeated or serious violations may result in the removal of the entire Space. Note that Space admins may decide to set more restrictive policies for individual Spaces that they manage. Below are the following policies for Quora Spaces:
 
@@ -302,6 +303,7 @@ Spam negatively impacts interaction on the platform, reduces trust, and inhibits
 * Selling weapons or controlled substances
 * Promoting illegal streaming links or websites, get-rich-quick schemes, miraculous improvements such as rapid weight loss programs, scams like advance-fee scams, unofficial password or account recovery services, or hacking services
 * Coordinated inauthentic activity, such as vote manipulation
+* Promoting products or services that artificially manipulate engagement metrics, such as selling accounts, followers, likes, or reviews
 * Posting deceptive or malicious links on Quora, including ones that mimic Quora UI that direct users to unexpected websites
 * Posting the same content repeatedly, or sending the same messages repeatedly
 * Doing any of the following for the purpose of driving traffic to an external site or for monetary gain:
@@ -464,7 +466,7 @@ What is Quora's policy on plagiarism and attribution?
 
 Official Quora Account
 
-* 2024-07-17T10:51:49Z
+* 2025-06-23T11:17:34Z
 
 Answers and posts that copy or paraphrase content from other sources should:
 
@@ -473,7 +475,7 @@ Answers and posts that copy or paraphrase content from other sources should:
 
 Quora's strong preference is for people to use blockquote formatting for long excerpts. If you are republishing your own content from another site, you may omit blockquote formatting and cite the original publication at the end of your answer/post.  
    
-Answers and posts that plagiarize content from other sources will be collapsed. Note that repeatedly posting the same answer to multiple questions will be considered spam, particularly if the answer isn't customized for each question. To learn more about Quora's spam policy, click [here](https://help.quora.com/hc/en-us/articles/360000470706-Platform-Policies). 
+Answers and posts that plagiarize content from other sources will be deleted. Note that repeatedly posting the same answer to multiple questions will be considered spam, particularly if the answer isn't customized for each question. To learn more about Quora's spam policy, click [here](https://help.quora.com/hc/en-us/articles/360000470706-Platform-Policies#h_01GFWFE6ZDSXXP7K9SXF1P0QYJ). 
 
 **Other content**  
 Topic and Space descriptions, as well as other community-editable descriptions on Quora, should be predominantly original and should not copy-and-paste from other sites (e.g., Wikipedia).  
