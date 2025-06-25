@@ -568,7 +568,10 @@ To protect minors on YouTube, content that doesn’t violate our policies but de
 * Posts
 * Shorts Video remixing
 
-Note that we may also apply stricter display standards to comments, posts, and live chat messages on channels owned by minors or associated with content depicting or uploaded by minors.
+**Note:**
+
+* We may also apply stricter display standards to comments, posts, and live chat messages on channels owned by minors or associated with content depicting or uploaded by minors.
+* Live streams with minors under 16 who are not visibly accompanied by an adult may be removed or have their live chat disabled. Channels not in compliance with this policy may temporarily or permanently lose their ability to live stream or access to other features. 
 
 **How to protect minors in your content**
 
@@ -1118,24 +1121,24 @@ This content isn't allowed on YouTube:
 
 #### Harmful or dangerous acts, challenges, and pranks
 
-* **Extremely dangerous challenges**: Challenges that pose an imminent risk of physical injury.
-* **Dangerous or threatening pranks**: Pranks that lead victims to fear imminent serious physical danger, or that create serious emotional distress in minors.
-* **Harmful or dangerous acts**: Acts performed by adults that have a risk of serious harm or death.
-* **Minors participating in dangerous activities**: Content that endangers the emotional and physical well-being of minors. For more info, review our [Child safety policy](https://support.google.com/youtube/answer/2801999).
+* **Extremely dangerous challenges:** Challenges that pose an imminent risk of physical injury.
+* **Dangerous or threatening pranks:** Pranks that lead victims to fear imminent serious physical danger, or that create serious emotional distress in minors or vulnerable individuals.
+* **Harmful or dangerous acts:** Acts performed by adults that have a risk of serious harm or death.
+* **Minors participating in dangerous activities:** Content that endangers the emotional and physical well-being of minors. For more info, review our [Child safety policy](https://support.google.com/youtube/answer/2801999).
 
 #### Weapons content
 
-* **Instructions to kill or harm**: Instructions that show or tell viewers how to perform activities that are meant to kill or severely harm others.
-* **Explosives**: Giving instructions to make explosive devices or compounds meant to injure or kill others.
-* **Firearms**: For more info, review our [Firearms policy](https://support.google.com/youtube/answer/7667605).
+* **Instructions to kill or harm:** Instructions that show or tell viewers how to perform activities that are meant to kill or severely harm others.
+* **Explosives:** Giving instructions to make explosive devices or compounds meant to injure or kill others.
+* **Firearms:** For more info, review our [Firearms policy](https://support.google.com/youtube/answer/7667605).
 
 #### Digital security content
 
-* **Instructional theft**: Instructional theft videos posted with the express intent to steal physical goods or get something for free.
-* **Hacking**: Demonstrating how to use computers or information technology with the intent to steal credentials, compromise personal data, or cause serious harm to others.
-* **Bypassing payment for digital content or services**: Content that shows viewers how to get unauthorized access to content, software, or services that usually require payment.
-* **Phishing**: Content that tries to get or gives instructions for how to get nonpublic personal identifying information from viewers by deceiving them.
-    * **Cryptophishing**: Requests for cryptocurrency or cryptocurrency-related wallet details as a part of a phishing scheme.
+* **Instructional theft:** Instructional theft videos posted with the express intent to steal physical goods or get something for free.
+* **Hacking:** Demonstrating how to use computers or information technology with the intent to steal credentials, compromise personal data, or cause serious harm to others.
+* **Bypassing payment for digital content or services:** Content that shows viewers how to get unauthorized access to content, software, or services that usually require payment.
+* **Phishing:** Content that tries to get or gives instructions for how to get nonpublic personal identifying information from viewers by deceiving them.
+    * **Cryptophishing:** Requests for cryptocurrency or cryptocurrency-related wallet details as a part of a phishing scheme.
 
 [Learn more about our spam, deceptive practices, and scams policies](https://support.google.com/youtube/answer/2801973).
 
@@ -1154,64 +1157,64 @@ Here are some examples of harmful or dangerous content that isn’t allowed on Y
 Extremely dangerous challenges
 ------------------------------
 
-* **Asphyxiation**: Any activity that prevents breathing or can lead to suffocation. Examples include:
+* **Asphyxiation:** Any activity that prevents breathing or can lead to suffocation. Examples include:
     * Choking, drowning, or hanging games
     * Eating non-food items
-* **Misuse of weapons**: Using weapons, like guns or knives, without proper safety precautions or in a way that could cause physical harm.
-* **Ingesting harmful substances**: Eating, consuming, or inserting non-food objects or chemicals that may cause illness or poisoning. Examples include detergent-eating challenges.
-* **Burning, freezing, and electrocution**: Activities with a serious risk of severe burns, freezing, frostbite, or electrocution. Examples include the fire challenge and the hot water challenge.
-* **Mutilation and blunt force trauma**: Examples include:
+* **Misuse of weapons:** Using weapons, like guns or knives, without proper safety precautions or in a way that could cause physical harm.
+* **Ingesting harmful substances:** Eating, consuming, or inserting non-food objects or chemicals that may cause illness or poisoning. Examples include detergent-eating challenges.
+* **Burning, freezing, and electrocution:** Activities with a serious risk of severe burns, freezing, frostbite, or electrocution. Examples include the fire challenge and the hot water challenge.
+* **Mutilation and blunt force trauma:** Examples include:
     * Self-mutilation
     * Abstaining from normal health practices
     * Falling, impalement, collision, blunt force trauma, or crushing
 
-**Note:** We may age-restrict content that has [educational or documentary context](https://support.google.com/youtube/answer/6345162).
+**Note:** We may age-restrict content that has [educational or documentary context](https://support.google.com/youtube/answer/6345162).
 
 Dangerous or threatening pranks
 -------------------------------
 
-* **Intentional physical harm**: Inflicting physical harm on unsuspecting prank victims. Examples include:
+* **Intentional physical harm:** Inflicting physical harm on unsuspecting prank victims. Examples include:
     * Punching attacks
     * Drugging food or drinks with laxatives
     * Electrocution pranks
-* **Making someone feel like they’re in immediate danger**: Tricking others into believing they're in real danger, even if no physical harm comes to them. Examples include:
+* **Making someone feel like they’re at a high risk of danger:** Tricking others into believing they're in real danger, even if no physical harm comes to them. Examples include:
     * Threats with weapons
     * Bomb scares
     * Swatting or fake 911 calls
     * Fake home invasions or robberies
     * Fake kidnapping
-* **Emotional distress to minors/vulnerable individuals**: Any prank that causes emotional distress, or fear of a threat to physical safety, to children or others who are vulnerable. Examples include:
+* **Emotional distress to minors/vulnerable individuals:** Any prank that causes emotional distress, or fear of a threat to physical safety, to children or others who are vulnerable. Examples include:
     * Fake death or suicide
     * Fake violence
     * Pretending that a parent or caregiver will abandon a child
-    * Showing a parent or caregiver verbally abuse or shame a child
+    * Showing a parent or caregiver verbally abuse or shame a child
 
-**Note:** We may age-restrict prank content that involves adults and that doesn't violate our policies.
+**Note:** We may age-restrict prank content that involves adults and that doesn't violate our policies. We may also approve content that has educational or documentary context.
 
 Harmful or dangerous acts
 -------------------------
 
-* **Risking serious harm or death**: Behavior that shows adults risking serious bodily harm or death, particularly if someone watching could imitate the dangerous act or if the content encourages or praises the dangerous act. Dangerous acts include, but are not limited to, any act in the categories listed under [Extremely Dangerous challenges](#dangerous_challenges) above, such as acts that risk asphyxiation or electrocution.
+* **Risking serious harm or death:** Behavior that shows adults risking serious bodily harm or death, particularly if someone watching could imitate the dangerous act or if the content encourages or praises the dangerous act. Dangerous acts include, but are not limited to, any act in the categories listed under [Extremely Dangerous challenges](#dangerous_challenges) above, such as acts that risk asphyxiation or electrocution.
     * We also don’t allow content showing dangerous acts by minors. This includes content that shows minors:
         * Drinking alcohol
         * Using vaporizers, e-cigarettes, tobacco, or marijuana
         * Misusing fireworks
         * Using firearms unsupervised
-* **Extremely dangerous driving**: Using a motor vehicle in a way that presents imminent risk of serious injury or death to the driver or others. Examples include:
+* **Extremely dangerous driving:** Using a motor vehicle in a way that presents imminent risk of serious injury or death to the driver or others. Examples include:
     * Cell phone footage of a motorcyclist deliberately veering into oncoming traffic at high speeds. A voiceover reacts saying “Wow, that was crazy!”
     * Driving a car at a high speed along a walkway meant for pedestrians.
 
 Instructions to harm
 --------------------
 
-* **Bomb-making**: Showing viewers how to build a bomb meant to injure or kill others. Examples include:
+* **Bomb-making:** Showing viewers how to build a bomb meant to injure or kill others. Examples include:
     * Pipe bombs
     * Package bombs
     * Explosive vests
     * Molotov cocktails
-* **Violence involving children**: Any real fights or violence between children. For more info, review our [Child Safety policy](https://support.google.com/youtube/answer/2801999).
+* **Violence involving children:** Any real fights or violence between children. For more info, review our [Child Safety policy](https://support.google.com/youtube/answer/2801999).
 
-**Note:** We may age-restrict content that has [documentary or educational context](https://support.google.com/youtube/answer/6345162).
+**Note:** We may age-restrict content that has [documentary or educational context](https://support.google.com/youtube/answer/6345162).
 
 Age-restricted content
 ----------------------
