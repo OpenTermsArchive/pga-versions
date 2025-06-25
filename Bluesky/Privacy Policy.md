@@ -190,6 +190,7 @@ The types of personal information we collect depend on how you interact with us,
     We keep the personal information we collect for as long as you use the Bluesky App Services, or as necessary to fulfill the purpose(s) for which we collected it. There are also other reasons why we may keep personal information. They may include, but are not limited to, providing the Bluesky App, resolving disputes, establishing legal defenses, conducting audits, pursuing legitimate business purposes, enforcing our agreements, and complying with applicable laws. When determining the retention period, we take into account various criteria, such as the type of products and services requested by or provided to you, the nature and length of our relationship with you, the impact on the Bluesky App Services we provide to you if we delete some personal information from or about you, mandatory retention periods provided by law, and any relevant statute of limitations.
     
 15. **SUPPLEMENTAL NOTICE FOR CERTAIN JURISDICTIONS**
+    
     1. **Supplemental Notice for EU/UK GDPR**
         
         This Supplemental Notice for EU/UK GDPR only applies to our processing of personal information that is subject to the EU or UK GDPR. Personal information means any information relating to an identified or identifiable individual. If you do not provide your personal information when requested, you may not be able to use our Bluesky App Services if that personal information is necessary to provide you with our Bluesky App Services or if we are legally required to collect it.
@@ -200,6 +201,9 @@ The types of personal information we collect depend on how you interact with us,
         * **Legitimate Interest**: Bluesky may process your personal information where we or a third party have a legitimate interest, including the purposes in Section 4(B) of this Privacy Notice. We only rely on our or a third party’s legitimate interest to process your personal information where these interests are not overridden by your interests or fundamental rights and freedoms.
         * **Consent**: In some cases, Bluesky may also rely on your consent to process your personal information.
         * **Compliance with our Legal Obligations**: Bluesky may process your personal information to comply with our legal obligations. For example, we may process your personal information to comply with tax, labor, and accounting obligations.
+    
+    If you have any specific question about how Bluesky complies with GDPR requirements or uses your personal data, you can contact our Data Protection Officer at Ametros Group Ltd, Lakeside Offices, Thorn Business Park, Rotherwas Industrial Estate, Hereford, Herefordshire, HR2 6JT, [dpo@ametrosgroup.com](mailto:dpo@ametrosgroup.com).
+    
 16. **SECURITY**
     
     We make reasonable efforts to protect your information by using physical and electronic safeguards designed to improve the security of the information we maintain. However, as our Services are hosted electronically, we can make no guarantees as to the security or privacy of your information.
