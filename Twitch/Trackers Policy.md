@@ -1,7 +1,4 @@
-Cookie Notice
-=============
-
-Last modified on 02/09/2021 [See prior versions of Cookie Notice](https://www.twitch.tv/en/legal/cookie-notice/archive)
+Last modified on 02/09/2021 [See prior versions of](https://www.twitch.tv/en/legal//archive)
 
 **Cookie Notice**
 -----------------
