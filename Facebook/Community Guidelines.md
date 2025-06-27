@@ -336,7 +336,7 @@ We Remove:
 
 **Harm against property**
 
-* Coordinating, threatening, supporting or admitting to vandalism, theft or malicious hacking (in written, visual or verbal form) , except in the context of
+* Coordinating, threatening, supporting or admitting to vandalism or theft (in written, visual or verbal form), except in the context of
 
 * Awareness raising or condemnation,
 * Redemption,
@@ -1498,11 +1498,7 @@ Sadistic remarks are commentary – such as captions or comments – expressing 
 
 We remove
 
-* Sadistic remarks made toward imagery (both videos and still images) that otherwise receives a warning screen under this policy, advising people that the content may be disturbing; unless the imagery depicts acts of self-defense (e.g., video of someone defending themselves from armed robbery) or is in a medical context (e.g., an image of medical professionals performing surgery).
-* Sadistic remarks made towards the following imagery that otherwise receives a warning screen under this policy advising people it may be sensitive:
-    * Imagery depicting a person’s violent death or life threatening event when the act of violence is committed by uniformed personnel performing a police function;
-    * Imagery depicting acts of brutality (e.g., acts of violence or lethal threats on forcibly restrained subjects) by uniformed personnel performing a police function;
-    * Imagery depicting fetuses and babies outside of the womb that are deceased;
+* Sadistic remarks made toward imagery (both videos and still images) that otherwise receives a warning screen under this policy, advising people that the content may be sensitive; unless the imagery depicts acts of self-defense (e.g., video of someone defending themselves from armed robbery) or is in a medical context (e.g., an image of medical professionals performing surgery).
 * Explicit sadistic remarks made towards the suffering of animals depicted in imagery, and imagery depicting animals going from live to dead.
 * Offering or soliciting imagery that is deleted or receives a warning screen under this policy, when accompanied by sadistic remarks.
 
@@ -1543,14 +1539,6 @@ Any imagery of animals, living or dead, – depicting dismemberment, visible inn
 Imagery of animals going from live to dead.
 
 Imagery of humans committing acts of brutality on living animals (e.g. kicking, drowning, or plucking feathers).
-
-For the following content, we include a label so that people are aware the content may be sensitive:
-
-**Imagery of people**
-
-Imagery depicting a person’s violent death or life threatening event when the act of violence is committed by uniformed personnel performing a police function.
-
-Imagery depicting acts of brutality (e.g., acts of violence or lethal threats on forcibly restrained subjects) by uniformed personnel performing a police function.
 
 For the following content, we limit the ability to view it to users who are 18 and older:
 
@@ -1627,7 +1615,7 @@ Policy Rationale
 
 We restrict the display of nudity or sexual activity because some people in our community may be sensitive to this type of content, particularly due to cultural background or age.
 
-We understand that nudity can be shared for a variety of reasons, including as a form of protest, to raise awareness about a cause or for educational or medical reasons. Where appropriate and such intent is clear, we make allowances for the content. For example, while we restrict some images of female breasts that include the nipple, we allow other images, including those depicting acts of protest, women actively engaged in breast-feeding and photos of post-mastectomy scarring (sometimes labeled with a sensitive warning screen). We also allow real world art that depicts nudity such as photographs of paintings, sculptures, etc (sometimes labeled with a sensitive warning screen and age-based restrictions). We default to removing sexual imagery to prevent the sharing of non-consensual or underage content.
+We understand that nudity can be shared for a variety of reasons, including as a form of protest, to raise awareness about a cause or for educational or medical reasons. Where appropriate and such intent is clear, we make allowances for the content. For example, while we restrict some images of female breasts that include the nipple, we allow other images, including those depicting acts of protest, women actively engaged in breast-feeding and photos of post-mastectomy scarring (sometimes labeled with a sensitive warning screen and age-based restrictions). We also allow real world art that depicts nudity such as photographs of paintings, sculptures, etc (sometimes labeled with a sensitive warning screen and age-based restrictions). We default to removing sexual imagery to prevent the sharing of non-consensual or underage content.
 
 Under this policy, we remove real photographs and videos of nudity and sexual activity, AI- or computer-generated images of nudity and sexual activity, and digital imagery, regardless of whether it looks “photorealistic” (as in, it looks like a real person). As noted above, we also make careful allowances for real world art and certain medical, educational, and awareness-raising content, and these are detailed in the policy.
 
@@ -1671,6 +1659,7 @@ We do not allow the following content for all users:
         * Bestiality
         * Incest
         * BDSM (bondage and discipline, domination and submission, sadism and masochism), only when sexual indicators are also present
+* Photorealistic imagery of explicit sexual activity or stimulation in a medical or health context
 * Extended audio of sexual activity
 * Note that with some restrictions, we may allow depictions of sexual activity in special contexts, such as medical or health contexts. This is covered in greater detail in the sections below.
 
@@ -1678,6 +1667,7 @@ For the following content, we limit the ability to view the content to users, ag
 
 * Digital imagery and real world art of explicit sexual activity or stimulation in a medical or health context
 * Photorealistic/ digital imagery and real world art of implicit or other sexual activity or stimulation in a medical or health context
+* Photorealistic/digital imagery and real-world art of visible genitalia, visible anuses, close-ups of visible buttocks or visible female nipples in the context of gender confirmation surgery
 * Real world art of visible genitalia (including genitalia covered by digital overlay or obscurement and genitalia obscured by pubic hair only), visible anuses, close-ups of visible buttocks or visible female nipples, where the nudity is the focus of the image and not in a medical or health context
 * Photorealistic/ digital imagery of visible genitalia (including genitalia covered by digital overlay or obscurement and genitalia obscured by pubic hair), close-ups of visible buttocks, visible anuses or visible female nipples, when shared in the context of famine, genocide, war crimes, or crimes against humanity
 
@@ -1914,7 +1904,7 @@ Attempts to share, develop, host, or distribute malicious or harmful code, inclu
     * Greyware, defined as code or software which detracts from the use of hardware or software and may be difficult to remove from a computer system or network.
 
 * Creating, sharing or hosting malicious software including browser extensions and mobile applications, on or off the platform that put our users or products and services at risk.
-* Sharing or advertising software or products that enable people to circumvent security systems, including software that encourages hacking of software, passwords, or credentials
+* Threatening, admitting to, or enabling hacking - Including by sharing or advertising software, courses, or products that enable people to circumvent security systems, including software that encourages hacking of software or credentials
 * Providing online infrastructure, including web hosting services, domain name system servers and ad networks that enables abusive links such that a majority of those links on our services violate the spam or cybersecurity sections of the Community Standards.
 
 Read lessRead more
