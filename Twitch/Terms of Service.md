@@ -1,7 +1,4 @@
-Terms of Service
-================
-
-Last modified on 04/02/2025 [See prior versions of Terms of Service](https://www.twitch.tv/en/legal/terms-of-service/archive)
+Last modified on 04/02/2025 [See prior versions of](https://www.twitch.tv/en/legal//archive)
 
 1\. Introduction; Your Agreement to these Terms of Service
 ----------------------------------------------------------
