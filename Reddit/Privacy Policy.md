@@ -3,7 +3,9 @@ Reddit Privacy Policy
 
 Effective: June 28, 2025. Last Revised: May 29, 2025.
 
-false
+We have updated our Privacy Policy. Please take a look before the changes go into effect on June 28, 2025.
+
+This page is the updated Privacy Policy; for the version effective until June 28, 2025 click [here](https://www.redditinc.com/policies/privacy-policy-revision-2024-08-16).
 
 Introduction
 ------------
