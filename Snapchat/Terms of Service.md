@@ -1,5 +1,3 @@
-* * *
-
 Secondary Navigation
 
 * Snap Terms of Service
@@ -67,8 +65,6 @@ Snap Terms of Service
 
 
 -------------------------
-
-* * *
 
 Snap Inc. Terms of Service
 
@@ -394,8 +390,6 @@ Snap welcomes comments, questions, concerns or suggestions. You can contact us o
 Snap Inc. is located in the United States at 3000 31st Street, Santa Monica, California 90405.  
   
   
-
-* * *
 
 Snap Group Limited Terms of Service
 
