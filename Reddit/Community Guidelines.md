@@ -62,9 +62,7 @@ Reddit is a place for conversation, and in that context, we define this behavior
 
 Being annoying, downvoting, or disagreeing with someone, even strongly, is not harassment. However, menacing someone, directing abuse at a person or group, following them around the site, encouraging others to do any of these actions, or otherwise behaving in a way that would discourage a reasonable person from participating on Reddit crosses the line.
 
-**To report Harassment, please visit [this page](https://www.reddit.com/report).** 
-
-[Prev Why is content being restricted in my country?](https://support.reddithelp.com/hc/en-us/articles/360043507391-Why-is-content-being-restricted-in-my-country "Why is content being restricted in my country?") [Next Don't break the site](https://support.reddithelp.com/hc/en-us/articles/360043512931-Don-t-break-the-site "Don't break the site")
+**To report Harassment, please visit [this page](https://www.reddit.com/report).**
 
 _Rule 1: Remember the human. … Everyone has a right to use Reddit free of harassment, bullying, and threats of violence.  
   
@@ -90,8 +88,6 @@ Note that health misinformation, namely falsifiable health information that enco
 
 [**What do I do if someone talks about seriously hurting themselves or is considering suicide?**](https://www.reddithelp.com/hc/en-us/articles/360043513931-What-do-I-do-if-someone-talks-about-seriously-hurting-themselves-or-is-considering-suicide-) When you see a post or comment about suicidal feelings in a community, it can be overwhelming, and you may feel like you don’t know what to do. But you can help, and there are resources available for you and the person you’re worried about.  Reddit has partnered with [Crisis Text Line](https://www.crisistextline.org/) to provide redditors who may be considering suicide or seriously hurting themselves with support from trained Crisis Counselors.
 
-[Prev Do not impersonate an individual or entity](https://support.reddithelp.com/hc/en-us/articles/360043075032-Do-not-impersonate-an-individual-or-entity "Do not impersonate an individual or entity") [Next How does Reddit fight the dissemination of terrorist content?](https://support.reddithelp.com/hc/en-us/articles/19003525756564-How-does-Reddit-fight-the-dissemination-of-terrorist-content "How does Reddit fight the dissemination of terrorist content?")
-
 _Rule 1: Remember the human. Reddit is a place for creating community and belonging, not for attacking marginalized or vulnerable groups of people. Everyone has a right to use Reddit free of harassment, bullying, and threats of violence. Communities and people that incite violence or that promote hate based on identity or vulnerability will be banned._
 
 Marginalized or vulnerable groups include, but are not limited to, groups based on their actual and perceived race, color, religion, national origin, ethnicity, immigration status, gender, gender identity, sexual orientation, pregnancy, or disability. These include victims of a major violent event and their families. 
@@ -107,9 +103,7 @@ Some examples of hateful activities that would violate the rule:
 * Post promoting harmful tropes or generalizations based on religion (e.g. a certain religious group controls the media, or consists entirely of terrorists). 
 * A comment denying or minimizing the scale of a hate-based violent event. 
 
-Additionally, when evaluating the activity of a community or an individual user, we consider both the context as well as the pattern of behavior. 
-
-[Prev External Links to Firearm or Ammunition Vendors](https://support.reddithelp.com/hc/en-us/articles/360043075712-External-Links-to-Firearm-or-Ammunition-Vendors "External Links to Firearm or Ammunition Vendors") [Next Why can't I see the list of moderators in a community?](https://support.reddithelp.com/hc/en-us/articles/360049499032-Why-can-t-I-see-the-list-of-moderators-in-a-community "Why can't I see the list of moderators in a community?")
+Additionally, when evaluating the activity of a community or an individual user, we consider both the context as well as the pattern of behavior.
 
 Spam on Reddit is generally defined as repeated, unwanted, and/or unsolicited actions, whether automated or manual, that negatively affect Reddit users, Reddit communities, and/or Reddit itself. Spam is a violation of the [Reddit Rules](https://redditinc.com/policies/reddit-rules) and [User Agreement](https://www.reddit.com/help/useragreement), punishable by content removal and temporary or permanent banning of your Reddit account. As spam-like behaviors evolve, Reddit will continue to adjust how we mitigate and prevent the spread of spam content.  
   
@@ -143,8 +137,6 @@ To report spam, please visit [this page](https://www.reddit.com/report).**
 
 Please note: You will receive an auto-response when submitting a spam related report. A human reviews each ticket, but we will only respond when we need more information.
 
-[Prev Content Moderation, Enforcement, and Appeals](https://support.reddithelp.com/hc/en-us/articles/23511059871252-Content-Moderation-Enforcement-and-Appeals "Content Moderation, Enforcement, and Appeals") [Next What constitutes vote cheating or vote manipulation?](https://support.reddithelp.com/hc/en-us/articles/360043066412-What-constitutes-vote-cheating-or-vote-manipulation "What constitutes vote cheating or vote manipulation?")
-
 Vote manipulation is prohibited on Reddit and goes against the rules, whether it is manual, programmatic, or otherwise. Some common forms of vote manipulation include:
 
 * **Using multiple accounts and voting services:** Creating and employing multiple accounts, voting services, or any software to manipulate vote counts by either increasing or decreasing them.
@@ -155,17 +147,13 @@ Engaging in vote cheating or manipulation will result in temporary or permanent 
 
 If you come across instances of vote manipulation that you'd like to report, please visit [this page](https://www.reddit.com/report).
 
-[Prev What constitutes spam? Am I a spammer?](https://support.reddithelp.com/hc/en-us/articles/360043504051-What-constitutes-spam-Am-I-a-spammer "What constitutes spam? Am I a spammer?") [Next Is posting someone's private or personal information okay?](https://support.reddithelp.com/hc/en-us/articles/360043066452-Is-posting-someone-s-private-or-personal-information-okay "Is posting someone's private or personal information okay?")
-
 No. Reddit is quite open and pro-free speech, but it is not okay to post someone's personal information or post links to personal information. This includes links to public Facebook pages and screenshots of Facebook pages with the names still legible.
 
 Posting someone's personal information will get you banned. When posting screenshots, be sure to edit out any personally identifiable information to avoid running afoul of this rule.
 
 Public figures can be an exception to this rule, such as posting professional links to contact a congressman or the CEO of a company. But don't post anything inviting harassment, don't harass, and don't cheer on or upvote obvious vigilantism.
 
-**To report a Personal Information violation, please visit [this page](https://www.reddit.com/report).** 
-
-[Prev What constitutes vote cheating or vote manipulation?](https://support.reddithelp.com/hc/en-us/articles/360043066412-What-constitutes-vote-cheating-or-vote-manipulation "What constitutes vote cheating or vote manipulation?") [Next How old do you need to be to use Reddit?](https://support.reddithelp.com/hc/en-us/articles/360043066492-How-old-do-you-need-to-be-to-use-Reddit "How old do you need to be to use Reddit?")
+**To report a Personal Information violation, please visit [this page](https://www.reddit.com/report).**
 
 Respecting the privacy of others means being mindful of the impact of posting someone’s picture or video. In particular, you can cause serious harm when posting something that was shared in private and wasn’t ever intended to be shared in public. 
 
@@ -188,8 +176,6 @@ Note that the rule does not apply to media distributed commercially with the con
 To report non-consensual intimate media, you can use the inline report feature on the app or website, or you can visit [this page](https://www.reddit.com/report).
 
 If somebody has shared intimate images of you or somebody you know, click [here](https://www.reddithelp.com/hc/en-us/articles/360043513951-What-should-I-do-if-someone-has-shared-or-threatened-to-share-intimate-images-of-me-or-somebody-I-know-) for more information and support.
-
-[Prev Do not share content depicting or promoting neglect, physical, or emotional abuse against minors](https://support.reddithelp.com/hc/en-us/articles/17130615698964-Do-not-share-content-depicting-or-promoting-neglect-physical-or-emotional-abuse-against-minors "Do not share content depicting or promoting neglect, physical, or emotional abuse against minors  ") [Next How does Reddit fight Child Sexual Exploitation?](https://support.reddithelp.com/hc/en-us/articles/10654543840276-How-does-Reddit-fight-Child-Sexual-Exploitation "How does Reddit fight Child Sexual Exploitation?")
 
 Reddit prohibits any sexual or suggestive content, and predatory or inappropriate behavior, involving minors (i.e., people under 18 years old) or someone who appears to be a minor. 
 
@@ -223,13 +209,9 @@ We enforce Rule 4 against a range of harmful content and behaviors. Some of our 
 
 To report sexual or suggestive content or inappropriate behavior involving minors, you can use the in-line report feature on the app or website, or you can visit [this page](https://www.reddit.com/report). You can also submit a report [here](https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=15968767746196) if you don't have a Reddit account.
 
-[Prev How does Reddit fight the dissemination of terrorist content?](https://support.reddithelp.com/hc/en-us/articles/19003525756564-How-does-Reddit-fight-the-dissemination-of-terrorist-content "How does Reddit fight the dissemination of terrorist content?") [Next Do not share content depicting or promoting neglect, physical, or emotional abuse against minors](https://support.reddithelp.com/hc/en-us/articles/17130615698964-Do-not-share-content-depicting-or-promoting-neglect-physical-or-emotional-abuse-against-minors "Do not share content depicting or promoting neglect, physical, or emotional abuse against minors  ")
-
 Reddit does not allow content that impersonates individuals or entities in a misleading or deceptive manner. This not only includes using a Reddit account to impersonate someone, but also encompasses things such as domains that mimic others, as well as deepfakes or other manipulated content presented to mislead, or falsely attributed to an individual or entity. While we permit satire and parody, we will always take into account the context of any particular content. 
 
 **If you are being impersonated, or if you believe you’ve found content in violation of these guidelines, please [report it here](https://www.reddit.com/report).**
-
-[Prev Don't break the site](https://support.reddithelp.com/hc/en-us/articles/360043512931-Don-t-break-the-site "Don't break the site") [Next Do not post violent content](https://support.reddithelp.com/hc/en-us/articles/360043513151-Do-not-post-violent-content "Do not post violent content")
 
 Content is prohibited if it uses Reddit to solicit or facilitate any transaction or gift involving certain goods and services.
 
@@ -245,8 +227,4 @@ You may not use Reddit to solicit or facilitate any transaction or gift involvin
 
 When considering a gift or transaction of goods or services not prohibited by this policy, keep in mind that Reddit is not intended to be used as a marketplace and takes no responsibility for any transactions individual users might decide to undertake in spite of this. Always remember: you are dealing with strangers on the internet.
 
-[Prev How does Reddit fight Child Sexual Exploitation?](https://support.reddithelp.com/hc/en-us/articles/10654543840276-How-does-Reddit-fight-Child-Sexual-Exploitation "How does Reddit fight Child Sexual Exploitation?") [Next External Links to Vendors of Alcohol, Tobacco or Controlled Substances](https://support.reddithelp.com/hc/en-us/articles/360043513691-External-Links-to-Vendors-of-Alcohol-Tobacco-or-Controlled-Substances "External Links to Vendors of Alcohol, Tobacco or Controlled Substances")
-
 Don't break the site or do anything that interferes with normal use of the site. Do not interrupt the serving of Reddit, introduce malicious code onto Reddit, make it difficult for anyone else to use Reddit due to your actions, block sponsored headlines, create programs that violate any of our other API rules, or assist anyone in misusing Reddit in any way.
-
-[Prev Do not threaten, harass, or bully](https://support.reddithelp.com/hc/en-us/articles/360043071072-Do-not-threaten-harass-or-bully "Do not threaten, harass, or bully") [Next Do not impersonate an individual or entity](https://support.reddithelp.com/hc/en-us/articles/360043075032-Do-not-impersonate-an-individual-or-entity "Do not impersonate an individual or entity")
