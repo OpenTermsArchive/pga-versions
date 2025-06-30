@@ -33,7 +33,7 @@ If such acts are discovered through reports, etc., LINE will take appropriate me
 
 Related information
 
-* [Terms and Conditions of Use](https://terms.line.me/line_terms/?lang=en)
+*   [Terms and Conditions of Use](https://terms.line.me/line_terms/?lang=en)
 
 Do not share obscene content
 
@@ -63,7 +63,7 @@ If such acts are discovered through reports, etc., LINE will take appropriate me
 
 Related information
 
-* [Terms and Conditions of Use](https://terms.line.me/line_terms/?lang=en)
+*   [Terms and Conditions of Use](https://terms.line.me/line_terms/?lang=en)
 
 Spamming
 
@@ -91,7 +91,7 @@ If such acts are discovered through reports, etc., LINE will take appropriate me
 
 Related information
 
-* [Terms and Conditions of Use](https://terms.line.me/line_terms/?lang=en)
+*   [Terms and Conditions of Use](https://terms.line.me/line_terms/?lang=en)
 
 Inappropriate commercial use of LINE and LINE Official Account
 
@@ -119,7 +119,7 @@ If such acts are discovered through reports, etc., LINE will take appropriate me
 
 Related information
 
-* [Terms and Conditions of Use](https://terms.line.me/line_terms/?lang=en)
+*   [Terms and Conditions of Use](https://terms.line.me/line_terms/?lang=en)
 
 Acts that cause a disadvantage to LINE
 
@@ -151,7 +151,7 @@ If such acts are discovered through reports, etc., LINE will take appropriate me
 
 Related information
 
-* [Terms and Conditions of Use](https://terms.line.me/line_terms/?lang=en)
+*   [Terms and Conditions of Use](https://terms.line.me/line_terms/?lang=en)
 
 Do not offend others
 
@@ -179,7 +179,7 @@ If such acts are discovered through reports, etc., LINE will take appropriate me
 
 Related information
 
-* [Terms and Conditions of Use](https://terms.line.me/line_terms/?lang=en)
+*   [Terms and Conditions of Use](https://terms.line.me/line_terms/?lang=en)
 
 Illegal acts and acts that promote them
 
@@ -209,7 +209,7 @@ If such acts are discovered through reports, etc., LINE will take appropriate me
 
 Related information
 
-* [Terms and Conditions of Use](https://terms.line.me/line_terms/?lang=en)
+*   [Terms and Conditions of Use](https://terms.line.me/line_terms/?lang=en)
 
 Other prohibitions
 
@@ -233,4 +233,4 @@ If such acts are discovered through reports, etc., LINE will take appropriate me
 
 Related information
 
-* [Terms and Conditions of Use](https://terms.line.me/line_terms/?lang=en)
+*   [Terms and Conditions of Use](https://terms.line.me/line_terms/?lang=en)
