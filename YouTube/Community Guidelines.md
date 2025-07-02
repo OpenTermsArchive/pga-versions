@@ -544,9 +544,9 @@ Don’t post content on YouTube if it fits any of the descriptions below.
     * Contains sexualization
     * Encourages others to bully or harass
 
-This policy applies to videos, video descriptions, comments, Stories, Community posts, live streams, playlists, and any other YouTube product or feature. Keep in mind that this isn't a complete list.
+This policy applies to videos, video descriptions, comments, posts, live streams, playlists, and any other YouTube product or feature. Keep in mind that this isn't a complete list.
 
-Please note these policies also apply to [external links](https://support.google.com/youtube/answer/9054257) in your content. This can include clickable URLs, verbally directing users to other sites in video, as well as other forms. 
+Please note these policies also apply to [external links](https://support.google.com/youtube/answer/9054257) in your content. This can include clickable URLs, verbally directing users to other sites in video, as well as other forms.
 
 Age-restricted content
 
