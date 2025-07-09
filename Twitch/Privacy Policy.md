@@ -1,4 +1,4 @@
-Last modified on 06/30/2023 [See prior versions of](https://www.twitch.tv/en/legal//archive)
+Last modified on 06/30/2023 [See prior versions of Privacy Notice](https://www.twitch.tv/en/legal/privacy-notice/archive)
 
 **Twitch.tv Privacy Notice**
 ============================
