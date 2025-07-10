@@ -1,7 +1,8 @@
 LY Corporation Privacy Policy
 =============================
 
-#### Index
+Index
+-----
 
 * [1.Introduction](#section0)
 * [2.Applicable scope of this Policy](#section1)
@@ -16,7 +17,8 @@ LY Corporation Privacy Policy
 
 View More
 
-### 1.Introduction
+1.Introduction
+--------------
 
 We, LY Corporation (“we,” “us,” or “our”), will collect information related to individuals (“Personal Data”) in providing our products, apps, services and websites (collectively, the “Services”). We consider the protection of Personal Data to be one of the most important management issues as a responsibility of an Internet content service company. We will act in compliance with the laws and regulations applicable in countries and regions where we are conducting business (such laws and regulations are hereinafter collectively referred to as the “Applicable Laws”), and will make efforts to properly protect Personal Data based on this Privacy Policy (this “Policy”).
 
@@ -26,11 +28,12 @@ Please also review “[Privacy Center](https://privacy.lycorp.co.jp/en/)” whic
 
 Our Services include services, products, ads and contents for our group companies (referring to our subsidiaries or affiliates, wherein the definition thereof includes domestic and overseas subsidiaries and affiliates according to the “Regulation on Terminology, Forms, and Preparation Methods of Financial Statements” of Japan), information providers, advertisers, ad distributors and other partners (together with our group companies, hereinafter collectively referred to as the “Partners”) and for customers other than customer him/herself.
 
-### 2.Applicable scope of this Policy
+2.Applicable scope of this Policy
+---------------------------------
 
 This Policy applies to all Personal Data that we collect regardless of the country or region.
 
-#### 2.a.Target scope
+### 2.a.Target scope
 
 This Policy applies to all Personal Data that we collect.
 
@@ -38,13 +41,14 @@ We may apply individual privacy policies or additional provisions to terms of us
 
 In connection with the application of this Policy, we are the controller of the processing of Personal Data.
 
-#### 2.b.Applicable policies
+### 2.b.Applicable policies
 
 We will process Personal Data to the extent permitted by the Applicable Laws according to this Policy.
 
 While we may provide various translations of this Policy as a reference, to the extent permitted by Applicable Laws, the [Japanese version](https://www.lycorp.co.jp/ja/company/privacypolicy/) applies to users using our Services in Japan, the [Korean version](https://www.lycorp.co.jp/ko/company/privacypolicy/) applies to users using our Services in Korea, and the [English version](https://www.lycorp.co.jp/en/company/privacypolicy/) applies to users using our Services in other countries or regions.
 
-### 3.Personal Data to be collected
+3.Personal Data to be collected
+-------------------------------
 
 We will collect the Personal Data such as the following in lawful and fair manner.
 
@@ -59,7 +63,7 @@ We may collect and use information by leveraging [technologies such as associati
 
 The following are some examples of the Personal Data that we will collect.
 
-#### 3.a.Examples of Personal Data to be provided by you
+### 3.a.Examples of Personal Data to be provided by you
 
 We may ask you to provide us with your Personal Data by operating your device and entering information or via a document or other mediums.  
 The foregoing Personal Data includes, for example:
@@ -70,7 +74,7 @@ The foregoing Personal Data includes, for example:
 * Your profile information (including icon image, displayed name, status message, search ID, etc.). Profile information (excluding information that you set as being private) will be made public and can be viewed by third parties such as other users.
 * Address book on your device. The communication app LINE (“LINE”) offers an “Auto Add Friends” feature which automatically adds other users as your friends in our Services when you upload information of your friend in your address book on your device. We will access only the phone numbers registered in your mobile device’s address book when you have enabled this feature. We will use the phone numbers in your address book only for automatically adding your friends, recommending possible friends, and preventing unauthorized use.
 
-#### 3.b.Examples of Personal Data related to your use of our Services
+### 3.b.Examples of Personal Data related to your use of our Services
 
 We will collect information related to your activities when using our Services and information related to your devices and how you are using those devices.  
 The foregoing Personal Data includes, for example:
@@ -79,7 +83,7 @@ The foregoing Personal Data includes, for example:
 * Location information
 * Information related to apps, browsers and devices
 
-##### 3.b.i.Status of use of our Services
+#### 3.b.i.Status of use of our Services
 
 We automatically collect information related to when and how you used our Services. The collected information includes the status of use of various Services and features such as the date and time that you used our individual Services, length of time that you used our individual Services, searches conducted in the Services and results of those searches, Services that were purchased, and contents and ads that were viewed, tapped, or clicked.
 
@@ -87,41 +91,40 @@ For example, when using LINE, the contents that you posted, and texts, images, v
 
 In principle, we will not use transmitted contents, as such messages exchanged between users and specific recipients other than us, for any purpose other than transmitting such contents. However, in certain countries or regions (\*1) for specific services, we may use a part of such information upon obtaining your additional consent for the provision and maintenance of our Services, development and improvement of our Services, prevention of unauthorized use, and provision of optimized contents including ads. For details, please refer to “[Regarding Usage of Your Information](https://terms.line.me/line_communication_privacy/)” and the terms of the individual services.
 
-##### 3.b.ii.Location information
+#### 3.b.ii.Location information
 
 We may collect the location information of your device when we provide contents according to your location information or when you share your location information with your friends in our Services, or in order for us to provide optimized search results to you. When you do not accept sending your location information by your mobile device settings, location information will not be sent to us.
 
 Furthermore, in certain countries or regions (\*2), when we provide customized contents or ads to you, such as local news near the areas where you are located, we may separately ask you to generally provide your location information and allow us to use such information. In the foregoing case, you may arbitrarily choose to provide your location information or choose the scope of use of your location information based on your settings. Even when you do not accept sending your location information, we may estimate your approximate location by using information such as your IP address.
 
-##### 3.b.iii.Apps, browsers, devices and network information
+#### 3.b.iii.Apps, browsers, devices and network information
 
-We will collect information related to the device, browser and the app that you are using (ad identifier for identifying the device/browser, Cookie ID and device type, OS, language/time zone setting, browser type, app version, etc.), and network information (telecommunications carrier’s name, IP address, etc.).  
-  
+We will collect information related to the device, browser and the app that you are using (ad identifier for identifying the device/browser, Cookie ID and device type, OS, language/time zone setting, browser type, app version, etc.), and network information (telecommunications carrier’s name, IP address, etc.).
 
-#### 3.c.Examples of Personal Data collected from third parties
+### 3.c.Examples of Personal Data collected from third parties
 
 We may collect Personal Data from third parties including our Partners. The following are some examples of Personal Data collected from third parties.
 
-##### 3.c.i.Personal Data collected from group companies
+#### 3.c.i.Personal Data collected from group companies
 
 We may collect your Personal Data from our group companies according to their terms or policies. For the privacy policy that is applicable to the individual services provided by our group companies, please confirm the same in the individual services.
 
-##### 3.c.ii.Personal Data collected from Partners
+#### 3.c.ii.Personal Data collected from Partners
 
 We may collect your Personal Data from our Partners.  
 There are cases where we collect Personal Data from a Partner operating its own service, and from a Partner operating a service that is linked to our Services such as the LINE official account or LINE login.
 
 In addition, we may collect information such as your identifier (internal identifier, ad identifier etc.), one-way encrypted (hashed) email address and telephone number, IP address, part of your device information (OS, etc.), your attribute information as well as your action history, including your purchase history, viewing history, search history and location information, from our Partners, and use such information for the purpose described in “4. Purpose of use of Personal Data”, such as for both sending official account messages from our Partners and distributing ads, as well as measuring ad effectiveness, creating and providing statistical information and for other purposes.
 
-##### 3.c.iii.Personal Data uploaded by other users
+#### 3.c.iii.Personal Data uploaded by other users
 
 There may be cases where a certain user, in using our Services, uploads information containing Personal Data such as a photo that includes a third party other than that user, and we collect such information.
 
-#### 3.d.Other Examples
+### 3.d.Other Examples
 
 In addition to the cases described above, we may collect the Personal Data, for example, in the following cases.
 
-##### 3.d.i.Personal Data that is directly collected in third-party services
+#### 3.d.i.Personal Data that is directly collected in third-party services
 
 We may collect login records from plug-ins of third-party including Partner websites and apps equipped with a plug-in feature such as “Send by LINE”, and URL information of websites equipped with a plug-in feature that you visited while being logged onto our Services on your browser by associating such login records and URL information with your account. Such collected data will be used for understanding how you are using our Services, as well as for the maintenance and improvement, security, and prevention of unauthorized or fraudulent use or abuse, of such Services.
 
@@ -134,13 +137,14 @@ Furthermore, in certain countries or regions, when a third party including our P
 
 When we directly collect Personal Data in the services operated by such Partner such as when our Partner uses our Services as described above, we request such Partner to take lawful and proper measures.
 
-##### 3.d.ii.Collection of Personal Data from public information
+#### 3.d.ii.Collection of Personal Data from public information
 
 We will collect public information, such as information from the official sites of corporations provided on the internet, for use in search services, etc.
 
 If the collected public information contains Personal Data, we may use such information for display of search results.
 
-### 4.Purpose of use of Personal Data
+4.Purpose of use of Personal Data
+---------------------------------
 
 We will use the collected Personal Data (including Personal Data collected from when you use our Services and all Personal Data collected from third parties) for the following purposes:
 
@@ -165,7 +169,7 @@ Notwithstanding the above, upon receiving Personal Data from a third party, if t
 
 The purposes of use of Personal Data include, for example, the following.
 
-#### 4.a.Examples of Provision and maintenance of our Services
+### 4.a.Examples of Provision and maintenance of our Services
 
 We will use information required for providing our Services, answering your inquiries, hosting promotional events, and sending announcements regarding our Services and those of our Partners.
 
@@ -183,7 +187,7 @@ For example, in the following cases, we will use Personal Data for the provision
 * To automatically display your information, which is required for purchasing products, on the input screen; and/or
 * To generate appropriate sentences and images according to the contents that have been entered such as for purposes of supporting your use of our Services.
 
-#### 4.b.Examples of Development and improvement of our Services
+### 4.b.Examples of Development and improvement of our Services
 
 We will use Personal Data for the development and improvement of our Services for providing better services, products and contents to users toward the future.  
 For example, in the following cases, we will use Personal Data for the development and improvement of our Services:
@@ -195,7 +199,7 @@ For example, in the following cases, we will use Personal Data for the developme
 * To conduct surveys related to our services that we are currently providing, or may provide in the future; or
 * To use questions entered in the Service that generates text according to the customers’ questions and improve the model for such service.
 
-#### 4.c.Examples of Security and prevention of and measures against unauthorized use
+### 4.c.Examples of Security and prevention of and measures against unauthorized use
 
 We will use Personal Data and take security measures and measures against unauthorized use to maintain an environment where our Services can be used at all times, and users can use our Services with a sense of security on a daily basis.
 
@@ -205,7 +209,7 @@ For example, in the following cases, we will use Personal Data for the security 
 * To monitor and confirm the details of reports and illegal postings, etc., and to develop tools for preventing unauthorized use by ways such as analyzing the details of such reports and illegal postings, etc.; or
 * To verify facts or contact you in the event of any unauthorized use or the possibility of any unauthorized use.
 
-#### 4.d.Examples of Provisions of our Services optimized for you
+### 4.d.Examples of Provisions of our Services optimized for you
 
 We will utilize Personal Data for providing recommended contents, including ads, to each user.  
 For example, in the following cases, we will use Personal Data for providing optimized contents to users:
@@ -227,7 +231,7 @@ Furthermore, in certain countries or regions (\*3), we will use Personal Data fo
 
 We are offering a detailed explanation to users residing in countries or regions where this feature is available. For details, please refer to “[Privacy Settings](https://privacy.lycorp.co.jp/en/setting/)” (page is provided only in the language of the country that is offering the feature).
 
-#### 4.e.Your Personal Data related to LINE
+### 4.e.Your Personal Data related to LINE
 
 In principle, we will obtain your consent when we process your Personal Data related to LINE. If, however, permitted by Applicable Laws, we may process your Personal Data with any of the following legal basis.
 
@@ -240,7 +244,8 @@ For example, when processing your Personal Data for the provision and maintenanc
 (5) processing is necessary for the legitimate interests pursued by us or by a third party, except where such interests are overridden by your privacy related rights, interests, and freedom (including improvement of operations or systems, prevention of fraud, maintenance of security, marketing, and research performed by us); or  
 (6) processing is necessary for any purpose related to public benefits or creation of archives of historical documents, or any purpose related to surveys or statistics supported by proper security measures.
 
-### 5.Provision of Personal Data
+5.Provision of Personal Data
+----------------------------
 
 We will not provide, disclose or share Personal Data to or with third parties unless we have obtained your consent or such provision, disclosure or sharing of Personal Data is permitted by Applicable Laws.
 
@@ -258,7 +263,7 @@ In order to provide Service in a smooth manner, subcontractors and group compani
 
 We have data center locations in Japan, the European Economic Area, countries and regions recognized by the European Commission as having sufficient levels of protection, or member countries of the CBPR System. Furthermore, Personal Data stored in our data centers may be accessed from a third country that does not have the same personal data protection legislation as Japan. Even in the event of access from such a country, we will obligate the company that accesses Personal Data to perform appropriate security management in a service agreement, etc., and will take measures such as managing and supervising that company. We will take necessary measures to ensure that Personal Data is properly protected in accordance with our security standards, such as by taking appropriate encryption measures in the access route to Personal Data.
 
-#### 5.a.Public disclosure by users themselves
+### 5.a.Public disclosure by users themselves
 
 Public information can be viewed by third parties other than users, such as posts and comments on bulletin boards that can be accessed by unspecified or large numbers of users, and profile information set to be public.
 
@@ -268,7 +273,7 @@ Please note that we may provide public information about you to third parties. P
 
 We confirm that such third parties comply with the policies related to the protection of personal information where they are located.
 
-#### 5.b.Subcontracting
+### 5.b.Subcontracting
 
 We may subcontract certain services required for providing our Services (e.g.: building, operation and development of infrastructure, settlement, shipping, customer support, etc.) to a third party. In connection with this, we entrust all or a part of the Personal Data to the subcontractor, including companies located in the following countries or regions.  
 The subcontractor will access the Personal Data only to the minimum extent required for performing the subcontracted services on our behalf, and will not use the Personal Data beyond the scope of the subcontracted services.  
@@ -276,7 +281,7 @@ We will: (i) comply with Applicable Laws and investigate the qualification as a 
 
 Countries and regions to which Personal Data is transferred: Japan, the United States, Korea, Ireland, Canada, the Philippines, Australia, Vietnam, Thailand, Taiwan, Indonesia, Singapore, the Netherlands, Germany and Switzerland.
 
-#### 5.c.Sharing of Personal Data among group companies
+### 5.c.Sharing of Personal Data among group companies
 
 We share, among our group companies, including companies located in the following countries and regions, the Personal Data indicated in “[3\. Personal Data to be collected](https://www.lycorp.co.jp/en/company/privacypolicy/#section2)”.  
 For example, in order to alleviate the trouble of creating an account in the services provided by our group companies, our group companies may refer to the information registered with our Services.  
@@ -292,11 +297,11 @@ In addition, you can confirm the scope of our group companies to share Personal 
 
 Countries and regions to which Personal Data is transferred: Japan, Taiwan, Thailand, Indonesia, Korea and Singapore.
 
-#### 5.d.Succession of business
+### 5.d.Succession of business
 
 If there is any transaction between companies pertaining to our business to which this Policy is applicable, such as acquisition, merger or change of business entity, Personal Data may also be transferred to the successor of the business to the extent permitted by Applicable Laws.
 
-#### 5.e.Provision, etc. of Our Services
+### 5.e.Provision, etc. of Our Services
 
 In the following cases, to the extent permitted by Applicable Laws, we may provide your Personal Data to third parties, including our Partners, to the extent necessary upon deleting information that can directly identify a specific user, such as the user’s name, address, and detailed location information, or the content of LINE messages.
 
@@ -311,17 +316,18 @@ For example, when you add the LINE official account as a friend, talk to a LINE 
 
 The processing of Personal Data by the recipients will be pursuant to the rules and policies prescribed by each recipient. We confirm that such recipients comply with the policies related to the protection of personal information where they are located.
 
-#### 5.f.Compliance and cooperation with public agencies
+### 5.f.Compliance and cooperation with public agencies
 
 If we receive a request pursuant to legal proceedings such as a warrant, or if there is imminent danger to someone’s life or property such as a suicide threat or a bomb threat, we may disclose Personal Data to third parties including law enforcement agencies such as the police, or the court, pursuant to Applicable Laws. For details regarding the disclosure of Personal Data to public agencies, please refer to our [Transparency Report](https://www.lycorp.co.jp/en/privacy-security/privacy/transparency/).
 
-### 6.Safety control of Personal Data
+6.Safety control of Personal Data
+---------------------------------
 
-We develop basic policy to make effort to manage the collected Personal Data properly and take strict organizational, personal, physical and technical security measures. In order to continue to improve our protection of Personal Data, we will review and bolster our internal rules and regulations in accordance with changes in Applicable Laws and social norms.  
-  
+We develop basic policy to make effort to manage the collected Personal Data properly and take strict organizational, personal, physical and technical security measures. In order to continue to improve our protection of Personal Data, we will review and bolster our internal rules and regulations in accordance with changes in Applicable Laws and social norms.
+
 Unless you request the deletion of your account, in principle, we will retain most of your information. Once we receive your request to delete your account, we will delete your information according to Applicable Laws and internal rules after retaining such information for a given period of time.
 
-#### 6.a.Security measures
+### 6.a.Security measures
 
 We are taking strict organizational, personal, physical and technical security measures in managing the collected Personal Data for respecting and protecting your privacy and confidentiality of your Personal Data, and preventing unauthorized access to your Personal Data. These measures include safety control measures based on industry standards for preventing unauthorized access to Personal Data, and disclosure, unauthorized use, falsification or destruction of Personal Data.  
 For example, we are taking the following measures.
@@ -337,7 +343,7 @@ For details regarding our security measures, please also read “[Safety Managem
 However, because no method of electronic transmission or method of data storage is perfect or impenetrable, we cannot guarantee that your Personal Data will be absolutely safe from intrusion during transmission or while stored in our systems.  
 To help protect your privacy and confidentiality of your Personal Data, we also need your help. Please do not share your password with others, or use the same passwords you use for other services. Also, please notify us in the event you suspect any unauthorized use of your account or any other breach of security via our [Contact Form](https://contact-cc.line.me/).
 
-#### 6.b.Storage location of Personal Data
+### 6.b.Storage location of Personal Data
 
 We are storing the Personal Data of Japanese users in our data centers located in Japan, the United States and South Korea.
 
@@ -345,7 +351,7 @@ Japan, the United States, and South Korea are participating in APEC’s Cross Bo
 
 For details regarding the storage location of your Personal Data, please also read “[Safety Management Measures for Personal Data.](https://privacy.lycorp.co.jp/en/safety.html)”
 
-#### 6.c.Storage period of Personal Data
+### 6.c.Storage period of Personal Data
 
 We collect and retain Personal Data to provide our Services according to your request, fulfill any of the applicable purposes of use described in this Policy, or to comply with Applicable Laws.  
 Unless you request the deletion of your account, in principle, we will retain most of your Personal Data. Once your account is deleted, we will process your Personal Data properly according to Applicable Laws and our internal rules after retaining such Personal Data for a given period of time for the following purposes:
@@ -364,7 +370,8 @@ Otherwise, we prescribe the storage period of Personal Data according to the fol
 
 We may continue to retain Personal Data in a format in which individuals cannot be identified after the lapse of the storage period prescribed pursuant to Applicable Laws and our internal rules.
 
-### 7.Your choices regarding Personal Data
+7.Your choices regarding Personal Data
+--------------------------------------
 
 You have rights regarding your Personal Data processed by us, such as the right to access your Personal Data and the right to request the correction of your Personal Data, to the extent permitted by Applicable Laws.
 
@@ -406,13 +413,14 @@ If you have any requests or complaints related to our use of your Personal Data,
 
 Unless prohibited by Applicable Laws, if you exercise any of your rights hereunder, we may charge a fee, in accordance with the procedures defined separately.
 
-### 8.Use of third-party modules and Cookies
+8.Use of third-party modules and Cookies
+----------------------------------------
 
 We may use tags and modules containing cookies and third-party software development kit (SDK) for fulfilling the purposes described in this Policy.
 
 Furthermore, details concerning information that is transmitted externally through such tags and modules from your devices can be confirmed from “[Announcement on External Transmission of User Information.](https://privacy.lycorp.co.jp/en/acquisition/thirdparties.html)”
 
-#### 8.a.Third-party modules
+### 8.a.Third-party modules
 
 We may install modules of a third-party SDK in our Services, for example, for the following purposes:
 
@@ -421,7 +429,7 @@ We may install modules of a third-party SDK in our Services, for example, for th
 
 With regard to your Personal Data that is processed by a third-party through a module provided by such third party, the privacy policy of such third party will apply.
 
-#### 8.b.Cookie and other analytical tools
+### 8.b.Cookie and other analytical tools
 
 A cookie is a small text file that is stored on your computer when visiting a website. This text file stores information that can be read by the website operator when visiting the website again at a later date.  
 For example, we may use cookies and similar web tracking technologies (web beacon, pixel etc.) for the following purposes:
@@ -434,20 +442,21 @@ For example, we may use cookies and similar web tracking technologies (web beaco
 
 You can control whether or not to accept cookies based on browser settings or by using other tools. If, however, you deactivate cookies or limit the ability to set cookies, you may not be able to obtain the full benefit of the website or access all of its functions, which may limit your overall user experience.
 
-#### 8.c.Information related to use of Google Analytics
+### 8.c.Information related to use of Google Analytics
 
 In order to improve our Services, we use Google Analytics to measure our Services such as our website. Google may set cookies or read existing cookies to collect data. At such time, information such as the URL of the page that you accessed and IP address will be automatically sent to Google. We may use such information to comprehend the status of use of our Services or use such information in our Services. For the processing of data by Google in Google Analytics, please read the terms of use of Google Analytics and Google’s privacy policy.
 
-#### 8.d.Information related to use of True Depth API provided by Apple
+### 8.d.Information related to use of True Depth API provided by Apple
 
 We may use Apple‘s TrueDepth camera to collect additional information from your device‘s camera in order to improve quality of camera and video call that we provide, or improve function such as effects. However, this information is processed in real time for delivering and improving these features only. This information is not saved on our servers or shared with any third parties.
 
-### 9.Other important information
+9.Other important information
+-----------------------------
 
 We may modify this Policy. The latest version of the Policy will always be posted on this site, and we encourage you to review the contents of the latest version of the Policy carefully.  
 When we make any material changes to this Policy, we will notify you through reasonable means.
 
-#### 9.a.Privacy of children
+### 9.a.Privacy of children
 
 The Services are intended for a general audience. If a minor is to use our Services and provides Personal Data, the minor must do so with the consent of his/her guardian. You represent and warrant that you have the right capacity and legal capacity required for using our Services. If you are a minor, you represent and warrant that you are using our Services with the consent of your guardian. We have voluntarily imposed age restrictions on certain Services in cases where we are unable to confirm that you are of a certain age.
 
@@ -455,7 +464,7 @@ We understand the special necessity to protect the Personal Data collected from 
 
 If, however, you believe that we have collected Personal Data from minors of the aforementioned countries or regions, then please let us know via the [Contact Form](https://contact-cc.line.me/) or by writing to the address indicated below. If we learn that we have inadvertently collected Personal Data from minors of the aforementioned countries or regions, we will deactivate the relevant account(s) and will take reasonable measures to promptly delete such Personal Data from our records.
 
-#### 9.b.Inquiries
+### 9.b.Inquiries
 
 Other than as referred to herein, we will be the data controller of Personal Data collected through our Services to which this Policy applies. If you have any questions or inquiries about this Policy or have any questions, complaints, concerns or comments about the processing of Personal Data in our Services, please contact us via the [Contact Form](https://contact-cc.line.me/) or by writing to:
 
@@ -495,7 +504,7 @@ No. 1011 Supalai Grand Tower, 20th-26th Floors, Rama 3 Road, Chongnonsi, Yannawa
 +662-056-5566  
 digital@tilleke.com
 
-#### 9.c.Changes to this Policy
+### 9.c.Changes to this Policy
 
 We may modify this Policy from time to time, and the latest version of the privacy policy will always be posted on this site. When we make any material changes to this Policy, we will notify you on our Services, or by other reasonable means. We encourage you to review the contents of the latest version of the privacy policy carefully.
 
@@ -507,9 +516,10 @@ CEO and President - Takeshi Idezawa
 Formulated on October 1, 2023  
 Date of last update: March 19, 2025
 
-### 10.Reference
+10.Reference
+------------
 
-#### 10.a.Notes on Specific Services
+### 10.a.Notes on Specific Services
 
 Among our Services, we are providing certain services or functions only in certain countries or regions. The applicable countries or regions regarding the contents of this Policy related to the processing of Personal Data are as follows.
 
@@ -529,24 +539,25 @@ Applicable countries: Japan, Taiwan, Thailand
 Related information: Optimization of services  
 Related settings: Settings > Privacy management > Ad settings
 
-#### 10.b.Related links
+### 10.b.Related links
 
-##### 10.b.i.Materials to supplement the description in this Policy
+#### 10.b.i.Materials to supplement the description in this Policy
 
 Specific examples and overview of this Policy  
-[Privacy Center](https://privacy.lycorp.co.jp/en/)  
+[Privacy Center](https://privacy.lycorp.co.jp/en/)
+
 The supplementation of personalization features in certain countries and regions (\*3)  
 [Privacy Settings](https://privacy.lycorp.co.jp/en/setting/)
 
 The list of third-party tag/modules that have been introduced to services and obtain information directly  
 [Announcement on External Transmission of User Information](https://privacy.lycorp.co.jp/en/acquisition/thirdparties.html)
 
-##### 10.b.ii.Contacts to us regarding the processing of Personal Data
+#### 10.b.ii.Contacts to us regarding the processing of Personal Data
 
 Inquiries and allegations regarding the processing of Personal Data  
 [Contact Form](https://contact-cc.line.me/)
 
-##### 10.b.iii.Archived versions of Privacy Policy
+#### 10.b.iii.Archived versions of Privacy Policy
 
-[LINE Privacy Policy](https://www.lycorp.co.jp/assets/pdf/l_privacypolicy_en.pdf)  
-[Yahoo! JAPAN Terms of Use Part 1 Chapter 2 Privacy Policy](https://www.lycorp.co.jp/assets/pdf/y_chapert1_en.pdf#y_privacypolicy_en)
+[LINE Privacy Policy ![pdf](https://www.lycorp.co.jp/assets/images/icon_pdf.svg)](https://www.lycorp.co.jp/assets/pdf/l_privacypolicy_en.pdf)   
+[Yahoo! JAPAN Terms of Use Part 1 Chapter 2 Privacy Policy ![pdf](https://www.lycorp.co.jp/assets/images/icon_pdf.svg)](https://www.lycorp.co.jp/assets/pdf/y_chapert1_en.pdf#y_privacypolicy_en)
