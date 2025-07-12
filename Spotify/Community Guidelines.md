@@ -41,107 +41,107 @@ What are the rules?
 
 Whether you are a musician, podcaster or other contributor, it is important to be aware of what is not allowed on our platform. The examples in the below sections are for illustrative purposes and are not exhaustive.
 
-### Dangerous Content
+### Dangerous content
 
 Spotify is home to communities where people can create, express themselves, listen, share, learn and be inspired. Don’t promote violence, incite hatred, harass, bully or engage in any other behaviour that may place people at risk of serious physical harm or death. **What to avoid:**
 
 **Content that advocates or glorifies serious physical harm towards an individual or group** includes, but may not be limited to:
 
-* encouraging, promoting or glorifying suicide and self-harm (if you or someone you know is struggling or thinking about self-harm, please see [here](https://resources.byspotify.com/) for ways to get help)
-* inciting or threatening serious physical harm or acts of violence against a specific target or specific group
+* Encouraging, promoting or glorifying suicide and self-harm (if you or someone you know is struggling or thinking about self-harm, please see [here](https://resources.byspotify.com/) for ways to get help)
+* Inciting or threatening serious physical harm or acts of violence against a specific target or specific group
 
 **Content that promotes or supports terrorism or violent extremism** includes, but may not be limited to:
 
-* glorifying or praising violent extremist groups or their members
-* coordinating, promoting, threatening or praising an act of violence by or on behalf of violent extremist groups or their members
-* providing instructions or instructional materials to commit an act of violent extremism
-* soliciting an individual or group to finance or undertake an act of violent extremism, or become involved in the activities of a violent extremist group
+* Glorifying or praising violent extremist groups or their members
+* Coordinating, promoting, threatening or praising an act of violence by or on behalf of violent extremist groups or their members
+* Providing instructions or instructional materials to commit an act of violent extremism
+* Soliciting an individual or group to finance, undertake an act of violent extremism or become involved in the activities of a violent extremist group
 
 **Content that targets an individual or identifiable group for harassment or related abuse** includes, but may not be limited to:
 
-* repeatedly targeting specific individuals with sexual advances
-* repeatedly targeting a minor to shame or intimidate
-* sharing or re-sharing non-consensual intimate content, as well as threats to distribute or expose such content
-* sharing, threatening to share or encouraging others to share someone’s private information, including credit card or banking information, National Identity numbers, etc.
+* Repeatedly targeting specific individuals with sexual advances
+* Repeatedly targeting a minor to shame or intimidate
+* Sharing or re-sharing non-consensual intimate content, as well as threats to distribute or expose such content
+* Sharing, threatening to share or encouraging others to share someone’s private information, including credit card or banking information, National Identity numbers, etc.
 
 **Content that incites violence or hatred towards a person or group of people based on race, religion, gender identity or expression, sex, ethnicity, nationality, sexual orientation, veteran status, age, disability or other characteristics associated with systemic discrimination or marginalisation** includes, but may not be limited to:
 
-* praising, supporting or calling for violence against a person or group of people based on the characteristics listed above
-* dehumanising statements about a person or group based on the protected characteristics listed above
-* promoting or glorifying hate groups and their associated images and/or symbols
+* Praising, supporting or calling for violence against a person or group of people based on the characteristics listed above
+* Dehumanising statements about a person or group based on the protected characteristics listed above
+* Promoting or glorifying hate groups and their associated images and/or symbols
 
 **Content that promotes dangerous false or dangerous deceptive medical information that may cause offline harm or poses a direct threat to public health** includes, but may not be limited to:
 
-* asserting that AIDS, COVID-19, cancer or other serious life-threatening diseases are a hoax or not real
-* encouraging the consumption of bleach products to cure various illnesses and diseases
-* promoting or suggesting that vaccines approved by local health authorities are designed to cause death
-* encouraging people to purposely get infected with COVID-19 in order to build immunity to it (e.g. promoting or hosting “coronavirus parties”)
+* Asserting that AIDS, COVID-19, cancer or other serious life-threatening diseases are a hoax or not real
+* Encouraging the consumption of bleach products to cure various illnesses and diseases
+* Promoting or suggesting that vaccines approved by local health authorities are designed to cause death
+* Encouraging people to purposely get infected with COVID-19 in order to build immunity to it (e.g. promoting or hosting “coronavirus parties”)
 
 **Content that illicitly promotes the sale of regulated or illegal goods** includes, but may not be limited to:
 
-* selling illegal firearms or firearm parts
-* selling illegal drugs
-* selling endangered species or products derived from endangered species
+* Selling illegal firearms or firearm parts
+* Selling illegal drugs
+* Selling endangered species or products derived from endangered species
 
 **Content that promotes, solicits or facilitates child sexual abuse or exploitation** includes, but may not be limited to:
 
-* visual depictions of a minor engaged in a sexual act or lascivious depictions of a nude minor
-* promoting acts of sexual abuse against a child in exchange for money
-* encouraging or promoting sexual attraction by adults towards minors
-* promoting, normalising or glorifying child grooming behaviours
+* Visual depictions of a minor engaged in a sexual act or lascivious depictions of a nude minor
+* Promoting acts of sexual abuse against a child in exchange for money
+* Encouraging or promoting sexual attraction by adults towards minors
+* Promoting, normalising or glorifying child-grooming behaviours
 
-### Deceptive Content
+### Deceptive content
 
 Creating great experiences on Spotify requires trust that people are who they say they are, that they won’t be scammed and that no one is trying to manipulate our platform. Don’t use malicious practices to deceive others. **What to avoid:**
 
 **Content that impersonates others in order to deceive** includes, but may not be limited to:
 
-* replicating the same name, image and/or description as another existing creator
-* posing as another person, brand or organisation in a misleading manner
+* Replicating the same name, image and/or description as another existing creator
+* Posing as another person, brand or organisation in a misleading manner
 
 **Content that promotes manipulated and synthetic media as authentic in ways that pose the risk of harm** includes, but may not be limited to:
 
-* audio or video recording that comes from a real and valid source that has been altered in a way that changes the meaning or context of the original media and is purported to be true, thus posing a risk of harm to the speaker or other individuals
-* audio or visual media artificially created through the use of technology that’s purported to be true, such as digitally manufactured sexual audio and video content or content falsely suggesting that someone committed a crime
+* Audio or video recording that comes from a real and valid source that has been altered in a way that changes the meaning or context of the original media and is purported to be true, thus posing a risk of harm to the speaker or other individuals
+* Audio or visual media artificially created through the use of technology that’s purported to be true, such as digitally manufactured sexual audio and video content or content falsely suggesting that someone committed a crime
 
 **Content that attempts to manipulate or interfere with election-related processes** includes, but may not be limited to:
 
-* misrepresentation of procedures in a civic process that could discourage or prevent participation
-* misleading content promoted to intimidate or suppress voters from participating in an election
+* Misrepresentation of procedures in a civic process that could discourage or prevent participation
+* Misleading content promoted to intimidate or suppress voters from participating in an election
 
 **Content that attempts to take advantage of the Spotify community** includes, but may not be limited to:
 
-* posting, sharing or providing instructions on implementing malware or related malicious practices that seek to harm or gain unauthorised access to computers, networks, systems or other technologies
-* phishing or related attempts to deceptively solicit or collect sensitive information
-* promoting investment and financial scams like get rich quick and pyramid schemes, or otherwise encouraging others to part with money under false pretenses
+* Posting, sharing or providing instructions on implementing malware or related malicious practices that seek to harm or gain unauthorised access to computers, networks, systems or other technologies
+* Phishing or related attempts to deceptively solicit or collect sensitive information
+* Promoting investment and financial scams like get rich quick and pyramid schemes, or otherwise encouraging others to part with money under false pretenses
 
-### Sensitive Content
+### Sensitive content
 
 We have tons of amazing content on Spotify, but there are certain things that we don’t allow on our platform. Don’t post excessively violent or graphic content, and don’t post sexually explicit content. **What to avoid:**
 
 **Content that promotes graphic or gratuitous depictions of violence, gore or other shocking imagery** includes, but may not be limited to:
 
-* severely mutilated or dismembered bodies
-* promoting animal cruelty or torture
+* Severely mutilated or dismembered bodies
+* Promoting animal cruelty or torture
 
 **Content that contains sexually explicit material** includes, but may not be limited to:
 
-* pornography or visual depictions of genitalia or nudity presented for the purpose of sexual gratification
-* advocating or glorifying sexual themes related to rape, incest or bestiality
+* Pornography or visual depictions of genitalia or nudity presented for the purpose of sexual gratification
+* Advocating or glorifying sexual themes related to rape, incest or bestiality
 
-### Illegal Content
+### Illegal content
 
 The law is the law. No matter who you are, it is your responsibility to comply with applicable laws and regulations. **What to avoid:**
 
 **Content that violates applicable laws and regulations** includes, but may not be limited to:
 
-* content that does not comply with applicable sanctions and export regulations
-* content that is intended to promote or commit an illegal act of any kind
+* Content that does not comply with applicable sanctions and export regulations
+* Content that is intended to promote or commit an illegal act of any kind
 
 **Content that infringes the intellectual property rights of others** includes, but may not be limited to:
 
-* content provided to Spotify without obtaining necessary permissions
-* content that infringes third-party copyrights or trademarks
+* Content provided to Spotify without obtaining necessary permissions
+* Content that infringes third-party copyrights or trademarks
 
 How does Spotify enforce these rules?
 -------------------------------------
