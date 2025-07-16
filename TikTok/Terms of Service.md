@@ -2,8 +2,6 @@ EEA/UK/CH
 
 Terms of Service
 
-p.p1 {margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000} li.li3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000} li.li5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #0000e9; -webkit-text-stroke: #0000e9} span.s1 {font-kerning: none} span.s2 {text-decoration: underline ; font-kerning: none; color: #0000e9; -webkit-text-stroke: 0px #0000e9} span.s3 {-webkit-text-stroke: 0px #000000} span.s4 {color: #0000e9; -webkit-text-stroke: 0px #000000} span.s5 {text-decoration: underline ; font-kerning: none; -webkit-text-stroke: 0px #0000e9} span.s6 {color: #000000; -webkit-text-stroke: 0px #000000} span.s7 {font-kerning: none; color: #000000; -webkit-text-stroke: 0px #000000} ul.ul1 {list-style-type: disc} ul.ul2 {list-style-type: circle}
-
 **(These terms apply if you live or have your principal place of business in the European Economic Area, Switzerland or the UK)**
 
 _Our new Terms of Service come into effect on 25 July 2025. Click_ [here](https://www.tiktok.com/legal/terms-of-service-eea-archive) _to view our current Terms of Service and_ [here](https://www.tiktok.com/legal/learn-more-nov-eea) _for more details about what is changing._
@@ -89,7 +87,7 @@ To access the full functionality of the Platform, you must create an account wit
 When you create an account:
 
 * you must provide accurate and up-to-date information about yourself (such as your date of birth);
-* your account, content and Platform settings will sync across the Platform, including across each TikTok app. For example, when you create an account via TikTok, you will be able to access any other TikTok apps available in your country using that account; and 
+* your account, content and Platform settings (including privacy settings) will sync across the Platform, including across each TikTok app. For example, when you create an account via TikTok, you will be able to access any other TikTok apps available in your country using that account; and 
 * you agree to maintain and promptly update your details if they change. See our [Help Center](https://support.tiktok.com/en/) for information about opening an account. Any changes you make to these details, content or settings, will also sync across the Platform.
 
 It is important that you take reasonable steps to keep your account password secure and do not disclose it to any third party. If you know or suspect that any third party knows your password or has accessed your account, please let us know straight away [here](https://www.tiktok.com/legal/report/feedback?lang=en).
@@ -163,7 +161,7 @@ _In short: Enjoy using our Platform but, for the benefit of all our users, there
 It is important you understand what happens to the content you create, post or share on the Platform:
 
 * You are responsible for the content you make available on the Platform and you should have all the rights needed to create, post or share it.
-* Content you create, post or share via one TikTok service may be automatically shared across the Platform.
+* Content you create, post or share via one TikTok service may be automatically shared across the Platform (although your privacy settings will still apply).
 * We review content both proactively and reactively. For example, we have systems to detect content that breaches our rules and we respond to notices from users and authorities. To do this we use a combination of technology and human moderators. Our approach to content moderation is explained [here](https://www.tiktok.com/transparency/en/content-moderation/) (the information on this page forms part of these Terms).
 * We may restrict access to or remove any content, including yours, if we reasonably believe (i) it is in breach of these Terms or our [Community Guidelines](https://www.tiktok.com/community-guidelines?lang=en); or (ii) it causes harm to us, Affiliates, other users or third parties. Our Community Guidelines set out how content might be removed or restricted on the Platform.
 * If we remove or restrict access to your content, we will notify you without undue delay and let you know the reasons for our decision, unless it is not appropriate for us to do so (for example, we are legally prevented from doing so).
