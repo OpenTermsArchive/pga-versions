@@ -15,6 +15,7 @@ The [Meta Privacy Policy](https://privacycenter.instagram.com/policy) describes 
 You can find links to helpful sections of the Meta Privacy Policy below, but we encourage you to also read all of the [Meta Privacy Policy](https://privacycenter.instagram.com/policy) to learn more about the information we collect, and how we use and share it on Meta Products. In addition, please see the [Meta Cookies Policy](https://privacycenter.instagram.com/policies/cookies/) for information regarding our use of cookies and other similar technologies.
 
 What information do we collect?
+-------------------------------
 
 The [Meta Privacy Policy](https://privacycenter.instagram.com/policy) describes the information we collect under “What information do we collect?”. Below, please find additional detail regarding information we collect when you use or interact with Threads:
 
@@ -40,6 +41,7 @@ The [Meta Privacy Policy](https://privacycenter.instagram.com/policy) describes 
 * **Information we collect from Third Party Services and Third Party Users**: We collect information about the Third Party Services and Third Party Users who interact with Threads. If you interact with Threads through a Third Party Service (such as by following Threads users, interacting with Threads content, or by allowing Threads users to follow you or interact with your content), we collect information about your third-party account and profile (such as your username, profile picture, and the name and IP address of the Third Party Service on which you are registered), your content (such as when you allow Threads users to follow, like, reshare, or have mentions in your posts), and your interactions (such as when you follow, like, reshare, or have mentions in Threads posts).
 
 How do we use this information?
+-------------------------------
 
 **When you use Threads with a profile**, we use the Threads information we collect for Threads for the purposes described in the [Meta Privacy Policy](https://privacycenter.instagram.com/policy) under “How do we use your information?”, including:
 
@@ -54,6 +56,7 @@ How do we use this information?
 **If you use Threads without a profile**, we will not use your Threads information with your Instagram account, and your Threads information won’t be used for ads. We use your Threads information to provide and improve Threads, and to promote safety, integrity, and security on Meta Products.
 
 How is information shared?
+--------------------------
 
 In addition to sharing information in the ways described in the [Meta Privacy Policy](https://privacycenter.instagram.com/policy) under “How is your information shared on Meta Products or with integrated partners?”, “How do we share information with third parties?” and “How do the Meta Companies work together?”, Threads information is shared in the following ways **when you use Threads with a profile**:
 
@@ -71,6 +74,7 @@ Similarly, we **collect and process information from Third Party Services and Th
 **If you use Threads without a profile**, we share your information in the ways described in the [Meta Privacy Policy](https://privacycenter.instagram.com/policy) under “How do we share information with third parties?” and “How do the Meta Companies work together?”.
 
 What is our legal basis for processing your information and what are your rights?
+---------------------------------------------------------------------------------
 
 Threads is part of Instagram, and as such is a Meta Product. **When you use Threads with a profile**, we process the information as described above, including your Threads Profile Information, Threads Activity, Threads Followers and Other Connections, as described in the Meta Privacy Policy:
 
@@ -88,16 +92,19 @@ Threads is part of Instagram, and as such is a Meta Product. **When you use Thre
 **For Threads users under the age of majority** (under 18, in most applicable countries) who have a limited ability to enter into an enforceable contract only, where we may be unable to process your information on the grounds of contractual necessity as described above, we rely on our legitimate interests or the legitimate interests of a third party, where they are not outweighed by your interests or fundamental rights and freedoms. The categories of information we use, the legitimate interests relied on and why and how it’s processed are set out in the [Meta Privacy Policy](https://privacycenter.instagram.com/policy).
 
 Exercising your rights
+----------------------
 
 We offer you a variety of tools to view, manage, download, and delete your Threads information by visiting your Threads Settings. You can also learn how to exercise your rights including how to access, correct, port, and delete your information by visiting our [Help Center](https://help.instagram.com/179980294969821?helpref=faq_content), your settings for Threads and Instagram, and your device-based settings. You can delete your Threads profile at any time. If you have created a Threads profile with your Instagram account, you can also delete your Threads profile by deleting your Instagram account. Learn more about [deleting your Threads profile](https://help.instagram.com/313703828012423?helpref=faq_content) in our Help Centre, and how to delete your Instagram account in the [Meta Privacy Policy](https://privacycenter.instagram.com/policy). You can also [contact Meta to exercise your rights](https://help.instagram.com/contact/1169130897068670).
 
 **If you use Threads without a profile**, you can [contact Meta to exercise your rights](https://help.instagram.com/contact/1169130897068670).
 
 How long do we keep your information?
+-------------------------------------
 
 We keep information as long as we need it to provide our Products, comply with legal obligations, or protect our or other's interests. We decide how long we need information on a case-by-case basis. Learn more about how we decide how long to keep information in [Meta’s Privacy Policy](https://privacycenter.instagram.com/policy/?section_id=8-HowLongDoWe).
 
 Further information and how to contact Meta with questions
+----------------------------------------------------------
 
 The data controller responsible for your personal data is Meta Platforms Ireland Limited, which you can [contact online](https://help.instagram.com/contact/1169130897068670) or via the contact address below at:
 
