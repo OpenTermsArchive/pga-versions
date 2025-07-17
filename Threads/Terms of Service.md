@@ -8,6 +8,7 @@ Welcome to the Threads Service. These Threads Terms of Use (the “**Terms**”)
 The Threads Service is provided to you by Meta Platforms Ireland Limited (“Meta”, “us”, we”, and/or “our”). Any capitalized terms we use here, but do not define below, have the meaning given to them in the Instagram Terms.
 
 Impressum
+---------
 
 Meta Platforms Ireland Limited, Merrion Road, Dublin 4, D04 X2K5, Ireland
 
