@@ -1014,7 +1014,7 @@ Content that praises, supports, promotes, advocates for, provides instructions f
 
 In addition to removing accounts that violate our Child Sexual Exploitation, Abuse and Nudity (CSEAN) policies, our reviewers and automated systems consider a broad spectrum of signals to help prevent potentially unwanted or unsafe interactions.
 
-* We may restrict access to products and features (e.g. the ability to follow certain accounts) for adults based on their interactions with other accounts, searches for or interactions with violating content, or membership in communities (e.g. Groups) we have removed for violating our policies.
+* We may disable accounts or restrict access to products and features (e.g. the ability to follow certain accounts) for adults based on their interactions with other accounts, searches for or interactions with violating content (e.g. liking or saving), or membership in communities (e.g. Groups) we have removed for violating our policies.
 
 For the following content, we include a warning screen so that people are aware the content may be disturbing and limit the ability to view the content to adults ages eighteen and older:
 
