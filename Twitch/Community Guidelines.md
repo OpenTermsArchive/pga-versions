@@ -925,8 +925,10 @@ We understand that sometimes streamers are victims of account takeover, fraud, o
 
 _Enforcement Notes are additional examples of what is and isn’t allowed on Twitch, focused on clarifying existing policies already being enforced. Updates here do not indicate a change in policy, but are additional examples of existing enforcements._
 
-* Redirecting users to a livestream on another service via links on your Twitch page, QR codes, broadcast titles, and go-live notifications, is prohibited.
-    * Links to social media profiles, not directly tied to a livestream and links present in your Bio (About Me) or Panels are still permitted.
+* Links to social media profiles in your bio (About Me) or panels, including links to live streaming platforms, are permitted. 
+* You may not use your bio (About Me) or panels to actively promote other live streaming platforms, including large banners or messages encouraging users to watch your livestream on other services.
+* Twitch may not be used to drive users to a livestream on another platform or service. 
+    * For example, you cannot use Twitch to encourage viewers to alternative live streaming services via links on your Twitch bio, banners, QR codes, broadcast titles, go-live notifications, chat commands, or other means.
 * Drops are meant to be earned during live gameplay with your community - not through streaming unrelated content like static images, rebroadcasts of past VODs/footage, or other scenarios where you are not interacting with your community.
     * Allowed example: Streaming a game with drops but taking a small break with a temporary “Be right back” static image.
     * Prohibited example:  Using VODs or static images to stream with the core purpose of “Drop Farming”.
