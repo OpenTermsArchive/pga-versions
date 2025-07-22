@@ -2,9 +2,10 @@
 
 This dataset PGA v2 is part of the [Platform Governance Archive (PGA)](https://www.platformgovernancearchive.org/). It is the result of a continuous data collection of policies of up to 18 (social) media platforms since April 2022, performed with the [Open Terms Archive engine](https://docs.opentermsarchive.org/), and hosted and curated by the [Lab Platform Governance, Media And Technology (PGMT)](https://platform-governance.org/) at ZeMKI, University of Bremen. The PGA v2 dataset contains a selected set of policies for each platform that usually includes community guidelines, privacy policies and terms of service agreements. A number of platforms have more complex structures for laying out their rules, so PGA v2, for instance, tracks seven specific policies for TikTok and nine for Twitter. 
 
-- **Platforms**: Facebook, Instagram, LINE, LinkedIn, Parler, Pintest, Quora, Reddit, Snapchat, Spotify, Telegram, TikTok, Tumblr, Twitch, Twitter, WeChat, WhatsApp, YouTube
+- **Platforms**: Bluesky, Facebook, Instagram, LINE, LinkedIn, Parler, Pintest, Quora, Reddit, Snapchat, Spotify, Telegram, Threads, TikTok, TruthSocial, Tumblr, Twitch, Twitter, WeChat, WhatsApp, X, YouTube
 - **Time Frame**: since April 2022 (most platforms)
 - **Project Website:** [https://platformgovernancearchive.org](https://platformgovernancearchive.org)
+- **Weeky Releases:** [Weekly releases of collected data](https://github.com/OpenTermsArchive/pga-versions/releases) - a weekly export of all changes to tracked terms
 
 ## Background
 
