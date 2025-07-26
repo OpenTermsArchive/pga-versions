@@ -1018,7 +1018,7 @@ Don’t post content on YouTube if it fits any of the descriptions noted below.
 Other types of content that violate this policy
 
 * Content that shares, threatens to share, or encourages others to share non-public personally identifiable information (PII).
-    * PII includes, but isn’t limited to, home addresses; email addresses; sign-in credentials, like a username or password; phone numbers; passport numbers; medical records; or bank account information.
+    * PII includes, but isn’t limited to, home addresses; email addresses; sign-in credentials, like a username or password; phone numbers; passport numbers; medical records; bank account information; or the name of a school a minor attends.
     * This doesn't include posting widely available public information, like an official’s office phone number or the phone number of a business.
     * This policy applies to sharing your own PII, sharing someone else’s PII, and situations where you accidentally share PII.
     * Content must clearly indicate when fake PII is shared. For example, using fake login credentials as part of a training.
@@ -1028,7 +1028,7 @@ Other types of content that violate this policy
 * Content that depicts a staged meet-up that is used to accuse an identifiable individual of egregious misconduct with a minor, without the presence of law enforcement.
 * Content that depicts vigilantes restraining or assaulting individuals, or engaging in a dangerous or reckless vehicle pursuit to apprehend an individual.
 * Content reveling in or mocking the death or serious injury of an identifiable individual.
-* Content that realistically simulates deceased individuals describing their death or violence experienced.
+* Content that realistically simulates deceased or abused individuals describing their death or violence experienced.
 * Content that depicts creators simulating acts of serious violence against others. For example, executions, torture, maimings, beatings, and more.
 * Content that contains stalking of an identifiable individual.
 * Content that denies or minimizes someone’s role as a victim of a well-documented, major violent event.
@@ -1067,7 +1067,7 @@ Here are some examples of content that’s not allowed on YouTube:
 
 * Repeatedly showing pictures of someone and then making statements like “Look at this creature’s teeth, they’re so disgusting!”, with similar commentary targeting intrinsic attributes throughout the video.
 * Targeting an individual based on their membership in a [protected group](https://support.google.com/youtube/answer/2801939), such as by saying: “Look at this \[slur targeting a protected group\]!”
-* Using an extreme insult to dehumanize an individual based on their intrinsic attributes. For example: “Look at this dog of a woman! She’s not even a human being — she must be some sort of mutant or animal!”
+* Using an extreme insult to dehumanize an individual based on their intrinsic attributes. For example: “Look at this dog of a woman! She's got the face of an animal and her body is mangy, just like a dog's!”
 * Targeting an individual and expressing a wish for their death or serious injury: “I hate her so much. I wish she’d just get hit by a truck and die.”
 * Depicting an identifiable individual being murdered or seriously injured. For example: A video includes a clip from a movie, where one character is brutally shot and killed. The video is edited so that a real individual’s photo is placed over the actor’s face.
 * Threatening someone’s physical safety. This includes explicit threats like, “When I see you on Saturday, I’m going to kill you.” This also includes implying violence by making statements like, “You better watch out, I’m coming for you” while brandishing a weapon.
