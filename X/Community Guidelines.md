@@ -1,13 +1,3 @@
-1. [Help Center](https://help.x.com/en)
-3. [General](https://help.x.com/en/rules-and-policies#general)
-5. The X Rules
-
-The X Rules
------------
-
-1. [Help Center](https://help.x.com/en)
-2. [General](https://help.x.com/en/rules-and-policies#general)
-
 The X Rules
 ===========
 
@@ -197,16 +187,6 @@ If you want to request the deactivation of a deceased person’s account, immedi
 Appeals
 
 If you believe we made a mistake, you can [submit an appeal](https://help.x.com/forms/account-access/appeals.html).
-
-1. [Help Center](https://help.x.com/en)
-3. [Safety and cybercrime](https://help.x.com/en/rules-and-policies#safety-and-cybercrime)
-5. Violent and hateful entities policy
-
-Violent and hateful entities policy
------------------------------------
-
-1. [Help Center](https://help.x.com/en)
-2. [Safety and cybercrime](https://help.x.com/en/rules-and-policies#safety-and-cybercrime)
 
 Violent and hateful entities policy
 ===================================
@@ -436,16 +416,6 @@ If you believe we made a mistake, you can [submit an appeal](https://help.x.com/
 
 We are constantly seeking feedback and input from trusted organizations that are aligned in the mission to combat online child sexual exploitation. To learn more about our partnerships [read the update on our work to tackle Child Sexual Exploitation on X](https://blog.x.com/en_us/topics/company/2023/an-update-on-our-work-to-tackle-child-sexual-exploitation-on-x).
 
-1. [Help Center](https://help.x.com/en)
-3. [Safety and cybercrime](https://help.x.com/en/rules-and-policies#safety-and-cybercrime)
-5. Abuse and harassment
-
-Abuse and harassment
---------------------
-
-1. [Help Center](https://help.x.com/en)
-2. [Safety and cybercrime](https://help.x.com/en/rules-and-policies#safety-and-cybercrime)
-
 Abuse and Harassment
 ====================
 
@@ -558,16 +528,6 @@ To learn more, please see our [range of enforcement options](https://help.x.com/
 
 Post
 
-1. [Help Center](https://help.x.com/en)
-3. [Safety and cybercrime](https://help.x.com/en/rules-and-policies#safety-and-cybercrime)
-5. Hateful Conduct
-
-Hateful Conduct
----------------
-
-1. [Help Center](https://help.x.com/en)
-2. [Safety and cybercrime](https://help.x.com/en/rules-and-policies#safety-and-cybercrime)
-
 Hateful Conduct
 ===============
 
@@ -668,16 +628,6 @@ If someone believes their account was suspended in error, they can [submit an ap
 
 Post
 
-1. [Help Center](https://help.x.com/en)
-3. [Safety and cybercrime](https://help.x.com/en/rules-and-policies#safety-and-cybercrime)
-5. Perpetrators of violent attacks policy
-
-Perpetrators of violent attacks policy
---------------------------------------
-
-1. [Help Center](https://help.x.com/en)
-2. [Safety and cybercrime](https://help.x.com/en/rules-and-policies#safety-and-cybercrime)
-
 Perpetrators of Violent Attacks
 ===============================
 
@@ -777,16 +727,6 @@ Learn more about our [range of enforcement options](https://help.x.com/en/rules-
 #### Share this article
 
 Post
-
-1. [Help Center](https://help.x.com/en)
-3. [Safety and cybercrime](https://help.x.com/en/rules-and-policies#safety-and-cybercrime)
-5. Suicide and Self-harm Policy
-
-Suicide and Self-harm Policy
-----------------------------
-
-1. [Help Center](https://help.x.com/en)
-2. [Safety and cybercrime](https://help.x.com/en/rules-and-policies#safety-and-cybercrime)
 
 Suicide and Self-harm policy
 ============================
@@ -1034,16 +974,6 @@ Appeals
 
 If you believe we made a mistake, you can [submit an appeal](https://help.x.com/en/forms/account-access/appeals.html).
 
-1. [Help Center](https://help.x.com/en)
-3. [Platform Use Guidelines](https://help.x.com/en/rules-and-policies#platform-use-guidelines)
-5. X shopping policies
-
-X shopping policies
--------------------
-
-1. [Help Center](https://help.x.com/en)
-2. [Platform Use Guidelines](https://help.x.com/en/rules-and-policies#platform-use-guidelines)
-
 X Shopping Policy
 =================
 
@@ -1187,16 +1117,6 @@ All merchants who list their merchandise through X Shopping must comply with the
 * Hide violating content while it is awaiting removal.
 * Remove, or require you to remove, violative content.
 * Limit amplification of your account via recommendations to accounts that do not follow you.
-
-1. [Help Center](https://help.x.com/en)
-3. [Safety and cybercrime](https://help.x.com/en/rules-and-policies#safety-and-cybercrime)
-5. Private information policy
-
-Private information policy
---------------------------
-
-1. [Help Center](https://help.x.com/en)
-2. [Safety and cybercrime](https://help.x.com/en/rules-and-policies#safety-and-cybercrime)
 
 Private Content
 ===============
@@ -1387,16 +1307,6 @@ Learn more about our [range of enforcement options](https://help.x.com/rules-and
 #### Share this article
 
 Post
-
-1. [Help Center](https://help.x.com/en)
-3. [Safety and cybercrime](https://help.x.com/en/rules-and-policies#safety-and-cybercrime)
-5. Non-consensual nudity policy
-
-Non-consensual nudity policy
-----------------------------
-
-1. [Help Center](https://help.x.com/en)
-2. [Safety and cybercrime](https://help.x.com/en/rules-and-policies#safety-and-cybercrime)
 
 Non-consensual nudity policy
 ============================
@@ -1723,16 +1633,6 @@ You can report inauthentic accounts, behaviors and content using our dedicated i
 **Appeals**
 
 If you believe we made a mistake, you can [submit an appeal](https://help.x.com/en/forms/account-access/appeals.html).
-
-1. [Help Center](https://help.x.com/en)
-3. [Platform integrity and authenticity](https://help.x.com/en/rules-and-policies#platform-integrity-and-authenticity)
-5. Civic integrity policy
-
-Civic integrity policy
-----------------------
-
-1. [Help Center](https://help.x.com/en)
-2. [Platform integrity and authenticity](https://help.x.com/en/rules-and-policies#platform-integrity-and-authenticity)
 
 Civic integrity policy
 ======================
@@ -2263,16 +2163,6 @@ You can report inauthentic accounts, behaviors and content using our dedicated i
 
 If you believe we made a mistake, you can [submit an appeal](https://help.x.com/en/forms/account-access/appeals.html).
 
-1. [Help Center](https://help.x.com/en)
-3. [Intellectual property](https://help.x.com/en/rules-and-policies#intellectual-property)
-5. Trademark policy
-
-Trademark policy
-----------------
-
-1. [Help Center](https://help.x.com/en)
-2. [Intellectual property](https://help.x.com/en/rules-and-policies#intellectual-property)
-
 Trademark policy
 ================
 
@@ -2323,16 +2213,6 @@ Learn more about [our range of enforcement options](https://help.x.com/rules-and
 #### Share this article
 
 Post
-
-1. [Help Center](https://help.x.com/en)
-3. [General](https://help.x.com/en/rules-and-policies#general)
-5. Username squatting policy
-
-Username squatting policy
--------------------------
-
-1. [Help Center](https://help.x.com/en)
-2. [General](https://help.x.com/en/rules-and-policies#general)
 
 Username squatting policy
 =========================
@@ -2783,16 +2663,6 @@ You can report inauthentic accounts, behaviors and content using our dedicated i
 
 If you believe we made a mistake, you can [submit an appeal](https://help.x.com/en/forms/account-access/appeals.html).
 
-1. [Help Center](https://help.x.com/en)
-3. [Safety and cybercrime](https://help.x.com/en/rules-and-policies#safety-and-cybercrime)
-5. Abusive profile information
-
-Abusive profile information
----------------------------
-
-1. [Help Center](https://help.x.com/en)
-2. [Safety and cybercrime](https://help.x.com/en/rules-and-policies#safety-and-cybercrime)
-
 Abusive profile information
 ===========================
 
@@ -2832,16 +2702,6 @@ If someone believes their account was suspended in error, they can [submit an ap
 
 Post
 
-1. [Help Center](https://help.x.com/en)
-3. [Intellectual property](https://help.x.com/en/rules-and-policies#intellectual-property)
-5. Automated copyright claims for live video
-
-Automated copyright claims for live video
------------------------------------------
-
-1. [Help Center](https://help.x.com/en)
-2. [Intellectual property](https://help.x.com/en/rules-and-policies#intellectual-property)
-
 Automated copyright claims for live video
 =========================================
 
@@ -2861,16 +2721,6 @@ If you are a X business partner and have questions regarding automated copyright
 #### Share this article
 
 Post
-
-1. [Help Center](https://help.x.com/en)
-3. [Intellectual property](https://help.x.com/en/rules-and-policies#intellectual-property)
-5. Counterfeit policy
-
-Counterfeit policy
-------------------
-
-1. [Help Center](https://help.x.com/en)
-2. [Intellectual property](https://help.x.com/en/rules-and-policies#intellectual-property)
 
 Counterfeit policy
 ==================
@@ -2930,16 +2780,6 @@ Learn more about [our range of enforcement options](https://help.x.com/rules-and
 #### Share this article
 
 Post
-
-1. [Help Center](https://help.x.com/en)
-3. [Platform Use Guidelines](https://help.x.com/en/rules-and-policies#platform-use-guidelines)
-5. About public-interest exceptions on X
-
-About public-interest exceptions on X
--------------------------------------
-
-1. [Help Center](https://help.x.com/en)
-2. [Platform Use Guidelines](https://help.x.com/en/rules-and-policies#platform-use-guidelines)
 
 About public-interest exceptions on X
 =====================================
@@ -3041,16 +2881,6 @@ X stands for the value of direct access to powerful figures, and maintaining a r
 
 Note: Given the acute harm that media involving child sexual exploitation, non-consensual nudity, and violent sexual assault can inflict on victims, we do not anticipate cases where the public interest exception would apply. Additionally, we will remove content, and not apply a notice, for infringement of copyrighted material.
 
-1. [Help Center](https://help.x.com/en)
-3. [Platform Use Guidelines](https://help.x.com/en/rules-and-policies#platform-use-guidelines)
-5. About X limits
-
-About X limits
---------------
-
-1. [Help Center](https://help.x.com/en)
-2. [Platform Use Guidelines](https://help.x.com/en/rules-and-policies#platform-use-guidelines)
-
 About X limits
 ==============
 
@@ -3088,16 +2918,6 @@ If you've hit a follow limit, please see this [follow limit troubleshooting](htt
 #### Share this article
 
 Post
-
-1. [Help Center](https://help.x.com/en)
-3. [Platform Use Guidelines](https://help.x.com/en/rules-and-policies#platform-use-guidelines)
-5. About specific instances when a post’s reach may be limited
-
-About specific instances when a post’s reach may be limited
------------------------------------------------------------
-
-1. [Help Center](https://help.x.com/en)
-2. [Platform Use Guidelines](https://help.x.com/en/rules-and-policies#platform-use-guidelines)
 
 About specific instances when a post’s reach may be limited
 ===========================================================
@@ -3141,16 +2961,6 @@ If you notice other instances where posts are not appearing, we encourage you to
 #### Share this article
 
 Post
-
-1. [Help Center](https://help.x.com/en)
-3. [Platform Use Guidelines](https://help.x.com/en/rules-and-policies#platform-use-guidelines)
-5. Our range of enforcement options
-
-Our range of enforcement options
---------------------------------
-
-1. [Help Center](https://help.x.com/en)
-2. [Platform Use Guidelines](https://help.x.com/en/rules-and-policies#platform-use-guidelines)
 
 Our range of enforcement options
 ================================
@@ -3212,16 +3022,6 @@ Users can appeal account suspensions if they believe we made an error. They can 
 **Withholding a post based on age:** We restrict views of specific forms of sensitive media such as adult content for viewers who are under 18 or viewers who do not include a birth date on their profile with [interstitials](https://help.x.com/en/rules-and-policies/notices-on-x.html). 
 
 **Withholding a post or account in a country:** We may withhold access to certain content in a particular country if we receive a valid and properly scoped request from an authorized entity in that country. Read more about [country withheld content](https://help.x.com/en/rules-and-policies/tweet-withheld-by-country.html).
-
-1. [Help Center](https://help.x.com/en)
-3. [Platform Use Guidelines](https://help.x.com/en/rules-and-policies#platform-use-guidelines)
-5. X Moments guidelines and principles
-
-X Moments guidelines and principles
------------------------------------
-
-1. [Help Center](https://help.x.com/en)
-2. [Platform Use Guidelines](https://help.x.com/en/rules-and-policies#platform-use-guidelines)
 
 X Moments guidelines and principles
 ===================================
@@ -3294,16 +3094,6 @@ If you have a comment, question, or concern about the curated content you see on
 #### Share this article
 
 Post
-
-1. [Help Center](https://help.x.com/en)
-3. [Platform Use Guidelines](https://help.x.com/en/rules-and-policies#platform-use-guidelines)
-5. Fair use policy
-
-Fair use policy
----------------
-
-1. [Help Center](https://help.x.com/en)
-2. [Platform Use Guidelines](https://help.x.com/en/rules-and-policies#platform-use-guidelines)
 
 Fair use policy
 ===============
@@ -3471,16 +3261,6 @@ Please think twice before submitting a claim or counter-notice, especially if yo
 If multiple copyright complaints are received about an account, or other evidence suggests a pattern of repeat infringement, X may suspend that account in accordance with our Repeat Infringer Policy. Our Repeat Infringer Policy takes valid retractions and counter-notices into account. Users suspended under that policy may file a suspension appeal using [this form](https://help.x.com/forms/general?subtopic=suspended).
 
 Additionally, re-posting material that was already removed in response to a copyright complaint, indicating where to access copyrighted material on third party websites, or certain other actions that demonstrate your account is intended solely or primarily to infringe the copyrighted material of others may result in permanent account suspension. If you are suspended on this basis, you may file an appeal using [this form](https://help.x.com/forms/general?subtopic=suspended). Please be aware that appealing a suspension does not guarantee your account will be reinstated.
-
-1. [Help Center](https://help.x.com/en)
-3. [Platform Use Guidelines](https://help.x.com/en/rules-and-policies#platform-use-guidelines)
-5. Our approach to policy development and enforcement philosophy
-
-Our approach to policy development and enforcement philosophy
--------------------------------------------------------------
-
-1. [Help Center](https://help.x.com/en)
-2. [Platform Use Guidelines](https://help.x.com/en/rules-and-policies#platform-use-guidelines)
 
 Our approach to policy development and enforcement philosophy
 =============================================================
