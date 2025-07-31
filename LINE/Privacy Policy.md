@@ -61,7 +61,7 @@ If you do not provide certain types of information which need to be registered f
 
 We may collect and use information by leveraging [technologies such as association learning and differential privacy](https://privacy.lycorp.co.jp/en/acquisition/privacy_techs.html) in order to better protect your privacy.
 
-The following are some examples of the Personal Data that we will collect.
+The following are some examples of the Personal Data that we will collect. Such Personal Data will also include information in cases where you are not logged in and in cases where you do not have an account.
 
 ### 3.a.Examples of Personal Data to be provided by you
 
@@ -279,7 +279,7 @@ We may subcontract certain services required for providing our Services (e.g.: b
 The subcontractor will access the Personal Data only to the minimum extent required for performing the subcontracted services on our behalf, and will not use the Personal Data beyond the scope of the subcontracted services.  
 We will: (i) comply with Applicable Laws and investigate the qualification as a subcontractor; (ii) take measures to have the subcontractor comply with the policies related to the protection of personal information where the subcontractor is located by ways such as prescribing matters related to confidentiality in the contract with the subcontractor; and (iii) thereby establish a system for properly managing Personal Data.
 
-Countries and regions to which Personal Data is transferred: Japan, the United States, Korea, Ireland, Canada, the Philippines, Australia, Vietnam, Thailand, Taiwan, Indonesia, Singapore, the Netherlands, Germany and Switzerland.
+Countries and regions to which Personal Data is transferred: Japan, the United States, Korea, Canada, the Philippines, Australia, Vietnam, Thailand, Taiwan, Indonesia, Singapore, Switzerland, United Kingdom, and the European Economic Area.
 
 ### 5.c.Sharing of Personal Data among group companies
 
@@ -315,6 +315,8 @@ For example, when you add the LINE official account as a friend, talk to a LINE 
 [](https://privacy.lycorp.co.jp/en/connection/country_or_region_list.html)In certain services or features for some Partners, we may ask that you provide additional Personal Data such as your email address or phone number. In the foregoing case, we will additionally ask for your permission regarding the provision of additional Personal Data to such Partners before you use such services or features.
 
 The processing of Personal Data by the recipients will be pursuant to the rules and policies prescribed by each recipient. We confirm that such recipients comply with the policies related to the protection of personal information where they are located.
+
+In our services for distributing ads, we may provide our designated identifiers that are in a condition where they are not tied to information that can directly identify you to advertisers located in countries or regions other than those described in “5. Provision of Personal Data,” for use in measuring the effects of ads and other uses.
 
 ### 5.f.Compliance and cooperation with public agencies
 
@@ -513,9 +515,6 @@ If you do not agree to any of the changes and you no longer wish to use our Serv
 LY Corporation  
 CEO and President - Takeshi Idezawa
 
-Formulated on October 1, 2023  
-Date of last update: March 19, 2025
-
 10.Reference
 ------------
 
@@ -560,4 +559,7 @@ Inquiries and allegations regarding the processing of Personal Data
 #### 10.b.iii.Archived versions of Privacy Policy
 
 [LINE Privacy Policy ![pdf](https://www.lycorp.co.jp/assets/images/icon_pdf.svg)](https://www.lycorp.co.jp/assets/pdf/l_privacypolicy_en.pdf)   
-[Yahoo! JAPAN Terms of Use Part 1 Chapter 2 Privacy Policy ![pdf](https://www.lycorp.co.jp/assets/images/icon_pdf.svg)](https://www.lycorp.co.jp/assets/pdf/y_chapert1_en.pdf#y_privacypolicy_en)
+[Yahoo! JAPAN Terms of Use Part 1 Chapter 2 Privacy Policy ![pdf](https://www.lycorp.co.jp/assets/images/icon_pdf.svg)](https://www.lycorp.co.jp/assets/pdf/y_chapert1_en.pdf#y_privacypolicy_en) 
+
+Formulated on October 1, 2023  
+Date of last update: July 31, 2025
