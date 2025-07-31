@@ -121,8 +121,6 @@ We Remove:
 * In the context of home entry or interpersonal violence that is proportional to the violence responded to and is an immediate threat
 * The potential impact on voice outweighs the risk of imminent violence
 
-Read lessRead more
-
 Dangerous Organizations and Individuals
 =======================================
 
@@ -287,8 +285,6 @@ For the following Community Standards, we require additional information and/or 
 
 * In certain cases, we will allow content that may otherwise violate the Community Standards when it is determined that the content is satirical. Content will only be allowed if the violating elements of the content are being satirized or attributed to something or someone else in order to mock or criticize them.
 
-Read lessRead more
-
 Coordinating Harm and Promoting Crime
 =====================================
 
@@ -385,8 +381,6 @@ We Remove:
 * Claims that voting or census participation may or will result in law enforcement consequences (for example, arrest, deportation or imprisonment).
 * Threats to go to an election site to monitor or watch voters or election officials’ activities if combined with a reference to intimidation (e.g., “Let’s show them who's boss!,”, “They want a war? We’ll give them a war.”).
 * Threats to go to a post-election activity site if combined with a reference to intimidation (e.g., “Let’s show them who's boss!,”, “They want a war? We’ll give them a war.”).
-
-Read lessRead more
 
 Restricted Goods and Services
 =============================
@@ -685,8 +679,6 @@ We do not allow:
 
 Content that attempts to buy, sell, trade, coordinate the trade of, donate, gift or ask for recalled goods.
 
-Read lessRead more
-
 Fraud, Scams, and Deceptive Practices
 =====================================
 
@@ -865,8 +857,6 @@ For the following Community Standards, we require additional information and/or 
 
 In certain cases, we allow content that may otherwise violate the Community Standards when it is determined that the content is satirical. Content will only be allowed if the violating elements of the content are being satirized or attributed to something or someone else in order to mock or criticize them.
 
-Read lessRead more
-
 Suicide, Self-Injury, and Eating Disorders
 ==========================================
 
@@ -921,8 +911,6 @@ For the following Community Standards, we require additional information and/or 
 * We may remove suicide notes when we have confirmation of a suicide or suicide attempt. We try to identify suicide notes using several factors, including but not limited to:
     * Family or legal representative requests,
     * Reports from media, law enforcement, or other third party sources (e.g. government agencies, NGOs), or the [Suicidal Content Contact Form](https://www.facebook.com/help/contact/305410456169423/) or [Instagram Contact Form](https://help.instagram.com/contact/383679321740945/).
-
-Read lessRead more
 
 Child Sexual Exploitation, Abuse, and Nudity
 ============================================
@@ -1037,8 +1025,6 @@ We may remove content that identifies alleged victims of child sexual exploitati
 
 We may remove content created for the purpose of identifying a private minor if there is a risk to the minor’s safety, when requested by Law Enforcement, Government, Trusted Partner, or the content is self-reported by the minor or the minor’s parent/legal guardian
 
-Read lessRead more
-
 Adult Sexual Exploitation
 =========================
 
@@ -1109,8 +1095,6 @@ We may restrict visibility to people over the age of 18 and include a warning la
 In addition to our at-scale policy of removing content that threatens or advocates rape or other non-consensual sexual touching, we may also disable the posting account.
 
 We may also enforce on content shared by a third party that identifies survivors of sexual assault when reported by an authorized representative or Trusted Partner.
-
-Read lessRead more
 
 Bullying and Harassment
 =======================
@@ -1231,8 +1215,6 @@ Do not:
         * Content that targets them based on a protected characteristic, or,
         * Content or behavior otherwise deemed to be objectionable in local context
 
-Read lessRead more
-
 Human Exploitation
 ==================
 
@@ -1271,8 +1253,6 @@ We allow content that is otherwise covered by this policy when posted in condemn
 For the following Community Standards, we require additional information and/or context to enforce:
 
 We may remove content that offers a job in locations that are high-risk for labor exploitation when confirmed by law enforcement, local non-governmental organizations, or other trusted partners
-
-Read lessRead more
 
 578462292695485
 
@@ -1382,8 +1362,6 @@ For the following Community Standards, we require additional information and/or 
 * Source material that purports to reveal nonpublic information relevant to an election shared as part of a foreign government influence operation.
     * We remove reporting on such a leak by state-controlled media entities from the country behind the leak.
 
-Read lessRead more
-
 Hateful Conduct
 ===============
 
@@ -1465,8 +1443,6 @@ Do not post:
 In certain cases, we will allow content that may otherwise violate the Community Standards when it is determined that the content is satirical. Content will only be allowed if the violating elements of the content are being satirized or attributed to something or someone else in order to mock or criticize them.
 
 Note: if you are a European Union user, and are seeing content that you believe violates hate speech laws within your country, you can submit a legal removal request to [Facebook](https://www.facebook.com/help/contact/319149701968527) or [Instagram](https://help.instagram.com/contact/406206379945942).
-
-Read lessRead more
 
 Violent and Graphic Content
 ===========================
@@ -1606,8 +1582,6 @@ We may allow:
 
 Imagery of a person’s violent death or life-threatening event when the depiction is incidental
 
-Read lessRead more
-
 Adult Nudity and Sexual Activity
 ================================
 
@@ -1706,8 +1680,6 @@ For the following Community Standards, we require additional information and/or 
 
 * In certain cases, **we will allow content for ages 18 and older with a label** that may otherwise violate the Community Standards when it is determined that the content is satirical. Content will only be allowed if the violating elements of the content are being satirised or attributed to something or someone else in order to mock or criticize them.
 
-Read lessRead more
-
 Adult Sexual Solicitation and Sexually Explicit Language
 ========================================================
 
@@ -1759,8 +1731,6 @@ For the following Community Standards, we require additional information and/or 
 
 * In certain cases, we will allow content that may otherwise violate the Community Standards when it is determined that the content is satirical. Content will only be allowed if the violating elements of the content are being satirized or attributed to something or someone else in order to mock or criticize them.
 
-Read lessRead more
-
 Account Integrity
 =================
 
@@ -1806,8 +1776,6 @@ In the following scenarios, we may request additional information about an accou
 * Creating or using an account or other entity through automated means, such as scripting (unless the scripting activity occurs through authorized routes and does not otherwise violate our policies)
 * Empty accounts with prolonged dormancy
 
-Read lessRead more
-
 Authentic Identity Representation
 =================================
 
@@ -1837,8 +1805,6 @@ On Facebook, we will seek further information before taking actions ranging from
 * Create or maintain multiple Facebook accounts
 * Create an account that represents a non-human entity, such as a business, pet, or fictional character
 * Maintain empty profiles with prolonged dormancy
-
-Read lessRead more
 
 Spam
 ====
@@ -1877,8 +1843,6 @@ We do not allow:
     * Transferring admin or moderation responsibilities for a page or group to another user based on their interest in the page or group, rather than an exchange of value.
     * Posting or sharing clearly identified Branded Content.
 
-Read lessRead more
-
 Cybersecurity
 =============
 
@@ -1906,8 +1870,6 @@ Attempts to share, develop, host, or distribute malicious or harmful code, inclu
 * Creating, sharing or hosting malicious software including browser extensions and mobile applications, on or off the platform that put our users or products and services at risk.
 * Threatening, admitting to, or enabling hacking - Including by sharing or advertising software, courses, or products that enable people to circumvent security systems, including software that encourages hacking of software or credentials
 * Providing online infrastructure, including web hosting services, domain name system servers and ad networks that enables abusive links such that a majority of those links on our services violate the spam or cybersecurity sections of the Community Standards.
-
-Read lessRead more
 
 Inauthentic Behavior
 ====================
@@ -1952,8 +1914,6 @@ We do not allow:
 * Entities to engage in, or claim to engage in **Foreign Interference**, defined as Coordinated Inauthentic Behavior where the network operators are not located in the same country as the audience the operation targets.
 * Entities to engage in, or claim to engage in **Government Interference**, defined as Coordinated Inauthentic Behavior where the operation is attributable to a government actor.
 * Governments that have instituted sustained blocks of social media to use their official departments, agencies, and embassies to deny the use of force or violent events in the context of an attack against the territorial integrity of another state in violation of Article 2(4) of the UN charter.
-
-Read lessRead more
 
 Misinformation
 ==============
@@ -2031,8 +1991,6 @@ Media can be edited in a variety of ways. In many cases, these changes are benig
 
 * **Content Digitally Created or Altered that May Mislead.** For content that does not otherwise violate the Community Standards, we may place an informative label on the face of content – or reject content submitted as an advertisement – when the content is a photorealistic image or video, or realistic sounding audio, that was digitally created or altered and creates a particularly high risk of materially deceiving the public on a matter of public importance.
 
-Read lessRead more
-
 Memorialization
 ===============
 
@@ -2062,8 +2020,6 @@ For the following Community Standards, we require additional information and/or 
 * Change the deceased's individual's privacy settings from public to friends-only when there is harmful content on the profile
 * Change the name on the profile if it violates our Community Standards, in accordance with our Authentic Name policy
 * Add friends or followers to the profile if they were removed following the deceased’s passing
-
-Read lessRead more
 
 Third-Party Intellectual Property Infringement
 ==============================================
@@ -2097,8 +2053,6 @@ We remove accounts that:
 
 We allow content that Is authorized by the rights holder and follows established fair use principles
 
-Read lessRead more
-
 User Requests
 =============
 
@@ -2110,8 +2064,6 @@ We comply with requests for removal of:
 
 * Accounts when requested by the account owner
 * Accounts belonging to an incapacitated individual when requested by an authorized representative with Proof of Authority and medical documentation confirming incapacitation
-
-Read lessRead more
 
 Additional Protection of Minors
 ===============================
@@ -2125,5 +2077,3 @@ We comply with:
 For the following Community Standards, we require additional information and/or context to enforce:
 
 We may remove content created for the purpose of identifying a private minor if there may be a risk to the minor’s safety when requested by a user, government, law enforcement or external child safety experts.
-
-Read lessRead more
