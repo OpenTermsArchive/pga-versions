@@ -1,7 +1,7 @@
 LinkedIn European Regional Privacy Notice
 =========================================
 
-We have changed our legal basis for how we use certain data for personalized ads. We have updated this European Regional Privacy Notice and now ask for your consent to continue using your data for those purposes. [Learn more](https://www.linkedin.com/help/linkedin/answer/a7152512)
+We have changed our legal basis for how we use certain data for personalized ads. We have updated this European Regional Privacy Notice and now ask for your consent to continue using your data for those purposes. [Learn more](https://www.linkedin.com/help/linkedin/answer/a7152512)﻿[](https://www.linkedin.com/help/linkedin/answer/a7152512)
 
 _[Effective February 27, 2025](https://www.linkedin.com/help/linkedin/answer/a1341216/updates-to-user-agreement-and-privacy-policy)_
 
@@ -22,7 +22,7 @@ LinkedIn processes personal data when it is necessary to perform our contract (t
 |     |     |
 | --- | --- |
 | **Why and how we use your data** | **Data we use** |
-| To allow Members to register for and manage access to their LinkedIn account, to view the LinkedIn platform in their preferred language, and to receive the core Services under our User Agreement. | Your account information: your name, email address, [login](https://www.linkedin.com/help/linkedin/answer/a1335211?hcppcid=search) and [two-step verification](https://www.linkedin.com/help/linkedin/answer/a1358878?hcppcid=search) information, [payment information](https://www.linkedin.com/help/linkedin/answer/a1340156?hcppcid=search) (for paid Services), subscription information, and Member-chosen language.<br><br>Data relating to your use of our Services: IP address, device ID, user agent, location data, browser type and version, operating system and platform, and other online identifiers collected from [Cookies](https://www.linkedin.com/legal/cookie-policy) and other similar technologies. |
+| To allow Members to register for and manage access to their LinkedIn account, to view the LinkedIn platform in their preferred language, and to receive the core Services under our User Agreement. | Your account information: your name, email address, [login](https://www.linkedin.com/help/linkedin/answer/a1335211?hcppcid=search) and [two-step verification](https://www.linkedin.com/help/linkedin/answer/a1358878?hcppcid=search) information, [payment information](https://www.linkedin.com/help/billing/answer/a1340105) (for paid Services), subscription information, and Member-chosen language.<br><br>Data relating to your use of our Services: IP address, device ID, user agent, location data, browser type and version, operating system and platform, and other online identifiers collected from [Cookies](https://www.linkedin.com/legal/cookie-policy) and other similar technologies. |
 
 #### **Consent**
 
