@@ -956,13 +956,11 @@ Content that solicits sexual content or activity depicting or involving children
 * Nude imagery of real or non-real children
 * Sexualized imagery of real or non-real children
 
-Content that solicits sexual encounters with children
-
 **Inappropriate interactions with children**
 
 Content that constitutes or facilitates inappropriate interactions with children, such as:
 
-* Arranging or planning sexual encounters with children
+* Soliciting, arranging or planning sexual encounters with children
 * Enticing children to engage in sexual activity through sexualized conversations or offering, displaying, obtaining or requesting sexual material to or from children, through purposeful exposure or in private messages
 * Engaging in implicitly sexual conversations in private messages with children
 * Obtaining or requesting sexual material from children in private messages
@@ -1249,6 +1247,10 @@ Content that offers to provide or facilitate human smuggling
 Content that asks for human smuggling services
 
 We allow content that is otherwise covered by this policy when posted in condemnation, educational, awareness raising, or news reporting contexts.
+
+Under our Human Exploitation policies, our reviewers and automated systems may also consider a range of behavioral signals to help detect and take action on violating accounts.
+
+* We may remove content that offers a job in locations that are high-risk for labor exploitation when confirmed by law enforcement, local non-governmental organizations, or other trusted partners
 
 For the following Community Standards, we require additional information and/or context to enforce:
 
