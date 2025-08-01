@@ -195,13 +195,11 @@ Content that solicits sexual content or activity depicting or involving children
 * Nude imagery of real or non-real children
 * Sexualized imagery of real or non-real children
 
-Content that solicits sexual encounters with children
-
 **Inappropriate interactions with children**
 
 Content that constitutes or facilitates inappropriate interactions with children, such as:
 
-* Arranging or planning sexual encounters with children
+* Soliciting, arranging or planning sexual encounters with children
 * Enticing children to engage in sexual activity through sexualized conversations or offering, displaying, obtaining or requesting sexual material to or from children, through purposeful exposure or in private messages
 * Engaging in implicitly sexual conversations in private messages with children
 * Obtaining or requesting sexual material from children in private messages
@@ -1154,13 +1152,11 @@ Content that solicits sexual content or activity depicting or involving children
 * Nude imagery of real or non-real children
 * Sexualized imagery of real or non-real children
 
-Content that solicits sexual encounters with children
-
 **Inappropriate interactions with children**
 
 Content that constitutes or facilitates inappropriate interactions with children, such as:
 
-* Arranging or planning sexual encounters with children
+* Soliciting, arranging or planning sexual encounters with children
 * Enticing children to engage in sexual activity through sexualized conversations or offering, displaying, obtaining or requesting sexual material to or from children, through purposeful exposure or in private messages
 * Engaging in implicitly sexual conversations in private messages with children
 * Obtaining or requesting sexual material from children in private messages
