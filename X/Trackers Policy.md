@@ -13,17 +13,17 @@ Cookies and similar technologies like pixels and local storage provide you with 
 * Understand how you interact with our services and where we can improve.
 * Measure the effectiveness of our advertising and marketing.
 * Rate how our services perform and identify bugs and other quality issues. 
-* Gather data used to operate our business — from measuring our audience size to enforcing the [X Rules](https://help.x.com/en/rules-and-policies/twitter-rules.html). 
+* Gather data used to operate our business — from measuring our audience size to enforcing the X Rules. 
 
-[What are cookies, pixels, and local storage?](#what-are-cookies)
+What are cookies, pixels, and local storage?
 
-[Why do our services use these technologies?](#why-do-services-use)
+Why do our services use these technologies?
 
-[Where are these technologies used?](#where-are-tech-used)
+Where are these technologies used?
 
-[What are my privacy options?](#what-privacy)
+What are my privacy options?
 
-[More privacy options](#more-privacy)
+More privacy options
 
 What are cookies, pixels, and local storage?
 
@@ -55,7 +55,7 @@ Cookies, pixels, and local storage work to operate and support our business, and
 * Log you in to X and our services.
 * Help protect your security and the security of our services.
 * Let you view content with limited distribution.
-* Help us detect and fight spam, abuse, and other activities that break the [X Rules](https://help.x.com/en/rules-and-policies/twitter-rules.html).
+* Help us detect and fight spam, abuse, and other activities that break the X Rules.
 
 **Functionality  
 **Deliver error messages, allow you to switch between accounts, coordinate our service across tabs in a browser, and provide certain features on partner websites. 
@@ -66,8 +66,8 @@ Cookies, pixels, and local storage work to operate and support our business, and
 **Analytics**
 
 * Improve and understand how people use our services, including buttons and widgets.
-* Optimize your experience by understanding how you interact with our services, like when and how often you use them and what links you visit, and from where. (We may use [Google Analytics](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage) to help us with this.) 
-* Count the number of people who have seen a particular post, embedded posts, buttons, or timeline. [Learn more](https://developer.x.com/en/docs/twitter-for-websites/privacy).
+* Optimize your experience by understanding how you interact with our services, like when and how often you use them and what links you visit, and from where. (We may use Google Analytics to help us with this.) 
+* Count the number of people who have seen a particular post, embedded posts, buttons, or timeline. Learn more.
 
 **Research and development**
 
@@ -94,7 +94,7 @@ Personalize ads and measure performance, like showing you ads and evaluating the
 
 Keep in mind, if you ever log in to X with your device, we associate and will continue to associate that device with your account. This means whether or not you're logged in, we'll receive information about your device(s) when information is shared by a partner, you visit twitter.com or third-party websites that integrate X services, or you visit a X advertiser's website or mobile application. Most commonly, IP addresses and the time we receive the data, are used to link that specific device with you. 
 
-To see more about the devices and web browsers associated with your X account, take a look at [Your X Data](https://twitter.com/your_twitter_data) when you're logged in **and** when you're logged out of your account. 
+To see more about the devices and web browsers associated with your X account, take a look at Your X Data when you're logged in **and** when you're logged out of your account. 
 
 ### Where are these technologies used?
 
@@ -104,7 +104,7 @@ We (along with third parties) use these technologies on X services, which inclu
 
 We're committed to giving you meaningful privacy options to control or limit how we, our partners, and other third-parties use cookies and cookie-related data:
 
-X [stores information](https://help.x.com/en/using-twitter/tailored-suggestions.html) about other websites where you've seen X content or accessed our services. For most X features you can adjust this by going to: _Settings and privacy > Privacy and safety > Off-X activity > Allow use of where you see X content across the web_. However, for certain paid subscription features, even if you make this adjustment we will still store certain information where doing so is necessary for that feature to work. We will tell you about this storage when you sign up for these features.  
+X stores information about other websites where you've seen X content or accessed our services. For most X features you can adjust this by going to: _Settings and privacy > Privacy and safety > Off-X activity > Allow use of where you see X content across the web_. However, for certain paid subscription features, even if you make this adjustment we will still store certain information where doing so is necessary for that feature to work. We will tell you about this storage when you sign up for these features.  
 
 If you’ve turned this off, or are in the EU,  Iceland, Liechtenstein, Norway or Switzerland, we won't store or use these web page visits to improve your experience in the future. However, if we've previously stored your web browsing history, we may continue to personalize your experience based on information we've already learned from that history.
 
@@ -113,7 +113,7 @@ You will always see ads on X based on your X activity. There are a variety of wa
 * **Personalized ads setting in X  
     **Adjust your setting for use of off-X data by going to _Settings and privacy > Privacy and safety > Ads preferences > Personalized ads_.
 * **Interest-based advertising for web  
-    **Opt-out in your current browser through the Digital Advertising Alliance's consumer choice tool at [optout.aboutads.info](https://optout.aboutads.info/?c=2&lang=EN).
+    **Opt-out in your current browser through the Digital Advertising Alliance's consumer choice tool at optout.aboutads.info.
 * **Limit ad tracking for iOS version 13 and earlier**  
     Turn on this setting through your iOS device settings (precise instructions vary by version). 
 * **Ads personalization for Android**  
@@ -127,11 +127,11 @@ You will always see ads on X based on your X activity. There are a variety of wa
 
 ### More privacy options 
 
-Along with [optout.aboutads.info](https://optout.aboutads.info/?c=2&lang=EN), you can read more about opting out of interest-based ads at [networkadvertising.org/choices](https://optout.networkadvertising.org/?c=1). Lastly, you can opt-out of interest-based Google ads using [Google's Ads Settings](https://adssettings.google.com/u/0/authenticated).
+Along with optout.aboutads.info, you can read more about opting out of interest-based ads at networkadvertising.org/choices. Lastly, you can opt-out of interest-based Google ads using Google's Ads Settings.
 
-**Important:** To view or change web settings for your X account, you'll need to log in to the web browser. Changing your X settings in the web browser when you’re logged out will only affect behavior on that browser while you aren't logged in to X. Read our article on how to access your [personalization and data settings](https://help.x.com/en/personalization-data-settings.html) for more.
+**Important:** To view or change web settings for your X account, you'll need to log in to the web browser. Changing your X settings in the web browser when you’re logged out will only affect behavior on that browser while you aren't logged in to X. Read our article on how to access your personalization and data settings for more.
 
-The cookies you encounter depend on the features and functionality you use. The most commonly used cookies on X services are described in this [chart](https://cdn.cms-twdigitalassets.com/content/dam/help-twitter/rules-and-policies/cookie-description-lists/cookie-description-list-en.pdf), which we update from time to time. Cookie lifespans are capped at 13 months in certain areas.   
+The cookies you encounter depend on the features and functionality you use. The most commonly used cookies on X services are described in this chart, which we update from time to time. Cookie lifespans are capped at 13 months in certain areas.   
 
 Name
 
