@@ -57,11 +57,7 @@ You may not submit, post, or display any video content on or through our service
 Enforcement and Appeals
 
   
-Learn more about our approach to enforcement, including potential consequences for violating these rules or attempting to circumvent enforcement, as well as how to appeal.  
-
-#### Share this article
-
-Post
+Learn more about our approach to enforcement, including potential consequences for violating these rules or attempting to circumvent enforcement, as well as how to appeal.
 
 Violent Content 
 
@@ -258,10 +254,6 @@ We will **immediately and permanently suspend any account that we determine to b
 Learn more about our range of enforcement options and our approach to policy development and enforcement.
 
 To learn more about violations related to specific threats of violence or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our abusive behavior policy.
-
-#### Share this article
-
-Post
 
 Child safety
 
@@ -524,10 +516,6 @@ When determining the penalty for violating this policy, we consider a number of 
 
 To learn more, please see our range of enforcement options, and if someone believes their account was enforced against in error, they can submit an appeal.
 
-#### Share this article
-
-Post
-
 Hateful Conduct
 ===============
 
@@ -624,10 +612,6 @@ Learn more about our range of enforcement options. 
 
 If someone believes their account was suspended in error, they can submit an appeal.
 
-#### Share this article
-
-Post
-
 Perpetrators of Violent Attacks
 ===============================
 
@@ -723,10 +707,6 @@ Additional resources
 
   
 Learn more about our range of enforcement options and our approach to policy development and enforcement.
-
-#### Share this article
-
-Post
 
 Suicide and Self-harm policy
 ============================
@@ -875,10 +855,6 @@ Learn more about our range of enforcement options and our approach to policy dev
 Learn more about how you can support someone experiencing thoughts of self-harm or suicide.   
 
 Visit our Safety Center for a list of local mental health resources and read our blog on suicide prevention to learn more about our work.
-
-#### Share this article
-
-Post
 
 Adult Content
 
@@ -1304,10 +1280,6 @@ When determining the penalty for violating this policy, we consider a number of 
 
 Learn more about our range of enforcement options. If someone believes their posts or account were enforced against in error, they can submit an appeal.
 
-#### Share this article
-
-Post
-
 Non-consensual nudity policy
 ============================
 
@@ -1411,10 +1383,6 @@ In other cases, we may not suspend an account immediately. This is because some 
 
   
 Learn more about our range of enforcement options and our approach to policy development and enforcement.
-
-#### Share this article
-
-Post
 
 Authenticity
 
@@ -1722,10 +1690,6 @@ Posts that are enforced under this policy will have their reach restricted on X 
     
 
 Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our range of enforcement options.
-
-#### Share this article
-
-Post
 
 Authenticity
 
@@ -2210,10 +2174,6 @@ If we determine that you violated our trademark policy, we may suspend your acco
 
 Learn more about our range of enforcement options and our approach to policy development and enforcement.
 
-#### Share this article
-
-Post
-
 Username squatting policy
 =========================
 
@@ -2221,11 +2181,7 @@ Username squatting is prohibited by the X Rules.
 
 Please note that if an account has had no updates, no profile image, and there is no intent to mislead, it typically means there's no name-squatting or impersonation. Note that we will not release squatted usernames except in cases of trademark infringement. If your report involves trademark infringement, please consult those policies for instructions for reporting these accounts.   
 
-Attempts to sell, buy, or solicit other forms of payment in exchange for usernames are also violations and may result in permanent account suspension.  
-
-#### Share this article
-
-Post
+Attempts to sell, buy, or solicit other forms of payment in exchange for usernames are also violations and may result in permanent account suspension.
 
 Authenticity
 
@@ -2696,11 +2652,7 @@ If an account’s profile information includes any of the abusive behaviors list
 
 If an account uses a hateful symbol in its profile information, the account-holder will be required to remove the symbol before they can use their account again. Repeated violations will lead to permanent suspension. For more information on how we handle hateful imagery and symbols, see our media policy.  
 
-If someone believes their account was suspended in error, they can submit an appeal.  
-
-#### Share this article
-
-Post
+If someone believes their account was suspended in error, they can submit an appeal.
 
 Automated copyright claims for live video
 =========================================
@@ -2717,10 +2669,6 @@ If one of your broadcasts is claimed because of an automated match, you will hav
 A claim may result in the removal of a broadcast, but will not create long-term penalties on your account. If we receive repeated claims within a few hours, we may temporarily limit your ability to broadcast. 
 
 If you are a X business partner and have questions regarding automated copyright claims, please reach out to your account manager.
-
-#### Share this article
-
-Post
 
 Counterfeit policy
 ==================
@@ -2776,10 +2724,6 @@ If we determine that you violated our counterfeit policy, we may suspend your ac
 
   
 Learn more about our range of enforcement options and our approach to policy development and enforcement.
-
-#### Share this article
-
-Post
 
 About public-interest exceptions on X
 =====================================
@@ -2915,10 +2859,6 @@ The post limit of 2,400 updates per day is further broken down into semi-hourly 
 
 If you've hit a follow limit, please see this follow limit troubleshooting article for more information.
 
-#### Share this article
-
-Post
-
 About specific instances when a post’s reach may be limited
 ===========================================================
 
@@ -2957,10 +2897,6 @@ We may limit a post’s reach if it violates our X Rules or applicable laws, or
 Some people report issues related to their posts not appearing on X or their replies detaching from an original post that happen outside of enforcement actions and safety features. These cases may be the result of a post being identified as spam by our systems or may be due to some current technical issues and limitations of the service. We use @Support to update the community about technical issues like these.
 
 If you notice other instances where posts are not appearing, we encourage you to let us know by reporting the issue.
-
-#### Share this article
-
-Post
 
 Our range of enforcement options
 ================================
@@ -3091,10 +3027,6 @@ Share your feedback
 
 If you have a comment, question, or concern about the curated content you see on X Moments, let us know. [Give feedback](https://help.x.com/content/help-twitter/en/forms/curated-content-feedback.html)
 
-#### Share this article
-
-Post
-
 Fair use policy
 ===============
 
@@ -3121,10 +3053,6 @@ For more information on fair use:
 * https://ilt.eff.org/index.php/Copyright:\_Fair\_Use
 * https://www.lumendatabase.org/
 * http://fairuse.stanford.edu/overview/fair-use/four-factors/
-
-#### Share this article
-
-Post
 
 Copyright policy
 ================
@@ -3321,7 +3249,3 @@ Public impact of the content: A topic of legitimate public interest is different
 Source of the content: Some people, groups, organizations and the content they post on X may be considered a topic of legitimate public interest by virtue of their being in the public consciousness. This does not mean that their posts will always remain on the service. Rather, we will consider if there is a legitimate public interest for a particular post to remain up so it can be openly discussed.
 
 Availability of coverage: Everyday people play a crucial role in providing firsthand accounts of what’s happening in the world, counterpoints to establishment views, and, in some cases, exposing the abuse of power by someone in a position of authority. As a situation unfolds, removing access to certain information could inadvertently hide context and/or prevent people from seeing every side of the issue. Thus, before actioning a potentially violating post, we will take into account the role it plays in showing the larger story and whether that content can be found elsewhere.
-
-#### Share this article
-
-Post
