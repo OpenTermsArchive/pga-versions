@@ -6,30 +6,30 @@ X's purpose is to serve the public conversation. Violence, harassment and other 
 
 ### Safety
 
-Violent Content: You may share graphic media if it is properly labeled, not prominently displayed and is not excessively gory or depicting sexual violence, but explicitly threatening, inciting, glorifying, or expressing desire for violence is not allowed. Learn more.
+Violent Content: You may share graphic media if it is properly labeled, not prominently displayed and is not excessively gory or depicting sexual violence, but explicitly threatening, inciting, glorifying, or expressing desire for violence is not allowed. [Learn more](https://help.x.com/en/rules-and-policies/violent-speech.html).
 
-Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. Learn more.
+Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/rules-and-policies/violent-entities.html).
 
-Child Safety: We have zero tolerance for any forms of child sexual exploitation and remove certain media depicting physical child abuse to prevent the normalization of violence against children. Learn more.  
+Child Safety: We have zero tolerance for any forms of child sexual exploitation and remove certain media depicting physical child abuse to prevent the normalization of violence against children. [Learn more](https://help.x.com/en/rules-and-policies/sexual-exploitation-policy.html).  
 
-Abuse/Harassment: You may not share abusive content, engage in the targeted harassment of someone, or incite other people to do so. Learn more.
+Abuse/Harassment: You may not share abusive content, engage in the targeted harassment of someone, or incite other people to do so. [Learn more](https://help.x.com/en/rules-and-policies/abusive-behavior.html).
 
-Hateful conduct: You may not attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. Learn more. 
+Hateful conduct: You may not attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. [Learn more](https://help.x.com/en/rules-and-policies/hateful-conduct-policy.html). 
 
-Perpetrators of Violent Attacks: We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, and may also remove posts disseminating manifestos or other content produced by perpetrators. Learn more. 
+Perpetrators of Violent Attacks: We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, and may also remove posts disseminating manifestos or other content produced by perpetrators. [Learn more](https://help.x.com/en/rules-and-policies/perpetrators-of-violent-attacks.html). 
 
-Suicide: You may not promote or encourage suicide or self-harm. Learn more.
+Suicide: You may not promote or encourage suicide or self-harm. [Learn more](https://help.x.com/en/rules-and-policies/glorifying-self-harm.html).
 
-Adult Content: You may share consensually produced and distributed adult nudity or sexual behavior, provided it's properly labeled and not prominently displayed. Learn more. 
+Adult Content: You may share consensually produced and distributed adult nudity or sexual behavior, provided it's properly labeled and not prominently displayed. [Learn more](https://help.x.com/en/rules-and-policies/media-policy.html). 
 
-Illegal or Certain Regulated Goods or Services: You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. Learn more.  
+Illegal or Certain Regulated Goods or Services: You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. [Learn more](https://help.x.com/en/rules-and-policies/illegal-regulated-behaviors.html).  
   
 
 ### Privacy
 
-Private Information: You may not publish or post other people's private information (such as home phone number and address) without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so. Learn more.
+Private Information: You may not publish or post other people's private information (such as home phone number and address) without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so. [Learn more](https://help.x.com/en/rules-and-policies/personal-information.html).
 
-Non-Consensual Nudity: You may not post or share intimate photos or videos of someone that were produced or distributed without their consent. Learn more.
+Non-Consensual Nudity: You may not post or share intimate photos or videos of someone that were produced or distributed without their consent. [Learn more](https://help.x.com/en/rules-and-policies/intimate-media.html).
 
 Account Compromise: You may not use or attempt to use credentials, passwords, tokens, keys, cookies or other data to log into or otherwise access, add, delete or modify the private information or account features of any X account other than your own (or those you have been directly authorized to do so via X’s Teams authorization, OAuth authorization or similar mechanism).   
   
@@ -37,15 +37,15 @@ Account Compromise: You may not use or attempt to use credentials, passwords, to
 ### Authenticity
 
   
-Platform Manipulation and Spam: You may not use X’s services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience on X. Learn more.
+Platform Manipulation and Spam: You may not use X’s services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience on X. [Learn more](https://help.x.com/en/rules-and-policies/authenticity.html).
 
-Civic Integrity: You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes. This includes posting or sharing content that may suppress participation or mislead people about when, where, or how to participate in a civic process. Learn more.
+Civic Integrity: You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes. This includes posting or sharing content that may suppress participation or mislead people about when, where, or how to participate in a civic process. [Learn more](https://help.x.com/en/rules-and-policies/election-integrity-policy.html).
 
-Misleading and Deceptive Identities: You may not impersonate individuals, groups, or organizations to mislead, confuse, or deceive others, nor use a fake identity in a manner that disrupts the experience of others on X. Learn more.
+Misleading and Deceptive Identities: You may not impersonate individuals, groups, or organizations to mislead, confuse, or deceive others, nor use a fake identity in a manner that disrupts the experience of others on X. [Learn more](https://help.x.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
 
-Synthetic and Manipulated Media: You may not deceptively share synthetic or manipulated media that are likely to cause harm. In addition, we may label posts containing synthetic and manipulated media to help people understand their authenticity and to provide additional context. Learn more.
+Synthetic and Manipulated Media: You may not deceptively share synthetic or manipulated media that are likely to cause harm. In addition, we may label posts containing synthetic and manipulated media to help people understand their authenticity and to provide additional context. [Learn more](https://help.x.com/en/rules-and-policies/manipulated-media.html).
 
-Copyright and Trademark: You may not violate others’ intellectual property rights, including copyright and trademark. Learn more about our trademark policy and copyright policy.  
+Copyright and Trademark: You may not violate others’ intellectual property rights, including copyright and trademark. Learn more about our [trademark policy](https://help.x.com/en/rules-and-policies/twitter-trademark-policy.html) and [copyright policy](https://help.x.com/en/rules-and-policies/copyright-policy.html).  
   
 
 ### Third-party advertising in video content
@@ -57,7 +57,7 @@ You may not submit, post, or display any video content on or through our service
 Enforcement and Appeals
 
   
-Learn more about our approach to enforcement, including potential consequences for violating these rules or attempting to circumvent enforcement, as well as how to appeal.
+Learn more about [our approach to enforcement](https://help.x.com/en/rules-and-policies/enforcement-philosophy.html), including potential consequences for violating these rules or attempting to circumvent enforcement, as well as how to appeal.
 
 Violent Content 
 
@@ -82,13 +82,13 @@ We prohibit Violent Speech that we consider high in severity and likelihood of h
 * Violent Threats: Threats to inflict physical harm on others, which includes threatening to kill, torture, sexually assault, or otherwise hurt someone. This also includes threatening to damage civilian homes and shelters, or infrastructure that is essential to daily, civic, religious, or business activities;
 * Wish of Harm: Wishing, hoping or expressing desire for harm. This includes hoping for others to die, suffer illnesses, tragic incidents, or experience other physically harmful consequences;
 * Incitement of Violence: Inciting, promoting or encouraging others to commit acts of violence or harm, including encouraging others to hurt themselves or inciting others to commit atrocity crimes such as crimes against humanity, war crimes or genocide;
-* Glorification of Violence: Glorifying, praising, or celebrating acts of violence where harm occurred, including expressing gratitude or praising that someone experienced physical harm by Violent Entities. This also includes glorifying animal abuse or cruelty. 
+* Glorification of Violence: Glorifying, praising, or celebrating acts of violence where harm occurred, including expressing gratitude or praising that someone experienced physical harm by [Violent Entities](https://help.x.com/rules-and-policies/violent-entities). This also includes glorifying animal abuse or cruelty. 
 
 We also prohibit Violent Speech within areas that are highly visible on X, such as in live video, profile, header, bio, list banner images, or community cover photos.
 
 Restricted Reach 
 
-We ensure we take proportionate action based on the severity and likelihood of harm. Therefore, in certain cases, we may make the violative content less visible by restricting its reach on X. This includes when we assessed:
+We ensure we take proportionate action based on the severity and likelihood of harm. Therefore, in certain cases, we may make the violative content less visible by [restricting its reach](https://help.x.com/rules-and-policies/enforcement-options) on X. This includes when we assessed:
 
 * Harm is minor or non-deliberate;
     
@@ -147,7 +147,7 @@ You’re allowed to post the following Violent Media provided it’s properly la
 * media of humans or animals that depicts death, violence, medical procedures, or serious physical injury in graphic detail but does not rise to the threshold of excessively gory; or
 * excessively gory media that is otherwise removed may remain on the platform if it is associated with newsworthy events, to raise awareness or to call for political action, and is properly labeled with a content warning.
 
-X takes public interest factors into account when reviewing reports related to images and videos that depict deceased individuals. In limited circumstances, we might not remove this media and/or limit its exposure, even on receipt of a valid report.
+X takes [public interest](https://help.x.com/rules-and-policies/public-interest) factors into account when reviewing reports related to images and videos that depict deceased individuals. In limited circumstances, we might not remove this media and/or limit its exposure, even on receipt of a valid report.
 
 Allowed 
 
@@ -164,25 +164,25 @@ We seek to evaluate and understand contextual nuances surrounding the content be
 
 How to mark your content 
 
-If you regularly post Graphic Media on X, we ask that you adjust your media settings. Doing so places all your images and videos behind a content warning that needs to be acknowledged before your media can be viewed. You can also add a one-time content warning on individual posts. If you continue to fail marking your posts, we will adjust your account settings for you. 
+If you regularly post Graphic Media on X, we ask that you [adjust](https://help.x.com/rules-and-policies/media-settings) your media settings. Doing so places all your images and videos behind a content warning that needs to be acknowledged before your media can be viewed. You can also add a one-time content warning on individual posts. If you continue to fail marking your posts, we will adjust your account settings for you. 
 
-Users under 18 or viewers who do not include a birth date on their profile cannot click to view marked content. Learn more about age restricted content here. 
+Users under 18 or viewers who do not include a birth date on their profile cannot click to view marked content. Learn more about age restricted content [here](https://help.x.com/rules-and-policies/notices-on-x.html). 
 
 You may begin to see new media content warnings on posts that X has designated as containing Graphic Media (instead of a generic sensitive media label). When these new content warnings are available for you to use, please be sure to continue marking your media accordingly.
 
 How to report 
 
-* Immediate family members or legal representatives can report Moment of Death content for review via our Moment of Death report form.
+* Immediate family members or legal representatives can report Moment of Death content for review via our [Moment of Death report form](https://help.x.com/forms/report-moment-of-death).
     
 
-If you want to request the deactivation of a deceased person’s account, immediate family members and those authorized to act on behalf of the estate can do so via our Deactivation report form.
+If you want to request the deactivation of a deceased person’s account, immediate family members and those authorized to act on behalf of the estate can do so via our [Deactivation report form](https://help.x.com/forms/account-access/deactivate-or-close-account/deactivate-account-for-deceased).
 
 *  All other Violent Speech violations and unmarked or prohibited Violent Media reports can be submitted using our dedicated in-app reporting flow. 
     
 
 Appeals
 
-If you believe we made a mistake, you can submit an appeal.
+If you believe we made a mistake, you can [submit an appeal](https://help.x.com/forms/account-access/appeals.html).
 
 Violent and hateful entities policy
 ===================================
@@ -192,13 +192,13 @@ Violent and hateful entities policy
 **  
 April 2023**
 
-There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, perpetrators of violent attacks, or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
+There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.x.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
 
 **You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
 
-Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and perpetrators of violent attacks. 
+Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.x.com/rules-and-policies/perpetrators-of-violent-attacks). 
 
-Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for hateful conduct, which includes promoting violence or engaging in targeted harassment towards a protected category.
+Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.x.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
 
 ### What is in violation of this policy?
 
@@ -245,15 +245,15 @@ You can report this content for review via desktop as follows:
 ### What happens if you violate this policy?
 
   
-We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, you can submit an appeal.  
+We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.x.com/forms/general?subtopic=suspended).  
  
 
 ### Additional resources
 
   
-Learn more about our range of enforcement options and our approach to policy development and enforcement.
+Learn more about [our range of enforcement options](https://help.x.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.x.com/rules-and-policies/enforcement-philosophy).
 
-To learn more about violations related to specific threats of violence or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our abusive behavior policy.
+To learn more about violations related to [specific threats of violence](https://help.x.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.x.com/rules-and-policies/abusive-behavior) policy.
 
 Child safety
 
@@ -388,25 +388,25 @@ We will make limited exceptions to media depicting children in physical altercat
 
 * We may require post removal upon receiving a report from the minor or an authorized representative.  For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can post again. Subsequent violations may lead to account suspension; 
     
-* when sharing content that is abusive towards the victim Abusive Behavior policies may apply; and
+* when sharing content that is abusive towards the victim [Abusive Behavior](https://help.x.com/en/rules-and-policies/abusive-behavior) policies may apply; and
     
-* when sharing content that is Graphic or includes Gratuitous Gore, our Sensitive Media policies may apply.
+* when sharing content that is Graphic or includes Gratuitous Gore, our [Sensitive Media](https://help.x.com/en/rules-and-policies/media-policy) policies may apply.
 
 **How to Report**
 
-Anyone can report violations of this policy using our dedicated in-app reporting flow or via our Help Center. An X account is not needed to report potential violations. 
+Anyone can report violations of this policy using our dedicated in-app reporting flow or via our [Help Center](https://help.x.com/en/forms/safety-and-sensitive-content/cse). An X account is not needed to report potential violations. 
 
-If you believe a child is at immediate risk of harm or death, please reach out to your local law enforcement. Additionally, after reporting potential violations of our Child Sexual Exploitation policy to us, you can also notify the National Center for Missing & Exploited Children (NCMEC) by using their CyberTipline portal or calling 1-800-843-5678. 
+If you believe a child is at immediate risk of harm or death, please reach out to your local law enforcement. Additionally, after reporting potential violations of our Child Sexual Exploitation policy to us, you can also notify the National Center for Missing & Exploited Children (NCMEC) by using their [CyberTipline](https://report.cybertip.org/) portal or calling 1-800-843-5678. 
 
 **Note**: it can be illegal to engage with content that violates our Child Sexual Exploitation policy. Please be sure to report the content right away and do not like, reply to, quote-post, screenshot, follow accounts who distribute, or otherwise engage with the content; We do not require you to provide evidence of the potential violation in your report.
 
 **Appeals**
 
-If you believe we made a mistake, you can submit an appeal.
+If you believe we made a mistake, you can [submit an appeal](https://help.x.com/en/forms/account-access/appeals.html).
 
 ### More Information
 
-We are constantly seeking feedback and input from trusted organizations that are aligned in the mission to combat online child sexual exploitation. To learn more about our partnerships read the update on our work to tackle Child Sexual Exploitation on X.
+We are constantly seeking feedback and input from trusted organizations that are aligned in the mission to combat online child sexual exploitation. To learn more about our partnerships [read the update on our work to tackle Child Sexual Exploitation on X](https://blog.x.com/en_us/topics/company/2023/an-update-on-our-work-to-tackle-child-sexual-exploitation-on-x).
 
 Abuse and Harassment
 ====================
@@ -452,7 +452,7 @@ We prohibit behavior that encourages others to harass or target specific individ
 ###   
 Unwanted Sexual Content & Graphic Objectification  
 
-While some consensual nudity and adult content is permitted on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
+While some [consensual nudity and adult content is permitted](https://help.x.com/rules-and-policies/media-policy) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
 
 * sending someone unsolicited and/or unwanted adult media (images, videos, and GIFs) 
     
@@ -514,7 +514,7 @@ When determining the penalty for violating this policy, we consider a number of 
 * Suspending accounts whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
     
 
-To learn more, please see our range of enforcement options, and if someone believes their account was enforced against in error, they can submit an appeal.
+To learn more, please see our [range of enforcement options](https://help.x.com/rules-and-policies/enforcement-options), and if someone believes their account was enforced against in error, they can [submit an appeal](https://help.x.com/forms/account-access/appeals).
 
 Hateful Conduct
 ===============
@@ -531,7 +531,7 @@ We recognize that if people experience abuse on X, it can jeopardize their abili
 
 We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
 
-If you see something on X that you believe violates this policy, please report it to us.
+If you see something on X that you believe violates this policy, please [report it to us](https://help.x.com/en/forms/safety-and-sensitive-content/abuse.html).
 
 ### What is in violation of this policy?  
 
@@ -553,7 +553,7 @@ We prohibit inciting behavior that targets individuals or groups of people belon
 * inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
 * inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
 
-Note: content intended to incite violence against a protected category is prohibited under Violent Speech.
+Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.x.com/en/rules-and-policies/violent-speech.html).
 
 **Slurs and Tropes**  
   
@@ -608,9 +608,9 @@ When determining the penalty for violating this policy, we consider a number of 
     * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
 * Suspending accounts that violate our Hateful Profile policy.
 
-Learn more about our range of enforcement options. 
+Learn more about our [range of enforcement options](https://help.x.com/en/rules-and-policies/enforcement-options.html). 
 
-If someone believes their account was suspended in error, they can submit an appeal.
+If someone believes their account was suspended in error, they can [submit an appeal](https://help.x.com/en/forms/account-access/appeals.html).
 
 Perpetrators of Violent Attacks
 ===============================
@@ -637,7 +637,7 @@ We define a manifesto as a statement by a perpetrator outlining their motivation
 
 **Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
 
-Violent attacks claimed by a violent organization or by a member of such organizations are covered under our Violent and Hateful Entitites policy. We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies. 
+Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.x.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies. 
 
 What is in violation of this policy?
 
@@ -701,12 +701,12 @@ What happens if I violate this policy? 
   
 The consequences for violating our violent events policy depends on the severity of the violation. Accounts maintained by perpetrators of terrorist, violent extremist, or mass violent attacks will be permanently suspended. As described above, we may also remove content containing manifestos and other content created by perpetrators or their accomplices. 
 
-In addition, we will also remove content that violates our policies regarding Violent Speech or other parts of Our Rules.
+In addition, we will also remove content that violates our policies regarding [Violent Speech](https://help.x.com/en/rules-and-policies/violent-speech.html) or [other parts of Our Rules](https://help.x.com/en/rules-and-policies.html#general-policies.html).
 
 Additional resources
 
   
-Learn more about our range of enforcement options and our approach to policy development and enforcement.
+Learn more about our [range of enforcement options](https://help.x.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.x.com/en/rules-and-policies/enforcement-philosophy.html).
 
 Suicide and Self-harm policy
 ============================
@@ -759,9 +759,9 @@ Some examples of behavior that are not considered a violation of this policy inc
 
 ### Who can report violations of this policy? 
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our specialized reporting form. These reports are routed to a dedicated team who evaluate each case individually. 
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.x.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
 
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our Law Enforcement Guidelines.  
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.x.com/en/rules-and-policies/twitter-law-enforcement-support).  
  
 
 ### How to report violations of this policy 
@@ -794,7 +794,7 @@ You can report this content for review on desktop as follows:
 
 **Reporting form**
 
-You can also report this content for review via our dedicated report form.  
+You can also report this content for review via [our dedicated report form](https://help.x.com/forms/report_self_harm).  
  
 
 **In-App**
@@ -840,9 +840,9 @@ You can report this content for review on desktop as follows:
 
 Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
 
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under our sensitive media policy. If you believe that your account was suspended in error, you can submit an appeal.  
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.x.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.x.com/forms/general?subtopic=suspended).  
 
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by marking such links as unsafe.   
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.x.com/en/safety-and-security/phishing-spam-and-malware-links).   
   
 
 Additional resources  
@@ -850,11 +850,11 @@ Additional resources
 
 ==========================
 
-Learn more about our range of enforcement options and our approach to policy development and enforcement.
+Learn more about our [range of enforcement options](https://help.x.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.x.com/rules-and-policies/enforcement-philosophy).
 
-Learn more about how you can support someone experiencing thoughts of self-harm or suicide.   
+[Learn more](https://help.x.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
 
-Visit our Safety Center for a list of local mental health resources and read our blog on suicide prevention to learn more about our work.
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
 
 Adult Content
 
@@ -921,24 +921,24 @@ You can’t include Adult Content within areas that are highly visible on X, inc
 
 Adult Content must also comply with all X rules that result in content removal or account suspensions, including:
 
-* Non-consensual nudity
+* [Non-consensual nudity](https://help.x.com/en/rules-and-policies/intimate-media)
     
-* Promoting or soliciting sexual services 
+* [Promoting or soliciting sexual services](https://help.x.com/en/rules-and-policies/regulated-goods-services) 
     
-* Child sexual exploitation 
+* [Child sexual exploitation](https://help.x.com/en/rules-and-policies/sexual-exploitation-policy) 
     
-* Violent sexual conduct
+* [Violent sexual conduct](https://help.x.com/en/rules-and-policies/violent-speech)
     
-* Unwanted sexual content & graphic objectification
+* [Unwanted sexual content & graphic objectification](https://help.x.com/en/rules-and-policies/abusive-behavior)
     
-* Bestiality and necrophilia 
+* [Bestiality and necrophilia](https://help.x.com/en/rules-and-policies/violent-speech) 
     
 
 How to mark your content 
 
-If you regularly post adult content on X, we ask that you please adjust your media settings. Doing so places all your images and videos behind a content warning that needs to be acknowledged before your media can be viewed. You can also add a one-time content warning on individual posts. If you continue to fail marking your posts, we will adjust your account settings for you. 
+If you regularly post adult content on X, we ask that you please [adjust](https://help.x.com/en/rules-and-policies/media-settings) your media settings. Doing so places all your images and videos behind a content warning that needs to be acknowledged before your media can be viewed. You can also add a one-time content warning on individual posts. If you continue to fail marking your posts, we will adjust your account settings for you. 
 
-Users under 18 or viewers who do not include a birth date on their profile cannot click to view marked content. Learn more about age restricted content here. 
+Users under 18 or viewers who do not include a birth date on their profile cannot click to view marked content. Learn more about age restricted content [here](https://help.x.com/en/rules-and-policies/notices-on-twitter.html). 
 
 You may begin to see new media content warnings on posts that X has designated as containing Adult Content (instead of a generic sensitive media label). When these new content warnings are available for you to use, please be sure to continue marking your media accordingly.  
 
@@ -948,7 +948,7 @@ Anyone can report unmarked content or other violations using our dedicated in-ap
 
 Appeals
 
-If you believe we made a mistake, you can submit an appeal.
+If you believe we made a mistake, you can [submit an appeal](https://help.x.com/en/forms/account-access/appeals.html).
 
 X Shopping Policy
 =================
@@ -959,19 +959,19 @@ X Shopping enables professionals and organizations to showcase their merchandise
 
 All merchants who list their merchandise on X’s Shopping products must also comply with X’s Shopping Policy detailed on this page. Please note that X may modify this policy at any time.
 
-In addition, all people who use X must adhere to X’s User Agreement, which includes the X Rules. Advertisers must also follow X’s Ads Policies, and publishers participating in X’s Amplify Program must also comply with X’s Brand Safety Policies.
+In addition, all people who use X must adhere to [X’s User Agreement](https://x.com/en/tos.html), which includes the [X Rules](https://help.x.com/en/rules-and-policies/twitter-rules.html). Advertisers must also follow [X’s Ads Policies](https://business.x.com/en/help/ads-policies.html), and publishers participating in X’s Amplify Program must also comply with [X’s Brand Safety Policies](https://business.x.com/en/help/troubleshooting/amplify-publisher-faqs.html).
 
 _X’s Shopping products are currently available to select merchants and managed partners._
 
-* Merchant Eligibility Criteria
-    * Merchant Business Qualifications
-    * Account and Website Requirements
-* Merchant Conduct Standards
-* Merchandise Standards
-    * Technical Requirements
-    * Quality Standards
-    * Prohibited Merchandise Categories
-* Enforcement Philosophy
+* [Merchant Eligibility Criteria](#criteria)
+    * [Merchant Business Qualifications](#qualifications)
+    * [Account and Website Requirements](#requirements)
+* [Merchant Conduct Standards](#conduct-standards)
+* [Merchandise Standards](#standards)
+    * [Technical Requirements](#technical-requirements)
+    * [Quality Standards](#quality-standards)
+    * [Prohibited Merchandise Categories](#categories)
+* [Enforcement Philosophy](#philosophy)
 
 Merchant Eligibility Criteria
 -----------------------------
@@ -985,9 +985,9 @@ Merchant Business Qualifications
 Your business meets the following requirements:
 
 * Your business is located in the US (for clarity this requirement does not apply to X's advertising products).
-* Your business is not a state affiliated media entity.
+* Your business is not a [state affiliated media](https://help.x.com/en/rules-and-policies/government-media-labels.html) entity.
 * You or your business are not an individual or entity subject to US trade sanctions.
-* You do not exclusively sell merchandise that falls within our Prohibited Merchandise Categories.
+* You do not exclusively sell merchandise that falls within our [Prohibited Merchandise Categories](#categories).
 * You are 18 years of age or older. 
 
 Account and Website Requirements
@@ -995,8 +995,8 @@ Account and Website Requirements
 
 Your X account meets the following requirements:
 
-* You must have a Professional Account.
-* Your X account is public.  
+* You must have a [Professional Account](https://help.x.com/en/rules-and-policies/professional-account-policy.html).
+* Your X account is [public](https://help.x.com/en/safety-and-security/how-to-make-twitter-private-and-public.html).  
     
 
 Your website meets the following requirements:
@@ -1011,11 +1011,11 @@ Merchant Conduct Standards
 
 Merchants participating in X’s Shopping products are prohibited from engaging in the following activity:
 
-* Listing merchandise that violates legal or regulatory requirements in your market.
-* Listing merchandise that violates any third party’s intellectual property rights. Examples include counterfeit goods and pirated copies of copyrighted works.
+* Listing merchandise that violates [legal or regulatory requirements](https://help.x.com/en/rules-and-policies/illegal-regulated-behaviors.html) in your market.
+* Listing merchandise that violates any third party’s [intellectual property rights](https://help.x.com/en/rules-and-policies#intellectual-property). Examples include counterfeit goods and pirated copies of copyrighted works.
 * Listing merchandise for which the law requires the customer’s proof of age to complete a purchase.
 * Listing merchandise from another business’ website domain without their permission.
-* Encouraging abuse, hate, self harm, violence or violent threats. Examples include depictions of hateful symbols, threats of harm against an identifiable individual or protected group, and goods marketed to facilitate purging. Books, video games and other media that depict content in a fictional or educational context are permitted.
+* Encouraging [abuse](https://help.x.com/en/rules-and-policies/abusive-behavior.html), [hate](https://help.x.com/en/rules-and-policies/hateful-conduct-policy.html), [self harm](https://help.x.com/en/rules-and-policies/glorifying-self-harm.html), [violence](https://help.x.com/en/rules-and-policies/glorification-of-violence.html) or [violent threats](https://help.x.com/en/rules-and-policies/violent-speech.html). Examples include depictions of hateful symbols, threats of harm against an identifiable individual or protected group, and goods marketed to facilitate purging. Books, video games and other media that depict content in a fictional or educational context are permitted.
 * Publishing inappropriate content. Examples include goods containing profanity, vulgarity, personal attacks and inflammatory language or media.
 * Engaging in potentially deceptive, misleading or harmful business propositions. Examples include posting misleading content like deceptive ‘before and after’ text or images, omitting vital information on pricing or payment terms the customer will incur, and impersonating another person or organization.
 
@@ -1030,9 +1030,9 @@ Technical Requirements
 
 You are required to comply with the following technical requirements for merchandise listed in your Product Catalog:
 
-* Meet all required product data specifications.
+* Meet all required [product data specifications](https://business.x.com/en/help/shopping-specs.html).
 
-* List merchandise in a language supported by our self-serve ads platform.
+* List merchandise in a [language supported](https://business.x.com/en/help/ads-policies/campaign-considerations/about-eligibility-for-twitter-ads.html) by our self-serve ads platform.
 
 * Price merchandise in US dollars.
 * Direct customers to the correct product page for that exact item on your website.
@@ -1060,7 +1060,7 @@ Your merchandise and its descriptors must not include the following:
 * _Cause-based Content_. Examples include goods marketed to educate or raise awareness or take action in connection with civic engagement, economic growth, environmental stewardship, or social equity cause.
 * _Documents, Currency and Financial Instruments_. Examples include NFTs, cryptocurrency, gift cards, mortgages, and replicas of official documents like passports.
 * _Gambling_. Examples include lotto scratchers, fantasy sports, and bingo games. Gambling-related items like playing cards, dice, etc. that can be used for purposes other than for games that result in the payment of money or prizes of value are permitted.
-* _Goods Derived from Threatened or Endangered Animal Species_. Examples include objects made from ivory and medicinal goods made from tiger skins.
+* _Goods Derived from [Threatened or Endangered Animal Species](https://help.x.com/en/rules-and-policies/illegal-regulated-behaviors.html)_. Examples include objects made from ivory and medicinal goods made from tiger skins.
 * _Hazardous Goods and Materials_. Examples include asbestos, chemical pesticides, and highly flammable substances like propane and fireworks.
 * _Health and Wellness Supplements and Substances_. Examples include vitamins, weight loss supplements, and substances that contain anabolic steroids.
 * _Human Body Parts and Byproducts_. Examples include human teeth, nail clippings, and urine.
@@ -1072,11 +1072,11 @@ Your merchandise and its descriptors must not include the following:
 * _Real Estate_. Examples include non-portable homes, apartments for rent, and plots of land.
 * _Recalled Goods_.
 * _Regulated Medical Devices_. Examples include contact lenses, glucose monitors and breast pumps.
-* _Stolen Goods_.
+* _[Stolen Goods](https://help.x.com/en/rules-and-policies/illegal-regulated-behaviors.html)_.
 * _Services, Subscriptions and Non-Physical Goods_. Examples include job postings, solicitations for donations, subscriptions to streaming services, and digital goods like pdf, app downloads, music and movie downloads. Digital devices like smartphones and video game consoles are permitted.
 * _Tobacco Goods and Related Paraphernalia_. Examples include chewing tobacco, e-cigarettes, tobacco pipes, hookahs, rolling paper and filters.
 * _Unauthorized Ticket Sales_. Examples include the sale or resale of tickets without prior authorization.
-* _Weapons and Weapon Accessories_. Examples include knives, ammunition, explosives, and instructions on assembling weapons.
+* _[Weapons and Weapon Accessories](https://help.x.com/en/rules-and-policies/illegal-regulated-behaviors.html)_. Examples include knives, ammunition, explosives, and instructions on assembling weapons.
 
 ### Country Specific Policies
 
@@ -1216,7 +1216,7 @@ The following are not in violation of this policy:
 
 ### Non-Consensual Nudity
 
-Pornography and other forms of consensually-produced adult content are allowed on X, provided you mark the post or mark your account as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review. 
+Pornography and other forms of consensually-produced adult content are allowed on X, provided you mark the post or [mark your account as sensitive](https://help.x.com/rules-and-policies/media-settings.html). Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review. 
 
 ### Right to Privacy
 
@@ -1278,7 +1278,7 @@ When determining the penalty for violating this policy, we consider a number of 
 * Suspending accounts whose sole purpose is to post others’ private information or media of any kind. This includes accounts dedicated to sharing upskirt or creepshot media.
     
 
-Learn more about our range of enforcement options. If someone believes their posts or account were enforced against in error, they can submit an appeal.
+Learn more about our [range of enforcement options](https://help.x.com/rules-and-policies/enforcement-options.html). If someone believes their posts or account were enforced against in error, they can [submit an appeal](https://help.x.com/forms/account-access/appeals.html).
 
 Non-consensual nudity policy
 ============================
@@ -1290,7 +1290,7 @@ December 2021**
 
 **You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
 
-Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the X Rules. Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.x.com/en/rules-and-policies/twitter-rules.html). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
   
 
 ### What is a violation of this policy?
@@ -1312,7 +1312,7 @@ Examples of the types of content that violate this policy include, but are not l
   
 Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
 
-To mark your media as sensitive, navigate to your safety settings and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
   
 
 ### Who can report violations of this policy?
@@ -1368,7 +1368,7 @@ You can report this content for review via desktop as follows:
 
 **Report form**  
 
-You can also report this content via our private information report form, by selecting the **An unauthorized photo or video** option.  
+You can also report this content via [our private information report form](https://help.x.com/en/forms/safety-and-sensitive-content/private-information.html), by selecting the **An unauthorized photo or video** option.  
  
 
 ### What happens if you violate this policy?
@@ -1376,13 +1376,13 @@ You can also report this content via our private information report form, by sel
   
 We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
 
-In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can submit an appeal.  
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.x.com/en/forms/account-access/appeals.html).  
   
 
 ### Additional resources
 
   
-Learn more about our range of enforcement options and our approach to policy development and enforcement.
+Learn more about [our range of enforcement options](https://help.x.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.x.com/en/rules-and-policies/enforcement-philosophy.html).
 
 Authenticity
 
@@ -1390,17 +1390,17 @@ Authenticity
 
 **You may not engage in inauthentic activity that undermines the integrity of X.**
 
-We want X to be a place where people have authentic experiences. To make that possible, we do not allow any activity that attempts to manipulate our platform or disrupt our services through inauthentic **accounts, behaviors** or content.
+We want X to be a place where people have authentic experiences. To make that possible, we do not allow any activity that attempts to manipulate our platform or disrupt our services through inauthentic **[accounts](#1), [behaviors](#2)** or [**content**.](#3)
 
 **Inauthentic Accounts** 
 
 Accounts on X must be authentic. Under this policy, you may not create, operate, or mass-register accounts that are not legitimate, genuine and transparent as to their source, identity, and popularity. This includes: 
 
-**Unauthorized automation:** Automated or scripted accounts that do not comply with our Developer Policy. Please note that as a user you are ultimately responsible for third-party applications you may authorize to access or use your account. 
+**Unauthorized automation:** Automated or scripted accounts that do not comply with our [Developer Policy](https://developer.twitter.com/en/developer-terms/agreement-and-policy). Please note that as a user you are ultimately responsible for third-party applications you may authorize to access or use your account. 
 
 **Fake personas:** You may not use manufactured identities to engage in disruptive or deceptive behavior. This may include using stock, stolen or AI-generated profile photos, copied or stolen profile bios, and/or misleading profile information for the purpose of deceiving others. 
 
-**Impersonation:** You may not impersonate other identities of individuals, groups, or organizations to deceive others. Although you are not required to display your real identity on your profile, your account should not use false profile information to impersonate others. We allow compliant Parody, Commentary, and Fan (PCF) accounts on X only if the purpose is to discuss, satirize or share information. If you believe an account is posing as you or your brand, you can file a report here.
+**Impersonation:** You may not impersonate other identities of individuals, groups, or organizations to deceive others. Although you are not required to display your real identity on your profile, your account should not use false profile information to impersonate others. We allow compliant Parody, Commentary, and Fan (PCF) accounts on X only if the purpose is to discuss, satirize or share information. If you believe an account is posing as you or your brand, you can file a report [here](https://help.x.com/forms/impersonation).
 
 ### Learn more about how to be PCF compliant
 
@@ -1411,7 +1411,7 @@ Accounts may depict another entity as long as they clearly indicate that they ar
 * include terms such as "parody," "fake," "fan," or "commentary at the beginning of your account name; and
 * include terms such as "parody," "fake," "fan," or "commentary in your bio or profile description. 
 
-Learn more about how to add a PCF label here.
+Learn more about how to add a PCF label [here](https://help.x.com/en/rules-and-policies/profile-labels).
 
 **Multiple Accounts and Coordination:** We prohibit coordinated inauthentic activity that artificially influences conversations or disrupts X.
 
@@ -1437,11 +1437,11 @@ Operating multiple accounts that post substantially similar or identical content
 * similar or duplicate content to the same trending topics or hashtags.
     
 
-Employing workarounds to exceed the technical limits of account creation (e.g., account phone number limits). X allows users to create and/or operate up to ten (10) accounts for different, non-duplicative purposes.
+Employing workarounds to exceed the technical limits of account creation (e.g., [account phone number limits](https://help.x.com/content/help-twitter/en/managing-your-account/phone-number-faqs#:~:text=Can%20I%20add%20my%20phone,security%20features%20like%20login%20verification.)). X allows users to create and/or operate up to ten (10) accounts for different, non-duplicative purposes.
 
 **Allowed**
 
-Operating multiple accounts with distinct identities, purposes, or use cases that comply with our technical limits of account creation (e.g. account phone number limits), such as:  
+Operating multiple accounts with distinct identities, purposes, or use cases that comply with our technical limits of account creation (e.g. [account phone number limits](https://help.x.com/en/managing-your-account/phone-number-faqs.html)), such as:  
 
 * accounts tracking when objects in space travel over a specific location on Earth, e.g. New York, Hong Kong;
 * accounts sharing news about different professional teams in the same sport or league, e.g. NFL, NBA, Premier League;
@@ -1479,9 +1479,9 @@ Account compromise may occur when: 
 * viruses or malware were installed on your computer to collect passwords; or
 * you logged in to your X account on a compromised network.
 
-If unauthorized updates appear in your account, it could signify a potential compromise of your account security. Learn more about how to keep your account secure.   
+If unauthorized updates appear in your account, it could signify a potential compromise of your account security. Learn more about how to keep your [account secure](https://help.x.com/en/safety-and-security/account-security-tips).   
 
-If you suspect that your account has been compromised, you can find a guide on how to troubleshoot the issue here. In the event that the troubleshooting doesn't work, please submit a report here.  
+If you suspect that your account has been compromised, you can find a guide on how to troubleshoot the issue [here](https://help.x.com/en/safety-and-security/x-account-compromised). In the event that the troubleshooting doesn't work, please submit a report [here](https://help.x.com/en/forms/account-access/regain-access/hacked-or-compromised).  
 
 **Inauthentic Behaviors**
 
@@ -1586,7 +1586,7 @@ The consequences for violating this policy depend on the severity of the violati
 The following is a list of potential enforcement options for content that violates this policy:
 
 * **Anti-spam challenges:** When we detect suspicious levels of activity, accounts may be locked and prompted to provide additional information (e.g., a phone number) or to solve a puzzle. 
-* **Denylisting URLs:** We denylist or provide warnings about URLs we believe to be unsafe. Read more about unsafe links, including how to appeal if we’ve falsely identified your URL as unsafe.
+* **Denylisting URLs:** We denylist or provide warnings about URLs we believe to be unsafe. Read more about [unsafe links](https://help.x.com/en/safety-and-security/phishing-spam-and-malware-links.html), including how to appeal if we’ve falsely identified your URL as unsafe.
 * **Restricting Reach:** This may include excluding posts from search results, trends, and recommended notifications, removing posts from the For You and Following timelines, restricting a post's discoverability to the author’s profile, restricting likes, replies, reposts, quote posts, bookmarks, share, pin to profile, or edit post, and downranking the post in replies.  
 
 * **Temporary loss of access to X features or products:** We may temporarily limit or restrict access to X features or products, including (but not limited to) posts, Edit post, Direct Messages, Spaces, Communities, or Live.  
@@ -1600,7 +1600,7 @@ You can report inauthentic accounts, behaviors and content using our dedicated i
 
 **Appeals**
 
-If you believe we made a mistake, you can submit an appeal.
+If you believe we made a mistake, you can [submit an appeal](https://help.x.com/en/forms/account-access/appeals.html).
 
 Civic integrity policy
 ======================
@@ -1656,11 +1656,11 @@ You may not engage in or promote behaviors that may coerce others to refrain fro
     
 * promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
     
-* threats regarding voting locations or other key places or events (note that our Violent Speech policy may also be relevant for threats not covered by this policy).
+* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.x.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
 
 **False or misleading affiliation**
 
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our Misleading and deceptive identities policy.
+You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.x.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
 
 **What is not a violation of this policy?**
 
@@ -1672,7 +1672,7 @@ Not all false or untrue information about politics or civic processes constitute
     
 * discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
     
-* using X pseudonymously or as a parody, commentary, or fan account to discuss elections or politics.
+* using X pseudonymously or as a [parody, commentary, or fan account](https://help.x.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
 
 **What happens if you violate this policy?**
 
@@ -1689,7 +1689,7 @@ Posts that are enforced under this policy will have their reach restricted on X 
 * Downranking the Post in replies 
     
 
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our range of enforcement options.
+Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.x.com/en/rules-and-policies/enforcement-options.html).
 
 Authenticity
 
@@ -1697,17 +1697,17 @@ Authenticity
 
 **You may not engage in inauthentic activity that undermines the integrity of X.**
 
-We want X to be a place where people have authentic experiences. To make that possible, we do not allow any activity that attempts to manipulate our platform or disrupt our services through inauthentic **accounts, behaviors** or content.
+We want X to be a place where people have authentic experiences. To make that possible, we do not allow any activity that attempts to manipulate our platform or disrupt our services through inauthentic **[accounts](#1), [behaviors](#2)** or [**content**.](#3)
 
 **Inauthentic Accounts** 
 
 Accounts on X must be authentic. Under this policy, you may not create, operate, or mass-register accounts that are not legitimate, genuine and transparent as to their source, identity, and popularity. This includes: 
 
-**Unauthorized automation:** Automated or scripted accounts that do not comply with our Developer Policy. Please note that as a user you are ultimately responsible for third-party applications you may authorize to access or use your account. 
+**Unauthorized automation:** Automated or scripted accounts that do not comply with our [Developer Policy](https://developer.twitter.com/en/developer-terms/agreement-and-policy). Please note that as a user you are ultimately responsible for third-party applications you may authorize to access or use your account. 
 
 **Fake personas:** You may not use manufactured identities to engage in disruptive or deceptive behavior. This may include using stock, stolen or AI-generated profile photos, copied or stolen profile bios, and/or misleading profile information for the purpose of deceiving others. 
 
-**Impersonation:** You may not impersonate other identities of individuals, groups, or organizations to deceive others. Although you are not required to display your real identity on your profile, your account should not use false profile information to impersonate others. We allow compliant Parody, Commentary, and Fan (PCF) accounts on X only if the purpose is to discuss, satirize or share information. If you believe an account is posing as you or your brand, you can file a report here.
+**Impersonation:** You may not impersonate other identities of individuals, groups, or organizations to deceive others. Although you are not required to display your real identity on your profile, your account should not use false profile information to impersonate others. We allow compliant Parody, Commentary, and Fan (PCF) accounts on X only if the purpose is to discuss, satirize or share information. If you believe an account is posing as you or your brand, you can file a report [here](https://help.x.com/forms/impersonation).
 
 ### Learn more about how to be PCF compliant
 
@@ -1718,7 +1718,7 @@ Accounts may depict another entity as long as they clearly indicate that they ar
 * include terms such as "parody," "fake," "fan," or "commentary at the beginning of your account name; and
 * include terms such as "parody," "fake," "fan," or "commentary in your bio or profile description. 
 
-Learn more about how to add a PCF label here.
+Learn more about how to add a PCF label [here](https://help.x.com/en/rules-and-policies/profile-labels).
 
 **Multiple Accounts and Coordination:** We prohibit coordinated inauthentic activity that artificially influences conversations or disrupts X.
 
@@ -1744,11 +1744,11 @@ Operating multiple accounts that post substantially similar or identical content
 * similar or duplicate content to the same trending topics or hashtags.
     
 
-Employing workarounds to exceed the technical limits of account creation (e.g., account phone number limits). X allows users to create and/or operate up to ten (10) accounts for different, non-duplicative purposes.
+Employing workarounds to exceed the technical limits of account creation (e.g., [account phone number limits](https://help.x.com/content/help-twitter/en/managing-your-account/phone-number-faqs#:~:text=Can%20I%20add%20my%20phone,security%20features%20like%20login%20verification.)). X allows users to create and/or operate up to ten (10) accounts for different, non-duplicative purposes.
 
 **Allowed**
 
-Operating multiple accounts with distinct identities, purposes, or use cases that comply with our technical limits of account creation (e.g. account phone number limits), such as:  
+Operating multiple accounts with distinct identities, purposes, or use cases that comply with our technical limits of account creation (e.g. [account phone number limits](https://help.x.com/en/managing-your-account/phone-number-faqs.html)), such as:  
 
 * accounts tracking when objects in space travel over a specific location on Earth, e.g. New York, Hong Kong;
 * accounts sharing news about different professional teams in the same sport or league, e.g. NFL, NBA, Premier League;
@@ -1786,9 +1786,9 @@ Account compromise may occur when: 
 * viruses or malware were installed on your computer to collect passwords; or
 * you logged in to your X account on a compromised network.
 
-If unauthorized updates appear in your account, it could signify a potential compromise of your account security. Learn more about how to keep your account secure.   
+If unauthorized updates appear in your account, it could signify a potential compromise of your account security. Learn more about how to keep your [account secure](https://help.x.com/en/safety-and-security/account-security-tips).   
 
-If you suspect that your account has been compromised, you can find a guide on how to troubleshoot the issue here. In the event that the troubleshooting doesn't work, please submit a report here.  
+If you suspect that your account has been compromised, you can find a guide on how to troubleshoot the issue [here](https://help.x.com/en/safety-and-security/x-account-compromised). In the event that the troubleshooting doesn't work, please submit a report [here](https://help.x.com/en/forms/account-access/regain-access/hacked-or-compromised).  
 
 **Inauthentic Behaviors**
 
@@ -1893,7 +1893,7 @@ The consequences for violating this policy depend on the severity of the violati
 The following is a list of potential enforcement options for content that violates this policy:
 
 * **Anti-spam challenges:** When we detect suspicious levels of activity, accounts may be locked and prompted to provide additional information (e.g., a phone number) or to solve a puzzle. 
-* **Denylisting URLs:** We denylist or provide warnings about URLs we believe to be unsafe. Read more about unsafe links, including how to appeal if we’ve falsely identified your URL as unsafe.
+* **Denylisting URLs:** We denylist or provide warnings about URLs we believe to be unsafe. Read more about [unsafe links](https://help.x.com/en/safety-and-security/phishing-spam-and-malware-links.html), including how to appeal if we’ve falsely identified your URL as unsafe.
 * **Restricting Reach:** This may include excluding posts from search results, trends, and recommended notifications, removing posts from the For You and Following timelines, restricting a post's discoverability to the author’s profile, restricting likes, replies, reposts, quote posts, bookmarks, share, pin to profile, or edit post, and downranking the post in replies.  
 
 * **Temporary loss of access to X features or products:** We may temporarily limit or restrict access to X features or products, including (but not limited to) posts, Edit post, Direct Messages, Spaces, Communities, or Live.  
@@ -1907,7 +1907,7 @@ You can report inauthentic accounts, behaviors and content using our dedicated i
 
 **Appeals**
 
-If you believe we made a mistake, you can submit an appeal.
+If you believe we made a mistake, you can [submit an appeal](https://help.x.com/en/forms/account-access/appeals.html).
 
 Authenticity
 
@@ -1915,17 +1915,17 @@ Authenticity
 
 **You may not engage in inauthentic activity that undermines the integrity of X.**
 
-We want X to be a place where people have authentic experiences. To make that possible, we do not allow any activity that attempts to manipulate our platform or disrupt our services through inauthentic **accounts, behaviors** or content.
+We want X to be a place where people have authentic experiences. To make that possible, we do not allow any activity that attempts to manipulate our platform or disrupt our services through inauthentic **[accounts](#1), [behaviors](#2)** or [**content**.](#3)
 
 **Inauthentic Accounts** 
 
 Accounts on X must be authentic. Under this policy, you may not create, operate, or mass-register accounts that are not legitimate, genuine and transparent as to their source, identity, and popularity. This includes: 
 
-**Unauthorized automation:** Automated or scripted accounts that do not comply with our Developer Policy. Please note that as a user you are ultimately responsible for third-party applications you may authorize to access or use your account. 
+**Unauthorized automation:** Automated or scripted accounts that do not comply with our [Developer Policy](https://developer.twitter.com/en/developer-terms/agreement-and-policy). Please note that as a user you are ultimately responsible for third-party applications you may authorize to access or use your account. 
 
 **Fake personas:** You may not use manufactured identities to engage in disruptive or deceptive behavior. This may include using stock, stolen or AI-generated profile photos, copied or stolen profile bios, and/or misleading profile information for the purpose of deceiving others. 
 
-**Impersonation:** You may not impersonate other identities of individuals, groups, or organizations to deceive others. Although you are not required to display your real identity on your profile, your account should not use false profile information to impersonate others. We allow compliant Parody, Commentary, and Fan (PCF) accounts on X only if the purpose is to discuss, satirize or share information. If you believe an account is posing as you or your brand, you can file a report here.
+**Impersonation:** You may not impersonate other identities of individuals, groups, or organizations to deceive others. Although you are not required to display your real identity on your profile, your account should not use false profile information to impersonate others. We allow compliant Parody, Commentary, and Fan (PCF) accounts on X only if the purpose is to discuss, satirize or share information. If you believe an account is posing as you or your brand, you can file a report [here](https://help.x.com/forms/impersonation).
 
 ### Learn more about how to be PCF compliant
 
@@ -1936,7 +1936,7 @@ Accounts may depict another entity as long as they clearly indicate that they ar
 * include terms such as "parody," "fake," "fan," or "commentary at the beginning of your account name; and
 * include terms such as "parody," "fake," "fan," or "commentary in your bio or profile description. 
 
-Learn more about how to add a PCF label here.
+Learn more about how to add a PCF label [here](https://help.x.com/en/rules-and-policies/profile-labels).
 
 **Multiple Accounts and Coordination:** We prohibit coordinated inauthentic activity that artificially influences conversations or disrupts X.
 
@@ -1962,11 +1962,11 @@ Operating multiple accounts that post substantially similar or identical content
 * similar or duplicate content to the same trending topics or hashtags.
     
 
-Employing workarounds to exceed the technical limits of account creation (e.g., account phone number limits). X allows users to create and/or operate up to ten (10) accounts for different, non-duplicative purposes.
+Employing workarounds to exceed the technical limits of account creation (e.g., [account phone number limits](https://help.x.com/content/help-twitter/en/managing-your-account/phone-number-faqs#:~:text=Can%20I%20add%20my%20phone,security%20features%20like%20login%20verification.)). X allows users to create and/or operate up to ten (10) accounts for different, non-duplicative purposes.
 
 **Allowed**
 
-Operating multiple accounts with distinct identities, purposes, or use cases that comply with our technical limits of account creation (e.g. account phone number limits), such as:  
+Operating multiple accounts with distinct identities, purposes, or use cases that comply with our technical limits of account creation (e.g. [account phone number limits](https://help.x.com/en/managing-your-account/phone-number-faqs.html)), such as:  
 
 * accounts tracking when objects in space travel over a specific location on Earth, e.g. New York, Hong Kong;
 * accounts sharing news about different professional teams in the same sport or league, e.g. NFL, NBA, Premier League;
@@ -2004,9 +2004,9 @@ Account compromise may occur when: 
 * viruses or malware were installed on your computer to collect passwords; or
 * you logged in to your X account on a compromised network.
 
-If unauthorized updates appear in your account, it could signify a potential compromise of your account security. Learn more about how to keep your account secure.   
+If unauthorized updates appear in your account, it could signify a potential compromise of your account security. Learn more about how to keep your [account secure](https://help.x.com/en/safety-and-security/account-security-tips).   
 
-If you suspect that your account has been compromised, you can find a guide on how to troubleshoot the issue here. In the event that the troubleshooting doesn't work, please submit a report here.  
+If you suspect that your account has been compromised, you can find a guide on how to troubleshoot the issue [here](https://help.x.com/en/safety-and-security/x-account-compromised). In the event that the troubleshooting doesn't work, please submit a report [here](https://help.x.com/en/forms/account-access/regain-access/hacked-or-compromised).  
 
 **Inauthentic Behaviors**
 
@@ -2111,7 +2111,7 @@ The consequences for violating this policy depend on the severity of the violati
 The following is a list of potential enforcement options for content that violates this policy:
 
 * **Anti-spam challenges:** When we detect suspicious levels of activity, accounts may be locked and prompted to provide additional information (e.g., a phone number) or to solve a puzzle. 
-* **Denylisting URLs:** We denylist or provide warnings about URLs we believe to be unsafe. Read more about unsafe links, including how to appeal if we’ve falsely identified your URL as unsafe.
+* **Denylisting URLs:** We denylist or provide warnings about URLs we believe to be unsafe. Read more about [unsafe links](https://help.x.com/en/safety-and-security/phishing-spam-and-malware-links.html), including how to appeal if we’ve falsely identified your URL as unsafe.
 * **Restricting Reach:** This may include excluding posts from search results, trends, and recommended notifications, removing posts from the For You and Following timelines, restricting a post's discoverability to the author’s profile, restricting likes, replies, reposts, quote posts, bookmarks, share, pin to profile, or edit post, and downranking the post in replies.  
 
 * **Temporary loss of access to X features or products:** We may temporarily limit or restrict access to X features or products, including (but not limited to) posts, Edit post, Direct Messages, Spaces, Communities, or Live.  
@@ -2125,7 +2125,7 @@ You can report inauthentic accounts, behaviors and content using our dedicated i
 
 **Appeals**
 
-If you believe we made a mistake, you can submit an appeal.
+If you believe we made a mistake, you can [submit an appeal](https://help.x.com/en/forms/account-access/appeals.html).
 
 Trademark policy
 ================
@@ -2150,7 +2150,7 @@ Using another’s trademark in a way that may mislead or confuse people about yo
 Referencing another’s trademark is not automatically a violation of X's trademark policy. Examples of non-violations include:
 
 * using a trademark in a way that is outside the scope of the trademark registration e.g., in a different territory, or a different class of goods or services than that identified in the registration; and
-* using a trademark in a nominative or other fair use manner. For more information, see our Misleading and deceptive identities policy.  
+* using a trademark in a nominative or other fair use manner. For more information, see our [Misleading and deceptive identities policy](https://help.x.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).[](https://help.x.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html)  
     
 
 ### Who can report violations of this policy? 
@@ -2160,7 +2160,7 @@ X only investigates requests that are submitted by the trademark holder or their
 
 ### How can I report violations of this policy? 
 
-You can submit a trademark report through our trademark report form. Please provide all the information requested in the form. If you submit an incomplete report, we’ll need to follow up about the missing information. Please note that this will result in a delay in processing your report.
+You can submit a trademark report through our [trademark report form](https://help.x.com/forms/trademark). Please provide all the information requested in the form. If you submit an incomplete report, we’ll need to follow up about the missing information. Please note that this will result in a delay in processing your report.
 
 **Note:** We may provide the account holder with your name and other information included in the copy of the report.  
   
@@ -2168,18 +2168,18 @@ You can submit a trademark report through our trademark report form. Please prov
 ### What happens if you violate this policy?  
   
 
-If we determine that you violated our trademark policy, we may suspend your account. Depending on the type of violation, we may give you an opportunity to comply with our policies. In other instances, an account may be permanently suspended upon first review. If you believe that your account was suspended in error, you can submit an appeal.
+If we determine that you violated our trademark policy, we may suspend your account. Depending on the type of violation, we may give you an opportunity to comply with our policies. In other instances, an account may be permanently suspended upon first review. If you believe that your account was suspended in error, you can [submit an appeal](https://help.x.com/forms/general?subtopic=suspended).
 
 ### Additional resources 
 
-Learn more about our range of enforcement options and our approach to policy development and enforcement.
+Learn more about [our range of enforcement options](https://help.x.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.x.com/rules-and-policies/enforcement-philosophy).
 
 Username squatting policy
 =========================
 
-Username squatting is prohibited by the X Rules.
+Username squatting is prohibited by the [X Rules](https://help.x.com/en/rules-and-policies/twitter-rules.html).
 
-Please note that if an account has had no updates, no profile image, and there is no intent to mislead, it typically means there's no name-squatting or impersonation. Note that we will not release squatted usernames except in cases of trademark infringement. If your report involves trademark infringement, please consult those policies for instructions for reporting these accounts.   
+Please note that if an account has had no updates, no profile image, and there is no intent to mislead, it typically means there's no name-squatting or impersonation. Note that we will not release squatted usernames except in cases of trademark infringement. If your report involves [trademark infringement](https://help.x.com/en/rules-and-policies/twitter-trademark-policy.html), please consult those policies for instructions for reporting these accounts.   
 
 Attempts to sell, buy, or solicit other forms of payment in exchange for usernames are also violations and may result in permanent account suspension.
 
@@ -2189,17 +2189,17 @@ Authenticity
 
 **You may not engage in inauthentic activity that undermines the integrity of X.**
 
-We want X to be a place where people have authentic experiences. To make that possible, we do not allow any activity that attempts to manipulate our platform or disrupt our services through inauthentic **accounts, behaviors** or content.
+We want X to be a place where people have authentic experiences. To make that possible, we do not allow any activity that attempts to manipulate our platform or disrupt our services through inauthentic **[accounts](#1), [behaviors](#2)** or [**content**.](#3)
 
 **Inauthentic Accounts** 
 
 Accounts on X must be authentic. Under this policy, you may not create, operate, or mass-register accounts that are not legitimate, genuine and transparent as to their source, identity, and popularity. This includes: 
 
-**Unauthorized automation:** Automated or scripted accounts that do not comply with our Developer Policy. Please note that as a user you are ultimately responsible for third-party applications you may authorize to access or use your account. 
+**Unauthorized automation:** Automated or scripted accounts that do not comply with our [Developer Policy](https://developer.twitter.com/en/developer-terms/agreement-and-policy). Please note that as a user you are ultimately responsible for third-party applications you may authorize to access or use your account. 
 
 **Fake personas:** You may not use manufactured identities to engage in disruptive or deceptive behavior. This may include using stock, stolen or AI-generated profile photos, copied or stolen profile bios, and/or misleading profile information for the purpose of deceiving others. 
 
-**Impersonation:** You may not impersonate other identities of individuals, groups, or organizations to deceive others. Although you are not required to display your real identity on your profile, your account should not use false profile information to impersonate others. We allow compliant Parody, Commentary, and Fan (PCF) accounts on X only if the purpose is to discuss, satirize or share information. If you believe an account is posing as you or your brand, you can file a report here.
+**Impersonation:** You may not impersonate other identities of individuals, groups, or organizations to deceive others. Although you are not required to display your real identity on your profile, your account should not use false profile information to impersonate others. We allow compliant Parody, Commentary, and Fan (PCF) accounts on X only if the purpose is to discuss, satirize or share information. If you believe an account is posing as you or your brand, you can file a report [here](https://help.x.com/forms/impersonation).
 
 ### Learn more about how to be PCF compliant
 
@@ -2210,7 +2210,7 @@ Accounts may depict another entity as long as they clearly indicate that they ar
 * include terms such as "parody," "fake," "fan," or "commentary at the beginning of your account name; and
 * include terms such as "parody," "fake," "fan," or "commentary in your bio or profile description. 
 
-Learn more about how to add a PCF label here.
+Learn more about how to add a PCF label [here](https://help.x.com/en/rules-and-policies/profile-labels).
 
 **Multiple Accounts and Coordination:** We prohibit coordinated inauthentic activity that artificially influences conversations or disrupts X.
 
@@ -2236,11 +2236,11 @@ Operating multiple accounts that post substantially similar or identical content
 * similar or duplicate content to the same trending topics or hashtags.
     
 
-Employing workarounds to exceed the technical limits of account creation (e.g., account phone number limits). X allows users to create and/or operate up to ten (10) accounts for different, non-duplicative purposes.
+Employing workarounds to exceed the technical limits of account creation (e.g., [account phone number limits](https://help.x.com/content/help-twitter/en/managing-your-account/phone-number-faqs#:~:text=Can%20I%20add%20my%20phone,security%20features%20like%20login%20verification.)). X allows users to create and/or operate up to ten (10) accounts for different, non-duplicative purposes.
 
 **Allowed**
 
-Operating multiple accounts with distinct identities, purposes, or use cases that comply with our technical limits of account creation (e.g. account phone number limits), such as:  
+Operating multiple accounts with distinct identities, purposes, or use cases that comply with our technical limits of account creation (e.g. [account phone number limits](https://help.x.com/en/managing-your-account/phone-number-faqs.html)), such as:  
 
 * accounts tracking when objects in space travel over a specific location on Earth, e.g. New York, Hong Kong;
 * accounts sharing news about different professional teams in the same sport or league, e.g. NFL, NBA, Premier League;
@@ -2278,9 +2278,9 @@ Account compromise may occur when: 
 * viruses or malware were installed on your computer to collect passwords; or
 * you logged in to your X account on a compromised network.
 
-If unauthorized updates appear in your account, it could signify a potential compromise of your account security. Learn more about how to keep your account secure.   
+If unauthorized updates appear in your account, it could signify a potential compromise of your account security. Learn more about how to keep your [account secure](https://help.x.com/en/safety-and-security/account-security-tips).   
 
-If you suspect that your account has been compromised, you can find a guide on how to troubleshoot the issue here. In the event that the troubleshooting doesn't work, please submit a report here.  
+If you suspect that your account has been compromised, you can find a guide on how to troubleshoot the issue [here](https://help.x.com/en/safety-and-security/x-account-compromised). In the event that the troubleshooting doesn't work, please submit a report [here](https://help.x.com/en/forms/account-access/regain-access/hacked-or-compromised).  
 
 **Inauthentic Behaviors**
 
@@ -2385,7 +2385,7 @@ The consequences for violating this policy depend on the severity of the violati
 The following is a list of potential enforcement options for content that violates this policy:
 
 * **Anti-spam challenges:** When we detect suspicious levels of activity, accounts may be locked and prompted to provide additional information (e.g., a phone number) or to solve a puzzle. 
-* **Denylisting URLs:** We denylist or provide warnings about URLs we believe to be unsafe. Read more about unsafe links, including how to appeal if we’ve falsely identified your URL as unsafe.
+* **Denylisting URLs:** We denylist or provide warnings about URLs we believe to be unsafe. Read more about [unsafe links](https://help.x.com/en/safety-and-security/phishing-spam-and-malware-links.html), including how to appeal if we’ve falsely identified your URL as unsafe.
 * **Restricting Reach:** This may include excluding posts from search results, trends, and recommended notifications, removing posts from the For You and Following timelines, restricting a post's discoverability to the author’s profile, restricting likes, replies, reposts, quote posts, bookmarks, share, pin to profile, or edit post, and downranking the post in replies.  
 
 * **Temporary loss of access to X features or products:** We may temporarily limit or restrict access to X features or products, including (but not limited to) posts, Edit post, Direct Messages, Spaces, Communities, or Live.  
@@ -2399,7 +2399,7 @@ You can report inauthentic accounts, behaviors and content using our dedicated i
 
 **Appeals**
 
-If you believe we made a mistake, you can submit an appeal.
+If you believe we made a mistake, you can [submit an appeal](https://help.x.com/en/forms/account-access/appeals.html).
 
 Authenticity
 
@@ -2407,17 +2407,17 @@ Authenticity
 
 **You may not engage in inauthentic activity that undermines the integrity of X.**
 
-We want X to be a place where people have authentic experiences. To make that possible, we do not allow any activity that attempts to manipulate our platform or disrupt our services through inauthentic **accounts, behaviors** or content.
+We want X to be a place where people have authentic experiences. To make that possible, we do not allow any activity that attempts to manipulate our platform or disrupt our services through inauthentic **[accounts](#1), [behaviors](#2)** or [**content**.](#3)
 
 **Inauthentic Accounts** 
 
 Accounts on X must be authentic. Under this policy, you may not create, operate, or mass-register accounts that are not legitimate, genuine and transparent as to their source, identity, and popularity. This includes: 
 
-**Unauthorized automation:** Automated or scripted accounts that do not comply with our Developer Policy. Please note that as a user you are ultimately responsible for third-party applications you may authorize to access or use your account. 
+**Unauthorized automation:** Automated or scripted accounts that do not comply with our [Developer Policy](https://developer.twitter.com/en/developer-terms/agreement-and-policy). Please note that as a user you are ultimately responsible for third-party applications you may authorize to access or use your account. 
 
 **Fake personas:** You may not use manufactured identities to engage in disruptive or deceptive behavior. This may include using stock, stolen or AI-generated profile photos, copied or stolen profile bios, and/or misleading profile information for the purpose of deceiving others. 
 
-**Impersonation:** You may not impersonate other identities of individuals, groups, or organizations to deceive others. Although you are not required to display your real identity on your profile, your account should not use false profile information to impersonate others. We allow compliant Parody, Commentary, and Fan (PCF) accounts on X only if the purpose is to discuss, satirize or share information. If you believe an account is posing as you or your brand, you can file a report here.
+**Impersonation:** You may not impersonate other identities of individuals, groups, or organizations to deceive others. Although you are not required to display your real identity on your profile, your account should not use false profile information to impersonate others. We allow compliant Parody, Commentary, and Fan (PCF) accounts on X only if the purpose is to discuss, satirize or share information. If you believe an account is posing as you or your brand, you can file a report [here](https://help.x.com/forms/impersonation).
 
 ### Learn more about how to be PCF compliant
 
@@ -2428,7 +2428,7 @@ Accounts may depict another entity as long as they clearly indicate that they ar
 * include terms such as "parody," "fake," "fan," or "commentary at the beginning of your account name; and
 * include terms such as "parody," "fake," "fan," or "commentary in your bio or profile description. 
 
-Learn more about how to add a PCF label here.
+Learn more about how to add a PCF label [here](https://help.x.com/en/rules-and-policies/profile-labels).
 
 **Multiple Accounts and Coordination:** We prohibit coordinated inauthentic activity that artificially influences conversations or disrupts X.
 
@@ -2454,11 +2454,11 @@ Operating multiple accounts that post substantially similar or identical content
 * similar or duplicate content to the same trending topics or hashtags.
     
 
-Employing workarounds to exceed the technical limits of account creation (e.g., account phone number limits). X allows users to create and/or operate up to ten (10) accounts for different, non-duplicative purposes.
+Employing workarounds to exceed the technical limits of account creation (e.g., [account phone number limits](https://help.x.com/content/help-twitter/en/managing-your-account/phone-number-faqs#:~:text=Can%20I%20add%20my%20phone,security%20features%20like%20login%20verification.)). X allows users to create and/or operate up to ten (10) accounts for different, non-duplicative purposes.
 
 **Allowed**
 
-Operating multiple accounts with distinct identities, purposes, or use cases that comply with our technical limits of account creation (e.g. account phone number limits), such as:  
+Operating multiple accounts with distinct identities, purposes, or use cases that comply with our technical limits of account creation (e.g. [account phone number limits](https://help.x.com/en/managing-your-account/phone-number-faqs.html)), such as:  
 
 * accounts tracking when objects in space travel over a specific location on Earth, e.g. New York, Hong Kong;
 * accounts sharing news about different professional teams in the same sport or league, e.g. NFL, NBA, Premier League;
@@ -2496,9 +2496,9 @@ Account compromise may occur when: 
 * viruses or malware were installed on your computer to collect passwords; or
 * you logged in to your X account on a compromised network.
 
-If unauthorized updates appear in your account, it could signify a potential compromise of your account security. Learn more about how to keep your account secure.   
+If unauthorized updates appear in your account, it could signify a potential compromise of your account security. Learn more about how to keep your [account secure](https://help.x.com/en/safety-and-security/account-security-tips).   
 
-If you suspect that your account has been compromised, you can find a guide on how to troubleshoot the issue here. In the event that the troubleshooting doesn't work, please submit a report here.  
+If you suspect that your account has been compromised, you can find a guide on how to troubleshoot the issue [here](https://help.x.com/en/safety-and-security/x-account-compromised). In the event that the troubleshooting doesn't work, please submit a report [here](https://help.x.com/en/forms/account-access/regain-access/hacked-or-compromised).  
 
 **Inauthentic Behaviors**
 
@@ -2603,7 +2603,7 @@ The consequences for violating this policy depend on the severity of the violati
 The following is a list of potential enforcement options for content that violates this policy:
 
 * **Anti-spam challenges:** When we detect suspicious levels of activity, accounts may be locked and prompted to provide additional information (e.g., a phone number) or to solve a puzzle. 
-* **Denylisting URLs:** We denylist or provide warnings about URLs we believe to be unsafe. Read more about unsafe links, including how to appeal if we’ve falsely identified your URL as unsafe.
+* **Denylisting URLs:** We denylist or provide warnings about URLs we believe to be unsafe. Read more about [unsafe links](https://help.x.com/en/safety-and-security/phishing-spam-and-malware-links.html), including how to appeal if we’ve falsely identified your URL as unsafe.
 * **Restricting Reach:** This may include excluding posts from search results, trends, and recommended notifications, removing posts from the For You and Following timelines, restricting a post's discoverability to the author’s profile, restricting likes, replies, reposts, quote posts, bookmarks, share, pin to profile, or edit post, and downranking the post in replies.  
 
 * **Temporary loss of access to X features or products:** We may temporarily limit or restrict access to X features or products, including (but not limited to) posts, Edit post, Direct Messages, Spaces, Communities, or Live.  
@@ -2617,12 +2617,12 @@ You can report inauthentic accounts, behaviors and content using our dedicated i
 
 **Appeals**
 
-If you believe we made a mistake, you can submit an appeal.
+If you believe we made a mistake, you can [submit an appeal](https://help.x.com/en/forms/account-access/appeals.html).
 
 Abusive profile information
 ===========================
 
-**X Rules:** You may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.  
+**[X Rules:](https://help.x.com/en/rules-and-policies/twitter-rules.html#hateful-conduct)** You may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.  
  
 
 ### Rationale  
@@ -2650,9 +2650,9 @@ No, we review both first-person and bystander reports of such content.
 
 If an account’s profile information includes any of the abusive behaviors listed above, we will permanently suspend the account on first violation.  
 
-If an account uses a hateful symbol in its profile information, the account-holder will be required to remove the symbol before they can use their account again. Repeated violations will lead to permanent suspension. For more information on how we handle hateful imagery and symbols, see our media policy.  
+If an account uses a hateful symbol in its profile information, the account-holder will be required to remove the symbol before they can use their account again. Repeated violations will lead to permanent suspension. For more information on how we handle hateful imagery and symbols, see our [media policy](https://help.x.com/en/rules-and-policies/media-policy.html).  
 
-If someone believes their account was suspended in error, they can submit an appeal.
+If someone believes their account was suspended in error, they can [submit an appeal](https://help.x.com/forms/general?subtopic=suspended).
 
 Automated copyright claims for live video
 =========================================
@@ -2664,7 +2664,7 @@ X and Periscope broadcasts that match copyrighted content may be disabled or hav
 ### What happens when a broadcast is claimed?  
 
   
-If one of your broadcasts is claimed because of an automated match, you will have the opportunity to dispute the claim. If you dispute the claim, we will reinstate your broadcast as a replay. You may choose to dispute a claim if you believe the claimed material was misidentified or the claim was a mistake (for example, you had the right to use the claimed material in question, or you believe your use of the material is a fair use). When we restore a broadcast because of a dispute, a copyright holder may still send us a formal copyright takedown notice under our copyright policy. If the broadcast is removed as the result of a formal takedown notice, you can still challenge the removal with a counter-notice. 
+If one of your broadcasts is claimed because of an automated match, you will have the opportunity to dispute the claim. If you dispute the claim, we will reinstate your broadcast as a replay. You may choose to dispute a claim if you believe the claimed material was misidentified or the claim was a mistake (for example, you had the right to use the claimed material in question, or you believe your use of the material is a [fair use](https://help.x.com/rules-and-policies/fair-use-policy)). When we restore a broadcast because of a dispute, a copyright holder may still send us a formal copyright takedown notice under our [copyright policy](https://help.x.com/rules-and-policies/copyright-policy). If the broadcast is removed as the result of a formal takedown notice, you can still challenge the removal with a counter-notice. 
 
 A claim may result in the removal of a broadcast, but will not create long-term penalties on your account. If we receive repeated claims within a few hours, we may temporarily limit your ability to broadcast. 
 
@@ -2706,24 +2706,24 @@ We review each report and do the following:
 
 * Content which provides news, information, or commentary about goods or services is not a violation of this counterfeit goods policy. 
 * Promotion or sale, including resale, of genuine branded goods, may not be a violation.
-* The use of trademarked materials in a misleading way that does not involve the sale or promotion of counterfeit goods would not be a violation of this counterfeit policy, but may be a violation of our trademark policy.
+* The use of trademarked materials in a misleading way that does not involve the sale or promotion of counterfeit goods would not be a violation of this counterfeit policy, but may be a violation of our [trademark policy](https://help.x.com/en/rules-and-policies/twitter-trademark-policy.html).
 
 ### How do I report a counterfeit policy violation?
 
   
-If you are concerned about an account violating X’s counterfeit policy, please file a report through our support form. Using the appropriate form ensures we have all the information necessary to process your report quickly. Please provide all information requested in the form. If you submit a report with incomplete information, we will follow up with you to request that information. Please note that this will result in a delay in processing your report.
+If you are concerned about an account violating X’s counterfeit policy, please file a report through our [support form](https://help.x.com/forms/counterfeit). Using the appropriate form ensures we have all the information necessary to process your report quickly. Please provide all information requested in the form. If you submit a report with incomplete information, we will follow up with you to request that information. Please note that this will result in a delay in processing your report.
 
 If you have trouble using the form, try updating your browser or switching to another browser.
 
 ### What happens if you violate this policy?
 
   
-If we determine that you violated our counterfeit policy, we may suspend your account. In some instances, an account may be permanently suspended upon first review. If you believe that your account was suspended in error, you can submit an appeal.
+If we determine that you violated our counterfeit policy, we may suspend your account. In some instances, an account may be permanently suspended upon first review. If you believe that your account was suspended in error, you can [submit an appeal](https://help.x.com/forms/general?subtopic=suspended).
 
 ### Additional resources
 
   
-Learn more about our range of enforcement options and our approach to policy development and enforcement.
+Learn more about [our range of enforcement options](https://help.x.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.x.com/rules-and-policies/enforcement-philosophy).
 
 About public-interest exceptions on X
 =====================================
@@ -2743,7 +2743,7 @@ We decide whether a post that would otherwise violate the X Rules is in the publ
 
 ### Criteria for exceptions 
 
-1. The post violates one or more X Rules;
+1. The post violates one or more [X Rules](https://help.x.com/rules-and-policies/twitter-rules.html);
 2. The post was shared by a high profile account; and, 
 3. The account represents a current or potential member of a local, state, national, or supra-national governmental or legislative body:  
     1. Current holders of an elected or appointed leadership position in a governmental or legislative body, OR
@@ -2779,47 +2779,47 @@ We are more likely to remove the post without applying the notice if:
 
 We recognize the desire for these decisions to be clearcut yes/no binaries. Unfortunately, the reality is that they can't be. This is new territory for everyone – a service being used by world leaders to communicate directly to their constituents or other leaders, and at times, announce policy – and every decision we make sets a new precedent. We believe it is critical that we evaluate every case individually and in a way that accounts for context and history. Over time, as we evaluate more posts and make more of these decisions, we will be establishing a case history that makes these calls easier to make.
 
-The table below provides a high-level overview of the thinking behind how we evaluate whether to remove or apply the notice across a range of the X Rules. As with all our policies, we continue to respect local laws and balance other principles, including freedom of expression, when enforcing our rules. Even when content qualifies for the public-interest exception, we will continue to comply with applicable local laws, as provided by our country-withheld content policy.  
+The table below provides a high-level overview of the thinking behind how we evaluate whether to remove or apply the notice across a range of the X Rules. As with all our policies, we continue to respect local laws and balance other principles, including freedom of expression, when enforcing our rules. Even when content qualifies for the public-interest exception, we will continue to comply with applicable local laws, as provided by our [country-withheld content](https://help.x.com/rules-and-policies/tweet-withheld-by-country.html) policy.  
  
 
 ### When we're less likely to make exceptions 
 
-**Terrorism / violent extremism:** _**You may not threaten or promote terrorism or violent extremism.**_   
+**[Terrorism / violent extremism](https://help.x.com/rules-and-policies/perpetrators-of-violent-attacks):** _**You may not threaten or promote terrorism or violent extremism.**_   
 
 There is no place on X for terrorist organizations or violent extremist groups and individuals who affiliate with and promote their illicit activities. Given the severe physical harm that can result from the activities of these groups, we do not anticipate cases where the public-interest exception would apply. 
 
-**Violence:** _**You may not threaten violence against an individual or a group of people. We also prohibit the glorification of violence.**_ 
+**[Violence](https://help.x.com/rules-and-policies/violent-speech):** _**You may not threaten violence against an individual or a group of people. We also prohibit the glorification of violence.**_ 
 
 Content that threatens or glorifies violence can result in some of the most severe and immediate harms our rules are meant to address, and public-interest exceptions are therefore unlikely. We will especially err on the side of removal in cases where there is evidence the content may be leading to actual or likely offline harm. In very rare instances, we may decide that content is worthy of a public-interest exception if there is a more attenuated connection to actual violence, or if X is the only source of the information.
 
-**Illegal or certain regulated goods or services: _You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services._** 
+**[Illegal or certain regulated goods or services](https://help.x.com/rules-and-policies/regulated-goods-services.html): _You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services._** 
 
 In an effort to address the potential for offline harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. In rare instances, for example if there is significant documentary or accountability value in preserving the content as a matter of public record, we may choose to leave the content up behind the notice.
 
-**Suicide or self-harm: _You may not promote or encourage suicide or self-harm._** 
+**[Suicide or self-harm](https://help.x.com/rules-and-policies/glorifying-self-harm.html): _You may not promote or encourage suicide or self-harm._** 
 
 Social contagion as a result of self-harming content is a severe and immediate harm that can occur on the service, and the public-interest exception is unlikely to override the potential for offline harm. We may sometimes leave content up behind the notice for cases of hyperbolic political statements, particularly if they target other public figures in the context of some relevant public debate. But we will err toward removal for content that targets private figures or where it is likely to cause offline harm.
 
-**Election integrity: _You may not use X’s services for the purpose of manipulating or interfering in elections. This includes posting or sharing content that may suppress voter turnout or mislead people about when, where, or how to vote._** 
+**[Election integrity](https://help.x.com/rules-and-policies/election-integrity-policy.html): _You may not use X’s services for the purpose of manipulating or interfering in elections. This includes posting or sharing content that may suppress voter turnout or mislead people about when, where, or how to vote._** 
 
 Participation in free and fair elections is a fundamental human right — and X views activity that interferes in someone’s ability to participate in an election, or which attempts to mislead about or deter them from participating, as a significant harm. There may be high public interest in the fact that an official has shared violative content, but, given the severity of the harm if viewers are misled or influenced by the content, it is very unlikely that such content would remain on the platform.
 
-**Private information: _You may not publish or post other people's private information (such as home phone number and address) without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so._**
+**[Private information](https://help.x.com/rules-and-policies/personal-information.html): _You may not publish or post other people's private information (such as home phone number and address) without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so._**
 
 Sharing the personal information of an individual has the potential to generate severe and immediate harm both on and off X, and public-interest exceptions are unlikely to outweigh this harm, given the need to protect victims. However, there may be high public interest in the fact that an official is threatening to share violative content, and we may make exceptions where the personal information itself is not present.  
  
 
 ### When we're more likely to make exceptions 
 
-**Hateful conduct:** _Content promoting violence against, threatening, or harassing other people on the basis of race, ethnicity, national origin, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. This includes content that dehumanizes or incites fear about people based on their protected characteristics._
+**[Hateful conduct](https://help.x.com/rules-and-policies/hateful-conduct-policy.html):** _Content promoting violence against, threatening, or harassing other people on the basis of race, ethnicity, national origin, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. This includes content that dehumanizes or incites fear about people based on their protected characteristics._
 
 X stands for the value of direct access to powerful figures, and maintaining a robust public record provides benefits to accountability. This value will be weighed against the likelihood and severity of actual or potential offline harm associated with a violation of these policies. For example, we may leave political statements that are part of a public debate up behind a notice. We take various factors into account when assessing for Hateful Conduct and will determine the penalty, such as making the content less visible or removing, based on the evidence of  actual or likelihood of offline harm.
 
-**Abuse / harassment:** _You may not engage in the targeted harassment of someone, or incite other people to do so. This includes content denying that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context or using aggressive insults with the purpose of harassing or intimidating others._
+**[Abuse / harassment](https://help.x.com/rules-and-policies/abusive-behavior.html):** _You may not engage in the targeted harassment of someone, or incite other people to do so. This includes content denying that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context or using aggressive insults with the purpose of harassing or intimidating others._
 
 X stands for the value of direct access to government and elected officials, and maintaining a robust public record provides benefits to accountability. This value will be weighed against the severity of the harm associated with the violation of these policies and the likelihood of offline harm. For example, insults may be present in posts related to heated debate over matters of public policy. We are more likely to remove a post if the content targets a private individual without any relevant political context.
 
-**Sensitive media: _You may not share any media that depicts excessively graphic or gruesome content related to death, violence or severe physical harm, or violent content that is shared for sadistic purposes._** 
+**[Sensitive media](https://help.x.com/rules-and-policies/media-policy.html): _You may not share any media that depicts excessively graphic or gruesome content related to death, violence or severe physical harm, or violent content that is shared for sadistic purposes._** 
 
 X stands for the value of direct access to powerful figures, and maintaining a robust public record for an important historical event provides benefits to accountability. This value will be weighed against the likelihood and severity of the actual or potential harm associated with the violation of this policy.
 
@@ -2845,7 +2845,7 @@ The current technical limits for accounts are:
 
 These limits include actions from all devices, including web, mobile, phone, API, etc. API requests from all third-party applications are tracked against the hourly API limit. People who use multiple third-party applications with their account will therefore reach the API limit more quickly. 
 
-These limits may be temporarily reduced during periods of heavy site usage. In such cases, we will post an update on the X status site.  
+These limits may be temporarily reduced during periods of heavy site usage. In such cases, we will post an update on the [X status](https://status.twitterstat.us/) site.  
  
 
 ### What happens if I hit a limit? 
@@ -2857,16 +2857,16 @@ The post limit of 2,400 updates per day is further broken down into semi-hourly 
 
 ### Having trouble? 
 
-If you've hit a follow limit, please see this follow limit troubleshooting article for more information.
+If you've hit a follow limit, please see this [follow limit troubleshooting](https://help.x.com/en/using-twitter/twitter-follow-limit.html) article for more information.
 
 About specific instances when a post’s reach may be limited
 ===========================================================
 
-People may express themselves on X as long as they do not violate our X Rules. **We do not block, limit, or remove content based on an individual’s views or opinions. In some situations, your post may not be seen by everyone, as outlined below:**   
+People may express themselves on X as long as they do not violate our [X Rules](https://help.x.com/en/rules-and-policies/twitter-rules.html). **We do not block, limit, or remove content based on an individual’s views or opinions. In some situations, your post may not be seen by everyone, as outlined below:**   
 
 **1\. Violation of the X Rules**
 
-Where appropriate, we will restrict the reach of posts that violate our policies and create a negative experience for other users by making the post less discoverable on X.  Learn more here about our range of enforcement options.
+Where appropriate, we will restrict the reach of posts that violate our policies and create a negative experience for other users by making the post less discoverable on X.  Learn more here about our [range of enforcement options](https://help.x.com/en/rules-and-policies/enforcement-options).
 
 **2\. Tools and controls**
 
@@ -2880,7 +2880,7 @@ We’ve developed a set of tools that enable people to control what they see on 
 **3. Quality and safety ranking  
 **
 
-We are constantly working on improving core parts of the X experience, including the timeline, conversations, and search so that people see content that they are most interested in and contributes to the conversation in a meaningful way, such as content that is relevant, credible, and safe.   
+We are constantly working on improving core parts of the X experience, including the timeline, conversations, and [search](https://help.x.com/content/help-twitter/en/using-twitter/twitter-search) so that people see content that they are most interested in and contributes to the conversation in a meaningful way, such as content that is relevant, credible, and safe.   
 
 We have also developed "safe search" functionality which removes posts that contain potentially sensitive content and posts from blocked and muted accounts from search results. As part of this, our team has been working on identifying and collapsing potentially abusive and low-quality replies so the most relevant conversations are brought forward. These post replies are still accessible to those who seek them out. 
 
@@ -2892,16 +2892,16 @@ We are constantly running experiments on X which may limit the reach of certain 
 
 **5\. Legal, quality, and technical issues**
 
-We may limit a post’s reach if it violates our X Rules or applicable laws, or is determined to be low quality. For more information on instances where we may withhold a post in a specific country, please see this Help Center article.  
+We may limit a post’s reach if it violates our [X Rules](https://help.x.com/en/rules-and-policies/twitter-rules.html) or applicable laws, or is determined to be low quality. For more information on instances where we may withhold a post in a specific country, please see this Help Center [article](https://help.x.com/en/safety-and-security/tweet-withheld-by-country.html).  
 
 Some people report issues related to their posts not appearing on X or their replies detaching from an original post that happen outside of enforcement actions and safety features. These cases may be the result of a post being identified as spam by our systems or may be due to some current technical issues and limitations of the service. We use @Support to update the community about technical issues like these.
 
-If you notice other instances where posts are not appearing, we encourage you to let us know by reporting the issue.
+If you notice other instances where posts are not appearing, we encourage you to let us know by [reporting the issue](https://help.x.com/forms).
 
 Our range of enforcement options
 ================================
 
-When we take enforcement actions, we may do so either on a specific piece of content (e.g., an individual post or Direct Message), on an account, or employ a combination of these options. In some instances, this is because the behavior violates the X Rules. Other times, it may be in response to a valid legal request from an authorized entity in a given country. Below are some of the enforcement actions that we may take.  
+When we take enforcement actions, we may do so either on a specific piece of content (e.g., an individual post or Direct Message), on an account, or employ a combination of these options. In some instances, this is because the behavior violates the [X Rules](https://help.x.com/en/rules-and-policies/twitter-rules.html). Other times, it may be in response to a valid legal request from an authorized entity in a given country. Below are some of the enforcement actions that we may take.  
  
 
 **Post-level enforcement**
@@ -2927,11 +2927,11 @@ A few of the ways in which we might take action at the post level include:
 
 Authors will be able to submit an appeal on the label if they think we incorrectly limited their post’s visibility. 
 
-**Requiring post removal:**  When we determine that a post violated the X Rules and the violation is severe enough to warrant post removal, we will require the violator to remove it before they can post again. They will need to go through the process of removing the violating post or appealing our removal request if they believe we made an error. The post will be hidden from public view with a notice during this process. 
+**Requiring post removal:**  When we determine that a post violated the X Rules and the violation is severe enough to warrant post removal, we will require the violator to remove it before they can post again. They will need to go through the process of removing the violating post or [appealing](https://help.x.com/en/forms/account-access/appeals.html) our removal request if they believe we made an error. The post will be hidden from public view with a [notice](https://help.x.com/en/rules-and-policies/notices-on-x.html) during this process. 
 
-**Labeling a post:** If we determine a post contains misleading or disputed information per our policies that could potentially lead to harm, we may add a label to the content to provide context and additional information to users. In these cases, Community Notes may also be visible on posts to provide additional context.
+**Labeling a post:** If we determine a post contains misleading or disputed information per our policies that could potentially lead to harm, we may [add a label](https://help.x.com/en/rules-and-policies/notices-on-x.html) to the content to provide context and additional information to users. In these cases, [Community Notes](https://help.x.com/en/using-twitter/community-notes.html) may also be visible on posts to provide additional context.
 
-**Notice of public interest exception:** We may determine that it is in the public interest for a post that would otherwise be in violation of our rules to remain accessible on our service. When this occurs, we will place the post behind a notice and limit its visibility. Learn more about the public interest exception.
+**Notice of public interest exception:** We may determine that it is in the public interest for a post that would otherwise be in violation of our rules to remain accessible on our service. When this occurs, we will place the post behind a notice and limit its visibility. [Learn more](https://help.x.com/en/rules-and-policies/public-interest.html) about the public interest exception.
 
 ### **Direct Message-level enforcement**
 
@@ -2948,16 +2948,16 @@ We take action to suspend an account if we determine that a user has engaged in 
 
 **Verifying account ownership:** We may require an account owner to verify ownership with a phone number or email address. Note that when an account has been locked pending completion of a challenge (such as being required to provide a phone number), it is removed from follower counts, Reposts, and Likes.
 
-Users can appeal account suspensions if they believe we made an error. They can do this through the platform interface or by filing a report.  
+Users can appeal account suspensions if they believe we made an error. They can do this through the platform interface or by [filing a report](https://help.x.com/en/forms/account-access/appeals.html).  
   
 
 ### Actions we may take against non-violating content
 
-**Placing a post behind a notice:** We may place some forms of sensitive media like adult content or graphic violence behind an interstitial advising viewers to be aware that they will see sensitive media if they click through. Learn more about how to control whether you see sensitive media.
+**Placing a post behind a notice:** We may place some forms of [sensitive media](https://help.x.com/en/rules-and-policies/media-policy.html) like adult content or graphic violence behind an interstitial advising viewers to be aware that they will see sensitive media if they click through. Learn more about [how to control whether you see sensitive media](https://help.x.com/en/safety-and-security/sensitive-media.html).
 
-**Withholding a post based on age:** We restrict views of specific forms of sensitive media such as adult content for viewers who are under 18 or viewers who do not include a birth date on their profile with interstitials. 
+**Withholding a post based on age:** We restrict views of specific forms of sensitive media such as adult content for viewers who are under 18 or viewers who do not include a birth date on their profile with [interstitials](https://help.x.com/en/rules-and-policies/notices-on-x.html). 
 
-**Withholding a post or account in a country:** We may withhold access to certain content in a particular country if we receive a valid and properly scoped request from an authorized entity in that country. Read more about country withheld content.
+**Withholding a post or account in a country:** We may withhold access to certain content in a particular country if we receive a valid and properly scoped request from an authorized entity in that country. Read more about [country withheld content](https://help.x.com/en/rules-and-policies/tweet-withheld-by-country.html).
 
 X Moments guidelines and principles
 ===================================
@@ -3002,7 +3002,7 @@ Moments are intended to feature compelling, original, and diverse content. When 
 
 Our Curation team isn’t responsible for driving revenue, user growth, or managing X’s partner relationships. We feature posts and videos, and select Moments topics based on what best serves our audience. These decisions aren’t influenced by advertisers, partners, or X’s business interests. 
 
-The Curation team will generally avoid creating Moments that cover our industry, our company, or our competitors. If X, or its competitors, become a significant part of the conversation on the platform (for instance, if the issue becomes a trending topic), our Curation team may curate a factual summary of the conversation, including a response from the company where available.  
+The Curation team will generally avoid creating Moments that cover our industry, our company, or our competitors. If X, or its competitors, become a significant part of the conversation on the platform (for instance, if the issue becomes a [trending topic](https://help.x.com/using-twitter/twitter-trending-faqs)), our Curation team may curate a factual summary of the conversation, including a response from the company where available.  
  
 
 ### Selecting Moments topics 
@@ -3049,10 +3049,10 @@ Fair use determinations are made on a case by case basis, and there is no clear 
 
 For more information on fair use:
 
-* http://en.wikipedia.org/wiki/Fair\_use
-* https://ilt.eff.org/index.php/Copyright:\_Fair\_Use
-* https://www.lumendatabase.org/
-* http://fairuse.stanford.edu/overview/fair-use/four-factors/
+* [http://en.wikipedia.org/wiki/Fair\_use](https://en.wikipedia.org/wiki/Fair_use)
+* [https://ilt.eff.org/index.php/Copyright:\_Fair\_Use](https://ilt.eff.org/index.php/Copyright:_Fair_Use)
+* [https://www.lumendatabase.org/](https://ilt.eff.org/index.php/Copyright:_Fair_Use)
+* [http://fairuse.stanford.edu/overview/fair-use/four-factors/](http://fairuse.stanford.edu/overview/fair-use/four-factors/)
 
 Copyright policy
 ================
@@ -3061,17 +3061,17 @@ Copyright policy
 
 X responds to copyright complaints submitted under the Digital Millennium Copyright Act (“DMCA”). Section 512 of the DMCA outlines the statutory requirements necessary for formally reporting copyright infringement, as well as providing instructions on how an affected party can appeal a removal by submitting a compliant counter-notice.
 
-X will respond to reports of alleged copyright infringement, such as allegations concerning the unauthorized use of a copyrighted image as a profile or header photo, allegations concerning the unauthorized use of a copyrighted video or image uploaded through our media hosting services, or posts containing links to allegedly infringing materials. Note that not all unauthorized uses of copyrighted materials are infringements (see our fair use article for more information).
+X will respond to reports of alleged copyright infringement, such as allegations concerning the unauthorized use of a copyrighted image as a profile or header photo, allegations concerning the unauthorized use of a copyrighted video or image uploaded through our media hosting services, or posts containing links to allegedly infringing materials. Note that not all unauthorized uses of copyrighted materials are infringements (see our [fair use](https://help.x.com/en/rules-and-policies/fair-use-policy.html) article for more information).
 
-If you are concerned about the use of your brand or entity’s name, please review Twitter’s trademark policy. If you are concerned about a parody, newsfeed, commentary, or fan account, please see the relevant policy here. These are generally not copyright issues.
+If you are concerned about the use of your brand or entity’s name, please review [Twitter’s trademark policy](https://help.x.com/en/rules-and-policies/twitter-trademark-policy.html). If you are concerned about a parody, newsfeed, commentary, or fan account, please see the relevant policy [here](https://help.x.com/en/rules-and-policies/parody-account-policy.html). These are generally not copyright issues.
 
 #### Am I a copyright holder? How do I know?
 
-If you are unsure whether you hold rights to a particular work, please consult an attorney or another adviser as X cannot provide legal advice. There are plenty of resources to learn more about copyright law including http://copyright.gov and http://www.eff.org/issues/bloggers/legal/liability/IP, just to name a few.
+If you are unsure whether you hold rights to a particular work, please consult an attorney or another adviser as X cannot provide legal advice. There are plenty of resources to learn more about copyright law including [http://copyright.gov](http://copyright.gov/) and [http://www.eff.org/issues/bloggers/legal/liability/IP](https://www.eff.org/issues/bloggers/legal/liability/IP), just to name a few.
 
 #### What to consider before submitting a copyright complaint
 
-Before submitting a copyright complaint to us, please consider whether or not the use could be considered fair use. 
+Before submitting a copyright complaint to us, please consider whether or not the use could be considered [fair use](https://help.x.com/en/rules-and-policies/fair-use-policy.html). 
 
 If you have considered fair use, and you still wish to continue with a copyright complaint, you may want to first reach out to the user in question to see if you can resolve the matter directly with the user. You can reply to the user’s post or send the user a Direct Message and ask for them to remove your copyrighted content without having to contact X. 
 
@@ -3091,11 +3091,11 @@ To submit a notice of claimed copyright infringement, you will need to provide u
 6. A statement that the information in the complaint is accurate, and, under penalty of perjury, that you are authorized to act on behalf of the copyright owner.  
      
 
-If you are reporting the content of a post, please give us a direct link to that post. Or please specify if the alleged infringement is in the header, avatar, etc. A LINK TO A PROFILE PAGE IS INSUFFICIENT FOR X TO IDENTIFY INFRINGING MATERIALS.
+If you are reporting the content of a post, please give us a [direct link](https://help.x.com/en/using-twitter/tweet-and-moment-url.html) to that post. Or please specify if the alleged infringement is in the header, avatar, etc. A LINK TO A PROFILE PAGE IS INSUFFICIENT FOR X TO IDENTIFY INFRINGING MATERIALS.
 
 #### How do I file a copyright complaint?
 
-You can report alleged copyright infringement by visiting X Help Center and filing a copyright complaint. If you are logged in to x.com, you can visit the X Help Center directly from your X account by clicking the ‘Help’ link located in the sidebar.
+You can report alleged copyright infringement by visiting X Help Center and [filing a copyright complaint](https://help.x.com/forms/ipi). If you are logged in to x.com, you can visit the X Help Center directly from your X account by clicking the ‘Help’ link located in the sidebar.
 
 Filing a DMCA complaint is the start of a pre-defined legal process. Your complaint will be reviewed for accuracy, validity, and completeness. If your complaint has satisfied these requirements, we will take action on your request - which includes forwarding a full copy of your notice (including your name, address, phone and email address) to the user(s) who posted the allegedly infringing material in question.
 
@@ -3136,11 +3136,11 @@ Tip: Removing the material reported in a copyright complaint will not resolve th
 #### What if I want to contest the takedown?
 
 If you believe that the materials reported in the copyright complaints  
-were misidentified or removed in error, you may send us a counter-notification(s) through our Help Center. A counter-notice is a request for X to reinstate the removed material, and it has legal consequences. Alternatively, you may be able to seek a retraction of the copyright complaint from the reporter.
+were misidentified or removed in error, you may send us a [counter-notification(s)](https://help.x.com/en/forms/ipi/dmca-counternotice.html) through our Help Center. A counter-notice is a request for X to reinstate the removed material, and it has legal consequences. Alternatively, you may be able to seek a retraction of the copyright complaint from the reporter.
 
 #### How do I seek a retraction?
 
-The DMCA complaint you received includes the contact information of the reporter. You may want to reach out and ask them to retract their notice using our retraction form. This is the fastest and most efficient means of resolving an unresolved copyright complaint. Alternatively, the reporter can also send a retraction notice to copyright@twitter.com.  Such notice should include: (1) identification of the material that was disabled, and (2) a statement that the reporter would like to retract their DMCA notice.  A retraction is at the sole discretion of the original reporter, and only that reporter can issue a retraction.  If a portion of your post has been withheld, the violation will not be resolved just by deleting the remaining portion.
+The DMCA complaint you received includes the contact information of the reporter. You may want to reach out and ask them to retract their notice using our [retraction form](https://help.x.com/forms/ipi/dmca-retraction). This is the fastest and most efficient means of resolving an unresolved copyright complaint. Alternatively, the reporter can also send a retraction notice to [\[email protected\]](https://help.x.com/cdn-cgi/l/email-protection).  Such notice should include: (1) identification of the material that was disabled, and (2) a statement that the reporter would like to retract their DMCA notice.  A retraction is at the sole discretion of the original reporter, and only that reporter can issue a retraction.  If a portion of your post has been withheld, the violation will not be resolved just by deleting the remaining portion.
 
 #### When should I file a counter-notice?
 
@@ -3170,7 +3170,7 @@ OR
 
 "I consent to any judicial district in which X may be found, and I’ll accept service of process from the person who provided notice under 17 U.S.C. 512 (c)(1)(C) or an agent of such person."
 
-To submit a counter-notice, please provide all of the above information using our web form, located here.
+To submit a counter-notice, please provide all of the above information using our web form, located [here](https://help.x.com/forms/ipi/dmca-counternotice.html).
 
 #### What happens after I submit a counter-notice?
 
@@ -3186,16 +3186,16 @@ Please think twice before submitting a claim or counter-notice, especially if yo
 
 #### What happens if my account receives one or more copyright complaints?
 
-If multiple copyright complaints are received about an account, or other evidence suggests a pattern of repeat infringement, X may suspend that account in accordance with our Repeat Infringer Policy. Our Repeat Infringer Policy takes valid retractions and counter-notices into account. Users suspended under that policy may file a suspension appeal using this form.
+If multiple copyright complaints are received about an account, or other evidence suggests a pattern of repeat infringement, X may suspend that account in accordance with our Repeat Infringer Policy. Our Repeat Infringer Policy takes valid retractions and counter-notices into account. Users suspended under that policy may file a suspension appeal using [this form](https://help.x.com/forms/general?subtopic=suspended).
 
-Additionally, re-posting material that was already removed in response to a copyright complaint, indicating where to access copyrighted material on third party websites, or certain other actions that demonstrate your account is intended solely or primarily to infringe the copyrighted material of others may result in permanent account suspension. If you are suspended on this basis, you may file an appeal using this form. Please be aware that appealing a suspension does not guarantee your account will be reinstated.
+Additionally, re-posting material that was already removed in response to a copyright complaint, indicating where to access copyrighted material on third party websites, or certain other actions that demonstrate your account is intended solely or primarily to infringe the copyrighted material of others may result in permanent account suspension. If you are suspended on this basis, you may file an appeal using [this form](https://help.x.com/forms/general?subtopic=suspended). Please be aware that appealing a suspension does not guarantee your account will be reinstated.
 
 Our approach to policy development and enforcement philosophy
 =============================================================
 
 X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
 
-We have the X Rules in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about different enforcement actions.
+We have the [X Rules](https://help.x.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
 
 ### Our policy development process 
 
@@ -3223,7 +3223,7 @@ To strike a balance between allowing different opinions to be expressed on the p
 **  
 Has the report been filed by the target of the potential abuse or a bystander?**
 
-Some posts may seem to be abusive when viewed in isolation, but may not be when viewed in the context of a larger conversation or historical relationship between people on the platform. For example, friendly banter between friends could appear offensive to bystanders, and certain remarks that are acceptable in one culture or country may not be acceptable in another. To help prevent our teams from making a mistake and removing consensual interactions, in certain scenarios we require a report from the actual target (or their authorized representative) prior to taking any enforcement action.
+Some posts may seem to be abusive when viewed in isolation, but may not be when viewed in the context of a larger conversation or historical relationship between people on the platform. For example, friendly banter between friends could appear offensive to bystanders, and certain remarks that are acceptable in one culture or country may not be acceptable in another. To help prevent our teams from making a mistake and removing consensual interactions, in certain scenarios we require a [report](https://help.x.com/forms/private_information) from the actual target (or their authorized representative) prior to taking any enforcement action.
 
 **  
 Does the user have a history of violating our policies?**
