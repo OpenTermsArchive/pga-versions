@@ -4,7 +4,7 @@
 
 * * [Premium Individual 1 account - For one person.](https://www.spotify.com/de-en/premium/?ref=spotifycom_header_premium_individual)
     * [Premium Duo 2 accounts - For couples under one roof.](https://www.spotify.com/de-en/duo/?ref=spotifycom_header_premium_duo)
-    * [Premium Family 6 accounts - For family members under one roof.](https://www.spotify.com/de-en/family/?ref=spotifycom_header_premium_family)
+    * [Premium Family Up to 6 accounts - For family under one roof.](https://www.spotify.com/de-en/family/?ref=spotifycom_header_premium_family)
     * [Premium Student 1 account - Discount for eligible students.](https://www.spotify.com/de-en/student/?ref=spotifycom_header_premium_student)
     
 * [Support](https://support.spotify.com/)
