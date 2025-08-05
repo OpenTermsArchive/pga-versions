@@ -8,17 +8,17 @@ Copyright policy
 
 X responds to copyright complaints submitted under the Digital Millennium Copyright Act (“DMCA”). Section 512 of the DMCA outlines the statutory requirements necessary for formally reporting copyright infringement, as well as providing instructions on how an affected party can appeal a removal by submitting a compliant counter-notice.
 
-X will respond to reports of alleged copyright infringement, such as allegations concerning the unauthorized use of a copyrighted image as a profile or header photo, allegations concerning the unauthorized use of a copyrighted video or image uploaded through our media hosting services, or posts containing links to allegedly infringing materials. Note that not all unauthorized uses of copyrighted materials are infringements (see our fair use article for more information).
+X will respond to reports of alleged copyright infringement, such as allegations concerning the unauthorized use of a copyrighted image as a profile or header photo, allegations concerning the unauthorized use of a copyrighted video or image uploaded through our media hosting services, or posts containing links to allegedly infringing materials. Note that not all unauthorized uses of copyrighted materials are infringements (see our [fair use](https://help.x.com/en/rules-and-policies/fair-use-policy.html) article for more information).
 
-If you are concerned about the use of your brand or entity’s name, please review Twitter’s trademark policy. If you are concerned about a parody, newsfeed, commentary, or fan account, please see the relevant policy here. These are generally not copyright issues.
+If you are concerned about the use of your brand or entity’s name, please review [Twitter’s trademark policy](https://help.x.com/en/rules-and-policies/twitter-trademark-policy.html). If you are concerned about a parody, newsfeed, commentary, or fan account, please see the relevant policy [here](https://help.x.com/en/rules-and-policies/parody-account-policy.html). These are generally not copyright issues.
 
 #### Am I a copyright holder? How do I know?
 
-If you are unsure whether you hold rights to a particular work, please consult an attorney or another adviser as X cannot provide legal advice. There are plenty of resources to learn more about copyright law including http://copyright.gov and http://www.eff.org/issues/bloggers/legal/liability/IP, just to name a few.
+If you are unsure whether you hold rights to a particular work, please consult an attorney or another adviser as X cannot provide legal advice. There are plenty of resources to learn more about copyright law including [http://copyright.gov](http://copyright.gov/) and [http://www.eff.org/issues/bloggers/legal/liability/IP](https://www.eff.org/issues/bloggers/legal/liability/IP), just to name a few.
 
 #### What to consider before submitting a copyright complaint
 
-Before submitting a copyright complaint to us, please consider whether or not the use could be considered fair use. 
+Before submitting a copyright complaint to us, please consider whether or not the use could be considered [fair use](https://help.x.com/en/rules-and-policies/fair-use-policy.html). 
 
 If you have considered fair use, and you still wish to continue with a copyright complaint, you may want to first reach out to the user in question to see if you can resolve the matter directly with the user. You can reply to the user’s post or send the user a Direct Message and ask for them to remove your copyrighted content without having to contact X. 
 
@@ -38,11 +38,11 @@ To submit a notice of claimed copyright infringement, you will need to provide u
 6. A statement that the information in the complaint is accurate, and, under penalty of perjury, that you are authorized to act on behalf of the copyright owner.  
      
 
-If you are reporting the content of a post, please give us a direct link to that post. Or please specify if the alleged infringement is in the header, avatar, etc. A LINK TO A PROFILE PAGE IS INSUFFICIENT FOR X TO IDENTIFY INFRINGING MATERIALS.
+If you are reporting the content of a post, please give us a [direct link](https://help.x.com/en/using-twitter/tweet-and-moment-url.html) to that post. Or please specify if the alleged infringement is in the header, avatar, etc. A LINK TO A PROFILE PAGE IS INSUFFICIENT FOR X TO IDENTIFY INFRINGING MATERIALS.
 
 #### How do I file a copyright complaint?
 
-You can report alleged copyright infringement by visiting X Help Center and filing a copyright complaint. If you are logged in to x.com, you can visit the X Help Center directly from your X account by clicking the ‘Help’ link located in the sidebar.
+You can report alleged copyright infringement by visiting X Help Center and [filing a copyright complaint](https://help.x.com/forms/ipi). If you are logged in to x.com, you can visit the X Help Center directly from your X account by clicking the ‘Help’ link located in the sidebar.
 
 Filing a DMCA complaint is the start of a pre-defined legal process. Your complaint will be reviewed for accuracy, validity, and completeness. If your complaint has satisfied these requirements, we will take action on your request - which includes forwarding a full copy of your notice (including your name, address, phone and email address) to the user(s) who posted the allegedly infringing material in question.
 
@@ -82,11 +82,11 @@ Tip: Removing the material reported in a copyright complaint will not resolve th
 #### What if I want to contest the takedown?
 
 If you believe that the materials reported in the copyright complaints  
-were misidentified or removed in error, you may send us a counter-notification(s) through our Help Center. A counter-notice is a request for X to reinstate the removed material, and it has legal consequences. Alternatively, you may be able to seek a retraction of the copyright complaint from the reporter.
+were misidentified or removed in error, you may send us a [counter-notification(s)](https://help.x.com/en/forms/ipi/dmca-counternotice.html) through our Help Center. A counter-notice is a request for X to reinstate the removed material, and it has legal consequences. Alternatively, you may be able to seek a retraction of the copyright complaint from the reporter.
 
 #### How do I seek a retraction?
 
-The DMCA complaint you received includes the contact information of the reporter. You may want to reach out and ask them to retract their notice using our retraction form. This is the fastest and most efficient means of resolving an unresolved copyright complaint. Alternatively, the reporter can also send a retraction notice to copyright@twitter.com.  Such notice should include: (1) identification of the material that was disabled, and (2) a statement that the reporter would like to retract their DMCA notice.  A retraction is at the sole discretion of the original reporter, and only that reporter can issue a retraction.  If a portion of your post has been withheld, the violation will not be resolved just by deleting the remaining portion.
+The DMCA complaint you received includes the contact information of the reporter. You may want to reach out and ask them to retract their notice using our [retraction form](https://help.x.com/forms/ipi/dmca-retraction). This is the fastest and most efficient means of resolving an unresolved copyright complaint. Alternatively, the reporter can also send a retraction notice to [\[email protected\]](https://help.x.com/cdn-cgi/l/email-protection).  Such notice should include: (1) identification of the material that was disabled, and (2) a statement that the reporter would like to retract their DMCA notice.  A retraction is at the sole discretion of the original reporter, and only that reporter can issue a retraction.  If a portion of your post has been withheld, the violation will not be resolved just by deleting the remaining portion.
 
 #### When should I file a counter-notice?
 
@@ -116,7 +116,7 @@ OR
 
 "I consent to any judicial district in which X may be found, and I’ll accept service of process from the person who provided notice under 17 U.S.C. 512 (c)(1)(C) or an agent of such person."
 
-To submit a counter-notice, please provide all of the above information using our web form, located here.
+To submit a counter-notice, please provide all of the above information using our web form, located [here](https://help.x.com/forms/ipi/dmca-counternotice.html).
 
 #### What happens after I submit a counter-notice?
 
@@ -132,6 +132,6 @@ Please think twice before submitting a claim or counter-notice, especially if yo
 
 #### What happens if my account receives one or more copyright complaints?
 
-If multiple copyright complaints are received about an account, or other evidence suggests a pattern of repeat infringement, X may suspend that account in accordance with our Repeat Infringer Policy. Our Repeat Infringer Policy takes valid retractions and counter-notices into account. Users suspended under that policy may file a suspension appeal using this form.
+If multiple copyright complaints are received about an account, or other evidence suggests a pattern of repeat infringement, X may suspend that account in accordance with our Repeat Infringer Policy. Our Repeat Infringer Policy takes valid retractions and counter-notices into account. Users suspended under that policy may file a suspension appeal using [this form](https://help.x.com/forms/general?subtopic=suspended).
 
-Additionally, re-posting material that was already removed in response to a copyright complaint, indicating where to access copyrighted material on third party websites, or certain other actions that demonstrate your account is intended solely or primarily to infringe the copyrighted material of others may result in permanent account suspension. If you are suspended on this basis, you may file an appeal using this form. Please be aware that appealing a suspension does not guarantee your account will be reinstated.
+Additionally, re-posting material that was already removed in response to a copyright complaint, indicating where to access copyrighted material on third party websites, or certain other actions that demonstrate your account is intended solely or primarily to infringe the copyrighted material of others may result in permanent account suspension. If you are suspended on this basis, you may file an appeal using [this form](https://help.x.com/forms/general?subtopic=suspended). Please be aware that appealing a suspension does not guarantee your account will be reinstated.
