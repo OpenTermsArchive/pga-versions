@@ -20,13 +20,13 @@ Safety and Privacy Centre
     
 * Safety
     
-     [Platform Rules](https://www.spotify.com/de-en/safetyandprivacy/platform-rules) [Content actions](https://www.spotify.com/de-en/safetyandprivacy/content-actions) [Reporting content](https://www.spotify.com/de-en/safetyandprivacy/reporting-content) [Guidance for parents or caregivers](https://www.spotify.com/de-en/safetyandprivacy/parental-guide) [Our approach to age assurance](https://www.spotify.com/de-en/safetyandprivacy/age-assurance) [Election integrity at Spotify](https://www.spotify.com/de-en/safetyandprivacy/elections-integrity) [Our approach to dangerous and deceptive content](https://www.spotify.com/de-en/safetyandprivacy/dangerous-deceptive-content) [Our approach to violent extremism](https://www.spotify.com/de-en/safetyandprivacy/violent-extremism) [Understanding recommendations](https://www.spotify.com/de-en/safetyandprivacy/understanding-recommendations) [Digital Services Act Points of Contact](https://www.spotify.com/de-en/safetyandprivacy/dsa-points-of-contact)
+     [Platform Rules](https://www.spotify.com/de-en/safetyandprivacy/platform-rules) [Content actions](https://www.spotify.com/de-en/safetyandprivacy/content-actions) [Reporting content](https://www.spotify.com/de-en/safetyandprivacy/reporting-content) [Guidance for parents or caregivers](https://www.spotify.com/de-en/safetyandprivacy/parental-guide) [Our approach to assuring the age of users](https://www.spotify.com/de-en/safetyandprivacy/age-assurance) [Election integrity at Spotify](https://www.spotify.com/de-en/safetyandprivacy/elections-integrity) [Our approach to dangerous and deceptive content](https://www.spotify.com/de-en/safetyandprivacy/dangerous-deceptive-content) [Our approach to violent extremism](https://www.spotify.com/de-en/safetyandprivacy/violent-extremism) [Understanding recommendations](https://www.spotify.com/de-en/safetyandprivacy/understanding-recommendations) [Digital Services Act points of contact](https://www.spotify.com/de-en/safetyandprivacy/dsa-points-of-contact)
     
 * Privacy
     
      [Collecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/personal-data-collected) [Protecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/protecting-personal-data) [Your privacy controls](https://www.spotify.com/de-en/safetyandprivacy/privacy-controls) [Learn more about privacy](https://www.spotify.com/de-en/safetyandprivacy/learn-more-about-privacy)
     
-* Regulatory and Transparency Reports
+* Regulatory and transparency reports
     
 
 Spotify Platform Rules
