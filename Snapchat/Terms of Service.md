@@ -1,4 +1,4 @@
-Secondary Navigation
+Snap Terms of Service
 
 * Snap Terms of Service
     * [Summary](https://www.snap.com/terms?lang=en-GB#summary)
