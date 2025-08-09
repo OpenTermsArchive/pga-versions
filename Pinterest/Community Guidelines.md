@@ -1,7 +1,7 @@
-Community Guidelines | Pinterest Policy
+Community Guidelines
 
 
-===========================================
+========================
 
 Table of contents
 
