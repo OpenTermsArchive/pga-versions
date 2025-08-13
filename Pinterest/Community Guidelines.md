@@ -21,17 +21,19 @@ You can read more about how we put our Community Guidelines into practice on our
 
 We’re committed to presenting you with clear and transparent expectations that are easy to understand and follow. If you have questions or encounter problems on Pinterest, please .
 
-### Adult content
+### Adult sexual content and nudity
 
-Pinterest isn’t a place for adult or sexually exploitative content, including pornography and nudity. We remove or limit the distribution of mature and explicit or exploitative content, including:
+Pinterest isn’t a place for sexual content or visible intimate body parts. We remove or limit the distribution of this type of content, including:
 
-* Nudity
-* Sexualised content, even if the people are clothed or partially clothed
-* Graphic depictions of sexual activity in imagery or text
-* Fetish imagery
-* Non-consensual intimate images (NCII), meaning images of a private or sexual nature obtained or published without consent (this includes revenge porn and up-skirt images)
-* Adult sexual services that may involve sexual or physical exploitation or trafficking, such as sex cams and escort services
-* Financial sextortion instructions or tools
+* Sexually explicit depictions or descriptions.
+* Sexually suggestive depictions or descriptions.
+* Visible intimate body parts (e.g. genitals, anus, breasts or buttocks).
+* Promotion of erotic practices such as BD/SM.
+* Non-consensual creation and/or distribution of intimate images including intimate image abuse (referred to as “NCII” or “IBSA”), upskirting, downblousing and hidden camera images, or the threat to do so (referred to as “sextortion”).
+* Promotion of commercial sexual services such as escort services, sexual chats or webcams.
+* Instructions, tools or services for creating sexually explicit or nudity content (e.g. “nudifiers”).
+* Instructions, tools or services for intimate image abuse or financial sextortion.
+* Sexual enhancement products.
 
 ### Prohibited and regulated goods, services and activities
 
