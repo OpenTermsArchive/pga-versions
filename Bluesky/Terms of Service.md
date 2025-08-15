@@ -1,153 +1,312 @@
 Terms of Service
 ================
 
-#### Last Updated: February 7, 2025
+#### Last Updated: 14 August, 2025
 
-_The most recent update to the Terms of Service on February 7, 2025 introduces contact information for the EU and EU member states._
+_This Policy takes effect on 14 August 2025 for new users. It takes effect for existing users on 15 September 2025._
 
-Welcome to Bluesky Social, a social networking application provided by Bluesky! We're excited to have you on board as a user. Bluesky Social runs on the Authenticated Transfer Protocol ("**AT Protocol**"), a decentralized social networking protocol that supports many different kinds of services. These Terms of Service apply to the Bluesky Social service.
+_You may find the previous version of our Terms of Service [here](https://bsky.social/about/support/tos-deprecated)._
 
-Before you dive into using Bluesky Social, please take a moment to carefully read these Terms. This document outlines our legal obligations to each other and they apply to your use of our services.
+Welcome to Bluesky, a social networking application provided by Bluesky Social, PBC ("**we**", "**us**", "**our**”). We are excited to have you as a user.
 
-Bluesky Social is available as a desktop application at bsky.app and bsky.social (each a “**Site**”) and a mobile application (“**Bluesky App**” or “**the App**”). Your use of Bluesky Social is subject to these Terms of Service (“**Terms**”), as well as the Bluesky Social [Community Guidelines](https://bsky.social/about/support/community-guidelines) and Bluesky Social [Privacy Policy](https://bsky.social/about/support/privacy-policy), which are referenced in our Terms and available to read separately.
+Bluesky runs on the Authenticated Transfer Protocol ("**AT Protocol**"), a decentralized social networking protocol that supports many different kinds of services. Together with the Bluesky [Community Guidelines](https://bsky.social/about/support/community-guidelines), [Privacy Policy](https://bsky.social/about/support/privacy-policy), and [Copyright Policy](https://bsky.social/about/support/copyright), these Terms of Service ("**Terms**") govern your use of the Bluesky application, website, and services (collectively, "**Bluesky**"). By accessing or using Bluesky, you agree to be bound by these Terms. Please read them carefully.
 
-These terms only apply to social networking that happens on Bluesky Social services, including the Sites and Bluesky App. If you’re using another social networking application on the AT Protocol that isn’t Bluesky Social (we call this a “**Developer Application**”), the developers of the other service will provide the terms and conditions that govern your experience.
+These Terms only apply to social networking that happens on Bluesky. If you’re using another social networking application on the AT Protocol that isn’t Bluesky Social (a “**Developer Application**”), the terms and conditions of that Developer Application will govern your experience. We are not responsible for the content or practices of Developer Applications.
 
-When we say “**Bluesky**,” “**we**,” “**us**,” and “**our**” in these Terms, we mean Bluesky Social, PBC.
+_**Important Note:** These Terms contain an agreement to resolve most disputes between us through arbitration (instead of suing in court) and to waive jury trials and class actions in most cases. Please read Section 13 carefully._
 
-_Important Note: These Terms contain an agreement to resolve most disputes between us through arbitration (instead of suing in court) and to waive jury trials and class actions. Please read Sections 14 and 15 carefully._
+### Table of Contents
 
-In some cases below, we’ve added some summary text in italics to make these Terms easier to navigate, but please remember that the full text of these Terms is the most important.
+1. [Eligibility and Age Verification](https://bsky.social/about/support/tos#eligibility)
+2. [Account Registration and Responsibilities](https://bsky.social/about/support/tos#account-registration)
+3. [User Content](https://bsky.social/about/support/tos#user-content)
+4. [Proactive Moderation and Illegal Content](https://bsky.social/about/support/tos#proactive-moderation)
+5. [Discover Feed and Recommender Systems](https://bsky.social/about/support/tos#recommender-systems)
+6. [Complaints and Appeals](https://bsky.social/about/support/tos#complaints)
+7. [Termination](https://bsky.social/about/support/tos#termination)
+8. [Third-Party Services](https://bsky.social/about/support/tos#third-party-services)
+9. [Open Source Software](https://bsky.social/about/support/tos#open-source)
+10. [Warranty Disclaimer](https://bsky.social/about/support/tos#warranty)
+11. [Indemnification](https://bsky.social/about/support/tos#indemnification)
+12. [Limitation of Liability](https://bsky.social/about/support/tos#limitation-of-liability)
+13. [Governing Law, Jurisdiction, Venue, Dispute Resolution, and Arbitration](https://bsky.social/about/support/tos#governing-law)
+14. [Updates to Terms](https://bsky.social/about/support/tos#updates)
+15. [Intellectual Property](https://bsky.social/about/support/tos#intellectual-property)
+16. [General Terms](https://bsky.social/about/support/tos#general)
+17. [Contact Us](https://bsky.social/about/support/tos#contact)
+18. [Apple App Store and Google Play Required Terms](https://bsky.social/about/support/tos#app-stores)
 
-**Table of Contents**
+* * *
 
-1. [Who can use Bluesky Social?](#who-can-use)
-2. [User Content](#user-content)
-3. [General Prohibitions and Enforcement](#general-prohibitions-enforcement)
-4. [Termination](#termination)
-5. [Appeals](#appeals)
-6. [Terms Required by the App Store and Google Play](#app-play-terms)
-7. [Open Source](#open-source)
-8. [DMCA/Copyright Policy](#dmca-copyright)
-9. [Links to Third Party Websites or Resources](#third-party)
-10. [Updates](#updates)
-11. [Warranty Disclaimers](#warranty-disclaimers)
-12. [Indemnity](#indemnity)
-13. [Limitations of Liability](#limitations-of-liability)
-14. [Governing Law, Forum Choice and Class Action Waiver](#governing-law)
-15. [Dispute Resolution](#dispute-resolution)
-16. [General Terms](#general-terms)
-17. [Contact Information](#contact)
+1\. Eligibility and Age Verification
+------------------------------------
 
-  
+To use Bluesky, you must be at least 13 years old and meet the minimum age required by your local laws to enter into a binding agreement. In some locations, we may be required to restrict access to certain features or content unless you complete an age assurance process and demonstrate that you are an adult. When age assurance is required, we use methods that comply with the laws that apply in that jurisdiction.
 
-1. **Who Can Use Bluesky Social?**.
+2\. Account Registration and Responsibilities
+---------------------------------------------
 
-1. Eligibility. To use Bluesky Social, you must be at least 13 years old and legally permitted to use Bluesky Social based on the laws in your country. If you are not yet an adult according to the laws of your country, your parent or legal guardian must read these Terms on your behalf. If you’re a parent or legal guardian, and you allow your child (who meets the minimum age for your country) to use the services, then these terms also apply to you, and you’re responsible for your child’s activity on the services.
-2. Accounts. To use Bluesky Social, you must create an account (“**Account**”). Don’t share your Account with others, because you’re responsible for all activities under your Account, whether or not you know about them. If you’re using Bluesky Social on behalf of a company or organization, you confirm that you have the authority to represent your company or organization. If you believe your Account created through Bluesky Social has been compromised, report it to us at support@bsky.app.
-    1. If you are a US government entity or official who wishes to use Bluesky Social for your official government use, then please see the [Terms of Service Amendment for Government Users](https://bsky.social/about/support/tos-gov) .
-    2. If you are a government entity or official located outside of the United States who wishes to use Bluesky Social for your official government use, but are unable to do so because the Terms are incompatible with applicable laws, please contact us at legal-req@blueskyweb.xyz.
+_Summary: To use Bluesky, you need your own account. Don’t share accounts. You’re responsible for what happens on your account, even if you didn’t do it. Keep your login info safe. If someone breaks into your account, tell us right away at [support@bsky.app](mailto:support@bsky.app)._
 
-3. **User Content.**
+To be a Bluesky user, you must create an account (“**Account**”). You are responsible for any use of Bluesky made through your valid login credentials, including any communications or actions taken through your Account, whether or not you authorized it. Each time your credentials are used, we will presume you authorized the activity, and we are not required to verify the source of access. Do not share your Account with others or use anyone else’s account.
 
-1. User Content. “**User Content**” means any type of content you make available on Bluesky Social (“**Content**”), such as your posts, profile, photos, direct messages, or links.
-2. Your Responsibility for User Content. You, not Bluesky, are solely responsible for all of your User Content. Bluesky does not control others’ use of your content.
-3. Bluesky’s Use of User Content: User Content is only used only in connection with: (a) providing Bluesky Social and Content, including by sharing User Content throughout Bluesky Social and the AT Protocol as well as developing and improving our current and future offerings; and (b) promoting and marketing Bluesky and Bluesky Social.
-4. Bluesky’s Permission to Use Your User Content. You keep your ownership of User Content, subject to the license below. Bluesky does not own rights to your User Content except as provided in that license. By sharing User Content through Bluesky Social, you grant us permission to:
+By uploading or posting content on Bluesky, you warrant that you possess or have secured all rights, licenses, consents, and releases that are necessary for your use of that content and for Bluesky’s use as set forth in these Terms.
 
-1. Use User Content to develop, provide, and improve Bluesky Social, the AT Protocol, and any of our future offerings. For example, we can store and present User Content to other users in Bluesky Social. This allows us to show your posts in the Bluesky app to other users;
-2. Modify or otherwise utilize User Content in any media. This includes reproducing, preparing derivative works, distributing, performing, and displaying your User Content. For example, we can resize your posts to fit the Bluesky mobile or desktop app, or feature examples of User Content for promotional purposes; or
-3. Grant others the right to take the actions above. For example, we can grant content moderation tools access to User Content in order to monitor Bluesky Social;
-4. Remove or modify User Content for any reason, including User Content that we believe violates these Terms, the Bluesky Social [Community Guidelines](https://bsky.social/about/support/community-guidelines), or other policies.
+If you’re using Bluesky Social on behalf of a company or organization, you confirm that you have the authority to represent your company or organization.
 
-The license is limited, worldwide, non-exclusive, and royalty-free.6. Deletion of User Content: If you delete your account we will use reasonable efforts to remove it from Bluesky Social, subject to any requirements under applicable law and the Bluesky Social [Privacy Policy](https://bsky.social/about/support/privacy-policy). Given the design of the open network, it is not guaranteed that Bluesky will be able to do so comprehensively. If users have generated User Content on other services provided by the AT Protocol, Bluesky Social is not responsible for that content, and users must request removal from the other service(s).
+If you are a government entity or official using Bluesky in an official capacity, please refer to our [Terms of Service Amendment for Government Users](https://bsky.social/about/support/tos-gov). If any provision of these Terms—whether on their own or as modified by the government amendment—is inconsistent with applicable laws that govern your use, please contact us at [legal-req@blueskyweb.xyz](mailto:legal-req@blueskyweb.xyz) to discuss alternative arrangements.
 
-5. **General Prohibitions and Enforcement**.
+You alone are responsible for protecting the security and confidentiality of your Account. In no event shall we be liable for any loss, theft or fraudulent use of your Account. If you believe your Bluesky Account has been compromised, report it to us at [support@bsky.app](mailto:support@bsky.app).
 
-1. General Prohibitions. We want users to enjoy Bluesky Social, so we have created a set of Bluesky Social [Community Guidelines](https://bsky.social/about/support/community-guidelines) that users must follow when using the service. You must not do, try to do, or encourage others to do, any of the behaviors prohibited by the Bluesky Social [Community Guidelines](https://bsky.social/about/support/community-guidelines). We encourage you to report violations of these Terms, the [Bluesky Social Privacy Policy](https://bsky.social/about/support/privacy-policy), or the [Bluesky Social Community Guidelines](https://bsky.social/about/support/community-guidelines) by using in-app reporting features or the in-app feedback form.
+3\. User Content
+----------------
 
-7. **Termination.**
+_Summary: What you post is yours, but you must follow the rules. Bluesky can use your posts to run and improve the app, show them to others, and keep things safe. You can report misuse._
 
-1. Your Right to Termination: If you want to delete your Account, you can do so through your account settings. If your account was terminated by Bluesky Social, we retain the right to keep a copy of your data for trust and safety purposes. These Terms will survive termination of your Account.
-2. Our Right to Termination: We reserve the right to suspend or terminate your account and/or specific services offered within Bluesky Social without notice, at our discretion, for the following reasons:
-
-1. We believe you’ve violated these [Terms](https://bsky.social/about/support/tos), the Bluesky Social [Privacy Policy](https://bsky.social/about/support/privacy-policy), the Bluesky Social [Copyright Policy](https://bsky.social/about/support/copyright), or the Bluesky Social [Community Guidelines](https://bsky.social/about/support/community-guidelines);
-2. We’re required to do so due to a court order, legal requirement, or regulatory requirement;
-3. Continuing to allow your account to be active, giving you access to some or all services, or hosting your content creates risk for Bluesky, other users, or third parties.
-
-9. **Appeals.** You can appeal any enforcement decision from these Terms, including suspension or termination, by emailing moderation@blueskyweb.xyz.
-10. **Terms Required by the App Store and Google Play.**
-The App Store and Google Play require us to pass on certain terms to you. The following terms apply if you access or download the Bluesky App through the App Store or Google Play (each, an “**App Provider**”):
-
-1. These Terms are between you and Bluesky, and not with the App Provider, and Bluesky is solely responsible for the Bluesky App.
-2. Bluesky is responsible for any other claims, losses, damages, or expenses if the Bluesky App fails to conform to any warranty. You may notify the App Provider and, to the maximum extent permitted by law, the App Provider will have no other warranty obligation with respect to the Bluesky App. The App Provider is not required to provide any maintenance and support for the Bluesky App.
-3. The App Provider is not responsible for addressing your claims or any third-party claims relating to the Bluesky App.
-4. If any third party claims that the Bluesky App or your possession and use of it infringes that third party’s intellectual property rights, Bluesky will be solely responsible for that claim to the extent required by these Terms.
-5. The App Provider and its subsidiaries have the right to enforce these Terms as third-party beneficiaries of these Terms.
-6. You must follow all applicable third-party terms of service when using the Bluesky App.
-
-13. **Open Source**. Some of Bluesky Social’s software is subject to open source licenses from MIT or Apache. Those portions of the software may be used in accordance with those open source licenses, which may be found in each open source repository.
-14. **DMCA/Copyright Policy.** Please see Bluesky Social’s Copyright Policy at [https://bsky.social/about/support/copyright](https://bsky.social/about/support/copyright) for more information.
-15. **Links to Third Party Websites or Resources.** Bluesky Social allows you to access third-party websites or other resources, including Developer Applications on the AT Protocol. The use of any third-party services is at your own risk, and Bluesky isn’t responsible for any third-party services or content available through them.
-16. **Updates.** We update our terms from time to time, and will either post the updated Terms or send other communications to let you know about any changes. If you keep using Bluesky Social, you agree to the updated Terms. If you don’t agree, you must stop using Bluesky Social.
-17. **Warranty Disclaimers.**
-
-_Summary: We work hard to offer great services, but there are certain aspects that we can’t guarantee._
-
-Our Services and all included content are provided on an "as is" basis without warranty of any kind, whether express or implied. WITHOUT LIMITING THE FOREGOING, WE DISCLAIM ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT, AND ANY WARRANTIES ARISING OUT OF COURSE OF DEALING OR USAGE OF TRADE. WE MAKE NO WARRANTY THAT BLUESKY SOCIAL WILL MEET YOUR REQUIREMENTS OR BE AVAILABLE ON AN UNINTERRUPTED, SECURE, OR ERROR-FREE BASIS.
-
-Bluesky takes no responsibility and assumes no liability for any User Content that you or any other user or third party posts or transmits using our Services. You understand and agree that you may be exposed to User Content that is inaccurate, unreliable, untrue, untimely, incomplete, objectionable, inappropriate for children, or otherwise unsuited to your purpose.
-
-THE LIMITATIONS, EXCLUSIONS, AND DISCLAIMERS IN THIS SECTION APPLY TO THE MAXIMUM EXTENT PERMITTED BY LAW. Bluesky does not disclaim any warranty or other right that we are prohibited from disclaiming under applicable law.21. **Indemnity.**
-
-_Summary: If someone brings a legal claim against us based on your actions on Bluesky Social, you are responsible for our defense in, and the consequences of, that claim._
-
-You will indemnify, defend, and hold harmless Bluesky and its affiliates, and their respective officers, directors, employees, and agents ("**Bluesky Parties**”), from and against any claims, disputes, demands, liabilities, damages, losses, and costs and expenses, including, without limitation, reasonable legal and accounting fees arising out of or in any way connected with (a) your access to or use of Bluesky Social, (b) your User Content, or (c) your violation of these Terms. Bluesky may assume the exclusive control and defense of any matter for which you have a duty to indemnify Bluesky and, if we do, you agree to cooperate with our defense of those claims.24. **Limitation of Liability.**
-
-_Summary: This section limits what you can recover from us in a dispute to any direct damages that you suffer up to $100. This doesn’t apply where it would be illegal to do so._
-
-1. TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE BLUESKY PARTIES WILL NOT BE LIABLE FOR ANY INCIDENTAL, SPECIAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES, OR DAMAGES FOR LOST PROFITS, LOST REVENUES, LOST SAVINGS, LOST BUSINESS OPPORTUNITY, LOSS OF DATA OR GOODWILL, SERVICE INTERRUPTION, COMPUTER OR MOBILE DEVICE DAMAGE OR SYSTEM FAILURE OR THE COST OF SUBSTITUTE SERVICES OF ANY KIND ARISING OUT OF OR IN CONNECTION WITH THESE TERMS OR FROM THE USE OF OR INABILITY TO USE BLUESKY SOCIAL OR FOR ANY ERROR OR DEFECT IN BLUESKY SOCIAL, WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT BLUESKY OR ANY OTHER PARTY HAS BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGE, EVEN IF A LIMITED REMEDY SET FORTH IN THESE TERMS IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE. YOU ACKNOWLEDGE THAT BLUESKY SHALL NOT BE RESPONSIBLE OR LIABLE FOR CONTENT OR THE DEFAMATORY, OFFENSIVE, OR ILLEGAL CONDUCT OF ANY THIRD PARTY OR ANY THIRD PARTY’S CONTENT (INCLUDING ANY USER CONTENT), WHETHER OR NOT SUCH CONTENT IS ACCESSED THROUGH BLUESKY SOCIAL, AND THAT ANY RISK OF HARM OR DAMAGE FROM THE FOREGOING RESTS ENTIRELY WITH YOU.
-2. b. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL THE TOTAL LIABILITY OF THE BLUESKY PARTIES ARISING OUT OF OR IN CONNECTION WITH THESE TERMS OR FROM THE USE OF OR INABILITY TO USE BLUESKY SOCIAL EXCEED ONE HUNDRED DOLLARS ($100).
-3. c. THE EXCLUSIONS AND LIMITATIONS OF DAMAGES SET FORTH ABOVE ARE FUNDAMENTAL ELEMENTS OF THE BASIS OF THE BARGAIN BETWEEN BLUESKY AND YOU.
-
-27. **Governing Law, Forum Choice and Class Action Waiver.**
-
-_Summary: All disputes you have with us will be resolved by binding arbitration where permitted. If we need to go to court, it will be in Delaware under Delaware law. You agree not to participate in a class-action lawsuit or class-wide arbitration against us._
-
-1. Governing Law and Forum Choice. These Terms and any action related thereto will be governed by the Federal Arbitration Act, federal arbitration law, and the laws of the State of Delaware, without regard to conflict of laws provisions. Except as otherwise expressly set forth in Section 15 “Dispute Resolution,” the exclusive jurisdiction for all Disputes (defined below) that you and Bluesky are not required to arbitrate will be the state and federal courts located in Delaware, and you and Bluesky each waive any objection to jurisdiction and venue in such courts.
-2. Class Action Waiver. YOU AND BLUESKY AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING. Further, if the parties’ Dispute is resolved through arbitration, the arbitrator may not consolidate another person’s claims with your claims, and may not otherwise preside over any form of a representative or class proceeding. If this specific provision is found to be unenforceable, then the entirety of Section 15 “Dispute Resolution” shall be null and void.
-
-30. **Dispute Resolution.**
-
-_Summary: If there is a dispute between us, with limited exceptions, we’ll resolve it through arbitration. Note that this section does not apply to users who live in the E.U. or any place where arbitration is not permitted._
-
-1. Informal Resolution. Most disputes can be resolved informally, so if you have an issue with the services, you agree to reach out to us before initiating a lawsuit or arbitration. You can do this by sending us a written description of the dispute, including your name, an email or a phone number for us to contact you, your Bluesky Social account, the nature of the complaint, and how you would like to resolve it, to support@bsky.app. If the dispute is not resolved within sixty (60) days after we receive your written notice, we agree to proceed with further dispute resolution as outlined below. Attempting an informal resolution process is required before starting any formal dispute resolution. During this process, any applicable statutes of limitations and deadlines for arbitration filing fees or other requirements will be put on hold.
-2. Mandatory Arbitration of Disputes. After the parties have engaged in a good-faith, but unsuccessful, effort to resolve the dispute in accordance with the “informal resolution” process (above), **you and Bluesky agree to resolve any dispute, disagreement, or claim relating to these terms or our services through final and binding individual arbitration.** Arbitration will not be in a class, representative or consolidated action or proceeding. You and Bluesky agree that the U.S. Federal Arbitration Act governs the interpretation and enforcement of these Terms, and that you and Bluesky are each waiving the right to a trial by jury or to participate in a class action. This arbitration provision shall survive termination of these Terms.
-3. Exceptions. As limited exceptions to Section 15(b) above: (i) we both may seek to resolve a Dispute in small claims court if it qualifies; and (ii) we each retain the right to seek injunctive or other equitable relief from a court to prevent (or enjoin) the infringement or misappropriation of our intellectual property rights.
-4. Conducting Arbitration and Arbitration Rules.
+1. User Content. “**Content**” means anything you share on Bluesky Social, including posts, profile details, photos, videos, feedback, suggestions, links, and direct messages.
     
-    _Summary: The American Arbitration Association’s Consumer Arbitration Rules will apply. You may be able to choose the types of evidence you and we can submit depending on the size of your claim. Arbitration will be near where you live unless we agree otherwise._
+2. Your Responsibility. You are solely responsible for your Content. You agree that your Content will comply with all applicable laws and with the Bluesky [Community Guidelines](https://bsky.social/about/support/community-guidelines). Bluesky is not obligated to actively monitor or control your Content.
     
-    The arbitration will be conducted by the American Arbitration Association (“**AAA**”) under its Consumer Arbitration Rules (the “**AAA Rules**”) then in effect, except as modified by these Terms. The AAA Rules are available at [www.adr.org](http://www.adr.org/) or by calling 1-800-778-7879. If you want to start arbitration, you must submit a written Demand for Arbitration to AAA and give notice to the other party as specified in the AAA Rules. The AAA provides a form Demand for Arbitration at [www.adr.org](http://www.adr.org/).  
-    Any arbitration hearings will take place in the county (or parish) where you live, unless we both agree to a different location. Both parties agree that the arbitrator shall have exclusive authority to decide all issues relating to the interpretation, applicability, enforceability and scope of this arbitration agreement.
-5. Arbitration Costs. Payment of all filing, administration and arbitrator fees will be governed by the AAA Rules. If we prevail in arbitration we’ll pay all of our attorneys’ fees and costs and won’t seek to recover them from you, unless the arbitrator determines your claims were frivolous. If you prevail in arbitration you will be entitled to an award of attorneys’ fees and expenses to the extent provided under applicable law.
-6. Injunctive and Declaratory Relief. Except as provided in Section 15(c) above, the arbitrator shall determine all issues of liability on the merits of any claim asserted by either party and may award declaratory or injunctive relief only in favor of the individual party seeking relief and only to the extent necessary to provide relief warranted by that party’s individual claim. To the extent that you or we prevail on a claim and seek public injunctive relief (that is, injunctive relief that has the primary purpose and effect of prohibiting unlawful acts that threaten future injury to the public), the entitlement to and extent of such relief must be litigated in a civil court of competent jurisdiction and not in arbitration. The parties agree that litigation of any issues of public injunctive relief shall be stayed pending the outcome of the merits of any individual claims in arbitration.
-7. Severability.
+3. Use by Others. Bluesky does not control how others may use your Content. If you believe someone is using your Content in a way that violates these Terms or the [Community Guidelines](https://bsky.social/about/support/community-guidelines), please follow the Complaints and Appeals process outlined below.
     
-    _Summary: If a court decides a part of these Terms is unenforceable, the rest of these Terms still apply._
+4. Bluesky’s Use of Your Content. We use your Content only to (i) operate, provide, and improve Bluesky and its features, including by sharing it across Bluesky and the AT Protocol; and (ii) promote and market Bluesky and its services.
     
-    With the exception of Section 14(b) “Class Action Waiver,” if an arbitrator or court of competent jurisdiction decides that any part of these Terms is invalid or unenforceable, the other parts of these Terms will still apply.
+5. Bluesky’s License to Your Content. You retain ownership of your Content on the Bluesky application and website. Bluesky does not claim rights to your Content, except for the limited rights you grant us under this license.
+    
+    By sharing Content on Bluesky, you grant us a limited, worldwide, non-exclusive, royalty-free license to:
+    
+    1. **Operate and Improve Services:** Use your Content to develop, operate, and enhance Bluesky, the AT Protocol, and future products and services. For example, we may store and display your posts to other Bluesky and AT Protocol Developer Application users.
+        
+    2. **Adapt and Display Content:** Reproduce, modify, adapt, distribute, and publicly display your Content in any format or media. For example, we may resize content for different devices or feature user posts in promotional materials.
+        
+    3. **Enable Third-Party Tools:** Allow trusted partners—such as content moderation providers—to use your Content as necessary to support Bluesky Social.
+        
+    4. **Enforce Our Policies:** Remove, block, or modify your Content if we believe it violates these Terms, our [Community Guidelines](https://bsky.social/about/support/community-guidelines), or other applicable policies.
+        
+    
+    This license enables us to support core platform functionality and to ensure Bluesky remains safe, responsive, and engaging for everyone. We will never sell your Content without getting your permission first.
+    
+6. Content Deletion. If you delete your account, we will use reasonable efforts to remove your Content from Bluesky, in accordance with applicable laws and with our [Privacy Policy](https://bsky.social/about/support/privacy-policy). We also will notify other services and Developer Applications on the AT Protocol that you have deleted your account. Due to the decentralized nature of the AT Protocol, we cannot control or force other services and Developer Applications on the AT Protocol to treat your Content in a particular way and some posts may continue to exist on these services that are outside our control. That means that complete deletion across the network may not always be possible.
+    
+    Bluesky is not responsible for Content you’ve shared on other services that use the AT Protocol. To request removal from those services, contact them directly.
+    
 
-33. **General Terms.**
+4\. Proactive Moderation and Illegal Content
+--------------------------------------------
 
-_Summary: The following standard legal provisions are included to permit the Terms to function as expected. For example, they provide that these Terms cover the entire agreement about Bluesky Social and that you may not transfer your Account to anyone else._
+We proactively use automated tools and human moderation to detect and act on prohibited content. Bluesky prioritizes the swift removal of terrorism content, child sexual exploitation and abuse (CSEA) content, and other priority illegal content. This proactive technology includes tools that help us recognize hashes of known illegal content and that can detect violations of our terms based on the text in and content of a post. We also rely on user reports, trusted flaggers, law enforcement reports, and reports we receive from NGOs and civil society. When notified, we act swiftly to minimize exposure.
 
-1. Entire Agreement. These Terms (including the [Bluesky Social Community Guidelines](https://bsky.social/about/support/community-guidelines), the [Bluesky Social Copyright Policy](https://bsky.social/about/support/copyright), and [Bluesky Social Privacy Policy](https://bsky.social/about/support/privacy-policy)) cover the entire agreement between Bluesky and you about Bluesky Social. These Terms replace all prior agreements or understandings between Bluesky and you about Bluesky Social. If an arbitrator or court determines that any part of these Terms is invalid or unenforceable, we’ll enforce that part to the extent permissible and the other parts of these Terms will still be effective.
-2. Notices. Bluesky will provide any notices by posting them in the App or on the Site or by sending other communications. You and Bluesky agree to communicate electronically.
-3. Waiver. If Bluesky doesn’t enforce every right or provision in these Terms, we still have the right to enforce these rights and provisions in the future. Waivers must be written and signed by an authorized Bluesky representative to be effective. Exercising a right doesn’t impact other rights, unless specified otherwise in these Terms.
-4. Construction. Both you and Bluesky will be treated equally when it comes to interpreting these Terms. For purposes of these Terms, the words “include,” “includes,” and “including” are meant to be followed by the words “without limitation.”
+5\. Discover Feed and Recommender Systems
+-----------------------------------------
 
-36. **Contact Information.** If you have any questions about these Terms or Bluesky Social, please contact Bluesky at support@bsky.app.
+Bluesky uses a recommender algorithm to populate the Discover Feed and personalize recommendations such as suggested accounts. You can opt out of the Discover Feed via your settings. In addition to the Discover Feed, you can install third-party feeds hosted by other services. Bluesky does not control the recommender systems used by third-party feeds.
+
+6\. Complaints and Appeals
+--------------------------
+
+_Summary: You can report posts or users that break the rules. If your account is suspended or restricted, you can ask us to review the decision by emailing us within two weeks. If you live in the EU, you also have the right to challenge our decisions through special review groups or the courts in your country._
+
+1. Complaints. You can report posts or users for violations of our rules using the in-app reporting tools or feedback form. If you are not a Bluesky user but are legally entitled to submit a report or takedown request, please follow the instructions [here](https://bsky.social/about/support).
+    
+    We will promptly notify users when we take enforcement action in response to a report.
+    
+2. Appeals. If your account has been suspended, terminated, or otherwise restricted under these Terms, you may appeal the decision using the in-app appeal tool or by emailing [moderation@blueskyweb.xyz](mailto:moderation@blueskyweb.xyz). Appeals must be well-founded and include sufficient information or documentation for us to conduct a meaningful review. Appeals must be filed within two weeks of the account suspension, termination, or restriction you seek to appeal. Appeals that lack supporting detail or that are not filed within two weeks may not be eligible for reconsideration.
+    
+    We will notify you when we've reviewed your appeal and taken action.
+    
+3. EU / EEA Appeals Procedures. If you're in the EU or EEA, you have the right to challenge Bluesky's content-moderation or account decisions through various channels:
+    
+    * **Internal appeal** Internal appeal, as described above, by emailing [moderation@blueskyweb.xyz](mailto:moderation@blueskyweb.xyz).
+    * **Out‑of‑court dispute** with a certified DSA body. You may choose any EU-certified dispute settlement body with appropriate expertise. Bluesky will engage in good‑faith resolution under Article 21, but these bodies' decisions are non‑binding.
+    * **Judicial remedy** in the courts of your country of residence or establishment.
+    
+    Information about certified bodies—such as their areas of expertise, languages, and procedures—can be found via your national Digital Services Coordinator and the EU Commission's [public list](https://digital-strategy.ec.europa.eu/en/policies/dsa-out-court-dispute-settlement).
+    
+    **Please note:** Bluesky may decline participation if an identical dispute has already been resolved. These procedures supplement but do not replace your right to pursue Court actions or other regulatory complaints.
+    
+
+7\. Termination
+---------------
+
+_Summary: You can delete your Bluesky account anytime in your settings. We might suspend or disable your account if you break the rules or if we're required to by law. Some rules still apply even after your account is deleted._
+
+This agreement remains in effect until terminated by either you or Bluesky.
+
+1. Your Right to Terminate. You may terminate your Account at any time by using the account deletion option in your settings. If your Account is deleted or terminated, we will retain your Personal Data in accordance with our [Privacy Policy](https://bsky.social/about/support/privacy-policy) and only as necessary for trust and safety, legal compliance, or other legitimate purposes. Certain provisions of these Terms will continue to apply after termination.
+    
+2. Our Right to Terminate. We may suspend, restrict, or terminate your Account—or specific features of Bluesky—at any time, without prior notice, if:
+    
+    * You violate these Terms, the [Privacy Policy](https://bsky.social/about/support/privacy-policy), [Community Guidelines](https://bsky.social/about/support/community-guidelines), or [Copyright Policy](https://bsky.social/about/support/copyright);
+    * We are legally required to do so, such as by court order or regulatory demand; or
+    * We believe that your continued access poses a risk to Bluesky, to other users, or to third parties, including in cases involving safety, legal exposure, reputational risk, or platform integrity.
+
+8\. Third-Party Services
+------------------------
+
+_Summary: Bluesky might link to other apps or websites that we don't control. If you use them, that's your choice and your responsibility. We're not responsible for what happens there._
+
+Bluesky may provide access to third-party websites, services, or resources—including Developer Applications operating on the AT Protocol. Any third-party links or mention of third-party names, trademarks, products, or services is not an endorsement, sponsorship, or recommendation by Bluesky.
+
+We do not control, verify, or assume responsibility for the content, policies, or practices of third-party sites or services. You are solely responsible for reviewing and complying with the terms and privacy policies of any third-party resource you choose to access.
+
+Your use of third-party services is at your own risk, and Bluesky is not liable for any content, functionality, or harm arising from such use.
+
+9\. Open Source Software
+------------------------
+
+Certain parts of Bluesky Social are licensed under open source terms, including the MIT and Apache licenses. The use of these components is governed by the terms of their respective licenses, which are maintained by the organizations that oversee each license.
+
+You are responsible for reviewing and complying with the terms of any applicable open source licenses.
+
+10\. Warranty Disclaimer
+------------------------
+
+_Summary: We don't promise that everything will work perfectly. We aren't responsible if something goes wrong, or if you see content you don't like. We also aren't responsible for other apps or websites, even if we link to them._
+
+1. Bluesky and all Content and services provided through it are offered on an "as is" and "as available" basis, without warranties of any kind—express, implied, or statutory. TO THE FULLEST EXTENT PERMITTED BY LAW, WE EXPRESSLY DISCLAIM ALL WARRANTIES, including:
+    
+    1. Implied warranties of merchantability, fitness for a particular purpose, non-infringement, and any warranties arising from course of dealing or usage of trade;
+    2. Any guarantee that Bluesky Social will be uninterrupted, timely, secure, error-free, or meet your expectations or requirements.
+2. WE MAKE NO REPRESENTATIONS OR WARRANTIES–AND ACCEPT NO RESPONSIBILITY–FOR ANY THIRD-PARTY CONTENT, DEVELOPER APPLICATIONS, OR OTHER PRODUCTS OR SERVICES OFFERED BY THIRD PARTIES, WHETHER REFERENCED OR LINKED WITHIN BLUESKY.
+    
+3. Bluesky is not responsible or liable for any Content shared or transmitted by you, other users, or third parties. You understand that you may encounter Content that is inaccurate, misleading, offensive, inappropriate, untimely, or otherwise objectionable.
+    
+4. THESE DISCLAIMERS APPLY TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW. Nothing in this section limits or excludes any warranty or legal right that Bluesky is prohibited from disclaiming under the law.
+    
+
+11\. Indemnification
+--------------------
+
+_Summary: If you break the rules or cause problems on Bluesky, you might have to pay for and help us solve any complaints or legal issues that come up._
+
+You agree to indemnify, defend, and hold harmless Bluesky, its affiliates, and their respective officers, directors, employees, and agents (collectively, the “**Bluesky Parties**”) from and against any and all claims, disputes, demands, liabilities, damages, losses, and expenses—including reasonable legal and accounting fees—arising out of or in any way related to:
+
+1. Your access to or use of Bluesky Social;
+    
+2. Your User Content;
+    
+3. Your violation of these Terms or any other applicable Bluesky policies;
+    
+4. Any actions you take through or in connection with our services; or
+    
+5. Your violation of any law or the rights of a third party.
+    
+
+Bluesky reserves the right to assume the exclusive defense and control of any matter subject to indemnification by you. If we do, you agree to fully cooperate with our defense of the claim.
+
+12\. Limitation of Liability
+----------------------------
+
+_Summary: Bluesky isn’t responsible for any problems caused by other people’s posts or third-party claims. If something goes wrong, Bluesky’s responsibility is limited to $100—unless Bluesky did something really bad, like broke the law or acted on purpose to hurt someone._
+
+1. Excluded Damages. To the fullest extent permitted by law, and except for claims covered under the Exceptions to Exclusion below, **Bluesky and its affiliates will not be liable for**:
+    
+    1. Indirect, special, incidental, punitive, or consequential damages—such as lost profits, business interruption, or loss of data;
+        
+    2. Costs for substitute services;
+        
+    3. Any third-party claims, including those arising from User Content.
+        
+    
+    **All third-party claims are expressly excluded from Bluesky's liability**, regardless of cause or theory of liability.
+    
+2. Exceptions to Exclusion. The exclusions in this Section do not apply to claims of death or personal injury based on:
+    
+    1. Bluesky's fraud or criminal misconduct;
+        
+    2. Gross negligence or willful misconduct by Bluesky;
+        
+    3. Violations of statutory rights that cannot be contractually disclaimed under applicable law.
+        
+3. Monetary Cap. Except for claims falling within the Exceptions to Exclusion, Bluesky's total cumulative liability for all claims arising out of or related to these Terms—whether in contract, tort, statute, or otherwise—is limited to one hundred U.S. dollars (US$100).
+    
+4. Scope & Legal Validity. These limitations apply to the maximum extent allowed by law. If any jurisdiction limits or prohibits certain exclusions or limitations, those exclusions or limitations will apply to the extent allowed, and the remainder of this Section will remain enforceable.
+    
+
+13\. Governing Law, Jurisdiction, Venue, Dispute Resolution, and Arbitration
+----------------------------------------------------------------------------
+
+_Summary: If there's a problem, email us and we'll try to fix it. If that doesn't work, most issues have to go to private arbitration, not court—unless it's about a safety issue like an injury. You can't join a group lawsuit against Bluesky unless we say it's okay. These rules still apply if you delete your account._
+
+1. Governing Law and Jurisdiction. These Terms and any disputes or claims arising out of or relating to them (including non-contractual disputes) are governed by the Federal Arbitration Act, applicable federal arbitration law, and the laws of the State of Delaware, without regard to its conflict of law principles.
+    
+2. Jurisdiction and Venue. Except as otherwise provided in these Terms, any legal action that is not subject to arbitration must be brought exclusively in the state or federal courts located in Delaware. You and Bluesky consent to personal jurisdiction and venue in those courts and waive any objections based on forum or convenience.
+    
+3. Mandatory Local Law Exception. If you reside in a jurisdiction that requires the application of its own local laws, courts, or other mandatory procedures for non-arbitral disputes—such as Brazil—then those mandatory provisions will apply instead of the Delaware governing law and venue provisions in this Section, but only to the extent required by applicable law.
+    
+4. Dispute Resolution and Arbitration.
+    
+    1. **Informal Resolution.** Most disputes can be resolved informally. If you have an issue with the services, you agree to contact us first and allow us at least 60 days to resolve the dispute before initiating a lawsuit or arbitration. You can do this by contacting us at[support@bsky.app](mailto:support@bsky.app). In order for your informal resolution request to be valid and for us to respond, you must provide us with: your name, your email address, a statement that you are invoking the pre-arbitration informal dispute resolution process, the jurisdiction where you live (city and state, province, or county), your account handle, the specific amount of damages and/or other relief you are seeking, all supporting evidence in your possession that will help us resolve the dispute, links to or descriptions of the location of any evidence you know of but do not possess that will help us resolve the dispute, and whether you intend to pursue arbitration if we cannot resolve your dispute informally and, if so, what your claim will be in arbitration.
+        
+        You agree that after you submit your informal resolution request, you will participate with us via telephone or videoconference, in a good-faith effort to resolve the dispute informally. If you are represented by counsel, your counsel may participate in the conference as well, but you agree to fully participate in the conference personally. Likewise, if we are represented by counsel, our counsel may participate in the conference, but we will have a company representative fully participate in the conference.
+        
+        The statute of limitations and any filing fee deadlines shall be tolled while the parties engage in the informal dispute resolution process required by this paragraph. You agree that participating in the informal dispute resolution process described in this paragraph is a necessary pre-condition to filing an arbitration demand.
+        
+    2. **Mandatory, Mutual Arbitration of Disputes.** If the Informal Resolution process listed above does not resolve your dispute, you agree that, subject only to the below carve-out and to the maximum extent permitted by local laws, you will resolve any dispute, disagreement, or claim relating to these Terms through final and binding arbitration by AAA (U.S.) or ICDR (UK/EU), seated in the county (or parish) where you live, unless we agree to a different location. Both parties agree that the arbitrator shall have exclusive authority to decide all issues relating to the interpretation, applicability, enforceability and scope of this arbitration agreement. Each party shall select one arbitrator; the pair appoint a third.
+        
+        The AAA Rules are available at [www.adr.org](https://www.adr.org/) or by calling 1-800-778-7879. To start arbitration, submit a written Demand for Arbitration to AAA and give notice to Bluesky as specified in the AAA Rules.
+        
+        Payment of all filing, administration and arbitrator fees will be governed by the AAA Rules. If we prevail in arbitration we'll pay all of our attorneys' fees and costs and won't seek to recover them from you, unless the arbitrator determines your claims were frivolous. If you prevail in arbitration you will be entitled to an award of attorneys' fees and expenses to the extent provided under applicable law.
+        
+    3. **Carve-Out for Safety Claims.** Arbitration does not apply to claims that fraud, criminal misconduct, or gross negligence by Bluesky caused death or personal injury. Those matters may be brought in court or arbitration, at the claimant's choice, subject to these Terms.
+        
+    4. **Waiver of Class Actions.** TO THE EXTENT PERMITTED BY APPLICABLE LAW, YOU AND BLUESKY AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF, CLASS MEMBER, OR REPRESENTATIVE IN ANY PURPORTED CLASS, COLLECTIVE, OR REPRESENTATIVE PROCEEDING.
+        
+        If any part of this Waiver of Representative Actions is found to be unenforceable, Section 13.D ("Dispute Resolution and Arbitration") shall be deemed void in its entirety.
+        
+        Nothing in this section shall prohibit the AAA's consolidation of the administration of multiple claims pursuant to the AAA Rules.
+        
+    5. **Bluesky's Discretion to Consolidate.** Notwithstanding the foregoing waiver, Bluesky may, at its sole discretion, elect to consolidate multiple arbitrations involving similar issues or claimants into a single consolidated arbitration or class-arbitration-like proceeding. Any such consolidation will occur only under the applicable AAA rules.
+        
+    6. **Small Claims and Injunctive Relief.** This clause, "Dispute Resolution and Arbitration," does not restrict you from bringing eligible claims in small claims court. It also does not waive your statutory rights under the law of your country of residence.
+        
+        To the extent that you or we prevail on a claim in arbitration and seek public injunctive relief (injunctive relief that has the primary purpose and effect of prohibiting unlawful acts that threaten future injury to the public), the entitlement to and extent of such relief must be litigated in a civil court of competent jurisdiction, not in arbitration. The parties agree that litigation of any issues of public injunctive relief shall be stayed pending the outcome of the merits of any individual claims in arbitration.
+        
+5. Survival. This Section survives account Termination.
+    
+
+14\. Updates to Terms
+---------------------
+
+We may update these Terms periodically. We will always post the revised version here and we will notify you through the App, website, or other communication channel if we make any material changes.
+
+It’s your responsibility to review the Terms regularly. By continuing to use Bluesky Social after any update, you agree to the revised Terms. If you do not agree to the changes, you must stop using Bluesky.
+
+15\. Intellectual Property
+--------------------------
+
+_Summary: Bluesky owns its name, design, code, and other creations. You can use Bluesky and all of the open source parts it’s made of, but that does not mean that you own anything we’ve made._
+
+We reserve all rights not expressly granted to you in these Terms. Bluesky is protected by trademark, copyright, patent and other laws of the United States and other countries.
+
+Except for the parts of Bluesky that are licensed under open source terms, we own all applicable rights, title, interest in and to Bluesky, and all Intellectual Property Rights in it. Your use of the Bluesky Social is subject to these Terms, and, unless explicitly provided, these Terms do not grant you any rights to our Intellectual Property Rights or the Intellectual Property Rights of our licensors, licensees, or partners.
+
+For the purposes of these Terms, "**Intellectual Property Rights**" are all patent rights, copyright rights, mask work rights, moral rights, rights of publicity, trademark, trade dress and service mark rights, goodwill, trade secret rights, and other intellectual property rights that may exist now or come into existence in the future, and all of their applications, registrations, renewals and extensions, under the laws of any state, country, territory or other jurisdiction.
+
+16\. General Terms
+------------------
+
+_Summary: These rules are the whole agreement between you and Bluesky. If one part doesn’t hold up in court, the rest still counts. We’ll contact you through the app, website, or email. If we don’t enforce a rule right away, we can still enforce it later. We try to keep things fair, and short summaries in italics, like this one, are just to help you understand—they don’t change the rules._
+
+1. Entire Agreement. These Terms, together with the Bluesky [Community Guidelines](https://bsky.social/about/support/community-guidelines), [Privacy Policy](https://bsky.social/about/support/privacy-policy), and [Copyright Policy](https://bsky.social/about/support/copyright), constitute the complete and exclusive agreement between you and Bluesky regarding your use of Bluesky. They supersede and replace any prior or contemporaneous agreements, understandings, or communications—whether oral or written—between you and Bluesky concerning the same subject matter.
+    
+    If any provision of these Terms is determined to be invalid or unenforceable by an arbitrator or court, it will be enforced to the maximum extent permitted by law, and the remaining provisions will remain in full force and effect.
+    
+2. Severability. If any provision of these Terms is held to be unlawful, void, or unenforceable, that provision will be severed from these Terms, and the remainder will continue in full force and effect.
+    
+3. Notices. We may provide notices to you by posting them in the Bluesky App or on our website, or by sending them by email or other communication methods based on the information associated with your account. By using Bluesky, you agree to receive communications from us electronically and acknowledge that all electronic communications satisfy any legal requirement for a written communication.
+    
+4. Waiver. Our failure to enforce any provision of these Terms is not a waiver of our rights to enforce it later. To be effective, any waiver must be in writing and signed by an authorized Bluesky representative. The exercise of one right does not waive other rights or remedies unless explicitly stated.
+    
+5. Interpretation. These Terms shall be interpreted fairly and without bias to either party. As used in these Terms, the terms "including," "includes," "such as," and "for example" mean "without limitation."
+    
+    The italicized summaries at the beginning of some sections are provided for convenience and ease of navigation only. They do not have any legal effect. In the event of any conflict or inconsistency between a summary and the full text of the Terms, the full text will govern.
+    
+
+17\. Contact Us
+---------------
+
+If you have any questions about these Terms or Bluesky Social, please contact Bluesky at [support@bsky.app](mailto:support@bsky.app).
 
 Competent authorities of the EU and EU Member States that want to contact Bluesky under the Digital Services Act can obtain the necessary contact details from
 
@@ -158,7 +317,7 @@ New Mallow Road
 Cork T23AT2P  
 Ireland  
 Telephone: +420 228 881 031  
-Email: [dsa.rep.bluesky@verasafe.com](mailto:dsa.rep.bluesky@verasafe.com)
+Email: dsa.rep.bluesky@verasafe.com
 
 Requests are accepted in English. Competent EU or EU member authorities may file requests by following the instructions [here](https://bsky.social/about/support). If you are not a competent EU or EU member authority, your request will not be processed and you will not get a response.
 
@@ -168,6 +327,25 @@ Gleiss Lutz Hootz Hirsch PartmbB Rechtsanwälte, Steuerberater
 – NetzDG-Zustellungen –  
 Washingtonplatz 3  
 10557 Berlin  
-Deutschland  
+Deutschland
 
-**Wichtig**: Andere Dokumente (wie z.B. Schreiben von Nutzern) können dort nicht zugestellt werden und werden nicht bearbeitet.
+Wichtig: Andere Dokumente (wie z.B. Schreiben von Nutzern) können dort nicht zugestellt werden und werden nicht bearbeitet. For questions or concerns, contact us at: [support@bsky.app](mailto:support@bsky.app).
+
+18\. Apple App Store and Google Play Required Terms
+---------------------------------------------------
+
+The Apple App Store and Google Play (each, an "**App Provider**") require us to tell you that the following additional terms apply if you download or access Bluesky through an App Provider:
+
+1. These Terms are between you and Bluesky—not the App Provider. The App Provider has no responsibility for Bluesky or its content.
+    
+2. Bluesky is solely responsible for the App, including any claims, losses, liabilities, or expenses arising from its failure to meet any applicable warranties. If the App does not conform to a warranty, you may notify the App Provider—but, to the maximum extent permitted by law, the App Provider will have no further warranty obligations.
+    
+3. The App Provider is not obligated to provide maintenance or support services for the App.
+    
+4. The App Provider is not responsible for addressing any claims you or third parties may have in connection with the App, including product liability, legal compliance, or intellectual property infringement.
+    
+5. If a third party claims that your use of the App infringes their intellectual property rights, Bluesky—not the App Provider—is solely responsible for handling that claim under these Terms.
+    
+6. The App Provider and its affiliates are third-party beneficiaries of these Terms and may enforce them accordingly.
+    
+7. You must comply with all applicable third-party terms of service when using the Bluesky App.
