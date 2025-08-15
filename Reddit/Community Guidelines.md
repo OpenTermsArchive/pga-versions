@@ -58,7 +58,7 @@ We have a variety of ways of enforcing our rules, including, but not limited to
 
 **We do not tolerate the harassment, threatening, or bullying of people on our site; nor do we tolerate communities dedicated to this behavior.**
 
-Reddit is a place for conversation, and in that context, we define this behavior as anything that works to shut someone out of the conversation through intimidation or abuse, online or off. Depending on the context, this can take on a range of forms and could include directing unwanted invective at someone, sexualizing someone without their consent, or following them from community to community, just to name a few. Behavior can be harassing or abusive regardless of whether it occurs in public content (e.g. a post, comment, username, community name, community styling, sidebar materials, etc.) or private messages/chat.
+Reddit is a place for conversation, and in that context, we define this behavior as anything that works to shut someone out of the conversation through intimidation or abuse, online or off. Depending on the context, this can take on a range of forms and could include directing unwanted invective at someone, sexualizing someone without their consent, or following them from community to community, just to name a few. Behavior can be harassing or abusive regardless of whether it occurs in public content (e.g. a post, comment, username, community name, community styling, sidebar materials, etc.) or chat.
 
 Being annoying, downvoting, or disagreeing with someone, even strongly, is not harassment. However, menacing someone, directing abuse at a person or group, following them around the site, encouraging others to do any of these actions, or otherwise behaving in a way that would discourage a reasonable person from participating on Reddit crosses the line.
 
@@ -119,7 +119,7 @@ Spam on Reddit is generally defined as repeated, unwanted, and/or unsolicited ac
 
 **The following are examples of behavior that may be considered spam and are subject to removal/ban:**
 
-* Sending large amounts of private messages to users who are not expecting them.
+* Sending large amounts of chat messages to users who are not expecting them.
     
 * Repeatedly posting the same or similar comments in a thread, subreddit or across subreddits.
     
