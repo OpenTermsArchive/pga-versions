@@ -321,7 +321,7 @@ We collect device information like:
 Identifiers that tell your device apart from other users’
 ---------------------------------------------------------
 
-Identifiers we collect include device IDs, mobile advertiser ID or IDs from games, apps or accounts you use. We also collect Family Device IDs or other identifiers unique to [Meta Company Products](https://www.facebook.com/help/195227921252400?ref=dp) associated with the same device or account.
+Identifiers we collect include device IDs, mobile advertiser ID or IDs from games, apps or accounts you use. We also collect Family Device IDs or other identifiers unique to [Meta Company Products](https://www.facebook.com/legal/meta-company-products) associated with the same device or account.
 
 Device signals
 --------------
@@ -1298,7 +1298,7 @@ Highlights
 * We do this to make new features or shared experiences between different products.
 * We also share information, like your name and email address, to help verify your accounts, and check out suspicious activities. This helps us keep your accounts safe.
 
-We are part of the [Meta Companies](https://www.facebook.com/help/111814505650678) that provide Meta Company Products. [Meta Company Products](https://www.facebook.com/help/195227921252400) include all the [Meta Products\[57\]](#annotation-57) covered by this Policy, plus other products like WhatsApp and more.
+We are part of the [Meta Companies](https://www.facebook.com/help/111814505650678) that provide Meta Company Products. [Meta Company Products](https://www.facebook.com/legal/meta-company-products) include all the [Meta Products\[57\]](#annotation-57) covered by this Policy, plus other products like WhatsApp and more.
 
 We share information we collect, infrastructure, systems and technology with the other Meta Companies. [Learn more](#9-HowDoWeTransfer) about how we transfer information to other countries.
 
