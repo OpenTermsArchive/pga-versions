@@ -189,6 +189,7 @@ Useful links
 * [Support](https://support.spotify.com/)
 * [Web Player](https://open.spotify.com/)
 * [Free Mobile App](https://www.spotify.com/de-en/free/)
+* [Import your music](https://www.spotify.com/de-en/import-music/)
 
 Spotify Plans
 -------------
