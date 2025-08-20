@@ -1013,7 +1013,7 @@ What this policy means for you
 Don’t post content on YouTube if it fits any of the descriptions noted below.
 
 * Content that contains prolonged insults or slurs based on someone's intrinsic attributes. These attributes include their [protected group status](https://support.google.com/youtube/answer/2801939), physical attributes, or their status as a survivor of sexual assault, non-consensual intimate imagery distribution, domestic abuse, child abuse and more.
-* Content uploaded with the intent to shame, deceive or insult a minor. This means intending to make a minor feel unpleasant emotions, like distress, shame, or worthlessness; intending to trick them to behave in ways that may harm themselves or their property; or engaging in name-calling toward them. A minor is someone under 18 years old.
+* Content uploaded with the intent to shame, deceive or insult a minor. This means intending to make a minor feel unpleasant emotions, like distress, shame, or worthlessness; intending to trick them to behave in ways that may harm themselves or their property; or engaging in name-calling toward them. We also prohibit content that incites bullying against a minor. A minor is someone under 18 years old.
 
 Other types of content that violate this policy
 
