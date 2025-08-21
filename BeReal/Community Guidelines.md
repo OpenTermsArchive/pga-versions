@@ -1,7 +1,3 @@
-1. [BeReal Help Center](https://help.bereal.com/hc/en-us)
-2. [Safety](https://help.bereal.com/hc/en-us/categories/10449460450589-Safety)
-3. [Community Standards](https://help.bereal.com/hc/en-us/sections/10738407719837-Community-Standards)
-
 Community Standards
 ===================
 
@@ -46,13 +42,3 @@ We have the right to monitor the content and the use of the App, at any time, an
 Nevertheless, if you consider that a decision taken against you is unfair, you have the opportunity to contest it by [writing to us](https://help.bereal.com/hc/articles/7285146266269).
 
 That’s it for now. Enjoy being real!
-
-  
-  
-  
-
-Was this article helpful?
-
-Yes No
-
-2700 out of 4019 found this helpful
