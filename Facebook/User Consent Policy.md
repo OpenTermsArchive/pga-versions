@@ -1,3 +1,5 @@
+We’re updating the Data Processing Terms. The updates go into effect on August 23, 2025. [Read the new terms.](https://www.facebook.com/legal/dataprocessingterms/preview)
+
   
 
 **Data Processing Terms**
