@@ -1,7 +1,3 @@
-We’re updating the Data Processing Terms. The updates go into effect on August 23, 2025. [Read the new terms.](https://www.facebook.com/legal/dataprocessingterms/preview)
-
-  
-
 **Data Processing Terms**
 
 You acknowledge that your use of certain Meta Products may involve sending Personal Information to Meta. To the extent that the applicable product terms, such as the [Meta Business Tools Terms](https://www.facebook.com/legal/terms/businesstools) and the [Customer List Custom Audiences Terms](https://www.facebook.com/legal/terms/customaudience), (“**Applicable Product Terms**”, any Meta Products covered, “**Applicable Products**”) state that we process Personal Information as your Processor, these Data Processing Terms apply. Capitalized terms used but not defined in these Data Processing Terms have the meanings given in the Applicable Product Terms. In the event of any express conflict between the Applicable Product Terms and these Data Processing Terms, these Data Processing Terms will govern solely to the extent of the conflict.
@@ -21,6 +17,7 @@ Meta and you agree to the following:
 * To the extent GDPR applies to your Processing under these Data Processing Terms as Controller, you hereby authorise Meta to engage other Meta companies as its sub-processor(s) (a list of Meta sub-processor(s) is available [here](https://facebook.com/legal/ads-subprocessors)). Meta shall notify you of any additional sub-processor(s) in advance. If you reasonably object to such additional sub-processor(s), you may inform Meta in writing of the reasons for your objections. If you object to such additional sub-processor(s), you should stop using the Applicable Products and providing data to Meta.
 * To the extent EU GDPR or the data protection laws in the EEA or Switzerland apply to your Processing under these Data Processing Terms as Controller and Meta Platforms Ireland Limited is the Meta entity to which these terms apply, the [European Data Transfer Addendum](https://www.facebook.com/legal/EU_data_transfer_addendum/update) is applicable to transfers originating in the EU, EEA or Switzerland of Personal Information and forms part of, and is incorporated by reference into, these Data Processing Terms.
 * To the extent UK GDPR applies to your Processing under these Data Processing Terms as Controller and Meta Platforms, Inc. is the Meta entity to which these terms apply, the [UK Data Transfer Addendum](https://www.facebook.com/legal/terms/UK_Data_Transfer_Addendum) is applicable to transfers originating in the UK of Personal Information to Meta Platforms, Inc. and forms part of, and is incorporated by reference into, these Data Processing Terms.
+* The [Global Data Transfer Addendum](https://www.facebook.com/legal/terms/Privacy/GDTA) forms part of, and is incorporated by reference into, these Data Processing Terms and applies to transfers of Personal Information under these Data Processing Terms to the extent such transfers are subject to the data protection laws specified in the addendum.
 
   
 **Definitions**  
@@ -40,7 +37,7 @@ For the purposes of these Data Processing Terms, the following terms have the me
   
   
 
-Effective Date: April 25, 2023
+Effective Date: August 23, 2025
 
   
 
