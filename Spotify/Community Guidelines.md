@@ -32,8 +32,9 @@ Spotify is home to communities where people can create, express themselves, list
 
 **Content that advocates or glorifies serious physical harm towards an individual or group** includes, but may not be limited to:
 
-* Encouraging, promoting or glorifying suicide and self-harm (if you or someone you know is struggling or thinking about self-harm, please see [here](https://resources.byspotify.com/) for ways to get help)
-* Inciting or threatening serious physical harm or acts of violence against a specific target or specific group
+* Encouraging, promoting, glorifying or providing instructions for suicide and self-harm (including disordered eating) Note: If you or someone you know is struggling or thinking about self-harm, please see [here](https://resources.byspotify.com/) for ways to get help
+* Inciting, threatening or providing instructions for acts of serious physical harm or violence against a specific target or specific group
+* Promoting or encouraging minors to engage in activities that will likely result in serious harm, including dangerous challenges and substance abuse
 
 **Content that promotes or supports terrorism or violent extremism** includes, but may not be limited to:
 
@@ -45,7 +46,7 @@ Spotify is home to communities where people can create, express themselves, list
 **Content that targets an individual or identifiable group for harassment or related abuse** includes, but may not be limited to:
 
 * Repeatedly targeting specific individuals with sexual advances
-* Repeatedly targeting a minor to shame or intimidate
+* Repeatedly targeting a minor, including harassment based on physical features, in order to shame or intimidate
 * Sharing or re-sharing non-consensual intimate content, as well as threats to distribute or expose such content
 * Sharing, threatening to share or encouraging others to share someone’s private information, including credit card or banking information, National Identity numbers, etc.
 
@@ -70,7 +71,7 @@ Spotify is home to communities where people can create, express themselves, list
 
 **Content that promotes, solicits or facilitates child sexual abuse or exploitation** includes, but may not be limited to:
 
-* Visual depictions of a minor engaged in a sexual act or lascivious depictions of a nude minor
+* Depictions of a minor engaged in a sexual act or lascivious depictions of a nude minor
 * Promoting acts of sexual abuse against a child in exchange for money
 * Encouraging or promoting sexual attraction by adults towards minors
 * Promoting, normalising or glorifying child-grooming behaviours
