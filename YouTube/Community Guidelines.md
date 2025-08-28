@@ -1836,8 +1836,6 @@ These policies prohibit certain types of content relating to free and fair democ
 * **Voter suppression:** Content aiming to mislead voters about the time, place, means, or eligibility requirements for voting, or false claims that could materially discourage voting.
 * **Candidate eligibility:** Content that advances false claims related to the technical eligibility requirements for current political candidates and sitting elected government officials to serve in office. Eligibility requirements considered are based on applicable national law, and include age, citizenship, or vital status.
 * **Incitement to interfere with democratic processes:** Content encouraging others to interfere with democratic processes. This includes obstructing or interrupting voting procedures.
-* **Election integrity:** Content advancing false claims that widespread fraud, errors, or glitches occurred in certain past elections to determine heads of government. Or, content that claims that the certified results of those elections were false. This policy currently applies to:
-    * The 2014, 2018, and 2022 Brazilian Presidential elections
 
 Keep in mind that this isn't a complete list.
 
@@ -1851,7 +1849,6 @@ Voter suppression
 * Telling viewers they can vote through inaccurate methods like texting their vote to a particular number.
 * Giving made up voter eligibility requirements like saying that a particular election is only open to voters over 50 years old.
 * Telling viewers an incorrect voting date.
-* False claims that Brazilian electronic voting machines have been hacked in the past to change an individual’s vote.
 
 Candidate eligibility
 
@@ -1864,10 +1861,6 @@ Incitement to interfere with democratic processes
 * Telling viewers to create long voting lines with the purpose of making it harder for others to vote.
 * Telling viewers to hack government websites to delay the release of elections results.
 * Telling viewers to incite physical conflict with election officials, voters, candidates, or other individuals at polling locations to deter voting.
-
-Election integrity
-
-* False claims that widespread fraud, error, or glitches changed the outcome of the 2018 Brazilian presidential election.
 
 Educational, documentary, scientific, or artistic content
 ---------------------------------------------------------
