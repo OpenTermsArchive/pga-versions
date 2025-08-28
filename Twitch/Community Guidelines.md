@@ -979,7 +979,7 @@ This policy is focused on Twitch users who persistently share harmful misinforma
     * Promotion of verifiably false claims related to the outcome of a fully vetted political process, including election rigging, ballot tampering, vote tallying, or election fraud\*
 * In instances of public emergencies (e.g., wildfires, earthquakes, active shootings), we may also act on misinformation that may impact public safety
 
-\*Note: In order to evaluate civic misinformation claims, we work with independent misinformation experts such as the Global Disinformation Index, as well as information from election boards and congressional certification.
+\*Note: In order to evaluate civic misinformation claims, we routinely work with specialists and consult information from election boards, congressional certification, and other relevant sources.
 
 Content Labeling
 ----------------
