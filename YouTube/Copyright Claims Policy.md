@@ -60,7 +60,7 @@ Of the more than one billion Content ID claims made between July 2023 and Decem
 
 YouTube Copyright Transparency Report
 
-[](https://transparencyreport.google.com/youtube-copyright/intro)
+[](https://transparencyreport.google.com/youtube-copyright/intro?en_GB)
 
 Copyright and rights management centre
 
@@ -68,4 +68,4 @@ Copyright and rights management centre
 
 How to use the Copyright Match Tool
 
-[](https://support.google.com/youtube/answer/15269184?sjid=3522198452893595691-NC)
+[](https://support.google.com/youtube/answer/15269184?sjid=10233159174352341243-NA&en-GB)
