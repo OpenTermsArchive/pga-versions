@@ -1233,7 +1233,7 @@ Content, activity or interactions that recruits people for, facilitates or explo
 * Sex trafficking (any commercial sexual activity with a minor or any commercial sexual activity with an adult involving force, fraud, or coercion)
 * Sales of children or illegal adoption
 * Orphanage trafficking and orphanage volun-tourism
-* Forced marriages
+* Forced marriages (including child marriages)
 * Labor exploitation (including bonded labor)
 * Domestic servitude
 * Non-regenerative organ trafficking not including organ removal, donation, or transplant in a non-exploitative organ donation context
@@ -1607,8 +1607,7 @@ We do not allow the following content for all users:
     * Visible anuses and/or close-ups of visible buttocks
     * Visible female nipples, except in a breastfeeding, or act of protest context
     
-    * Photorealistic/ digital videos that focus on commonly sexualized body parts (such as genitalia, crotch, breasts, anus, buttocks, lips, mouth/tongue) recorded without the awareness of the person(s) depicted in them
-    * Photorealistic/ digital imagery or real world art depicting upskirt imagery of sexualized body parts
+    * Photorealistic/ digital videos that focus on crotch, female breasts, or buttocks recorded without the awareness of the person(s) depicted in them
     * Note that with some restrictions, we may allow depictions of adult nudity in additional special contexts, such as medical or health contexts. This is covered in greater detail in the sections below.
 
 **Adult Sexual Activity**
