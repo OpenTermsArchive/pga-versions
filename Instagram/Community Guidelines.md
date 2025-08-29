@@ -76,8 +76,7 @@ We do not allow the following content for all users:
     * Visible anuses and/or close-ups of visible buttocks
     * Visible female nipples, except in a breastfeeding, or act of protest context
     
-    * Photorealistic/ digital videos that focus on commonly sexualized body parts (such as genitalia, crotch, breasts, anus, buttocks, lips, mouth/tongue) recorded without the awareness of the person(s) depicted in them
-    * Photorealistic/ digital imagery or real world art depicting upskirt imagery of sexualized body parts
+    * Photorealistic/ digital videos that focus on crotch, female breasts, or buttocks recorded without the awareness of the person(s) depicted in them
     * Note that with some restrictions, we may allow depictions of adult nudity in additional special contexts, such as medical or health contexts. This is covered in greater detail in the sections below.
 
 **Adult Sexual Activity**
