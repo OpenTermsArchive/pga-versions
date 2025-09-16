@@ -3,10 +3,6 @@ Terms of Service
 
 #### Last Updated: 14 August, 2025
 
-_This Policy takes effect on 14 August 2025 for new users. It takes effect for existing users on 15 September 2025._
-
-_You may find the previous version of our Terms of Service [here](https://bsky.social/about/support/tos-deprecated)._
-
 Welcome to Bluesky, a social networking application provided by Bluesky Social, PBC ("**we**", "**us**", "**our**”). We are excited to have you as a user.
 
 Bluesky runs on the Authenticated Transfer Protocol ("**AT Protocol**"), a decentralized social networking protocol that supports many different kinds of services. Together with the Bluesky [Community Guidelines](https://bsky.social/about/support/community-guidelines), [Privacy Policy](https://bsky.social/about/support/privacy-policy), and [Copyright Policy](https://bsky.social/about/support/copyright), these Terms of Service ("**Terms**") govern your use of the Bluesky application, website, and services (collectively, "**Bluesky**"). By accessing or using Bluesky, you agree to be bound by these Terms. Please read them carefully.
