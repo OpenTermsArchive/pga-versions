@@ -3,10 +3,6 @@ Privacy Policy
 
 #### Last Updated: August 14, 2025
 
-_This Policy takes effect on 14 August 2025 for new users. It takes effect for existing users on 15 September 2025._
-
-_You may find the previous version of our Privacy Policy [here](https://bsky.social/about/support/privacy-policy-deprecated)._
-
 By using Bluesky, you acknowledge that you have read and understand the information in this Policy.
 
 ### Table of Contents
