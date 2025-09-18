@@ -4,16 +4,16 @@ LY Corporation Privacy Policy
 Index
 -----
 
-* [1.Introduction](#section0)
-* [2.Applicable scope of this Policy](#section1)
-* [3.Personal Data to be collected](#section2)
-* [4.Purpose of use of Personal Data](#section3)
-* [5.Provision of Personal Data](#section4)
-* [6.Safety control of Personal Data](#section5)
-* [7.Your choices regarding Personal Data](#section6)
-* [8.Use of third-party modules and Cookies](#section7)
-* [9.Other important information](#section8)
-* [10.Reference](#section9)
+*   [1.Introduction](#section0)
+*   [2.Applicable scope of this Policy](#section1)
+*   [3.Personal Data to be collected](#section2)
+*   [4.Purpose of use of Personal Data](#section3)
+*   [5.Provision of Personal Data](#section4)
+*   [6.Safety control of Personal Data](#section5)
+*   [7.Your choices regarding Personal Data](#section6)
+*   [8.Use of third-party modules and Cookies](#section7)
+*   [9.Other important information](#section8)
+*   [10.Reference](#section9)
 
 View More
 
@@ -52,9 +52,9 @@ While we may provide various translations of this Policy as a reference, to the 
 
 We will collect the Personal Data such as the following in lawful and fair manner.
 
-* Personal Data provided by you
-* Personal Data relating to the use of our Services
-* In addition to the above, Personal Data lawfully collected by us, including cases of collecting information from third parties
+*   Personal Data provided by you
+*   Personal Data relating to the use of our Services
+*   In addition to the above, Personal Data lawfully collected by us, including cases of collecting information from third parties
     
 
 If you do not provide certain types of information which need to be registered for using our Services, you may not be able to use all or a part of our Services.
@@ -68,20 +68,20 @@ The following are some examples of the Personal Data that we will collect. Such 
 We may ask you to provide us with your Personal Data by operating your device and entering information or via a document or other mediums.  
 The foregoing Personal Data includes, for example:
 
-* Phone number and email address required when creating an account
-* Answers when cooperating with our surveys
-* Identity verification documents to be sent for identity verification
-* Your profile information (including icon image, displayed name, status message, search ID, etc.). Profile information (excluding information that you set as being private) will be made public and can be viewed by third parties such as other users.
-* Address book on your device. The communication app LINE (“LINE”) offers an “Auto Add Friends” feature which automatically adds other users as your friends in our Services when you upload information of your friend in your address book on your device. We will access only the phone numbers registered in your mobile device’s address book when you have enabled this feature. We will use the phone numbers in your address book only for automatically adding your friends, recommending possible friends, and preventing unauthorized use.
+*   Phone number and email address required when creating an account
+*   Answers when cooperating with our surveys
+*   Identity verification documents to be sent for identity verification
+*   Your profile information (including icon image, displayed name, status message, search ID, etc.). Profile information (excluding information that you set as being private) will be made public and can be viewed by third parties such as other users.
+*   Address book on your device. The communication app LINE (“LINE”) offers an “Auto Add Friends” feature which automatically adds other users as your friends in our Services when you upload information of your friend in your address book on your device. We will access only the phone numbers registered in your mobile device’s address book when you have enabled this feature. We will use the phone numbers in your address book only for automatically adding your friends, recommending possible friends, and preventing unauthorized use.
 
 ### 3.b.Examples of Personal Data related to your use of our Services
 
 We will collect information related to your activities when using our Services and information related to your devices and how you are using those devices.  
 The foregoing Personal Data includes, for example:
 
-* Status of use of our Services
-* Location information
-* Information related to apps, browsers and devices
+*   Status of use of our Services
+*   Location information
+*   Information related to apps, browsers and devices
 
 #### 3.b.i.Status of use of our Services
 
@@ -130,9 +130,9 @@ We may collect login records from plug-ins of third-party including Partner webs
 
 Furthermore, in certain countries or regions, when a third party including our Partner uses our Services, we may collect the following Personal Data.
 
-* Information such as the access history (including date and time of access, URL, etc.) of the website that you accessed from your browser.  
+*   Information such as the access history (including date and time of access, URL, etc.) of the website that you accessed from your browser.  
     For example, if our Partner has introduced our tracking service to display ads on our Services only to users who visited a specific page of a website operated by that Partner, we will collect the access history of that Partner’s website, and use such information for the optimal ad distribution on our Services. In order to perform the foregoing optimal ad distribution, we may use cookies and associate your access history with the ad identifier or internal identifier. You can delete cookies at any time from your browser (\*3).
-* History of service use on web app in which our Partner is the service provider.  
+*   History of service use on web app in which our Partner is the service provider.  
     For example, if our Partner has introduced our access analyzing service to confirm the status of use of its web app or improve its services, we will collect your history of use of that Partner’s services, and provide the result of its analysis to the Partner.
 
 When we directly collect Personal Data in the services operated by such Partner such as when our Partner uses our Services as described above, we request such Partner to take lawful and proper measures.
@@ -148,10 +148,10 @@ If the collected public information contains Personal Data, we may use such info
 
 We will use the collected Personal Data (including Personal Data collected from when you use our Services and all Personal Data collected from third parties) for the following purposes:
 
-* Provision and maintenance of our Services;
-* Development and improvement of our Services;
-* Security and prevention of unauthorized use; and/or
-* Provision of Services optimized for you.
+*   Provision and maintenance of our Services;
+*   Development and improvement of our Services;
+*   Security and prevention of unauthorized use; and/or
+*   Provision of Services optimized for you.
 
 We use Personal Data to provide our Services to users, for utilization in research and development to provide safer and better services, and to provide services that are strongly linked to users, including ads.
 
@@ -175,29 +175,29 @@ We will use information required for providing our Services, answering your inqu
 
 For example, in the following cases, we will use Personal Data for the provision and maintenance of our Services.
 
-* To verify your identity, through comparison with your registered information, when succeeding the account upon logging in or changing your device, when using certain Services which require identity verification, or when receiving inquiries from users;
+*   To verify your identity, through comparison with your registered information, when succeeding the account upon logging in or changing your device, when using certain Services which require identity verification, or when receiving inquiries from users;
     
-* To send or post messages and contents, and convey the status of the sent or posted messages, etc.;
-* To set or disclose profiles for building and managing connections between users in LINE, and to search for other users using the registered information, or enable such search;
-* To process invoices or settle payments when a user purchases a product or uses a paid service;
-* To examine your status of use of our Services in order to reply to your inquiry to our customer support;
-* To refer to the products that you purchased so we can give you points;
-* To deliver any prizes you may have won in a promotional event or the products that you have purchased to your designated address;
-* To notify you of important changes to our Services such as the revision of terms, planned discontinuation of services, or change of features.
-* To automatically display your information, which is required for purchasing products, on the input screen; and/or
-* To generate appropriate sentences and images according to the contents that have been entered such as for purposes of supporting your use of our Services.
+*   To send or post messages and contents, and convey the status of the sent or posted messages, etc.;
+*   To set or disclose profiles for building and managing connections between users in LINE, and to search for other users using the registered information, or enable such search;
+*   To process invoices or settle payments when a user purchases a product or uses a paid service;
+*   To examine your status of use of our Services in order to reply to your inquiry to our customer support;
+*   To refer to the products that you purchased so we can give you points;
+*   To deliver any prizes you may have won in a promotional event or the products that you have purchased to your designated address;
+*   To notify you of important changes to our Services such as the revision of terms, planned discontinuation of services, or change of features.
+*   To automatically display your information, which is required for purchasing products, on the input screen; and/or
+*   To generate appropriate sentences and images according to the contents that have been entered such as for purposes of supporting your use of our Services.
 
 ### 4.b.Examples of Development and improvement of our Services
 
 We will use Personal Data for the development and improvement of our Services for providing better services, products and contents to users toward the future.  
 For example, in the following cases, we will use Personal Data for the development and improvement of our Services:
 
-* To develop and improve our Services by surveying and analyzing your attribute information, number of users and number of viewers of our Services, and number of views and number of taps and clicks of ads which we and our Partners distribute;
+*   To develop and improve our Services by surveying and analyzing your attribute information, number of users and number of viewers of our Services, and number of views and number of taps and clicks of ads which we and our Partners distribute;
     
-* To improve our Services by creating statistics and models related to the use of our Services;
-* To improve the screen design by understanding the frequency that each tab in the app is being used;
-* To conduct surveys related to our services that we are currently providing, or may provide in the future; or
-* To use questions entered in the Service that generates text according to the customers’ questions and improve the model for such service.
+*   To improve our Services by creating statistics and models related to the use of our Services;
+*   To improve the screen design by understanding the frequency that each tab in the app is being used;
+*   To conduct surveys related to our services that we are currently providing, or may provide in the future; or
+*   To use questions entered in the Service that generates text according to the customers’ questions and improve the model for such service.
 
 ### 4.c.Examples of Security and prevention of and measures against unauthorized use
 
@@ -205,29 +205,29 @@ We will use Personal Data and take security measures and measures against unauth
 
 For example, in the following cases, we will use Personal Data for the security and prevention of and measures against unauthorized use:
 
-* To confirm whether there is any breach of terms of use, any illegal act, unauthorized access or any other unauthorized use;
-* To monitor and confirm the details of reports and illegal postings, etc., and to develop tools for preventing unauthorized use by ways such as analyzing the details of such reports and illegal postings, etc.; or
-* To verify facts or contact you in the event of any unauthorized use or the possibility of any unauthorized use.
+*   To confirm whether there is any breach of terms of use, any illegal act, unauthorized access or any other unauthorized use;
+*   To monitor and confirm the details of reports and illegal postings, etc., and to develop tools for preventing unauthorized use by ways such as analyzing the details of such reports and illegal postings, etc.; or
+*   To verify facts or contact you in the event of any unauthorized use or the possibility of any unauthorized use.
 
 ### 4.d.Examples of Provisions of our Services optimized for you
 
 We will utilize Personal Data for providing recommended contents, including ads, to each user.  
 For example, in the following cases, we will use Personal Data for providing optimized contents to users:
 
-* To provide recommendations to you such as introducing recommended products and news articles based such as on your gender and purchase history;
-* To measure the effectiveness of the distributed ad; or
-* To send and distribute LINE official account messages and surveys, etc. to you by ways such as associating or combining information obtained from our Partners, such as your identifier (internal identifier, ad identifier, etc.), hashed telephone number and email address, with your Personal Data that we possess.
+*   To provide recommendations to you such as introducing recommended products and news articles based such as on your gender and purchase history;
+*   To measure the effectiveness of the distributed ad; or
+*   To send and distribute LINE official account messages and surveys, etc. to you by ways such as associating or combining information obtained from our Partners, such as your identifier (internal identifier, ad identifier, etc.), hashed telephone number and email address, with your Personal Data that we possess.
 
 Furthermore, in certain countries or regions (\*3), we will use Personal Data for distributing recommended contents, such as optimized ads, to users. Such use includes the following examples:
 
-* To distribute information of strong relevance to your current location regarding facilities, attractions, coupons, etc. to be provided through LINE official accounts;
-* To introduce information of events being conducted and valuable coupons that can be used, near your current location or places where you often visit;
-* To display ads related to our Partner’s website that you accessed;
-* To estimate attributes such as the gender, age group, and interests of users from the LINE official accounts that have been added as a friend, purchased products, Services that are often used, contents that were posted, and history of service use such as terms that were recently searched, and distribute our ads or third-party ads that may be of interest to users having similar attributes;
-* To distribute our ads or third-party ads with Personal Data such as the birthday, phone number and email address registered by users (including cases of distributing ads of our Services on services operated by third parties) as the key;
-* To distribute ads to you by ways such as associating or combining information obtained from our Partners, such as your identifier (internal identifier, ad identifier, etc.), hashed telephone number and email address, part of your device information (OS, etc.) and IP address, with your Personal Data that we possess;
-* To measure the effectiveness of distributed ads by ways such as using your identifier (internal identifier, ad identifier, etc.), hashed telephone number and email addresses, part of your device information (OS, etc.) and IP address, etc. obtained from our Partners; or
-* To provide our Partners with statistical information prepared by ways such as associating or combining information obtained from our Partners, such as your identifier (internal identifier, ad identifier, etc.), hashed telephone number and email address, attribute information, and your action history, including your purchase and browsing history, with your Personal Data that we possess, such as your identifier (internal identifier, ad identifier, etc.), hashed telephone number and email addresses, attribute information and your status of use of our Services, including your history of accessing ads.
+*   To distribute information of strong relevance to your current location regarding facilities, attractions, coupons, etc. to be provided through LINE official accounts;
+*   To introduce information of events being conducted and valuable coupons that can be used, near your current location or places where you often visit;
+*   To display ads related to our Partner’s website that you accessed;
+*   To estimate attributes such as the gender, age group, and interests of users from the LINE official accounts that have been added as a friend, purchased products, Services that are often used, contents that were posted, and history of service use such as terms that were recently searched, and distribute our ads or third-party ads that may be of interest to users having similar attributes;
+*   To distribute our ads or third-party ads with Personal Data such as the birthday, phone number and email address registered by users (including cases of distributing ads of our Services on services operated by third parties) as the key;
+*   To distribute ads to you by ways such as associating or combining information obtained from our Partners, such as your identifier (internal identifier, ad identifier, etc.), hashed telephone number and email address, part of your device information (OS, etc.) and IP address, with your Personal Data that we possess;
+*   To measure the effectiveness of distributed ads by ways such as using your identifier (internal identifier, ad identifier, etc.), hashed telephone number and email addresses, part of your device information (OS, etc.) and IP address, etc. obtained from our Partners; or
+*   To provide our Partners with statistical information prepared by ways such as associating or combining information obtained from our Partners, such as your identifier (internal identifier, ad identifier, etc.), hashed telephone number and email address, attribute information, and your action history, including your purchase and browsing history, with your Personal Data that we possess, such as your identifier (internal identifier, ad identifier, etc.), hashed telephone number and email addresses, attribute information and your status of use of our Services, including your history of accessing ads.
 
 We are offering a detailed explanation to users residing in countries or regions where this feature is available. For details, please refer to “[Privacy Settings](https://privacy.lycorp.co.jp/en/setting/)” (page is provided only in the language of the country that is offering the feature).
 
@@ -334,11 +334,11 @@ Unless you request the deletion of your account, in principle, we will retain mo
 We are taking strict organizational, personal, physical and technical security measures in managing the collected Personal Data for respecting and protecting your privacy and confidentiality of your Personal Data, and preventing unauthorized access to your Personal Data. These measures include safety control measures based on industry standards for preventing unauthorized access to Personal Data, and disclosure, unauthorized use, falsification or destruction of Personal Data.  
 For example, we are taking the following measures.
 
-* Provision of encryption feature of messages
-* Strict access control based on a need-to-know basis
-* 24/7 security monitoring
-* External authentication for objectively evaluating our security measures
-* R&D of new security technologies
+*   Provision of encryption feature of messages
+*   Strict access control based on a need-to-know basis
+*   24/7 security monitoring
+*   External authentication for objectively evaluating our security measures
+*   R&D of new security technologies
 
 Furthermore, we will never provide any means for fraudulently accessing Personal Data to a third party.  
 For details regarding our security measures, please also read “[Safety Management Measures for Personal Data.](https://privacy.lycorp.co.jp/en/safety.html)”  
@@ -358,17 +358,17 @@ For details regarding the storage location of your Personal Data, please also re
 We collect and retain Personal Data to provide our Services according to your request, fulfill any of the applicable purposes of use described in this Policy, or to comply with Applicable Laws.  
 Unless you request the deletion of your account, in principle, we will retain most of your Personal Data. Once your account is deleted, we will process your Personal Data properly according to Applicable Laws and our internal rules after retaining such Personal Data for a given period of time for the following purposes:
 
-* to reply to inquiries;
-* to resolve disputes or collect fees;
-* to detect and deter fraudulent use of, or abuse of, our Services; or
-* to comply with Applicable Laws.
+*   to reply to inquiries;
+*   to resolve disputes or collect fees;
+*   to detect and deter fraudulent use of, or abuse of, our Services; or
+*   to comply with Applicable Laws.
 
 Otherwise, we prescribe the storage period of Personal Data according to the following standards.
 
-* We will not in any way use highly private information such as texts, images, videos and audio data sent in a talk room between users for any purpose other than the distribution of messages (including retransmission in the event of a communication failure or synchronization of messages from multiple devices) unless we have obtained your consent or such use is permitted by Applicable Laws. While we will retain the foregoing information for a minimum period, such information will subsequently be automatically deleted from our server.
-* Information that we collected for a specific purpose will be promptly deleted after the lapse of a reasonable period once the purpose of such information is fulfilled.
-* If you have expressly declared your intent to store your Personal Data, we may respect your intent and store your Personal Data for a long period.
-* If a storage period is prescribed under Applicable Laws or the like, we will store Personal Data according to such storage period.
+*   We will not in any way use highly private information such as texts, images, videos and audio data sent in a talk room between users for any purpose other than the distribution of messages (including retransmission in the event of a communication failure or synchronization of messages from multiple devices) unless we have obtained your consent or such use is permitted by Applicable Laws. While we will retain the foregoing information for a minimum period, such information will subsequently be automatically deleted from our server.
+*   Information that we collected for a specific purpose will be promptly deleted after the lapse of a reasonable period once the purpose of such information is fulfilled.
+*   If you have expressly declared your intent to store your Personal Data, we may respect your intent and store your Personal Data for a long period.
+*   If a storage period is prescribed under Applicable Laws or the like, we will store Personal Data according to such storage period.
 
 We may continue to retain Personal Data in a format in which individuals cannot be identified after the lapse of the storage period prescribed pursuant to Applicable Laws and our internal rules.
 
@@ -385,29 +385,29 @@ We are exerting efforts to provide, in our Services, features which enable you t
 
 For instance, we provide the following features:
 
-* Confirmation and change of public profile information of LINE, and setting of the LINE ID
-* Setting and change of phone number and email address, deletion of email address
-* Whether to allow other users to contact you by using your LINE ID
-* Whether to allow other users, who already have your phone number, to reach you via LINE
-* Whether to add contacts automatically using the address book in your device
-* Whether to allow third parties to view your Personal Data retained by your friend
-* Function which allows users to personally view, delete and download their service use history
+*   Confirmation and change of public profile information of LINE, and setting of the LINE ID
+*   Setting and change of phone number and email address, deletion of email address
+*   Whether to allow other users to contact you by using your LINE ID
+*   Whether to allow other users, who already have your phone number, to reach you via LINE
+*   Whether to add contacts automatically using the address book in your device
+*   Whether to allow third parties to view your Personal Data retained by your friend
+*   Function which allows users to personally view, delete and download their service use history
 
 We also provide the following features for certain Service in certain countries or regions:
 
-* Whether to allow the use of information for improving our services (\*1)
-* Deletion of location information (\*2)
-* Whether to receive strongly relevant ads (\*3)
+*   Whether to allow the use of information for improving our services (\*1)
+*   Deletion of location information (\*2)
+*   Whether to receive strongly relevant ads (\*3)
 
 If you wish to exercise your right against us to disclose your Personal Data that cannot be confirmed in our Services, correct or delete your Personal Data that is contrary to facts, notify you of the purpose of use of your Personal Data, or other rights permitted by Applicable Laws, you may contact us using the [Personal Data Disclosure Procedure](https://contact-cc.line.me/detailId/14179).  
 After verification of your identity, we will respond to your request within a reasonable period of time, and in accordance with relevant laws. If you would like to send us a written request, please refer our mailing address indicated later.  
 If, however, permitted by Applicable Laws, we may not be able to respond to your request when any of the following applies:
 
-* disclosure is likely to harm the life, body, property, or other rights or interests of yours or another individual;
-* disclosure is likely to seriously impede the proper execution of our business;
-* disclosure violates other laws and regulations;
-* when you failed to verify your identity upon your disclosure request; or
-* we are otherwise permitted by Applicable Laws to refuse your request.
+*   disclosure is likely to harm the life, body, property, or other rights or interests of yours or another individual;
+*   disclosure is likely to seriously impede the proper execution of our business;
+*   disclosure violates other laws and regulations;
+*   when you failed to verify your identity upon your disclosure request; or
+*   we are otherwise permitted by Applicable Laws to refuse your request.
 
 If you no longer wish to use our Services or if you withdraw your consent to our processing of your Personal Data which is necessary for us to provide our Services, you may choose to delete your entire account. However, the withdrawal of your consent will not in any way affect the lawfulness of our processing of your Personal Data based on your consent that was given before the foregoing withdrawal.
 
@@ -426,8 +426,8 @@ Furthermore, details concerning information that is transmitted externally throu
 
 We may install modules of a third-party SDK in our Services, for example, for the following purposes:
 
-* to analyze the status of use of our Services; and
-* to distribute ads on our behalf and measure the effectiveness thereof.
+*   to analyze the status of use of our Services; and
+*   to distribute ads on our behalf and measure the effectiveness thereof.
 
 With regard to your Personal Data that is processed by a third-party through a module provided by such third party, the privacy policy of such third party will apply.
 
@@ -436,11 +436,11 @@ With regard to your Personal Data that is processed by a third-party through a m
 A cookie is a small text file that is stored on your computer when visiting a website. This text file stores information that can be read by the website operator when visiting the website again at a later date.  
 For example, we may use cookies and similar web tracking technologies (web beacon, pixel etc.) for the following purposes:
 
-* to store your login state, authenticate visitors, maintain sessions and take security measures;
-* to store language settings and latest date and time of access, and improve user-friendliness;
-* to provide better services by comprehending the number of accesses and the mode of use;
-* to distribute ads that are more interesting to you (\*3); and
-* to measure the effectiveness of ads.
+*   to store your login state, authenticate visitors, maintain sessions and take security measures;
+*   to store language settings and latest date and time of access, and improve user-friendliness;
+*   to provide better services by comprehending the number of accesses and the mode of use;
+*   to distribute ads that are more interesting to you (\*3); and
+*   to measure the effectiveness of ads.
 
 You can control whether or not to accept cookies based on browser settings or by using other tools. If, however, you deactivate cookies or limit the ability to set cookies, you may not be able to obtain the full benefit of the website or access all of its functions, which may limit your overall user experience.
 
