@@ -1,6 +1,12 @@
 User Agreement
 ==============
 
+### **
+
+Update to our terms**
+
+### We’re updating our terms on November 3, 2025. See [here](https://www.linkedin.com/legal/preview/user-agreement) for what’s coming in our updated User Agreement. [Learn more](https://www.linkedin.com/help/linkedin/answer/a8059228)  
+
 [Effective on November 20, 2024](https://www.linkedin.com/help/linkedin/answer/a1341216/updates-to-user-agreement-and-privacy-policy)
 
 Our mission is to connect the world’s professionals to allow them to be more productive and successful. Our services are designed to promote economic opportunity for our members by enabling you and millions of other professionals to meet, exchange ideas, learn, and find opportunities or employees, work, and make decisions in a network of trusted relationships.
