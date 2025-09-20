@@ -1250,7 +1250,7 @@ We allow content that is otherwise covered by this policy when posted in condemn
 
 Under our Human Exploitation policies, our reviewers and automated systems may also consider a range of behavioral signals to help detect and take action on violating accounts.
 
-* We may remove content that offers a job in locations that are high-risk for labor exploitation when confirmed by law enforcement, local non-governmental organizations, or other trusted partners
+* We may remove accounts based on their interactions with other violating accounts, searches for or interactions with violating content, or membership in communities (e.g. Groups) we have removed for violating our policies.
 
 For the following Community Standards, we require additional information and/or context to enforce:
 
