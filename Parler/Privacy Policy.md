@@ -43,22 +43,22 @@ For more information on your choices regarding cookies, you can review the FTC�
 
 We may use the Personal Information we collect:
 
-* To fulfill or meet requirements inherent in the reason you provided the information. For example, we use the information about who you follow on Parler to deliver you a feed of posts from those accounts; we use the information you put into a posts to display it to those who follow you or users who share your post, or who visit your profile on Parler;
-* To create, customize, and secure your account for use of the Services;
-* To provide, maintain, and improve our Services, including for testing, research, analysis and product development;
-* To personalize your experience on our Services, such as by providing tailored content and recommendations;
-* To understand and analyze how you use our Services and develop new products, services, features, and/or functionality;
-* To communicate with you, provide you with updates and other information relating to our Services, provide information that you request, respond to comments and questions, and otherwise provide customer support;
-* Parler integrates blockchain technology into certain features of our platform to provide transparency, security, and enhanced user engagement. Blockchain-related activities may involve the recording of certain interactions or transactions on a public ledger. Users are responsible for managing their blockchain credentials, such as private keys or wallet addresses, as Parler does not store or recover such information. Blockchain records are immutable and publicly visible, and users should exercise caution when engaging with blockchain-enabled features.
-* For marketing and advertising purposes, such as developing and providing promotional and advertising materials that may be relevant, valuable or otherwise of interest to you, including providing you with targeted offers and ads through our Website, and via email or text message (with your consent);
-* To send you text messages and push notifications;
-* To facilitate transactions, redemptions, and payments;
-* To verify your identity and determine your eligibility to join our influencer network;
-* To find and prevent fraud and respond to trust and safety issues;
-* To evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Personal Information held by us about our consumers is among the assets transferred;
-* To help maintain the safety, security, and integrity of our Website, products and services, databases and other technology assets, and business;
-* For compliance purposes, including enforcing our Terms of Service or other legal rights, or as may be required by applicable laws and regulations or requested by any judicial process, law enforcement or governmental agency; and
-* For other purposes for which we provide specific notice at the time the information is collected.
+*   To fulfill or meet requirements inherent in the reason you provided the information. For example, we use the information about who you follow on Parler to deliver you a feed of posts from those accounts; we use the information you put into a posts to display it to those who follow you or users who share your post, or who visit your profile on Parler;
+*   To create, customize, and secure your account for use of the Services;
+*   To provide, maintain, and improve our Services, including for testing, research, analysis and product development;
+*   To personalize your experience on our Services, such as by providing tailored content and recommendations;
+*   To understand and analyze how you use our Services and develop new products, services, features, and/or functionality;
+*   To communicate with you, provide you with updates and other information relating to our Services, provide information that you request, respond to comments and questions, and otherwise provide customer support;
+*   Parler integrates blockchain technology into certain features of our platform to provide transparency, security, and enhanced user engagement. Blockchain-related activities may involve the recording of certain interactions or transactions on a public ledger. Users are responsible for managing their blockchain credentials, such as private keys or wallet addresses, as Parler does not store or recover such information. Blockchain records are immutable and publicly visible, and users should exercise caution when engaging with blockchain-enabled features.
+*   For marketing and advertising purposes, such as developing and providing promotional and advertising materials that may be relevant, valuable or otherwise of interest to you, including providing you with targeted offers and ads through our Website, and via email or text message (with your consent);
+*   To send you text messages and push notifications;
+*   To facilitate transactions, redemptions, and payments;
+*   To verify your identity and determine your eligibility to join our influencer network;
+*   To find and prevent fraud and respond to trust and safety issues;
+*   To evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Personal Information held by us about our consumers is among the assets transferred;
+*   To help maintain the safety, security, and integrity of our Website, products and services, databases and other technology assets, and business;
+*   For compliance purposes, including enforcing our Terms of Service or other legal rights, or as may be required by applicable laws and regulations or requested by any judicial process, law enforcement or governmental agency; and
+*   For other purposes for which we provide specific notice at the time the information is collected.
 
 We will not collect additional categories of Personal Information or use the Personal Information we collected for materially different, unrelated, or incompatible purposes without updating this Privacy Policy to provide you with notice as set out in Section 11 “**Changes to the Privacy Policy**” below.
 
@@ -132,13 +132,13 @@ State consumer privacy laws may provide you with additional rights regarding our
 
 **California, Colorado, Connecticut, Delaware, Florida, Indiana, Iowa, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Tennessee, Texas, Utah, and Virginia.**
 
-* Know what personal data is collected;
-* Access and obtain a copy of their personal data;
-* Correct inaccuracies in personal data;
-* Delete personal data;
-* Opt out of the sale or sharing of personal data;
-* Opt out of targeted advertising and profiling;
-* Appeal decisions related to these rights.
+*   Know what personal data is collected;
+*   Access and obtain a copy of their personal data;
+*   Correct inaccuracies in personal data;
+*   Delete personal data;
+*   Opt out of the sale or sharing of personal data;
+*   Opt out of targeted advertising and profiling;
+*   Appeal decisions related to these rights.
 
 Note that Personal Information does not include publicly available information from government records, deidentified or aggregated consumer information, or information excluded from the scope of consumer privacy laws. Certain state legislation, including the California Consumer Privacy Act of 2018 (“CCPA”) protects various categories of Personal Information. For your convenience, we have provided the following chart summarizing the categories of Personal Information protected under the CCPA and what categories we collect as another way of covering the information set forth in Section 1 “**Information We Collect**”:
 
@@ -220,26 +220,26 @@ Data privacy legislation provides consumers in certain states with specific righ
 
 You have the right to request that we disclose certain information to you about our collection and use of your Personal Information over the past 12 months (the “right to know”). Once we receive your request and confirm your identity (see the “**Exercising Your Rights to Know or Delete**” subsection below), we will disclose to you:
 
-* The categories of Personal Information we collected about you.
-* The categories of sources for the Personal Information we collected about you.
-* Our business or commercial purpose for collecting that Personal Information.
-* The categories of third parties with whom we share that Personal Information.
-* If we disclosed your Personal Information for a business purpose, two separate lists disclosing: sales, identifying the Personal Information categories that each category of recipient purchased; and disclosures for a business purpose, identifying the Personal Information categories that each category of recipient obtained.
-* The specific pieces of Personal Information we collected about you (also called a “data portability request”).
+*   The categories of Personal Information we collected about you.
+*   The categories of sources for the Personal Information we collected about you.
+*   Our business or commercial purpose for collecting that Personal Information.
+*   The categories of third parties with whom we share that Personal Information.
+*   If we disclosed your Personal Information for a business purpose, two separate lists disclosing: sales, identifying the Personal Information categories that each category of recipient purchased; and disclosures for a business purpose, identifying the Personal Information categories that each category of recipient obtained.
+*   The specific pieces of Personal Information we collected about you (also called a “data portability request”).
 
 **_Right to Delete_**
 
 You have the right to request that we delete any of your Personal Information that we have collected and retained, subject to certain exceptions (the “right to delete”). Once we receive your request and confirm your identity (see “**Exercising Your Rights to Know or Delet**e”), we will review your request to see if an applicable exception allows us to retain the information. We may deny your deletion request if retaining the information is necessary for us or our service provider(s) to:
 
-* Complete the transaction for which we collected the Personal Information, provide a good or service that you requested, take actions reasonably anticipated within the context of our ongoing business relationship with you, fulfill the terms of a written warranty or product recall conducted in accordance with federal law, or otherwise perform our contract with you
-* Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, or prosecute those responsible for such activities.
-* Debug products to identify and repair errors that impair existing intended functionality.
-* Exercise free speech, ensure the right of another consumer to exercise their free speech rights, or exercise another right provided for by law.
-* Comply with the California Electronic Communications Privacy Act (Cal. Penal Code § 1546 et. seq.).
-* Enable solely internal uses that are reasonably aligned with consumer expectations based on your relationship with us.
-* Comply with a legal obligation.
-* Make other internal and lawful uses of that information that are compatible with the context in which you provided it.
-* We will delete or deidentify Personal Information not subject to one of these exceptions from our records and will direct our service providers to take similar action.
+*   Complete the transaction for which we collected the Personal Information, provide a good or service that you requested, take actions reasonably anticipated within the context of our ongoing business relationship with you, fulfill the terms of a written warranty or product recall conducted in accordance with federal law, or otherwise perform our contract with you
+*   Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, or prosecute those responsible for such activities.
+*   Debug products to identify and repair errors that impair existing intended functionality.
+*   Exercise free speech, ensure the right of another consumer to exercise their free speech rights, or exercise another right provided for by law.
+*   Comply with the California Electronic Communications Privacy Act (Cal. Penal Code § 1546 et. seq.).
+*   Enable solely internal uses that are reasonably aligned with consumer expectations based on your relationship with us.
+*   Comply with a legal obligation.
+*   Make other internal and lawful uses of that information that are compatible with the context in which you provided it.
+*   We will delete or deidentify Personal Information not subject to one of these exceptions from our records and will direct our service providers to take similar action.
 
 **_Exercising Your Rights to Know or Delete_**
 
@@ -275,14 +275,14 @@ We do not sell the Personal Information of any consumer. Consumers who opt in to
 
 We will only use Personal Information provided in an opt-out request to review and comply with the request.
 
-1. Non-Discrimination
+1.  Non-Discrimination
 
 We will not discriminate against you for exercising any of your data privacy rights. Unless permitted by state legislation, we will not:
 
-* Deny you goods or services.
-* Charge you different prices or rates for goods or services, including through granting discounts or other benefits, or imposing penalties.
-* Provide you a different level or quality of goods or services.
-* Suggest that you may receive a different price or rate for goods or services or a different level or quality of goods or services.
+*   Deny you goods or services.
+*   Charge you different prices or rates for goods or services, including through granting discounts or other benefits, or imposing penalties.
+*   Provide you a different level or quality of goods or services.
+*   Suggest that you may receive a different price or rate for goods or services or a different level or quality of goods or services.
 
 However, we may offer you certain financial incentives permitted by data privacy legislation that **can result** in different prices, rates, or quality levels. Any legally-permitted financial incentive we offer will reasonably relate to your Personal Information’s value and contain written terms that describe the program’s material aspects. Participation in a financial incentive program requires your prior opt- in consent, which you may revoke at any time.
 
