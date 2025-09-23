@@ -1646,9 +1646,6 @@ If you find content that violates this policy, report it. Instructions for repor
 Illegal or regulated goods or services policies
 ===============================================
 
-  
- 
-
 The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. Take the time to carefully read the policy below. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
 
 Content intended to sell certain regulated goods and services is not allowed on YouTube.
@@ -1660,7 +1657,7 @@ What this policy means for you
 
 #### If you're posting content
 
-Don't post content on YouTube if it aims to directly sell, link to, or facilitate access to any of the regulated goods and services listed below. Making the sale of these items or facilitating the use of these services possible by posting links, email, phone number or other means to contact a provider directly is not allowed.
+Don't post content on YouTube if it aims to directly sell, link to, or facilitate access to any of the regulated goods and services listed below. Making the sale of these items or facilitating the use of these services possible by posting links, email, phone number or other means to contact a provider directly is not allowed.
 
 * Alcohol
 * Bank account passwords, stolen credit cards, or other financial information
@@ -1673,26 +1670,27 @@ Don't post content on YouTube if it aims to directly sell, link to, or facilitat
 * Nicotine, including vaping products
 * [Online gambling sites](https://support.google.com/youtube/answer/9910779) not certified by Google
 * Pharmaceuticals without a prescription
+* Non-regulated substances for the purpose of abuse
 * Sex or escort services
 * Unlicensed medical services
 * Human smuggling
 
-Note: If you're providing links or contact information such as phone numbers, emails, or other means of contact where hard drugs or certain poisonous substances can be purchased, or where pharmaceuticals can be purchased without a prescription, your channel may be terminated. See examples below. 
+Note: If you're providing links or contact information such as phone numbers, emails, or other means of contact where hard drugs or certain poisonous substances can be purchased, or where pharmaceuticals can be purchased without a prescription, your channel may be terminated. See examples below.
 
 Additionally, the following content isn’t allowed on YouTube:
 
-* **Hard drug use or creation**: Hard drug use or creation, selling or facilitating the sale of hard or soft drugs, facilitating the sale of regulated pharmaceuticals without a prescription, or showing how to use steroids in non-educational content.
+* **Hard drug use or creation:** Hard drug use or creation, selling or facilitating the sale of hard or soft drugs, facilitating the sale of regulated pharmaceuticals without a prescription, or showing how to use steroids in non-educational content.
 * **Poison sale or creation:** Facilitating the sale, giveaway, creation or modification of certain poisons or poisonous substances.
-* **Instructional cheating**: Content which provides instructions for academic cheating.
+* **Instructional cheating:** Content which provides instructions for academic cheating.
 
-This policy applies to videos, video descriptions, comments, live streams, and any other YouTube product or feature. Keep in mind that this isn't a complete list. Please note these policies also apply to [external links](https://support.google.com/youtube/answer/9054257) in your content. This can include clickable URLs, verbally directing users to other sites in video, as well as other forms. 
+This policy applies to videos, video descriptions, comments, live streams, and any other YouTube product or feature. Keep in mind that this isn't a complete list. Please note these policies also apply to [external links](https://support.google.com/youtube/answer/9054257) in your content. This can include clickable URLs, verbally directing users to other sites in video, as well as other forms.
 
 Examples
 --------
 
 Here are some examples of content that’s not allowed on YouTube.
 
-Keep in mind that this isn’t a complete list. 
+Keep in mind that this isn’t a complete list.
 
 * Facilitating access to an online gambling or sports betting site that is not approved.
 * Promising the viewer guaranteed returns via online gambling, regardless of whether the site is approved or not.
@@ -1702,10 +1700,11 @@ Keep in mind that this isn’t a complete list. 
 * A video of a user making a purchase with software that generates fake credit card numbers.
 * Including a link to an online pharmacy that does not require prescriptions.
 * Content that promotes a product that contains drugs, nicotine, or a controlled substance.
-* Displays of hard drug use: Non-educational content that shows the injection of intravenous drugs like heroin, huffing/sniffing glue, or taking tabs of acid.
+* Displays of hard drug use: Non-educational content that shows the injection of intravenous drugs like heroin, snorting powdered drugs like cocaine, or taking hallucinogens like acid.
 * Making hard drugs: Non-educational content that explains how to make drugs.
+* Displays of inhalant abuse: Non-educational content that shows the abuse of inhalants like huffing glue, whippets, or poppers.
 * Minors using alcohol or drugs: Showing minors drinking alcohol, using vaporizers, e-cigarettes, tobacco or marijuana, or misusing fireworks.
-* Steroid use: Non-educational content that shows how to use steroids for recreational purposes, like bodybuilding.
+* Steroid use: Non-educational content that shows how to use, create, or facilitate the sale of steroids for recreational purposes, like bodybuilding.
 * Selling soft drugs: Such as providing links to sites facilitating sale of marijuana or salvia.
 * Selling hard drugs: Featuring hard drugs with the goal of selling them. Some types of hard drugs include (note that this is not a complete list, and these substances may also be known under different names):
     * Amphetamine
@@ -1725,6 +1724,10 @@ Keep in mind that this isn’t a complete list. 
     * Opium
     * PCP
     * Psilocybin & Psilocybe (magic mushrooms)
+* Selling inhalants: Facilitating the sale of unregulated substances for abuse (note that this is not a complete list, and these substances may also be known under different names):
+    * Hydrocarbons
+    * Nitrites
+    * Nitrous oxide
 * Sale of certain poisonous substances. Some examples include (note that this is not a complete list, and these substances may also be known under different names):
     * Cyanide
     * Chloroform
@@ -1738,14 +1741,14 @@ Please remember these are just some examples, and don't post content if you thin
 Age-restricted content
 ----------------------
 
-Sometimes content doesn't violate our policies, but it may not be appropriate for viewers under 18. 
+Sometimes content doesn't violate our policies, but it may not be appropriate for viewers under 18.
 
-Examples of age-restricted content
+Examples of age-restricted content
 ----------------------------------
 
 * Content that promotes a cannabis dispensary.
 * Content that reviews brands of nicotine e-liquid.
-* Content that facilitates access to, promotes, or depicts online gambling, including content from approved sites.
+* Content that facilitates access to, promotes, or depicts online gambling, including content from certified sites.
 
 What happens if content violates this policy
 --------------------------------------------
