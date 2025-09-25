@@ -32,7 +32,7 @@ Spotify is home to communities where people can create, express themselves, list
 
 **Content that advocates or glorifies serious physical harm towards an individual or group** includes, but may not be limited to:
 
-* Encouraging, promoting, glorifying or providing instructions for suicide and self-harm (including disordered eating) Note: If you or someone you know is struggling or thinking about self-harm, please see [here](https://resources.byspotify.com/) for ways to get help
+* encouraging, promoting, glorifying or providing instructions for suicide and self-harm (including disordered eating) Note: if you or someone you know is struggling or thinking about self-harm, please see [here](https://resources.byspotify.com/) for ways to get help
 * Inciting, threatening or providing instructions for acts of serious physical harm or violence against a specific target or specific group
 * Promoting or encouraging minors to engage in activities that will likely result in serious harm, including dangerous challenges and substance abuse
 
