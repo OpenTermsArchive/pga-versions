@@ -1935,6 +1935,9 @@ Harmful substances & practices as prevention methods
     * Chelation therapy to treat autism
     * Colloidal silver
     * Gasoline, diesel, and kerosene
+* Content that denies the addictive or harmful properties of nicotine and tobacco. Examples:
+    * Content that claims tobacco does not cause cancer.
+    * Content that claims nicotine is not addictive.
 
 Vaccine misinformation
 
@@ -2084,6 +2087,9 @@ Harmful substances & practices as prevention methods
     * Chelation therapy to treat autism
     * Colloidal silver
     * Gasoline, diesel, and kerosene
+* Content that denies the addictive or harmful properties of nicotine and tobacco. Examples:
+    * Content that claims tobacco does not cause cancer.
+    * Content that claims nicotine is not addictive.
 
 Vaccine misinformation
 
