@@ -133,16 +133,16 @@ You may access and use the Service as made available to you, as long as you comp
 
 The following restrictions apply to your use of the Service. You are not allowed to:
 
-1. access, reproduce, download, distribute, transmit, broadcast, display, sell, license, alter, modify or otherwise use any part of the Service or any Content except: (a) as specifically permitted by the Service;  (b) with prior written permission from YouTube and, if applicable, the respective rights holders; or (c) as permitted by applicable law;
-2. circumvent, disable, fraudulently engage, or otherwise interfere with the Service (or attempt to do any of these things), including security-related features or features that: (a) prevent or restrict the copying or other use of Content; or (b) limit the use of the Service or Content;
-3. access the Service using any automated means (such as robots, botnets or scrapers) except: (a) in the case of public search engines, in accordance with YouTube’s robots.txt file; (b) with YouTube’s prior written permission; or (c) as permitted by applicable law;
-4. collect or use any information that might identify a person (for example, harvesting usernames or faces), unless permitted by that person or allowed under section 3 above;
-5. use the Service to distribute unsolicited promotional or commercial content or other unwanted or mass solicitations (spam);
-6. cause or encourage any inaccurate measurements of genuine user engagement with the Service, including by paying people or providing them with incentives to increase a video’s views, likes, or dislikes, or to increase a channel’s subscribers, or otherwise manipulate metrics;
-7. misuse any reporting, flagging, complaint, dispute, or appeals process, including by making groundless, vexatious, or frivolous submissions;
-8. run contests on or through the Service that do not comply with [YouTube’s contest policies and guidelines](https://support.google.com/youtube/answer/1620498);
-9. use the Service to view or listen to Content other than for personal, non-commercial use (for example, you may not publicly screen videos or stream music from the Service); or
-10. use the Service to: (a) sell any advertising, sponsorships, or promotions placed on, around, or within the Service or Content, other than those allowed in the [Advertising on YouTube](https://support.google.com/youtube/topic/9257894?ref_topic=2972865) policies (such as compliant product placements); or (b) sell advertising, sponsorships, or promotions on any page of any website or application that only contains Content from the Service or where Content from the Service is the primary basis for such sales (for example, selling ads on a webpage where YouTube videos are the only content of value).
+1.  access, reproduce, download, distribute, transmit, broadcast, display, sell, license, alter, modify or otherwise use any part of the Service or any Content except: (a) as specifically permitted by the Service;  (b) with prior written permission from YouTube and, if applicable, the respective rights holders; or (c) as permitted by applicable law;
+2.  circumvent, disable, fraudulently engage, or otherwise interfere with the Service (or attempt to do any of these things), including security-related features or features that: (a) prevent or restrict the copying or other use of Content; or (b) limit the use of the Service or Content;
+3.  access the Service using any automated means (such as robots, botnets or scrapers) except: (a) in the case of public search engines, in accordance with YouTube’s robots.txt file; (b) with YouTube’s prior written permission; or (c) as permitted by applicable law;
+4.  collect or use any information that might identify a person (for example, harvesting usernames or faces), unless permitted by that person or allowed under section 3 above;
+5.  use the Service to distribute unsolicited promotional or commercial content or other unwanted or mass solicitations (spam);
+6.  cause or encourage any inaccurate measurements of genuine user engagement with the Service, including by paying people or providing them with incentives to increase a video’s views, likes, or dislikes, or to increase a channel’s subscribers, or otherwise manipulate metrics;
+7.  misuse any reporting, flagging, complaint, dispute, or appeals process, including by making groundless, vexatious, or frivolous submissions;
+8.  run contests on or through the Service that do not comply with [YouTube’s contest policies and guidelines](https://support.google.com/youtube/answer/1620498);
+9.  use the Service to view or listen to Content other than for personal, non-commercial use (for example, you may not publicly screen videos or stream music from the Service); or
+10.  use the Service to: (a) sell any advertising, sponsorships, or promotions placed on, around, or within the Service or Content, other than those allowed in the [Advertising on YouTube](https://support.google.com/youtube/topic/9257894?ref_topic=2972865) policies (such as compliant product placements); or (b) sell advertising, sponsorships, or promotions on any page of any website or application that only contains Content from the Service or where Content from the Service is the primary basis for such sales (for example, selling ads on a webpage where YouTube videos are the only content of value).
 
 **Reservation**
 ---------------
@@ -154,11 +154,11 @@ Any right not expressly granted to you in this Agreement remains the right of Yo
 
 YouTube is constantly changing and improving the Service. As part of this continual evolution of our digital content and services, we may make modifications or changes (to all or part of the Service) such as adding or removing features and functionalities, offering new digital content or services or discontinuing old ones. We may also change the Service for these other reasons:
 
-* to adapt to new technologies
-* to reflect increases or decreases in the number of people who use a particular product, service or feature
-* to respond to key changes in the licences and partnerships we have with others
-* to prevent abuse or harm
-* to address legal, regulatory, safety or security issues.
+*   to adapt to new technologies
+*   to reflect increases or decreases in the number of people who use a particular product, service or feature
+*   to respond to key changes in the licences and partnerships we have with others
+*   to prevent abuse or harm
+*   to address legal, regulatory, safety or security issues.
 
 In particular, we sometimes make legally-required updates, which are modifications that keep digital content, services or goods in conformity with the law. We make these updates to our digital content and services for safety or security reasons, and to make sure they meet the quality standards that you expect, such as those described in our Legal Guarantee below.  We may automatically install updates that address significant safety or security risks. For other updates, you can choose whether you want them installed.
 
@@ -264,8 +264,8 @@ Some software used in our Service may be offered under an open source licence. T
 
 If you’re an EEA-based consumer, and you’ve agreed to our Terms of Service, then EEA consumer laws provide you with a legal guarantee covering the digital content or services that we provide you. Under this guarantee, we’re liable for any lack of conformity that you discover:
 
-* within two years of the one-time supply of digital content or services (such as purchasing a movie)
-* at any time during the “continuous” supply of digital content or services (such as a paid subscription)
+*   within two years of the one-time supply of digital content or services (such as purchasing a movie)
+*   at any time during the “continuous” supply of digital content or services (such as a paid subscription)
 
 Your national laws may provide an even longer guarantee. Your rights under these legal guarantees aren’t limited by any other commercial guarantees that we provide. If you want to make a guarantee claim, please \[[contact us](https://about.google/contact-google/)\].
 
@@ -277,7 +277,7 @@ By law, consumers have certain rights that cannot be excluded or altered by a co
 **Limitation of Liability**
 ---------------------------
 
-1. In the event of intent, gross negligence or of a breach of a contractual core duty, the fulfillment of which enables the proper implementation of this contract in the first place, and upon the fulfillment of which the other party regularly may rely ("cardinal obligation") also by its representatives and vicarious agents (_Erfüllungsgehilfen_), both You and YouTube shall be liable according to the statutory provisions. The same shall apply in the event of injury to life, body or health, in the event of damages resulting from a violation of a guarantee as to quality (_Beschaffenheitsgarantie_), in case of a procurement risk as well as in the event of defaults concealed fraudulently (_arglistig verschwiegene Mängel_). In the event of damages to property and financial damages (_Sach- und Vermögensschäden_) caused by slight negligence of either You or YouTube, its representatives or vicarious agents, and not resulting from a violation of a guarantee, a procurement risk or a breach of a cardinal obligation, liability shall be limited to the amount of the damage which was foreseeable at the time of conclusion of the contract and typical taking into account the nature of the contract (_vorhersehbarer und vertragstypischer Schaden_). Liability based on the German Product Liability Act (_Produkthaftungsgesetz_) shall remain unaffected in any case. Any further liability of either party other than set out above shall be excluded. This does not entail a change in the burden of proof to the detriment of the user of the Service.
+1.  In the event of intent, gross negligence or of a breach of a contractual core duty, the fulfillment of which enables the proper implementation of this contract in the first place, and upon the fulfillment of which the other party regularly may rely ("cardinal obligation") also by its representatives and vicarious agents (_Erfüllungsgehilfen_), both You and YouTube shall be liable according to the statutory provisions. The same shall apply in the event of injury to life, body or health, in the event of damages resulting from a violation of a guarantee as to quality (_Beschaffenheitsgarantie_), in case of a procurement risk as well as in the event of defaults concealed fraudulently (_arglistig verschwiegene Mängel_). In the event of damages to property and financial damages (_Sach- und Vermögensschäden_) caused by slight negligence of either You or YouTube, its representatives or vicarious agents, and not resulting from a violation of a guarantee, a procurement risk or a breach of a cardinal obligation, liability shall be limited to the amount of the damage which was foreseeable at the time of conclusion of the contract and typical taking into account the nature of the contract (_vorhersehbarer und vertragstypischer Schaden_). Liability based on the German Product Liability Act (_Produkthaftungsgesetz_) shall remain unaffected in any case. Any further liability of either party other than set out above shall be excluded. This does not entail a change in the burden of proof to the detriment of the user of the Service.
 
 **Third-Party Links**
 ---------------------
