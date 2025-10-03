@@ -18,23 +18,23 @@ Storage and access to cookies that may be set in connection with the Twitch Serv
 Table of Contents
 -----------------
 
-1. [Personal Information Twitch Collects About You](https://www.twitch.tv/en/legal/privacy-notice/#personal-information-twitch-collects-about-you)
-2. [How Twitch Uses Personal Information](https://www.twitch.tv/en/legal/privacy-notice/#how-twitch-uses-personal-information)
-3. [When Twitch Discloses Personal Information](https://www.twitch.tv/en/legal/privacy-notice/#when-twitch-discloses-personal-information)
-4. [Data Subject Rights and Your Choices](https://www.twitch.tv/en/legal/privacy-notice/#data-subject-rights-and-your-choices)
-5. [Account Closure and Deletion](https://www.twitch.tv/en/legal/privacy-notice/#account-closure-and--deletion)
-6. [Third-Party Websites and Services](https://www.twitch.tv/en/legal/privacy-notice/#third-party-services-and-websites)
-7. [Extensions and Applications](https://www.twitch.tv/en/legal/privacy-notice/#extensions-and-applications)
-8. [Advertisers and Analytics Providers](https://www.twitch.tv/en/legal/privacy-notice/#advertisers-and-analytics-providers)
-9. [Do Not Track](https://www.twitch.tv/en/legal/privacy-notice/#do-not-track)
-10. [Data Security](https://www.twitch.tv/en/legal/privacy-notice/#data-security)
-11. [Retention of Your Information](https://www.twitch.tv/en/legal/privacy-notice/#retention-of-your-information)
-12. [Children’s Privacy](https://www.twitch.tv/en/legal/privacy-notice/#childrens-privacy)
-13. [Merger or Sale](https://www.twitch.tv/en/legal/privacy-notice/#merger-or-sale)
-14. [International Data Transfers](https://www.twitch.tv/en/legal/privacy-notice/#international-data-transfers)
-15. [Changes and Updates to This Privacy Notice](https://www.twitch.tv/en/legal/privacy-notice/#changes-and-updates-to-this-privacy-notice)
-16. [Twitch Contact Information](https://www.twitch.tv/en/legal/privacy-notice/#twitch-contact-information)
-17. [Additional Information for Certain Jurisdictions](https://www.twitch.tv/en/legal/privacy-notice/#additional-information-for-certain-jurisdictions)
+1.  [Personal Information Twitch Collects About You](https://www.twitch.tv/en/legal/privacy-notice/#personal-information-twitch-collects-about-you)
+2.  [How Twitch Uses Personal Information](https://www.twitch.tv/en/legal/privacy-notice/#how-twitch-uses-personal-information)
+3.  [When Twitch Discloses Personal Information](https://www.twitch.tv/en/legal/privacy-notice/#when-twitch-discloses-personal-information)
+4.  [Data Subject Rights and Your Choices](https://www.twitch.tv/en/legal/privacy-notice/#data-subject-rights-and-your-choices)
+5.  [Account Closure and Deletion](https://www.twitch.tv/en/legal/privacy-notice/#account-closure-and--deletion)
+6.  [Third-Party Websites and Services](https://www.twitch.tv/en/legal/privacy-notice/#third-party-services-and-websites)
+7.  [Extensions and Applications](https://www.twitch.tv/en/legal/privacy-notice/#extensions-and-applications)
+8.  [Advertisers and Analytics Providers](https://www.twitch.tv/en/legal/privacy-notice/#advertisers-and-analytics-providers)
+9.  [Do Not Track](https://www.twitch.tv/en/legal/privacy-notice/#do-not-track)
+10.  [Data Security](https://www.twitch.tv/en/legal/privacy-notice/#data-security)
+11.  [Retention of Your Information](https://www.twitch.tv/en/legal/privacy-notice/#retention-of-your-information)
+12.  [Children’s Privacy](https://www.twitch.tv/en/legal/privacy-notice/#childrens-privacy)
+13.  [Merger or Sale](https://www.twitch.tv/en/legal/privacy-notice/#merger-or-sale)
+14.  [International Data Transfers](https://www.twitch.tv/en/legal/privacy-notice/#international-data-transfers)
+15.  [Changes and Updates to This Privacy Notice](https://www.twitch.tv/en/legal/privacy-notice/#changes-and-updates-to-this-privacy-notice)
+16.  [Twitch Contact Information](https://www.twitch.tv/en/legal/privacy-notice/#twitch-contact-information)
+17.  [Additional Information for Certain Jurisdictions](https://www.twitch.tv/en/legal/privacy-notice/#additional-information-for-certain-jurisdictions)
 
 Personal Information Twitch Collects About You
 ----------------------------------------------
@@ -88,13 +88,13 @@ For other requests to review, update, delete, or otherwise limit Twitch’s use 
 
 We will comply with valid requests to exercise your data subject rights in accordance with the applicable laws in your region. Please note that in some circumstances, we may need to keep processing your information for certain legitimate interests or to comply with a legal obligation. If these rights apply to you, they may permit you to request that we:
 
-* Obtain access to or a copy of certain personal information we hold about you.
-* Prevent the processing of your personal information for direct marketing purposes (including any direct marketing processing based on profiling).
-* Update personal information that is out of date or incorrect.
-* Delete certain personal information we hold about you.
-* Restrict the way that we process and disclose specific personal information about you.
-* Transfer your personal information to a third-party provider of services.
-* Revoke consent that you previously provided for the processing of your personal information.
+*   Obtain access to or a copy of certain personal information we hold about you.
+*   Prevent the processing of your personal information for direct marketing purposes (including any direct marketing processing based on profiling).
+*   Update personal information that is out of date or incorrect.
+*   Delete certain personal information we hold about you.
+*   Restrict the way that we process and disclose specific personal information about you.
+*   Transfer your personal information to a third-party provider of services.
+*   Revoke consent that you previously provided for the processing of your personal information.
 
 For more information on how to exercise these rights, click [here](https://legal.twitch.com/legal/privacy-choices/). If applicable, you may make a complaint to the data protection supervisory authority in the country where you are based. Alternatively, you may seek a remedy through local courts if you believe your rights have been breached.
 
