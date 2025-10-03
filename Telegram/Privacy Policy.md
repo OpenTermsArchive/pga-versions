@@ -11,8 +11,8 @@ Diese Datenschutzerklärung beschreibt, wie wir, Telegram Messenger Inc. **(“T
 
 Telegram hat zwei grundlegende Prinzipien, wenn es um die Erhebung und Verarbeitung personenbezogener Daten von Nutzern geht:
 
-* Wir verwenden deine Daten nicht, um dir Werbeanzeigen anzuzeigen.
-* Wir speichern nur die Daten, die Telegram benötigt, um ein sicherer und funktionsreicher Messaging-Dienst zu sein und diesen Dienst unseren Nutzern zur Verfügung zu stellen.
+*   Wir verwenden deine Daten nicht, um dir Werbeanzeigen anzuzeigen.
+*   Wir speichern nur die Daten, die Telegram benötigt, um ein sicherer und funktionsreicher Messaging-Dienst zu sein und diesen Dienst unseren Nutzern zur Verfügung zu stellen.
 
 #### [](#1-2-nutzungsbedingungen)1.2. Nutzungsbedingungen
 
@@ -22,19 +22,19 @@ Diese Datenschutzerklärung ist Teil unserer Nutzungsbedingungen, die die Beding
 
 In dieser Datenschutzerklärung wird Folgendes erläutert:
 
-* [die Rechtsgrundlage für die Verarbeitung deiner personenbezogenen Daten;](#2-rechtsgrundlage-fur-die-verarbeitung-personenbezogener-daten)
-* [welche personenbezogenen Daten wir von dir erheben können;](#3-welche-personenbezogenen-daten-wir-verarbeiten)
-* [wie wir deine persönlichen Daten schützen;](#4-schutz-personenbezogener-daten)
-* [für welche Zwecke wir deine personenbezogenen Daten verarbeiten;](#5-verarbeitung-von-personenbezogenen-daten)
-* [mit wem wir deine personenbezogenen Daten teilen dürfen](#8-mit-wem-deine-personenbezogenen-daten-geteilt-werden-konnen) und
-* [deine Rechte bezüglich deiner personenbezogenen Daten.](#9-deine-rechte-in-bezug-auf-die-personenbezogenen-daten-die-wir)
+*   [die Rechtsgrundlage für die Verarbeitung deiner personenbezogenen Daten;](#2-rechtsgrundlage-fur-die-verarbeitung-personenbezogener-daten)
+*   [welche personenbezogenen Daten wir von dir erheben können;](#3-welche-personenbezogenen-daten-wir-verarbeiten)
+*   [wie wir deine persönlichen Daten schützen;](#4-schutz-personenbezogener-daten)
+*   [für welche Zwecke wir deine personenbezogenen Daten verarbeiten;](#5-verarbeitung-von-personenbezogenen-daten)
+*   [mit wem wir deine personenbezogenen Daten teilen dürfen](#8-mit-wem-deine-personenbezogenen-daten-geteilt-werden-konnen) und
+*   [deine Rechte bezüglich deiner personenbezogenen Daten.](#9-deine-rechte-in-bezug-auf-die-personenbezogenen-daten-die-wir)
 
 #### [](#1-4-ewr-vertreter)1.4. EWR-Vertreter
 
 Wenn du dich in einem Land des [Europäischen Wirtschaftsraums](https://de.wikipedia.org/wiki/Europ%C3%A4ischer_Wirtschaftsraum) (EWR) aufhältst, werden die Dienste von Telegram bereitgestellt, die der Verantwortliche im Sinne der geltenden Datenschutzgesetze für die Verarbeitung der personenbezogenen Daten ist. Da Telegram (mit eingetragenem Sitz in Commerce House, Wickhams Cay 1, PO Box 3140, Road Town, Tortola, VG1110, Britische Jungferninseln) außerhalb des EWR ansässig ist, haben wir das European Data Protection Office (EDPO), eine von Telegram unabhängige Gesellschaft, als [Vertreter](https://www.smartcertificate.com/SmartDiploma/?1%7cdcdb4dc8-0301-4ca5-8f78-a7e5e7bcb2c8%7c5401030e-5597-4d89-b771-a57460e2ecc3#/) nach Artikel 27 DSGVO benannt. An EDPO können alle Fragen und die Geltendmachung deiner Rechte gesendet werden, die du im Zusammenhang mit unserer Verarbeitung deiner personenbezogenen Daten hast, indem du diese
 
-* per [Online-Anfrageformular](https://edpo.com/telegram-gdpr-data-request/) des EDPO stellst, oder
-* schriftlich an die Anschrift des EDPO, Avenue Huart Hamoir 71, 1030 Brüssel, Belgien, sendest.
+*   per [Online-Anfrageformular](https://edpo.com/telegram-gdpr-data-request/) des EDPO stellst, oder
+*   schriftlich an die Anschrift des EDPO, Avenue Huart Hamoir 71, 1030 Brüssel, Belgien, sendest.
 
 ### [](#2-rechtsgrundlage-fur-die-verarbeitung-personenbezogener-daten)2\. Rechtsgrundlage für die Verarbeitung personenbezogener Daten
 
@@ -154,11 +154,11 @@ Telegram verfügt über eine API, der es Drittentwicklern ermöglicht, Bots zu e
 
 Du kannst Daten an Bot-Entwickler senden, wenn du mit ihren Bots auf eine der folgenden Arten interagierst:
 
-* Durch das Senden von Nachrichten an einen Bot.
-* Mit einem [Inline-Bot](https://telegram.org/blog/inline-bots).
-* Durch die Teilnahme an einer Gruppe mit einem Bot.
-* Durch Drücken von Tasten in Nachrichten, die von einem Bot gesendet werden.
-* Durch Bezahlung von Waren und Dienstleistungen über Bots (siehe [Abschnitt 7](#7-zahlungsdienste-dritter) unten).
+*   Durch das Senden von Nachrichten an einen Bot.
+*   Mit einem [Inline-Bot](https://telegram.org/blog/inline-bots).
+*   Durch die Teilnahme an einer Gruppe mit einem Bot.
+*   Durch Drücken von Tasten in Nachrichten, die von einem Bot gesendet werden.
+*   Durch Bezahlung von Waren und Dienstleistungen über Bots (siehe [Abschnitt 7](#7-zahlungsdienste-dritter) unten).
 
 #### [](#6-3-welche-personenbezogenen-daten-an-bots-ubermittelt-werden)6.3. Welche personenbezogenen Daten an Bots übermittelt werden
 
@@ -166,11 +166,11 @@ In jedem der oben genannten Fälle können die Entwickler eines automatisierten 
 
 Bots können auch die folgenden Daten erhalten, wenn du mit ihnen interagierst.
 
-* Bots erhalten offensichtlich deine Nachricht, wenn du ihnen eine Nachricht sendest.
-* Wenn du auf die vom Bot bereitgestellten Links oder Tasten klickst, kann der Bot möglicherweise deine IP-Adresse abrufen (vorausgesetzt, dass er die Website steuert, zu der der Link führt).
-* Wenn du und der Bot die Mitglieder derselben Gruppe sind, kann der Bot wissen, dass du ein Mitglied bist.
-* Wenn du deine Nachricht mit dem Benutzernamen eines [Inline-Bot](https://telegram.org/blog/inline-bots) (z. B. [@gif](https://t.me/gif)) beginnst, wandelt sich die Schnittstelle so um, dass alles, was du eingibst, zu einer Anfrage an diesen Bot wird. Diese Anfrage wird an den Bot gesendet, damit er seinen Dienst bereitstellen kann. Wir werden dich darauf aufmerksam machen, wenn du zum ersten Mal einen Inline-Bot verwendest.
-* Bots, die zu Gruppen hinzugefügt werden, können in zwei Modi arbeiten: mit Zugriff auf Nachrichten in der Gruppe oder [ohne Zugriff](https://core.telegram.org/bots#privacy-mode). Wenn der Bot Zugriff auf Nachrichten hat, kann er alles sehen, was in der Gruppe passiert. Die Schnittstelle zeigt eindeutig an, ob ein Bot Zugriff auf Nachrichten in Gruppen hat oder nicht.
+*   Bots erhalten offensichtlich deine Nachricht, wenn du ihnen eine Nachricht sendest.
+*   Wenn du auf die vom Bot bereitgestellten Links oder Tasten klickst, kann der Bot möglicherweise deine IP-Adresse abrufen (vorausgesetzt, dass er die Website steuert, zu der der Link führt).
+*   Wenn du und der Bot die Mitglieder derselben Gruppe sind, kann der Bot wissen, dass du ein Mitglied bist.
+*   Wenn du deine Nachricht mit dem Benutzernamen eines [Inline-Bot](https://telegram.org/blog/inline-bots) (z. B. [@gif](https://t.me/gif)) beginnst, wandelt sich die Schnittstelle so um, dass alles, was du eingibst, zu einer Anfrage an diesen Bot wird. Diese Anfrage wird an den Bot gesendet, damit er seinen Dienst bereitstellen kann. Wir werden dich darauf aufmerksam machen, wenn du zum ersten Mal einen Inline-Bot verwendest.
+*   Bots, die zu Gruppen hinzugefügt werden, können in zwei Modi arbeiten: mit Zugriff auf Nachrichten in der Gruppe oder [ohne Zugriff](https://core.telegram.org/bots#privacy-mode). Wenn der Bot Zugriff auf Nachrichten hat, kann er alles sehen, was in der Gruppe passiert. Die Schnittstelle zeigt eindeutig an, ob ein Bot Zugriff auf Nachrichten in Gruppen hat oder nicht.
 
 #### [](#6-4-bots-werden-nicht-von-telegram-verwaltet)6.4. Bots werden nicht von Telegram verwaltet
 
@@ -264,10 +264,10 @@ Wenn du dein Konto löschen möchtest, kannst du dies auf der [Deaktivierungssei
 
 #### [](#10-2-nachrichten)10.2. Nachrichten
 
-* In Geheimen Chats weist das Löschen einer Nachricht die App am anderen Ende immer an, sie ebenfalls zu löschen.
-* In Cloud Chats kannst du eine Nachricht für alle Teilnehmer innerhalb von mindestens 48 Stunden nach dem Senden löschen. Andernfalls wird eine gelöschte Nachricht auch aus dem Nachrichtenverlauf gelöscht. Das bedeutet, dass eine Kopie im Nachrichtenverlauf deines Kommunikationspartners auf dem Server verbleiben wird. Sobald dein Kommunikationspartner sie ebenfalls löscht, ist sie für immer verschwunden.
-* Ab Version [5.5](https://telegram.org/blog/unsend-privacy-emoji) kann jeder Teilnehmer alle gesendeten und empfangenen Nachrichten in Einzelchats für beide Seiten löschen. Es gibt keine zeitliche Begrenzung. Jede Partei kann sich auch dafür entscheiden, den gesamten Chat-Verlauf für beide Parteien zu löschen. In diesem Fall werden die Apps angewiesen, alle Nachrichten in diesem Chat zu entfernen, unabhängig davon, wie viele Nachrichten von jedem der Teilnehmer gespeichert wurden.
-* In [Supergruppen](https://telegram.org/blog/supergroups) und Kanälen entfernt das Löschen einer Nachricht diese für alle Teilnehmer. Beachte, dass gelöschte Nachrichten und Originalversionen bearbeiteter Nachrichten aus Supergruppen nach dem Löschen 48 Stunden lang gespeichert werden, um im [Adminprotokoll](https://telegram.org/blog/admin-revolution#recent-admin-actions) angezeigt zu werden.
+*   In Geheimen Chats weist das Löschen einer Nachricht die App am anderen Ende immer an, sie ebenfalls zu löschen.
+*   In Cloud Chats kannst du eine Nachricht für alle Teilnehmer innerhalb von mindestens 48 Stunden nach dem Senden löschen. Andernfalls wird eine gelöschte Nachricht auch aus dem Nachrichtenverlauf gelöscht. Das bedeutet, dass eine Kopie im Nachrichtenverlauf deines Kommunikationspartners auf dem Server verbleiben wird. Sobald dein Kommunikationspartner sie ebenfalls löscht, ist sie für immer verschwunden.
+*   Ab Version [5.5](https://telegram.org/blog/unsend-privacy-emoji) kann jeder Teilnehmer alle gesendeten und empfangenen Nachrichten in Einzelchats für beide Seiten löschen. Es gibt keine zeitliche Begrenzung. Jede Partei kann sich auch dafür entscheiden, den gesamten Chat-Verlauf für beide Parteien zu löschen. In diesem Fall werden die Apps angewiesen, alle Nachrichten in diesem Chat zu entfernen, unabhängig davon, wie viele Nachrichten von jedem der Teilnehmer gespeichert wurden.
+*   In [Supergruppen](https://telegram.org/blog/supergroups) und Kanälen entfernt das Löschen einer Nachricht diese für alle Teilnehmer. Beachte, dass gelöschte Nachrichten und Originalversionen bearbeiteter Nachrichten aus Supergruppen nach dem Löschen 48 Stunden lang gespeichert werden, um im [Adminprotokoll](https://telegram.org/blog/admin-revolution#recent-admin-actions) angezeigt zu werden.
 
 #### [](#10-3-selbstzerstorende-nachrichten)10.3. Selbstzerstörende Nachrichten
 
@@ -283,47 +283,47 @@ Wir werden diese Datenschutzerklärung von gelegentlich überprüfen und gegeben
 
 **25\. März 2019**
 
-* [10.2](#10-2-nachrichten) erweitert. Löschen von Nachrichten mit Daten zu den neuen Funktionen in [Version 5.5](https://telegram.org/blog/unsend-privacy-emoji), die es beiden Teilnehmern ermöglichen, Nachrichten aus Einzelchats für beide Seiten ohne Zeitlimit zu entfernen.
+*   [10.2](#10-2-nachrichten) erweitert. Löschen von Nachrichten mit Daten zu den neuen Funktionen in [Version 5.5](https://telegram.org/blog/unsend-privacy-emoji), die es beiden Teilnehmern ermöglichen, Nachrichten aus Einzelchats für beide Seiten ohne Zeitlimit zu entfernen.
 
 **24\. März 2021**
 
-* [3.5](#3-5-standortdaten). Standortdaten hinzugefügt.
-* Verbesserte Struktur, Verschiebung von 3.3.5 auf 3.4 und 3.3.6 auf 3.6.
+*   [3.5](#3-5-standortdaten). Standortdaten hinzugefügt.
+*   Verbesserte Struktur, Verschiebung von 3.3.5 auf 3.4 und 3.3.6 auf 3.6.
 
 **26\. Oktober 2021**
 
-* [5.6](#5-6-keine-werbung-aufgrund-von-nutzerdaten) erweitert. Keine Werbung aufgrund von Nutzerdaten mit Informationen zu gesponserten Nachrichten in öffentlichen Kanälen.
+*   [5.6](#5-6-keine-werbung-aufgrund-von-nutzerdaten) erweitert. Keine Werbung aufgrund von Nutzerdaten mit Informationen zu gesponserten Nachrichten in öffentlichen Kanälen.
 
 **19\. Juni 2022**
 
-* [8.4](#8-4-ubersetzung-von-nachrichten-auf-wunsch-des-nutzers). Übersetzung von Nachrichten auf Wunsch des Nutzers
-* [8.5](#8-5-transkription-von-sprachnachrichten-auf-wunsch-des-nutzers). Transkription von Sprachnachrichten auf Anforderung des Nutzers hinzugefügt.
+*   [8.4](#8-4-ubersetzung-von-nachrichten-auf-wunsch-des-nutzers). Übersetzung von Nachrichten auf Wunsch des Nutzers
+*   [8.5](#8-5-transkription-von-sprachnachrichten-auf-wunsch-des-nutzers). Transkription von Sprachnachrichten auf Anforderung des Nutzers hinzugefügt.
 
 **8\. September 2022**
 
-* [3.2. Deine Email-Adresse](https://telegram.org/privacy/de?#3-2-deine-e-mail-adresse) mit Informationen zu Anmelde-E-Mails, die ab Telegram 9.0 verfügbar sind, ergänzt.
+*   [3.2. Deine Email-Adresse](https://telegram.org/privacy/de?#3-2-deine-e-mail-adresse) mit Informationen zu Anmelde-E-Mails, die ab Telegram 9.0 verfügbar sind, ergänzt.
 
 **3\. Februar 2022**
 
-* [8.4](#8-4-ubersetzung-von-nachrichten-auf-wunsch-des-nutzers) und [8.5](#8-5-transkription-von-sprachnachrichten-auf-wunsch-des-nutzers) aktualisiert, um zu zeigen, dass die neue Premium-Funktion komplette Chats übersetzen kann.
+*   [8.4](#8-4-ubersetzung-von-nachrichten-auf-wunsch-des-nutzers) und [8.5](#8-5-transkription-von-sprachnachrichten-auf-wunsch-des-nutzers) aktualisiert, um zu zeigen, dass die neue Premium-Funktion komplette Chats übersetzen kann.
 
 **24\. April 2023**
 
-* [1.4](#1-4-ewr-vertreter), [9.2](#9-2-ausubung-deiner-rechte) und [12](#12-weitere-informationen) mit Angaben von Telegrams EWR-Vertreter für DSGVO (GDPR) ergänzt.
-* [8.2](#8-2-telegrams-konzerngesellschaften) erwähnt nun Telegraph Inc., ein Mitglied der Telegram-Gruppe.
+*   [1.4](#1-4-ewr-vertreter), [9.2](#9-2-ausubung-deiner-rechte) und [12](#12-weitere-informationen) mit Angaben von Telegrams EWR-Vertreter für DSGVO (GDPR) ergänzt.
+*   [8.2](#8-2-telegrams-konzerngesellschaften) erwähnt nun Telegraph Inc., ein Mitglied der Telegram-Gruppe.
 
 **31\. März 2024**
 
-* [3.1.1. Optionale Daten](#3-1-1-optionale-daten).
-* Infos über [Telegram Buisness Chatbots](https://telegram.org/blog/telegram-business/de#chatbots-fur-unternehmen) den [Botnachrichten](#6-bot-nachrichten) Abschnitt (6.2, 6.3, 6.5) hinzugefügt.
+*   [3.1.1. Optionale Daten](#3-1-1-optionale-daten).
+*   Infos über [Telegram Buisness Chatbots](https://telegram.org/blog/telegram-business/de#chatbots-fur-unternehmen) den [Botnachrichten](#6-bot-nachrichten) Abschnitt (6.2, 6.3, 6.5) hinzugefügt.
 
 **23\. September 2024**
 
-* [8.3](#8-3-strafverfolgungsbehorden) aktualisiert, siehe [diesen Beitrag](https://t.me/durov/345) mit allen Details.
+*   [8.3](#8-3-strafverfolgungsbehorden) aktualisiert, siehe [diesen Beitrag](https://t.me/durov/345) mit allen Details.
 
 **September 29, 2024**
 
-* [10.4](#10-4-selbstloschung-des-kontos) aktualisiert, um den neuen Standardzeitraum für die Selbstzerstörung von Konten anzuzeigen.
+*   [10.4](#10-4-selbstloschung-des-kontos) aktualisiert, um den neuen Standardzeitraum für die Selbstzerstörung von Konten anzuzeigen.
 
 Wesentliche Änderungen an dieser Datenschutzerklärung werden über Telegram mitgeteilt.
 
@@ -335,8 +335,8 @@ Falls du in der EU lebst und eine DSGVO-bezogene Anfrage stellen möchtest, scha
 
 Telegram ist ein Open-Source-Projekt. Weitere Informationen findest du über folgende Links:
 
-* API: [](https://core.telegram.org/api)[https://core.telegram.org/api](https://core.telegram.org/api)
-* Bot-Plattform: [](https://core.telegram.org/bots)[https://core.telegram.org/bots](https://core.telegram.org/bots)
-* Protokoll: [](https://core.telegram.org/mtproto)[https://core.telegram.org/mtproto](https://core.telegram.org/mtproto)
-* Quelltext: [](https://telegram.org/apps#source-code)[https://telegram.org/apps#source-code](https://telegram.org/apps#source-code)
-* Verifiziere, dass die Telegram Apps aus den App-Stores den gleichen Quelltext verwenden, den wir unter [](https://core.telegram.org/reproducible-builds)[https://core.telegram.org/reproducible-builds](https://core.telegram.org/reproducible-builds) veröffentlichen.
+*   API: [](https://core.telegram.org/api)[https://core.telegram.org/api](https://core.telegram.org/api)
+*   Bot-Plattform: [](https://core.telegram.org/bots)[https://core.telegram.org/bots](https://core.telegram.org/bots)
+*   Protokoll: [](https://core.telegram.org/mtproto)[https://core.telegram.org/mtproto](https://core.telegram.org/mtproto)
+*   Quelltext: [](https://telegram.org/apps#source-code)[https://telegram.org/apps#source-code](https://telegram.org/apps#source-code)
+*   Verifiziere, dass die Telegram Apps aus den App-Stores den gleichen Quelltext verwenden, den wir unter [](https://core.telegram.org/reproducible-builds)[https://core.telegram.org/reproducible-builds](https://core.telegram.org/reproducible-builds) veröffentlichen.
