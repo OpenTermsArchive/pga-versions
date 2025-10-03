@@ -3,19 +3,19 @@ We want LinkedIn to reflect the best version of professional life
 
 This is a community where we treat each other with respect and help each other succeed.
 
-* ### Be safe
+*   ### Be safe
     
     Only bring safe conversations to LinkedIn.
     
     [**Learn more**](#be-safe-policy)
     
-* ### Be trustworthy
+*   ### Be trustworthy
     
     Use your true identity and share information that is real and authentic.
     
     [**Learn more**](#be-trustworthy-policy)
     
-* ### Be professional
+*   ### Be professional
     
     We allow broad conversations about the world of work, but just keep it professional.
     
@@ -27,20 +27,20 @@ LinkedIn Professional Community Policies
 
 Thank you for using LinkedIn, where the world’s professionals come together to find jobs, stay informed, learn new skills, and build productive relationships. The content that you contribute should add to the LinkedIn community in a constructive manner. Additional information on what that means, is laid out below. You should also review our [Publishing Platform Guidelines](https://www.linkedin.com/help/linkedin/answer/47545). Together we can make our community a place where everyone is able to learn, grow, and communicate, which, in turn, helps create economic opportunity for everyone.
 
-* ### Tell us if you see abusive content
+*   ### Tell us if you see abusive content
     
     If you see something you believe may violate our policies, whether in profiles, posts, messages, comments, or anywhere else, please [report it to us](https://www.linkedin.com/help/linkedin/answer/146). Combined with our automated defenses, these reports help us identify and prevent abuse. Users can report content by clicking on the three dots icon in the upper right-hand corner of the content itself on LinkedIn. Please use the reporting tools responsibly and only for their intended purposes. To learn more about how to report inappropriate content, behavior, or members, visit our [Transparency Center](https://about.linkedin.com/transparency).
     
     In addition to LinkedIn's trained content reviewers, we use automated systems to identify potentially violative content. Violating content can be removed from LinkedIn. Learn more about our approach to content moderation, including our automated systems, [here](https://www.linkedin.com/help/linkedin/answer/a1441504).
     
-* ### Violating our community policies can result in action against your account or content
+*   ### Violating our community policies can result in action against your account or content
     
     These policies apply to all members. Depending on the severity of violation, we may limit the visibility of certain content, label it, or remove it entirely. Repeated or egregious offenses will result in account restriction. If you believe action taken on your content or your account was in error, you can submit an [appeal](https://www.linkedin.com/help/linkedin/answer/a1441505).
     
     Learn more about how [we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368)**.**
     
 
-* Be safe
+*   Be safe
     -------
     
     Only bring safe conversations to LinkedIn.
@@ -63,7 +63,7 @@ Thank you for using LinkedIn, where the world’s professionals come together to
     
     Learn more about our [dangerous organizations and individuals policy](https://www.linkedin.com/help/linkedin/answer/137375)**.**
     
-* Be Trustworthy
+*   Be Trustworthy
     --------------
     
     We require you to use your true identity on LinkedIn, provide accurate information about yourself or your organization, and only share information that is real and authentic.
@@ -78,7 +78,7 @@ Thank you for using LinkedIn, where the world’s professionals come together to
     
     Learn more about our [scams and fraud content policies](https://www.linkedin.com/help/linkedin/answer/137377)**.**
     
-* Be professional
+*   Be professional
     ---------------
     
     LinkedIn's mission is to connect the world's professionals to make them more productive and successful. We allow broad conversations about the world of work, but require professional expression. To maintain a professional platform, members should treat each other with respect and civility. Do not interact with others or share content in a way that's uncivil, inappropriate, or disrespectful.
@@ -99,6 +99,8 @@ Thank you for using LinkedIn, where the world’s professionals come together to
     
     Learn more about our [spam content policies](https://www.linkedin.com/help/linkedin/answer/137372).
 
+- - -
+
 Harassment and abusive content
 ------------------------------
 
@@ -108,14 +110,14 @@ We remove content that personally attacks, intimidates, shames, bullies, dispara
 
 Examples of harassment or abusive content
 
-* Directing abusive language, including negative profanity, at other members
-* Insulting another member’s intelligence or mental capacity (e.g., calling other members “stupid,” “idiot,” “moron,” or “dumb”)
-* Disparaging another member’s appearance, including perceived gender, physical attractiveness, weight, height, or other bodily attributes
-* Wishing death or suffering upon other members or their families
-* “Doxxing” or sharing personal information about others
-* Trolling, pestering, and otherwise repetitive or disruptive behavior that undermines constructive conversations between members
-* Comparing people or groups to Nazis, hate or extremist groups, or sexual predators
-* Calling for social or political exclusion, deportation, or banishment of any individual or group because of their political (or other non-inherent) beliefs or affiliation  
+*   Directing abusive language, including negative profanity, at other members
+*   Insulting another member’s intelligence or mental capacity (e.g., calling other members “stupid,” “idiot,” “moron,” or “dumb”)
+*   Disparaging another member’s appearance, including perceived gender, physical attractiveness, weight, height, or other bodily attributes
+*   Wishing death or suffering upon other members or their families
+*   “Doxxing” or sharing personal information about others
+*   Trolling, pestering, and otherwise repetitive or disruptive behavior that undermines constructive conversations between members
+*   Comparing people or groups to Nazis, hate or extremist groups, or sexual predators
+*   Calling for social or political exclusion, deportation, or banishment of any individual or group because of their political (or other non-inherent) beliefs or affiliation  
     
 
 We do allow for disagreements, commentary or criticism on policies and matters of public interest or organizations as long as they do not insult or vilify. Members may express heightened negative criticism and disapproval towards public figures, such as politicians, celebrities, prominent business leaders, or other individuals voluntarily in the public eye.
@@ -124,6 +126,8 @@ We also allow members to call out the harassing, hateful, or otherwise abusive c
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
 
+- - -
+
 Violent and graphic content
 ---------------------------
 
@@ -131,20 +135,20 @@ We remove depictions of extreme violence, along with image or video content that
 
 Examples of violent and graphic content
 
-* Depictions of mutilated and/or deceased persons or body parts (including scenes of crimes or accidents)
+*   Depictions of mutilated and/or deceased persons or body parts (including scenes of crimes or accidents)
     
-* Blood, gore, and human or animal fluids or waste
+*   Blood, gore, and human or animal fluids or waste
     
-* Depictions of animal cruelty
+*   Depictions of animal cruelty
     
-* Realistic depictions of severe physical violence against a human being, including:
+*   Realistic depictions of severe physical violence against a human being, including:
     
-    * Murder or attempted murder
-    * Rape
-    * Torture
-    * Beatings
-    * Mass shootings
-    * Extreme brutality
+    *   Murder or attempted murder
+    *   Rape
+    *   Torture
+    *   Beatings
+    *   Mass shootings
+    *   Extreme brutality
     
 
 Conversations on LinkedIn are often reflective of the world around us; which means that at any given time, our global member base may be impacted by military conflict, state actor violence, natural disasters, or catastrophic incidents. In cases where violent or graphic content is shared in connection with a newsworthy event, we may label such content instead of removing it from LinkedIn.
@@ -152,6 +156,8 @@ Conversations on LinkedIn are often reflective of the world around us; which mea
 We also recognize that graphic content or content that may otherwise be sensitive for some members, may be shared to raise awareness or condemn. We won’t penalize members for posting content in these circumstances, but we may take steps to limit its distribution to protect other members who may not wish to see it.
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
+
+- - -
 
 Nudity and adult content
 ------------------------
@@ -160,16 +166,18 @@ We remove content containing nudity or sexual activity.
 
 Examples of nudity and adult content
 
-* Sexually gratifying content, including pornography, simulated sex acts, erotic literature, and other graphic depictions of sex acts performed alone or with others
+*   Sexually gratifying content, including pornography, simulated sex acts, erotic literature, and other graphic depictions of sex acts performed alone or with others
     
-* Implied sex acts are activities that indicated by inference, association, or consequence rather than by direct depiction
+*   Implied sex acts are activities that indicated by inference, association, or consequence rather than by direct depiction
     
-* Full adult nudity or exposure of intimate body parts, including visible genitalia, buttocks, and breasts (excluding breastfeeding)
+*   Full adult nudity or exposure of intimate body parts, including visible genitalia, buttocks, and breasts (excluding breastfeeding)
     
 
 Do not share material depicting nudity or sexual activity. We don’t allow content that depicts exposed human genitalia, female breasts, and/or human buttocks. We also don’t allow content that depicts, describes, or facilitates access to sexually gratifying material. Content that depicts sexual activity is prohibited. Instances of Adult nudity that align with topics relevant to professional conversations on LinkedIn may be allowed when not gratuitous.
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
+
+- - -
 
 Illegal, dangerous, and inappropriate commercial activity
 ---------------------------------------------------------
@@ -178,27 +186,29 @@ We don’t allow individuals or entities to engage in inappropriate or unsafe co
 
 Examples of illegal, dangerous, and inappropriate commercial content
 
-* Providing direct-to-purchase links and/or private contact information to facilitate the sale of illegal or dangerous goods or services such as
+*   Providing direct-to-purchase links and/or private contact information to facilitate the sale of illegal or dangerous goods or services such as
     
-    * Weapons and firearms
-    * Recreational drugs and paraphernalia
-    * Prescription drugs and pharmaceuticals, subject to our [Advertising policies](https://www.linkedin.com/legal/ads-policy)
-    * Alcohol and tobacco products
-    * Human body parts, organs, and fluids
-    * Live animals, livestock, or animal parts
-    * Gambling sites and services
-    * Counterfeit items
-    * Pirated software and media
-    * Fabricated official documents, scraped member data, and/or financial instruments
+    *   Weapons and firearms
+    *   Recreational drugs and paraphernalia
+    *   Prescription drugs and pharmaceuticals, subject to our [Advertising policies](https://www.linkedin.com/legal/ads-policy)
+    *   Alcohol and tobacco products
+    *   Human body parts, organs, and fluids
+    *   Live animals, livestock, or animal parts
+    *   Gambling sites and services
+    *   Counterfeit items
+    *   Pirated software and media
+    *   Fabricated official documents, scraped member data, and/or financial instruments
     
-* Any content that promotes or facilitates human trafficking, exploitation, or criminal sex acts, including escort, prostitution, or mail-order bride services
+*   Any content that promotes or facilitates human trafficking, exploitation, or criminal sex acts, including escort, prostitution, or mail-order bride services
     
-* Monetization and/or exploitation of a sensitive global event, such as famine, natural disaster, pandemic, or economic collapse
+*   Monetization and/or exploitation of a sensitive global event, such as famine, natural disaster, pandemic, or economic collapse
     
-* Sweepstakes, giveaways, lotteries, and contests
+*   Sweepstakes, giveaways, lotteries, and contests
     
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
+
+- - -
 
 Dangerous organizations and individuals
 ---------------------------------------
@@ -207,21 +217,23 @@ We do not allow organizations or individuals that espouse violence on LinkedIn, 
 
 Examples of dangerous organizations and individuals content types
 
-* Content that visually depicts acts or terrorism or that promotes or propagandizes terrorist groups, individuals, or activities
+*   Content that visually depicts acts or terrorism or that promotes or propagandizes terrorist groups, individuals, or activities
     
-* Glorification or incitement of dangerous organizations and individuals, acts of terror or violent extremism
+*   Glorification or incitement of dangerous organizations and individuals, acts of terror or violent extremism
     
-* Recruitment for terrorist groups or other organizations that espouse violence
+*   Recruitment for terrorist groups or other organizations that espouse violence
     
-* Profiles or pages created and maintained by or in support of terrorist organizations or terrorist individuals, including:
+*   Profiles or pages created and maintained by or in support of terrorist organizations or terrorist individuals, including:
     
-    * Any non-state group that (1) identifies through its stated purpose, publications, or actions as an extremist group, (2) engages or has engaged in violence and / or the promotion of violence to further its cause, and (3) targets civilians (non-military)
-    * Any individual that appears in the U.S. Federal Bureau of Investigation’s [Domestic Terrorism or Most Wanted Terrorists Lists](https://www.fbi.gov/wanted/terrorism) or is a Specially Designated Global Terrorist (SDGT) by the United States Department of State or the US Department of the Treasury
+    *   Any non-state group that (1) identifies through its stated purpose, publications, or actions as an extremist group, (2) engages or has engaged in violence and / or the promotion of violence to further its cause, and (3) targets civilians (non-military)
+    *   Any individual that appears in the U.S. Federal Bureau of Investigation’s [Domestic Terrorism or Most Wanted Terrorists Lists](https://www.fbi.gov/wanted/terrorism) or is a Specially Designated Global Terrorist (SDGT) by the United States Department of State or the US Department of the Treasury
     
 
 Depictions of terrorist or violent extremist acts can sometimes raise awareness or condemn and there are instances when the context indicates that it was shared for one or both of those purposes. We won’t penalize members for posting content in these circumstances, but we may take steps to label and obscure such content to protect other members who may not wish to see it.
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
+
+- - -
 
 False or misleading content
 ---------------------------
@@ -230,41 +242,43 @@ It is a violation of [LinkedIn’s Professional Community Policies](https://www.
 
 Examples of false or misleading content that is removed under this policy
 
-* False or substantially misleading content about the following in the context of an upcoming or recently-concluded election: time, location, means, or eligibility requirements for voting
+*   False or substantially misleading content about the following in the context of an upcoming or recently-concluded election: time, location, means, or eligibility requirements for voting
     
-* Claims that may induce panic or discourage others from taking safety precautions during an emergency, such as unfounded claims of threats, violence, or danger that could cause harm (e.g. looters are prevalent in an area subject to forest fires)
+*   Claims that may induce panic or discourage others from taking safety precautions during an emergency, such as unfounded claims of threats, violence, or danger that could cause harm (e.g. looters are prevalent in an area subject to forest fires)
     
-* Content inaccurately presented as evidence of human rights abuses or military conflict in a specific location that is actually content from another location, event, or timeframe
+*   Content inaccurately presented as evidence of human rights abuses or military conflict in a specific location that is actually content from another location, event, or timeframe
     
-* Deceptive synthetic or manipulated media, that does not clearly disclose the fake or altered nature of the content, including the following:
+*   Deceptive synthetic or manipulated media, that does not clearly disclose the fake or altered nature of the content, including the following:
     
-    * Doctored images or videos that distort real-life events and are likely to cause harm to the subject, other individuals or groups, or society at large
-    * Photorealistic or audio-realistic content that is confirmed to depict someone saying something they didn’t say or doing something they didn’t do
+    *   Doctored images or videos that distort real-life events and are likely to cause harm to the subject, other individuals or groups, or society at large
+    *   Photorealistic or audio-realistic content that is confirmed to depict someone saying something they didn’t say or doing something they didn’t do
     
-* Content that promotes harmful remedies or miracle cures, or otherwise discourages individuals from seeking or heeding professional medical advice
+*   Content that promotes harmful remedies or miracle cures, or otherwise discourages individuals from seeking or heeding professional medical advice
     
-* Claims or statements that directly contradict medical guidance from local health authorities or the World Health Organization (WHO)
+*   Claims or statements that directly contradict medical guidance from local health authorities or the World Health Organization (WHO)
     
-* Medical misinformation about the treatment, prevention, variants, and transmission of COVID-19, including claims that:
+*   Medical misinformation about the treatment, prevention, variants, and transmission of COVID-19, including claims that:
     
-    * Medical or non-medical grade masks cause negative physical side effects
-    * Ivermectin or Hydroxychloroquine are effective in the treatment or prevention of COVID-19
-    * Approved COVID-19 vaccines may cause death, infertility, miscarriage, autism, or contraction of infectious diseases, including COVID-19
-    * Approved COVID-19 vaccines implant tracking/surveillance devices or cause magnetism in patients
-    * Those vaccinated against COVID-19 are more likely to spread the virus than unvaccinated individuals
-    * COVID-19 was developed with funding or support from specific world leaders, public figures, or global health authorities
+    *   Medical or non-medical grade masks cause negative physical side effects
+    *   Ivermectin or Hydroxychloroquine are effective in the treatment or prevention of COVID-19
+    *   Approved COVID-19 vaccines may cause death, infertility, miscarriage, autism, or contraction of infectious diseases, including COVID-19
+    *   Approved COVID-19 vaccines implant tracking/surveillance devices or cause magnetism in patients
+    *   Those vaccinated against COVID-19 are more likely to spread the virus than unvaccinated individuals
+    *   COVID-19 was developed with funding or support from specific world leaders, public figures, or global health authorities
     
-* Medical misinformation about the prevalence or severity of COVID-19, including claims that:
+*   Medical misinformation about the prevalence or severity of COVID-19, including claims that:
     
-    * COVID-19 does not exist or is a hoax
-    * The virus and all variants have been eradicated or that the pandemic has ended
-    * The symptoms, mortality rate, or infection rate of COVID-19 are no more severe than the seasonal flu
-    * No one has died or become severely ill after contracting COVID-19
+    *   COVID-19 does not exist or is a hoax
+    *   The virus and all variants have been eradicated or that the pandemic has ended
+    *   The symptoms, mortality rate, or infection rate of COVID-19 are no more severe than the seasonal flu
+    *   No one has died or become severely ill after contracting COVID-19
     
 
 In some cases, synthetic or manipulated media may be shared for artistic or humorous purposes. As a professional platform, LinkedIn generally requires members to disclose the fake or altered nature of this content. However, when the context clearly indicates such media is obvious parody or satire, we may not require an explicit disclosure.
 
 To learn more about when we remove content that violates our Professional Community Policies, see [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
+
+- - -
 
 Scams and fraud content
 -----------------------
@@ -273,22 +287,24 @@ We don’t tolerate content intended to scam, defraud, or deceive others for mon
 
 Examples of scams and fraud
 
-* Cash gifting schemes, including Pyramid or Ponzi schemes
+*   Cash gifting schemes, including Pyramid or Ponzi schemes
     
-* Payday loan or advance payment scams
+*   Payday loan or advance payment scams
     
-* Cash flips, "money muling", and investment scams promising high rates of return
+*   Cash flips, "money muling", and investment scams promising high rates of return
     
-* Individual requests for payment, loans, and financial details, through public content or private messaging, made on false or misleading premises with the intent to defraud
+*   Individual requests for payment, loans, and financial details, through public content or private messaging, made on false or misleading premises with the intent to defraud
     
-* Phishing attempts, including links posted in unpaid Live Events, collecting member payment details for fraudulent purposes
+*   Phishing attempts, including links posted in unpaid Live Events, collecting member payment details for fraudulent purposes
     
-* Suspicious job posts, such as those advertising “too good to be true” compensation and benefits
+*   Suspicious job posts, such as those advertising “too good to be true” compensation and benefits
     
 
 We allow members to raise awareness and educate others about scams, as well as condemn fraudulent activities. However, we’ll remove such content when it contains sensitive information, such as personally identifiable information, or functional phishing, malware, or scam links.
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
+
+- - -
 
 Hateful and derogatory content
 ------------------------------
@@ -297,15 +313,15 @@ Hate speech, symbols, and groups are prohibited on LinkedIn. We remove content t
 
 Examples of hateful and derogatory content
 
-* Slurs and pejoratives used to demean others on the basis of their inherent traits
-* Promoting or expressing support for hate groups or ideology via symbol or otherwise
-* Expressions of disgust towards or superiority over people or groups on the basis of inherent traits
-* Calls for exclusion or banishment of a specific group based on inherent traits
-* Wishing that members of an inherent group die or suffer as a result of violence or serious disease
-* Negative stereotypes, rooted in inherent traits, that reinforce harmful attitudes or behaviors against individuals or groups
-* Subhuman characterizations, including comparisons to insects, animals, filth, disease, and denial of existence
-* Holocaust denial or misappropriation of Holocaust symbology
-* Denial of slavery in the United States  
+*   Slurs and pejoratives used to demean others on the basis of their inherent traits
+*   Promoting or expressing support for hate groups or ideology via symbol or otherwise
+*   Expressions of disgust towards or superiority over people or groups on the basis of inherent traits
+*   Calls for exclusion or banishment of a specific group based on inherent traits
+*   Wishing that members of an inherent group die or suffer as a result of violence or serious disease
+*   Negative stereotypes, rooted in inherent traits, that reinforce harmful attitudes or behaviors against individuals or groups
+*   Subhuman characterizations, including comparisons to insects, animals, filth, disease, and denial of existence
+*   Holocaust denial or misappropriation of Holocaust symbology
+*   Denial of slavery in the United States  
     
 
 We may label rather than remove content that evokes hateful rhetoric (including slurs) in the context of counter speech, reclamation, or members’ personal experiences with racism, sexism, ableism, and other forms of prejudice or discrimination.
@@ -314,6 +330,8 @@ We also allow members to call out actual or perceived hateful, prejudicial, or d
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
 
+- - -
+
 Sexual innuendos and unwanted advances
 --------------------------------------
 
@@ -321,18 +339,20 @@ Members come to LinkedIn to foster professional connections, learn new skills, a
 
 Examples of sexual innuendos and unwanted advances
 
-* Content that expresses an interest in pursuing romantic or sexual relationships, romantic connections, unwelcomed requests for dating, engagement, or marriage
+*   Content that expresses an interest in pursuing romantic or sexual relationships, romantic connections, unwelcomed requests for dating, engagement, or marriage
     
-* Unsolicited praise or admiration directed at another member’s physical appearance including beauty, face, body, or sexuality
+*   Unsolicited praise or admiration directed at another member’s physical appearance including beauty, face, body, or sexuality
     
-* Posting or sharing jokes, memes, emojis, or symbols with overt sexual connotations or otherwise commonly associated with sex acts or genitalia
+*   Posting or sharing jokes, memes, emojis, or symbols with overt sexual connotations or otherwise commonly associated with sex acts or genitalia
     
-* Posting or sharing sexually explicit media or language, including pornography, sexual cartoons, depictions of sex acts, or genitalia
+*   Posting or sharing sexually explicit media or language, including pornography, sexual cartoons, depictions of sex acts, or genitalia
     
-* Statements like “you are pretty,” “we should go on a date,” “your eyes are sexy,” or any other unwanted advances of expressions of desire are likely to violate this policy
+*   Statements like “you are pretty,” “we should go on a date,” “your eyes are sexy,” or any other unwanted advances of expressions of desire are likely to violate this policy
     
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
+
+- - -
 
 Violent and graphic content
 ---------------------------
@@ -341,20 +361,20 @@ We remove depictions of extreme violence, along with image or video content that
 
 Examples of violent and graphic content
 
-* Depictions of mutilated and/or deceased persons or body parts (including scenes of crimes or accidents)
+*   Depictions of mutilated and/or deceased persons or body parts (including scenes of crimes or accidents)
     
-* Blood, gore, and human or animal fluids or waste
+*   Blood, gore, and human or animal fluids or waste
     
-* Depictions of animal cruelty
+*   Depictions of animal cruelty
     
-* Realistic depictions of severe physical violence against a human being, including:
+*   Realistic depictions of severe physical violence against a human being, including:
     
-    * Murder or attempted murder
-    * Rape
-    * Torture
-    * Beatings
-    * Mass shootings
-    * Extreme brutality
+    *   Murder or attempted murder
+    *   Rape
+    *   Torture
+    *   Beatings
+    *   Mass shootings
+    *   Extreme brutality
     
 
 Conversations on LinkedIn are often reflective of the world around us; which means that at any given time, our global member base may be impacted by military conflict, state actor violence, natural disasters, or catastrophic incidents. In cases where violent or graphic content is shared in connection with a newsworthy event, we may label such content instead of removing it from LinkedIn.
@@ -363,6 +383,8 @@ We also recognize that graphic content or content that may otherwise be sensitiv
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
 
+- - -
+
 Spam
 ----
 
@@ -370,15 +392,15 @@ The quality of conversations on LinkedIn depends on healthy, relevant content. W
 
 Examples of spam
 
-* Emoji / reaction polls that artificially boost engagement
+*   Emoji / reaction polls that artificially boost engagement
     
-* Posts that misrepresent the functionality of the LinkedIn platform (e.g. double-tap feature) to artificially increase engagement
+*   Posts that misrepresent the functionality of the LinkedIn platform (e.g. double-tap feature) to artificially increase engagement
     
-* Widely circulated “chain letter”-type content, requesting likes, reactions, and shares
+*   Widely circulated “chain letter”-type content, requesting likes, reactions, and shares
     
-* Excessive, irrelevant, or repetitive comments or messages
+*   Excessive, irrelevant, or repetitive comments or messages
     
-* Articles that are misleading or malicious, often in order to manipulate search engines.
+*   Articles that are misleading or malicious, often in order to manipulate search engines.
     
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
