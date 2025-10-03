@@ -84,68 +84,68 @@ You may not access or use the Service for any purpose other than that for which 
 
 As a user of the Service, you agree not to:
 
-1. systematically retrieve data or other content from the Service to create or compile, directly or indirectly, a collection, compilation, database, or directory without written permission from us.
+1.  systematically retrieve data or other content from the Service to create or compile, directly or indirectly, a collection, compilation, database, or directory without written permission from us.
     
-2. make any unauthorized use of the Service, including collecting usernames and/or email addresses of users by electronic or other means for the purpose of sending unsolicited email, or creating user accounts by automated means or under false pretenses.
+2.  make any unauthorized use of the Service, including collecting usernames and/or email addresses of users by electronic or other means for the purpose of sending unsolicited email, or creating user accounts by automated means or under false pretenses.
     
-3. use a buying agent, purchasing agent or other agent to make purchases or to upload content on the Site or the Apps.
+3.  use a buying agent, purchasing agent or other agent to make purchases or to upload content on the Site or the Apps.
     
-4. use the Service to advertise or offer to sell goods and services in a manner that degrades the user experience, e.g., via off-topic replies to other users’ Contributions, or that appears to be inconsistent with any applicable law, regulation, or professional standard.
+4.  use the Service to advertise or offer to sell goods and services in a manner that degrades the user experience, e.g., via off-topic replies to other users’ Contributions, or that appears to be inconsistent with any applicable law, regulation, or professional standard.
     
-5. circumvent, disable, or otherwise interfere with security-related features of the Service, including features that prevent or restrict the use or copying of any Content or enforce limitations on the use of the Service and/or the Content contained therein.
+5.  circumvent, disable, or otherwise interfere with security-related features of the Service, including features that prevent or restrict the use or copying of any Content or enforce limitations on the use of the Service and/or the Content contained therein.
     
-6. engage in unauthorized framing of or linking to the Service.
+6.  engage in unauthorized framing of or linking to the Service.
     
-7. trick, defraud, or mislead us and other users, especially in any attempt to learn sensitive account information such as user passwords.
+7.  trick, defraud, or mislead us and other users, especially in any attempt to learn sensitive account information such as user passwords.
     
-8. make improper use of our support services or submit false reports of abuse or misconduct.
+8.  make improper use of our support services or submit false reports of abuse or misconduct.
     
-9. engage in any automated use of the system, such as using scripts to send comments or messages, or using any data mining, robots, or similar data gathering and extraction tools.
+9.  engage in any automated use of the system, such as using scripts to send comments or messages, or using any data mining, robots, or similar data gathering and extraction tools.
     
-10. interfere with, disrupt, or create an undue burden on the Service or the networks or other services connected to the Site or the Apps.
-    
-11. attempt to impersonate another user or person or use the username of another user of the Service.
-    
-12. sell or otherwise transfer your profile or account.
-    
-13. use any information obtained from the Service in order to harass, abuse, or harm another person.
-    
-14. use the Service as part of any effort to compete with us or otherwise use the Service and/or the Content for any revenue-generating endeavor or commercial enterprise.
-    
-15. decipher, decompile, disassemble, or reverse engineer any of the software comprising or in any way making up a part of the Service.
-    
-16. attempt to bypass any measures of the Service designed to prevent or restrict access to the Service, or any portion of the Service.
-    
-17. harass, , intimidate, or threaten any of our employees or agents engaged in providing any portion of the Service to you.
-    
-18. delete the copyright or other proprietary rights notice from any Content.
-    
-19. copy or adapt the Service's software, including but not limited to Flash, PHP, HTML, JavaScript, or other code.
-    
-20. upload or transmit (or attempt to upload or to transmit) viruses, Trojan horses, or other material, that interferes with any party's uninterrupted use and enjoyment of the Service or modifies, impairs, disrupts, alters, or interferes with the use, features, functions, operation, or maintenance of the Service.
-    
-21. upload or transmit (or attempt to upload or to transmit) any material that acts as a passive or active information collection or transmission mechanism, including without limitation, clear graphics interchange formats ("gifs"), 1×1 pixels, web bugs, cookies, or other similar devices (sometimes referred to as "spyware" or "passive collection mechanisms" or "pcms").
-    
-22. except as may be the result of standard search engine or Internet browser usage, use, launch, develop, or distribute any automated system, including without limitation, any spider, robot, cheat utility, scraper, or offline reader that accesses the Site, or using or launching any unauthorized script or other software.
-    
-23. infringe upon any copyright materials owned or controlled by others.
-    
-24. use the Service in a manner inconsistent with any applicable laws or regulations.
-    
-25. attempts to sell, buy, or solicit other forms of payment in exchange for usernames on the Site or Apps.
-    
-26. Post offensive or sexual content on the Site or Apps, including but not limited to:
-    
-    a. Sexual content or language;
-    
-    b. Content that includes sexual activity, sexual intercourse or any type of sexual act;
-    
-    c. Any content that portrays or suggest explicit sexual acts or sexually suggestive positions or poses;
-    
-    d. Sexually suggestive (explicit or vague) statements, texts or phrases; or
-    
-    e. Content in which sexual acts are requested or offered, including pornography, prostitution, sugar babies, sex trafficking or sexual fetishes.
-    
+10.  interfere with, disrupt, or create an undue burden on the Service or the networks or other services connected to the Site or the Apps.
+     
+11.  attempt to impersonate another user or person or use the username of another user of the Service.
+     
+12.  sell or otherwise transfer your profile or account.
+     
+13.  use any information obtained from the Service in order to harass, abuse, or harm another person.
+     
+14.  use the Service as part of any effort to compete with us or otherwise use the Service and/or the Content for any revenue-generating endeavor or commercial enterprise.
+     
+15.  decipher, decompile, disassemble, or reverse engineer any of the software comprising or in any way making up a part of the Service.
+     
+16.  attempt to bypass any measures of the Service designed to prevent or restrict access to the Service, or any portion of the Service.
+     
+17.  harass, , intimidate, or threaten any of our employees or agents engaged in providing any portion of the Service to you.
+     
+18.  delete the copyright or other proprietary rights notice from any Content.
+     
+19.  copy or adapt the Service's software, including but not limited to Flash, PHP, HTML, JavaScript, or other code.
+     
+20.  upload or transmit (or attempt to upload or to transmit) viruses, Trojan horses, or other material, that interferes with any party's uninterrupted use and enjoyment of the Service or modifies, impairs, disrupts, alters, or interferes with the use, features, functions, operation, or maintenance of the Service.
+     
+21.  upload or transmit (or attempt to upload or to transmit) any material that acts as a passive or active information collection or transmission mechanism, including without limitation, clear graphics interchange formats ("gifs"), 1×1 pixels, web bugs, cookies, or other similar devices (sometimes referred to as "spyware" or "passive collection mechanisms" or "pcms").
+     
+22.  except as may be the result of standard search engine or Internet browser usage, use, launch, develop, or distribute any automated system, including without limitation, any spider, robot, cheat utility, scraper, or offline reader that accesses the Site, or using or launching any unauthorized script or other software.
+     
+23.  infringe upon any copyright materials owned or controlled by others.
+     
+24.  use the Service in a manner inconsistent with any applicable laws or regulations.
+     
+25.  attempts to sell, buy, or solicit other forms of payment in exchange for usernames on the Site or Apps.
+     
+26.  Post offensive or sexual content on the Site or Apps, including but not limited to:
+     
+     a. Sexual content or language;
+     
+     b. Content that includes sexual activity, sexual intercourse or any type of sexual act;
+     
+     c. Any content that portrays or suggest explicit sexual acts or sexually suggestive positions or poses;
+     
+     d. Sexually suggestive (explicit or vague) statements, texts or phrases; or
+     
+     e. Content in which sexual acts are requested or offered, including pornography, prostitution, sugar babies, sex trafficking or sexual fetishes.
+     
 
 8\. USER GENERATED CONTRIBUTIONS
 --------------------------------
@@ -154,32 +154,32 @@ The Service may invite you to post comments, post opinions, chat, contribute to,
 
 Contributions may be viewable by other users of the Site or the Apps and through third-party websites. As such, any Contributions you transmit may be treated as non-confidential and non-proprietary. When you create or make available any Contributions, you thereby represent and warrant that:
 
-1. the creation, distribution, transmission, public display, or performance, and the accessing, downloading, or copying of your Contributions do not and will not infringe the proprietary rights, including but not limited to the copyright, patent, trademark, trade secret, or moral rights of any third party.
+1.  the creation, distribution, transmission, public display, or performance, and the accessing, downloading, or copying of your Contributions do not and will not infringe the proprietary rights, including but not limited to the copyright, patent, trademark, trade secret, or moral rights of any third party.
     
-2. you are the creator and owner of or have the necessary licenses, rights, consents, releases, and permissions to use and to authorize us, the Service, and other users of the Service to use your Contributions in any manner contemplated by the Service and these Terms of Service.
+2.  you are the creator and owner of or have the necessary licenses, rights, consents, releases, and permissions to use and to authorize us, the Service, and other users of the Service to use your Contributions in any manner contemplated by the Service and these Terms of Service.
     
-3. you have the written consent, release, and/or permission of each and every identifiable individual person in your Contributions to use the name or likeness of each and every such identifiable individual person to enable inclusion and use of your Contributions in any manner contemplated by the Service and these Terms of Service.
+3.  you have the written consent, release, and/or permission of each and every identifiable individual person in your Contributions to use the name or likeness of each and every such identifiable individual person to enable inclusion and use of your Contributions in any manner contemplated by the Service and these Terms of Service.
     
-4. your Contributions are not false, inaccurate, or misleading.
+4.  your Contributions are not false, inaccurate, or misleading.
     
-5. your Contributions are not unsolicited or unauthorized advertising, promotional materials, pyramid schemes, chain letters, spam, mass mailings, or other forms of solicitation.
+5.  your Contributions are not unsolicited or unauthorized advertising, promotional materials, pyramid schemes, chain letters, spam, mass mailings, or other forms of solicitation.
     
-6. your Contributions are not obscene, lewd, lascivious, filthy, violent, harassing, libelous, slanderous, or otherwise objectionable.
+6.  your Contributions are not obscene, lewd, lascivious, filthy, violent, harassing, libelous, slanderous, or otherwise objectionable.
     
-7. your Contributions do not depict violence, threats of violence or criminal activity.
+7.  your Contributions do not depict violence, threats of violence or criminal activity.
     
-8. your Contributions do not advocate or incite, encourage, or threaten physical harm against another.
+8.  your Contributions do not advocate or incite, encourage, or threaten physical harm against another.
     
-9. your Contributions do not violate any applicable law, regulation, or rule.
+9.  your Contributions do not violate any applicable law, regulation, or rule.
     
-10. your Contributions do not violate the privacy or publicity rights of any third party.
-    
-11. your Contributions do not contain any material that solicits personal information from anyone under the age of 18 or exploits people under the age of 18 in a sexual or violent manner.
-    
-12. your Contributions do not violate any federal or state law concerning child pornography, or otherwise intended to protect the health or well-being of minors;
-    
-13. your Contributions do not otherwise violate, or link to material that violates, any provision of these Terms of Service, or any applicable laws, rules or regulations.
-    
+10.  your Contributions do not violate the privacy or publicity rights of any third party.
+     
+11.  your Contributions do not contain any material that solicits personal information from anyone under the age of 18 or exploits people under the age of 18 in a sexual or violent manner.
+     
+12.  your Contributions do not violate any federal or state law concerning child pornography, or otherwise intended to protect the health or well-being of minors;
+     
+13.  your Contributions do not otherwise violate, or link to material that violates, any provision of these Terms of Service, or any applicable laws, rules or regulations.
+     
 
 Any use of the Service in violation of the foregoing violates these Terms of Service and may result in, among other things, termination or suspension of your rights to use the Service and removal or deletion of your Contributions.
 
@@ -501,8 +501,8 @@ In order to resolve a complaint regarding the Service or any Content or to recei
 
 Our collection and use of your personal information is also subject to our Privacy Policy. By signing up, you accept and agree to these Mobile Messaging Terms and our Privacy Policy.
 
-1. We may send promotional and transactional mobile messages in various formats (“Program”). Promotional messages advertise, promote, and provide updates on our products and services. Message frequency will vary. You agree that we, and any third-party service providers, may send you messages regarding the foregoing topics or any topic and that such messages may be made or placed using different telephone numbers or short codes. We do not charge for mobile messages sent but you are responsible for any message and data rates imposed by your mobile provider, as standard data and message rates may apply for short message service and multimedia message alerts.
-2. User Opt-In: By providing your mobile phone number to us, you are voluntarily opting into the Service and you agree to receive recurring mobile messages from us at the mobile phone number associated with your opt-in, even if such number is registered on any state or federal “Do Not Call” list. You agree that any mobile phone number you provide us is a valid mobile phone number of which you are the owner or authorized user. Your participation in the Service is completely voluntary.
-3. User Opt-Out and Support: You may opt-out of receiving messages at any time. If you wish to opt out of and stop receiving mobile messages from us, or you no longer agree to these Mobile Messaging Terms, reply STOP, QUIT, CANCEL, OPT-OUT, and/or UNSUBSCRIBE to any mobile message from us. You may receive a one-time opt-out confirmation message. You understand and agree that the foregoing is the only reasonable method of opting out. For support, reply HELP to any mobile message from us. Our mobile messaging platform will only recognize the foregoing commands and you agree that we and our service providers will not be liable for failing to honor requests that do not comply with the requirements in these Mobile Messaging Terms. We may also change the telephone number or short code we use to operate the Program and we will notify you of any such change. You acknowledge that any requests sent to a telephone number or short code that has been changed may not be received by us and we will not be responsible for failing to honor a request sent to a telephone number or short code that has been changed.
-4. Disclaimer of Warranty and Liability: Updates provided by mobile messaging is offered on an “as-is” basis and may not be available in all areas, at all times, or on all mobile providers. You agree that neither we nor our service providers will be liable for any failed, delayed, or misdirected delivery of any mobile message or information sent through the Program.
-5. Modifications: We may modify or cancel these updates or any of its features at any time, with or without notice. To the extent permitted by applicable law, we may also modify these Mobile Messaging Terms at any time. Any such modification will take effect when it is posted to our website. You agree to review these Mobile Messaging Terms periodically to ensure that you are aware of any modifications. Your continued participation in the Program will constitute your acceptance to these modifications.
+1.  We may send promotional and transactional mobile messages in various formats (“Program”). Promotional messages advertise, promote, and provide updates on our products and services. Message frequency will vary. You agree that we, and any third-party service providers, may send you messages regarding the foregoing topics or any topic and that such messages may be made or placed using different telephone numbers or short codes. We do not charge for mobile messages sent but you are responsible for any message and data rates imposed by your mobile provider, as standard data and message rates may apply for short message service and multimedia message alerts.
+2.  User Opt-In: By providing your mobile phone number to us, you are voluntarily opting into the Service and you agree to receive recurring mobile messages from us at the mobile phone number associated with your opt-in, even if such number is registered on any state or federal “Do Not Call” list. You agree that any mobile phone number you provide us is a valid mobile phone number of which you are the owner or authorized user. Your participation in the Service is completely voluntary.
+3.  User Opt-Out and Support: You may opt-out of receiving messages at any time. If you wish to opt out of and stop receiving mobile messages from us, or you no longer agree to these Mobile Messaging Terms, reply STOP, QUIT, CANCEL, OPT-OUT, and/or UNSUBSCRIBE to any mobile message from us. You may receive a one-time opt-out confirmation message. You understand and agree that the foregoing is the only reasonable method of opting out. For support, reply HELP to any mobile message from us. Our mobile messaging platform will only recognize the foregoing commands and you agree that we and our service providers will not be liable for failing to honor requests that do not comply with the requirements in these Mobile Messaging Terms. We may also change the telephone number or short code we use to operate the Program and we will notify you of any such change. You acknowledge that any requests sent to a telephone number or short code that has been changed may not be received by us and we will not be responsible for failing to honor a request sent to a telephone number or short code that has been changed.
+4.  Disclaimer of Warranty and Liability: Updates provided by mobile messaging is offered on an “as-is” basis and may not be available in all areas, at all times, or on all mobile providers. You agree that neither we nor our service providers will be liable for any failed, delayed, or misdirected delivery of any mobile message or information sent through the Program.
+5.  Modifications: We may modify or cancel these updates or any of its features at any time, with or without notice. To the extent permitted by applicable law, we may also modify these Mobile Messaging Terms at any time. Any such modification will take effect when it is posted to our website. You agree to review these Mobile Messaging Terms periodically to ensure that you are aware of any modifications. Your continued participation in the Program will constitute your acceptance to these modifications.
