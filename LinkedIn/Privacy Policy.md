@@ -181,9 +181,9 @@ For data that LinkedIn collects using cookies, you can see how long LinkedIn pro
 
 There are a number of reasons why we might need to retain some of your data for longer than usual. These may include:
 
-* Where LinkedIn has suspended your account for inappropriate, harmful or illegal activity that breaches our Professional Community Guidelines and/or we need to resolve complaints relating to your account.
-* Where there is ongoing or potential legal or regulatory proceedings related to your account.
-* Where we are required by law to retain your data. For more information on when we may be required to retain your data for these purposes, see the “**Compliance with Legal Obligations**” section above.  
+*   Where LinkedIn has suspended your account for inappropriate, harmful or illegal activity that breaches our Professional Community Guidelines and/or we need to resolve complaints relating to your account.
+*   Where there is ongoing or potential legal or regulatory proceedings related to your account.
+*   Where we are required by law to retain your data. For more information on when we may be required to retain your data for these purposes, see the “**Compliance with Legal Obligations**” section above.  
     
 
 #### **Transfers of your data outside the Designated Countries and the UK** 
