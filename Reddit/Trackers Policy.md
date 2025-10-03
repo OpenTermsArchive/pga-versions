@@ -41,10 +41,10 @@ There are a number of ways you can control how information is collected from coo
 
 Your browser includes controls that allow you to manage the use of cookies by the sites that you visit. Most browsers have features that enable you to see and delete cookies stored on your device and to block cookies from all or selected sites. For more information, here are links to external help materials from some of the popular browsers:
 
-* [Mozilla Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer)
-* [Apple Safari](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
-* [Google Chrome](https://support.google.com/chrome/answer/95647)
-* [Microsoft Edge](https://support.microsoft.com/en-us/help/4027947/microsoft-edge-delete-cookies)
+*   [Mozilla Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer)
+*   [Apple Safari](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
+*   [Google Chrome](https://support.google.com/chrome/answer/95647)
+*   [Microsoft Edge](https://support.microsoft.com/en-us/help/4027947/microsoft-edge-delete-cookies)
 
 ### Your mobile device settings
 
