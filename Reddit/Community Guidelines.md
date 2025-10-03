@@ -48,13 +48,15 @@ Don’t [break the site](https://www.reddithelp.com/en/categories/rules-reportin
 
 We have a variety of ways of enforcing our rules, including, but not limited to
 
-* Asking you nicely to knock it off
-* Asking you less nicely
-* Temporary or permanent suspension of accounts
-* Removal of privileges from, or adding restrictions to, accounts
-* Adding restrictions to Reddit communities, such as adding NSFW tags or [Quarantining](https://www.reddithelp.com/hc/en-us/articles/360043069012)
-* Removal of content
-* Banning of Reddit communities
+*   Asking you nicely to knock it off
+*   Asking you less nicely
+*   Temporary or permanent suspension of accounts
+*   Removal of privileges from, or adding restrictions to, accounts
+*   Adding restrictions to Reddit communities, such as adding NSFW tags or [Quarantining](https://www.reddithelp.com/hc/en-us/articles/360043069012)
+*   Removal of content
+*   Banning of Reddit communities
+
+- - -
 
 **We do not tolerate the harassment, threatening, or bullying of people on our site; nor do we tolerate communities dedicated to this behavior.**
 
@@ -64,6 +66,8 @@ Being annoying, downvoting, or disagreeing with someone, even strongly, is not h
 
 **To report Harassment, please visit [this page](https://www.reddit.com/report).**
 
+- - -
+
 _Rule 1: Remember the human. … Everyone has a right to use Reddit free of harassment, bullying, and threats of violence.  
   
 _Do not post content that encourages, glorifies, incites, or calls for violence or physical harm against an individual (including oneself) or a group of people; likewise, do not post content that glorifies or encourages the abuse of animals. We understand there are sometimes reasons to post violent content (e.g., educational, newsworthy, artistic, satire, documentary, etc.) so if you’re going to post something violent in nature that does not violate these terms, ensure you provide context to the viewer so the reason for posting is clear.
@@ -72,12 +76,12 @@ If your content is borderline, please use a NSFW tag. Even mild violence can be 
 
 Some examples of violent content that would violate the Rule:
 
-* Post or comment with a credible threat of violence against an individual or group of people.
-* Post containing mass killer manifestos or imagery of their violence.
-* [Terrorist content](https://support.reddithelp.com/hc/en-us/articles/19003525756564), including propaganda.
-* Post containing imagery or text that incites, glorifies, or encourages self-harm or suicide.
-* Post that requests, or gives instructions on, ways to self-harm or commit suicide.
-* Graphic violence, image, or video without appropriate context.
+*   Post or comment with a credible threat of violence against an individual or group of people.
+*   Post containing mass killer manifestos or imagery of their violence.
+*   [Terrorist content](https://support.reddithelp.com/hc/en-us/articles/19003525756564), including propaganda.
+*   Post containing imagery or text that incites, glorifies, or encourages self-harm or suicide.
+*   Post that requests, or gives instructions on, ways to self-harm or commit suicide.
+*   Graphic violence, image, or video without appropriate context.
 
 Note that health misinformation, namely falsifiable health information that encourages or poses a significant risk of physical harm to the reader, also violates the Rule.  
   
@@ -88,6 +92,8 @@ Note that health misinformation, namely falsifiable health information that enco
 
 [**What do I do if someone talks about seriously hurting themselves or is considering suicide?**](https://www.reddithelp.com/hc/en-us/articles/360043513931-What-do-I-do-if-someone-talks-about-seriously-hurting-themselves-or-is-considering-suicide-) When you see a post or comment about suicidal feelings in a community, it can be overwhelming, and you may feel like you don’t know what to do. But you can help, and there are resources available for you and the person you’re worried about.  Reddit has partnered with [Crisis Text Line](https://www.crisistextline.org/) to provide redditors who may be considering suicide or seriously hurting themselves with support from trained Crisis Counselors.
 
+- - -
+
 _Rule 1: Remember the human. Reddit is a place for creating community and belonging, not for attacking marginalized or vulnerable groups of people. Everyone has a right to use Reddit free of harassment, bullying, and threats of violence. Communities and people that incite violence or that promote hate based on identity or vulnerability will be banned._
 
 Marginalized or vulnerable groups include, but are not limited to, groups based on their actual and perceived race, color, religion, national origin, ethnicity, immigration status, gender, gender identity, sexual orientation, pregnancy, or disability. These include victims of a major violent event and their families. 
@@ -96,40 +102,42 @@ While the rule on hate protects such groups, it does not protect those who promo
 
 Some examples of hateful activities that would violate the rule:
 
-* Community dedicated to mocking people with physical disabilities. 
-* Post describing a racial minority as sub-human and inferior to the racial majority.
-* Comment arguing that rape of women should be acceptable and not a crime.
-* Meme declaring that it is sickening that people of color have the right to vote.
-* Post promoting harmful tropes or generalizations based on religion (e.g. a certain religious group controls the media, or consists entirely of terrorists). 
-* A comment denying or minimizing the scale of a hate-based violent event. 
+*   Community dedicated to mocking people with physical disabilities. 
+*   Post describing a racial minority as sub-human and inferior to the racial majority.
+*   Comment arguing that rape of women should be acceptable and not a crime.
+*   Meme declaring that it is sickening that people of color have the right to vote.
+*   Post promoting harmful tropes or generalizations based on religion (e.g. a certain religious group controls the media, or consists entirely of terrorists). 
+*   A comment denying or minimizing the scale of a hate-based violent event. 
 
 Additionally, when evaluating the activity of a community or an individual user, we consider both the context as well as the pattern of behavior.
+
+- - -
 
 Spam on Reddit is generally defined as repeated, unwanted, and/or unsolicited actions, whether automated or manual, that negatively affect Reddit users, Reddit communities, and/or Reddit itself. Spam is a violation of the [Reddit Rules](https://redditinc.com/policies/reddit-rules) and [User Agreement](https://www.reddit.com/help/useragreement), punishable by content removal and temporary or permanent banning of your Reddit account. As spam-like behaviors evolve, Reddit will continue to adjust how we mitigate and prevent the spread of spam content.  
   
 
 **How do I avoid being labeled as a spammer?**
 
-* Post authentic content into communities where you have a personal interest.  
+*   Post authentic content into communities where you have a personal interest.  
     
-* If your contributions to Reddit consist primarily of links to a business that you run, own, or otherwise benefit from, tread carefully, or consider advertising opportunities using our [self-serve platform](https://about.reddit.com/advertise/).
+*   If your contributions to Reddit consist primarily of links to a business that you run, own, or otherwise benefit from, tread carefully, or consider advertising opportunities using our [self-serve platform](https://about.reddit.com/advertise/).
     
-* If you’re unsure if your content is considered spammy or unwelcome, contact the moderators of the community to which you’d like to submit. Subreddits may have community-specific rules in addition to the guidelines below.
+*   If you’re unsure if your content is considered spammy or unwelcome, contact the moderators of the community to which you’d like to submit. Subreddits may have community-specific rules in addition to the guidelines below.
     
 
 **The following are examples of behavior that may be considered spam and are subject to removal/ban:**
 
-* Sending large amounts of chat messages to users who are not expecting them.
+*   Sending large amounts of chat messages to users who are not expecting them.
     
-* Repeatedly posting the same or similar comments in a thread, subreddit or across subreddits.
+*   Repeatedly posting the same or similar comments in a thread, subreddit or across subreddits.
     
-* Repeatedly posting unrelated/off-topic/link-farmed content.
+*   Repeatedly posting unrelated/off-topic/link-farmed content.
     
-* Posting content that includes link redirects as a way to circumvent an existing domain block and/or to disguise a link’s source (excluding subreddit sidebars).
+*   Posting content that includes link redirects as a way to circumvent an existing domain block and/or to disguise a link’s source (excluding subreddit sidebars).
     
-* Linking to harmful third-party content, such as malware, phishing, deceptive pop-ups, etc.
+*   Linking to harmful third-party content, such as malware, phishing, deceptive pop-ups, etc.
     
-* Programming bots that harm/break Reddit, including bots intended to promote content/products/services.
+*   Programming bots that harm/break Reddit, including bots intended to promote content/products/services.
     
 
 **  
@@ -137,15 +145,19 @@ To report spam, please visit [this page](https://www.reddit.com/report).**
 
 Please note: You will receive an auto-response when submitting a spam related report. A human reviews each ticket, but we will only respond when we need more information.
 
+- - -
+
 Vote manipulation is prohibited on Reddit and goes against the rules, whether it is manual, programmatic, or otherwise. Some common forms of vote manipulation include:
 
-* **Using multiple accounts and voting services:** Creating and employing multiple accounts, voting services, or any software to manipulate vote counts by either increasing or decreasing them.
-* **Soliciting votes:** Requesting or encouraging people to upvote or downvote specific posts, either on Reddit or through social networks, messaging, etc. for personal gain.
-* **Participating in Group Voting:** Joining or forming groups that coordinate votes, either on a specific post, a user's posts, content from a domain, etc. 
+*   **Using multiple accounts and voting services:** Creating and employing multiple accounts, voting services, or any software to manipulate vote counts by either increasing or decreasing them.
+*   **Soliciting votes:** Requesting or encouraging people to upvote or downvote specific posts, either on Reddit or through social networks, messaging, etc. for personal gain.
+*   **Participating in Group Voting:** Joining or forming groups that coordinate votes, either on a specific post, a user's posts, content from a domain, etc. 
 
 Engaging in vote cheating or manipulation will result in temporary or permanent banning of your Reddit account. 
 
 If you come across instances of vote manipulation that you'd like to report, please visit [this page](https://www.reddit.com/report).
+
+- - -
 
 No. Reddit is quite open and pro-free speech, but it is not okay to post someone's personal information or post links to personal information. This includes links to public Facebook pages and screenshots of Facebook pages with the names still legible.
 
@@ -154,6 +166,8 @@ Posting someone's personal information will get you banned. When posting screen
 Public figures can be an exception to this rule, such as posting professional links to contact a congressman or the CEO of a company. But don't post anything inviting harassment, don't harass, and don't cheer on or upvote obvious vigilantism.
 
 **To report a Personal Information violation, please visit [this page](https://www.reddit.com/report).**
+
+- - -
 
 Respecting the privacy of others means being mindful of the impact of posting someone’s picture or video. In particular, you can cause serious harm when posting something that was shared in private and wasn’t ever intended to be shared in public. 
 
@@ -165,17 +179,19 @@ The Rule applies to leaked, stolen or privately-shared images of an individual w
 
 Some examples that violate the Rule:
 
-* Private sexting photos reshared with anyone other than the intended recipient, regardless of whether there was an intent to humiliate, intimidate, or to violate the person’s privacy. 
-* Topless image of someone sunbathing in their garden, apparently taken without their awareness.
-* Accidental nip-slip moment of a person in public caught on camera.
-* Sharing nude shots of a famous model taken with their consent if they indicate they do not want those images shared publicly.
-* Offering or soliciting stolen intimate or sexually explicit images of somebody.
+*   Private sexting photos reshared with anyone other than the intended recipient, regardless of whether there was an intent to humiliate, intimidate, or to violate the person’s privacy. 
+*   Topless image of someone sunbathing in their garden, apparently taken without their awareness.
+*   Accidental nip-slip moment of a person in public caught on camera.
+*   Sharing nude shots of a famous model taken with their consent if they indicate they do not want those images shared publicly.
+*   Offering or soliciting stolen intimate or sexually explicit images of somebody.
 
 Note that the rule does not apply to media distributed commercially with the consent of those depicted, AI-generated sexual media that depicts fictional people or characters, or artistic depictions (e.g., cartoons, anime, etc.) – although keep in mind our rules regarding respecting the intellectual property of others. 
 
 To report non-consensual intimate media, you can use the inline report feature on the app or website, or you can visit [this page](https://www.reddit.com/report).
 
 If somebody has shared intimate images of you or somebody you know, click [here](https://www.reddithelp.com/hc/en-us/articles/360043513951-What-should-I-do-if-someone-has-shared-or-threatened-to-share-intimate-images-of-me-or-somebody-I-know-) for more information and support.
+
+- - -
 
 Reddit prohibits any sexual or suggestive content, and predatory or inappropriate behavior, involving minors (i.e., people under 18 years old) or someone who appears to be a minor. 
 
@@ -187,11 +203,11 @@ We generally prohibit fantasy or fictional content (e.g. stories, deepfakes, pho
 
 Here's a non-exhaustive list of examples that violate this policy: 
 
-* A cartoon depiction of a prepubescent child engaged in a sexual act  
-* A comment sexualizing a non-sexual image or video of a minor
-* A community sexualizing a celebrity who is younger than 18 y.o., or was younger than 18 y.o. in the content depicted
-* A post encouraging or advocating to normalize paedophilia as a socially acceptable sexual orientation
-* Soliciting or offering "nudes" of minors, whether the poster is an adult or a minor 
+*   A cartoon depiction of a prepubescent child engaged in a sexual act  
+*   A comment sexualizing a non-sexual image or video of a minor
+*   A community sexualizing a celebrity who is younger than 18 y.o., or was younger than 18 y.o. in the content depicted
+*   A post encouraging or advocating to normalize paedophilia as a socially acceptable sexual orientation
+*   Soliciting or offering "nudes" of minors, whether the poster is an adult or a minor 
 
 If you are unsure about a piece of content involving a minor, do not share it. 
 
@@ -199,32 +215,38 @@ Additionally, any form of predatory or inappropriate behavior involving a minor 
 
 Here's a non-exhaustive list of examples that violate this policy: 
 
-* Direct messaging nude or sexually-explicit images or videos to a minor
-* Threatening a minor if they don't share nude images 
-* An adult engaging a minor in sexually explicit conversation
-* An adult requesting an intimate or sexual encounter off platform with a minor
-* An exchange between an adult and a minor that may include a combination of flattery, offers of gifts, or requests for personal information or to meet privately online or in real life
+*   Direct messaging nude or sexually-explicit images or videos to a minor
+*   Threatening a minor if they don't share nude images 
+*   An adult engaging a minor in sexually explicit conversation
+*   An adult requesting an intimate or sexual encounter off platform with a minor
+*   An exchange between an adult and a minor that may include a combination of flattery, offers of gifts, or requests for personal information or to meet privately online or in real life
 
 We enforce Rule 4 against a range of harmful content and behaviors. Some of our prohibitions go above and beyond legally-defined requirements.  However, in some cases, we do rely on contextual information or signals from the community to determine the inappropriate nature of the content or behaviors. We also recognize that child sexual exploitation and related topics may be discussed in the context of news stories, societal concern, or preventative education, and we may allow this discourse to happen as long as it does not violate the letter or spirit of the prohibitions listed above.
 
 To report sexual or suggestive content or inappropriate behavior involving minors, you can use the in-line report feature on the app or website, or you can visit [this page](https://www.reddit.com/report). You can also submit a report [here](https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=15968767746196) if you don't have a Reddit account.
 
+- - -
+
 Reddit does not allow content that impersonates individuals or entities in a misleading or deceptive manner. This not only includes using a Reddit account to impersonate someone, but also encompasses things such as domains that mimic others, as well as deepfakes or other manipulated content presented to mislead, or falsely attributed to an individual or entity. While we permit satire and parody, we will always take into account the context of any particular content. 
 
 **If you are being impersonated, or if you believe you’ve found content in violation of these guidelines, please [report it here](https://www.reddit.com/report).**
+
+- - -
 
 Content is prohibited if it uses Reddit to solicit or facilitate any transaction or gift involving certain goods and services.
 
 You may not use Reddit to solicit or facilitate any transaction or gift involving certain goods and services, including
 
-* [Firearms, ammunition](https://support.reddithelp.com/hc/en-us/articles/360043075712), explosives, legally controlled firearms parts or accessories (e.g., bump stock-type devices, silencers/suppressors, etc.), or 3D printing files to produce any of the aforementioned;
-* Drugs, including [alcohol and tobacco, or any controlled substances](https://support.reddithelp.com/hc/en-us/articles/360043513691) (except advertisements placed in accordance with our [advertising policy](https://advertising.reddithelp.com/en/categories/reddit-advertising-policy/reddit-advertising-policy-overview));
-* Paid services involving physical sexual contact;
-* Stolen goods;
-* Personal information;
-* Falsified official documents or currency;
-* Fraudulent services
+*   [Firearms, ammunition](https://support.reddithelp.com/hc/en-us/articles/360043075712), explosives, legally controlled firearms parts or accessories (e.g., bump stock-type devices, silencers/suppressors, etc.), or 3D printing files to produce any of the aforementioned;
+*   Drugs, including [alcohol and tobacco, or any controlled substances](https://support.reddithelp.com/hc/en-us/articles/360043513691) (except advertisements placed in accordance with our [advertising policy](https://advertising.reddithelp.com/en/categories/reddit-advertising-policy/reddit-advertising-policy-overview));
+*   Paid services involving physical sexual contact;
+*   Stolen goods;
+*   Personal information;
+*   Falsified official documents or currency;
+*   Fraudulent services
 
 When considering a gift or transaction of goods or services not prohibited by this policy, keep in mind that Reddit is not intended to be used as a marketplace and takes no responsibility for any transactions individual users might decide to undertake in spite of this. Always remember: you are dealing with strangers on the internet.
+
+- - -
 
 Don't break the site or do anything that interferes with normal use of the site. Do not interrupt the serving of Reddit, introduce malicious code onto Reddit, make it difficult for anyone else to use Reddit due to your actions, block sponsored headlines, create programs that violate any of our other API rules, or assist anyone in misusing Reddit in any way.
