@@ -1,17 +1,17 @@
 Safety and Privacy Centre
 =========================
 
-* Home
+*   Home
     
-* Safety
+*   Safety
     
      [Platform Rules](https://www.spotify.com/de-en/safetyandprivacy/platform-rules) [Content actions](https://www.spotify.com/de-en/safetyandprivacy/content-actions) [Reporting content](https://www.spotify.com/de-en/safetyandprivacy/reporting-content) [Guidance for parents or caregivers](https://www.spotify.com/de-en/safetyandprivacy/parental-guide) [Our approach to assuring the age of users](https://www.spotify.com/de-en/safetyandprivacy/age-assurance) [Election integrity at Spotify](https://www.spotify.com/de-en/safetyandprivacy/elections-integrity) [Our approach to dangerous and deceptive content](https://www.spotify.com/de-en/safetyandprivacy/dangerous-deceptive-content) [Our approach to violent extremism](https://www.spotify.com/de-en/safetyandprivacy/violent-extremism) [Understanding recommendations](https://www.spotify.com/de-en/safetyandprivacy/understanding-recommendations) [Digital Services Act points of contact](https://www.spotify.com/de-en/safetyandprivacy/dsa-points-of-contact)
     
-* Privacy
+*   Privacy
     
      [Collecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/personal-data-collected) [Protecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/protecting-personal-data) [Your privacy controls](https://www.spotify.com/de-en/safetyandprivacy/privacy-controls) [Learn more about privacy](https://www.spotify.com/de-en/safetyandprivacy/learn-more-about-privacy)
     
-* Regulatory and transparency reports
+*   Regulatory and transparency reports
     
 
 Spotify Platform Rules
@@ -32,49 +32,49 @@ Spotify is home to communities where people can create, express themselves, list
 
 **Content that advocates or glorifies serious physical harm towards an individual or group** includes, but may not be limited to:
 
-* encouraging, promoting, glorifying or providing instructions for suicide and self-harm (including disordered eating) Note: if you or someone you know is struggling or thinking about self-harm, please see [here](https://resources.byspotify.com/) for ways to get help
-* Inciting, threatening or providing instructions for acts of serious physical harm or violence against a specific target or specific group
-* Promoting or encouraging minors to engage in activities that will likely result in serious harm, including dangerous challenges and substance abuse
+*   encouraging, promoting, glorifying or providing instructions for suicide and self-harm (including disordered eating) Note: if you or someone you know is struggling or thinking about self-harm, please see [here](https://resources.byspotify.com/) for ways to get help
+*   Inciting, threatening or providing instructions for acts of serious physical harm or violence against a specific target or specific group
+*   Promoting or encouraging minors to engage in activities that will likely result in serious harm, including dangerous challenges and substance abuse
 
 **Content that promotes or supports terrorism or violent extremism** includes, but may not be limited to:
 
-* Glorifying or praising violent extremist groups or their members
-* Coordinating, promoting, threatening or praising an act of violence by or on behalf of violent extremist groups or their members
-* Providing instructions or instructional materials to commit an act of violent extremism
-* Soliciting an individual or group to finance, undertake an act of violent extremism or become involved in the activities of a violent extremist group
+*   Glorifying or praising violent extremist groups or their members
+*   Coordinating, promoting, threatening or praising an act of violence by or on behalf of violent extremist groups or their members
+*   Providing instructions or instructional materials to commit an act of violent extremism
+*   Soliciting an individual or group to finance, undertake an act of violent extremism or become involved in the activities of a violent extremist group
 
 **Content that targets an individual or identifiable group for harassment or related abuse** includes, but may not be limited to:
 
-* Repeatedly targeting specific individuals with sexual advances
-* Repeatedly targeting a minor, including harassment based on physical features, in order to shame or intimidate
-* Sharing or re-sharing non-consensual intimate content, as well as threats to distribute or expose such content
-* Sharing, threatening to share or encouraging others to share someone’s private information, including credit card or banking information, National Identity numbers, etc.
+*   Repeatedly targeting specific individuals with sexual advances
+*   Repeatedly targeting a minor, including harassment based on physical features, in order to shame or intimidate
+*   Sharing or re-sharing non-consensual intimate content, as well as threats to distribute or expose such content
+*   Sharing, threatening to share or encouraging others to share someone’s private information, including credit card or banking information, National Identity numbers, etc.
 
 **Content that incites violence or hatred towards a person or group of people based on race, religion, gender identity or expression, sex, ethnicity, nationality, sexual orientation, veteran status, age, disability or other characteristics associated with systemic discrimination or marginalisation** includes, but may not be limited to:
 
-* Praising, supporting or calling for violence against a person or group of people based on the characteristics listed above
-* Dehumanising statements about a person or group based on the protected characteristics listed above
-* Promoting or glorifying hate groups and their associated images and/or symbols
+*   Praising, supporting or calling for violence against a person or group of people based on the characteristics listed above
+*   Dehumanising statements about a person or group based on the protected characteristics listed above
+*   Promoting or glorifying hate groups and their associated images and/or symbols
 
 **Content that promotes dangerous false or dangerous deceptive medical information that may cause offline harm or poses a direct threat to public health** includes, but may not be limited to:
 
-* Asserting that AIDS, COVID-19, cancer or other serious life-threatening diseases are a hoax or not real
-* Encouraging the consumption of bleach products to cure various illnesses and diseases
-* Promoting or suggesting that vaccines approved by local health authorities are designed to cause death
-* Encouraging people to purposely get infected with COVID-19 in order to build immunity to it (e.g. promoting or hosting “coronavirus parties”)
+*   Asserting that AIDS, COVID-19, cancer or other serious life-threatening diseases are a hoax or not real
+*   Encouraging the consumption of bleach products to cure various illnesses and diseases
+*   Promoting or suggesting that vaccines approved by local health authorities are designed to cause death
+*   Encouraging people to purposely get infected with COVID-19 in order to build immunity to it (e.g. promoting or hosting “coronavirus parties”)
 
 **Content that illicitly promotes the sale of regulated or illegal goods** includes, but may not be limited to:
 
-* Selling illegal firearms or firearm parts
-* Selling illegal drugs
-* Selling endangered species or products derived from endangered species
+*   Selling illegal firearms or firearm parts
+*   Selling illegal drugs
+*   Selling endangered species or products derived from endangered species
 
 **Content that promotes, solicits or facilitates child sexual abuse or exploitation** includes, but may not be limited to:
 
-* Depictions of a minor engaged in a sexual act or lascivious depictions of a nude minor
-* Promoting acts of sexual abuse against a child in exchange for money
-* Encouraging or promoting sexual attraction by adults towards minors
-* Promoting, normalising or glorifying child-grooming behaviours
+*   Depictions of a minor engaged in a sexual act or lascivious depictions of a nude minor
+*   Promoting acts of sexual abuse against a child in exchange for money
+*   Encouraging or promoting sexual attraction by adults towards minors
+*   Promoting, normalising or glorifying child-grooming behaviours
 
 ### Deceptive content
 
@@ -82,24 +82,24 @@ Creating great experiences on Spotify requires trust that people are who they sa
 
 **Content that impersonates others in order to deceive** includes, but may not be limited to:
 
-* Replicating the same name, image and/or description as another existing creator
-* Posing as another person, brand or organisation in a misleading manner
+*   Replicating the same name, image and/or description as another existing creator
+*   Posing as another person, brand or organisation in a misleading manner
 
 **Content that promotes manipulated and synthetic media as authentic in ways that pose the risk of harm** includes, but may not be limited to:
 
-* Audio or video recording that comes from a real and valid source that has been altered in a way that changes the meaning or context of the original media and is purported to be true, thus posing a risk of harm to the speaker or other individuals
-* Audio or visual media artificially created through the use of technology that’s purported to be true, such as digitally manufactured sexual audio and video content or content falsely suggesting that someone committed a crime
+*   Audio or video recording that comes from a real and valid source that has been altered in a way that changes the meaning or context of the original media and is purported to be true, thus posing a risk of harm to the speaker or other individuals
+*   Audio or visual media artificially created through the use of technology that’s purported to be true, such as digitally manufactured sexual audio and video content or content falsely suggesting that someone committed a crime
 
 **Content that attempts to manipulate or interfere with election-related processes** includes, but may not be limited to:
 
-* Misrepresentation of procedures in a civic process that could discourage or prevent participation
-* Misleading content promoted to intimidate or suppress voters from participating in an election
+*   Misrepresentation of procedures in a civic process that could discourage or prevent participation
+*   Misleading content promoted to intimidate or suppress voters from participating in an election
 
 **Content that attempts to take advantage of the Spotify community** includes, but may not be limited to:
 
-* Posting, sharing or providing instructions on implementing malware or related malicious practices that seek to harm or gain unauthorised access to computers, networks, systems or other technologies
-* Phishing or related attempts to deceptively solicit or collect sensitive information
-* Promoting investment and financial scams like get rich quick and pyramid schemes, or otherwise encouraging others to part with money under false pretenses
+*   Posting, sharing or providing instructions on implementing malware or related malicious practices that seek to harm or gain unauthorised access to computers, networks, systems or other technologies
+*   Phishing or related attempts to deceptively solicit or collect sensitive information
+*   Promoting investment and financial scams like get rich quick and pyramid schemes, or otherwise encouraging others to part with money under false pretenses
 
 ### Sensitive content
 
@@ -107,13 +107,13 @@ We have tons of amazing content on Spotify, but there are certain things that we
 
 **Content that promotes graphic or gratuitous depictions of violence, gore or other shocking imagery** includes, but may not be limited to:
 
-* Severely mutilated or dismembered bodies
-* Promoting animal cruelty or torture
+*   Severely mutilated or dismembered bodies
+*   Promoting animal cruelty or torture
 
 **Content that contains sexually explicit material** includes, but may not be limited to:
 
-* Pornography or visual depictions of genitalia or nudity presented for the purpose of sexual gratification
-* Advocating or glorifying sexual themes related to rape, incest or bestiality
+*   Pornography or visual depictions of genitalia or nudity presented for the purpose of sexual gratification
+*   Advocating or glorifying sexual themes related to rape, incest or bestiality
 
 ### Illegal content
 
@@ -121,13 +121,13 @@ The law is the law. No matter who you are, it is your responsibility to comply w
 
 **Content that violates applicable laws and regulations** includes, but may not be limited to:
 
-* Content that does not comply with applicable sanctions and export regulations
-* Content that is intended to promote or commit an illegal act of any kind
+*   Content that does not comply with applicable sanctions and export regulations
+*   Content that is intended to promote or commit an illegal act of any kind
 
 **Content that infringes the intellectual property rights of others** includes, but may not be limited to:
 
-* Content provided to Spotify without obtaining necessary permissions
-* Content that infringes third-party copyrights or trademarks
+*   Content provided to Spotify without obtaining necessary permissions
+*   Content that infringes third-party copyrights or trademarks
 
 How does Spotify enforce these rules?
 -------------------------------------
@@ -151,20 +151,22 @@ How can I report an issue?
 
 Have you found an issue with a piece of content on Spotify? If so, please let us know by reporting it [here](https://support.spotify.com/content-policy-reporting/).
 
+- - -
+
 Safety and Privacy Centre
 =========================
 
-* Home
+*   Home
     
-* Safety
+*   Safety
     
      [Platform Rules](https://www.spotify.com/de-en/safetyandprivacy/platform-rules) [Content actions](https://www.spotify.com/de-en/safetyandprivacy/content-actions) [Reporting content](https://www.spotify.com/de-en/safetyandprivacy/reporting-content) [Guidance for parents or caregivers](https://www.spotify.com/de-en/safetyandprivacy/parental-guide) [Our approach to assuring the age of users](https://www.spotify.com/de-en/safetyandprivacy/age-assurance) [Election integrity at Spotify](https://www.spotify.com/de-en/safetyandprivacy/elections-integrity) [Our approach to dangerous and deceptive content](https://www.spotify.com/de-en/safetyandprivacy/dangerous-deceptive-content) [Our approach to violent extremism](https://www.spotify.com/de-en/safetyandprivacy/violent-extremism) [Understanding recommendations](https://www.spotify.com/de-en/safetyandprivacy/understanding-recommendations) [Digital Services Act points of contact](https://www.spotify.com/de-en/safetyandprivacy/dsa-points-of-contact)
     
-* Privacy
+*   Privacy
     
      [Collecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/personal-data-collected) [Protecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/protecting-personal-data) [Your privacy controls](https://www.spotify.com/de-en/safetyandprivacy/privacy-controls) [Learn more about privacy](https://www.spotify.com/de-en/safetyandprivacy/learn-more-about-privacy)
     
-* Regulatory and transparency reports
+*   Regulatory and transparency reports
     
 
 Content actions
@@ -192,10 +194,10 @@ Restricting the discoverability of content
 
 In instances when content comes close to the line but does not meet the threshold of removal under our [Platform Rules](https://www.spotify.com/safetyandprivacy/platform-rules/), we may take steps to restrict its reach. Though the content will remain available on Spotify, it may be:
 
-* Ineligible for on-platform promotion;
-* Reduced within recommendations;
-* Ranked lower in search results; and/or
-* Excluded from some Spotify product features.
+*   Ineligible for on-platform promotion;
+*   Reduced within recommendations;
+*   Ranked lower in search results; and/or
+*   Excluded from some Spotify product features.
 
 During periods of heightened risk, there is often a greater threat of harmful content online, for example, during elections, violent conflict or mass-casualty events. Recognising this, Spotify may take additional steps during such events, like restricting the reach of certain types of content and/or highlighting timely and trusted resources.
 
@@ -221,20 +223,22 @@ Options for appealing content decisions vary by location, and we will continue t
 
 If you disagree with an enforcement decision taken on your content or in response to your report, you may be able to submit an appeal. To do this, please follow the instructions in the notification that you may have received from Spotify.
 
+- - -
+
 Safety and Privacy Centre
 =========================
 
-* Home
+*   Home
     
-* Safety
+*   Safety
     
      [Platform Rules](https://www.spotify.com/de-en/safetyandprivacy/platform-rules) [Content actions](https://www.spotify.com/de-en/safetyandprivacy/content-actions) [Reporting content](https://www.spotify.com/de-en/safetyandprivacy/reporting-content) [Guidance for parents or caregivers](https://www.spotify.com/de-en/safetyandprivacy/parental-guide) [Our approach to assuring the age of users](https://www.spotify.com/de-en/safetyandprivacy/age-assurance) [Election integrity at Spotify](https://www.spotify.com/de-en/safetyandprivacy/elections-integrity) [Our approach to dangerous and deceptive content](https://www.spotify.com/de-en/safetyandprivacy/dangerous-deceptive-content) [Our approach to violent extremism](https://www.spotify.com/de-en/safetyandprivacy/violent-extremism) [Understanding recommendations](https://www.spotify.com/de-en/safetyandprivacy/understanding-recommendations) [Digital Services Act points of contact](https://www.spotify.com/de-en/safetyandprivacy/dsa-points-of-contact)
     
-* Privacy
+*   Privacy
     
      [Collecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/personal-data-collected) [Protecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/protecting-personal-data) [Your privacy controls](https://www.spotify.com/de-en/safetyandprivacy/privacy-controls) [Learn more about privacy](https://www.spotify.com/de-en/safetyandprivacy/learn-more-about-privacy)
     
-* Regulatory and transparency reports
+*   Regulatory and transparency reports
     
 
 Reporting content on Spotify
@@ -280,20 +284,22 @@ How do I report other problems with the app?
 
 If you find inaccurate information or issues with app functionality, you can [report them here](https://support.spotify.com/article/faulty-inaccurate-metadata/). If you’re an artist, your label or distributor can help fix problems with your music.
 
+- - -
+
 Safety and Privacy Centre
 =========================
 
-* Home
+*   Home
     
-* Safety
+*   Safety
     
      [Platform Rules](https://www.spotify.com/de-en/safetyandprivacy/platform-rules) [Content actions](https://www.spotify.com/de-en/safetyandprivacy/content-actions) [Reporting content](https://www.spotify.com/de-en/safetyandprivacy/reporting-content) [Guidance for parents or caregivers](https://www.spotify.com/de-en/safetyandprivacy/parental-guide) [Our approach to assuring the age of users](https://www.spotify.com/de-en/safetyandprivacy/age-assurance) [Election integrity at Spotify](https://www.spotify.com/de-en/safetyandprivacy/elections-integrity) [Our approach to dangerous and deceptive content](https://www.spotify.com/de-en/safetyandprivacy/dangerous-deceptive-content) [Our approach to violent extremism](https://www.spotify.com/de-en/safetyandprivacy/violent-extremism) [Understanding recommendations](https://www.spotify.com/de-en/safetyandprivacy/understanding-recommendations) [Digital Services Act points of contact](https://www.spotify.com/de-en/safetyandprivacy/dsa-points-of-contact)
     
-* Privacy
+*   Privacy
     
      [Collecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/personal-data-collected) [Protecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/protecting-personal-data) [Your privacy controls](https://www.spotify.com/de-en/safetyandprivacy/privacy-controls) [Learn more about privacy](https://www.spotify.com/de-en/safetyandprivacy/learn-more-about-privacy)
     
-* Regulatory and transparency reports
+*   Regulatory and transparency reports
     
 
 Guidance for parents or caregivers
@@ -320,12 +326,12 @@ Creating a safe experience for young people
 
 Spotify is a digital music, podcast and audiobook service that provides access to millions of songs and other content from creators all over the world. We understand that navigating the digital world can be challenging for parents and that decisions around the content and experiences that are right for your family are often personal. To help craft an experience that is safe and enjoyable, we have developed an array of important measures. They include:
 
-* Establishing a zero-tolerance policy against content that exploits children and [Platform Rules](https://www.spotify.com/safetyandprivacy/platform-rules/) ban illegal and/or abusive behaviours that harm children
-* Leveraging [machine-learning signals](https://www.spotify.com/safetyandprivacy/understanding-recommendations) and establishing [user-reporting mechanisms](https://support.spotify.com/content-policy-reporting/) to detect to potential policy and/or legal violations
-* Staffing teams to review and promptly action violative content around the clock
-* Connecting potentially vulnerable users’ to [mental health resources](https://resources.byspotify.com/) when they search for content related to suicide, self-harm and disordered eating content
-* Providing parental controls so that Family plan managers can design the most appropriate experience for their family
-* Proactively seeking feedback from experts on our [Spotify Safety Advisory Council](https://newsroom.spotify.com/2023-05-05/thorn-joins-the-spotify-safety-advisory-council/), such as [Thorn](https://www.thorn.org/) and the [Diana Award](https://diana-award.org.uk/), and partners at the [Jed Foundation](https://jedfoundation.org/resource/understanding-eating-disorders/), [Tech Coalition](https://www.technologycoalition.org/) and [WeProtect Alliance](https://www.weprotect.org/) to ensure that our teams stay up to date with emerging threats and mitigation techniques.
+*   Establishing a zero-tolerance policy against content that exploits children and [Platform Rules](https://www.spotify.com/safetyandprivacy/platform-rules/) ban illegal and/or abusive behaviours that harm children
+*   Leveraging [machine-learning signals](https://www.spotify.com/safetyandprivacy/understanding-recommendations) and establishing [user-reporting mechanisms](https://support.spotify.com/content-policy-reporting/) to detect to potential policy and/or legal violations
+*   Staffing teams to review and promptly action violative content around the clock
+*   Connecting potentially vulnerable users’ to [mental health resources](https://resources.byspotify.com/) when they search for content related to suicide, self-harm and disordered eating content
+*   Providing parental controls so that Family plan managers can design the most appropriate experience for their family
+*   Proactively seeking feedback from experts on our [Spotify Safety Advisory Council](https://newsroom.spotify.com/2023-05-05/thorn-joins-the-spotify-safety-advisory-council/), such as [Thorn](https://www.thorn.org/) and the [Diana Award](https://diana-award.org.uk/), and partners at the [Jed Foundation](https://jedfoundation.org/resource/understanding-eating-disorders/), [Tech Coalition](https://www.technologycoalition.org/) and [WeProtect Alliance](https://www.weprotect.org/) to ensure that our teams stay up to date with emerging threats and mitigation techniques.
 
 As the child safety landscape evolves, we will continue refining our policies, tools and capabilities. In the meantime, please read on to learn more about the steps that you can take as a parent or guardian to help us create a safe experience.
 
@@ -334,7 +340,7 @@ Your child’s experience on Spotify
 
 ### Creating an account
 
-All users must meet the [minimum age requirement](https://www.spotify.com/legal/end-user-agreement/) for the country associated with their account. If your child is under the minimum age to use Spotify or does not otherwise meet the requirements of our [Terms of Use](https://www.spotify.com/de-en/safetyandprivacy/$(terms_use_url)), their account must be closed.
+All users must meet the [minimum age requirement](https://www.spotify.com/legal/end-user-agreement/) for the country associated with their account. If your child is under the minimum age to use Spotify or does not otherwise meet the requirements of our [Terms of Use](https://www.spotify.com/de-en/safetyandprivacy/$\(terms_use_url\)), their account must be closed.
 
 When creating an account, it’s important to represent your child’s age accurately. This helps to ensure compliance with local laws and helps us deliver an age-appropriate product experience.
 
@@ -342,7 +348,7 @@ When creating an account, it’s important to represent your child’s age accur
 
 In certain markets, we currently offer the following experiences as part of our [Premium Family plan](https://www.spotify.com/family/):
 
-* **Spotify Kids** is a standalone app that offers a curated experience and includes content that may resonate more with younger children. To learn more, click [here](https://www.spotify.com/kids/).
+*   **Spotify Kids** is a standalone app that offers a curated experience and includes content that may resonate more with younger children. To learn more, click [here](https://www.spotify.com/kids/).
 
 Whether you opt in to a Premium Family plan or not, Spotify provides various tools to help you curate the experience that’s right for your family.
 
@@ -382,20 +388,22 @@ We’re committed to protecting our users’ personal data, including that of ch
 
 To learn more about how we use your data, your privacy rights and choices, and how to adjust your settings, please see our [Safety and Privacy Centre](https://www.spotify.com/safetyandprivacy/learn-more-about-privacy) and read our [Privacy Policy](https://www.spotify.com/legal/privacy-policy/).
 
+- - -
+
 Safety and Privacy Centre
 =========================
 
-* Home
+*   Home
     
-* Safety
+*   Safety
     
      [Platform Rules](https://www.spotify.com/de-en/safetyandprivacy/platform-rules) [Content actions](https://www.spotify.com/de-en/safetyandprivacy/content-actions) [Reporting content](https://www.spotify.com/de-en/safetyandprivacy/reporting-content) [Guidance for parents or caregivers](https://www.spotify.com/de-en/safetyandprivacy/parental-guide) [Our approach to assuring the age of users](https://www.spotify.com/de-en/safetyandprivacy/age-assurance) [Election integrity at Spotify](https://www.spotify.com/de-en/safetyandprivacy/elections-integrity) [Our approach to dangerous and deceptive content](https://www.spotify.com/de-en/safetyandprivacy/dangerous-deceptive-content) [Our approach to violent extremism](https://www.spotify.com/de-en/safetyandprivacy/violent-extremism) [Understanding recommendations](https://www.spotify.com/de-en/safetyandprivacy/understanding-recommendations) [Digital Services Act points of contact](https://www.spotify.com/de-en/safetyandprivacy/dsa-points-of-contact)
     
-* Privacy
+*   Privacy
     
      [Collecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/personal-data-collected) [Protecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/protecting-personal-data) [Your privacy controls](https://www.spotify.com/de-en/safetyandprivacy/privacy-controls) [Learn more about privacy](https://www.spotify.com/de-en/safetyandprivacy/learn-more-about-privacy)
     
-* Regulatory and transparency reports
+*   Regulatory and transparency reports
     
 
 Our approach to assuring the age of users
@@ -417,20 +425,22 @@ Understanding age online has been a decades-long challenge for technology compan
 
 Our work and technology will continue to improve and optimise as we scale. To learn more about Yoti’s approach, visit their website [here](https://www.yoti.com/business/age-verification/).
 
+- - -
+
 Safety and Privacy Centre
 =========================
 
-* Home
+*   Home
     
-* Safety
+*   Safety
     
      [Platform Rules](https://www.spotify.com/de-en/safetyandprivacy/platform-rules) [Content actions](https://www.spotify.com/de-en/safetyandprivacy/content-actions) [Reporting content](https://www.spotify.com/de-en/safetyandprivacy/reporting-content) [Guidance for parents or caregivers](https://www.spotify.com/de-en/safetyandprivacy/parental-guide) [Our approach to assuring the age of users](https://www.spotify.com/de-en/safetyandprivacy/age-assurance) [Election integrity at Spotify](https://www.spotify.com/de-en/safetyandprivacy/elections-integrity) [Our approach to dangerous and deceptive content](https://www.spotify.com/de-en/safetyandprivacy/dangerous-deceptive-content) [Our approach to violent extremism](https://www.spotify.com/de-en/safetyandprivacy/violent-extremism) [Understanding recommendations](https://www.spotify.com/de-en/safetyandprivacy/understanding-recommendations) [Digital Services Act points of contact](https://www.spotify.com/de-en/safetyandprivacy/dsa-points-of-contact)
     
-* Privacy
+*   Privacy
     
      [Collecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/personal-data-collected) [Protecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/protecting-personal-data) [Your privacy controls](https://www.spotify.com/de-en/safetyandprivacy/privacy-controls) [Learn more about privacy](https://www.spotify.com/de-en/safetyandprivacy/learn-more-about-privacy)
     
-* Regulatory and transparency reports
+*   Regulatory and transparency reports
     
 
 Election integrity at Spotify
@@ -478,20 +488,22 @@ Additionally, we require that political advertisements clearly disclose the use 
 
 To read more about political ads in the markets where they are offered, and learn about how to report an ad that you believe violates our policies, please review Spotify’s political advertising [editorial policies](https://adshelp.spotify.com/HelpCenter/s/topic/0TO7S000000Gt54WAC/advertising-policies).
 
+- - -
+
 Safety and Privacy Centre
 =========================
 
-* Home
+*   Home
     
-* Safety
+*   Safety
     
      [Platform Rules](https://www.spotify.com/de-en/safetyandprivacy/platform-rules) [Content actions](https://www.spotify.com/de-en/safetyandprivacy/content-actions) [Reporting content](https://www.spotify.com/de-en/safetyandprivacy/reporting-content) [Guidance for parents or caregivers](https://www.spotify.com/de-en/safetyandprivacy/parental-guide) [Our approach to assuring the age of users](https://www.spotify.com/de-en/safetyandprivacy/age-assurance) [Election integrity at Spotify](https://www.spotify.com/de-en/safetyandprivacy/elections-integrity) [Our approach to dangerous and deceptive content](https://www.spotify.com/de-en/safetyandprivacy/dangerous-deceptive-content) [Our approach to violent extremism](https://www.spotify.com/de-en/safetyandprivacy/violent-extremism) [Understanding recommendations](https://www.spotify.com/de-en/safetyandprivacy/understanding-recommendations) [Digital Services Act points of contact](https://www.spotify.com/de-en/safetyandprivacy/dsa-points-of-contact)
     
-* Privacy
+*   Privacy
     
      [Collecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/personal-data-collected) [Protecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/protecting-personal-data) [Your privacy controls](https://www.spotify.com/de-en/safetyandprivacy/privacy-controls) [Learn more about privacy](https://www.spotify.com/de-en/safetyandprivacy/learn-more-about-privacy)
     
-* Regulatory and transparency reports
+*   Regulatory and transparency reports
     
 
 Our approach to dangerous and deceptive content
@@ -509,10 +521,10 @@ For example, within our [dangerous content policies](https://www.spotify.com/saf
 
 When assessing these forms of online abuse, we take multiple factors into account, including:
 
-* The substance of the content (for example, is the creator pretending to be someone else?)
-* The context (for example, is it a news report about a dangerous narrative that is spreading, or is it endorsing the narrative itself?)
-* The motivation (for example, is the creator attempting to trick a user into voting past the deadline?)
-* The risk of harm (for example, is there a high likelihood that the spread of the narrative will result in imminent physical harm?)
+*   The substance of the content (for example, is the creator pretending to be someone else?)
+*   The context (for example, is it a news report about a dangerous narrative that is spreading, or is it endorsing the narrative itself?)
+*   The motivation (for example, is the creator attempting to trick a user into voting past the deadline?)
+*   The risk of harm (for example, is there a high likelihood that the spread of the narrative will result in imminent physical harm?)
 
 Dangerous deception is often hyper-localised, targeting specific markets, languages and particular at-risk populations. To address this, we leverage [local market expertise](https://newsroom.spotify.com/2022-10-05/spotify-continues-to-ramp-up-platform-safety-efforts-with-acquisition-of-kinzen/) to help ensure that we stay close to emerging trends that may present a serious risk of harm and scale this human knowledge using machine-learning classifiers. This approach is known as “the human in the loop”.
 
@@ -524,20 +536,22 @@ We continuously iterate our policies and reviewer guidance based on inputs from 
 
 You can read more about our safety work [here](https://newsroom.spotify.com/safety-at-spotify/) and see our guidance for creators during past elections [here](https://medium.com/anchor/ways-to-help-your-audience-stay-informed-this-election-aa25b04399f9).
 
+- - -
+
 Safety and Privacy Centre
 =========================
 
-* Home
+*   Home
     
-* Safety
+*   Safety
     
      [Platform Rules](https://www.spotify.com/de-en/safetyandprivacy/platform-rules) [Content actions](https://www.spotify.com/de-en/safetyandprivacy/content-actions) [Reporting content](https://www.spotify.com/de-en/safetyandprivacy/reporting-content) [Guidance for parents or caregivers](https://www.spotify.com/de-en/safetyandprivacy/parental-guide) [Our approach to assuring the age of users](https://www.spotify.com/de-en/safetyandprivacy/age-assurance) [Election integrity at Spotify](https://www.spotify.com/de-en/safetyandprivacy/elections-integrity) [Our approach to dangerous and deceptive content](https://www.spotify.com/de-en/safetyandprivacy/dangerous-deceptive-content) [Our approach to violent extremism](https://www.spotify.com/de-en/safetyandprivacy/violent-extremism) [Understanding recommendations](https://www.spotify.com/de-en/safetyandprivacy/understanding-recommendations) [Digital Services Act points of contact](https://www.spotify.com/de-en/safetyandprivacy/dsa-points-of-contact)
     
-* Privacy
+*   Privacy
     
      [Collecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/personal-data-collected) [Protecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/protecting-personal-data) [Your privacy controls](https://www.spotify.com/de-en/safetyandprivacy/privacy-controls) [Learn more about privacy](https://www.spotify.com/de-en/safetyandprivacy/learn-more-about-privacy)
     
-* Regulatory and transparency reports
+*   Regulatory and transparency reports
     
 
 Our approach to violent extremism
@@ -553,36 +567,38 @@ When it comes to violent extremism, we carefully review entities’ on-platform 
 
 We address potential violent extremist content through multiple policies, which include, but are not limited to:
 
-* Our [hate policies](https://www.spotify.com/safetyandprivacy/platform-rules/) prohibit content that explicitly incites violence or hatred toward people based on protected characteristics, including race, sex, ethnicity or sexual orientation.
-* Our [dangerous content policies](https://www.spotify.com/safetyandprivacy/platform-rules/) clearly outline that material which promotes or supports terrorism or violent extremism is strictly not allowed on the Spotify platform.
+*   Our [hate policies](https://www.spotify.com/safetyandprivacy/platform-rules/) prohibit content that explicitly incites violence or hatred toward people based on protected characteristics, including race, sex, ethnicity or sexual orientation.
+*   Our [dangerous content policies](https://www.spotify.com/safetyandprivacy/platform-rules/) clearly outline that material which promotes or supports terrorism or violent extremism is strictly not allowed on the Spotify platform.
 
 We identify potentially violative content for review using proactive monitoring methods, [leveraging human expertise](https://newsroom.spotify.com/2022-10-05/spotify-continues-to-ramp-up-platform-safety-efforts-with-acquisition-of-kinzen/) and user reports. We also use insights from global third-party [experts](https://newsroom.spotify.com/2022-06-13/introducing-the-spotify-safety-advisory-council/) to monitor emerging abuse trends and ensure that we’re constantly improving our approach.
 
 When it comes to enforcement, we may take various [actions](https://www.spotify.com/safetyandprivacy/content-actions/), including removing content or the creator, reducing distribution and/or demonetisation. When determining what action to take, we consider the potential risk of the content to lead to offline harm. Additional factors may also include:
 
-* Is there region-specific context or nuance?
-* Could this content increase the risk of offline harm?
-* What is the nature of the content (for example, is it news or a documentary? A comedy or satire?)
-* Is the speaker discussing their personally-lived experience?
+*   Is there region-specific context or nuance?
+*   Could this content increase the risk of offline harm?
+*   What is the nature of the content (for example, is it news or a documentary? A comedy or satire?)
+*   Is the speaker discussing their personally-lived experience?
 
 Additionally, when users search for violent extremist content, they may be pointed to resource hubs that offer support for those who have been exposed to radicalising content. This material was created in partnership with third-party experts, including the [Spotify Safety Advisory Council](https://newsroom.spotify.com/2022-06-13/introducing-the-spotify-safety-advisory-council/), and encourages users to critically evaluate the content that they consume.
 
 This space is nuanced, complex and always evolving. We are committed to iterating and improving upon our approach to keep violent extremist content off our platform. You can read more about our safety work [here](https://newsroom.spotify.com/safety-at-spotify/).
 
+- - -
+
 Safety and Privacy Centre
 =========================
 
-* Home
+*   Home
     
-* Safety
+*   Safety
     
      [Platform Rules](https://www.spotify.com/de-en/safetyandprivacy/platform-rules) [Content actions](https://www.spotify.com/de-en/safetyandprivacy/content-actions) [Reporting content](https://www.spotify.com/de-en/safetyandprivacy/reporting-content) [Guidance for parents or caregivers](https://www.spotify.com/de-en/safetyandprivacy/parental-guide) [Our approach to assuring the age of users](https://www.spotify.com/de-en/safetyandprivacy/age-assurance) [Election integrity at Spotify](https://www.spotify.com/de-en/safetyandprivacy/elections-integrity) [Our approach to dangerous and deceptive content](https://www.spotify.com/de-en/safetyandprivacy/dangerous-deceptive-content) [Our approach to violent extremism](https://www.spotify.com/de-en/safetyandprivacy/violent-extremism) [Understanding recommendations](https://www.spotify.com/de-en/safetyandprivacy/understanding-recommendations) [Digital Services Act points of contact](https://www.spotify.com/de-en/safetyandprivacy/dsa-points-of-contact)
     
-* Privacy
+*   Privacy
     
      [Collecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/personal-data-collected) [Protecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/protecting-personal-data) [Your privacy controls](https://www.spotify.com/de-en/safetyandprivacy/privacy-controls) [Learn more about privacy](https://www.spotify.com/de-en/safetyandprivacy/learn-more-about-privacy)
     
-* Regulatory and transparency reports
+*   Regulatory and transparency reports
     
 
 Understanding recommendations on Spotify
@@ -613,29 +629,29 @@ To make these recommendations, our algorithms rely on a number of inputs. The im
 
 As you engage with Spotify, actions such as searching, listening, skipping or saving to Your Library influence our interpretation of your taste. We call this your “taste profile”, and it gives our algorithms an indication of what you’re interested in and how you like to listen.
 
-* Example: If you listen to a certain artist, we might recommend more songs by that artist.
-* Example: Our Release Radar playlist recommends the latest releases we think you’ll enjoy based on similar music you’ve listened to.
-* Example: If you listen to a sports podcast, we might recommend other sports podcasts to you.
+*   Example: If you listen to a certain artist, we might recommend more songs by that artist.
+*   Example: Our Release Radar playlist recommends the latest releases we think you’ll enjoy based on similar music you’ve listened to.
+*   Example: If you listen to a sports podcast, we might recommend other sports podcasts to you.
 
 ### Information you share with us
 
 Recommendations are also based on information you share with Spotify, like your general (non-precise) location, your language, your age and who you follow. This gives our algorithms signals about what topics you’re interested in or which artists you want to keep up to date with.
 
-* Example: If you follow a certain podcast, we might recommend an episode from that podcast.
-* Example: If you choose German as your language on Spotify, we might recommend German-speaking podcasts.
+*   Example: If you follow a certain podcast, we might recommend an episode from that podcast.
+*   Example: If you choose German as your language on Spotify, we might recommend German-speaking podcasts.
 
 ### Trends
 
 Our algorithms consider trends and the general tastes and behaviours of users to improve recommendations for everyone. When users take similar actions on certain content, our algorithms have more information about how people might want to interact with it.
 
-* Example: If many users interact with a specific search result (e.g. a song or a podcast), we are likely to recommend that result to other users who search for similar things.
+*   Example: If many users interact with a specific search result (e.g. a song or a podcast), we are likely to recommend that result to other users who search for similar things.
 
 ### Information about the content
 
 Our algorithms take into account the characteristics of the content itself, such as its genre, release date, podcast category, etc. This allows us to identify which content has similar characteristics and might be enjoyed by similar listeners.
 
-* Example: If you listen to a lot of pop music, we might recommend other pop songs that are similar.
-* Example: If you listen to a lot of crime audiobooks, we might recommend other crime audiobooks.
+*   Example: If you listen to a lot of pop music, we might recommend other pop songs that are similar.
+*   Example: If you listen to a lot of crime audiobooks, we might recommend other crime audiobooks.
 
 ### Listener safety
 
@@ -650,9 +666,9 @@ Your recommendations are constantly influenced by your engagement with content o
 
 We also offer ways for you to influence and give feedback on what shows up in your recommendations and see less of something specific. Some examples are listed below:
 
-* **Exclude from taste profile:** When you [exclude a playlist](https://support.spotify.com/article/your-taste-profile/) from your taste profile, that playlist will have less influence on your future recommendations.
-* **Giving feedback on recommendations:** When you tap \[not interested/thumbs down\] for a recommendation on Spotify, you’ll be given fewer recommendations that are similar to it.
-* **Explicit content filter:** When you turn off [explicit content](https://support.spotify.com/article/explicit-content/), anything with an explicit tag will be greyed out and you won’t be able to play it.
+*   **Exclude from taste profile:** When you [exclude a playlist](https://support.spotify.com/article/your-taste-profile/) from your taste profile, that playlist will have less influence on your future recommendations.
+*   **Giving feedback on recommendations:** When you tap \[not interested/thumbs down\] for a recommendation on Spotify, you’ll be given fewer recommendations that are similar to it.
+*   **Explicit content filter:** When you turn off [explicit content](https://support.spotify.com/article/explicit-content/), anything with an explicit tag will be greyed out and you won’t be able to play it.
 
 In some cases, you can also organise and filter your recommendations based on what you most want to see. For example, you can filter your Home page to only see podcasts, or only see music.
 
@@ -661,20 +677,22 @@ How do commercial considerations impact recommendations?
 
 Spotify prioritises listener satisfaction when recommending content. In some cases, commercial considerations, such as the cost of content or whether we can monetise it, may influence our recommendations. For example, [Discovery Mode](https://artists.spotify.com/discovery-mode) gives artists and labels the opportunity to identify songs that are a priority for them, and our system will add that signal to the algorithms that determine the content of personalised listening sessions. When an artist or label turns on Discovery Mode for a song, Spotify charges a commission on streams of that song in areas of the platform where Discovery Mode is active (Discovery Mode is not active in our editorial playlists). This signal increases the likelihood of the selected songs being recommended, but does not guarantee it. We only recommend songs there is a high probability listeners will enjoy. As with all recommendations, we take note when a listener isn’t engaging with a song – including those in Discovery Mode – and factor this in when determining what to recommend in the future.
 
+- - -
+
 Safety and Privacy Centre
 =========================
 
-* Home
+*   Home
     
-* Safety
+*   Safety
     
      [Platform Rules](https://www.spotify.com/de-en/safetyandprivacy/platform-rules) [Content actions](https://www.spotify.com/de-en/safetyandprivacy/content-actions) [Reporting content](https://www.spotify.com/de-en/safetyandprivacy/reporting-content) [Guidance for parents or caregivers](https://www.spotify.com/de-en/safetyandprivacy/parental-guide) [Our approach to assuring the age of users](https://www.spotify.com/de-en/safetyandprivacy/age-assurance) [Election integrity at Spotify](https://www.spotify.com/de-en/safetyandprivacy/elections-integrity) [Our approach to dangerous and deceptive content](https://www.spotify.com/de-en/safetyandprivacy/dangerous-deceptive-content) [Our approach to violent extremism](https://www.spotify.com/de-en/safetyandprivacy/violent-extremism) [Understanding recommendations](https://www.spotify.com/de-en/safetyandprivacy/understanding-recommendations) [Digital Services Act points of contact](https://www.spotify.com/de-en/safetyandprivacy/dsa-points-of-contact)
     
-* Privacy
+*   Privacy
     
      [Collecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/personal-data-collected) [Protecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/protecting-personal-data) [Your privacy controls](https://www.spotify.com/de-en/safetyandprivacy/privacy-controls) [Learn more about privacy](https://www.spotify.com/de-en/safetyandprivacy/learn-more-about-privacy)
     
-* Regulatory and transparency reports
+*   Regulatory and transparency reports
     
 
 Digital Services Act points of contact
@@ -706,8 +724,8 @@ Support for EU authorities
 
 Relevant national judicial or administrative authorities can contact us directly for the purposes of the DSA:
 
-* For orders to act against illegal content or for other communication from regulatory authorities, please [\>email us](mailto:<dsa-govt@spotify.com).
-* To request information about one or more specific individual recipients of Spotify’s services, please [\>contact us](mailto:<law-enforcement@spotify.com).
+*   For orders to act against illegal content or for other communication from regulatory authorities, please [\>email us](mailto:<dsa-govt@spotify.com).
+*   To request information about one or more specific individual recipients of Spotify’s services, please [\>contact us](mailto:<law-enforcement@spotify.com).
 
 Communications to the above email addresses can be either in English or Swedish. Note that we will not respond to requests sent to these addresses by anyone other than the European Member States’ authorities, the European Commission and the European Board for Digital Services.
 
@@ -716,20 +734,22 @@ Information on monthly active recipients in the EU
 
 To review information about Spotify’s average monthly active recipients of its service under the DSA, please visit [https://www.spotify.com/se/legal/digital-services-act/](https://www.spotify.com/se/legal/digital-services-act/).
 
+- - -
+
 Safety and Privacy Centre
 =========================
 
-* Home
+*   Home
     
-* Safety
+*   Safety
     
      [Platform Rules](https://www.spotify.com/de-en/safetyandprivacy/platform-rules) [Content actions](https://www.spotify.com/de-en/safetyandprivacy/content-actions) [Reporting content](https://www.spotify.com/de-en/safetyandprivacy/reporting-content) [Guidance for parents or caregivers](https://www.spotify.com/de-en/safetyandprivacy/parental-guide) [Our approach to assuring the age of users](https://www.spotify.com/de-en/safetyandprivacy/age-assurance) [Election integrity at Spotify](https://www.spotify.com/de-en/safetyandprivacy/elections-integrity) [Our approach to dangerous and deceptive content](https://www.spotify.com/de-en/safetyandprivacy/dangerous-deceptive-content) [Our approach to violent extremism](https://www.spotify.com/de-en/safetyandprivacy/violent-extremism) [Understanding recommendations](https://www.spotify.com/de-en/safetyandprivacy/understanding-recommendations) [Digital Services Act points of contact](https://www.spotify.com/de-en/safetyandprivacy/dsa-points-of-contact)
     
-* Privacy
+*   Privacy
     
      [Collecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/personal-data-collected) [Protecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/protecting-personal-data) [Your privacy controls](https://www.spotify.com/de-en/safetyandprivacy/privacy-controls) [Learn more about privacy](https://www.spotify.com/de-en/safetyandprivacy/learn-more-about-privacy)
     
-* Regulatory and transparency reports
+*   Regulatory and transparency reports
     
 
 Privacy
@@ -742,25 +762,27 @@ It is very important to us that you understand what personal data we collect abo
 
 We collect your personal data in the following ways:
 
-1. **When you sign up for the Spotify Service or when you update your account** – we collect certain personal data to create your Spotify account so you can use the Spotify Service. This includes your profile name and email address, as described in more detail in section 3 of our [Privacy Policy](https://www.spotify.com/legal/privacy-policy/).
-2. **Through your use of the Spotify Service** – when you use or access the Spotify Service, we collect and process personal data about your actions. This includes the songs you have played and playlists you have created. This is the Usage Data category contained in section 3 of our [Privacy Policy](https://www.spotify.com/legal/privacy-policy/).
-3. **Personal data that you choose to give us** – from time to time, you may also provide us with additional personal data or give us permission to collect personal data, e.g. to provide you with more features or functionality. These could include Voice Data, Payment and Purchase Data and Survey and Research Data categories contained in section 3 of our [Privacy Policy](https://www.spotify.com/legal/privacy-policy/).
-4. **Personal data that we receive from third-party sources** – if you sign up for Spotify using another service or connect your Spotify account to a third-party application, service or device, we‘ll receive your data from those third parties. We may also receive your data from technical service providers, payment partners, and advertising and marketing partners. See section 3 of the [Privacy Policy](https://www.spotify.com/legal/privacy-policy/) for more details.
+1.  **When you sign up for the Spotify Service or when you update your account** – we collect certain personal data to create your Spotify account so you can use the Spotify Service. This includes your profile name and email address, as described in more detail in section 3 of our [Privacy Policy](https://www.spotify.com/legal/privacy-policy/).
+2.  **Through your use of the Spotify Service** – when you use or access the Spotify Service, we collect and process personal data about your actions. This includes the songs you have played and playlists you have created. This is the Usage Data category contained in section 3 of our [Privacy Policy](https://www.spotify.com/legal/privacy-policy/).
+3.  **Personal data that you choose to give us** – from time to time, you may also provide us with additional personal data or give us permission to collect personal data, e.g. to provide you with more features or functionality. These could include Voice Data, Payment and Purchase Data and Survey and Research Data categories contained in section 3 of our [Privacy Policy](https://www.spotify.com/legal/privacy-policy/).
+4.  **Personal data that we receive from third-party sources** – if you sign up for Spotify using another service or connect your Spotify account to a third-party application, service or device, we‘ll receive your data from those third parties. We may also receive your data from technical service providers, payment partners, and advertising and marketing partners. See section 3 of the [Privacy Policy](https://www.spotify.com/legal/privacy-policy/) for more details.
+
+- - -
 
 Safety and Privacy Centre
 =========================
 
-* Home
+*   Home
     
-* Safety
+*   Safety
     
      [Platform Rules](https://www.spotify.com/de-en/safetyandprivacy/platform-rules) [Content actions](https://www.spotify.com/de-en/safetyandprivacy/content-actions) [Reporting content](https://www.spotify.com/de-en/safetyandprivacy/reporting-content) [Guidance for parents or caregivers](https://www.spotify.com/de-en/safetyandprivacy/parental-guide) [Our approach to assuring the age of users](https://www.spotify.com/de-en/safetyandprivacy/age-assurance) [Election integrity at Spotify](https://www.spotify.com/de-en/safetyandprivacy/elections-integrity) [Our approach to dangerous and deceptive content](https://www.spotify.com/de-en/safetyandprivacy/dangerous-deceptive-content) [Our approach to violent extremism](https://www.spotify.com/de-en/safetyandprivacy/violent-extremism) [Understanding recommendations](https://www.spotify.com/de-en/safetyandprivacy/understanding-recommendations) [Digital Services Act points of contact](https://www.spotify.com/de-en/safetyandprivacy/dsa-points-of-contact)
     
-* Privacy
+*   Privacy
     
      [Collecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/personal-data-collected) [Protecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/protecting-personal-data) [Your privacy controls](https://www.spotify.com/de-en/safetyandprivacy/privacy-controls) [Learn more about privacy](https://www.spotify.com/de-en/safetyandprivacy/learn-more-about-privacy)
     
-* Regulatory and transparency reports
+*   Regulatory and transparency reports
     
 
 Privacy
@@ -775,28 +797,30 @@ We have put various safeguards in place to guard against unauthorised access and
 
 To protect your user account, we encourage you to:
 
-* Use a strong password which you only use for your Spotify account
-* Never share your password with anyone
-* Limit access to your computer and browser
-* Log out once you have finished using the Spotify service on a shared device
-* Read more details on [protecting your account](https://support.spotify.com/article/protect-your-account/)
+*   Use a strong password which you only use for your Spotify account
+*   Never share your password with anyone
+*   Limit access to your computer and browser
+*   Log out once you have finished using the Spotify service on a shared device
+*   Read more details on [protecting your account](https://support.spotify.com/article/protect-your-account/)
 
 For more details, see Section 8 of our [Privacy Policy](https://www.spotify.com/legal/privacy-policy/).
+
+- - -
 
 Safety and Privacy Centre
 =========================
 
-* Home
+*   Home
     
-* Safety
+*   Safety
     
      [Platform Rules](https://www.spotify.com/de-en/safetyandprivacy/platform-rules) [Content actions](https://www.spotify.com/de-en/safetyandprivacy/content-actions) [Reporting content](https://www.spotify.com/de-en/safetyandprivacy/reporting-content) [Guidance for parents or caregivers](https://www.spotify.com/de-en/safetyandprivacy/parental-guide) [Our approach to assuring the age of users](https://www.spotify.com/de-en/safetyandprivacy/age-assurance) [Election integrity at Spotify](https://www.spotify.com/de-en/safetyandprivacy/elections-integrity) [Our approach to dangerous and deceptive content](https://www.spotify.com/de-en/safetyandprivacy/dangerous-deceptive-content) [Our approach to violent extremism](https://www.spotify.com/de-en/safetyandprivacy/violent-extremism) [Understanding recommendations](https://www.spotify.com/de-en/safetyandprivacy/understanding-recommendations) [Digital Services Act points of contact](https://www.spotify.com/de-en/safetyandprivacy/dsa-points-of-contact)
     
-* Privacy
+*   Privacy
     
      [Collecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/personal-data-collected) [Protecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/protecting-personal-data) [Your privacy controls](https://www.spotify.com/de-en/safetyandprivacy/privacy-controls) [Learn more about privacy](https://www.spotify.com/de-en/safetyandprivacy/learn-more-about-privacy)
     
-* Regulatory and transparency reports
+*   Regulatory and transparency reports
     
 
 Privacy
@@ -809,20 +833,22 @@ Your privacy controls
 
 [**Notification Settings page**](https://www.spotify.com/account/notifications/) – set which marketing communication you get from Spotify.
 
+- - -
+
 Safety and Privacy Centre
 =========================
 
-* Home
+*   Home
     
-* Safety
+*   Safety
     
      [Platform Rules](https://www.spotify.com/de-en/safetyandprivacy/platform-rules) [Content actions](https://www.spotify.com/de-en/safetyandprivacy/content-actions) [Reporting content](https://www.spotify.com/de-en/safetyandprivacy/reporting-content) [Guidance for parents or caregivers](https://www.spotify.com/de-en/safetyandprivacy/parental-guide) [Our approach to assuring the age of users](https://www.spotify.com/de-en/safetyandprivacy/age-assurance) [Election integrity at Spotify](https://www.spotify.com/de-en/safetyandprivacy/elections-integrity) [Our approach to dangerous and deceptive content](https://www.spotify.com/de-en/safetyandprivacy/dangerous-deceptive-content) [Our approach to violent extremism](https://www.spotify.com/de-en/safetyandprivacy/violent-extremism) [Understanding recommendations](https://www.spotify.com/de-en/safetyandprivacy/understanding-recommendations) [Digital Services Act points of contact](https://www.spotify.com/de-en/safetyandprivacy/dsa-points-of-contact)
     
-* Privacy
+*   Privacy
     
      [Collecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/personal-data-collected) [Protecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/protecting-personal-data) [Your privacy controls](https://www.spotify.com/de-en/safetyandprivacy/privacy-controls) [Learn more about privacy](https://www.spotify.com/de-en/safetyandprivacy/learn-more-about-privacy)
     
-* Regulatory and transparency reports
+*   Regulatory and transparency reports
     
 
 Spotify’s Digital Services Act Transparency Report
