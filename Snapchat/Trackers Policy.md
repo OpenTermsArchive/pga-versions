@@ -87,20 +87,20 @@ You can also customise which cookies may be set by adjusting your settings on ou
 
 Third-party advertising partners
 
-* [Bing](https://privacy.microsoft.com/privacystatement?lang=en-GB)
+*   [Bing](https://privacy.microsoft.com/privacystatement?lang=en-GB)
     
-* [Facebook](https://www.facebook.com/policies/cookies/?lang=en-GB)
+*   [Facebook](https://www.facebook.com/policies/cookies/?lang=en-GB)
     
-* [Google Analytics](https://policies.google.com/technologies/cookies?lang=en-GB)
+*   [Google Analytics](https://policies.google.com/technologies/cookies?lang=en-GB)
     
-* [LinkedIn](https://www.linkedin.com/legal/cookie-policy?lang=en-GB)
+*   [LinkedIn](https://www.linkedin.com/legal/cookie-policy?lang=en-GB)
     
-* [Pardot](https://www.salesforce.com/company/privacy?lang=en-GB)
+*   [Pardot](https://www.salesforce.com/company/privacy?lang=en-GB)
     
-* [PayPal](https://www.paypal.com/us/webapps/mpp/ua/cookie-full?lang=en-GB)
+*   [PayPal](https://www.paypal.com/us/webapps/mpp/ua/cookie-full?lang=en-GB)
     
-* [Pinterest](https://policy.pinterest.com/cookies?lang=en-GB)
+*   [Pinterest](https://policy.pinterest.com/cookies?lang=en-GB)
     
-* [Reddit](https://www.reddit.com/policies/cookies?lang=en-GB)
+*   [Reddit](https://www.reddit.com/policies/cookies?lang=en-GB)
     
-* [Twitter](https://help.twitter.com/rules-and-policies/twitter-cookies?lang=en-GB)
+*   [Twitter](https://help.twitter.com/rules-and-policies/twitter-cookies?lang=en-GB)
