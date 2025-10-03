@@ -24,28 +24,28 @@ TRUTH Social allows the posting of "Not Safe for Work" and "trolling" content, w
 
 ### Reasons for Reporting as to Content
 
-1. Illegal activity and behavior: content that depicts illegal or criminal acts
+1.  Illegal activity and behavior: content that depicts illegal or criminal acts
     
-2. Fraud: content that contains misrepresentations about a business or its goods and services or impersonates another person or business
+2.  Fraud: content that contains misrepresentations about a business or its goods and services or impersonates another person or business
     
-3. Nudity: sexually explicit or nude content or pornography
+3.  Nudity: sexually explicit or nude content or pornography
     
-4. Violence: content that depicts violence or threat of violence
+4.  Violence: content that depicts violence or threat of violence
     
-5. Underage content; sexually explicit content involving underage children
+5.  Underage content; sexually explicit content involving underage children
     
-6. Prostitution - solicitation or advertising for illegal sexual activity or sex for hire
+6.  Prostitution - solicitation or advertising for illegal sexual activity or sex for hire
     
-7. Counterfeit or illegal sale of goods or services - sale of merchandise or services that are counterfeit, not authentic or are fake goods
+7.  Counterfeit or illegal sale of goods or services - sale of merchandise or services that are counterfeit, not authentic or are fake goods
     
-8. Privacy violations - violate or post content that violates a person's privacy rights
+8.  Privacy violations - violate or post content that violates a person's privacy rights
     
-9. Illegal sale of good and services - sale of or promotion of illegal drugs or services
+9.  Illegal sale of good and services - sale of or promotion of illegal drugs or services
     
-10. Intellectual Property - posting or infringing on intellectual property rights without authorization
-    
-11. Doxxing - sharing or threatening to share the private information of an individual without their consent or breach of privacy rights of others.
-    
+10.  Intellectual Property - posting or infringing on intellectual property rights without authorization
+     
+11.  Doxxing - sharing or threatening to share the private information of an individual without their consent or breach of privacy rights of others.
+     
 
 TRUTH #2
 --------
@@ -54,13 +54,13 @@ Posting Spam and using bots on TRUTH Social are not conducive or productive to d
 
 ### Reasons for Reporting as to Account
 
-1. SPAM: Fraudulent content, phishing, or content that is spam or a bot
+1.  SPAM: Fraudulent content, phishing, or content that is spam or a bot
     
-2. Username Squatting or fake accounts - improper use of username/account to masquerade as someone else
+2.  Username Squatting or fake accounts - improper use of username/account to masquerade as someone else
     
-3. Unauthorized or Impersonator Accounts - account impersonating another person or entity that is not a parody
+3.  Unauthorized or Impersonator Accounts - account impersonating another person or entity that is not a parody
     
-4. Intellectual Property - Account name or entity infringes on intellectual property rights without authorization
+4.  Intellectual Property - Account name or entity infringes on intellectual property rights without authorization
     
 
 Updated: 2.04.2022
