@@ -28,20 +28,20 @@ Company No. 462932
 
 For help or information about how to make a report:
 
-* General information about how to to Facebook
-* Reporting a
-* Reporting a
-* Information about
-* How to download your
-* Reporting an
-* Reporting a
-* Information about
-* Information about
-* Reporting
-* Information about
-* Reporting accounts of
-* Information about
-* Information about
+*   General information about how to to Facebook
+*   Reporting a
+*   Reporting a
+*   Information about
+*   How to download your
+*   Reporting an
+*   Reporting a
+*   Information about
+*   Information about
+*   Reporting
+*   Information about
+*   Reporting accounts of
+*   Information about
+*   Information about
 
 To contact us by email:
 
@@ -100,8 +100,8 @@ Return to top
 
 You can choose to use our Products for free with ads or to subscribe to use without ads:
 
-* If you choose to use our Products for free with ads, you allow us to show you ads that businesses and organizations pay us to promote on and off the Meta Products.
-* If you choose to subscribe to use our Products without ads, you won’t see ads from us and we do not use your data for ads. The details of price, currency and payment period for the subscription for no ads will be provided to you before you complete your purchase.
+*   If you choose to use our Products for free with ads, you allow us to show you ads that businesses and organizations pay us to promote on and off the Meta Products.
+*   If you choose to subscribe to use our Products without ads, you won’t see ads from us and we do not use your data for ads. The details of price, currency and payment period for the subscription for no ads will be provided to you before you complete your purchase.
 
 Protecting people's privacy is central to how we've designed our ads system. If we show you ads on Meta Products, we show you relevant and useful ads without telling advertisers who you are. We don't sell your personal information and we don't share information that directly identifies you (such as your name, email address or other contact information) with advertisers unless you give us specific permission. Instead, we allow advertisers to tell us things like their business goal, and the kind of audience they want to see their ads (for example, people between the age of 18-35 who live close to the advertiser’s store in Portugal). We then show their ad to people who we think might find it relevant.
 
@@ -121,17 +121,17 @@ We provide these services to you and others to help advance our mission. In exch
 
 When people stand behind their opinions and actions, our community is safer and more accountable. For this reason, you must:
 
-* Provide for your account the same name that you use in everyday life.
-* Provide accurate information about yourself.
-* Create only one account (your own) and use it for personal purposes.
-* Not share your password, give access to your Facebook account to others, or transfer your account to anyone else (without our permission).
+*   Provide for your account the same name that you use in everyday life.
+*   Provide accurate information about yourself.
+*   Create only one account (your own) and use it for personal purposes.
+*   Not share your password, give access to your Facebook account to others, or transfer your account to anyone else (without our permission).
 
 We try to make Facebook broadly available to everyone, but you cannot use Facebook if:
 
-* You are under 13 years old.
-* You are a convicted sex offender.
-* We've previously disabled your account for violations of our Terms, the , or other terms and policies that apply to your use of Facebook. If we disable your account for a violation of our Terms, the , or other terms and policies, you agree not to create another account without our permission. Receiving permission to create a new account is provided at our sole discretion, and does not mean or imply that the disciplinary action was wrong or without cause.
-* You are prohibited from receiving our products, services, or software under applicable laws.
+*   You are under 13 years old.
+*   You are a convicted sex offender.
+*   We've previously disabled your account for violations of our Terms, the , or other terms and policies that apply to your use of Facebook. If we disable your account for a violation of our Terms, the , or other terms and policies, you agree not to create another account without our permission. Receiving permission to create a new account is provided at our sole discretion, and does not mean or imply that the disciplinary action was wrong or without cause.
+*   You are prohibited from receiving our products, services, or software under applicable laws.
 
 3.2 What you can share and do on Meta Products
 ----------------------------------------------
@@ -169,13 +169,13 @@ It may take up to 90 days to delete content after we begin the account deletion 
 
 Content will not be deleted within 90 days of the account deletion or content deletion process beginning in the following situations:
 
-* where your content has been used by others in accordance with this license and they have not deleted it (in which case this license will continue to apply until that content is deleted);
-* where deletion within 90 days is not possible due to technical limitations of our systems, in which case, we will complete the deletion as soon as technically feasible; or
-* where immediate deletion would restrict our ability to:
-    * investigate or identify illegal activity or violations of our terms and policies (for example, to identify or investigate misuse of our Products or systems);
-    * protect the safety, integrity, and security of our Products, systems, services, and users, and to defend ourselves;
-    * comply with legal obligations for the preservation of evidence, including data Meta Companies providing financial products and services preserve to comply with any record keeping obligations required by law; or
-    * comply with a request of a judicial or administrative authority, law enforcement, or a government agency;
+*   where your content has been used by others in accordance with this license and they have not deleted it (in which case this license will continue to apply until that content is deleted);
+*   where deletion within 90 days is not possible due to technical limitations of our systems, in which case, we will complete the deletion as soon as technically feasible; or
+*   where immediate deletion would restrict our ability to:
+    *   investigate or identify illegal activity or violations of our terms and policies (for example, to identify or investigate misuse of our Products or systems);
+    *   protect the safety, integrity, and security of our Products, systems, services, and users, and to defend ourselves;
+    *   comply with legal obligations for the preservation of evidence, including data Meta Companies providing financial products and services preserve to comply with any record keeping obligations required by law; or
+    *   comply with a request of a judicial or administrative authority, law enforcement, or a government agency;
 
 in which case, the content will be retained for no longer than is necessary for the purposes for which it has been retained (the exact duration will vary on a case-by-case basis).
 
@@ -239,26 +239,26 @@ Return to top
 5\. Other terms and policies that may apply to you
 ==================================================
 
-* : These guidelines outline our standards regarding the content you post to Facebook and your activity on Facebook and other Meta Products.
-* : This provides information on the restrictions we may impose on the use of Facebook, including information on how we apply our content policies, procedures, measures and tools.
-* : This policy sets out how we may suspend access to Facebook where we determine that you have frequently provided manifestly illegal content, or suspend processing reports or complaints where we determine that you have frequently submitted manifestly unfounded reports or complaints. You can also learn more about how we deal with repeated violations of our content policies .
-* : This provides information on the rules of procedure of our internal complaints handling system.
-* : These terms apply if you also access or use our Products for any commercial or business purpose, including advertising, operating an app on our Platform, using our measurement services, managing a group or a Page for a business, or selling goods or services.
-* : These terms apply to payments made on or through Meta Products.
-* : These guidelines outline the policies that apply when you offer products or services for sale on Facebook, Instagram, and WhatsApp.
-* : These guidelines outline the policies that apply if you post or share content containing music on any Meta Products.
-* : These policies apply to partners who advertise across the Meta Products and specify what types of ad content are allowed by partners who advertise across the Meta Products.
-* : These Terms apply if you have a subscription for no ads.
-* : These terms apply when you use self-serve advertising interfaces to create, submit, or deliver advertising or other commercial or sponsored activity or content.
-* : These guidelines apply if you create or administer a Facebook Page, group, or event, or if you use Facebook to communicate or administer a promotion.
-* : These terms apply to the use of the set of APIs, SDKs, tools, plugins, code, technology, content, and services that enables others to develop functionality, retrieve data from MetaProducts, or provide data to us.
-* : These terms apply to developers of applications that use Facebook Payments.
-* [Meta Brand Resources](https://about.meta.com/brand/resources/): These guidelines outline the policies that apply to use of Meta trademarks, logos, and screenshots.
-* Recommendations Guidelines: The and outline our standards for recommending and not recommending content.
-* : This link sets out information on the main parameters of our recommender systems, as well as options for customizing your experience.
-* : These policies apply to all content broadcast to Facebook Live.
-* Messaging services terms relevant for EU and EEA users: terms applicable to the messaging, voice and video calling services included in Facebook Products are listed and in accordance with EU rules.
-* : These terms apply to the use of our Avatars and our Avatar features, including purchases and acquisitions of Avatar clothing in the Avatar store.
-* : These terms govern use of our Generative AI products and features.
+*   : These guidelines outline our standards regarding the content you post to Facebook and your activity on Facebook and other Meta Products.
+*   : This provides information on the restrictions we may impose on the use of Facebook, including information on how we apply our content policies, procedures, measures and tools.
+*   : This policy sets out how we may suspend access to Facebook where we determine that you have frequently provided manifestly illegal content, or suspend processing reports or complaints where we determine that you have frequently submitted manifestly unfounded reports or complaints. You can also learn more about how we deal with repeated violations of our content policies .
+*   : This provides information on the rules of procedure of our internal complaints handling system.
+*   : These terms apply if you also access or use our Products for any commercial or business purpose, including advertising, operating an app on our Platform, using our measurement services, managing a group or a Page for a business, or selling goods or services.
+*   : These terms apply to payments made on or through Meta Products.
+*   : These guidelines outline the policies that apply when you offer products or services for sale on Facebook, Instagram, and WhatsApp.
+*   : These guidelines outline the policies that apply if you post or share content containing music on any Meta Products.
+*   : These policies apply to partners who advertise across the Meta Products and specify what types of ad content are allowed by partners who advertise across the Meta Products.
+*   : These Terms apply if you have a subscription for no ads.
+*   : These terms apply when you use self-serve advertising interfaces to create, submit, or deliver advertising or other commercial or sponsored activity or content.
+*   : These guidelines apply if you create or administer a Facebook Page, group, or event, or if you use Facebook to communicate or administer a promotion.
+*   : These terms apply to the use of the set of APIs, SDKs, tools, plugins, code, technology, content, and services that enables others to develop functionality, retrieve data from MetaProducts, or provide data to us.
+*   : These terms apply to developers of applications that use Facebook Payments.
+*   [Meta Brand Resources](https://about.meta.com/brand/resources/): These guidelines outline the policies that apply to use of Meta trademarks, logos, and screenshots.
+*   Recommendations Guidelines: The and outline our standards for recommending and not recommending content.
+*   : This link sets out information on the main parameters of our recommender systems, as well as options for customizing your experience.
+*   : These policies apply to all content broadcast to Facebook Live.
+*   Messaging services terms relevant for EU and EEA users: terms applicable to the messaging, voice and video calling services included in Facebook Products are listed and in accordance with EU rules.
+*   : These terms apply to the use of our Avatars and our Avatar features, including purchases and acquisitions of Avatar clothing in the Avatar store.
+*   : These terms govern use of our Generative AI products and features.
 
 Return to top
