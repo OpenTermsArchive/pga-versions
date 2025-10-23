@@ -156,9 +156,9 @@ For residents of the European Union or the European Economic Area, the United Ki
 
 When you are streaming live on the Twitch Services you may simultaneously live stream or broadcast (“Simulcast”) on any other network, platform, or service that supports live streaming of user generated content, only if:
 
-* You ensure that the quality of Twitch users’ experience of your Simulcast is, at a minimum, no less than the experience on other platforms or services, including by your engagement with the Twitch community, for example, via chat.
-* You do not provide links, or otherwise direct your community, to leave Twitch for your simulcast on other services because we value the community on Twitch and the integral role community engagement plays for all Twitch users.
-* You do not use third-party services that combine activity from other platforms or services on your Twitch stream during your Simulcast, such as merging chat or other features, to ensure the Twitch community is included in the entirety of the experience of your livestream.
+*   You ensure that the quality of Twitch users’ experience of your Simulcast is, at a minimum, no less than the experience on other platforms or services, including by your engagement with the Twitch community, for example, via chat.
+*   You do not provide links, or otherwise direct your community, to leave Twitch for your simulcast on other services because we value the community on Twitch and the integral role community engagement plays for all Twitch users.
+*   You do not use third-party services that combine activity from other platforms or services on your Twitch stream during your Simulcast, such as merging chat or other features, to ensure the Twitch community is included in the entirety of the experience of your livestream.
 
 Collectively, these are referred to as the “Simulcast Guidelines.”
 
@@ -305,25 +305,25 @@ All requests for information or documents related to potential, anticipated, or 
 
 ON THIS PAGE Expand table of contents
 
-* [1\. Introduction; Your Agreement to these Terms of Service](#1-introduction-your-agreement-to-these-terms-of-service)
-* [2\. Use of Twitch by Minors and Blocked Persons](#2-use-of-twitch-by-minors-and-blocked-persons)
-* [3\. Privacy Notice](#3-privacy-notice)
-* [4\. Account](#4-account)
-* [5\. Use of Devices and Services](#5-use-of-devices-and-services)
-* [6\. Modification of these Terms of Service](#6-modification-of-these-terms-of-service)
-* [7\. License](#7-license)
-* [8\. User Content](#8-user-content)
-* [9\. Branded Content](#9-branded-content)
-* [10\. Prohibited Conduct](#10-prohibited-conduct)
-* [11\. Simulcasting](#11-simulcasting)
-* [12\. Advertisements](#12-advertisements)
-* [13\. Recommendations](#13-recommendations)
-* [14\. Respecting Copyright](#14-respecting-copyright)
-* [15\. Trademarks](#15-trademarks)
-* [16\. Third-Party Content](#16-third-party-content)
-* [17\. Idea Submission](#17-idea-submission)
-* [18\. Termination](#18-termination)
-* [19\. Disputes](#19-disputes)
-* [20\. Miscellaneous](#20-miscellaneous)
-* [21\. Contact Information](#21-contact-information)
-* [22\. Requests for Information and Subpoenas](#22-requests-for-information-and-subpoenas)
+*   [1\. Introduction; Your Agreement to these Terms of Service](#1-introduction-your-agreement-to-these-terms-of-service)
+*   [2\. Use of Twitch by Minors and Blocked Persons](#2-use-of-twitch-by-minors-and-blocked-persons)
+*   [3\. Privacy Notice](#3-privacy-notice)
+*   [4\. Account](#4-account)
+*   [5\. Use of Devices and Services](#5-use-of-devices-and-services)
+*   [6\. Modification of these Terms of Service](#6-modification-of-these-terms-of-service)
+*   [7\. License](#7-license)
+*   [8\. User Content](#8-user-content)
+*   [9\. Branded Content](#9-branded-content)
+*   [10\. Prohibited Conduct](#10-prohibited-conduct)
+*   [11\. Simulcasting](#11-simulcasting)
+*   [12\. Advertisements](#12-advertisements)
+*   [13\. Recommendations](#13-recommendations)
+*   [14\. Respecting Copyright](#14-respecting-copyright)
+*   [15\. Trademarks](#15-trademarks)
+*   [16\. Third-Party Content](#16-third-party-content)
+*   [17\. Idea Submission](#17-idea-submission)
+*   [18\. Termination](#18-termination)
+*   [19\. Disputes](#19-disputes)
+*   [20\. Miscellaneous](#20-miscellaneous)
+*   [21\. Contact Information](#21-contact-information)
+*   [22\. Requests for Information and Subpoenas](#22-requests-for-information-and-subpoenas)
