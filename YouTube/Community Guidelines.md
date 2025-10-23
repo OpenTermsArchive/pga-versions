@@ -1975,7 +1975,6 @@ Harmful substances & practices as prevention methods
     *   B17/amygdalin/peach or apricot seeds
     *   High-grade hydrogen peroxide
     *   Chelation therapy to treat autism
-    *   Colloidal silver
     *   Gasoline, diesel, and kerosene
 *   Content that denies the addictive or harmful properties of nicotine and tobacco. Examples:
     *   Content that claims tobacco does not cause cancer.
@@ -1983,7 +1982,7 @@ Harmful substances & practices as prevention methods
 
 Vaccine misinformation
 
-*   Claims that contradict health authority guidance on **safety**, **efficacy**, and **ingredients of currently administered and approved vaccines**.
+*   Claims that contradict health authority guidance on **safety**, **efficacy**, and **ingredients of currently administered and approved vaccines**.
     *   **Vaccine safety:** Content alleging that vaccines cause chronic side effects, such as cancer or paralysis, outside of rare side effects that are recognized by health authorities.
         *   Examples:
             *   Claims that the MMR vaccine causes autism.
@@ -2039,7 +2038,6 @@ Harmful substances & practices as treatment methods
     *   B17/amygdalin/peach or apricot seeds
     *   High-grade hydrogen peroxide
     *   Chelation therapy to treat autism
-    *   Colloidal silver
     *   Gasoline, diesel and kerosene
 *   Content that recommends the use of specific methods for the treatment of cancer when those have not been approved by local health authorities as safe or effective or have been confirmed to be harmful or ineffective for cancer treatment.
     *   Examples:
@@ -2129,7 +2127,6 @@ Harmful substances & practices as prevention methods
     *   B17/amygdalin/peach or apricot seeds
     *   High-grade hydrogen peroxide
     *   Chelation therapy to treat autism
-    *   Colloidal silver
     *   Gasoline, diesel, and kerosene
 *   Content that denies the addictive or harmful properties of nicotine and tobacco. Examples:
     *   Content that claims tobacco does not cause cancer.
@@ -2137,7 +2134,7 @@ Harmful substances & practices as prevention methods
 
 Vaccine misinformation
 
-*   Claims that contradict health authority guidance on **safety**, **efficacy**, and **ingredients of currently administered and approved vaccines**.
+*   Claims that contradict health authority guidance on **safety**, **efficacy**, and **ingredients of currently administered and approved vaccines**.
     *   **Vaccine safety:** Content alleging that vaccines cause chronic side effects, such as cancer or paralysis, outside of rare side effects that are recognized by health authorities.
         *   Examples:
             *   Claims that the MMR vaccine causes autism.
@@ -2193,7 +2190,6 @@ Harmful substances & practices as treatment methods
     *   B17/amygdalin/peach or apricot seeds
     *   High-grade hydrogen peroxide
     *   Chelation therapy to treat autism
-    *   Colloidal silver
     *   Gasoline, diesel and kerosene
 *   Content that recommends the use of specific methods for the treatment of cancer when those have not been approved by local health authorities as safe or effective or have been confirmed to be harmful or ineffective for cancer treatment.
     *   Examples:
