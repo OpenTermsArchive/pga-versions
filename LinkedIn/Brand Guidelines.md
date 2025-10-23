@@ -6,13 +6,13 @@ If you're looking to talk about LinkedIn for your business, or use LinkedIn bran
 **Guidance**
 ------------
 
-* \[in\] Logo
+*   \[in\] Logo
     
-* LinkedIn Logo
+*   LinkedIn Logo
     
-* Badges & Other Programs
+*   Badges & Other Programs
     
-* Business, Books & Other Media Usage
+*   Business, Books & Other Media Usage
     
 
 **Legal**
