@@ -6,13 +6,13 @@ US legal process requirements
 
 Meta Platforms, Inc. discloses account records solely in accordance with our Terms of Service and applicable law, including the federal Stored Communications Act ("SCA"), 18 U.S.C. Sections 2701-2712. Under US law:  
 
-* A valid subpoena issued in connection with an official criminal investigation is required to compel the disclosure of basic subscriber records (defined in 18 USC Section 2703(c)(2)), which may include: name, length of service, credit card information, email address(es) and a recent login/logout IP address(es), if available.  
+*   A valid subpoena issued in connection with an official criminal investigation is required to compel the disclosure of basic subscriber records (defined in 18 USC Section 2703(c)(2)), which may include: name, length of service, credit card information, email address(es) and a recent login/logout IP address(es), if available.  
     
-* A court order issued under 18 USC Section 2703(d) is required to compel the disclosure of certain records or other information pertaining to the account, not including contents of communications, which may include message headers and IP addresses, in addition to the basic subscriber records identified above.  
+*   A court order issued under 18 USC Section 2703(d) is required to compel the disclosure of certain records or other information pertaining to the account, not including contents of communications, which may include message headers and IP addresses, in addition to the basic subscriber records identified above.  
     
-* A search warrant issued under the procedures described in the Federal Rules of Criminal Procedure or equivalent state warrant procedures upon a showing of probable cause is required to compel the disclosure of the stored contents of any account, which may include messages, photos, videos, timeline posts and location information.  
+*   A search warrant issued under the procedures described in the Federal Rules of Criminal Procedure or equivalent state warrant procedures upon a showing of probable cause is required to compel the disclosure of the stored contents of any account, which may include messages, photos, videos, timeline posts and location information.  
     
-* We interpret the national security letter provision as applied to Meta to require the production of only two categories of information: name and length of service.  
+*   We interpret the national security letter provision as applied to Meta to require the production of only two categories of information: name and length of service.  
     
 
 International legal process requirements
@@ -55,8 +55,8 @@ Form of requests
 
 We will be unable to process overly broad or vague requests. All requests must identify requested records with particularity, including the specific data categories requested and date limitations for the request, as well as include:  
 
-* The name of the issuing authority and agent, email address from a law-enforcement domain and direct contact phone number.
-* The email address, phone number (+XXXXXXXXXX), user ID number (http://www.facebook.com/profile.php?id=1000000XXXXXXXX) or username (http://www.facebook.com/username) of the Facebook profile.
+*   The name of the issuing authority and agent, email address from a law-enforcement domain and direct contact phone number.
+*   The email address, phone number (+XXXXXXXXXX), user ID number (http://www.facebook.com/profile.php?id=1000000XXXXXXXX) or username (http://www.facebook.com/username) of the Facebook profile.
 
 User consent
 
@@ -119,7 +119,7 @@ Law enforcement officials who do not submit requests through the Law Enforcement
 
   
 
-* Acceptance of legal process by any of these means is for convenience and does not waive any objections, including lack of jurisdiction or proper service.  
+*   Acceptance of legal process by any of these means is for convenience and does not waive any objections, including lack of jurisdiction or proper service.  
       
     
-* We will not respond to correspondence sent by non-law enforcement officials to the addresses above.
+*   We will not respond to correspondence sent by non-law enforcement officials to the addresses above.
