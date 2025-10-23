@@ -18,7 +18,7 @@ Remember the human. Reddit is a place for creating community and belonging, not 
 
 ##### Rule 2
 
-Abide by community rules. Post authentic content into communities where you have a personal interest, and do not cheat or engage in content manipulation (including [spamming](https://www.reddithelp.com/en/categories/rules-reporting/account-and-community-restrictions/what-constitutes-spam-am-i-spammer), [vote manipulation](https://www.reddithelp.com/hc/en-us/articles/360043066412), ban evasion, or subscriber fraud) or otherwise interfere with or disrupt Reddit communities.
+Abide by community rules. Participate authentically in communities where you have a personal interest, and do not [spam](https://support.reddithelp.com/hc/articles/360043504051) or engage in [disruptive behaviors](https://support.reddithelp.com/hc/articles/360043066412) (including content manipulation) that interfere with Reddit communities.
 
 ##### Rule 3
 
@@ -30,7 +30,7 @@ Do not share or encourage the sharing of [sexual](https://support.reddithelp.com
 
 ##### Rule 5
 
-You don’t have to use your real name to use Reddit, but don’t [impersonate](https://www.reddithelp.com/hc/en-us/articles/360043075032) an individual or an entity in a misleading or deceptive manner.
+Be authentic. You don't have to use your real name, but [do not intentionally mislead others](https://support.reddithelp.com/hc/articles/41180423371156) or [impersonate](https://support.reddithelp.com/hc/articles/360043075032) an individual or entity in a deceptive manner.
 
 ##### Rule 6
 
@@ -38,7 +38,7 @@ Ensure people have predictable experiences on Reddit by properly labeling conten
 
 ##### Rule 7
 
-Keep it legal, and avoid posting illegal content or soliciting or facilitating [illegal or prohibited transactions](https://www.reddithelp.com/en/categories/rules-reporting/account-and-community-restrictions/reddits-policy-against-transactions).
+Keep it legal. Don't post illegal content, and don't solicit or facilitate [illegal or prohibited transactions](https://support.reddithelp.com/hc/articles/360043513471).
 
 ##### Rule 8
 
@@ -83,14 +83,12 @@ Some examples of violent content that would violate the Rule:
 *   Post that requests, or gives instructions on, ways to self-harm or commit suicide.
 *   Graphic violence, image, or video without appropriate context.
 
-Note that health misinformation, namely falsifiable health information that encourages or poses a significant risk of physical harm to the reader, also violates the Rule.  
-  
-
 **To report Violent Content, please visit** [**this page**](https://www.reddit.com/report)**.  
-  
 **
 
-[**What do I do if someone talks about seriously hurting themselves or is considering suicide?**](https://www.reddithelp.com/hc/en-us/articles/360043513931-What-do-I-do-if-someone-talks-about-seriously-hurting-themselves-or-is-considering-suicide-) When you see a post or comment about suicidal feelings in a community, it can be overwhelming, and you may feel like you don’t know what to do. But you can help, and there are resources available for you and the person you’re worried about.  Reddit has partnered with [Crisis Text Line](https://www.crisistextline.org/) to provide redditors who may be considering suicide or seriously hurting themselves with support from trained Crisis Counselors.
+[**What do I do if someone talks about seriously hurting themselves or is considering suicide?**](https://www.reddithelp.com/hc/en-us/articles/360043513931-What-do-I-do-if-someone-talks-about-seriously-hurting-themselves-or-is-considering-suicide-)
+
+When you see a post or comment about suicidal feelings in a community, it can be overwhelming, and you may feel like you don’t know what to do. But you can help, and there are resources available for you and the person you’re worried about.  Reddit has partnered with [Crisis Text Line](https://www.crisistextline.org/) to provide redditors who may be considering suicide or seriously hurting themselves with support from trained Crisis Counselors.
 
 - - -
 
@@ -113,49 +111,89 @@ Additionally, when evaluating the activity of a community or an individual user,
 
 - - -
 
-Spam on Reddit is generally defined as repeated, unwanted, and/or unsolicited actions, whether automated or manual, that negatively affect Reddit users, Reddit communities, and/or Reddit itself. Spam is a violation of the [Reddit Rules](https://redditinc.com/policies/reddit-rules) and [User Agreement](https://www.reddit.com/help/useragreement), punishable by content removal and temporary or permanent banning of your Reddit account. As spam-like behaviors evolve, Reddit will continue to adjust how we mitigate and prevent the spread of spam content.  
+**Do not use Reddit for repeated or unsolicited mass engagement.** 
+
+Spam – defined as repeated or unsolicited actions (whether automated or manual) that negatively affect redditors, communities, and/or Reddit itself – is never allowed. Spammers compromise everyone's use of Reddit by artificially inflating exposure to unwanted or irrelevant content.   
   
 
-**How do I avoid being labeled as a spammer?**
+What are some things that may violate this policy?
+--------------------------------------------------
 
-*   Post authentic content into communities where you have a personal interest.  
-    
-*   If your contributions to Reddit consist primarily of links to a business that you run, own, or otherwise benefit from, tread carefully, or consider advertising opportunities using our [self-serve platform](https://about.reddit.com/advertise/).
-    
-*   If you’re unsure if your content is considered spammy or unwelcome, contact the moderators of the community to which you’d like to submit. Subreddits may have community-specific rules in addition to the guidelines below.
+*   Mass-posting repetitive content for the purpose of exposure or financial gain.
+*   Mass-tagging other redditors or sending large amounts of unsolicited chat or private messages. 
+*   Repeatedly posting or sharing old content for the purpose of rapidly gaining [karma](https://support.reddithelp.com/hc/articles/204511829-What-is-karma).
+*   Using tools (e.g., bots, generative AI tools) that may break Reddit or facilitate the proliferation of spam. 
+*   Link-masking or redirecting to harmful domains.
+*   Leveraging multiple accounts to artificially inflate the subscriber count of a subreddit. 
+
+Some examples of policy violations
+
+*   Programming a bot that continuously promotes specific products or services within a community or across many communities.
+*   Sending large amounts of unsolicited private messages to expose others to harmful links, such as malware, phishing, deceptive pop-ups, etc.
+*   Repeatedly posting unrelated/off-topic/link-farmed content that disrupts conversations within a community.
+*   Repeatedly sharing "not-safe for-work" content in "safe-for-work" spaces.
+*   Automating the creation of multiple Reddit accounts or communities.
+
+  
+How do I avoid being labeled as a spammer?
+---------------------------------------------
+
+*   Post authentic content into communities where you have a personal interest.  
+*   If your contributions to Reddit consist primarily of links to a business that you run, own, or otherwise benefit from, please be thoughtful about the frequency of posting, or consider advertising opportunities using our [self-serve platform](https://www.business.reddit.com/).
+*   If you’re unsure if your content is considered spam, check to see if the community you want to engage with has specific rules in addition to the guidelines above. (Note that community moderators adjudicate what constitutes unwanted/spammy content in their communities and may take action accordingly.) You may also contact the moderators of the community if you need additional clarifications.  
+      
     
 
-**The following are examples of behavior that may be considered spam and are subject to removal/ban:**
+How can I report potential spam/spammers? 
+------------------------------------------
 
-*   Sending large amounts of chat messages to users who are not expecting them.
-    
-*   Repeatedly posting the same or similar comments in a thread, subreddit or across subreddits.
-    
-*   Repeatedly posting unrelated/off-topic/link-farmed content.
-    
-*   Posting content that includes link redirects as a way to circumvent an existing domain block and/or to disguise a link’s source (excluding subreddit sidebars).
-    
-*   Linking to harmful third-party content, such as malware, phishing, deceptive pop-ups, etc.
-    
-*   Programming bots that harm/break Reddit, including bots intended to promote content/products/services.
-    
+To report potential spam, please use the [report button](https://support.reddithelp.com/hc/articles/360058309512-How-do-I-report-a-post-or-comment) next to the content you’d like to report in the app or on Reddit.com.
 
-**  
-To report spam, please visit [this page](https://www.reddit.com/report).**
-
-Please note: You will receive an auto-response when submitting a spam related report. A human reviews each ticket, but we will only respond when we need more information.
+For more information, please visit Reddit's [enforcement philosophy](https://support.reddithelp.com/hc/articles/23511059871252-Content-Moderation-Enforcement-and-Appeals). You can also learn about our policy enforcement data in the latest [Reddit Transparency Report](https://redditinc.com/transparency).
 
 - - -
 
-Vote manipulation is prohibited on Reddit and goes against the rules, whether it is manual, programmatic, or otherwise. Some common forms of vote manipulation include:
+**Do not manipulate votes, evade enforcement, or otherwise disrupt Reddit communities.** 
 
-*   **Using multiple accounts and voting services:** Creating and employing multiple accounts, voting services, or any software to manipulate vote counts by either increasing or decreasing them.
-*   **Soliciting votes:** Requesting or encouraging people to upvote or downvote specific posts, either on Reddit or through social networks, messaging, etc. for personal gain.
-*   **Participating in Group Voting:** Joining or forming groups that coordinate votes, either on a specific post, a user's posts, content from a domain, etc. 
+Every community on Reddit is shaped by a set of community-specific rules that are enforced by moderators, contributions from community members, and upvotes and downvotes that drive the direction of conversations within the community. Reddit communities and their members are also expected to act in good faith and abide by our sitewide [Reddit Rules](https://redditinc.com/policies/reddit-rules). We prohibit disruptive behaviors that seek to interfere with how Reddit communities operate.
 
-Engaging in vote cheating or manipulation will result in temporary or permanent banning of your Reddit account. 
+  
+What are some things that may violate this policy?
+-----------------------------------------------------
 
-If you come across instances of vote manipulation that you'd like to report, please visit [this page](https://www.reddit.com/report).
+*   Vote cheating or manipulation, whether manual, programmatic, or otherwise. This could include:
+    *   Creating and employing multiple accounts, voting services, or any automation to manipulate vote counts by either increasing or decreasing them.
+    *   Engaging in coordinated voting with an organized group of people (or bots) to target a specific post, a user's posts, content from a domain, etc. 
+    *   Automated means to manipulate [karma](https://support.reddithelp.com/hc/articles/204511829-What-is-karma).
+*   Ban evasion, which includes:
+    *   Creating or using multiple accounts to circumvent a community ban issued by a mod of a community or to violate Reddit policies following a site-wide ban issued by Reddit admins.
+    *   Creating or repurposing a community to reconstitute a community that was previously banned or quarantined by Reddit admins.
+*   Abuse of reporting channels. This could include:
+    *   Sending a high volume of reports targeting non-violating content in a specific community or by a specific user. 
+    *   Using Reddit’s report feature to send abusive messages to community moderators or Reddit admins.
+    *   Encouraging or coordinating other users to engage in abuse of Reddit’s reporting channels.
+*   Community disruption. Among other things, this could look like:
+    *   Being repeatedly reported for violating community rules across several communities. 
+    *   Being repeatedly reported by members of similar communities for sending unsolicited chat messages.
+    *   Being banned across several communities dealing with the same topics.
+
+Note: The [Moderator Code of Conduct](https://www.redditinc.com/policies/moderator-code-of-conduct) also prohibits moderators from encouraging or allowing organized community interference. (_See Rule 3: Respect Your Neighbors_).
+
+Some examples that DO NOT violate this policy
+
+*   Visiting a community you're not a member of to ask for advice or a recommendation.
+*   Downvoting a piece of content that is off topic in a community you are part of.
+*   Viewing content in a community you were previously banned from, without engaging with the community.
+
+  
+Where can I report potential violations of this policy?
+----------------------------------------------------------
+
+To report potential vote manipulation or ban evasion please file a report through [this webform](https://www.reddit.com/report).
+
+Note: We also use a combination of reports by moderators, users, and internal systems to aggregate signals and determine whether someone's behavior may constitute a violation under this policy.
+
+For more information, please visit Reddit's [enforcement philosophy](https://support.reddithelp.com/hc/articles/23511059871252-Content-Moderation-Enforcement-and-Appeals). You can also learn about our policy enforcement data in the latest [Reddit Transparency Report](https://redditinc.com/transparency).
 
 - - -
 
@@ -227,25 +265,109 @@ To report sexual or suggestive content or inappropriate behavior involving minor
 
 - - -
 
-Reddit does not allow content that impersonates individuals or entities in a misleading or deceptive manner. This not only includes using a Reddit account to impersonate someone, but also encompasses things such as domains that mimic others, as well as deepfakes or other manipulated content presented to mislead, or falsely attributed to an individual or entity. While we permit satire and parody, we will always take into account the context of any particular content. 
+**Do not impersonate individuals or entities in a misleading or deceptive manner.**
 
-**If you are being impersonated, or if you believe you’ve found content in violation of these guidelines, please [report it here](https://www.reddit.com/report).**
+You are free to engage on the platform without using your real name or revealing your identity. However, you're not allowed to  misrepresent  your identity or affiliation to mislead or deceive others. In line with this, we encourage [communities](https://support.reddithelp.com/hc/articles/27031214413588-Moderator-Code-of-Conduct-Rule-2-Set-Appropriate-and-Reasonable-Expectations) and user accounts that are dedicated to an individual or entity for the purpose of commentary, fandom, satire, or parody, to disclose as such (e.g., specify "unofficial" in the name or description, clearly explain the purpose of the community, etc.) to avoid confusion.
+
+  
+What are some things that may violate this policy?
+-----------------------------------------------------
+
+*   Pretending to be or represent an existing individual or organization in order to mislead or confuse others.
+    
+*   Posing as an individual or organization that does not exist in order to make others believe they are engaging with a real entity.
+    
+
+  
+What are some of the criteria taken into consideration when determining violations?
+--------------------------------------------------------------------------------------
+
+*   Elements of a user profile or community such as name, description, profile picture, and activity may all be indicators of impersonation.
+    
+
+Some examples of policy violations
+
+*   Using the name of a business and offering deals to redditors on its behalf without authorization.
+    
+*   Creating an account with a username almost identical to another account's username to confuse others about which account they are interacting with. 
+    
+*   Offering an AMA with an account pretending to be the spokesperson for an established organization.
+    
+*   Creating a community posing as the job listing community for a fictional recruitment agency.
+    
+*   Using an account that poses as an official government agency and engages users on public matters.
+    
+*   Misrepresenting yourself as a Reddit admin with an account that uses the Reddit name and branding.
+    
+
+Some examples that DO NOT violate this policy
+
+*   Using a company's name for the purpose of discussing its products, services, or business practices.
+    
+*   Using the name of a celebrity for a fan account that doesn't assume that identity in interactions with others.
+    
+*   Creating your brand's official community to directly engage with redditors.
+    
+
+  
+How can I report potential violations of this policy?
+--------------------------------------------------------
+
+To report content that potentially violates this policy, you can use the [report button](https://support.reddithelp.com/hc/articles/360058309512-How-do-I-report-a-post-or-comment) next to the content you’d like to report in the app or on reddit.com (if you have a Reddit account) or you can [file a report](https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=15968767746196&tf_15968861076756=report_content_policy_violation) (if you do not have a Reddit account).
+
+For more information, please visit Reddit's [enforcement philosophy](https://support.reddithelp.com/hc/articles/23511059871252-Content-Moderation-Enforcement-and-Appeals). You can also learn about our policy enforcement data in the latest [Reddit Transparency Report](https://redditinc.com/transparency).
 
 - - -
 
-Content is prohibited if it uses Reddit to solicit or facilitate any transaction or gift involving certain goods and services.
+**Do not use Reddit to exchange illegal or prohibited goods and services with other redditors.** 
 
-You may not use Reddit to solicit or facilitate any transaction or gift involving certain goods and services, including
+You are free to discuss all sorts of products and services, including those that may not be legal where you are, but keep in mind that certain user-to-user transactions are not allowed.  
+  
 
-*   [Firearms, ammunition](https://support.reddithelp.com/hc/en-us/articles/360043075712), explosives, legally controlled firearms parts or accessories (e.g., bump stock-type devices, silencers/suppressors, etc.), or 3D printing files to produce any of the aforementioned;
-*   Drugs, including [alcohol and tobacco, or any controlled substances](https://support.reddithelp.com/hc/en-us/articles/360043513691) (except advertisements placed in accordance with our [advertising policy](https://advertising.reddithelp.com/en/categories/reddit-advertising-policy/reddit-advertising-policy-overview));
-*   Paid services involving physical sexual contact;
-*   Stolen goods;
-*   Personal information;
-*   Falsified official documents or currency;
-*   Fraudulent services
+What are some things that may violate this policy?
+--------------------------------------------------
 
-When considering a gift or transaction of goods or services not prohibited by this policy, keep in mind that Reddit is not intended to be used as a marketplace and takes no responsibility for any transactions individual users might decide to undertake in spite of this. Always remember: you are dealing with strangers on the internet.
+It is not allowed to buy, sell, gift, or encourage the transaction of the following goods or services with other redditors, whether implicitly or explicitly:
+
+*   Recreational drugs and/or precursor chemicals specifically used to manufacture them
+*   Alcohol, tobacco or vaping products, pharmaceutical drugs (including prescription or over the counter medicines), or other controlled substances
+*   Firearms, ammunition, explosives, firearms parts and enhancements (e.g., bolt, clips, trigger, scope, silencer/suppressor, muffler, bump stock, magazine, glock switch, conversion kit, etc.), or specific instructions (i.e., 3D printing files) to produce any of the aforementioned 
+*   In-person, paid sexual services
+*   Human body parts or organs, or any service involving human trafficking
+*   Wild animals, endangered species and derived animal products, or any service involving wildlife trafficking
+*   Stolen goods
+*   Personal information
+*   Fraudulent goods or activities (e.g. falsified documents or certifications, fake fiat or digital currency, deceptive investment schemes, etc.)
+*   Services or goods obtained through fraudulent or illegal access (e.g., hacked information)
+
+Note: **Discussing how to legally access controlled goods or sharing external links to appropriately licensed vendors of legal goods and services are allowed**. This includes, for example, licensed pharmacies filling valid prescriptions, licensed vendors of controlled substances, online or offline firearm dealers  holding the necessary government-issued license, or licensed animal welfare organizations providing adoption services. If you decide to arrange non-prohibited transactions (e.g., selling camping gear, photography shoot, etc.) with other redditors, please understand that you're doing so at your own risk.
+
+Some examples of policy violations
+
+*   Suggesting to move to private messaging methods with an implication to transact drugs. 
+*   A post depicting controlled substances and providing contact information or other implicit indication that they are for sale.
+*   Providing or seeking detailed instructions on the production of illicit drugs. 
+*   A post seeking the location of an erotic massage parlor.
+*   A post seeking a “sugar daddy/momma” or seeking to be a “sugar baby” for an in-person relationship.
+*   Providing detailed instructions on how to commit theft or obtain stolen goods.
+*   Offering to sell or buy a digital currency in an effort to manipulate the price of the currency for personal gain. 
+*   Promoting a website that offers to fabricate school transcripts or degrees.
+*   A comment offering hacking services or the sale of hacked materials.
+
+Some examples that do NOT violate this policy
+
+*   A scientific discussion about compounds used in specific drugs in a chemistry subreddit. 
+*   A comment asking for or offering health resources, including the location of licensed pharmacies where prescribed medications can be legally obtained.
+*   A post that shares personal experiences of drug or alcohol use and/or recovery.
+*   A post seeking to buy a holster or shooting glasses.
+*   A community dedicated to discussions about firearm ownership or shooting sports.
+
+ Where can I report potential violations of this policy?
+--------------------------------------------------------
+
+To report content that violates this policy, you can use the [report button](https://support.reddithelp.com/hc/articles/360058309512-How-do-I-report-a-post-or-comment) next to the content you’d like to report in the app or on reddit.com (if you have a Reddit account) or you can [file a report](https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=15968767746196&tf_15968861076756=report_content_policy_violation) (if you do not have a Reddit account).  
+
+For more information, please visit Reddit's [enforcement philosophy](https://support.reddithelp.com/hc/articles/23511059871252-Content-Moderation-Enforcement-and-Appeals). You can also learn about our policy enforcement data in the latest [Reddit Transparency Report](https://redditinc.com/transparency).
 
 - - -
 
