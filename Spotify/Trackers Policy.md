@@ -3,11 +3,11 @@
 
 Effective as of 29 May 2023
 
-1. [What are cookies?](#1-what-are-cookies)
-2. [How do we use cookies?](#2-how-do-we-use-cookies)
-3. [Options for managing cookies and interest-based ads](#3-options-for-managing-cookies-and-interest-based-ads)
-4. [Updates to this Policy](#4-updates-to-this-policy)
-5. [How to contact us](#5-how-to-contact-us)
+1.  [What are cookies?](#1-what-are-cookies)
+2.  [How do we use cookies?](#2-how-do-we-use-cookies)
+3.  [Options for managing cookies and interest-based ads](#3-options-for-managing-cookies-and-interest-based-ads)
+4.  [Updates to this Policy](#4-updates-to-this-policy)
+5.  [How to contact us](#5-how-to-contact-us)
 
 This policy describes how Spotify uses cookies. From now on, we'll call it the 'Policy'. The purpose of this Policy is to provide you, a user of Spotify's services and/or websites (we'll collectively call these the 'Services'), with clear information about the purposes for which Spotify uses cookies and the choices you have when it comes to managing your cookie settings.
 
@@ -57,8 +57,8 @@ You may opt-out of receiving interest-based advertisements by turning off the 'T
 
 Certain tailored advertisements that we, or a service provider acting on our behalf, display to you may include the 'Ad Choices' icon or another mechanism to opt out of receiving interest-based advertisements. You may click on the AdChoices icon or visit [www.aboutads.info](https://aboutads.info/) to:
 
-* learn more about the collection and use of information about your online activities for interest based advertising; or
-* opt out of having your data used for interest based advertising by Digital Advertising Alliance (DAA) participating companies.
+*   learn more about the collection and use of information about your online activities for interest based advertising; or
+*   opt out of having your data used for interest based advertising by Digital Advertising Alliance (DAA) participating companies.
 
 [](#4-updates-to-this-policy)**4\. Updates to this Policy**
 -----------------------------------------------------------
