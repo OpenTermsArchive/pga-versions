@@ -348,7 +348,26 @@ When creating an account, it’s important to represent your child’s age accur
 
 In certain markets, we currently offer the following experiences as part of our [Premium Family plan](https://www.spotify.com/family/):
 
-*   **Spotify Kids** is a standalone app that offers a curated experience and includes content that may resonate more with younger children. To learn more, click [here](https://www.spotify.com/kids/).
+#### Managed Accounts
+
+Managed accounts in Premium Family offer a music experience that is designed for kids to explore independently, while giving parents and guardians tools to guide and shape their listening environment. This sub-account for users under 13 (or local equivalent) allows young listeners to discover new sounds and start shaping their own tastes through our rich catalogue of music. Within managed accounts, certain songs may be unavailable, for example those with sexually explicit lyrics, reflecting an approach shaped with our [Spotify Safety Advisory Council.](https://newsroom.spotify.com/2022-06-13/introducing-the-spotify-safety-advisory-council/)
+
+  
+Additionally, Family Plan Managers can use our simple in-app controls to guide what young listeners can access. Every child is different and every family’s journey is unique, so we’re committed to evolving our tools to help parents and guardians share music in the way that feels right for them. These tools currently include:
+
+*   **Music only:** Audiobooks and podcasts are not available in managed accounts.
+*   **Controlling the playback of specific artists & songs:** Family Plan Managers can hide specific artists or tracks.
+*   **The Explicit Content filter:** Family Plan Managers can block songs tagged as explicit by creators and rightsholders. Explicit content is automatically blocked in managed accounts, with an option for Family Plan account holders to change this via their Settings.
+*   **Hiding Canvas and video:** Family Plan Managers can control young listeners’ access to Canvas (short, looping visuals accompanying songs) and video across all Spotify surfaces.
+*   **Limited interactivity:** Managed account profiles are private and not searchable or discoverable. They also cannot search for or discover other Spotify users, access age-gated features like Messages or music videos tagged as 18+ by rights holders, or take part in collaborative playlists such as Jam and Blend.
+*   **Automatic search protection:** Searches and search suggestions for terms commonly associated with age-inappropriate content are prevented.
+*   **No advertising:** Advertising is not allowed, nor is the ability to purchase anything.
+
+As a reminder, users who are under 13 years old (or local equivalent) are not allowed to use Spotify outside of the Premium Family managed account experience.
+
+#### **Spotify Kids**
+
+*   is a stand-alone app that offers a curated experience and includes content that may resonate more with younger children. To learn more, click [here](https://www.spotify.com/kids/).
 
 Whether you opt in to a Premium Family plan or not, Spotify provides various tools to help you curate the experience that’s right for your family.
 
