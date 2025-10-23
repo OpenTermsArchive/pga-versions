@@ -7,19 +7,19 @@ Modified: May, 14, 2025
 
 **You may not use the Services unless all of the following apply to you**, and you affirm that all of the following apply to you:
 
-* You are at least 18 years old;
-* You are legally allowed to use the Services where you live;
-* You are not using the Services or accepting the Terms on behalf of any other entity, such as a company or organization, unless you have the authority to bind that entity to these Terms;
-* You have not been banned by Parler from using the Services.
+*   You are at least 18 years old;
+*   You are legally allowed to use the Services where you live;
+*   You are not using the Services or accepting the Terms on behalf of any other entity, such as a company or organization, unless you have the authority to bind that entity to these Terms;
+*   You have not been banned by Parler from using the Services.
 
 **The Parler** [**Privacy Policy**](https://parler.com/privacy-policy) describes what Parler can do with information about you received by Parler when you use the Services. You agree to the terms of the Privacy Policy, including the transfer of information to other countries for storage, processing, and use, if applicable.
 
 **Any content that you post to the Services must satisfy all of the following criteria**, and you affirm that any content posted, submitted, or otherwise provided by you to the Services satisfies these criteria:
 
-* You have the legal right to post the content to the Services.
-* The content and the purpose for posting it complies with all laws, rules, and regulations that may apply.
-* The content does not infringe the intellectual property rights (such as copyrights and trademark rights) of any other person or entity.
-* The content does not include non-public personal private information belonging to someone else, such as another person’s birthdate, home address, or telephone number.
+*   You have the legal right to post the content to the Services.
+*   The content and the purpose for posting it complies with all laws, rules, and regulations that may apply.
+*   The content does not infringe the intellectual property rights (such as copyrights and trademark rights) of any other person or entity.
+*   The content does not include non-public personal private information belonging to someone else, such as another person’s birthdate, home address, or telephone number.
 
 The content complies with the [Parler Community Guidelines](https://parler.com/community-guidelines/).
 
@@ -111,12 +111,12 @@ Parler offers users the optional ability to “Boost” their posts for increase
 
 By choosing to Boost a post, users acknowledge and agree that:
 
-* Use of OPT for Boosted Posts is entirely voluntary and at their sole discretion.
-* OPT is a utility token earned through participation and contribution to the decentralized Optio blockchain network. It is not a security, does not represent an investment, and is not reliant upon the efforts of others for its value.
-* Parler does not operate or control CoinStore or any other third-party exchange and is not responsible for any changes in the market valuation of OPT.
-* Parler makes no warranties, representations, or guarantees regarding the value, performance, or future price of OPT.
-* Users are solely responsible for verifying the current value of OPT and making an informed decision prior to completing any Boosted Post transaction using OPT.
-* Parler is not a digital asset exchange and does not engage in the sale, trading, or transfer of OPT.
+*   Use of OPT for Boosted Posts is entirely voluntary and at their sole discretion.
+*   OPT is a utility token earned through participation and contribution to the decentralized Optio blockchain network. It is not a security, does not represent an investment, and is not reliant upon the efforts of others for its value.
+*   Parler does not operate or control CoinStore or any other third-party exchange and is not responsible for any changes in the market valuation of OPT.
+*   Parler makes no warranties, representations, or guarantees regarding the value, performance, or future price of OPT.
+*   Users are solely responsible for verifying the current value of OPT and making an informed decision prior to completing any Boosted Post transaction using OPT.
+*   Parler is not a digital asset exchange and does not engage in the sale, trading, or transfer of OPT.
 
 All Boosted Post transactions are final, non-refundable, and subject to the Terms and Conditions herein.
 
