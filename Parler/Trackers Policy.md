@@ -17,10 +17,10 @@ Parler commits to a policy of minimal intervention. We do not engage in content 
 
 While we champion free speech, we also recognize the importance of maintaining a safe and respectful environment. Our community guidelines are established to ensure that users can express themselves freely while respecting the rights and dignity of others. These guidelines include, but are not limited to:
 
-* Prohibition of illegal activities
-* No incitement to violence or direct threats
-* Protection against harassment and bullying
-* Prevention of hate speech targeting individuals or groups based on race, ethnicity, religion, gender, sexual orientation, or other inherent characteristics
+*   Prohibition of illegal activities
+*   No incitement to violence or direct threats
+*   Protection against harassment and bullying
+*   Prevention of hate speech targeting individuals or groups based on race, ethnicity, religion, gender, sexual orientation, or other inherent characteristics
 
 **Article IV: Transparency and Accountability**
 
