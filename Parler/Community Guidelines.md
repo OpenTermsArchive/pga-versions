@@ -15,40 +15,40 @@ We stress the importance of having boundaries to ensure a secure space for every
 
 **Prohibited Content**
 
-1. **Intellectual Property Misuse or Theft:** Unauthorized use of another’s intellectual property without explicit written permission is strictly prohibited. This includes the unauthorized use of another’s trademarks, music, images, videos, or other creative works.
-2. **Spam:** Disruptive, repetitive, and/or irrelevant, comments detracting from conversations are considered spam and are prohibited.
-3. **Unsolicited Advertisements:** Posting unsolicited advertisements irrelevant to the existing conversation is prohibited.
-4. **Pornographic and Explicit Content:** Content featuring pornographic images or depictions, nudity, explicit adult material or language, or any illegal activities is strictly prohibited.
-5. **Fraud:** Content employing deception to gain value is a violation.
-6. **Threats:** Serious expression of intent to commit unlawful acts towards individuals or groups are strictly prohibited.
-7. **Incitement:** Direct or implicit calls for lawless action with intent are prohibited.
-8. **Criminal Solicitation:** Content soliciting illegal goods, services, acts, or bribery is prohibited.
-9. **Doxing:** Sharing or threatening to share personally identifiable or private information with the intent to incite harm is prohibited.
-10. **Sexualization of Minors:** Regardless of intent, content sexualizing or exploiting minors is strictly prohibited.
-11. **Impersonation:** Users are prohibited from impersonating another individual or business or using their likeness without explicit prior written permission.
-12. **Terrorism:** Individuals, organizations, or ideology associated with terrorism or hate groups are not permitted on our platform. If they are discovered to exist on the platform, they will be removed immediately and reported to the proper law enforcement authorities. For a list of terrorist organizations, please consult the US Dept of State Website: [https://www.state.gov/foreign-terrorist-organizations/](https://www.state.gov/foreign-terrorist-organizations/)
-13. **Automation or Bot Accounts:** Accounts exhibiting automated or bot-like behavior that is disruptive to the Services are prohibited.
-14. **Excessive Gore:** Content that includes images or videos depicting excessive gore, blood, graphic injuries, visible innards, charred bodies, or deceased humans or animals is subject to filters or removal depending on severity and intent.
+1.  **Intellectual Property Misuse or Theft:** Unauthorized use of another’s intellectual property without explicit written permission is strictly prohibited. This includes the unauthorized use of another’s trademarks, music, images, videos, or other creative works.
+2.  **Spam:** Disruptive, repetitive, and/or irrelevant, comments detracting from conversations are considered spam and are prohibited.
+3.  **Unsolicited Advertisements:** Posting unsolicited advertisements irrelevant to the existing conversation is prohibited.
+4.  **Pornographic and Explicit Content:** Content featuring pornographic images or depictions, nudity, explicit adult material or language, or any illegal activities is strictly prohibited.
+5.  **Fraud:** Content employing deception to gain value is a violation.
+6.  **Threats:** Serious expression of intent to commit unlawful acts towards individuals or groups are strictly prohibited.
+7.  **Incitement:** Direct or implicit calls for lawless action with intent are prohibited.
+8.  **Criminal Solicitation:** Content soliciting illegal goods, services, acts, or bribery is prohibited.
+9.  **Doxing:** Sharing or threatening to share personally identifiable or private information with the intent to incite harm is prohibited.
+10.  **Sexualization of Minors:** Regardless of intent, content sexualizing or exploiting minors is strictly prohibited.
+11.  **Impersonation:** Users are prohibited from impersonating another individual or business or using their likeness without explicit prior written permission.
+12.  **Terrorism:** Individuals, organizations, or ideology associated with terrorism or hate groups are not permitted on our platform. If they are discovered to exist on the platform, they will be removed immediately and reported to the proper law enforcement authorities. For a list of terrorist organizations, please consult the US Dept of State Website: [https://www.state.gov/foreign-terrorist-organizations/](https://www.state.gov/foreign-terrorist-organizations/)
+13.  **Automation or Bot Accounts:** Accounts exhibiting automated or bot-like behavior that is disruptive to the Services are prohibited.
+14.  **Excessive Gore:** Content that includes images or videos depicting excessive gore, blood, graphic injuries, visible innards, charred bodies, or deceased humans or animals is subject to filters or removal depending on severity and intent.
 
 **Child Sexual Abuse and Exploitation (CSAE) Policy and Guidelines**
 
 Parler strictly prohibits any form of child sexual abuse and exploitation (CSAE) on its platform. Content that promotes, depicts, or facilitates CSAE is not tolerated and will be removed immediately.
 
-1. **Prohibited Content:** Users may not upload, share, or distribute any material related to CSAE, including but not limited to images, videos, texts, or materials that promote, glorify, or facilitate such conduct.
-2. **Zero-Tolerance Enforcement:** Any user found engaging in CSAE-related activities will have their account permanently terminated and may be reported to the appropriate law enforcement authorities.
-3. **Automated and Human Moderation:** Parler employs AI-based detection tools (via Hive Moderation), hash-matching technology, and human moderators to identify and remove CSAE content proactively. Any flagged content will be reviewed promptly.
-4. **Reporting Mechanism:** Users are encouraged to report CSAE-related content or activities via [\*\*support@parler.com](mailto:support@parler.com)\*\* Reports are confidential and will be handled with urgency.
-5. **Law Enforcement Cooperation:** Parler collaborates with law enforcement agencies, the National Center for Missing & Exploited Children (NCMEC), and other regulatory bodies to report and remove CSAE-related content.
-6. **Parler’s CSAE Policy:** For full details on Parler’s enforcement procedures, reporting structure, and compliance framework, please review our policy linked here: [CSAE Policy](https://sanapptxcloud.sharepoint.com/:b:/r/sites/ParlerPRControlledDocuments/Shared%20Documents/PlayTV/CSAE%20Policy.pdf?csf=1&web=1&e=jOPeco)
+1.  **Prohibited Content:** Users may not upload, share, or distribute any material related to CSAE, including but not limited to images, videos, texts, or materials that promote, glorify, or facilitate such conduct.
+2.  **Zero-Tolerance Enforcement:** Any user found engaging in CSAE-related activities will have their account permanently terminated and may be reported to the appropriate law enforcement authorities.
+3.  **Automated and Human Moderation:** Parler employs AI-based detection tools (via Hive Moderation), hash-matching technology, and human moderators to identify and remove CSAE content proactively. Any flagged content will be reviewed promptly.
+4.  **Reporting Mechanism:** Users are encouraged to report CSAE-related content or activities via [\*\*support@parler.com](mailto:support@parler.com)\*\* Reports are confidential and will be handled with urgency.
+5.  **Law Enforcement Cooperation:** Parler collaborates with law enforcement agencies, the National Center for Missing & Exploited Children (NCMEC), and other regulatory bodies to report and remove CSAE-related content.
+6.  **Parler’s CSAE Policy:** For full details on Parler’s enforcement procedures, reporting structure, and compliance framework, please review our policy linked here: [CSAE Policy](https://sanapptxcloud.sharepoint.com/:b:/r/sites/ParlerPRControlledDocuments/Shared%20Documents/PlayTV/CSAE%20Policy.pdf?csf=1&web=1&e=jOPeco)
 
 **Moderator Training and Policy Enforcement**
 
 Parler has a strict CSAE moderation and enforcement policy in place. All moderators receive mandatory training to effectively identify, assess, and take immediate action on CSAE-related violations. This training ensures that moderators are equipped to:
 
-1. Recognize CSAE-related content and grooming behaviors.
-2. Use AI detection tools and reporting workflows effectively. _(Hive Moderation)_
-3. Enforce Parler’s zero-tolerance CSAE policy in accordance with legal requirements.
-4. Work alongside compliance and law enforcement teams when necessary.
+1.  Recognize CSAE-related content and grooming behaviors.
+2.  Use AI detection tools and reporting workflows effectively. _(Hive Moderation)_
+3.  Enforce Parler’s zero-tolerance CSAE policy in accordance with legal requirements.
+4.  Work alongside compliance and law enforcement teams when necessary.
 
 Parler is committed to continuous improvement and ongoing training for its moderation team to ensure a safe and lawful platform for all users.
 
