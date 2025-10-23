@@ -14,18 +14,18 @@ Our mission is to connect the world’s professionals to allow them to be more p
 Table of Contents:
 ------------------
 
-1. [Introduction](#introduction)
-2. [Obligations](#obligations)
-3. [Rights and Limits](#rights)
-4. [Disclaimer and Limit of Liability](#disclaimer)
-5. [Termination](#termination)
-6. [Governing Law and Dispute Resolution](#dispute)
-7. [General Terms](#general)
-8. [LinkedIn “Dos and Don’ts”](#dos)
-9. [Complaints Regarding Content](#complaints)
-10. [How To Contact Us](#contact)
+1.  [Introduction](#introduction)
+2.  [Obligations](#obligations)
+3.  [Rights and Limits](#rights)
+4.  [Disclaimer and Limit of Liability](#disclaimer)
+5.  [Termination](#termination)
+6.  [Governing Law and Dispute Resolution](#dispute)
+7.  [General Terms](#general)
+8.  [LinkedIn “Dos and Don’ts”](#dos)
+9.  [Complaints Regarding Content](#complaints)
+10.  [How To Contact Us](#contact)
 
-1. Introduction
+1.  Introduction
     ------------
     
     ### 1.1 Contract
@@ -64,7 +64,7 @@ Table of Contents:
     
     We may modify this Contract, our Privacy Policy and our Cookie Policy from time to time. If required by applicable law or we make material changes to this Contract, we will provide you notice through our Services, or by other means, to provide you the opportunity to review the changes before they become effective. We agree that changes cannot be retroactive. If you object to any of these changes, you may [close your account](https://www.linkedin.com/help/linkedin/answer/63?trk=microsites-frontend_legal_user-agreement&lang=en). Your continued use of our Services after we publish or send a notice about our changes to these terms means that you are consenting to the updated terms as of their effective date.
     
-2. 2\. Obligations
+2.  2\. Obligations
     ---------------
     
     ### 2.1 Service Eligibility
@@ -97,12 +97,12 @@ Table of Contents:
     
     If you buy any of our paid Services, you agree to pay us the applicable fees and taxes and you agree to the [additional terms](https://www.linkedin.com/legal/pop/terms-for-paid-services) specific to the paid Services. Failure to pay these fees will result in the termination of your paid Services. Also, you agree that:
     
-    * Your purchase may be subject to foreign exchange fees or differences in prices based on location (e.g., exchange rates).
-    * We may store and continue billing your payment method (e.g., credit card), even after it has expired, to avoid interruptions in your paid Services and to use it to pay for other Services you may buy. You may update or change your payment method. [Learn more](https://www.linkedin.com/help/linkedin/answer/a1340105)
-    * If you purchase a subscription, your payment method automatically will be charged at the start of each subscription period for the fees and taxes applicable to that period. To avoid future charges, cancel before the renewal date. Learn how to [cancel or suspend](https://www.linkedin.com/help/linkedin/answer/50?trk=microsites-frontend_legal_user-agreement&lang=en) your paid subscription Services.
-    * We may modify our prices effective prospectively upon reasonable notice to the extent allowed under the law.
-    * All of your paid Services are subject to LinkedIn’s [refund policy](https://www.linkedin.com/help/linkedin/answer/5704?trk=microsites-frontend_legal_user-agreement&lang=en).
-    * We may calculate taxes payable by you based on the billing information that you provide us.  
+    *   Your purchase may be subject to foreign exchange fees or differences in prices based on location (e.g., exchange rates).
+    *   We may store and continue billing your payment method (e.g., credit card), even after it has expired, to avoid interruptions in your paid Services and to use it to pay for other Services you may buy. You may update or change your payment method. [Learn more](https://www.linkedin.com/help/linkedin/answer/a1340105)
+    *   If you purchase a subscription, your payment method automatically will be charged at the start of each subscription period for the fees and taxes applicable to that period. To avoid future charges, cancel before the renewal date. Learn how to [cancel or suspend](https://www.linkedin.com/help/linkedin/answer/50?trk=microsites-frontend_legal_user-agreement&lang=en) your paid subscription Services.
+    *   We may modify our prices effective prospectively upon reasonable notice to the extent allowed under the law.
+    *   All of your paid Services are subject to LinkedIn’s [refund policy](https://www.linkedin.com/help/linkedin/answer/5704?trk=microsites-frontend_legal_user-agreement&lang=en).
+    *   We may calculate taxes payable by you based on the billing information that you provide us.  
         
     
     You can get a copy of your invoice through your LinkedIn account settings under “[Purchase History](https://www.linkedin.com/payments/purchasehistory)”.  
@@ -123,7 +123,7 @@ Table of Contents:
     
     To the extent that laws allow this, we are not obligated to publish any content or other information on our Services and can remove it with or without notice.
     
-3. 3\. Rights and Limits
+3.  3\. Rights and Limits
     ---------------------
     
     ### 3.1. Your License to LinkedIn
@@ -138,11 +138,11 @@ Table of Contents:
     
     A worldwide, transferable and sublicensable right to use, copy, modify, distribute, publicly perform and display, host, and process your content and other information without any further consent, notice and/or compensation to you or others. These rights are limited in the following ways:
     
-    1. You can end this license for specific content by deleting such content from the Services, or generally by closing your account, except (a) to the extent you (1) shared it with others as part of the Services and they copied, re-shared it or stored it, (2) we had already sublicensed others prior to your content removal or closing of your account, or (3) we are required by law to retain or share it with others, and (b) for the reasonable time it takes to remove from backup and other systems.
-    2. We will not include your content in advertisements for the products and services of third parties to others without your separate consent (including sponsored content). However, without compensation to you or others, ads may be served near your content and other information, and your [social actions](https://www.linkedin.com/legal/user-agreement#key-terms-3) may be visible and included with ads, as noted in the Privacy Policy. If you use a Service feature, we may mention that with your name or photo to promote that feature within our Services, subject to your settings.
-    3. We will honor the audience choices for shared content (e.g., “Connections only”). For example, if you choose to share your post to "Anyone on or off LinkedIn” (or similar): (a) we may make it available off LinkedIn; (b) we may enable others to publicly share onto third-party services (e.g., a Member embedding your post on a third party service); and/or (c) we may enable search tools to make that public content findable though their services. [Learn More](https://www.linkedin.com/help/linkedin/answer/86529?trk=microsites-frontend_legal_user-agreement&lang=en)
-    4. While we may edit and make format changes to your content (such as translating or transcribing it, modifying the size, layout or file type, and removing or adding labels or metadata), we will take steps to avoid materially modifying the meaning of your expression in content you share with others. 
-    5. Because you own your original content and we only have non-exclusive rights to it, you may choose to make it available to others, including under the terms of a [Creative Commons license](https://creativecommons.org/choose/).  
+    1.  You can end this license for specific content by deleting such content from the Services, or generally by closing your account, except (a) to the extent you (1) shared it with others as part of the Services and they copied, re-shared it or stored it, (2) we had already sublicensed others prior to your content removal or closing of your account, or (3) we are required by law to retain or share it with others, and (b) for the reasonable time it takes to remove from backup and other systems.
+    2.  We will not include your content in advertisements for the products and services of third parties to others without your separate consent (including sponsored content). However, without compensation to you or others, ads may be served near your content and other information, and your [social actions](https://www.linkedin.com/legal/user-agreement#key-terms-3) may be visible and included with ads, as noted in the Privacy Policy. If you use a Service feature, we may mention that with your name or photo to promote that feature within our Services, subject to your settings.
+    3.  We will honor the audience choices for shared content (e.g., “Connections only”). For example, if you choose to share your post to "Anyone on or off LinkedIn” (or similar): (a) we may make it available off LinkedIn; (b) we may enable others to publicly share onto third-party services (e.g., a Member embedding your post on a third party service); and/or (c) we may enable search tools to make that public content findable though their services. [Learn More](https://www.linkedin.com/help/linkedin/answer/86529?trk=microsites-frontend_legal_user-agreement&lang=en)
+    4.  While we may edit and make format changes to your content (such as translating or transcribing it, modifying the size, layout or file type, and removing or adding labels or metadata), we will take steps to avoid materially modifying the meaning of your expression in content you share with others. 
+    5.  Because you own your original content and we only have non-exclusive rights to it, you may choose to make it available to others, including under the terms of a [Creative Commons license](https://creativecommons.org/choose/).  
         
     
     You and LinkedIn agree that if content includes personal data, it is subject to our Privacy Policy.
@@ -217,7 +217,7 @@ Table of Contents:
     
     Content includes, for example, feed posts, feedback, comments, profiles, articles (and contributions), group posts, job postings, messages (including InMails), videos, photos, audio, and/or PDFs
     
-4. 4\. Disclaimer and Limit of Liability
+4.  4\. Disclaimer and Limit of Liability
     -------------------------------------
     
     ### 4.1 No Warranty
@@ -240,21 +240,21 @@ Table of Contents:
     
     THESE LIMITATIONS OF LIABILITY DO NOT APPLY TO LIABILITY FOR DEATH OR PERSONAL INJURY OR FOR FRAUD, GROSS NEGLIGENCE OR INTENTIONAL MISCONDUCT, OR IN CASES OF NEGLIGENCE, WHERE A MATERIAL OBLIGATION HAS BEEN BREACHED. A MATERIAL OBLIGATION BEING AN OBLIGATION WHICH FORMS A PREREQUISITE TO OUR DELIVERY OF SERVICES AND ON WHICH YOU MAY REASONABLY RELY, BUT ONLY TO THE EXTENT THAT THE DAMAGES WERE DIRECTLY CAUSED BY THE BREACH AND WERE FORESEEABLE UPON CONCLUSION OF THIS CONTRACT AND TO THE EXTENT THAT THEY ARE TYPICAL IN THE CONTEXT OF THIS CONTRACT.
     
-5. 5\. Termination
+5.  5\. Termination
     ---------------
     
     We can each end this Contract, but some rights and obligations survive.
     
     Both you and LinkedIn may terminate this Contract at any time with notice to the other. On termination, you lose the right to access or use the Services. The following shall survive termination:
     
-    * Our rights to use and disclose your feedback;
-    * Section 3 (subject to 3.1.1);
-    * Sections 4, 6, 7, and 8.2 of this Contract; and
-    * Any amounts owed by either party prior to termination remain owed after termination.
+    *   Our rights to use and disclose your feedback;
+    *   Section 3 (subject to 3.1.1);
+    *   Sections 4, 6, 7, and 8.2 of this Contract; and
+    *   Any amounts owed by either party prior to termination remain owed after termination.
     
     You can visit our [Help Center](https://www.linkedin.com/help/linkedin/answer/63?trk=microsites-frontend_legal_user-agreement&lang=en) to learn about how to close your account
     
-6. 6\. Governing Law and Dispute Resolution
+6.  6\. Governing Law and Dispute Resolution
     ----------------------------------------
     
     In the unlikely event we end up in a legal dispute, depending on where you live, you and LinkedIn agree to resolve it in California courts using California law, Dublin, Ireland courts using Irish law, or as otherwise provided in this section.
@@ -265,7 +265,7 @@ Table of Contents:
     
     For others outside of Designated Countries, including those who live outside of the United States: You and LinkedIn agree that the laws of the State of California, U.S.A., excluding its conflict of laws rules, shall exclusively govern any dispute relating to this Contract and/or the Services. You and LinkedIn both agree that all claims and disputes can be litigated only in the federal or state courts in Santa Clara County, California, USA, and you and LinkedIn each agree to personal jurisdiction in those courts.
     
-7. 7\. General Terms
+7.  7\. General Terms
     -----------------
     
     Here are some important details about the Contract.
@@ -278,7 +278,7 @@ Table of Contents:
     
     You agree that the only way to provide us legal notice is at the addresses provided in Section 10.
     
-8. 8\. LinkedIn “Dos and Don’ts”
+8.  8\. LinkedIn “Dos and Don’ts”
     -----------------------------
     
     LinkedIn is a community of professionals. This list of “Dos and Don’ts” along with our [Professional Community Policies](https://www.linkedin.com/legal/professional-community-policies) limits what you can and cannot do on our Services, unless otherwise explicitly permitted by LinkedIn in a separate writing (e.g., through a research agreement).
@@ -287,38 +287,38 @@ Table of Contents:
     
     **You agree that you will:**
     
-    1. Comply with all applicable laws, including, without limitation, privacy laws, intellectual property laws, anti-spam laws, export control laws, laws governing the content shared, and other applicable laws and regulatory requirements;
-    2. Provide accurate contact and identity information to us and keep it updated;
-    3. Use your real name on your profile; and
-    4. Use the Services in a professional manner.
+    1.  Comply with all applicable laws, including, without limitation, privacy laws, intellectual property laws, anti-spam laws, export control laws, laws governing the content shared, and other applicable laws and regulatory requirements;
+    2.  Provide accurate contact and identity information to us and keep it updated;
+    3.  Use your real name on your profile; and
+    4.  Use the Services in a professional manner.
     
     ### 8.2. Don’ts
     
     **You agree that you will _not_:**
     
-    1. Create a false identity on LinkedIn, misrepresent your identity, create a Member profile for anyone other than yourself (a real person), or use or attempt to use another’s account (such as sharing log-in credentials or copying cookies);
-    2. Develop, support or use software, devices, scripts, robots or any other means or processes (such as crawlers, browser plugins and add-ons or any other technology) to scrape or copy the Services, including profiles and other data from the Services;
-    3. Override any security feature or bypass or circumvent any access controls or use limits of the Services (such as search results, profiles, or videos);
-    4. Copy, use, display or distribute any information (including content) obtained from the Services, whether directly or through third parties (such as search tools or data aggregators or brokers), without the consent of the content owner (such as LinkedIn for content it owns);
-    5. Disclose information that you do not have the consent to disclose (such as confidential information of others (including your employer);
-    6. Violate the intellectual property rights of others, including copyrights, patents, trademarks, trade secrets or other proprietary rights. For example, do not copy or distribute (except through the available sharing functionality) the posts or other content of others without their permission, which they may give by posting under a Creative Commons license;
-    7. Violate the intellectual property or other rights of LinkedIn, including, without limitation, (i) copying or distributing our learning videos or other materials, (ii) copying or distributing our technology, unless it is released under open source licenses; or (iii) using the word “LinkedIn” or our logos in any business name, email, or URL except as provided in the [Brand Guidelines](https://brand.linkedin.com/policies);
-    8. Post (or otherwise share) anything that contains software viruses, worms, or any other harmful code;
-    9. Reverse engineer, decompile, disassemble, decipher or otherwise attempt to derive the source code for the Services or any related technology that is not open source;
-    10. Imply or state that you are affiliated with or endorsed by LinkedIn without our express consent (e.g., representing yourself as an accredited LinkedIn trainer);
-    11. Rent, lease, loan, trade, sell/re-sell or otherwise monetize the Services or related data or access to the same, without LinkedIn’s consent;
-    12. Deep-link to our Services for any purpose other than to promote your profile or a Group on our Services, without LinkedIn’s consent;
-    13. Use bots or other unauthorized automated methods to access the Services, add or download contacts, send or redirect messages, create, comment on, like, share, or re-share posts, or otherwise drive inauthentic engagement;
-    14. Engage in “framing”, “mirroring”, or otherwise simulating the appearance or function of the Services;
-    15. Overlay or otherwise modify the Services or their appearance (such as by inserting elements into the Services or removing, covering, or obscuring an advertisement included on the Services);
-    16. Interfere with the operation of, or place an unreasonable load on, the Services (e.g., spam, denial of service attack, viruses, manipulating algorithms);
-    17. Violate the [Professional Community Policies](https://www.linkedin.com/legal/professional-community-policies), certain [third party terms](https://www.linkedin.com/help/linkedin/answer/a6857122) where applicable, or any additional terms concerning a specific Service that are provided when you sign up for or start using such Service;
-    18. Use our Services to do anything that is unlawful, misleading, discriminatory, or fraudulent; and/or
-    19. Misuse our reporting or appeals process, including by submitting duplicative, fraudulent or unfounded reports, complaints or appeals.
+    1.  Create a false identity on LinkedIn, misrepresent your identity, create a Member profile for anyone other than yourself (a real person), or use or attempt to use another’s account (such as sharing log-in credentials or copying cookies);
+    2.  Develop, support or use software, devices, scripts, robots or any other means or processes (such as crawlers, browser plugins and add-ons or any other technology) to scrape or copy the Services, including profiles and other data from the Services;
+    3.  Override any security feature or bypass or circumvent any access controls or use limits of the Services (such as search results, profiles, or videos);
+    4.  Copy, use, display or distribute any information (including content) obtained from the Services, whether directly or through third parties (such as search tools or data aggregators or brokers), without the consent of the content owner (such as LinkedIn for content it owns);
+    5.  Disclose information that you do not have the consent to disclose (such as confidential information of others (including your employer);
+    6.  Violate the intellectual property rights of others, including copyrights, patents, trademarks, trade secrets or other proprietary rights. For example, do not copy or distribute (except through the available sharing functionality) the posts or other content of others without their permission, which they may give by posting under a Creative Commons license;
+    7.  Violate the intellectual property or other rights of LinkedIn, including, without limitation, (i) copying or distributing our learning videos or other materials, (ii) copying or distributing our technology, unless it is released under open source licenses; or (iii) using the word “LinkedIn” or our logos in any business name, email, or URL except as provided in the [Brand Guidelines](https://brand.linkedin.com/policies);
+    8.  Post (or otherwise share) anything that contains software viruses, worms, or any other harmful code;
+    9.  Reverse engineer, decompile, disassemble, decipher or otherwise attempt to derive the source code for the Services or any related technology that is not open source;
+    10.  Imply or state that you are affiliated with or endorsed by LinkedIn without our express consent (e.g., representing yourself as an accredited LinkedIn trainer);
+    11.  Rent, lease, loan, trade, sell/re-sell or otherwise monetize the Services or related data or access to the same, without LinkedIn’s consent;
+    12.  Deep-link to our Services for any purpose other than to promote your profile or a Group on our Services, without LinkedIn’s consent;
+    13.  Use bots or other unauthorized automated methods to access the Services, add or download contacts, send or redirect messages, create, comment on, like, share, or re-share posts, or otherwise drive inauthentic engagement;
+    14.  Engage in “framing”, “mirroring”, or otherwise simulating the appearance or function of the Services;
+    15.  Overlay or otherwise modify the Services or their appearance (such as by inserting elements into the Services or removing, covering, or obscuring an advertisement included on the Services);
+    16.  Interfere with the operation of, or place an unreasonable load on, the Services (e.g., spam, denial of service attack, viruses, manipulating algorithms);
+    17.  Violate the [Professional Community Policies](https://www.linkedin.com/legal/professional-community-policies), certain [third party terms](https://www.linkedin.com/help/linkedin/answer/a6857122) where applicable, or any additional terms concerning a specific Service that are provided when you sign up for or start using such Service;
+    18.  Use our Services to do anything that is unlawful, misleading, discriminatory, or fraudulent; and/or
+    19.  Misuse our reporting or appeals process, including by submitting duplicative, fraudulent or unfounded reports, complaints or appeals.
     
       
     
-9. 9\. Complaints Regarding Content
+9.  9\. Complaints Regarding Content
     --------------------------------
     
     Contact information for complaints about content provided by our Members.
@@ -327,9 +327,9 @@ Table of Contents:
     
     We respect the intellectual property rights of others. We require that information shared by Members be accurate and not in violation of the intellectual property rights or other rights of third parties. We provide a [policy and process](https://www.linkedin.com/legal/copyright-policy) for complaints concerning content shared, and/or [trademarks](https://www.linkedin.com/help/linkedin/answer/a1337296) used, by our Members.
     
-10. 10\. How To Contact Us
-    ----------------------
-    
-    Our Contact information. Our Help Center also provides information about our Services.
-    
-    For general inquiries, you may contact us [online](https://www.linkedin.com/help/linkedin?trk=microsites-frontend_legal_user-agreement&lang=en). For legal notices or service of process, you may write us at these [addresses](https://www.linkedin.com/help/linkedin/answer/79728?trk=microsites-frontend_legal_user-agreement&lang=en).
+10.  10\. How To Contact Us
+     ----------------------
+     
+     Our Contact information. Our Help Center also provides information about our Services.
+     
+     For general inquiries, you may contact us [online](https://www.linkedin.com/help/linkedin?trk=microsites-frontend_legal_user-agreement&lang=en). For legal notices or service of process, you may write us at these [addresses](https://www.linkedin.com/help/linkedin/answer/79728?trk=microsites-frontend_legal_user-agreement&lang=en).
