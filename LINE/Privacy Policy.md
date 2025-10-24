@@ -6,16 +6,54 @@ Index
 
 *   [1.Introduction](#section0)
 *   [2.Applicable scope of this Policy](#section1)
+    *   [2.a.Target scope](#section1a)
+    *   [2.b.Applicable policies](#section1b)
 *   [3.Personal Data to be collected](#section2)
+    *   [3.a.Examples of Personal Data to be provided by you](#section2a)
+    *   [3.b.Examples of Personal Data related to your use of our Services](#section2b)
+        *   [3.b.i.Status of use of our Services](#section2bi)
+        *   [3.b.ii.Location information](#section2bii)
+        *   [3.b.iii.Apps, browsers, devices and network information](#section2biii)
+    *   [3.c.Examples of Personal Data collected from third parties](#section2c)
+        *   [3.c.i.Personal Data collected from group companies](#section2ci)
+        *   [3.c.ii.Personal Data collected from Partners](#section2cii)
+        *   [3.c.iii.Personal Data uploaded by other users](#section2ciii)
+    *   [3.d.Other Examples](#section2d)
+        *   [3.d.i.Personal Data that is directly collected in third-party services](#section2di)
+        *   [3.d.ii.Collection of Personal Data from public information](#section2dii)
 *   [4.Purpose of use of Personal Data](#section3)
+    *   [4.a.Examples of Provision and maintenance of our Services](#section3a)
+    *   [4.b.Examples of Development and improvement of our Services](#section3b)
+    *   [4.c.Examples of Security and prevention of and measures against unauthorized use](#section3c)
+    *   [4.d.Examples of Provisions of our Services optimized for you](#section3d)
+    *   [4.e.Your Personal Data related to LINE](#section3e)
 *   [5.Provision of Personal Data](#section4)
+    *   [5.a.Public disclosure by users themselves](#section4a)
+    *   [5.b.Subcontracting](#section4b)
+    *   [5.c.Sharing of Personal Data among group companies](#section4c)
+    *   [5.d.Succession of business](#section4d)
+    *   [5.e.Provision, etc. of Our Services](#section4e)
+    *   [5.f.Compliance and cooperation with public agencies](#section4f)
 *   [6.Safety control of Personal Data](#section5)
+    *   [6.a.Security measures](#section5a)
+    *   [6.b.Storage location of Personal Data](#section5b)
+    *   [6.c.Storage period of Personal Data](#section5c)
 *   [7.Your choices regarding Personal Data](#section6)
 *   [8.Use of third-party modules and Cookies](#section7)
+    *   [8.a.Third-party modules](#section7a)
+    *   [8.b.Cookie and other analytical tools](#section7b)
+    *   [8.c.Information related to use of Google Analytics](#section7c)
+    *   [8.d.Information related to use of True Depth API provided by Apple](#section7d)
 *   [9.Other important information](#section8)
+    *   [9.a.Privacy of children](#section8a)
+    *   [9.b.Inquiries](#section8b)
+    *   [9.c.Changes to this Policy](#section8c)
 *   [10.Reference](#section9)
-
-View More
+    *   [10.a.Notes on Specific Services](#section9a)
+    *   [10.b.Related links](#section9b)
+        *   [10.b.i.Materials to supplement the description in this Policy](#section9bi)
+        *   [10.b.ii.Contacts to us regarding the processing of Personal Data](#section9bii)
+        *   [10.b.ⅲ.Archived versions of Privacy Policy](#section9biii)
 
 1.Introduction
 --------------
@@ -176,7 +214,6 @@ We will use information required for providing our Services, answering your inqu
 For example, in the following cases, we will use Personal Data for the provision and maintenance of our Services.
 
 *   To verify your identity, through comparison with your registered information, when succeeding the account upon logging in or changing your device, when using certain Services which require identity verification, or when receiving inquiries from users;
-    
 *   To send or post messages and contents, and convey the status of the sent or posted messages, etc.;
 *   To set or disclose profiles for building and managing connections between users in LINE, and to search for other users using the registered information, or enable such search;
 *   To process invoices or settle payments when a user purchases a product or uses a paid service;
@@ -193,7 +230,6 @@ We will use Personal Data for the development and improvement of our Services fo
 For example, in the following cases, we will use Personal Data for the development and improvement of our Services:
 
 *   To develop and improve our Services by surveying and analyzing your attribute information, number of users and number of viewers of our Services, and number of views and number of taps and clicks of ads which we and our Partners distribute;
-    
 *   To improve our Services by creating statistics and models related to the use of our Services;
 *   To improve the screen design by understanding the frequency that each tab in the app is being used;
 *   To conduct surveys related to our services that we are currently providing, or may provide in the future; or
