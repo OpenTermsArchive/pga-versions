@@ -124,7 +124,7 @@ Related Articles
 
 [About Threads and the fediverse](https://help.instagram.com/169559812696339/?helpref=related_articles)
 
-[Your Threads profile](https://help.instagram.com/179980294969821/?helpref=related_articles)
+[Post on Threads](https://help.instagram.com/391254440276136/?helpref=related_articles)
 
 Related Articles
 
@@ -138,4 +138,4 @@ Related Articles
 
 [About Threads and the fediverse](https://help.instagram.com/169559812696339/?helpref=related_articles)
 
-[Your Threads profile](https://help.instagram.com/179980294969821/?helpref=related_articles)
+[Post on Threads](https://help.instagram.com/391254440276136/?helpref=related_articles)
