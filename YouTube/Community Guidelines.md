@@ -1533,7 +1533,7 @@ We may apply an age-restriction rather than remove violent or graphic content if
 
 We also consider public interest when deciding whether content should be allowed, age-restricted, or removed. For example, we may allow or age-restrict graphic or violent content documenting warzones, civil unrest, humanitarian crises, or natural disasters with adequate educational, documentary, scientific or artistic context in the images or audio of the video, the video title, or the video description.
 
-We may age-restrict dramatized violence when it contains graphic scenes, such as people being tortured, dismembered, or decapitated. We may also age-restrict content that focuses on human corpses with these severe injuries or violent deaths of a person that show blood. We make a distinction between dramatized violence featuring real human actors and content featuring animations or video games. Dramatized violence featuring real human actors may be more likely to face age-restrictions, especially if the content is particularly graphic or realistic. Generally, we do not remove dramatized violence when the content or metadata lets us know that the content is fictional, or when it’s apparent from the content itself, such as with animated content or video games.
+We may age-restrict dramatized violence when it contains graphic scenes, such as mass violence against non-combatants or people being tortured, dismembered, or decapitated. We may also age-restrict content that focuses on human corpses with these severe injuries or violent deaths of a person that show blood. We make a distinction between dramatized violence featuring real human actors and content featuring animations or video games. Dramatized violence featuring real human actors may be more likely to face age-restrictions, especially if the content is particularly graphic or realistic. Generally, we do not remove dramatized violence when the content or metadata lets us know that the content is fictional, or when it’s apparent from the content itself, such as with animated content or video games.
 
 We consider the following when deciding whether to allow, age-restrict or remove content. Note that this isn’t a complete list:
 
@@ -1704,7 +1704,7 @@ Don't post content on YouTube if it aims to directly sell, link to, or facilitat
 *   Endangered species or parts of endangered species
 *   [Firearms and certain firearms accessories](https://support.google.com/youtube/answer/7667605)
 *   Nicotine, including vaping products
-*   [Online gambling sites](https://support.google.com/youtube/answer/9910779) not certified by Google
+*   [Uncertified online gambling sites](https://support.google.com/youtube/answer/9910779)
 *   Pharmaceuticals without a prescription
 *   Non-regulated substances for the purpose of abuse
 *   Sex or escort services
@@ -1728,8 +1728,8 @@ Here are some examples of content that’s not allowed on YouTube.
 
 Keep in mind that this isn’t a complete list.
 
-*   Facilitating access to an online gambling or sports betting site that is not approved.
-*   Promising the viewer guaranteed returns via online gambling, regardless of whether the site is approved or not.
+*   Facilitating access to an online gambling or sports betting site that is not certified.
+*   Promising the viewer guaranteed returns via online gambling, regardless of whether the site is certified or not.
 *   Selling counterfeit passports or providing instructions on creating forged official documents.
 *   Advertising escort, prostitution, or erotic massage services.
 *   Content instructing how to purchase drugs on the dark web.
@@ -1784,7 +1784,7 @@ Examples of age-restricted content
 
 *   Content that promotes a cannabis dispensary.
 *   Content that reviews brands of nicotine e-liquid.
-*   Content that facilitates access to, promotes, or depicts online gambling, including content from certified sites.
+*   Content that facilitates access to, promotes, or depicts online gambling, and social/sweepstakes casinos, including content from certified sites.
 
 What happens if content violates this policy
 --------------------------------------------
