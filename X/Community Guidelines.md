@@ -971,13 +971,13 @@ If you believe we made a mistake, you can [submit an appeal](https://help.x.com/
 X Shopping Policy
 =================
 
-Updated: September 6, 2024
+Updated: October 30, 2025
 
 X Shopping enables professionals and organizations to showcase their merchandise to their customers — and potential customers — on X. While X isn't involved in facilitating the purchase, sale or delivery of goods, we want people to have a positive experience in connection with the merchandise they interact with on the platform. Merchants are responsible for making sure they follow all relevant laws, regulations and industry codes when they use our service. Merchants are also responsible for handling and responding to all purchases, deliveries, customer service questions, complaints, problems and disputes.
 
 All merchants who list their merchandise on X’s Shopping products must also comply with X’s Shopping Policy detailed on this page. Please note that X may modify this policy at any time.
 
-In addition, all people who use X must adhere to [X’s User Agreement](https://x.com/en/tos.html), which includes the [X Rules](https://help.x.com/en/rules-and-policies/twitter-rules.html). Advertisers must also follow [X’s Ads Policies](https://business.x.com/en/help/ads-policies.html), and publishers participating in X’s Amplify Program must also comply with [X’s Brand Safety Policies](https://business.x.com/en/help/troubleshooting/amplify-publisher-faqs.html).
+In addition, all people who use X must adhere to [X’s User Agreement](https://x.com/en/tos.html), which includes the [X Rules](https://help.x.com/en/rules-and-policies/twitter-rules.html). Advertisers must also follow [X’s Ads Policies](https://business.x.com/en/help/ads-policies.html), and publishers participating in [X’s Amplify Program](https://business.x.com/en/help/troubleshooting/amplify-publisher-faqs) must also comply with [X’s Content Monetization Policy](https://help.x.com/en/rules-and-policies/content-monetization-policy).
 
 _X’s Shopping products are currently available to select merchants and managed partners._
 
@@ -1002,8 +1002,6 @@ Merchant Business Qualifications
 
 Your business meets the following requirements:
 
-*   Your business is located in the US (for clarity this requirement does not apply to X's advertising products).
-*   Your business is not a [state affiliated media](https://help.x.com/en/rules-and-policies/government-media-labels.html) entity.
 *   You or your business are not an individual or entity subject to US trade sanctions.
 *   You do not exclusively sell merchandise that falls within our [Prohibited Merchandise Categories](#categories).
 *   You are 18 years of age or older. 
@@ -1013,7 +1011,7 @@ Account and Website Requirements
 
 Your X account meets the following requirements:
 
-*   You must have a [Professional Account](https://help.x.com/en/rules-and-policies/professional-account-policy.html).
+*   You must have a [X Premium](https://help.x.com/en/using-x/x-premium), [X Premium Business](https://help.x.com/en/using-x/premium-business) or [Professional Account](https://help.x.com/en/rules-and-policies/professional-account-policy.html).
 *   Your X account is [public](https://help.x.com/en/safety-and-security/how-to-make-twitter-private-and-public.html).  
     
 
@@ -1035,7 +1033,8 @@ Merchants participating in X’s Shopping products are prohibited from engaging 
 *   Listing merchandise from another business’ website domain without their permission.
 *   Encouraging [abuse](https://help.x.com/en/rules-and-policies/abusive-behavior.html), [hate](https://help.x.com/en/rules-and-policies/hateful-conduct-policy.html), [self harm](https://help.x.com/en/rules-and-policies/glorifying-self-harm.html), [violence](https://help.x.com/en/rules-and-policies/glorification-of-violence.html) or [violent threats](https://help.x.com/en/rules-and-policies/violent-speech.html). Examples include depictions of hateful symbols, threats of harm against an identifiable individual or protected group, and goods marketed to facilitate purging. Books, video games and other media that depict content in a fictional or educational context are permitted.
 *   Publishing inappropriate content. Examples include goods containing profanity, vulgarity, personal attacks and inflammatory language or media.
-*   Engaging in potentially deceptive, misleading or harmful business propositions. Examples include posting misleading content like deceptive ‘before and after’ text or images, omitting vital information on pricing or payment terms the customer will incur, and impersonating another person or organization.
+*   Engaging in potentially deceptive, misleading or harmful business propositions. Examples include posting misleading content like deceptive ‘before and after’ text or images, deceptive pricing practices, omitting vital information on pricing or payment terms the customer will incur, and impersonating another person or organization.
+*   Engage in or imply any form of discrimination or preference based on personal characteristics, such as race, ethnicity, origin, religion, sexual orientation, gender identity, financial situation or genetic condition.
 
 Merchandise Standards
 ---------------------
@@ -1050,12 +1049,10 @@ You are required to comply with the following technical requirements for merchan
 
 *   Meet all required [product data specifications](https://business.x.com/en/help/shopping-specs.html).
 
-*   List merchandise in a [language supported](https://business.x.com/en/help/ads-policies/campaign-considerations/about-eligibility-for-twitter-ads.html) by our self-serve ads platform.
-
-*   Price merchandise in US dollars.
+*   List merchandise to comply with the applicable country specific [language restrictions](https://business.x.com/en/help/ads-policies/campaign-considerations/about-eligibility-for-twitter-ads).
+*   Accurately price merchandise in USD or local currency, as applicable.
 *   Direct customers to the correct product page for that exact item on your website.
 *   Ensure that merchandise listed in your Product Catalog is up to date and available for shoppers to purchase.
-    
 
 Quality Standards  
 
@@ -1064,43 +1061,37 @@ Quality Standards
 To ensure that Shoppers have a positive experience on X, you must adhere to the following editorial guidelines:
 
 *   Do not link to disruptive landing pages. Examples include automatic downloads, multiple pop ups that cannot be closed, interstitials or other content that interferes with a Shopper’s access.
+    
 *   Do not use excessive capitalization, punctuation, and symbols in merchandise descriptors.
+    
 *   Do not provide indecipherable, inaccurate or deceptive merchandise information. Examples include clickbait and misleading calls to action.
+    
 
 Prohibited Merchandise Categories
 ---------------------------------
 
 Your merchandise and its descriptors must not include the following:
 
-*   _Adult or Sexually Suggestive Content_. Examples include sex toys, pornography and items displaying nudity or implied sexual acts.
+*   _Adult or Sexually Explicit Content_. Examples include sexual merchandise, pornography, sexual services, and items displaying nudity or implied sexual acts.
 *   _Alcohol_. Examples include alcoholic beverages, alcohol-infused foods, and alcohol-branded merchandise.
-*   _Body Branding and Ultraviolet Tanning Devices_. Examples include tanning beds, permanent cosmetics and goods used for tattooing and body piercing.
-*   _Cause-based Content_. Examples include goods marketed to educate or raise awareness or take action in connection with civic engagement, economic growth, environmental stewardship, or social equity cause.
-*   _Documents, Currency and Financial Instruments_. Examples include NFTs, cryptocurrency, gift cards, mortgages, and replicas of official documents like passports.
-*   _Gambling_. Examples include lotto scratchers, fantasy sports, and bingo games. Gambling-related items like playing cards, dice, etc. that can be used for purposes other than for games that result in the payment of money or prizes of value are permitted.
-*   _Goods Derived from [Threatened or Endangered Animal Species](https://help.x.com/en/rules-and-policies/illegal-regulated-behaviors.html)_. Examples include objects made from ivory and medicinal goods made from tiger skins.
-*   _Hazardous Goods and Materials_. Examples include asbestos, chemical pesticides, and highly flammable substances like propane and fireworks.
-*   _Health and Wellness Supplements and Substances_. Examples include vitamins, weight loss supplements, and substances that contain anabolic steroids.
-*   _Human Body Parts and Byproducts_. Examples include human teeth, nail clippings, and urine.
-*   _Illegal and Recreational Drugs, Prescription and OTC Drugs and Drug Paraphernalia_. Examples include goods containing THC or CBD, and items used to pass drug tests, drug test cleaners and synthetic urine.
-*   _Live Animals_. Examples include pets and livestock.
-*   _Malicious Hardware_. Examples include wiretapping devices and goods used for jamming or descrambling devices, including devices claiming protection from WiFi signals.
-*   _Political Content_. Examples include goods referencing a candidate, political party, elected or appointed government official, election, referendum, ballot measure, legislation, regulation, directive, or judicial outcome.
-*   _Used Motor Vehicles_. Examples include used cars, motorcycles, and boats. New vehicles listed by authorized retailers or by the manufacturer are permitted.
-*   _Real Estate_. Examples include non-portable homes, apartments for rent, and plots of land.
-*   _Recalled Goods_.
-*   _Regulated Medical Devices_. Examples include contact lenses, glucose monitors and breast pumps.
-*   _[Stolen Goods](https://help.x.com/en/rules-and-policies/illegal-regulated-behaviors.html)_.
-*   _Services, Subscriptions and Non-Physical Goods_. Examples include job postings, solicitations for donations, subscriptions to streaming services, and digital goods like pdf, app downloads, music and movie downloads. Digital devices like smartphones and video game consoles are permitted.
-*   _Tobacco Goods and Related Paraphernalia_. Examples include chewing tobacco, e-cigarettes, tobacco pipes, hookahs, rolling paper and filters.
-*   _Unauthorized Ticket Sales_. Examples include the sale or resale of tickets without prior authorization.
-*   _[Weapons and Weapon Accessories](https://help.x.com/en/rules-and-policies/illegal-regulated-behaviors.html)_. Examples include knives, ammunition, explosives, and instructions on assembling weapons.
+*   _Illegal and Regulated Goods and Services_. Examples include body branding devices, UV tanning devices, drugs, live animals, endangered animals, human remains, counterfeit luxury, replica, surveillance products, unauthorized ticket resale, used motor vehicles, airbags, catalytic converters, stolen, pirated digital, or unauthorized goods.
+*   _Employment, Business and Income Opportunities_. Examples include job postings, recruitment offers, multi-level marketing, affiliate schemes, paid surveys, casting calls.
+*   _Financial Instruments and Documents_. Examples include NFTs, cryptocurrency, gift cards, mortgages, and replicas of official documents like passports.
+*   _Fundraising and Donations_. Examples include crowdfunding campaigns, soliciting, or collecting donations.
+*   _Gambling_. Examples include lotto scratchers, fantasy sports, lotteries, raffles, casinos, poker and bingo games. Gambling-related items like playing cards, dice, etc. that can be used for purposes other than for games that result in the payment of money or prizes of value are permitted.
+*   _Health, Medical, and Therapeutic Products_. Examples include regulated medical devices, glucose monitors, surgical tools, contact lenses, breast pumps, vitamins, treatments, medical & cosmetic procedures and services, clinical trials, telemedicine, weight loss supplements, and unapproved health claims.
+*   _Malicious Hardware_. Examples include hacking tools, malware USBs, and goods used for jamming or descrambling devices, including devices claiming protection from WiFi signals.
+*   _Misleading or Inauthentic Behavior_. Examples include offering likes, followers, selling or buying fake accounts or metrics.
+*   _Political Content_. Examples include election-related merchandise goods, advocacy, fundraising.
+*   _Tobacco Goods and Related Paraphernalia_. Examples include chewing tobacco, cigarettes, e-cigarettes, tobacco pipes, hookahs, rolling paper, filters and smoking alternatives such as vape, oral/topical nicotine solutions.
+*   _Unsafe or Harmful Products_. Examples include hazardous materials, explosives, recalled items, asbestos, chemical pesticides, and highly flammable substances like propane and fireworks.
+*   _Weapons and Weapon Accessories_. Examples include knives, guns, ammunition, explosives, and instructions on assembling weapons.
 
 ### Country Specific Policies
 
 **United States**
 
-Gambling: Online gambling, sports betting, lotto scratchers, fantasy sports, and bingo games may be permitted with restrictions.
+Gambling: Online gambling, sports betting, lotto scratchers, fantasy sports, and bingo games may be permitted with restrictions. Please contact your X Sales representative.
 
 Enforcement Philosophy
 ----------------------
