@@ -106,7 +106,7 @@ We keep information as long as we need it to provide our Products, comply with l
 Further information and how to contact Meta with questions
 ----------------------------------------------------------
 
-The data controller responsible for your personal data is Meta Platforms Ireland Limited, which you can [contact online](https://help.instagram.com/contact/1169130897068670) or via the contact address below at:
+The data controller responsible for your personal data is Meta Platforms Ireland Limited, which you can [contact online](https://help.meta.com/support/privacy) or via the contact address below at:
 
   
 
@@ -128,7 +128,7 @@ FAO: Privacy Operations
 
 ATTN: Privacy Operations
 
-Contact the [Data Protection Officer](https://help.instagram.com/contact/1169130897068670) for Meta Platforms Ireland Limited.
+Contact the [Data Protection Officer](https://help.meta.com/support/privacy) for Meta Platforms Ireland Limited.
 
 You also have the right to lodge a complaint with Meta Platforms Ireland's lead supervisory authority, the Irish Data Protection Commission or your local supervisory authority.
 
