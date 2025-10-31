@@ -1,9 +1,9 @@
 Privacy Policy
 ==============
 
-Updated: June 10, 2025  
+Updated: October 29, 2025  
 
-PDS Partners, LLC and its affiliates (“Company,” “Parler” “we,” “our,” and/or “us”) value the privacy of individuals who use our social news applications, the websites where this Privacy Policy is posted ( “Websites”) , and related services (collectively, our “Services”). This privacy policy (the “Privacy Policy”) explains how we collect, use, and share information from our users (“Users,” “you,” and/or “your”) to facilitate your commenting, social news, and influencer networking experience. By using our Services, you agree to the collection, use, disclosure, and procedures this Privacy Policy describes. Beyond the Privacy Policy, your use of our Services is also subject to our [Terms of Service](https://parler.com/terms-of-service/).
+Parler Technologies, Inc., and its affiliates (“Company,” “Parler” “we,” “our,” and/or “us”) value the privacy of individuals who use our social news applications, the websites where this Privacy Policy is posted ( “Websites”) , and related services (collectively, our “Services”). This privacy policy (the “Privacy Policy”) explains how we collect, use, and share information from our users (“Users,” “you,” and/or “your”) to facilitate your commenting, social news, and influencer networking experience. By using our Services, you agree to the collection, use, disclosure, and procedures this Privacy Policy describes. Beyond the Privacy Policy, your use of our Services is also subject to our [Terms of Service](https://parler.com/terms-of-service/).
 
 We neither sell your information to third parties nor share your information with governments except in the limited circumstances described in this Privacy Policy (see Section 2 “**How We Share the Information We Collect**” below for more detail).
 
