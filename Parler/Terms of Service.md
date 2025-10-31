@@ -1,9 +1,9 @@
 Terms of Service
 ================
 
-Modified: May, 14, 2025  
+Modified: October 29, 2025  
 
-**These terms govern your relationship with PDS Partners, LLC (“Parler”)** and your use of and access to all services, websites, and products provided by Parler (collectively, the Services). You agree that by accessing or using any part of the Services you are bound by the terms of this Agreement (the Terms), including the applicable [Privacy Policy](https://parler.com/privacy-policy) and [Community Guidelines](https://parler.com/community-guidelines/) incorporated herein.
+**These terms govern your relationship with Parler Technologies, Inc. (“Parler”)** and your use of and access to all services, websites, and products provided by Parler (collectively, the Services). You agree that by accessing or using any part of the Services you are bound by the terms of this Agreement (the Terms), including the applicable [Privacy Policy](https://parler.com/privacy-policy) and [Community Guidelines](https://parler.com/community-guidelines/) incorporated herein.
 
 **You may not use the Services unless all of the following apply to you**, and you affirm that all of the following apply to you:
 
@@ -35,9 +35,9 @@ Parler is committed to ensuring the safety and security of its users by strictly
 
 **Zero-Tolerance Policy:** Any user found engaging in CSAE-related activities will have their account permanently terminated and may be reported to the appropriate law enforcement authorities.
 
-**Automated and Human Review:** Parler utilizes automated detection tools and human moderation to proactively identify and remove CSAE content. **Automated and Human Review:** Parler utilizes automated detection tools via Hive Moderation tools and human moderation to proactively identify and remove CSAE content. Content suspected of violating CSAE laws will be immediately flagged and reviewed by our compliance team.
+**Automated and Human Review:** Parler utilizes automated detection tools via Hive Moderation tools and human moderation to proactively identify and remove CSAE content. Content suspected of violating CSAE laws will be immediately flagged and reviewed by our compliance team.
 
-**Reporting Mechanism:** Users are encouraged to report any CSAE-related content or activities via [support@parler.com](mailto:support@parler.com) .\[reporting email\]. Reports will be reviewed promptly, and appropriate actions will be taken.
+**Reporting Mechanism:** Users are encouraged to report any CSAE-related content or activities via [support@parler.com](mailto:support@parler.com). Reports will be reviewed promptly, and appropriate actions will be taken.
 
 **Law Enforcement Cooperation:** Parler cooperates with law enforcement agencies, the National Center for Missing & Exploited Children (NCMEC), and other relevant authorities to report and prevent the dissemination of CSAE content.
 
@@ -87,13 +87,13 @@ You agree to defend, indemnify, and hold Parler harmless, along with Parler’s 
 
 **Applicable law and dispute resolution procedure.**
 
-The laws of Texas will govern these Terms and any dispute that arises between you and Parler. You agree that all disputes related to these Terms or the Services will first be mediated, in good faith, within sixty (60) days of the demanding party’s provision of a written demand, unless expressly agreed otherwise in a signed writing. In the event that a full settlement is not achieved during mediation, you agree that any dispute, action or proceeding seeking to enforce any provision of, or based on any right arising out of these Terms or otherwise, shall then be settled exclusively by arbitration as set forth hereunder and you hereby waive the right to a jury trial before any court of competent jurisdiction.
+The laws of Nevada will govern these Terms and any dispute that arises between you and Parler. You agree that all disputes related to these Terms or the Services will first be mediated, in good faith, within sixty (60) days of the demanding party’s provision of a written demand, unless expressly agreed otherwise in a signed writing. In the event that a full settlement is not achieved during mediation, you agree that any dispute, action or proceeding seeking to enforce any provision of, or based on any right arising out of these Terms or otherwise, shall then be settled exclusively by arbitration as set forth hereunder and you hereby waive the right to a jury trial before any court of competent jurisdiction.
 
 Jury Trial Waiver. BY USING THE SERVICES, YOU WAIVE A TRIAL BY JURY IN ANY ACTION, PROCEEDING, OR COUNTER-CLAIM BROUGHT OR ASSERTED BY EITHER YOU OR PARLER AGAINST THE OTHER ON ANY MATTERS WHATSOEVER RELATING TO OR ARISING OUT OF THESE TERMS, INCLUDING THE FORMATION OF AN AGREEMENT BETWEEN THE PARTIES BASED ON THESE TERMS.
 
-ARBITRATION REQUIREMENT. At PARLER’S sole discretion, Parler may require all claims, controversies, disputes and other matters in question arising out of, or relating to these Terms, the breach hereof or the rights, privileges, responsibilities or duties between or among you and Parler, to be decided by confidential arbitration in Texas, USA in accordance with the Commercial Arbitration Rules of the American Arbitration Association (“AAA”) then existing, unless all parties to any such claim, controversy or dispute, or other matter in question, unanimously agree to the contrary. The provisions contained in this Paragraph shall be specifically enforceable under the prevailing arbitration law.
+ARBITRATION REQUIREMENT. At PARLER’S sole discretion, Parler may require all claims, controversies, disputes and other matters in question arising out of, or relating to these Terms, the breach hereof or the rights, privileges, responsibilities or duties between or among you and Parler, to be decided by confidential arbitration in Nevada, USA in accordance with the Commercial Arbitration Rules of the American Arbitration Association (“AAA”) then existing, unless all parties to any such claim, controversy or dispute, or other matter in question, unanimously agree to the contrary. The provisions contained in this Paragraph shall be specifically enforceable under the prevailing arbitration law.
 
-The arbitrator or arbitrators for any proceeding conducted hereunder shall be a person or persons with experience in the social media business, selected in accordance with the AAA’s Commercial Arbitration Rules then in effect. The parties will be entitled to conduct discovery in accordance with the provisions of Texas’ or applicable code of civil procedure. The remedial authority of the arbitrator or arbitrators will be the same as, but no greater than, would be the remedial power of a court having jurisdiction over the Parties and their dispute. The arbitrator or arbitrators will render a written opinion based on Texas law, and specify an award, which will be final and binding upon the Parties.
+The arbitrator or arbitrators for any proceeding conducted hereunder shall be a person or persons with experience in the social media business, selected in accordance with the AAA’s Commercial Arbitration Rules then in effect. The parties will be entitled to conduct discovery in accordance with the provisions of Nevada’s or applicable code of civil procedure. The remedial authority of the arbitrator or arbitrators will be the same as, but no greater than, would be the remedial power of a court having jurisdiction over the Parties and their dispute. The arbitrator or arbitrators will render a written opinion based on Nevada law, and specify an award, which will be final and binding upon the Parties.
 
 **Blockchain Integration**
 
