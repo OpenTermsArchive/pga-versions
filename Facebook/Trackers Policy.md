@@ -47,7 +47,7 @@ We may place cookies on your computer or device and receive information stored i
 
 *   The [Meta Products](https://www.facebook.com/help/1561485474074139?ref=cookies);
 *   Products provided by other members of the [Meta Companies](https://www.facebook.com/help/111814505650678?ref=cookies); and
-*   Websites and apps provided by other companies that use the Meta Products, including companies that incorporate Meta technologies into their websites and apps. Meta uses cookies and receives information when you visit those sites and apps, including [device information](https://www.facebook.com/privacy/policies/cookies) and information about your activity, without any further action from you. This occurs whether or not you have a Facebook or Instagram account or are logged in.
+*   Websites and apps provided by other companies that use the Meta Products, including companies that incorporate Meta technologies into their websites and apps. Meta uses cookies and receives information when you visit those sites and apps, including [device information](https://www.facebook.com/privacy/policy?subpage=1.subpage.3-AppBrowserAndDevice) and information about your activity, without any further action from you. This occurs whether or not you have a Facebook or Instagram account or are logged in.
 
 Do other Companies use cookies in connection with the Meta Products?
 
