@@ -76,7 +76,7 @@ For more information about how we use your information to provide, develop and i
 
 People will only build community on Meta Products if they feel safe and secure. We work hard to maintain the security (including the availability, authenticity, integrity, and confidentiality) of our Products and services. We employ dedicated teams around the world, work with external service providers, partners and other relevant entities, and develop advanced technical systems to detect potential misuse of our Products, harmful conduct towards others, and situations where we may be able to help support or protect our community, including to respond to user reports of potentially violating content. If we learn of content or conduct like this, we will take appropriate action that may include notifying you, offering help, removing or restricting content, removing or restricting access to certain features, disabling an account, or contacting law enforcement. Learn more about the restrictions we may impose on the use of Facebook, including information on how we apply our content policies, procedures, measures and tools . We share information data with other when we detect misuse or harmful conduct by someone using one of our Products or to help keep Meta Products, users and the community safe. For example, we share information with Meta Companies that provide financial products and services to help them promote safety, security and integrity and comply with applicable law. Meta may access, preserve, use and share any information it collects about you where it has a good faith belief it is required or permitted by law to do so. For more information, please review our .
 
-In some cases, the Oversight Board may review our decisions, subject to its terms and bylaws. Learn more [here](https://www.oversightboard.com/).
+In some cases, the Oversight Board may review our decisions, subject to its terms and bylaws. Learn more [here](https://www.oversightboard.com/?entry_point=POLICY_SECTION%3Asection_1).
 
 1.3 Provide consistent and seamless experiences across the Meta Company Products, outside of our contract with you:
 -------------------------------------------------------------------------------------------------------------------
@@ -253,7 +253,7 @@ Return to top
 *   : These guidelines apply if you create or administer a Facebook Page, group, or event, or if you use Facebook to communicate or administer a promotion.
 *   : These terms apply to the use of the set of APIs, SDKs, tools, plugins, code, technology, content, and services that enables others to develop functionality, retrieve data from MetaProducts, or provide data to us.
 *   : These terms apply to developers of applications that use Facebook Payments.
-*   [Meta Brand Resources](https://about.meta.com/brand/resources/): These guidelines outline the policies that apply to use of Meta trademarks, logos, and screenshots.
+*   [Meta Brand Resources](https://about.meta.com/brand/resources/?entry_point=POLICY_SECTION%3Asection_5): These guidelines outline the policies that apply to use of Meta trademarks, logos, and screenshots.
 *   Recommendations Guidelines: The and outline our standards for recommending and not recommending content.
 *   : This link sets out information on the main parameters of our recommender systems, as well as options for customizing your experience.
 *   : These policies apply to all content broadcast to Facebook Live.
