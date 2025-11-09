@@ -128,70 +128,6 @@ Violence and Incitement
 
 CHANGE LOG
 
-Today
-
-Sep 27, 2024
-
-Aug 29, 2024
-
-Aug 13, 2024
-
-Jul 2, 2024
-
-Apr 25, 2024
-
-Sep 28, 2023
-
-Sep 22, 2023
-
-Jan 27, 2023
-
-Nov 24, 2022
-
-Sep 29, 2022
-
-Feb 25, 2022
-
-Nov 25, 2021
-
-Oct 28, 2021
-
-May 4, 2021
-
-Feb 9, 2021
-
-Jan 29, 2021
-
-Nov 19, 2020
-
-Sep 3, 2020
-
-Jun 26, 2020
-
-May 28, 2020
-
-Dec 17, 2019
-
-Dec 1, 2019
-
-Sep 29, 2019
-
-Jul 30, 2019
-
-Jul 10, 2019
-
-Jul 1, 2019
-
-Apr 26, 2019
-
-Dec 29, 2018
-
-Oct 15, 2018
-
-Jul 27, 2018
-
-May 25, 2018
-
 Policy Rationale
 
 We aim to prevent potential offline violence that may be related to content on our platforms. While we understand that people commonly express disdain or disagreement by threatening or calling for violence in non-serious and casual ways, we remove language that incites or facilitates violence and credible threats to public or personal safety. This includes violent speech targeting a person or group of people on the basis of their protected characteristic(s) or immigration status. We remove content, disable accounts and work with law enforcement when we believe there is a genuine risk of physical harm or direct threats to public safety. We also try to consider the language and context in order to distinguish casual or awareness-raising statements from content that constitutes a credible threat to public or personal safety. In determining whether a threat is credible, we may also consider additional information such as a person's public visibility and the risks to their physical safety.
@@ -357,38 +293,6 @@ Dangerous Organizations and Individuals
 [Data](#data)
 
 CHANGE LOG
-
-Today
-
-Feb 9, 2024
-
-Dec 30, 2023
-
-Aug 29, 2023
-
-Apr 27, 2023
-
-Dec 24, 2021
-
-Nov 25, 2021
-
-Oct 15, 2021
-
-Aug 26, 2021
-
-Jun 23, 2021
-
-Oct 22, 2020
-
-Aug 27, 2020
-
-Feb 28, 2020
-
-Oct 10, 2019
-
-Sep 27, 2019
-
-Dec 29, 2018
 
 Policy Rationale
 
@@ -683,42 +587,6 @@ Coordinating Harm and Promoting Crime
 
 CHANGE LOG
 
-Today
-
-Jun 26, 2025
-
-Feb 28, 2025
-
-Dec 6, 2023
-
-Jan 27, 2023
-
-Sep 29, 2022
-
-May 4, 2022
-
-Apr 28, 2022
-
-Feb 25, 2022
-
-Jan 28, 2022
-
-Feb 6, 2021
-
-Jan 29, 2021
-
-Nov 19, 2020
-
-Sep 3, 2020
-
-Aug 27, 2020
-
-Jun 26, 2020
-
-Dec 17, 2019
-
-Dec 1, 2019
-
 Policy Rationale
 
 In an effort to prevent and disrupt offline harm and copycat behavior, we prohibit people from facilitating, organizing, promoting or admitting to certain criminal or harmful activities targeted at people, businesses, property or animals. We allow people to debate and advocate for the legality of criminal and harmful activities, as well as draw attention to harmful or criminal activity that they may witness or experience as long as they do not advocate for or coordinate harm.
@@ -923,68 +791,6 @@ Restricted Goods and Services
 [Data](#data)
 
 CHANGE LOG
-
-Today
-
-May 14, 2025
-
-Feb 28, 2025
-
-Feb 27, 2025
-
-Jun 26, 2024
-
-Dec 1, 2023
-
-Jul 27, 2023
-
-Apr 27, 2023
-
-Dec 23, 2022
-
-Oct 27, 2022
-
-Dec 24, 2021
-
-Nov 25, 2021
-
-Sep 30, 2021
-
-Aug 26, 2021
-
-Jul 29, 2021
-
-Jan 29, 2021
-
-Sep 24, 2020
-
-Jul 30, 2020
-
-Jun 22, 2020
-
-Apr 30, 2020
-
-Dec 1, 2019
-
-Oct 10, 2019
-
-Sep 24, 2019
-
-Sep 3, 2019
-
-Jul 30, 2019
-
-Jul 24, 2019
-
-Jul 1, 2019
-
-Apr 26, 2019
-
-Mar 20, 2019
-
-Dec 1, 2018
-
-Aug 31, 2018
 
 Policy Rationale
 
@@ -1488,36 +1294,6 @@ Fraud, Scams, and Deceptive Practices
 
 CHANGE LOG
 
-Today
-
-Jun 6, 2025
-
-Oct 2, 2024
-
-Jul 18, 2024
-
-Aug 4, 2023
-
-Apr 28, 2022
-
-Dec 24, 2021
-
-Nov 25, 2021
-
-Oct 28, 2021
-
-Aug 26, 2021
-
-May 4, 2020
-
-Dec 18, 2020
-
-Nov 19, 2020
-
-Dec 17, 2019
-
-Sep 3, 2019
-
 Policy Rationale
 
 We aim to protect users and businesses from being deceived out of their money, property or personal information. We achieve this by removing content and combatting behavior that purposefully employs deceptive means - such as wilful misrepresentation, stolen information and exaggerated claims - to either scam or defraud users and businesses, or to drive engagement. This includes content that seeks to coordinate or promote those activities using our services. We allow people to raise awareness and educate others as well as condemn these activities.
@@ -1885,40 +1661,6 @@ Suicide, Self-Injury, and Eating Disorders
 
 CHANGE LOG
 
-Today
-
-May 14, 2025
-
-Oct 2, 2024
-
-Jul 25, 2024
-
-Jul 2, 2024
-
-May 1, 2024
-
-Dec 30, 2023
-
-Apr 28, 2022
-
-Sep 30, 2021
-
-May 4, 2020
-
-Dec 18, 2020
-
-Nov 19, 2020
-
-Jul 30, 2020
-
-Jul 1, 2019
-
-Apr 26, 2019
-
-Mar 20, 2019
-
-Aug 31, 2018
-
 Policy Rationale
 
 We care deeply about the safety of the people who use our apps. We regularly consult with experts in suicide, self-injury and eating disorders to help inform our policies and enforcement, and we work with organizations around the world to provide assistance to people in distress.
@@ -2053,46 +1795,6 @@ Child Sexual Exploitation, Abuse, and Nudity
 [Data](#data)
 
 CHANGE LOG
-
-Today
-
-Jul 31, 2025
-
-Jul 17, 2025
-
-Dec 27, 2024
-
-Oct 2, 2024
-
-Jul 25, 2024
-
-Jul 8, 2024
-
-Jan 12, 2024
-
-Dec 6, 2023
-
-Aug 2, 2023
-
-Dec 23, 2022
-
-Apr 28, 2022
-
-Nov 25, 2021
-
-Oct 28, 2021
-
-Aug 26, 2021
-
-May 4, 2021
-
-Jan 29, 2021
-
-Nov 19, 2020
-
-Jun 22, 2020
-
-Dec 29, 2018
 
 Policy Rationale
 
@@ -2315,46 +2017,6 @@ Adult Sexual Exploitation
 
 CHANGE LOG
 
-Today
-
-Oct 30, 2025
-
-Sep 27, 2024
-
-May 1, 2024
-
-Mar 1, 2024
-
-May 25, 2023
-
-Aug 25, 2022
-
-Dec 24, 2021
-
-Nov 25, 2021
-
-Sep 30, 2021
-
-Jul 29, 2021
-
-Nov 19, 2020
-
-Dec 17, 2019
-
-Aug 27, 2019
-
-Jul 30, 2019
-
-Jul 1, 2019
-
-Oct 15, 2018
-
-Aug 31, 2018
-
-Jul 27, 2018
-
-May 25, 2018
-
 Policy Rationale
 
 We recognize the importance of our services as a place to discuss and draw attention to sexual violence and exploitation. We believe this is an important part of building common understanding and community. In an effort to create space for this conversation and promote a safe environment, we allow survivors to share their experiences, but we remove content that depicts, threatens or promotes sexual violence, sexual assault or sexual exploitation. We also remove content that displays, advocates for or coordinates sexual acts with non-consenting parties to avoid facilitating non-consensual sexual acts. Further, if we become aware of any content that threatens or advocates rape, we may disable the posting account and work with law enforcement, in addition to removing the content.
@@ -2514,56 +2176,6 @@ Bullying and Harassment
 [Data](#data)
 
 CHANGE LOG
-
-Today
-
-Jan 23, 2025
-
-Jul 2, 2024
-
-Dec 14, 2023
-
-Sep 28, 2023
-
-Jun 29, 2023
-
-Mar 30, 2023
-
-Jan 27, 2023
-
-Sep 29, 2022
-
-Dec 24, 2021
-
-Oct 13, 2021
-
-Aug 26, 2021
-
-May 4, 2021
-
-Apr 2, 2021
-
-Jan 29, 2021
-
-Nov 19, 2020
-
-Jul 30, 2020
-
-May 28, 2020
-
-Feb 28, 2020
-
-Jan 31, 2020
-
-Dec 17, 2019
-
-Sep 29, 2019
-
-Jul 30, 2019
-
-Jul 1, 2019
-
-Apr 26, 2019
 
 Policy Rationale
 
@@ -2837,28 +2449,6 @@ Human Exploitation
 
 CHANGE LOG
 
-Today
-
-Sep 19, 2025
-
-Aug 28, 2025
-
-Jul 31, 2025
-
-Dec 27, 2024
-
-Sep 27, 2024
-
-Jan 13, 2024
-
-Aug 31, 2023
-
-Dec 8, 2022
-
-Nov 25, 2021
-
-Sep 3, 2019
-
 Policy Rationale
 
 In an effort to disrupt and prevent harm, we remove content that facilitates or coordinates the exploitation of humans, including human trafficking. We define human trafficking as the business of depriving someone of liberty for profit. It is the exploitation of humans in order to force them to engage in commercial sex, labor, or other activities against their will. It relies on deception, force, and coercion, and degrades humans by depriving them of their freedom while economically or materially benefiting others.
@@ -2966,30 +2556,6 @@ Privacy Violations
 [User Experiences](#user-experiences)
 
 CHANGE LOG
-
-Today
-
-Oct 2, 2024
-
-Jun 26, 2024
-
-Jun 29, 2023
-
-Feb 24, 2023
-
-Sep 29, 2022
-
-Feb 25, 2022
-
-Nov 25, 2021
-
-Sep 30, 2021
-
-Nov 19, 2020
-
-Dec 1, 2018
-
-Jun 29, 2018
 
 Policy Rationale
 
@@ -3216,62 +2782,6 @@ Hateful Conduct
 
 CHANGE LOG
 
-Today
-
-Jan 8, 2025
-
-Mar 1, 2024
-
-Dec 6, 2023
-
-May 25, 2023
-
-Nov 24, 2022
-
-Jul 28, 2022
-
-Jun 30, 2022
-
-Nov 25, 2021
-
-Oct 28, 2021
-
-Jun 23, 2021
-
-Jan 29, 2021
-
-Nov 19, 2020
-
-Oct 12, 2020
-
-Sep 23, 2020
-
-Aug 11, 2020
-
-Jul 30, 2020
-
-Jun 22, 2020
-
-Mar 26, 2020
-
-Feb 28, 2020
-
-Dec 17, 2019
-
-Oct 30, 2019
-
-Aug 26, 2019
-
-Jul 30, 2019
-
-Jul 1, 2019
-
-Mar 20, 2019
-
-Aug 31, 2018
-
-May 25, 2018
-
 Policy Rationale
 
 We believe that people use their voice and connect more freely when they don’t feel attacked on the basis of who they are. That is why we don’t allow hateful conduct on Facebook, Instagram, or Threads.
@@ -3446,64 +2956,6 @@ Violent and Graphic Content
 [Data](#data)
 
 CHANGE LOG
-
-Today
-
-Jun 26, 2025
-
-May 14, 2025
-
-Sep 27, 2024
-
-Aug 29, 2024
-
-Jun 26, 2024
-
-Mar 1, 2024
-
-Nov 30, 2023
-
-Oct 17, 2023
-
-May 25, 2023
-
-Dec 23, 2022
-
-Nov 24, 2022
-
-Sep 29, 2022
-
-Oct 28, 2020
-
-Nov 19, 2020
-
-Aug 27, 2020
-
-Jun 22, 2020
-
-May 28, 2020
-
-Apr 30, 2020
-
-Feb 28, 2020
-
-Dec 17, 2019
-
-Dec 1, 2019
-
-Jul 30, 2019
-
-Jul 1, 2019
-
-Apr 26, 2019
-
-Mar 20, 2019
-
-Dec 1, 2018
-
-Jul 27, 2018
-
-May 25, 2018
 
 Policy Rationale
 
@@ -3737,46 +3189,6 @@ Adult Nudity and Sexual Activity
 
 CHANGE LOG
 
-Today
-
-Aug 28, 2025
-
-Jun 26, 2025
-
-May 14, 2025
-
-Sep 17, 2024
-
-Aug 29, 2024
-
-Jul 25, 2024
-
-May 1, 2024
-
-Mar 1, 2024
-
-Sep 29, 2022
-
-Apr 28, 2022
-
-Dec 24, 2021
-
-Nov 25, 2021
-
-Aug 26, 2021
-
-Nov 20, 2020
-
-Mar 20, 2019
-
-Oct 15, 2018
-
-Jul 27, 2018
-
-Jun 29, 2018
-
-May 25, 2018
-
 Policy Rationale
 
 We restrict the display of nudity or sexual activity because some people in our community may be sensitive to this type of content, particularly due to cultural background or age.
@@ -3990,40 +3402,6 @@ Adult Sexual Solicitation and Sexually Explicit Language
 
 CHANGE LOG
 
-Today
-
-May 14, 2025
-
-Oct 2, 2024
-
-Aug 29, 2024
-
-Mar 1, 2024
-
-Dec 6, 2023
-
-Nov 24, 2022
-
-Dec 24, 2021
-
-Nov 25, 2021
-
-Oct 28, 2021
-
-Feb 26, 2021
-
-Nov 19, 2020
-
-May 28, 2020
-
-Aug 26, 2019
-
-Jul 30, 2019
-
-Dec 29, 2018
-
-Oct 15, 2018
-
 Policy Rationale
 
 As noted in the [Adult Sexual Exploitation](https://www.facebook.com/communitystandards/sexual_exploitation_adults) policy, people use our services to discuss and draw attention to sexual violence and exploitation. We recognize the importance of and allow for this discussion. We also allow for the discussion of sex worker rights advocacy and sex work regulation. However, we draw the line, however, when content facilitates sexual encounters or commercial sexual services between adults or when content asks for or offers pornographic or sexual content. We do this to avoid facilitating transactions that may involve trafficking, coercion and non-consensual sexual acts.
@@ -4154,48 +3532,6 @@ Account Integrity
 
 CHANGE LOG
 
-Today
-
-Mar 27, 2025
-
-Dec 27, 2024
-
-Sep 25, 2024
-
-Mar 28, 2024
-
-Jan 26, 2024
-
-Aug 31, 2023
-
-Dec 23, 2022
-
-Oct 27, 2022
-
-Feb 25, 2022
-
-Oct 28, 2021
-
-Jul 29, 2021
-
-Mar 25, 2021
-
-Dec 18, 2020
-
-Nov 19, 2020
-
-May 28, 2020
-
-Oct 25, 2019
-
-Jul 1, 2019
-
-Aug 31, 2018
-
-Jul 27, 2018
-
-Jun 29, 2018
-
 Policy Rationale
 
 In order to maintain a safe environment and empower free expression, we restrict or remove accounts that are harmful to the community. We have built a combination of automated and manual systems to restrict and remove accounts that are used to egregiously or persistently violate our policies across any of our products.
@@ -4320,12 +3656,6 @@ Authentic Identity Representation
 
 CHANGE LOG
 
-Today
-
-Oct 9, 2024
-
-Jul 31, 2024
-
 Policy Rationale
 
 Authenticity is the cornerstone of our community. We believe that authenticity helps create a community where people are accountable to each other, and to Meta, in meaningful ways. We want to allow for the many ways that identity is expressed across our global community, while preventing impersonation and identity misrepresentation. To maintain a safe and open environment where people can trust one another and build community, we do not allow for the creation of accounts or profiles that are created or used to deceive others.
@@ -4430,16 +3760,6 @@ Spam
 [Data](#data)
 
 CHANGE LOG
-
-Today
-
-Jun 26, 2024
-
-Jun 30, 2022
-
-Dec 18, 2020
-
-Oct 30, 2019
 
 Policy Rationale
 
@@ -4564,22 +3884,6 @@ Cybersecurity
 
 CHANGE LOG
 
-Today
-
-Jun 26, 2025
-
-Oct 2, 2024
-
-Jun 26, 2024
-
-Jun 30, 2022
-
-Mar 26, 2021
-
-Dec 18, 2020
-
-Oct 30, 2019
-
 Policy Rationale
 
 We recognize that the safety of our users includes the security of their personal information, accounts, profiles and other Meta entities they may manage, as well as our products and services more broadly. Attempts to gather sensitive personal information or engage in unauthorized access by deceptive or invasive methods are harmful to the authentic, open and safe atmosphere that we want to foster.
@@ -4677,20 +3981,6 @@ Inauthentic Behavior
 [User Experiences](#user-experiences)
 
 CHANGE LOG
-
-Today
-
-Oct 2, 2024
-
-Jul 18, 2024
-
-Apr 25, 2022
-
-Dec 18, 2020
-
-Nov 8, 2019
-
-Oct 10, 2019
 
 Policy Rationale
 
@@ -4813,30 +4103,6 @@ Misinformation
 [User Experiences](#user-experiences)
 
 CHANGE LOG
-
-Today
-
-Apr 7, 2025
-
-Mar 13, 2025
-
-Jan 8, 2025
-
-Jul 18, 2024
-
-Jul 9, 2024
-
-Jun 10, 2024
-
-May 20, 2024
-
-Feb 7, 2024
-
-Dec 6, 2023
-
-Sep 29, 2023
-
-Jul 14, 2023
 
 Policy Rationale
 
@@ -4991,24 +4257,6 @@ Memorialization
 
 CHANGE LOG
 
-Today
-
-Oct 9, 2024
-
-Jul 31, 2024
-
-Nov 24, 2022
-
-Nov 19, 2020
-
-Jan 31, 2020
-
-Dec 17, 2019
-
-Dec 1, 2019
-
-Apr 26, 2019
-
 Policy Rationale
 
 When someone passes away, friends and family can request that we memorialize their accounts. Once memorialized, the word "Remembering" appears above the name on the person's profile so that the account is now a memorial site. Memorializing accounts helps create a space for remembering loved ones and protects against attempted logins and fraudulent activity. To respect the choices someone made while alive, we aim to preserve their account without changes after they pass away.
@@ -5106,10 +4354,6 @@ Third-Party Intellectual Property Infringement
 [User Experiences](#user-experiences)
 
 CHANGE LOG
-
-Today
-
-Aug 26, 2024
 
 Policy Rationale
 
@@ -5209,10 +4453,6 @@ User Requests
 
 CHANGE LOG
 
-Today
-
-Jun 26, 2024
-
 Policy Rationale
 
 Meta responds to requests for account removal in accordance with applicable law and our terms of service. Each and every request we receive is carefully reviewed and may reject or require additional clarification for certain requests.
@@ -5282,12 +4522,6 @@ Additional Protection of Minors
 [User Experiences](#user-experiences)
 
 CHANGE LOG
-
-Today
-
-Mar 1, 2024
-
-Nov 20, 2020
 
 We comply with:
 
