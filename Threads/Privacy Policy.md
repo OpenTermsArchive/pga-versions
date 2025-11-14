@@ -137,26 +137,26 @@ Related Articles
 
 [About Threads](https://help.instagram.com/788669719351544/?helpref=related_articles)
 
+[Privacy and visibility on Threads](https://help.instagram.com/1186014406713718/?helpref=related_articles)
+
 [Your Threads settings](https://help.instagram.com/313609505054371/?helpref=related_articles)
 
 [Threads Policies and Terms](https://help.instagram.com/280495901606863/?helpref=related_articles)
 
+[Threads and the fediverse](https://help.instagram.com/1766646354051423/?helpref=related_articles)
+
 [About Sensitive Content Control on Threads](https://help.instagram.com/2031788317323900/?helpref=related_articles)
-
-[About Threads and the fediverse](https://help.instagram.com/169559812696339/?helpref=related_articles)
-
-[Your Threads posts](https://help.instagram.com/391254440276136/?helpref=related_articles)
 
 Related Articles
 
 [About Threads](https://help.instagram.com/788669719351544/?helpref=related_articles)
 
+[Privacy and visibility on Threads](https://help.instagram.com/1186014406713718/?helpref=related_articles)
+
 [Your Threads settings](https://help.instagram.com/313609505054371/?helpref=related_articles)
 
 [Threads Policies and Terms](https://help.instagram.com/280495901606863/?helpref=related_articles)
 
+[Threads and the fediverse](https://help.instagram.com/1766646354051423/?helpref=related_articles)
+
 [About Sensitive Content Control on Threads](https://help.instagram.com/2031788317323900/?helpref=related_articles)
-
-[About Threads and the fediverse](https://help.instagram.com/169559812696339/?helpref=related_articles)
-
-[Your Threads posts](https://help.instagram.com/391254440276136/?helpref=related_articles)
