@@ -145,7 +145,7 @@ Related Articles
 
 [Threads and the fediverse](https://help.instagram.com/1766646354051423/?helpref=related_articles)
 
-[About Sensitive Content Control on Threads](https://help.instagram.com/2031788317323900/?helpref=related_articles)
+[Your Threads posts](https://help.instagram.com/391254440276136/?helpref=related_articles)
 
 Related Articles
 
@@ -159,4 +159,4 @@ Related Articles
 
 [Threads and the fediverse](https://help.instagram.com/1766646354051423/?helpref=related_articles)
 
-[About Sensitive Content Control on Threads](https://help.instagram.com/2031788317323900/?helpref=related_articles)
+[Your Threads posts](https://help.instagram.com/391254440276136/?helpref=related_articles)
