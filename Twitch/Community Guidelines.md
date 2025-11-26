@@ -1225,34 +1225,49 @@ No label is required if you are speaking about your lived experiences on topics 
 
 - - -
 
-You should only create emotes that adhere to Twitch’s [Terms of Service](https://link.twitch.tv/ToS) and [Community Guidelines](https://safety.twitch.tv/s/article/Community-Guidelines). Examples of content prohibited from use in emotes includes, but is not limited to, the following:
+You should only create emotes that adhere to Twitch’s [Terms of Service](https://link.twitch.tv/ToS) and [Community Guidelines](https://safety.twitch.tv/s/article/Community-Guidelines). This applies for both the emote’s imagery and name. 
+
+Most emotes can be used globally across Twitch in any channel. As such, emote names and imagery should be appropriate for all users. 
+
+Emotes that are acceptable when static may not necessarily be acceptable when animated, as it may change the perception of the emote.
+
+Examples of content prohibited from use in emotes includes, but is not limited to, the following:
 
 *   **Hateful conduct**, such as offensive slurs, symbols, stereotypes, and imagery
+    *   Exaggerated human features and caricatures related to stereotypes of different cultures and races
 *   **Harassment**, such as targeted insults, bullying, and threatening or inciting abuse
+    *   Emotes such as “Owned” or “Noob” are fine so long as they do not violate any other emote guidelines, but if the demeaning emote targets an individual or group, it will be denied
 *   **Threats of violence**, such as threats against others and threats of suicide
 *   **Obscene content**, such as extreme or gratuitous depictions of violence, blood, gore, severe injury, and death
+    *   Cartoon or slapstick injury or minor blood is not against our guidelines, though any form of photo-realistic examples will be denied
 *   **Sexual content**, such as depictions of sexual acts (sex, masturbation), arousal, gestures, aids, and attire
-    *   Gasm-style emotes (emotes imitating the Kreygasm global emote) are permitted
-*   **Nudity**, such as depictions and imitations of nude torsos, buttocks, genitals, and anuses
+    *   Gasm-style emotes (emotes imitating the Kreygasm global emote) are permitted, however, the inclusion of bodily fluids or implied bodily fluids such as saliva may result in an emote being denied
+    *   Fetish or fetish-adjecent emotes, including fetish-wear such as emotes with characters in bondage, will be denied
+*   **Nudity**, such as depictions and imitations of torsos, buttocks, genitals, and anuses that are nude
+    *   Humanized buttocks on non-human cartoon characters will be denied. However, providing buttocks are covered, non-human character emotes may be accepted. Note: when animated, these may be denied. 
+    *   Implied nudity, such as the purposeful cutting off before nudity begins or censored bars/blurs will be denied 
+    *   Emotes including characters or people wearing underwear, swimwear, or having exaggerated areas such as buttocks and breasts will be denied
 *   **Illegal drugs**, such as depictions or references to illegal drug use, drugs, and drug paraphernalia
 
 In addition to content prohibited by our [Community Guidelines](https://safety.twitch.tv/articles/en_US/Knowledge/Community-Guidelines), we also prohibit the following from use in emotes:
 
-*   **Vulgarity**, such as obscene or explicit words, phrases, and gestures
+*   **Vulgarity**, such as obscene or explicit words, phrases, gestures, or implied urination and defecation
 *   **Glorifying or encouraging violations of ou**r**** **[Community Guidelines](https://safety.twitch.tv/s/article/Community-Guidelines)**
-*   **Politics**, including political phrases, symbols, and figures
+*   **Politics**, including political phrases, symbols, flags, and figures
 *   **Individual letters and characters**
+    *   Single letters such as “L” and “W” even if held by a character or on a keyboard key will still be denied on this basis.
     *   Partners are granted exception to this restriction so long as the letters/characters are a key element of their established logo or branding.
 *   **Violations of [Twitch Brand Assets Guidelines](https://link.twitch.tv/TrademarkGuidelines)**
 *   **Emotes based on Twitch Global Emotes**
-    *   The only exceptions to this are Kappa and VoHiYo derivatives, which are authorized for use only under the following limitations:
+    *   Attempted reuploads of deprecated Twitch Emotes such as the original “PogChamp” and “BlessRNG” emote will be denied
+    *   The only exceptions to this are Kappa and VoHiYo derivatives, which are authorized for use only under the following limitations:  
         *   Max of two Kappa derivatives per channel.
         *   VoHiYo derivatives may not use or appear to use original assets.
         *   Kappa and VoHiYo derivatives are not exempt from any other applicable policies.
 
 Severe abuse of emote submissions, including severe policy violations and repeated submissions of content previously rejected or taken down, may result in a penalty on your account. Such actions may include: removal of content and/or suspension of account(s).
 
-![VoHiYo.png](/servlet/rtaImage?eid=ka0at000000CmDl&feoid=00N3i00000DRo3D&refid=0EM3i000001uKfo)**Troubleshooting Tip:** For more information about emote style and formatting requirements, check out our [help article](https://help.twitch.tv/s/article/emote-guidelines#sizeformat).
+![VoHiYo.png](/servlet/rtaImage?eid=ka0at000000GSd3&feoid=00N3i00000DRo3D&refid=0EM3i000001uKfo)**Troubleshooting Tip:** For more information about emote style and formatting requirements, check out our [help article](https://help.twitch.tv/s/article/emote-guidelines#sizeformat).
 
 Respect Intellectual and Artistic Property Rights
 -------------------------------------------------
@@ -1282,6 +1297,18 @@ If you do not like seeing an emote in your chatroom on your channel, but it does
 #### What about subscriber emotes?
 
 All subscriber emotes are subject to additional policies detailed in the [Subscriber Emote Guide](https://help.twitch.tv/s/article/subscriber-emote-guide). Please keep in mind subscriber emotes aren’t just for use or present on their respective Partner or Affiliate channels; subscriber emotes can be used globally across Twitch services, so these guidelines may be more restrictive.
+
+#### Why does X have Y emote when mine was denied?
+
+Users can unlock automatic approval for emotes through good standing, removing the requirement of manual review. Additionally, our guidelines may change after previously accepted emotes have been reviewed. As such, emotes sometimes remain available for some users that may no longer be consistent with our current guidelines. If you find an emote you believe violates the current Subscriber Badge and Emote Guidelines, please report it via the reporting tool.
+
+#### I have had X Emote for years! Why was it only now removed?
+
+Our guidelines can change over time and what was previously allowed might no longer be and vice versa. Good standing allows users to upload emotes that bypass manual review, however, all emotes can be reported. If violations are found, emotes are removed regardless of the length of time they were available on Twitch.
+
+#### Why were some of my Emotes instantly accepted and some were held for review?
+
+We understand it can be a confusing experience when you upload an emote and get instant approval, and at a later time, upload another emote that takes longer to be approved. Until you unlock [Good Standing instant approval](https://help.twitch.tv/s/article/emote-guidelines#instantupload), your emotes will be approved either by automation or through manual human review. You can learn more about how we utilize machine learning for emote approval in [this](https://blog.twitch.tv/2022/06/22/smarter-better-faster-using-machine-learning-to-review-emotes/) published blog post.
 
 - - -
 
