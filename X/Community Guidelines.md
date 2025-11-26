@@ -939,7 +939,7 @@ Adult Content must also comply with all X rules that result in content removal o
 
 *   [Non-consensual nudity](https://help.x.com/en/rules-and-policies/intimate-media)
     
-*   [Promoting or soliciting sexual services](https://help.x.com/en/rules-and-policies/regulated-goods-services) 
+*   [Promoting or soliciting sexual services](https://help.x.com/en/rules-and-policies/illegal-regulated-behaviors) 
     
 *   [Child sexual exploitation](https://help.x.com/en/rules-and-policies/sexual-exploitation-policy) 
     
@@ -1619,51 +1619,62 @@ If you believe we made a mistake, you can [submit an appeal](https://help.x.com
 
 - - -
 
-Civic integrity policy
-======================
+Civic Integrity
 
-### Overview
+### November 2025
 
-### **August 2023**
+**We believe civic participation starts with access to accurate information, and we’re empowering the community to keep election conversations open and informed.  
+  
+**The Civic Integrity policy addresses misleading content that could affect participation in elections or other civic processes. This includes content that may confuse people about how, when, or where to participate, or that aims to discourage participation.  
 
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
+How we define Civic Processes
+-----------------------------
 
-**What is a civic process?** 
-
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
+X defines civic processes as events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
 
 *   Political elections
+    
 *   Censuses 
-*   Major referenda and ballot initiatives   
-     
+    
+*   Referenda and ballot initiatives  
+      
+    
 
-**What is in violation of this policy?**
+This policy addresses three categories of misleading behavior and content: 
 
-This policy addresses 4 categories of misleading behavior and content: 
+**Misleading information about how to participate:** Such as advancing verifiably false or misleading information about how to participate in an election or other civic process. 
 
-**Misleading information about how to participate**
+### Learn more
 
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
+This includes, but is not limited to:
 
-*   misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
+*   misleading information about procedures to participate in a civic process (for example, that you can vote by post, text message, email, or phone call in jurisdictions where these are not a possibility);
+    
 *   misleading information about requirements for participation, including identification or citizenship requirements;
+    
 *   misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
+    
 *   misleading statements or information about the official, announced date or time of a civic process.
+    
 
-**Suppression**
+**Suppression:** Such as advancing verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process.
 
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
+### Learn more
+
+This includes, but is not limited to:
 
 *   misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
     
-*   misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
+*   misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; and
     
-*   misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+*   misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods.
     
 
-**Intimidation**
+**Intimidation:** Such as engaging in or promoting behaviors that may coerce others to refrain from participating in a civic process. 
 
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+### Learn more
+
+This includes, but is not limited to:
 
 *   inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
     
@@ -1671,42 +1682,42 @@ You may not engage in or promote behaviors that may coerce others to refrain fro
     
 *   inciting others to harass voters or poll workers;
     
-*   promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
+*   promoting the brandishing of firearms near polling locations to intimidate voters and election workers; and
     
 *   threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.x.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
 
-**False or misleading affiliation**
+**How we Support Civic Participation**  
 
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.x.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+To support civic participation and transparency, X relies on a combination of community-driven participation and platform moderation to promote accurate information and reduce the spread of misleading content:  
+ 
 
-**What is not a violation of this policy?**
+*   **Community Notes  
+    **
+    
+    Community Notes is a community-driven system that adds helpful, informative context to posts that may contain misleading information. Notes are written and rated by contributors, not by X. Notes are not used to enforce X rules, do not represent X’s viewpoint and cannot be edited or modified by our teams. When enough contributors with diverse perspectives rate a note as helpful, it appears directly on the post. Notes do not trigger removals, labels, or reduced distribution.  
+      
+    
+*   **Civic Integrity Label  
+    **In certain cases, X may apply a Civic Integrity label to posts that violate our Civic Integrity policy. This label is reserved for critical escalations. Posts that receive this label will have their reach restricted on X by:
+    
+    *   Excluding the post from search results, trends, and recommended notifications
+        
+    *   Removing the post from the For You and Following timelines
+        
+    *   Restricting the post’s visibility to the author’s profile only
+        
+    *   Limiting engagement options, including Likes, replies, reposts, quotes, bookmarks, shares, pin-to-profile, and Edit post
+        
+    *   Downranking the post in replies  
+         
+        
 
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
+Posts that qualify for enforcement under this policy will display a label informing both the author and viewers that visibility has been restricted. Authors can appeal the label if they believe their post was restricted in error. Learn more about our [range of enforcement options](https://help.x.com/en/rules-and-policies/enforcement-options.html).
 
-*   inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-*   organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-*   discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-*   using X pseudonymously or as a [parody, commentary, or fan account](https://help.x.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
+How to Report
+-------------
 
-**What happens if you violate this policy?**
-
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-*   Excluding the post from search results, trends, and recommended notifications
-    
-*   Removing the post from the For you and Following timelines
-    
-*   Restricting the post's discoverability to the author’s profile
-    
-*   Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-*   Downranking the Post in replies 
-    
-
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.x.com/en/rules-and-policies/enforcement-options.html).
+Users can report content using our in-app reporting flow. When you select “Civic Integrity” in the reporting flow, we will route your submission to request a [Community Note](https://communitynotes.x.com/guide/en/about/introduction), a collaborative way to add helpful context to posts and keep people better informed.
 
 - - -
 
