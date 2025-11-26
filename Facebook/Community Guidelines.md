@@ -3041,7 +3041,7 @@ Imagery of animals going from live to dead.
 
 Imagery of humans committing acts of brutality on living animals (e.g. kicking, drowning, or plucking feathers).
 
-For the following content, we limit the ability to view it to users who are 16 and older:
+For the following content, we limit the ability to view it to users who are 18 and older:
 
 **Imagery of people**
 
