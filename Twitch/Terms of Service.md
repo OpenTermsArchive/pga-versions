@@ -303,7 +303,7 @@ The EU Commission provides a platform for online dispute resolution at [https://
 
 All requests for information or documents related to potential, anticipated, or current legal proceedings, investigations, or disputes must be made using the appropriate level of legal process. Please see our [Service of Process](https://legal.twitch.com/legal/service-of-process/) page for more information.
 
-ON THIS PAGE Expand table of contents
+ON THIS PAGE
 
 *   [1\. Introduction; Your Agreement to these Terms of Service](#1-introduction-your-agreement-to-these-terms-of-service)
 *   [2\. Use of Twitch by Minors and Blocked Persons](#2-use-of-twitch-by-minors-and-blocked-persons)
