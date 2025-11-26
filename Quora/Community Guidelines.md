@@ -3,7 +3,7 @@ Platform Policies
 
 Official Quora Account
 
-*   2025-06-23T11:16:36Z
+*   2025-11-19T13:03:18Z
 
 Quora is a place that empowers people to share and grow the world's knowledge. In order to provide everyone with a safe and authentic experience using Quora, the following types of content and behaviors are prohibited:
 
@@ -19,11 +19,10 @@ Spam negatively impacts interaction on the platform, reduces trust, and inhibits
 *   Posting deceptive or malicious links on Quora, including ones that mimic Quora UI that direct users to unexpected websites
 *   Posting the same content repeatedly, or sending the same messages repeatedly
 *   Doing any of the following for the purpose of driving traffic to an external site or for monetary gain:
-
-*   Posting irrelevant answers or comments
-*   Editing your questions to include links or irrelevant information
-*   Posting questions to promote a business or service, or for solicitation
-*   Excessively promoting the same product or service
+    *   Posting irrelevant answers or comments
+    *   Editing your questions to include links or irrelevant information
+    *   Posting questions to promote a business or service, or for solicitation
+    *   Excessively promoting the same product or service
 
 ### [Harassment and Bullying](#h_01GFWFFH6XDYCRCYR30NBF6WBM)
 
@@ -88,7 +87,8 @@ Quora may also ban and remove all content from any user who is a confirmed and/o
 
 Sexually explicit or suggestive content (written or visual) involving children and minors. **If child sexual abuse material is identified to us, we will remove it, report it to relevant authorities, and your account will be permanently banned.**
 
-Examples include:
+Examples include:  
+ 
 
 *   Sexually explicit or suggestive content involving children and minors (this can include content involving minors who are fully clothed and not engaged in overtly sexual acts)
 *   Descriptions, whether real or fantasy, of engaging in sexual interactions with children and minors
@@ -112,7 +112,8 @@ Sexually explicit or suggestive content (written or visual) involving animals wi
 
 Sexually explicit graphic content involving adults which appears to be non-consensual or violent, as well as any content that promotes or glorifies non-consensual sexual activity.
 
-Examples include:
+Examples include:  
+ 
 
 *   Media clearly depicting any person involved in a sexual act or nude without consent, whether real or a faked depiction
 *   Close ups of intimate parts of a person’s body in public (e.g., upskirt creepshots)
@@ -124,28 +125,30 @@ We allow educational discussions about sexual exploitation, stories of experienc
 
 ### [Impersonation and Deceptive Activity](#h_01GFWFGWGH4VFA7RJ0SVJMFRE4)
 
-Do not use Quora to impersonate another person, act as another entity without authorization, or create multiple accounts with the intention of violating Quora's policies. The use of multiple accounts to fake or manipulate engagement, engage in targeted user/content reporting, or to bypass or evade enforcement actions is not permitted.
+Do not use Quora to impersonate another person, act as another entity without authorization, or create multiple accounts with the intention of violating Quora's policies. The use of multiple accounts to fake or manipulate engagement, engage in targeted user/content reporting, or to bypass or evade enforcement actions is not permitted.  
+ 
 
 ### [Intellectual Property and Personal Rights](#h_01GFWFH4RWD9HN6R7KXSR5V82Y)
 
-Do not post content that infringes any intellectual property or personal right of another party, including [copyright](https://www.quora.com/about/copyright), [trademark](https://www.quora.com/about/trademark), or privacy rights.
+Do not post content that infringes any intellectual property or personal right of another party, including [copyright](https://www.quora.com/about/copyright), [trademark](https://www.quora.com/about/trademark), or privacy rights.  
+ 
 
 ### [Profile Names](#h_01GFWFHEMX02PAC5VS7Y9BBJYX)
 
 On Quora, you're free to choose what you wish to be called so long as your name doesn't contain explicit content or violate our platform policies. Many people on Quora choose to use their real name to provide legitimacy to the content they post and establish a sense of trust with the community.
 
-Profile names may not contain the following:
+Profile names may not contain the following: 
 
 *   Profanities, slurs, or other obscenities.
 *   Sexually explicit language
-*   Phone numbers
+*   Phone numbers or email addresses
 *   Any content that violates our existing platform policies
 
 If you believe your profile name was flagged incorrectly, please submit a request at [quora.com/contact](http://quora.com/contact). On the contact form, select "I want to appeal a moderation decision" and then select "Flagged Name" as the reason for your appeal.
 
 #### Special Cases
 
-*   **Company or organizational accounts**: You may create an account on Quora to represent a legally incorporated business or other organization. You are not required to do so if you prefer to answer using a personal account. Not all organization accounts will be verified, though we may ask company accounts to provide verification. For more information about creating company accounts on Quora, see: [https://quoraadsupport.zendesk.com/hc/en-us/articles/360061083132-Create-a-Business-Profile](https://quoraadsupport.zendesk.com/hc/en-us/articles/360061083132-Create-a-Business-Profile)
+*   **Company or organizational accounts**: You may create an account on Quora to represent a legally incorporated business or other organization. You are not required to do so if you prefer to answer using a personal account. Not all organization accounts will be verified, though we may ask company accounts to provide verification. For more information about creating company accounts on Quora, see: [https://quoraadsupport.zendesk.com/hc/en-us/articles/360061083132-Create-a-Business-Profile](https://quoraadsupport.zendesk.com/hc/en-us/articles/360061083132-Create-a-Business-Profile)
 *   **Titles:** We encourage you to include titles such as "Dr." and "Ms." and information about degrees (e.g., "M.D.", or "PhD.") as a [credential](https://help.quora.com/hc/en-us/articles/360015675451-How-can-I-add-credentials-on-Quora-) as opposed to as part of your profile name.
 
 ### [Using the Quora brand/logo](#h_01GFWFJ7PFDSHW8TBHNSNGAS0Q)
