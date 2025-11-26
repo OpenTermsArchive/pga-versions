@@ -336,7 +336,7 @@ We reserve the right, but not the obligation, to:
 
 We respect the intellectual property rights of others. If you believe that any material available on or through the Service infringes upon any copyright you own or control, please immediately notify our Designated Copyright Agent using the contact information provided below (a "Notification").
 
-A copy of your Notification will be sent to the person who posted or stored the material addressed in the Notification. Please be advised that pursuant to federal law you may be held liable for damages if you make material misrepresentations in a Notification. Thus, if you are not sure that material located on or linked to by the Service infringes your copyright, you should consider first contacting an attorney.
+A copy of your Notification may be sent to the person who posted or stored the material addressed in the Notification. Please be advised that pursuant to federal law you may be held liable for damages if you make material misrepresentations in a Notification. Thus, if you are not sure that material located on or linked to by the Service infringes your copyright, you should consider first contacting an attorney.
 
 All Notifications should meet the requirements of DMCA 17 U.S.C. § 512(c)(3) and include the following information:
 
@@ -385,7 +385,7 @@ Email: [\[email protected\]](https://help.truthsocial.com/cdn-cgi/l/email-prote
 18\. COPYRIGHT INFRINGEMENTS
 ----------------------------
 
-We respect the intellectual property rights of others. If you believe that any material available on or through the Service infringes upon any copyright you own or control, please immediately notify us using the contact information provided below (a "Notification"). A copy of your Notification will be sent to the person who posted or stored the material addressed in the Notification.
+We respect the intellectual property rights of others. If you believe that any material available on or through the Service infringes upon any copyright you own or control, please immediately notify us using the contact information provided below (a "Notification"). A copy of your Notification may be sent to the person who posted or stored the material addressed in the Notification.
 
 Please be advised that pursuant to federal law you may be held liable for damages if you make material misrepresentations in a Notification. Thus, if you are not sure that material located on or linked to by the Service infringes your copyright, you should consider first contacting an attorney.
 
