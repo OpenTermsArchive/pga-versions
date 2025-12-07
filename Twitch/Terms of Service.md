@@ -1,6 +1,31 @@
 Terms of Service
 ================
 
+ON THIS PAGE
+
+*   [1\. Introduction; Your Agreement to these Terms of Service](#1-introduction-your-agreement-to-these-terms-of-service)
+*   [2\. Use of Twitch by Minors and Blocked Persons](#2-use-of-twitch-by-minors-and-blocked-persons)
+*   [3\. Privacy Notice](#3-privacy-notice)
+*   [4\. Account](#4-account)
+*   [5\. Use of Devices and Services](#5-use-of-devices-and-services)
+*   [6\. Modification of these Terms of Service](#6-modification-of-these-terms-of-service)
+*   [7\. License](#7-license)
+*   [8\. User Content](#8-user-content)
+*   [9\. Branded Content](#9-branded-content)
+*   [10\. Prohibited Conduct](#10-prohibited-conduct)
+*   [11\. Simulcasting](#11-simulcasting)
+*   [12\. Advertisements](#12-advertisements)
+*   [13\. Recommendations](#13-recommendations)
+*   [14\. Respecting Copyright](#14-respecting-copyright)
+*   [15\. Trademarks](#15-trademarks)
+*   [16\. Third-Party Content](#16-third-party-content)
+*   [17\. Idea Submission](#17-idea-submission)
+*   [18\. Termination](#18-termination)
+*   [19\. Disputes](#19-disputes)
+*   [20\. Miscellaneous](#20-miscellaneous)
+*   [21\. Contact Information](#21-contact-information)
+*   [22\. Requests for Information and Subpoenas](#22-requests-for-information-and-subpoenas)
+
 Last modified on 04/02/2025 [See prior versions of Terms of Service](https://www.twitch.tv/en/legal/terms-of-service/archive)
 
 1\. Introduction; Your Agreement to these Terms of Service
@@ -302,28 +327,3 @@ The EU Commission provides a platform for online dispute resolution at [https://
 -------------------------------------------
 
 All requests for information or documents related to potential, anticipated, or current legal proceedings, investigations, or disputes must be made using the appropriate level of legal process. Please see our [Service of Process](https://legal.twitch.com/legal/service-of-process/) page for more information.
-
-ON THIS PAGE
-
-*   [1\. Introduction; Your Agreement to these Terms of Service](#1-introduction-your-agreement-to-these-terms-of-service)
-*   [2\. Use of Twitch by Minors and Blocked Persons](#2-use-of-twitch-by-minors-and-blocked-persons)
-*   [3\. Privacy Notice](#3-privacy-notice)
-*   [4\. Account](#4-account)
-*   [5\. Use of Devices and Services](#5-use-of-devices-and-services)
-*   [6\. Modification of these Terms of Service](#6-modification-of-these-terms-of-service)
-*   [7\. License](#7-license)
-*   [8\. User Content](#8-user-content)
-*   [9\. Branded Content](#9-branded-content)
-*   [10\. Prohibited Conduct](#10-prohibited-conduct)
-*   [11\. Simulcasting](#11-simulcasting)
-*   [12\. Advertisements](#12-advertisements)
-*   [13\. Recommendations](#13-recommendations)
-*   [14\. Respecting Copyright](#14-respecting-copyright)
-*   [15\. Trademarks](#15-trademarks)
-*   [16\. Third-Party Content](#16-third-party-content)
-*   [17\. Idea Submission](#17-idea-submission)
-*   [18\. Termination](#18-termination)
-*   [19\. Disputes](#19-disputes)
-*   [20\. Miscellaneous](#20-miscellaneous)
-*   [21\. Contact Information](#21-contact-information)
-*   [22\. Requests for Information and Subpoenas](#22-requests-for-information-and-subpoenas)
