@@ -5,7 +5,15 @@ This dataset PGA v2 is part of the [Platform Governance Archive (PGA)](https://w
 - **Platforms**: Bluesky, Facebook, Instagram, LINE, LinkedIn, Parler, Pintest, Quora, Reddit, Snapchat, Spotify, Telegram, Threads, TikTok, TruthSocial, Tumblr, Twitch, Twitter, WeChat, WhatsApp, X, YouTube
 - **Time Frame**: since April 2022 (most platforms)
 - **Project Website:** [https://platformgovernancearchive.org](https://platformgovernancearchive.org)
-- **Weeky Releases:** [Weekly releases of collected data](https://github.com/OpenTermsArchive/pga-versions/releases) - a weekly export of all changes to tracked terms
+- **Weeky Releases:** [Weekly releases of collected data](https://github.com/OpenTermsArchive/pga-versions/releases) - a weekly export of all changes to tracked terms.
+
+## Usage
+
+### [🔍 Browse through versions](https://docs.opentermsarchive.org/analysis/how-to/navigate-history/) straight in this repository
+
+### [🔔 Subscribe by RSS](https://docs.opentermsarchive.org/terms/how-to/be-notified/) to be notified of changes
+
+### [🗂️ Download as dataset](https://github.com/OpenTermsArchive/pga-versions/releases) to analyse in depth
 
 ## Background
 
