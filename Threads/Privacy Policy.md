@@ -135,28 +135,28 @@ You also have the right to lodge a complaint with Meta Platforms Ireland's lead 
 Related Articles
 ----------------
 
-[About Threads](https://help.instagram.com/788669719351544/?helpref=related_articles)
-
 [Privacy and visibility on Threads](https://help.instagram.com/1186014406713718/?helpref=related_articles)
+
+[Threads Policies and Terms](https://help.instagram.com/280495901606863/?helpref=related_articles)
 
 [Your Threads settings](https://help.instagram.com/313609505054371/?helpref=related_articles)
 
 [Review and export your Threads information](https://help.instagram.com/259803026523198/?helpref=related_articles)
 
-[Threads Policies and Terms](https://help.instagram.com/280495901606863/?helpref=related_articles)
+[About Threads](https://help.instagram.com/788669719351544/?helpref=related_articles)
 
 [Threads and the fediverse](https://help.instagram.com/1766646354051423/?helpref=related_articles)
 
 Related Articles
 
-[About Threads](https://help.instagram.com/788669719351544/?helpref=related_articles)
-
 [Privacy and visibility on Threads](https://help.instagram.com/1186014406713718/?helpref=related_articles)
+
+[Threads Policies and Terms](https://help.instagram.com/280495901606863/?helpref=related_articles)
 
 [Your Threads settings](https://help.instagram.com/313609505054371/?helpref=related_articles)
 
 [Review and export your Threads information](https://help.instagram.com/259803026523198/?helpref=related_articles)
 
-[Threads Policies and Terms](https://help.instagram.com/280495901606863/?helpref=related_articles)
+[About Threads](https://help.instagram.com/788669719351544/?helpref=related_articles)
 
 [Threads and the fediverse](https://help.instagram.com/1766646354051423/?helpref=related_articles)
