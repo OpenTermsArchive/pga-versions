@@ -26,7 +26,7 @@ ON THIS PAGE
 *   [21\. Contact Information](#21-contact-information)
 *   [22\. Requests for Information and Subpoenas](#22-requests-for-information-and-subpoenas)
 
-Last modified on 04/02/2025 [See prior versions of Terms of Service](https://www.twitch.tv/en/legal/terms-of-service/archive)
+Last modified on 12/08/2025 [See prior versions of Terms of Service](https://www.twitch.tv/en/legal/terms-of-service/archive)
 
 1\. Introduction; Your Agreement to these Terms of Service
 ----------------------------------------------------------
@@ -42,11 +42,11 @@ When using Twitch or opening an account with Twitch on behalf of a company, enti
 2\. Use of Twitch by Minors and Blocked Persons
 -----------------------------------------------
 
-The Twitch Services are not available to persons under the age of 13. If you are between the ages of 13 and the age of legal majority in your jurisdiction of residence, you may only use the Twitch Services under the supervision of a parent or legal guardian who agrees to be bound by these Terms of Service.
+The Twitch Services are not available to persons under the age of 13, the age of 16 in Australia, or the minimum age required for use of the Twitch Services in your jurisdiction of residence if that age is older than 13 (the “Minimum Age”). If you are between the Minimum Age and the age of legal majority in your jurisdiction of residence, you may only use the Twitch Services under the supervision of a parent or legal guardian who agrees to be bound by these Terms of Service.
 
 The Twitch Services are also not available to any users previously removed from the Twitch Services by Twitch or to any persons barred from receiving them under the laws of the United States (such as its export and re-export restrictions and regulations) or applicable laws in any other jurisdiction.
 
-BY DOWNLOADING, INSTALLING, OR OTHERWISE USING THE TWITCH SERVICES, YOU REPRESENT THAT YOU ARE AT LEAST 13 YEARS OF AGE, THAT YOUR PARENT OR LEGAL GUARDIAN AGREES TO BE BOUND BY THESE TERMS OF SERVICE IF YOU ARE BETWEEN 13 AND THE AGE OF LEGAL MAJORITY IN YOUR JURISDICTION OF RESIDENCE, AND THAT YOU HAVE NOT BEEN PREVIOUSLY REMOVED FROM AND ARE NOT PROHIBITED FROM RECEIVING THE TWITCH SERVICES.
+BY DOWNLOADING, INSTALLING, OR OTHERWISE USING THE TWITCH SERVICES, YOU REPRESENT THAT YOU ARE THE MINIMUM AGE, THAT YOUR PARENT OR LEGAL GUARDIAN AGREES TO BE BOUND BY THESE TERMS OF SERVICE IF YOU ARE BETWEEN THE MINIMUM AGE AND THE AGE OF LEGAL MAJORITY IN YOUR JURISDICTION OF RESIDENCE, AND THAT YOU HAVE NOT BEEN PREVIOUSLY REMOVED FROM AND ARE NOT PROHIBITED FROM RECEIVING THE TWITCH SERVICES.
 
 3\. Privacy Notice
 ------------------
