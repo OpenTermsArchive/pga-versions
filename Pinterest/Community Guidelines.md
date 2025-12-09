@@ -298,4 +298,4 @@ Our guidelines around spam are:
 *   Don't attempt to evade our anti-spam systems. For example, don’t use redirection to attempt to link to a site that is not permitted on Pinterest.
     *   With respect to redirection, we encourage you to follow a “no surprises” principle – Pinners should be able to reasonably anticipate where your link will take them. Links that exhibit excessive or deceptive redirection, as well as shortener services that are abused for spam, may be blocked.
 
-Last updated: June 2025
+Last updated: August 2025
