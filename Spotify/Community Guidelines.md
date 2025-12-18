@@ -13,6 +13,8 @@ Safety and Privacy Centre
     
 *   Regulatory and transparency reports
     
+*   Mental health and crisis resources
+    
 
 Spotify Platform Rules
 ======================
@@ -168,6 +170,8 @@ Safety and Privacy Centre
     
 *   Regulatory and transparency reports
     
+*   Mental health and crisis resources
+    
 
 Content actions
 ===============
@@ -240,6 +244,8 @@ Safety and Privacy Centre
     
 *   Regulatory and transparency reports
     
+*   Mental health and crisis resources
+    
 
 Reporting content on Spotify
 ============================
@@ -300,6 +306,8 @@ Safety and Privacy Centre
      [Collecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/personal-data-collected) [Protecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/protecting-personal-data) [Your privacy controls](https://www.spotify.com/de-en/safetyandprivacy/privacy-controls) [Learn more about privacy](https://www.spotify.com/de-en/safetyandprivacy/learn-more-about-privacy)
     
 *   Regulatory and transparency reports
+    
+*   Mental health and crisis resources
     
 
 Guidance for parents or caregivers
@@ -424,6 +432,8 @@ Safety and Privacy Centre
     
 *   Regulatory and transparency reports
     
+*   Mental health and crisis resources
+    
 
 Our approach to assuring the age of users
 =========================================
@@ -460,6 +470,8 @@ Safety and Privacy Centre
      [Collecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/personal-data-collected) [Protecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/protecting-personal-data) [Your privacy controls](https://www.spotify.com/de-en/safetyandprivacy/privacy-controls) [Learn more about privacy](https://www.spotify.com/de-en/safetyandprivacy/learn-more-about-privacy)
     
 *   Regulatory and transparency reports
+    
+*   Mental health and crisis resources
     
 
 Election integrity at Spotify
@@ -524,6 +536,8 @@ Safety and Privacy Centre
     
 *   Regulatory and transparency reports
     
+*   Mental health and crisis resources
+    
 
 Our approach to dangerous and deceptive content
 ===============================================
@@ -572,6 +586,8 @@ Safety and Privacy Centre
     
 *   Regulatory and transparency reports
     
+*   Mental health and crisis resources
+    
 
 Our approach to violent extremism
 =================================
@@ -618,6 +634,8 @@ Safety and Privacy Centre
      [Collecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/personal-data-collected) [Protecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/protecting-personal-data) [Your privacy controls](https://www.spotify.com/de-en/safetyandprivacy/privacy-controls) [Learn more about privacy](https://www.spotify.com/de-en/safetyandprivacy/learn-more-about-privacy)
     
 *   Regulatory and transparency reports
+    
+*   Mental health and crisis resources
     
 
 Understanding recommendations on Spotify
@@ -713,6 +731,8 @@ Safety and Privacy Centre
     
 *   Regulatory and transparency reports
     
+*   Mental health and crisis resources
+    
 
 Digital Services Act points of contact
 ======================================
@@ -770,6 +790,8 @@ Safety and Privacy Centre
     
 *   Regulatory and transparency reports
     
+*   Mental health and crisis resources
+    
 
 Privacy
 =======
@@ -802,6 +824,8 @@ Safety and Privacy Centre
      [Collecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/personal-data-collected) [Protecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/protecting-personal-data) [Your privacy controls](https://www.spotify.com/de-en/safetyandprivacy/privacy-controls) [Learn more about privacy](https://www.spotify.com/de-en/safetyandprivacy/learn-more-about-privacy)
     
 *   Regulatory and transparency reports
+    
+*   Mental health and crisis resources
     
 
 Privacy
@@ -841,6 +865,8 @@ Safety and Privacy Centre
     
 *   Regulatory and transparency reports
     
+*   Mental health and crisis resources
+    
 
 Privacy
 =======
@@ -868,6 +894,8 @@ Safety and Privacy Centre
      [Collecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/personal-data-collected) [Protecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/protecting-personal-data) [Your privacy controls](https://www.spotify.com/de-en/safetyandprivacy/privacy-controls) [Learn more about privacy](https://www.spotify.com/de-en/safetyandprivacy/learn-more-about-privacy)
     
 *   Regulatory and transparency reports
+    
+*   Mental health and crisis resources
     
 
 Spotify’s Digital Services Act Transparency Report
