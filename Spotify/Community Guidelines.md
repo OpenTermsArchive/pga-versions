@@ -267,7 +267,7 @@ How can someone report content on Spotify?
 
 If you feel that a piece of content may violate our [Platform Rules](https://www.spotify.com/safetyandprivacy/platform-rules/), please report it through our secure reporting [form](https://support.spotify.com/content-policy-reporting/). The content owner will not know who made the report.
 
-To report content that you believe infringes your intellectual property rights or otherwise violates the law, please [contact us](https://support.spotify.com/report-content/). Content reported through this form (unless it is being reported for intellectual property reasons) will also be reviewed for Platform Rules violations. More information on Spotify's policy to address intellectual property infringement can be found in our [Copyright Policy](https://www.spotify.com/legal/copyright-policy/).
+To report content that you believe infringes on your intellectual property rights or otherwise violates the law, please [contact us](https://support.spotify.com/report-content/). Content reported through this form (unless it is being reported for intellectual property reasons) will also be reviewed for Platform Rules violations. More information on Spotify’s policy to address intellectual property infringement can be found in our [Copyright policy](https://www.spotify.com/legal/copyright-policy/).
 
 Abuse of our reporting process can lead to restrictions on your ability to submit reports in the future, and repeated violations of the [Spotify Terms of Use](https://www.spotify.com/legal/end-user-agreement/), including our [Platform Rules](https://www.spotify.com/safetyandprivacy/platform-rules/), may result in your account being suspended or terminated.
 
