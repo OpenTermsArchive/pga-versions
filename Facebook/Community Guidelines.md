@@ -3992,7 +3992,7 @@ These enforcement actions and standards apply agnostic of content or ideology an
 
 When we identify these networks, we remove the fake accounts, Pages, Groups, or other Meta assets directly involved in the operation. In cases where these people also create, manage, co-opt, target, or control Pages, Groups or communities that represent authentic entities not involved in the violating behavior, we may take steps to remove the violating individuals but allow the uninvolved people and communities to remain on our services.
 
-Whenever possible, we share our findings about networks of CIB in our Adversarial Threat Reports, found here. These reports are not meant to cover the entire universe of enforcements under the Inauthentic Behavior policy, but help inform our community’s understanding of the evolving nature of threats we face in this space.
+Whenever possible, we share our findings about networks of CIB in our Adversarial Threat Reports, found [here](https://transparency.fb.com/metasecurity/threat-reporting/). These reports are not meant to cover the entire universe of enforcements under the Inauthentic Behavior policy, but help inform our community’s understanding of the evolving nature of threats we face in this space.
 
 We do not allow:
 
