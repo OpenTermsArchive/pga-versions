@@ -4332,7 +4332,7 @@ Policy Rationale
 
 Meta takes [intellectual property rights](https://www.facebook.com/help/399224883474207?ref=ccs) seriously and is committed to protecting these rights while promoting expression, creativity, and innovation in a space built on community trust.
 
-For this reason, we enforce a policy against posting content that violates someone else’s intellectual property rights, including [copyright](https://www.facebook.com/help/1020633957973118/), [trademark](https://www.facebook.com/help/507663689427413/), or other legal rights. We publish information about the intellectual property reports we receive in our [Intellectual Property Transparency Report](https://transparency.meta.com/reports/intellectual-property/).
+For this reason, we enforce a policy against posting content that violates someone else’s intellectual property rights, including [copyright](https://www.facebook.com/help/1020633957973118/), [trademark](https://www.facebook.com/help/507663689427413/), or other legal rights. We publish information about the intellectual property reports we receive in our [Intellectual Property Transparency Report](https://transparency.fb.com/reports/intellectual-property/).
 
 To report content that you feel may infringe upon your intellectual property rights, please visit our [Intellectual Property Help Center](https://www.facebook.com/help/intellectual_property), visit our [Business Protection page](https://www.facebook.com/business/protecting-businesses), or consider applying for access to [Brand Rights Protection](https://www.facebook.com/index.php?next=https%3A%2F%2Fbusiness.facebook.com%2Fbrand-rights-protection%2F).
 
