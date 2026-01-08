@@ -565,8 +565,6 @@ The safety of our creators, viewers, and partners is our highest priority. We lo
 
 Explicit content meant to be sexually gratifying is not allowed on YouTube. Posting pornography may result in content removal or channel termination. Videos containing fetish content will be removed or age-restricted. In most cases, violent, graphic, or humiliating fetishes are not allowed on YouTube. In some cases, we may make exceptions for content with [educational, documentary, scientific, or artistic context](https://support.google.com/youtube/answer/6345162), including content that is in the public’s interest.
 
-If you find content that violates this policy, report it. Instructions for reporting violations of our Community Guidelines [are available here](https://support.google.com/youtube/answer/2802027). If you've found a few videos or comments that you would like to report, you can [report the channel](https://support.google.com/youtube/answer/2802027#report_channel).
-
 If you find content that violates this policy, report it. Instructions for reporting violations of our Community Guidelines [are available here](https://support.google.com/youtube/answer/2802027). If you've found a few videos or comments that you would like to report, you can [report the channel](https://support.google.com/youtube/answer/2802027#report_channel).
 
 Sexually explicit content featuring minors and content that sexually exploits minors is not allowed on YouTube. We report content containing child sexual abuse imagery to the [National Center for Missing and Exploited Children](https://www.missingkids.com/home), who work with global law enforcement agencies.
