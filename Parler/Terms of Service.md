@@ -1,7 +1,7 @@
 Terms of Service
 ================
 
-Modified: October 29, 2025  
+Modified: January 6, 2026  
 
 **These terms govern your relationship with Parler Technologies, Inc. (“Parler”)** and your use of and access to all services, websites, and products provided by Parler (collectively, the Services). You agree that by accessing or using any part of the Services you are bound by the terms of this Agreement (the Terms), including the applicable [Privacy Policy](https://parler.com/privacy-policy) and [Community Guidelines](https://parler.com/community-guidelines/) incorporated herein.
 
@@ -26,6 +26,64 @@ The content complies with the [Parler Community Guidelines](https://parler.com/c
 You are responsible for your use of the Services and for any content that you post. Parler does not endorse, support, represent, or affirm the completeness, truthfulness, accuracy, or reliability of any of the content posted through the Services, nor does Parler endorse any opinions expressed through the Services. All content is the sole responsibility of the person who originated the content, and Parler does not take responsibility for such content.
 
 With respect to any content you contribute that uses YouTube services via Parler, you affirm that—in addition to complying with Parler’s own Terms and Community Guidelines—you are also complying with [YouTube’s more restrictive Terms.](https://www.youtube.com/t/terms) (Users are encouraged to use Parler’s own native video capabilities whenever they wish to avoid the application of these more restrictive terms.)
+
+**Blockchain Integration**
+
+Parler has integrated blockchain technology into some of its products and services. Blockchain technology provides transparency, security, and decentralization, enabling enhanced user experiences. This integration allows users to actively participate in blockchain-enabled features, such as earning digital rewards for specific actions.
+
+Users acknowledge and agree that blockchain-related features involve emerging technologies and may carry certain risks, including but not limited to potential technical errors, transaction delays, or issues related to blockchain network stability. Parler does not guarantee the performance or outcomes of these blockchain features and is not responsible for losses incurred from blockchain-related actions.
+
+Users are solely responsible for managing their blockchain-related credentials, such as private keys, wallet addresses, or other identifiers. Parler does not store, manage, or recover these credentials for users.
+
+By engaging with blockchain-enabled features, users agree to comply with all applicable laws and regulations governing blockchain use in their jurisdiction.
+
+Parler offers users the optional ability to “Boost” their posts for increased visibility across the Parler platform. Users may elect to pay for a Boosted Post either by (a) paying a flat fee in United States Dollars (USD) or (b) using OPT digital rewards based on the current market value of OPT as determined by CoinStore, an independent third-party digital asset exchange.
+
+**Boosted Posts**
+
+By choosing to Boost a post, users acknowledge and agree that:
+
+*   Use of OPT for Boosted Posts is entirely voluntary and at their sole discretion.
+*   OPT is a utility token earned through participation and contribution to the decentralized Optio blockchain network. It is not a security, does not represent an investment, and is not reliant upon the efforts of others for its value.
+*   Parler does not operate or control CoinStore or any other third-party exchange and is not responsible for any changes in the market valuation of OPT.
+*   Parler makes no warranties, representations, or guarantees regarding the value, performance, or future price of OPT.
+*   Users are solely responsible for verifying the current value of OPT and making an informed decision prior to completing any Boosted Post transaction using OPT.
+*   Parler is not a digital asset exchange and does not engage in the sale, trading, or transfer of OPT.
+
+All Boosted Post transactions are final, non-refundable, and subject to the Terms and Conditions herein.
+
+There can be no guarantee that Boosted Posts will be successful, or achieve particular success. Neither Parler nor Optio is responsible for any aspect of a user’s content, website, or applications with which Boosted Posts may be associated. User represents, warrants, and covenants that (i) all Posts are, and will be updated to remain, current and accurate; (ii) your Posts are either original to you or you have secured all necessary rights, consents, waivers and licenses for their use as contemplated by the Agreement, and you are responsible for all royalties, payments, and fees with respect thereto (e.g., performing rights society fees); and (iii) if your Post is an advertisement, you will clearly and conspicuously disclose that such Post is an advertisement within the content of that Post as required by applicable laws and regulations, including all advertising laws and, where applicable, FTC regulations including the FTC’s Guides Concerning the Use of Endorsements and Testimonials in Advertising, 16 C.F.R. Part 255.
+
+At any time, for any or no reason, we may terminate Boosted Posts, and you or we may terminate this Agreement. At any time and at our sole discretion, we may update or modify the features or functionality of Boosted Posts, or this Agreement. We may also, at our sole discretion, terminate your participation in or suspend and/or limit your participation in Boosted Posts, including suspending or removing your associated Post(s). Neither Parler nor Optio will have any liability regarding the foregoing decisions.
+
+**Tipping (USD and OPT)**
+
+Parler may provide an optional tipping feature that allows users to send paid interactions, comments, or other paid messages (“Tips”) to creators or other users where enabled. Tip amounts and associated messages may be displayed publicly within comment feeds or alongside content.
+
+Users may fund Tips using either:
+
+*   Fiat currency (USD) through third-party payment processors integrated into Parler; or
+*   OPT tokens, with token valuations determined solely by independent third-party digital asset exchanges at the time of transaction.
+
+Parler does not control or guarantee the value, availability, liquidity, or price of OPT tokens, and users assume all risks relating to fluctuations or volatility of any digital asset.
+
+All tipping transactions are final and non-refundable. Users acknowledge and agree that:
+
+*   Parler is not responsible for payment errors, processing delays, chargebacks, or third-party transaction failures; and
+*   Parler does not mediate disputes between users and creators regarding tipping amounts, content, or expectations.
+
+When a Tip is funded using OPT, certain transaction data may be recorded on a blockchain or distributed ledger, which may be public and immutable. Users should not include sensitive personal information in any content or message that could be associated with an on-chain transaction.
+
+Parler does not store, manage, or recover user wallets, private keys, seed phrases, or other digital asset credentials. Users are solely responsible for managing their digital assets and securing their credentials.
+
+Users are solely responsible for ensuring compliance with all applicable laws, including tax reporting obligations related to tipping transactions, whether made in USD or OPT. Parler does not provide tax advice.
+
+Users acknowledge and agree that:
+
+*   OPT tokens are utility tokens for use within supported Parler features;
+*   OPT tokens are not securities, investments, or financial instruments regulated under U.S. or international securities laws;
+*   Parler makes no promises regarding the future value, liquidity, or tradability of OPT tokens; and
+*   All transactions involving OPT tokens are at the user’s own risk, and Parler is not responsible for any losses resulting from third-party exchange issues, wallet mismanagement, or market conditions.
 
 **Child Sexual Abuse and Exploitation (CSAE) Compliance**
 
@@ -94,35 +152,6 @@ Jury Trial Waiver. BY USING THE SERVICES, YOU WAIVE A TRIAL BY JURY IN ANY ACTIO
 ARBITRATION REQUIREMENT. At PARLER’S sole discretion, Parler may require all claims, controversies, disputes and other matters in question arising out of, or relating to these Terms, the breach hereof or the rights, privileges, responsibilities or duties between or among you and Parler, to be decided by confidential arbitration in Nevada, USA in accordance with the Commercial Arbitration Rules of the American Arbitration Association (“AAA”) then existing, unless all parties to any such claim, controversy or dispute, or other matter in question, unanimously agree to the contrary. The provisions contained in this Paragraph shall be specifically enforceable under the prevailing arbitration law.
 
 The arbitrator or arbitrators for any proceeding conducted hereunder shall be a person or persons with experience in the social media business, selected in accordance with the AAA’s Commercial Arbitration Rules then in effect. The parties will be entitled to conduct discovery in accordance with the provisions of Nevada’s or applicable code of civil procedure. The remedial authority of the arbitrator or arbitrators will be the same as, but no greater than, would be the remedial power of a court having jurisdiction over the Parties and their dispute. The arbitrator or arbitrators will render a written opinion based on Nevada law, and specify an award, which will be final and binding upon the Parties.
-
-**Blockchain Integration**
-
-Parler has integrated blockchain technology into some of its products and services. Blockchain technology provides transparency, security, and decentralization, enabling enhanced user experiences. This integration allows users to actively participate in blockchain-enabled features, such as earning digital rewards for specific actions.
-
-Users acknowledge and agree that blockchain-related features involve emerging technologies and may carry certain risks, including but not limited to potential technical errors, transaction delays, or issues related to blockchain network stability. Parler does not guarantee the performance or outcomes of these blockchain features and is not responsible for losses incurred from blockchain-related actions.
-
-Users are solely responsible for managing their blockchain-related credentials, such as private keys, wallet addresses, or other identifiers. Parler does not store, manage, or recover these credentials for users.
-
-By engaging with blockchain-enabled features, users agree to comply with all applicable laws and regulations governing blockchain use in their jurisdiction.
-
-Parler offers users the optional ability to “Boost” their posts for increased visibility across the Parler platform. Users may elect to pay for a Boosted Post either by (a) paying a flat fee in United States Dollars (USD) or (b) using OPT digital rewards based on the current market value of OPT as determined by CoinStore, an independent third-party digital asset exchange.
-
-**Boosted Posts**
-
-By choosing to Boost a post, users acknowledge and agree that:
-
-*   Use of OPT for Boosted Posts is entirely voluntary and at their sole discretion.
-*   OPT is a utility token earned through participation and contribution to the decentralized Optio blockchain network. It is not a security, does not represent an investment, and is not reliant upon the efforts of others for its value.
-*   Parler does not operate or control CoinStore or any other third-party exchange and is not responsible for any changes in the market valuation of OPT.
-*   Parler makes no warranties, representations, or guarantees regarding the value, performance, or future price of OPT.
-*   Users are solely responsible for verifying the current value of OPT and making an informed decision prior to completing any Boosted Post transaction using OPT.
-*   Parler is not a digital asset exchange and does not engage in the sale, trading, or transfer of OPT.
-
-All Boosted Post transactions are final, non-refundable, and subject to the Terms and Conditions herein.
-
-There can be no guarantee that Boosted Posts will be successful, or achieve particular success. Neither Parler nor Optio is responsible for any aspect of a user’s content, website, or applications with which Boosted Posts may be associated. User represents, warrants, and covenants that (i) all Posts are, and will be updated to remain, current and accurate; (ii) your Posts are either original to you or you have secured all necessary rights, consents, waivers and licenses for their use as contemplated by the Agreement, and you are responsible for all royalties, payments, and fees with respect thereto (e.g., performing rights society fees); and (iii) if your Post is an advertisement, you will clearly and conspicuously disclose that such Post is an advertisement within the content of that Post as required by applicable laws and regulations, including all advertising laws and, where applicable, FTC regulations including the FTC’s Guides Concerning the Use of Endorsements and Testimonials in Advertising, 16 C.F.R. Part 255.
-
-At any time, for any or no reason, we may terminate Boosted Posts, and you or we may terminate this Agreement. At any time and at our sole discretion, we may update or modify the features or functionality of Boosted Posts, or this Agreement. We may also, at our sole discretion, terminate your participation in or suspend and/or limit your participation in Boosted Posts, including suspending or removing your associated Post(s). Neither Parler nor Optio will have any liability regarding the foregoing decisions.
 
 **You affirm that you are competent to agree to be bound by this Agreement**, meaning that you are over the age of 18 and, if applicable, have the consent of any designated guardian. In addition to the NSFW filters made available by Parler, there are “Parental Control” products and features available on the market, which can help you tailor your experience on our platform. Some examples can be found [here](https://www.pcmag.com/picks/the-best-parental-control-software) and [here.](https://support.apple.com/en-us/HT201304)
 
