@@ -1,7 +1,7 @@
 Community Guidelines
 ====================
 
-May 8, 2024  
+**UPDATED: March 17, 2025**  
 
 Our Commitment to You
 
@@ -70,6 +70,6 @@ If you believe a moderation decision was made in error, initiate an appeal throu
 
 Thank you for your cooperation as we uphold community standards and strive to create a positive and secure environment for all users. For questions or assistance, contact us through the app feedback form or by emailing [\*\*support@parler.com](mailto:support@parler.com)\*\* .
 
-**UPDATED: 3-17-2025**
+‍
 
 ### ‍
