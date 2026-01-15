@@ -3107,7 +3107,7 @@ Fair use determinations are made on a case by case basis, and there is no clear 
 
 For more information on fair use:
 
-*   [http://en.wikipedia.org/wiki/Fair\_use](https://en.wikipedia.org/wiki/Fair_use)
+*   [http://en.wikipedia.org/wiki/Fair\_use](http://en.wikipedia.org/wiki/Fair_use)
 *   [https://ilt.eff.org/index.php/Copyright:\_Fair\_Use](https://ilt.eff.org/index.php/Copyright:_Fair_Use)
 *   [https://www.lumendatabase.org/](https://ilt.eff.org/index.php/Copyright:_Fair_Use)
 *   [http://fairuse.stanford.edu/overview/fair-use/four-factors/](http://fairuse.stanford.edu/overview/fair-use/four-factors/)
@@ -3127,7 +3127,7 @@ If you are concerned about the use of your brand or entity’s name, please revi
 
 #### Am I a copyright holder? How do I know?
 
-If you are unsure whether you hold rights to a particular work, please consult an attorney or another adviser as X cannot provide legal advice. There are plenty of resources to learn more about copyright law including [http://copyright.gov](http://copyright.gov/) and [http://www.eff.org/issues/bloggers/legal/liability/IP](https://www.eff.org/issues/bloggers/legal/liability/IP), just to name a few.
+If you are unsure whether you hold rights to a particular work, please consult an attorney or another adviser as X cannot provide legal advice. There are plenty of resources to learn more about copyright law including [http://copyright.gov](http://copyright.gov/) and [http://www.eff.org/issues/bloggers/legal/liability/IP](http://www.eff.org/issues/bloggers/legal/liability/IP), just to name a few.
 
 #### What to consider before submitting a copyright complaint
 
