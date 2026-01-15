@@ -5,8 +5,6 @@
 Privacy Policy
 --------------
 
-We updated our Privacy Policy on December 16, 2025. [View our previous policy.](https://privacycenter.instagram.com/policy/version/10052835831416190/)
-
 How to manage the info we use
 
 We collect information about you from different sources. You can choose whether we use certain information by visiting:
