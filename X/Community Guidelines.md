@@ -3183,9 +3183,9 @@ If you’ve not yet received a copy of the copyright complaint regarding the con
 
 In an effort to be as transparent as possible regarding the removal or restriction of access to user-posted content, we clearly mark withheld posts and media to indicate to viewers when content has been withheld (examples below).
 
-  ![](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 530 86%22%3E%3C/svg%3E)
+  ![](<data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 530 86%22%3E%3C/svg%3E>)
 
-  ![](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 356 359%22%3E%3C/svg%3E)
+  ![](<data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 356 359%22%3E%3C/svg%3E>)
 
 #### Why did I receive a copyright complaint?
 
