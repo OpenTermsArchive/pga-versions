@@ -5,6 +5,8 @@ Community Guidelines
 
 ========================
 
+![Yes or No](https://images.ctfassets.net/kw9k15zxztrs/1UwZbQH2zgrFsy9A4ARSL5/c6d55934e03c0dbfee7a00ed5769dcef/1-community_guidelines-cover.png?q=40&h=650)
+
 At Snap, we empower people to express themselves, live in the moment, learn about the world and have fun together. We created these Community Guidelines to encourage self-expression while helping Snapchatters stay safe. We want these guidelines to be clear and easy to understand. As noted in our [Terms of Service](https://www.snap.com/terms?lang=en-GB), these guidelines are part of your contract with Snap and you must follow them. Please see our [Terms of Service](https://www.snap.com/terms?lang=en-GB) and check your local laws to make sure you are old enough to join our community. 
 
   
