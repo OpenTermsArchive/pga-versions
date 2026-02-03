@@ -262,7 +262,7 @@ How Ad Billing Works on Facebook
 
 ![](https://static.xx.fbcdn.net/mci_ab/public/cms/?ab_b=e&ab_page=CMS&ab_entry=2189607951385194&version=1716504911)
 
-![](https://scontent-fra3-2.xx.fbcdn.net/v/t39.8562-6/321383695_1761464880891846_7163045669980296910_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=28b1f4&_nc_ohc=SJ12y6VsF7kQ7kNvwFSlfPL&_nc_oc=Adk3ZuQSfCS2aWvnvrjPxNpq4RPqfQWAucN5oRo1YzLMOS8EnGkUj0qPb1SZAocLm6I&_nc_zt=14&_nc_ht=scontent-fra3-2.xx&_nc_gid=0YZOCLLr7s9qp09nVGiPPQ&oh=00_AfsAWLeDEVB5SlxXQkle_iGr5eSB0ITzGMt2WqoUsim_bQ&oe=698685F8)
+![](https://scontent-fra3-2.xx.fbcdn.net/v/t39.8562-6/321383695_1761464880891846_7163045669980296910_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=28b1f4&_nc_ohc=SJ12y6VsF7kQ7kNvwFSlfPL&_nc_oc=Adk3ZuQSfCS2aWvnvrjPxNpq4RPqfQWAucN5oRo1YzLMOS8EnGkUj0qPb1SZAocLm6I&_nc_zt=14&_nc_ht=scontent-fra3-2.xx&_nc_gid=uZwiMqBEtWxS4RNqPzKxkQ&oh=00_AfsloNH81w7Qcsdi8j1Z5gwx8pFnxJ2wvHAYYtGp-bDTCQ&oe=69872EB8)
 
 Feedback
 
@@ -353,6 +353,6 @@ How Ad Billing Works on Facebook
 
 ##### Business Help Center
 
-![](https://scontent-fra3-2.xx.fbcdn.net/v/t39.8562-6/321383695_1761464880891846_7163045669980296910_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=28b1f4&_nc_ohc=SJ12y6VsF7kQ7kNvwFSlfPL&_nc_oc=Adk3ZuQSfCS2aWvnvrjPxNpq4RPqfQWAucN5oRo1YzLMOS8EnGkUj0qPb1SZAocLm6I&_nc_zt=14&_nc_ht=scontent-fra3-2.xx&_nc_gid=47vMQFghbycL8S1s-A-0pw&oh=00_Afu-pDLv7qumCT5Er1e-LTU02nYfq0KRJgaQvYPOmDFH3w&oe=698685F8)
+![](https://scontent-fra3-2.xx.fbcdn.net/v/t39.8562-6/321383695_1761464880891846_7163045669980296910_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=28b1f4&_nc_ohc=SJ12y6VsF7kQ7kNvwFSlfPL&_nc_oc=Adk3ZuQSfCS2aWvnvrjPxNpq4RPqfQWAucN5oRo1YzLMOS8EnGkUj0qPb1SZAocLm6I&_nc_zt=14&_nc_ht=scontent-fra3-2.xx&_nc_gid=TiHz7QgDcRH2PJhfhHYlww&oh=00_AftUnL9MsDEIQANDpIm6XWTlX2Pgzms7tB7fnloTz8cqhQ&oe=69872EB8)
 
 Feedback
