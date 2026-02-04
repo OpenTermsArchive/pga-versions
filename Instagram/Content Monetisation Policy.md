@@ -232,39 +232,6 @@ Content may not be monetized if it displays or discusses gore or bodily conditio
 *   Decay
     
 *   Infestation
-    
-
-![](http://static.xx.fbcdn.net/mci_ab/public/cms/?ab_b=e&ab_page=CMS&ab_entry=1124271668792488&version=1716503395)
-
-##### Help chosen for you
-
-Some Messaging Metrics Unavailable
-
-##### Business Help Center
-
-![](https://static.xx.fbcdn.net/mci_ab/public/cms/?ab_b=e&ab_page=CMS&ab_entry=2189607951385194&version=1716504911)
-
-Why is My Boost Unavailable?
-
-##### Business Help Center
-
-![](https://static.xx.fbcdn.net/mci_ab/public/cms/?ab_b=e&ab_page=CMS&ab_entry=2189607951385194&version=1716504911)
-
-Troubleshoot a Disabled Ad Account
-
-##### Business Help Center
-
-![](https://static.xx.fbcdn.net/mci_ab/public/cms/?ab_b=e&ab_page=CMS&ab_entry=2189607951385194&version=1716504911)
-
-How Ad Billing Works on Facebook
-
-##### Business Help Center
-
-![](https://static.xx.fbcdn.net/mci_ab/public/cms/?ab_b=e&ab_page=CMS&ab_entry=2189607951385194&version=1716504911)
-
-![](https://scontent-fra3-2.xx.fbcdn.net/v/t39.8562-6/321383695_1761464880891846_7163045669980296910_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=28b1f4&_nc_ohc=SJ12y6VsF7kQ7kNvwFSlfPL&_nc_oc=Adk3ZuQSfCS2aWvnvrjPxNpq4RPqfQWAucN5oRo1YzLMOS8EnGkUj0qPb1SZAocLm6I&_nc_zt=14&_nc_ht=scontent-fra3-2.xx&_nc_gid=NAWPxg6bl5_cV1FctAxtFg&oh=00_Afsa5fJpiYBnWBYcW60tLjf0n8lRfxaNrnJ4EaPne2c-6A&oe=69888038)
-
-Feedback
 
 - - -
 
@@ -332,27 +299,3 @@ Communications that are regulated as political advertising under applicable law 
 Monetized creators and publishers, and those that have not been onboarded to a monetization product, may lose the ability to monetize if an entity connected to it has repeatedly violated these policies.
 
 **Instagram from Meta reserves the right to modify, suspend or terminate access to, or discontinue the availability of, its content monetization features at any time.**
-
-![](http://static.xx.fbcdn.net/mci_ab/public/cms/?ab_b=e&ab_page=CMS&ab_entry=1124271668792488&version=1716503395)
-
-##### Help chosen for you
-
-Some Messaging Metrics Unavailable
-
-##### Business Help Center
-
-Why is My Boost Unavailable?
-
-##### Business Help Center
-
-Troubleshoot a Disabled Ad Account
-
-##### Business Help Center
-
-How Ad Billing Works on Facebook
-
-##### Business Help Center
-
-![](https://scontent-fra3-2.xx.fbcdn.net/v/t39.8562-6/321383695_1761464880891846_7163045669980296910_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=28b1f4&_nc_ohc=SJ12y6VsF7kQ7kNvwFSlfPL&_nc_oc=Adk3ZuQSfCS2aWvnvrjPxNpq4RPqfQWAucN5oRo1YzLMOS8EnGkUj0qPb1SZAocLm6I&_nc_zt=14&_nc_ht=scontent-fra3-2.xx&_nc_gid=lqQOnECUcB6_BBim2rka1g&oh=00_AfvqjS1979HnPO5t7vSTAHaVHCj1rZIKdWmlx3GJSSQEuA&oe=69888038)
-
-Feedback
