@@ -768,11 +768,6 @@ Relevant national judicial or administrative authorities can contact us directly
 
 Communications to the above email addresses can be either in English or Swedish. Note that we will not respond to requests sent to these addresses by anyone other than the European Member States’ authorities, the European Commission and the European Board for Digital Services.
 
-Information on monthly active recipients in the EU
---------------------------------------------------
-
-To review information about Spotify’s average monthly active recipients of its service under the DSA, please visit [https://www.spotify.com/se/legal/digital-services-act/](https://www.spotify.com/se/legal/digital-services-act/).
-
 - - -
 
 Safety and Privacy Centre
