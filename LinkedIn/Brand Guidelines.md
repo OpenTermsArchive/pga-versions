@@ -1,3 +1,5 @@
+The LinkedIn Local program has been discontinued as of January 1, 2026. **Learn what this means for you →**
+
 **LinkedIn Branding Guidelines**
 ================================
 
