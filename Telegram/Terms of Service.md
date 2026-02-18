@@ -58,7 +58,7 @@ Dein Abonnement bleibt ab dem Zeitpunkt deiner Kündigung bis zum Ende deines ak
 
 ### [](#3-bezahlte-dienstleistungen-die-uber-dritte-bezogen-werden)3\. Bezahlte Dienstleistungen, die über Dritte bezogen werden
 
-Wenn du ein Telegram Premium Abo über Dritte (z. B. Google Play, Apple App Store) erwirbst, kann dein Erwerb zusätzlich den Bedingungen des Dritten unterliegen, die zwischen dir und dem Dritten vereinbart wurden. Bei kostenpflichtigen Diensten, die du über einen Dritten erworben hast, erfolgt die Abrechnung direkt mit dem Dritten.
+Wenn du ein Telegram Premium Abo über [Dritte](https://telegram.org/tos/third-party-payments) (z. B. Google Play, Apple App Store) erwirbst, kann dein Erwerb zusätzlich den Bedingungen des Dritten unterliegen, die zwischen dir und dem Dritten vereinbart wurden. Bei kostenpflichtigen Diensten, die du über einen Dritten erworben hast, erfolgt die Abrechnung direkt mit dem Dritten.
 
 ### [](#4-beendigung)4\. Beendigung
 
