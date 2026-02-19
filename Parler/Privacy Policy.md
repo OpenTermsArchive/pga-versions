@@ -1,6 +1,10 @@
 Privacy Policy
 ==============
 
+Parler Social
+
+[Parler Play](https://parler.com/privacy-policy/parler-play)
+
 Updated: October 29, 2025
 
 Parler Technologies, Inc., and its affiliates ("Company," "Parler" "we," "our," and/or "us") value the privacy of individuals who use our social news applications, the websites where this Privacy Policy is posted ("Websites"), and related services (collectively, our "Services"). This privacy policy (the "Privacy Policy") explains how we collect, use, and share information from our users ("Users," "you," and/or "your") to facilitate your commenting, social news, and influencer networking experience.
