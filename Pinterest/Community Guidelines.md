@@ -131,7 +131,7 @@ We don’t allow content or behaviour that reveals personally identifiable infor
 *   Private contact information such as residential addresses, email addresses and phone numbers
 *   Health and medical records or other health-related data
 *   Online login information or account authentication data such as usernames, passwords, security questions and answers
-*   Photos of private people that they don’t want posted online
+*   Photos of private people posted on Pinterest without their permission
 *   Personal financial information, such as credit card or bank account numbers, or any financial account details
 *   Other private information considered personal or confidential
 
