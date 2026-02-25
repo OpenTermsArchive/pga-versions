@@ -2576,7 +2576,6 @@ Develop and improve [AI at Meta](https://www.facebook.com/privacy/genai?entry_po
 
 [Your activity and information you provide](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_SUBSECTION%3A18.4-LegitimateInterestsWeRely#1.subpage.1-YourActivityAndInformation):
 
-*   [Public content](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_SUBSECTION%3A18.4-LegitimateInterestsWeRely#3.subpage.3-PublicContentWhatContent) you or others create or share, like posts, comments or audio on Meta Products
 *   Interactions with AI at Meta and related metadata. For example, information you or others exchange with AI at Meta like content and messages
 
 [Information from partners, vendors and third parties](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_SUBSECTION%3A18.4-LegitimateInterestsWeRely#1.subpage.4-InformationFromPartnersVendors)
