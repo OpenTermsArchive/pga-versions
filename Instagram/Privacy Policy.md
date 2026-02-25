@@ -1190,7 +1190,6 @@ Information categories we use (see '[What Information do we collect?](https://pr
 
 [Your activity and information you provide](https://privacycenter.instagram.com/policy/?subpage=1.subpage.1-YourActivityAndInformation):
 
-*   [Public content](https://privacycenter.instagram.com/policy/?subpage=3.subpage.3-PublicContentWhatContent) you or others create or share, like posts, comments or audio on Meta Products
 *   Interactions with AI at Meta and related metadata. For example, information you or others exchange with AI at Meta like content and messages
 
 [Information from partners, vendors and third parties](https://privacycenter.instagram.com/policy/?subpage=1.subpage.4-InformationFromPartnersVendors)
