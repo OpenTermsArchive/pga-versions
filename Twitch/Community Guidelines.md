@@ -881,7 +881,8 @@ This policy is focused on Twitch users who persistently share harmful misinforma
 About Account Enforcements and Chat Bans
 ========================================
 
-### On this page:
+On this page:
+-------------
 
 *   [Account Enforcements](#AccountEnforcements)
 *   [Appealing an Account Enforcement](#AppealingEnforcement)
@@ -893,9 +894,11 @@ Account Enforcements
 
 When content is reported to us, we issue enforcements against accounts that we determine to have violated our [Terms of Service](https://www.twitch.tv/p/en/legal/terms-of-service) and/or [Community Guidelines](https://safety.twitch.tv/s/article/Community-Guidelines).
 
-We take a number of factors into consideration when we review reports of violations, including the intent and context, the potential for or actual harm to the community, legal obligations and others.
+We take a number of factors into consideration when we review reports of violations, including the intent and context, the potential for or actual harm to the community, legal obligations, and more.
 
-Depending on the nature of the violation, we take a range of actions including a warning, a temporary suspension, and for more serious offenses, an indefinite suspension. Violations may result in loss of privileges, such as being featured on the home page, or in marketing campaigns, participation in programs and events, and/or access to features such as automated emote approvals.
+Depending on the nature of the violation, we take a range of actions including a warning, a streaming suspension, a chatting suspension, and for more serious offenses, an indefinite suspension. Violations may result in loss of privileges, such as being featured on the home page or in marketing campaigns, participation in programs and events, ability to monetize your content, and/or access to features such as automated emote approvals.
+
+Whenever we make an enforcement decision, we notify the account holder both via email. They can view details about the enforcement reason in the [Appeals Portal](https://appeals.twitch.tv/). Out of respect for the privacy of individuals, we do not disclose details of specific enforcements with the wider community. Should the account holder wish to share this information with their community they are free to do so.
 
 ### Warnings
 
@@ -903,32 +906,60 @@ A warning is a courtesy notice for some violations. We may also remove content a
 
 ### Suspensions
 
-Temporary suspension
+Streaming suspension
 
-Temporary suspensions range from one to 30 days. After the suspension is complete, you will be able to use our services once again. We keep a record of past violations, and multiple suspensions over time can lead to an indefinite suspension.
+A streaming suspension is issued when a violation occurs on stream or in a VOD/clip. If your account is suspended from streaming, you will not be able to access certain features related to streaming, including going live, creating Stories, participating in Stream Together sessions, or uploading VODs. Streaming suspensions are temporary and will last between 24 hours to 30 days.
+
+Chatting suspension
+
+A chatting suspension is issued when a violation occurs in chat, Whispers, or other forms of writing on Twitch. If your account is suspended from chatting, you will not be able to access certain features related to chatting, including chatting on other channels (you will still be able to chat on your own channel), sending Whispers, Cheering, redeeming Channel Points, purchasing Power-Ups, or sending custom sub/resub messages (you can still use the default sub message when subscribing to a channel). Chatting suspensions are temporary and will last between 24 hours to 30 days.
+
+For violations that are more severe (such as hate speech), you will receive both a streaming suspension and chatting suspension regardless of where the violation occurred.
 
 Indefinite suspension
 
-For the most serious offenses, we will immediately and indefinitely suspend your account.
+For the most serious offenses, we will immediately and indefinitely suspend your account. You may also receive an indefinite suspension if you accumulate multiple suspensions over time. We keep a record of past violations.
 
 **On bot accounts:** While we welcome bots that add new features to Twitch chat and Whispers, bot accounts that spam unwanted messages will be banned indefinitely. Bots that exceed messaging rate limits will automatically be blocked from sending more messages. To ensure your bot is not banned, please visit [this link](https://dev.twitch.tv/docs/irc/guide/) to our developer documentation to learn about message and command rate limits and how to register your bot.
 
 ### Restrictions
 
-If your account is suspended, you may not access or use Twitch services, including:
+#### Streaming and Chatting Suspensions
+
+If your account receives a streaming suspension or chatting suspension, you will only lose access to the specific features related to your violation. For either type of suspension, you can continue to watch streams, follow channels, and use other Twitch features not restricted by your suspension type.
+
+#### Indefinite Suspensions
+
+If your account is indefinitely suspended, you may not access or use Twitch services, including:
 
 *   Watching streams
-*   Broadcasting
+*   Going live
 *   Chatting
-*   Using items you have purchased to use on Twitch, including Bits and subscriptions. For temporary suspensions, you can contact us to make changes to your subscriptions while suspended. For indefinite suspensions, any recurring subscriptions you have purchased will not renew.
+*   Using items you have purchased to use on Twitch, including Bits and subscriptions. Any recurring subscriptions you have purchased will not renew.
 *   Creating other accounts
-*   Appearing/participating in the stream of a third-party channel. If a banned user appears in a third-party channel while being suspended, this could cause the suspension of the channel they appear in.
+*   Appearing/participating in another user's channel. If a suspended user appears in a third-party channel while being suspended, this could cause the suspension of the channel they appear in.
 
-If you are a monetized streamer who receives a temporary suspension, you will not be able to earn any revenue from Twitch monetization tools during your suspension, with the exception of recurring subscriptions that renew during the suspension period. If you are indefinitely suspended, you will not be able to utilize Twitch monetization tools during your suspension and existing recurring subscriptions to your channel will not renew.
+If you are a monetized streamer who receives an indefinite suspension, you will not be able to utilize Twitch monetization tools during your suspension and existing recurring subscriptions to your channel will not renew.
+
+### Expiration
+
+Most violations will expire and drop off of your account after a set period of time. Lower severity violations will expire in 90 days, and higher severity violations expire in 1 or 2 years. You can track when your violations will expire in the [Appeals Portal](https://appeals.twitch.tv/).
+
+### Escalating Consequences
+
+In order to hold users accountable for repeated harmful behavior, there are escalating consequences if you violate within the same policy category multiple times before the initial violation expires (in 90 days, 1 year, or 2 years depending on the violation). This means that the length of suspension you receive for each subsequent violation will increase, even if the severity of the violation itself has not increased.
+
+### Ad Restrictions
+
+Receiving temporary account suspensions for brand safety-related Community Guidelines violations (including sexual content, nudity, gambling, hateful conduct, or violence) may result in a removal of ads from your account for a short period of time. If you appeal a suspension and that appeal is accepted, your previous ads eligibility will be restored. We are making this update to ensure that we are meeting the needs of our advertisers.
+
+Streamers who successfully request reinstatement after an indefinite suspension and are reinstated on Twitch, will have no ads for at least a month following return. In some cases, we may indefinitely disable ads on an account for ongoing brand safety concerns. You will be notified if this occurs.
 
 ### Forced Username Reset
 
 Usernames that are flagged as violating our [Community Guidelines](https://link.twitch.tv/community-guidelines), and do not result in an indefinite suspension, will be forced to rename. When this occurs, the account is locked and cannot be recovered until the account owner completes the username reset process. Once complete, the channel owner will regain access to their account including followers, Bits, and subscriptions.
+
+**Note:** DMCA notifications are not handled by our Trust & Safety team, and copyright strikes are tracked separately from enforcements issued for violations of our Community Guidelines. As we explain in our [DMCA Guidelines](https://www.twitch.tv/p/en/legal/dmca-guidelines), if we receive a valid DMCA notification against content you've shared on Twitch, we will generally remove or disable access to the claimed infringing material, and we may disable your livestream and/or temporarily suspend your account. We will also take note of this incident under our repeat infringer policy, and will terminate your account if you are determined to be a repeat infringer of copyrighted works.
 
  [](#Top)
 
@@ -966,7 +997,7 @@ Appeals are reviewed by our Safety Operations team in the order in which they ar
 1.  To view your recent enforcements and submit an appeal, log in to the [appeals portal](https://link.twitch.tv/Appeals) using the Twitch account for which you wish to appeal an enforcement. You will still be able to access the appeals portal even if your account is currently suspended.
 2.  Select the enforcement that you wish to appeal. The enforcement date and enforcement reason will be included alongside each enforcement, along with the suspension length or enforcement type.
 3.  Your user information will be pre-populated in the form at the bottom of the page. Use the description box to provide more details explaining why you would like to appeal the enforcement.
-4.  After your appeal has been submitted you will receive an on-screen confirmation acknowledging receipt of your appeal. The status of your appeal in the appeals portal will also be updated to “Pending."
+4.  After your appeal has been submitted you will receive an on-screen confirmation acknowledging receipt of your appeal. The status of your appeal in the appeals portal will also be updated to "Pending."
 5.  Once your appeal has been reviewed, you will receive an email notification containing our decision on your appeal, and the status of your account(s). The status of the appeal will also be updated in the appeals portal to reflect our decision. This will complete the appeals process.
 6.  If you are a resident of the European Union (EU) and you wish to contest our decision further, you may be able to utilize other legal methods for seeking redress. Please review our [Digital Services Act ("DSA")](https://help.twitch.tv/s/article/digital-services-act) help page for more information.
 
@@ -976,7 +1007,7 @@ If you do not believe that your username violates our [Community Guidelines](htt
 
 1.  To submit an appeal, log in to the [appeals portal](https://link.twitch.tv/Appeals). You will be able to log into the portal with your account even if it is currently flagged for a username reset.
 2.  Your user information will be pre-populated in the form at the bottom of the page. Use the description box to provide more details explaining why you believe you were incorrectly flagged for a username reset.
-3.  After your appeal has been submitted you will receive an on-screen confirmation acknowledging receipt of your appeal. The status of your appeal in the appeals portal will also be updated to “Pending."
+3.  After your appeal has been submitted you will receive an on-screen confirmation acknowledging receipt of your appeal. The status of your appeal in the appeals portal will also be updated to "Pending."
 4.  Once your appeal has been reviewed, you will receive an email notification containing our decision on your appeal, and the status of your account(s). The status of the appeal will also be updated in the appeals portal to reflect our decision. This will complete the appeal process.
 5.  If you are a resident of the European Union (EU), and you wish to contest our decision further, you may be able to utilize other legal methods for seeking redress. Please review our [Digital Services Act ("DSA")](https://help.twitch.tv/s/article/digital-services-act) help page for more information.
 
@@ -997,6 +1028,8 @@ Filing a Channel-Specific Unban Request
 ---------------------------------------
 
 If you have been banned from chatting in a specific channel, you can request to be unbanned using the Unban Request feature, providing the channel owner has this option enabled. Banned users can submit a one-time unban request through the Chat column, which channel owners and moderators can review and take action on anonymously. Channel owners can also set a cooldown period which newly banned users must adhere to before they can request to be unbanned.
+
+When reviewing unban requests, chat message logs only show messages from the past 3.5 years. Moderator actions and comments from any time period remain visible to help inform decisions.
 
 How to file an Unban Request:
 
