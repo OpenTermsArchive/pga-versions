@@ -2563,7 +2563,7 @@ Our services aim to protect the privacy and personal information of our users. W
 
 We remove content that shares, offers, or solicits personally identifiable information or other private information that could lead to physical or financial harm, including financial, residential, and medical information, as well as private information obtained from illegal sources. We recognize that private information may become publicly available through news coverage, court filings, press releases, or other sources. When that happens, we may allow the information to be posted.
 
-We have additional restrictions for paid content. Although we allow ads that provide a positive user experience by focusing on the product’s or service’s details, we remove ads that exploit users’ personal hardships, appear to make negative or inaccurate characterizations about them, or imply knowledge of sensitive personal information. For more information on our privacy rules for paid content, see our Advertising Standard on [Privacy Violations and Personal Attributes](https://transparency.fb.com/policies/ad-standards/objectionable-content/privacy-violations-personal-attributes/).
+We have additional restrictions for paid content. Although we allow ads that provide a positive user experience by focusing on the product’s or service’s details, we remove ads that exploit users’ personal hardships, appear to make negative or inaccurate characterizations about them, or imply knowledge of sensitive personal information. For more information on our privacy rules for paid content, see our Advertising Standard on [Privacy Violations and Personal Attributes](https://transparency.meta.com/policies/ad-standards/objectionable-content/privacy-violations-personal-attributes).
 
 We do not allow:
 
