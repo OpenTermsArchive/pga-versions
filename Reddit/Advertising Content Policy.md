@@ -670,11 +670,7 @@ EU
 Products or Services in Violation of Trade Policies
 ===================================================
 
-**Principle:** As a US company, Reddit respects US trade embargoes and sanctions.
-
-**Policy:** Reddit prohibits advertisements for products or services targeted to or originating from countries subject to trade embargoes or sanctions by the United States.
-
-Please visit the US Treasury Department for a [current list](https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information "https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information") of ongoing sanction programs.
+> **Note:** This policy is deprecated. .
 
 - - -
 
