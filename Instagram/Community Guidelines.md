@@ -1729,51 +1729,7 @@ For the following Community Standards, we require additional information and/or 
         
     *   Reports from media, law enforcement, or other third party sources (e.g. government agencies, NGOs), or the [Suicidal Content Contact Form](https://www.facebook.com/help/contact/305410456169423/) or [Instagram Contact Form](https://help.instagram.com/contact/383679321740945/).
         
-    
-
-User experiences
-
-See some examples of what enforcement looks like for people on Facebook, such as: what it looks like to report something you don’t think should be on Facebook, to be told you’ve violated our Community Standards and to see a warning screen over certain content.
-
-**Note:** We’re always improving, so what you see here may be slightly outdated compared to what we currently use.
-
-USER EXPERIENCE
-
-Reporting
-
-USER EXPERIENCE
-
-Post-report communication
-
-USER EXPERIENCE
-
-Takedown experience
-
-USER EXPERIENCE
-
-Warning screens
-
-Data
-
-[View the latest Community Standards Enforcement Report](https://transparency.fb.com/data/community-standards-enforcement/)
-
-[Enforcement](https://transparency.fb.com/enforcement/)
-
-We have the same policies around the world, for everyone on Facebook.
-
-[Review teams](https://transparency.fb.com/enforcement/detecting-violations/how-review-teams-work/)
-
-Our global team of over 15,000 reviewers work every day to keep people on Facebook safe.
-
-[Stakeholder engagement](https://transparency.fb.com/policies/improving/stakeholders-help-us-develop-community-standards/)
-
-Outside experts, academics, NGOs and policymakers help inform the Facebook Community Standards.
-
-Get help with suicide, self-injury, and eating disorders
-
-Learn what you can do if you see something on Facebook that goes against our Community Standards.
-
-[Visit our Help Center](https://www.facebook.com/help/263149623790594?ref=tc)
+    *   We may take into account off-platform signals of admission to or promotion of suicide, self-injury, eating disorders or extreme weight-loss behaviors from a user to assess whether specific content posted by them on Meta platforms could present a risk to others.
 
 - - -
 
