@@ -896,21 +896,29 @@ Safety and Privacy Centre
 Spotify’s Digital Services Act Transparency Report
 ==================================================
 
-The European Union’s Digital Services Act (DSA) is a regulation that aims to combat illegal content online.
-
-Spotify’s Digital Services Act Transparency Report includes an overview of our approach, including policies, practices and actions related to users’ content across Spotify’s intermediary services. This report is essential for promoting transparency and accountability.
+Spotify's Digital Services Act Transparency Report includes an overview of our approach, including policies, practices and actions related to users’ content across Spotify’s intermediary services. This report reflects Spotify’s transparency and accountability about our approach.
 
 Spotify’s [Platform Rules](https://www.spotify.com/safetyandprivacy/platform-rules/) outline what is and is not allowed across our services. We consistently work to address illegal and harmful content uploaded by users while protecting users’ data and fundamental rights.
 
-**Spotify’s Digital Services Act Transparency Report for 2024 can be found** **[here](https://www.spotify.com/safetyandprivacy/transparency/eu_20250213_dsa_report.pdf).**
+[**Spotify Digital Services Act Transparency Report 2024**](https://www.spotify.com/safetyandprivacy/file/eu_2024_dsa_report_spotify)
+
+[**Spotify Digital Services Act Transparency Report 2025 – Introduction**](https://www.spotify.com/safetyandprivacy/file/eu_2025_dsa_report_introduction_spotify)
+
+[**Spotify Digital Services Act Transparency Report 2025 (XLSX, download)**](https://www.spotify.com/safetyandprivacy/file/eu_2025_dsa_report_spotify)
+
+[**Spotify for Artists Digital Services Act Transparency Report 2025 (XLSX, download)**](https://www.spotify.com/safetyandprivacy/file/eu_2025_dsa_report_spotify_for_artists)
+
+[**Spotify for Authors Digital Services Act Transparency Report 2025 (XLSX, download)**](https://www.spotify.com/safetyandprivacy/file/eu_2025_dsa_report_spotify_for_authors)
+
+[**Spotify for Creators Digital Services Act Transparency Report 2025 (XLSX, download)**](https://www.spotify.com/safetyandprivacy/file/eu_2025_dsa_report_spotify_for_creators)
 
 Spotify’s Terrorist Content Online Transparency Report
 ======================================================
 
-The European Union (EU) Terrorist Content Online Regulation (TCO) aims to uphold the safety and security of EU citizens by requiring digital services to remove terrorist content swiftly and effectively while respecting fundamental rights, such as freedom of expression.
-
 Spotify works to combat harmful terrorist content if it is found to be on the platform. We collaborate with trusted authorities and partners to combat this industry-wide issue and constantly refine our internal processes to address evolving threats.
 
-In compliance with the TCO, Spotify’s Terrorist Content Online Transparency Report outlines our efforts to prevent and stop terrorist content on our platform. This report gives an overview of our approach, including how we identify and enforce against terrorist content and respond to removal orders from national competent authorities in the EU.
+In compliance with the TCO, Spotify’s Terrorist Content Online Transparency Report gives an overview of our approach to terrorist content, including how we identify and enforce against it and respond to removal orders from national competent authorities in the EU.
 
-**Spotify’s Terrorist Content Online Transparency Report for 2024 can be found** **[here](https://www.spotify.com/safetyandprivacy/transparency/EU-Terrorist-Content-Online-Transparency-Report-2024.pdf).**
+[**Spotify Terrorist Content Online Transparency Report 2024**](https://www.spotify.com/safetyandprivacy/file/EU_Terrorist_Content_Online_Transparency_Report_2024)
+
+[**Spotify Terrorist Content Online Transparency Report 2025**](https://www.spotify.com/safetyandprivacy/file/EU_Terrorist_Content_Online_Transparency_Report_2025)
