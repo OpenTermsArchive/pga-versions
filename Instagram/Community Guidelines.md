@@ -1327,7 +1327,7 @@ Content that:
         
     
 
-Social casino games that simulate gambling with no opportunity to win real money fall under our .
+Social casino games that simulate gambling with no opportunity to win real money fall under our [Community Standard for Restricted Goods and Services](https://transparency.fb.com/policies/community-standards/regulated-goods/).
 
 **Investment or Financial Fraud and Scams**
 
