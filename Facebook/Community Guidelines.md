@@ -1213,7 +1213,7 @@ We do not allow:
 
 Content that:
 
-*   Attempts to buy, sell or trade human body parts, even beyond the human-trafficking content prohibited under the [Human Exploitation policy](https://transparency.fb.com/policies/community-standards/human-exploitation/).
+*   Attempts to buy, sell or trade human body parts, even beyond the human-trafficking content prohibited under the .
     
 *   Asking for human fluids exchange.
     
@@ -1327,7 +1327,7 @@ Content that:
         
     
 
-Social casino games that simulate gambling with no opportunity to win real money fall under our .
+Social casino games that simulate gambling with no opportunity to win real money fall under our [Community Standard for Restricted Goods and Services](https://transparency.fb.com/policies/community-standards/regulated-goods/).
 
 **Investment or Financial Fraud and Scams**
 
