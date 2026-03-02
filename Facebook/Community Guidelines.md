@@ -23,7 +23,7 @@ Meta recognizes how important it is for Facebook, Instagram, Messenger and Threa
 
 Our commitment to voice
 
-The goal of our Community Standards is to create a place for expression and give people a voice. Meta wants people to be able to talk openly about the issues that matter to them, whether through written comments, photos, music, or other artistic mediums, even if some may disagree or find them objectionable. In some cases, we allow content—which would otherwise go against our standards—if it’s [newsworthy](https://transparency.fb.com/features/approach-to-newsworthy-content/) and in the public interest. We do this only after weighing the public interest value against the risk of harm, and we look to international human rights standards to make these judgments. In other cases, we may remove content that uses ambiguous or implicit language when additional context allows us to reasonably understand that the content goes against our standards.
+The goal of our Community Standards is to create a place for expression and give people a voice. Meta wants people to be able to talk openly about the issues that matter to them, whether through written comments, photos, music, or other artistic mediums, even if some may disagree or find them objectionable. In some cases, we allow content—which would otherwise go against our standards—if it’s [newsworthy](https://transparency.meta.com/features/approach-to-newsworthy-content) and in the public interest. We do this only after weighing the public interest value against the risk of harm, and we look to international human rights standards to make these judgments. In other cases, we may remove content that uses ambiguous or implicit language when additional context allows us to reasonably understand that the content goes against our standards.
 
 Our commitment to expression is paramount, but we recognize the internet creates new and increased opportunities for abuse. For these reasons, when we limit expression, we do it in service of one or more of the following values:
 
@@ -1213,7 +1213,7 @@ We do not allow:
 
 Content that:
 
-*   Attempts to buy, sell or trade human body parts, even beyond the human-trafficking content prohibited under the .
+*   Attempts to buy, sell or trade human body parts, even beyond the human-trafficking content prohibited under the [Human Exploitation policy](https://transparency.fb.com/policies/community-standards/human-exploitation/).
     
 *   Asking for human fluids exchange.
     
