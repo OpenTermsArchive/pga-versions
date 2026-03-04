@@ -285,7 +285,7 @@ Restricted Financial/Crypto Products and Services
 Advertisers with proper licensing and registration from applicable government agencies and regulators are permitted to run ads for financial products and services, including products and services related to decentralized finance and cryptocurrencies. These products and services may include:
 
 *   Traditional banking products and services
-*   Financial planning and investment advice, including when given by professional advisors or through tax-filing services, budgeting apps, or other personal finance tools
+*   Financial planning and investment advice, including when given by professional advisors or through tax-filing services
 *   Mortgages, car, student, and other personal loans, and other loans and lending products
 *   Home, car, personal, and other insurance policies
 *   Contracts for difference, forex trading, and spread betting
@@ -294,14 +294,12 @@ Advertisers with proper licensing and registration from applicable government ag
 *   Exchanges, crowdfunding portals, broker-dealers, and other types of trading platforms, including crypto exchanges
 *   Crypto mining software and hardware, staking products and services, and crypto lending platforms
 *   Non-fungible tokens (NFTs) and NFT marketplaces
-*   Financial/crypto educational or business resources, including employment opportunities
-*   Networking/professional events about financial/crypto products or services
 
-Products and services within this Restricted category require direct management from a Reddit Sales representative. These ads may be subject to pre-approval, and advertisers may be requested to provide additional information and documentation to confirm the legitimacy of the products and services being offered by them at Reddit’s sole discretion.
+Products and services within this Restricted category require direct management from a Reddit Sales representative. These ads may be subject to pre-approval, and advertisers may be requested to provide additional information and documentation to confirm the legitimacy of the products and services being offered by them at Reddit’s sole discretion. Financial and cryptocurrency related services including general educational resources, personal finance software, industry events etc. are exempt from this requirement.
 
 Advertising for these products and services is subject to the restrictions listed in this policy, industry advertising standards, and relevant local laws, and is only available in certain countries.
 
-[Contact Reddit sales](https://www.redditforbusiness.com/contact-us "https://www.redditforbusiness.com/contact-us"), or [schedule a call with us](https://www.redditforbusiness.com/book-a-meeting?utm_source=ads.reddit.com&utm_medium=referral&utm_campaign=expert-cta_rejection-notifications_product "https://www.redditforbusiness.com/book-a-meeting?utm_source=ads.reddit.com&utm_medium=referral&utm_campaign=expert-cta_rejection-notifications_product").
+[Contact Reddit sales](https://www.redditforbusiness.com/contact-us), or [schedule a call with us](https://www.redditforbusiness.com/book-a-meeting?utm_source=ads.reddit.com&utm_medium=referral&utm_campaign=expert-cta_rejection-notifications_product).
 
 Prohibited Financial/Crypto Products and Services
 -------------------------------------------------
