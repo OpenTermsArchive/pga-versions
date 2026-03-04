@@ -1213,7 +1213,7 @@ We do not allow:
 
 Content that:
 
-*   Attempts to buy, sell or trade human body parts, even beyond the human-trafficking content prohibited under the .
+*   Attempts to buy, sell or trade human body parts, even beyond the human-trafficking content prohibited under the [Human Exploitation policy](https://transparency.fb.com/policies/community-standards/human-exploitation/).
     
 *   Asking for human fluids exchange.
     
