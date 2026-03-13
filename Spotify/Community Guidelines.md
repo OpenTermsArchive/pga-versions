@@ -315,7 +315,7 @@ Guidance for parents or caregivers
 
 Platforms like Spotify provide a unique opportunity for parents and children to explore together, find educational content and listen to music. Some of you have benefited from lullaby playlists to get your children off to sleep, and many others have enjoyed introducing them to that particular song that you loved when you were their age. In recent years, there has been a lot of growth in the amount of online spaces that children can use, and it can be overwhelming to know how best to keep them safe while they play.
 
-I’m Alex Holmes, and I sit on the global safety advisory boards of a number of the major social media companies, advising them on their approach to safety and online harms, including [Spotify](https://newsroom.spotify.com/2022-06-13/introducing-the-spotify-safety-advisory-council/). I am also Deputy CEO of the non-profit [The Diana Award](https://diana-award.org.uk/), a legacy of Princess Diana’s belief that young people have the power to change the world. I founded the peer-to-peer support programme [Anti-Bullying Ambassadors](https://www.antibullyingpro.com/) when I was 16 after being bullied myself. As you can imagine, I am keenly interested in addressing any barriers to children’s happiness and well-being.
+I’m Alex Holmes, and I sit on the global safety advisory boards of a number of major technology companies, advising them on their approach to safety and online harms, including [Spotify](https://newsroom.spotify.com/2022-06-13/introducing-the-spotify-safety-advisory-council/). I am also Deputy CEO of the non-profit [The Diana Award](https://diana-award.org.uk/), a legacy of Princess Diana’s belief that young people have the power to change the world. I founded the peer-to-peer support programme [Anti-Bullying Ambassadors](https://www.antibullyingpro.com/) when I was 16 after being bullied myself. As you can imagine, I am keenly interested in addressing any barriers to children’s happiness and wellbeing.
 
 In the online world, I always suggest that parents should work together with their children to keep them safe. Discuss what types of content you are comfortable with them listening to, and help them understand what they can do if content makes them feel upset or worried. As a part of their commitment to keeping children safe, Spotify has put together a guide below that outlines the latest tools and features they have designed for children, including parental control that you can use to protect them from explicit content and ways for you to [report](https://support.spotify.com/content-policy-reporting/) any unwanted content or attention.
 
@@ -641,6 +641,8 @@ Safety and Privacy Centre
 Understanding recommendations on Spotify
 ========================================
 
+Last updated: 12 March 2026
+
 How do Spotify recommendations work?
 ------------------------------------
 
@@ -669,13 +671,15 @@ As you engage with Spotify, actions such as searching, listening, skipping or sa
 *   Example: If you listen to a certain artist, we might recommend more songs by that artist.
 *   Example: Our Release Radar playlist recommends the latest releases we think you’ll enjoy based on similar music you’ve listened to.
 *   Example: If you listen to a sports podcast, we might recommend other sports podcasts to you.
+*   Example: If you search for ‘low key country and rock’, we might create a playlist for you and show it in your search results.
 
-### Information you share with us
+### Information we learn about you
 
-Recommendations are also based on information you share with Spotify, like your general (non-precise) location, your language, your age and who you follow. This gives our algorithms signals about what topics you’re interested in or which artists you want to keep up to date with.
+Recommendations are also based on information you share with Spotify, like your general (non-precise) location, your device, your language, your age and who you follow. This gives our algorithms signals about what topics you’re interested in or which artists you want to keep up to date with.
 
 *   Example: If you follow a certain podcast, we might recommend an episode from that podcast.
 *   Example: If you choose German as your language on Spotify, we might recommend German-speaking podcasts.
+*   Example: If you listen to classical music while using the Spotify Desktop client, we might recommend similar music on your desktop Home page.
 
 ### Trends
 
@@ -689,6 +693,8 @@ Our algorithms take into account the characteristics of the content itself, such
 
 *   Example: If you listen to a lot of pop music, we might recommend other pop songs that are similar.
 *   Example: If you listen to a lot of crime audiobooks, we might recommend other crime audiobooks.
+*   Example: If you listen to a podcast episode which has a guest who has written a book, we might recommend the guest’s book to you.
+*   Example: If a podcast is popular with listeners of your favourite musician, we might recommend that podcast to you.
 
 ### Listener safety
 
@@ -701,10 +707,17 @@ How can you influence what your recommendations are based on?
 
 Your recommendations are constantly influenced by your engagement with content on Spotify. The more you listen to content you like and the more you interact with the app, the more we think you’ll enjoy your recommendations.
 
-We also offer ways for you to influence and give feedback on what shows up in your recommendations and see less of something specific. Some examples are listed below:
+We also offer ways for you to influence and give feedback on what shows up in your recommendations and see less of something specific. Some examples are listed below (availability depends on your country and subscription plan):
 
-*   **Exclude from taste profile:** When you [exclude a playlist](https://support.spotify.com/article/your-taste-profile/) from your taste profile, that playlist will have less influence on your future recommendations.
-*   **Giving feedback on recommendations:** When you tap \[not interested/thumbs down\] for a recommendation on Spotify, you’ll be given fewer recommendations that are similar to it.
+*   **Exclude from taste profile:** When you [exclude a playlist or a track](https://support.spotify.com/us/article/your-taste-profile/) from your taste profile, that playlist or track will have less influence on your future recommendations.
+*   **Giving feedback on recommendations:** When you tap \[not interested/thumbs down/X\] for a recommendation on Spotify, you’ll be given fewer recommendations that are similar to it.
+*   **Steer your listening:** You can [ask DJ](https://newsroom.spotify.com/2025-05-13/dj-voice-requests/) for a recommendation, pick [genres for Discover Weekly](https://newsroom.spotify.com/2025-06-30/discover-weekly-turns-10-celebrating-100-billion-tracks-streamed-and-a-decade-of-personalized-discovery/), genre mixes, mood mixes and decade mixes, or chat with our AI Playlist builder to guide the vibe of your session.
+*   **Choose your shuffle mode:** Shuffle controls how your music is mixed during playback.
+    *   **Default shuffle:** Playback that randomises tracks while remembering recent plays, making songs you just heard less likely to repeat.
+    *   **Smart Shuffle:** Get recommended tracks added to your listening session. Premium users can manage feature availability from their Settings.
+    *   **Standard shuffle:** Completely random playback with no repeat-reduction logic. Choose this in your settings.
+*   **Hide or snooze:** Tap the [hide button](https://newsroom.spotify.com/2025-09-05/new-user-controls-personalize-listening/) for a single track and it will be hidden from that playlist across all devices, so we won’t play it again in that playlist. If you’re a Premium user, after you hide a track you can also choose to snooze it, and it won’t be suggested anywhere on Spotify for 30 days.
+*   **Turn off Autoplay:** If you want to stop getting additional recommendations when you reach the end of your playlist or album, you can turn off autoplay in your settings.
 *   **Explicit content filter:** When you turn off [explicit content](https://support.spotify.com/article/explicit-content/), anything with an explicit tag will be greyed out and you won’t be able to play it.
 
 In some cases, you can also organise and filter your recommendations based on what you most want to see. For example, you can filter your Home page to only see podcasts, or only see music.
@@ -904,7 +917,7 @@ Spotify’s [Platform Rules](https://www.spotify.com/safetyandprivacy/platform-r
 
 [**Spotify Digital Services Act Transparency Report 2025 – Introduction**](https://www.spotify.com/safetyandprivacy/file/eu_2025_dsa_report_introduction_spotify)
 
-[**Spotify Digital Services Act Transparency Report 2025 (XLSX, download)**](https://www.spotify.com/safetyandprivacy/file/eu_2025_dsa_report_spotify)
+[**Spotify Main Digital Services Act Transparency Report 2025 (XLSX, download)**](https://www.spotify.com/safetyandprivacy/file/eu_2025_dsa_report_spotify_main)
 
 [**Spotify for Artists Digital Services Act Transparency Report 2025 (XLSX, download)**](https://www.spotify.com/safetyandprivacy/file/eu_2025_dsa_report_spotify_for_artists)
 
