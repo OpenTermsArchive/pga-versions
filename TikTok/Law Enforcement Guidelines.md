@@ -1,3 +1,5 @@
+TikTok Law Enforcement Guidelines
+
   
 
 _Last updated: January 22, 2026_
@@ -134,8 +136,6 @@ TikTok’s requirements for disclosing user data to law enforcement authorities 
 
 ### **Q: How do I find the TikTok username?**
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/5841bcc05ea70cb639b36526606e3c68.png~tplv-m3rm1y8daf-default:0:0:q75.image)
-
 ### **Q: Does TikTok ever reject data requests from law enforcement authorities?**
 
 TikTok may reject data requests from law enforcement authorities where they do not meet the requirements that are clearly set out in our [Law Enforcement Guidelines](#Guidelines). The most common examples are as follows:
@@ -198,3 +198,164 @@ TikTok’s dedicated law enforcement response team endeavours to respond to all 
 ### **Q: What do I do if I receive a Cybertip report made by TikTok to NCMEC?**
 
 If law enforcement has received a Cybertip report made by TikTok to NCMEC, and is now requesting further user data in connection with an investigation, the request must meet the requirements set out in our [Law Enforcement Guidelines](#Guidelines) and these [Law Enforcement FAQS](#FAQ). To help us more efficiently process your request, please specify in your request the report number assigned to the Cybertip report by NCMEC.
+
+- - -
+
+TikTok Shop Law Enforcement & Regulatory Disclosure Guidelines
+
+_Last updated 27 August 2025_
+
+  
+
+These guidelines (“**TikTok Shop Guidelines**”) are supplementary to the [<TikTok Law Enforcement Guidelines>](https://www.tiktok.com/legal/law-enforcement), and are a reference for law enforcement and regulatory officials seeking disclosure of TikTok Shop data from the relevant provider of the TikTok Shop service ("**TikTok Shop**").
+
+Requests must be submitted to our webform: [www.tiktok.com/legal/report/lawenforcementrequest](https://www.tiktok.com/legal/report/lawenforcementrequest) with any attachments (for example, official warrant, court order, or other documentation supporting the request) in PDF format (i.e. word format will not be accepted).
+
+**1.** **Relevant TikTok Shop entity**
+--------------------------------------
+
+A basic requirement is that any request for TikTok Shop data must be addressed to the correct TikTok Shop entity. When submitting your request using the above webform, please ensure that any documentation is addressed to the correct TikTok Shop entity.
+
+For example, if your request relates to TikTok Shop data concerning goods offered for sale in Country A, your request (including relevant documents) must be addressed to the TikTok Shop entity that provides the TikTok Shop service in Country A. For a complete list of relevant TikTok Shop entities, see Appendix A.
+
+_Please note that only those countries where TikTok Shop is available are listed._
+
+**2\. Types of TikTok Shop data**
+---------------------------------
+
+TikTok may hold the following TikTok Shop data which can be the subject of a valid law enforcement or regulatory disclosure request:
+
+**Data type (examples - non exhaustive)**
+
+*   Basic seller information
+
+*   Seller name/business name
+*   Email address
+*   Phone number
+*   Seller registration details
+*   Business address
+
+*   IP address data
+
+*   IP address at registration
+*   IP address logs (for a specific and limited time period only)
+
+*   Transaction / listing information
+
+*   Order / transaction information
+*   Product / listing information (i.e. Product Name, Sale Status, Price, etc)
+*   Transaction data, such as payments received
+
+*   Other
+
+*   _If your request relates to other information, please specify those other data types precisely._
+
+Each request must clearly specify the data requested and the legal basis for requesting it. If the request does not meet the applicable legal requirements for the requested data (as listed in Section 3 of the [<TikTok Law Enforcement Guidelines>](https://www.tiktok.com/legal/law-enforcement)), the data will not be disclosed. In particular, this is the case for requests for financial data (which generally require a domestic court / judicial order, warrant or equivalent).
+
+**3\. Requirements when making a request for TikTok Shop data**
+---------------------------------------------------------------
+
+In addition to the requirements listed in Section 3 of the [<TikTok Law Enforcement Guidelines>](https://www.tiktok.com/legal/law-enforcement), please note the following specific requirements:
+
+*   **Details of relevant Product listing or seller name**:
+
+*   When requesting TikTok Shop data, you must provide a specific TikTok Shop product listing ID, seller name/link or an approved account identifier associated with the relevant seller account. The following are TikTok approved identifiers:
+
+*   TikTok Shop seller name / seller link (when requesting information about sellers)
+*   Product listing ID (when requesting information about products)
+*   Phone number
+*   Email address
+
+*   _If a request concerns products but the requester did not specify the relevant Product listing ID, TikTok may ask requesters to provide the specific Product listing ID. See the FAQs below._
+
+*   **Legal basis for the request**:
+
+*   **Relevant legal process**: The request should clearly specify the legal process (i.e. citing the relevant article or section of an Act / Statute / Code), which authorizes the law enforcement or regulatory authority to request and collect information for the purposes of prevention, detection or investigation of relevant criminal or regulatory offences.
+*   **Context and Offence(s) under investigation**: The request should separately indicate the type of offence(s) under investigation (citing the relevant article or section of Act / Statute / Code), the circumstances of the offence and in what way it is connected to TikTok Shop.
+
+**4\. Other**
+-------------
+
+It may be necessary for a law enforcement or regulatory authority to submit a request for legal assistance to designated government authorities under the Mutual Legal Assistance Treaty (“**MLAT**”) framework, or by letters rogatory. For instance, this may arise in circumstances where the requesting law enforcement authority is located in a different country to the TikTok entity that provides the TikTok Shop (refer to Section 1 above). See our [Law Enforcement FAQs](https://www.tiktok.com/legal/law-enforcement) for more information in relation to MLAT.
+
+TikTok may update these TikTok Shop Guidelines from time to time, and such changes may be informed by a range of factors, including legal or human rights developments, operational and/or product changes to the TikTok Shop service. All relevant updates will be reflected on the TikTok website.
+
+**Frequently Asked Questions (“FAQS”)**
+---------------------------------------
+
+_These FAQS should be read together with TikTok’s [Law Enforcement Guidelines](https://www.tiktok.com/legal/law-enforcement)._
+
+### **Q: How do I find the Product Listing ID?**
+
+Many product listings may share the same or a similar name. To obtain a unique product listing link/product listing ID, follow these instructions.
+
+On the Product Listing page, click the "Share" icon, followed by "Copy link". This will provide a link to a specific product listing link / product listing ID.
+
+### **Q: How do I find the TikTok Shop Seller Name and Seller Link?**
+
+On the Product Listing page, click the "Shop" icon at the bottom lefthand corner. The shop page has the seller name (although other sellers may register accounts with similar names).
+
+Click on the "Share" icon followed by "Copy link". This will provide a link to a unique seller link / unique seller ID.
+
+### **Q: Does TikTok Shop ever reject requests for TikTok Shop data?**
+
+TikTok may reject data requests from authorities where they do not meet the requirements that are clearly set out above or in our [Law Enforcement Guidelines](https://www.tiktok.com/legal/law-enforcement). The most common examples are as follows:
+
+*   Requests that are not addressed to the correct TikTok Shop entity;
+*   Requests that do not specify the legal process which authorizes law enforcement to request and collect information;
+*   Requests that do not indicate the type of offence(s) under investigation, the circumstances of the offence(s) and in what way it/they are connected to TikTok Shop;
+*   Requests are not sent through appropriate electronic channels (e.g. requests are sent in hard copy); or
+*   Overly broad requests for “all user data” or where there are no date ranges indicated.
+
+**Appendix A:**
+---------------
+
+### **Country / TikTok Shop Entity**
+
+### **European Union**
+
+TikTok Technology Limited
+
+### **UK**
+
+TikTok Information Technologies UK Limited
+
+### **Singapore**
+
+TikTok Pte. Ltd.
+
+### **Thailand**
+
+TikTok Shop (Thailand) Ltd.
+
+### **Vietnam**
+
+TikTok Pte. Ltd.
+
+### **Philippines**
+
+ByteDance Philippines Inc.
+
+### **Malaysia**
+
+TikTok Shop (Malaysia) Sdn. Bhd.
+
+### **Indonesia**
+
+PT. Tokopedia
+
+### **United States**
+
+BD TikTok USA LLC
+
+### **Mexico**
+
+TikTok Pte. Ltd.
+
+### **Brazil**
+
+TikTok Pte. Ltd.
+
+### **Japan**
+
+ByteDance KK
