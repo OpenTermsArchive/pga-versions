@@ -17,7 +17,7 @@ Authenticity means being truthful and honest about the product or service you're
 
 #### Be honest about your relationship with Pinterest
 
-Your ads should stick to our and shouldn't suggest that Pinterest is sponsoring your promotion or is formally affiliated with it. Basically, your design should look like it came from your business, not from Pinterest. You can use the word "Pinterest", but not our wordmark.
+Your ads should stick to our and shouldn't suggest that Pinterest is sponsoring your promotion or is formally affiliated with it. Basically, your design should look like it came from your business, not from Pinterest. You can use the word "Pinterest," but not our wordmark.
 
 #### Disclose your billing practices
 
@@ -434,6 +434,33 @@ Country-specific guidelines
 
 We do have country specific guidelines that you must follow when targeting a certain region of the world. When targeting a specific region, please keep in mind local languages and cultural relevance for your audience. We recommend having your advertising in the local language of the region.
 
+**Albania**
+
+If your Shopping Ad is shown in Albania, we don't allow:
+
+*   Infant formula & follow up formula
+*   Baby food
+*   Baby bottles and pacifiers
+*   Supplements
+*   Condoms and Lubricants  
+      
+    
+
+If your Shopping Ad is shown in Albania, we allow the following with restrictions:
+
+*   Alcohol
+    *   Shopping ads can only target Pinners 18 years or older
+*   Food and beverages
+    *   Shopping ads can only target Pinners 18 years or older
+*   Energy drinks
+    *   Shopping ads can only target Pinners 18 years or older
+*   Medical devices
+    *   must hold relevant authorisation/licence
+*   Lingerie
+    *   Shopping ads can only target Pinners 18 years or older  
+          
+        
+
 **Algeria**
 
 If your ad is shown in Algeria, we don't allow:
@@ -458,6 +485,30 @@ If your ad is shown in Argentina,
 
 *   Ads must be in Spanish
 
+For Shopping ads in Argentina, we don’t allow:
+
+*   Alcohol
+*   For info on additional restrictions on Shopping ads, please see our
+
+**Armenia**
+
+If your Shopping Ad is shown in Armenia, we don't allow:
+
+*   Infant formula & follow up formula
+*   Baby food
+*   Baby bottles
+*   Medical devices
+
+If your Shopping Ad is shown in Armenia, we allow the following with restrictions:
+
+*   Alcohol
+    *   Shopping ads can only target Pinners 18 years or older
+*   Energy drinks
+    *   Shopping ads can only target Pinners 18 years or older
+    *   Must include relevant disclaimers  
+          
+        
+
 **Australia**
 
 If your ad is shown in Australia, we allow the following with restrictions:
@@ -466,6 +517,29 @@ If your ad is shown in Australia, we allow the following with restrictions:
     *   Advertisers must not promote irresponsible gambling behaviour, target minors or promote gambling in an excessive way
     *   Advertisers must secure prior permission from Pinterest and provide evidence that the lottery is appropriately licensed by a regulator or otherwise established as lawful in the region, state or territory they wish to target
     *   Ads must comply with all applicable laws and regulations
+
+**Azerbaijan**
+
+If your Shopping Ad is shown in Azerbaijan, we don't allow:
+
+*   Alcohol
+
+If your Shopping Ad is shown in Azerbaijan, we allow the following with restrictions:
+
+*   Energy drinks
+    *   Shopping ads can only target Pinners 18 years or older
+*   Food and beverages
+    *   must hold relevant authorisation/licence
+*   Baby formula, baby food and baby bottles
+    *   must hold relevant authorisation/licence
+*   Supplements
+    *   Shopping ads can only target Pinners 18 years or older
+    *   Must include the relevant disclaimers
+*   Medical devices
+    *   must hold relevant authorisation/licence
+*   Condoms & lubricants
+    *   Shopping ads can only target Pinners 18 years or older
+    *   Must be culturally appropriate
 
 **Bahrain**
 
@@ -494,6 +568,11 @@ If your ad is shown in Bahrain, we allow the following with restrictions:
 If your ad is shown in Belgium, we don't allow:
 
 *   Bricks-and-mortar casinos
+
+For Shopping ads in Belgium, we don’t allow:
+
+*   Alcohol
+*   For info on additional restrictions on Shopping ads, please see our
 
 **Brazil**
 
@@ -547,6 +626,11 @@ If your ad is shown in Bulgaria, we allow the following with restrictions:
 *   Healthcare
     *   OTC drugs for human and pets
         *   Require relevant authorisation
+
+For Shopping ads in Bulgaria, we don’t allow:
+
+*   Alcohol
+*   For info on additional restrictions on Shopping ads, please see our
 
 **Canada**
 
@@ -604,6 +688,11 @@ If your ad is shown in Colombia, we don't allow:
 *   Bricks-and-mortar casinos
 *   Brick-and-mortar pharmacies
 
+For Shopping ads in Colombia, we don’t allow:
+
+*   Alcohol
+*   For info on additional restrictions on Shopping ads, please see our
+
 **Croatia**
 
 If your ad is shown in Croatia, we don't allow:
@@ -631,6 +720,11 @@ If your ad is shown in Croatia, we allow the following with restrictions:
             *   Instalment amounts
 *   Professional services
     *   Ads for lawyers are prohibited
+
+For Shopping ads in Croatia, we don’t allow:
+
+*   Alcohol
+*   For info on additional restrictions on Shopping ads, please see our
 
 **Czech Republic**
 
@@ -686,6 +780,11 @@ If your ad is shown in Ecuador, we allow the following with restrictions:
     *   Formula for infants under the age of 6 months is prohibited
     *   Ads for infant formula cannot include images of baby bottles
 
+For Shopping ads in Ecuador, we don’t allow:
+
+*   Alcohol
+*   For info on additional restrictions on Shopping ads, please see our
+
 **Egypt**
 
 If your ad is shown in Egypt, we don't allow:
@@ -709,6 +808,29 @@ If your ad is shown in Egypt, we allow the following with restrictions:
 *   Follow-on formula and baby food
     *   must hold relevant authorisation/licence
 
+**El Salvador**
+
+If your Shopping Ad is shown in El Salvador, we don't allow:
+
+*   Infant formula & follow up formula
+*   Baby food
+*   Baby bottles and pacifiers
+
+If your Shopping Ad is shown in El Salvador, we allow the following with restrictions:
+
+*   Alcohol
+    *   Shopping ads can only target Pinners 18 years or older
+*   Energy drinks
+    *   Shopping ads can only target Pinners 18 years or older
+*   Supplements
+    *   Shopping ads can only target Pinners 18 years or older
+    *   must hold relevant authorisation/licence
+*   Medical devices
+    *   must hold relevant authorisation/licence
+*   Condoms & lubricants
+    *   Shopping ads can only target Pinners 18 years or older
+    *   must hold relevant authorisation/licence
+
 **Estonia**
 
 If your ad is shown in Estonia, we don't allow:
@@ -730,6 +852,11 @@ If your ad is shown in Estonia, we allow the following with restrictions:
 *   Financial, including credit products
     *   must include required terms and conditions
 
+For Shopping ads in Estonia, we don’t allow:
+
+*   Alcohol
+*   For info on additional restrictions on Shopping ads, please see our
+
 **France**
 
 If your ad is shown in France, we don’t allow:
@@ -750,6 +877,26 @@ If your ad is shown in France,
 
 *   Ads must be in French
 
+For Shopping ads in France, we don’t allow:
+
+*   Alcohol
+*   For info on additional restrictions on Shopping ads, please see our
+
+**Georgia**
+
+If your Shopping Ad is shown in Georgia, we don't allow:
+
+*   Alcohol
+*   Baby formula, baby food, baby bottles and pacifiers
+*   Medical devices
+
+If your Shopping Ad is shown in Georgia, we allow the following with restrictions:
+
+*   Ads must be in Georgian, including any trademarks or logos
+*   Energy drinks
+    *   Shopping ads can only target Pinners 18 years or older
+    *   Must include the relevant disclaimers
+
 **Germany**
 
 If your ad is shown in Germany, we don’t allow:
@@ -764,6 +911,54 @@ If your ad is shown in Germany, we allow the following with restrictions:
     *   Ads must comply with all applicable laws and regulations
 *   Healthcare products and services
     *   Online pharmacies
+
+**Ghana**
+
+If your Shopping Ad is shown in Ghana, we don't allow:
+
+*   Alcohol
+*   Baby formula, baby food, baby bottles and pacifiers
+*   Obscene writings, drawings, prints, paintings, printed matter, pictures, posters, emblems, photographs, or any other obscene objects
+*   Charlatanic publications
+
+If your Shopping Ad is shown in Ghana, we allow the following with restrictions:
+
+*   Energy drinks
+    *   Shopping ads can only target Pinners 18 years or older
+    *   Must include the relevant disclaimers
+*   Food and beverages
+    *   must hold relevant authorisation/licence
+*   Food supplements
+    *   Shopping ads can only target Pinners 18 years or older
+    *   must hold relevant authorisation/licence
+*   Medical devices
+    *   must hold relevant authorisation/licence
+*   Condoms & lubricants
+    *   Shopping ads can only target Pinners 18 years or older
+    *   must hold relevant authorisation/licence
+
+**Honduras**
+
+If your Shopping Ad is shown in Hondouras, we don't allow:
+
+*   Baby formula
+
+If your Shopping Ad is shown in Honduras, we allow the following with restrictions:
+
+*   Alcohol
+    *   Shopping ads can only target Pinners 18 years or older
+*   Energy drinks
+    *   Shopping ads can only target Pinners 18 years or older
+*   Food and beverages
+    *   must hold relevant authorisation/licence
+*   Food supplements
+    *   Shopping ads can only target Pinners 18 years or older
+    *   must hold relevant authorisation/licence
+*   Medical devices
+    *   must hold relevant authorisation/licence
+*   Condoms & lubricants
+    *   Shopping ads can only target Pinners 18 years or older
+    *   must hold relevant authorisation/licence
 
 **Hong Kong**
 
@@ -864,6 +1059,53 @@ If your ad is shown in Japan, we allow the following with restrictions:
     *   Advertisers must secure prior permission from Pinterest and provide evidence that the lottery is appropriately licensed by a regulator or otherwise established as lawful in the region they wish to target
     *   Ads must comply with all applicable laws and regulations
 
+For Shopping ads in Japan, we don’t allow:
+
+*   Alcohol
+*   For info on additional restrictions on Shopping ads, please see our
+
+**Jordan**
+
+If your Shopping Ad is shown in Jordan, we don't allow:
+
+*   Alcohol
+*   Pork products
+
+If your Shopping Ad is shown in Jordan, we allow the following with restrictions:
+
+*   Baby formula
+    *   must hold relevant authorisation/licence
+*   Energy drinks
+    *   must hold relevant authorisation/licence
+*   Food and beverages
+    *   must hold relevant authorisation/licence
+*   Food supplements
+    *   must hold relevant authorisation/licence
+*   Medical devices
+    *   must hold relevant authorisation/licence
+*   Condoms & lubricants
+    *   Shopping ads can only target Pinners 18 years or older
+    *   must hold relevant authorisation/licence
+    *   Must be culturally appropriate
+
+**Kazakhstan**
+
+If your Shopping Ad is shown in Kazakhstan, we don't allow:
+
+*   Alcohol and ethyl alcohol (ethanol)
+*   Baby formula
+*   Energy drinks
+*   Pork products
+*   Lingerie
+*   Food and beverages
+*   Food supplements
+*   Condoms & lubricants
+
+If your Shopping Ad is shown in Kazakhstan, we allow the following with restrictions:
+
+*   Medical devices
+    *   must hold relevant authorisation/licence
+
 **Kuwait**
 
 If your ad is shown in Kuwait, we don't allow:
@@ -875,6 +1117,24 @@ If your ad is shown in Kuwait, we allow the following with restrictions:
 
 *   Food
     *   Pork products are prohibited
+
+**Kyrgyzstan**
+
+If your Shopping Ad is shown in Kyrgyzstan, we don't allow:
+
+*   Alcohol
+*   Baby formula, baby food, baby bottles and pacifiers
+*   Energy drinks
+*   Food supplements
+*   Medical devices
+*   Condoms & lubricants
+
+If your Shopping Ad is shown in Kyrgyzstan, we allow the following with restrictions:
+
+*   Ads must be in both Kyrgyz and Russian.
+*   Lingerie
+    *   Shopping ads can only target Pinners 18 years or older
+    *   Must be culturally appropriate
 
 **Latvia**
 
@@ -893,6 +1153,11 @@ If your ad is shown in Latvia, we allow the following with restrictions:
     *   Must include the relevant disclaimers
 *   Food supplements
     *   Must include the relevant disclaimers
+
+For Shopping ads in Latvia, we don’t allow:
+
+*   Alcohol
+*   For info on additional restrictions on Shopping ads, please see our
 
 **Lithuania**
 
@@ -944,6 +1209,11 @@ If your ad is shown in North Macedonia, we allow the following with restrictions
     *   Ads for OTC drugs require relevant licensing
     *   Ads for medical devices require relevant licensing
 
+For Shopping ads in North Macedonia, we don’t allow:
+
+*   Alcohol
+*   For info on additional restrictions on Shopping ads, please see our
+
 **Malaysia**
 
 If your ad is shown in Malaysia, we don't allow:
@@ -973,6 +1243,42 @@ If your ad is shown in Mexico, we don’t allow:
 
 *   Bricks-and-mortar casinos
 
+**Moldova**
+
+If your Shopping Ad is shown in Moldova, we allow the following with restrictions:
+
+*   Alcohol
+    *   Shopping ads can only target Pinners 18 years or older
+*   Baby formula
+    *   must hold relevant authorisation/licence
+*   Food and beverages
+    *   Shopping ads can only target Pinners 18 years or older
+*   Energy drinks
+    *   Shopping ads can only target Pinners 18 years or older
+*   Food supplements
+    *   must hold relevant authorisation/licence
+*   Medical devices
+    *   must hold relevant authorisation/licence
+
+**Mongolia**
+
+If your Shopping Ad is shown in Mongolia, we don't allow:
+
+*   Alcohol
+*   Baby formula, baby food, baby bottles and pacifiers
+*   All plant products
+*   Food and beverages
+
+If your Shopping Ad is shown in Mongolia, we allow the following with restrictions:
+
+*   Energy drinks
+    *   Shopping ads can only target Pinners 18 years or older
+*   Medical devices
+    *   must hold relevant authorisation/licence
+*   Condoms & lubricants
+    *   Shopping ads can only target Pinners 18 years or older
+    *   Must be culturally appropriate
+
 **Morocco**
 
 If your ad is shown in Morocco, we don't allow:
@@ -996,6 +1302,11 @@ If your ad is shown in the Netherlands, we allow the following with restrictions
 
 *   Infant formula
     *   Formula for infants under the age of 6 months is prohibited
+
+For Shopping ads in the Netherlands, we don’t allow:
+
+*   Alcohol
+*   For info on additional restrictions on Shopping ads, please see our
 
 **Nigeria**
 
@@ -1051,6 +1362,40 @@ If your ad is shown in Pakistan, we allow the following with restrictions:
 *   Professional services
     *   Ads for lawyers, advocates and/or legal services are prohibited
 
+**Panama**
+
+If your Shopping Ad is shown in Panama, we don't allow:
+
+*   Alcohol
+*   Baby formula, baby food, baby bottles and pacifiers
+
+If your Shopping Ad is shown in Panama, we allow the following with restrictions:
+
+*   Food and beverages
+    *   must hold relevant authorisation/licence
+*   Food supplements
+    *   must hold relevant authorisation/licence
+*   Medical devices
+    *   must hold relevant authorisation/licence
+*   Condoms & lubricants
+    *   Shopping ads can only target Pinners 18 years or older
+    *   must hold relevant authorisation/licence
+
+**Paraguay**
+
+If your Shopping Ad is shown in Paraguay, we don't allow:
+
+*   Alcohol
+*   Baby formula, baby food, baby bottles and pacifiers
+*   Food supplements
+*   Medical devices
+*   Condoms & lubricants
+
+If your Shopping Ad is shown in Paraguay, we allow the following with restrictions:
+
+*   Energy drinks
+    *   Shopping ads can only target Pinners 18 years or older
+
 **Peru**
 
 If your ad is shown in Peru, we don't allow:
@@ -1069,6 +1414,11 @@ If your ad is shown in Peru, we allow the following with restrictions:
     *   must be authorised by a competent authority
 *   Infant formula
     *   Formula for infants under the age of 24 months is prohibited
+
+For Shopping ads in Peru, we don’t allow:
+
+*   Alcohol
+*   For info on additional restrictions on Shopping ads, please see our
 
 **Philippines**
 
@@ -1163,6 +1513,11 @@ If your ad is shown in Serbia, we allow the following with restrictions:
     *   Healthcare services
         *   Require relevant licensing
 
+For Shopping ads in Serbia, we don’t allow:
+
+*   Alcohol
+*   For info on additional restrictions on Shopping ads, please see our
+
 **Singapore**
 
 If your ad is shown in Singapore, we don't allow:
@@ -1196,6 +1551,11 @@ If your ad is shown in Slovenia, we allow the following with restrictions:
     *   must hold relevant gambling concession
 *   Healthcare activity
     *   no comparative advertising
+
+For Shopping ads in Slovenia, we don’t allow:
+
+*   Alcohol
+*   For info on additional restrictions on Shopping ads, please see our
 
 **South Africa**
 
@@ -1232,6 +1592,27 @@ If your ad is shown in Spain, we allow the following with restrictions:
 *   Infant formula
     *   Formula for infants under the age of 6 months is prohibited
 
+**Sri Lanka**
+
+If your Shopping Ad is shown in Sri Lanka, we don't allow:
+
+*   Alcohol
+*   Baby formula and baby food
+*   Energy drinks
+*   Food and beverages
+*   Obscene content
+
+If your Shopping Ad is shown in Sri Lanka, we allow the following with restrictions:
+
+*   Food supplements
+    *   must hold relevant authorisation/licence
+*   Medical devices
+    *   must hold relevant authorisation/licence
+*   Condoms & lubricants
+    *   Shopping ads can only target Pinners 18 years or older
+    *   must hold relevant authorisation/licence
+    *   Must be culturally appropriate
+
 **Switzerland**
 
 If your ad is shown in Switzerland, we don't allow:
@@ -1261,6 +1642,11 @@ If your ad is shown in Taiwan, we allow the following with restrictions:
 
 *   Alcohol
     *   must include all appropriate disclaimers
+
+For Shopping ads in Tiawan, we don’t allow:
+
+*   Alcohol
+*   For info on additional restrictions on Shopping ads, please see our
 
 **Thailand**
 
@@ -1341,6 +1727,23 @@ If your ad is shown in the United States, we allow the following with restrictio
         *   Ads will only be eligible for certain Pinterest ad formats
         *   Advertisers must secure prior permission from Pinterest. Please note that we rely on third party checks to determine eligibility of an advertiser to run these ads. Advertisers are responsible for complying with all laws and regulations.
 
+**Uruguay**
+
+If your Shopping Ad is shown in Uruguay, we don't allow:
+
+*   Alcohol
+*   Baby formula, baby food, baby bottles and pacifiers
+*   Energy drinks
+
+If your Shopping Ad is shown in Uruguay, we allow the following with restrictions:
+
+*   Food and beverages
+    *   Shopping ads can only target Pinners 18 years or older
+*   Food supplements
+    *   must hold relevant authorisation/licence
+*   Medical devices
+    *   must hold relevant authorisation/licence
+
 **Vietnam**
 
 If your ad is shown in Vietnam, we don't allow:
@@ -1359,6 +1762,11 @@ If your ad is shown in Vietnam, we allow the following with restrictions:
     *   must include all appropriate disclaimers
 *   Dietary supplements
     *   must include all appropriate disclaimers
+
+For Shopping ads in Vietnam, we don’t allow:
+
+*   Alcohol
+*   For info on additional restrictions on Shopping ads, please see our
 
 **Trade sanctions**
 
