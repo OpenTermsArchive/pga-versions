@@ -302,7 +302,7 @@ In an effort to prevent and disrupt real-world harm, we do not allow organizatio
 
 In addition, we do not allow content that glorifies, supports, or represents events that Meta designates as violating violent events - including terrorist attacks, hate events, multiple-victim violence or attempted multiple-victim violence, serial murders, or hate crimes. Nor do we allow (1) Glorification, Support, or Representation of the perpetrator(s) of such attacks; (2) perpetrator-generated content relating to such attacks; or (3) third-party imagery depicting the moment of such attacks on visible victims. We also remove content that Glorifies, Supports or Represents ideologies that promote hate, such as nazism and white supremacy.We remove unclear references to these designated events or ideologies.
 
-**Tier 2** includes Violent Non-State Actors that engage in violence against state or military actors in an armed conflict but do not intentionally target civilians. It also includes Violence Inducing Entities that are engaged in preparing or advocating for future violence but have not necessarily engaged in violence to date. These are also entities that may repeatedly engage in violations of our Hate Speech or Dangerous Organizations and Individuals policies on or off the platform. We remove Glorification, Material Support, and Representation of these entities, their leaders, founders or prominent members.
+**Tier 2** includes Violent Non-State Actors that engage in violence against state or military actors in an armed conflict but do not intentionally target civilians. It also includes Violence Inducing Entities that are engaged in preparing or advocating for future violence but have not necessarily engaged in violence to date. These are also entities that may repeatedly engage in violations of our Hateful Conduct or Dangerous Organizations and Individuals policies on or off the platform. We remove Glorification, Material Support, and Representation of these entities, their leaders, founders or prominent members.
 
 We recognize that users may share content that includes references to designated dangerous organizations and individuals in the context of social and political discourse. This includes content reporting on, neutrally discussing or condemning dangerous organizations and individuals or their activities.
 
@@ -491,27 +491,11 @@ Organizations and individuals designated by Meta as Violent Non-state Actors or 
 
 A Violence Inducing Entity (General) is a non-state actor that:
 
-*   Uses weapons as a part of their training, communication, or presence; and are structured or operate as unofficial military or security forces; AND
+*   Has as its stated goal or intended function to provide, through violence, an unsanctioned governmental enforcing function (such as, police, military, immigration) in place of, or in addition to, the government itself; or to disrupt through violence a governmental enforcing function;
     
-
-*   Coordinates in preparation for inter-community violence or civil war; OR
+*   Has engaged in a substantial step towards this stated goal on Meta’s platforms; and
     
-*   Advocates for violence against government officials or violent disruptions of civic events; OR
-    
-*   Engages in theft, vandalism, burglary or other damage to property; OR
-    
-*   Engages in mid-severity violence at civic events; OR
-    
-*   Promotes bringing weapons to a location when the stated intent is to intimidate people amid a protest
-    
-
-A **Violence Inducing Conspiracy Network** is a non-state actor that:
-
-*   Is identified by a name, mission statement, symbol, or shared lexicon; AND
-    
-*   Promotes unfounded theories that attempts to explain the ultimate causes of significant social and political problems, events and circumstances with claims of secret plots by two or more powerful actors; AND
-    
-*   Has explicitly advocated for or has been directly linked to a pattern of offline physical harm by adherents motivated by the desire to draw attention to or redress the supposed harms identified in the unfounded theories promoted by the network.
+*   Has engaged in multiple instances of threatening or inciting high-severity violence (online or offline);
     
 
 A **Hate Banned Entity** is a non-state actor that:
