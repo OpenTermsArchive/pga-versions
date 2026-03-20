@@ -181,14 +181,14 @@ Learn more about [how we enforce violations of our Professional Community Polici
 
 - - -
 
-Illegal, dangerous, and inappropriate commercial activity
----------------------------------------------------------
+Restricted goods and services
+-----------------------------
 
-We don’t allow individuals or entities to engage in inappropriate or unsafe commercial transactions on our platform. We remove content that promotes, distributes, facilitates access to, or attempts to sell illegal or regulated goods and services.
+We don’t allow individuals or entities to engage in inappropriate or unsafe commercial transactions on our platform. We remove content that promotes, distributes, facilitates access to, or attempts to sell illegal or otherwise restricted goods and services.
 
-Examples of illegal, dangerous, and inappropriate commercial content
+Examples of restricted goods and services content
 
-*   Providing direct-to-purchase links and/or private contact information to facilitate the sale of illegal or dangerous goods or services such as
+*   Providing direct-to-purchase links and/or private contact information to facilitate the sale of dangerous, illegal or otherwise restricted goods or services such as:
     
     *   Weapons and firearms
     *   Recreational drugs and paraphernalia
