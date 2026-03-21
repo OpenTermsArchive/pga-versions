@@ -70,7 +70,7 @@ If you provide any information that is untrue, inaccurate, not current, or incom
 5\. USER REGISTRATION
 ---------------------
 
-You may be required to register for the Service, by providing your name, date of birth, and email address as well as to create a username and password to set up your profile and your account. You agree to keep your password confidential, if applicable, and will be responsible for all use of your account and password. We reserve the right to remove, reclaim, or change a username you select if we determine, in our sole discretion, (a) that such username is inappropriate, obscene, or otherwise objectionable; (b) that such username is dormant, inactive or unused for an extended period of time exceeding 5 months or more; or (c) that such username is being used for user impersonation or username squatting which is a violation hereunder.
+You may be required to register for the Service, by providing your name, date of birth, and email address as well as to create a username and password to set up your profile and your account. You agree to keep your password confidential, if applicable, and will be responsible for all use of your account and password. We reserve the right to remove, reclaim, or change a username you select if we determine, in our sole discretion, (a) that such username is inappropriate, obscene, or otherwise objectionable; (b) that such username is dormant, inactive or unused for an extended period of time; or (c) that such username is being used for user impersonation or username squatting which is a violation hereunder.
 
 6\. COMMUNICATION PREFERENCES AND CONSENT.
 ------------------------------------------
