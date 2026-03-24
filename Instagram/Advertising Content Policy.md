@@ -119,7 +119,7 @@ Content associated with additional format-specific requirements.
 
 Advertising policies affecting business assets
 
-Beyond rejecting ads that violate our policies, we also review and take action, such as restricting the ability to advertise, on an advertiser’s Business Account or its assets, such as ad accounts, Pages and user accounts for violating the below policies. If you believe your ad account, user account, Page or Business Account was incorrectly restricted, you can of the decision in
+Beyond rejecting ads that violate our policies, we also review and take action, such as restricting the ability to advertise, on an advertiser’s Business Account or its assets, such as ad accounts, Pages and user accounts for violating the below policies. Advertising accounts must be associated with a legitimate business or individual. If we detect signals of possible misrepresentation, suspicious activity, or inauthentic behavior in your ad content, you may be required to complete a verification process. If you believe your ad account, user account, Page or Business Account was incorrectly restricted, you can of the decision in
 
 * * *
 
