@@ -170,7 +170,7 @@ Ads Must Comply with the Community Standard on .
 
 Unacceptable Business Practices
 
-Ads must not promote products, services, schemes or offers using identified deceptive or misleading practices, including those meant to scam people out of money or personal information.
+Ads must not promote products, services, schemes or offers using identified deceptive or misleading practices, including those meant to scam people out of money or personal information. When we detect that advertisers are engaging in potentially suspicious behavior, including potential inauthentic behavior, or are running ads in certain categories likely to be targeted by scammers, we may require those advertisers to complete additional verification processes.
 
 * * *
 
@@ -250,7 +250,7 @@ Financial and Insurance Products and Services
 
 Ads promoting credit cards, loans or insurance services must be targeted to people 18 years or older and must not directly request the input of any personally identifiable information or certain types of financial information .
 
-Advertisers promoting financial products and services must demonstrate they are authorized by the relevant regulatory authorities where this is a requirement; and any such authorization may be subject to review by Meta. Advertisers are also required to comply with disclosure requirements set by law.
+Advertisers promoting financial products and services may be required to verify their business and/or individual identity and demonstrate that they are authorised by the relevant regulatory authorities where this is a requirement, and any such authorisation may be subject to review by Meta. Advertisers are also required to comply with disclosure requirements set by law.
 
 Learn more about the authorization process in our .
 
@@ -468,7 +468,7 @@ Ads promoting branded content must tag the featured third party product, brand o
 
 Advertising policies affecting business assets
 
-Beyond rejecting ads that violate our policies, we also review and take action, such as restricting the ability to advertise, on an advertiser’s Business Account or its assets, such as ad accounts, Pages and user accounts for violating the below policies. If you believe your ad account, user account, Page or Business Account was incorrectly restricted, you can of the decision in
+Beyond rejecting ads that violate our policies, we also review and take action, such as restricting the ability to advertise, on an advertiser’s Business Account or its assets, such as ad accounts, Pages and user accounts for violating the below policies. Advertising accounts must be associated with a legitimate business or individual. If we detect signals of possible misrepresentation, suspicious activity, or inauthentic behavior in your ad content, you may be required to complete a verification process. If you believe your ad account, user account, Page or Business Account was incorrectly restricted, you can of the decision in
 
 Account Integrity
 
