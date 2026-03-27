@@ -665,6 +665,11 @@ For the following content, we include a label so that people are aware the conte
 *   Imagery depicting a high-risk viral challenge if shared condemning or raising awareness of the associated risks.
     
 
+For the following content, we limit the ability to view the content to adults aged 18 and older:
+
+*   Imagery depicting dangerous forms of driving a motor vehicle that could lead to life-threatening injuries or death to the driver or others, except if shared in fictional or professional settings.
+    
+
 For the following Community Standards, we require additional information and/or context to enforce:
 
 We Remove:
