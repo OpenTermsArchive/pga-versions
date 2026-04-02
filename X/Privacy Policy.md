@@ -333,3 +333,35 @@ Take control of your privacy
 ----------------------------
 
 [Adjust your settings](https://twitter.com/settings/privacy_and_safety)
+
+- - -
+
+Welcome to X's Privacy Hub
+==========================
+
+X’s approach to privacy:
+------------------------
+
+Protecting and defending user privacy is at the heart of our work. From protecting user anonymity, to offering meaningful [privacy and security controls](https://privacy.twitter.com/en), and being [committed to transparency](https://transparency.twitter.com/), our foundational principles are built into X’s core DNA. 
+
+Our approach to privacy compliance is broader than simply complying with the terms of the GDPR, the UK GDPR, the CCPA and the array of other data protection laws and regulations that apply to our global business. Rather, we think about how our work can benefit as many of our users as possible and work towards legal compliance in a way that strengthens our comprehensive data security and privacy program, and supports the evolution of our principles and overarching mission as a company.    
+
+We want to help people understand how we work to give them the transparency and tools they need to have meaningful controls over what data we collect about them, how it is used, and when it is shared. 
+
+Our teams are consistently working behind the scenes to understand new legal requirements and user expectations to ensure X is prepared to meet the commitments we made to our users and to provide an industry-leading level of transparency and user control. You will continue to see us make updates across our core product, terms, policies, user functionality and operations to keep these commitments to the people who rely on us to engage in the public conversation. 
+
+**If you are a X user**, you can find out more information in our [privacy policy](https://twitter.com/en/privacy). 
+
+**If you are a X for Business client** - Please refer to our [X for Business FAQs](https://gdpr.twitter.com/en/faq.html), which would likely include answers to a number of your questions including information about X’s compliance with specific laws that may also apply to your business, and X’s different Data Processing Agreements (DPAs).
+
+GDPR and the UK GDPR
+====================
+
+The [General Data Protection Regulation](http://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32016R0679) (GDPR) has been in effect since 2018 but it built upon, standardized and modernized the European Union (EU)’s existing comprehensive approach to data privacy and protection. 
+
+Since 2021, the United Kingdom (UK) is no longer part of the EU, but has adopted the UK General Data Protection Regulation (UK GDPR), which is similar to the GDPR. Both specifically address the export of personal data of their citizens outside their relative jurisdictions and set clear guidelines for companies who operate between their jurisdictions and other global markets with different legal structures. 
+
+California and other US State Privacy Laws
+------------------------------------------
+
+In 2020, California was the first of a series of US States passing comprehensive state privacy legislation. With the [California Consumer Privacy Act of 2018 (CCPA)](http://leginfo.legislature.ca.gov/), Californians were granted individual (GDPR-like) privacy rights. A number of US States have since followed suit, creating a patchwork of different privacy regimes across the country. We continue to monitor this rapidly evolving space and nuances brought by these different pieces of legislation to make sure our products and services keep meeting what is expected and required of us.
