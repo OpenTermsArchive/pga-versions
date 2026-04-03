@@ -83,27 +83,19 @@ We restrict the promotion of financial products and services on our platform. We
 We don’t allow the promotion of the following financial products: 
 
 *   High APR personal loans (e.g., payday loans)
-    
 *   Initial coin offerings (ICOs) and binary options
-    
 *   Decentralized finance (DeFi) trading protocols
-    
 *   Credit cards with staking requirements
-    
 *   Bail bonds
 
 Below are examples of financial products and services that we may permit in certain instances: 
 
 *   Cryptocurrency wallets, platforms and exchanges
-    
 *   Credit cards without staking requirements
-    
 *   Credit products and services (e.g., credit cards, HELOCs, etc.)
-    
 *   Loan products and services (e.g., mortgages, car loans, etc.)
-    
 *   Auto, medical, life or other insurance products and services
-    
+*   Prediction markets
 
 Gambling and Games
 
@@ -166,27 +158,18 @@ To promote a positive user experience, we require that you adhere to the followi
 Text:
 
 *   Use correct grammar, spelling, and punctuation
-    
 *   Avoid excessive or unnecessary punctuation and capitalization
-    
 
 Branding and clarity:
 
 *   Clearly reflect and state the brand, advertiser name, or identity
-    
 *   Avoid assets or text that are unclear or incomprehensible
-    
 *   Do not imply an endorsement or relationship with any brand, label, artist, album, or track, unless you’ve independently obtained the rights to do so
-    
 *   Do not use Spotify's trademarks, trade names, brand features, or other intellectual property without Spotify’s prior written approval
-    
 
 Media:
 
 *   Ads must follow our [Audio](https://ads.spotify.com/en-US/ad-experiences/audio-ads-specs/) and/or [Video](https://ads.spotify.com/en-US/ad-experiences/video-takeover-ad-specs/) Ad Specs and Requirements
-    
 *   Visual assets should be suitable for all targeted users
-    
 *   Avoid repetitive, gimmicky, or otherwise low quality media assets
-    
 *   Media assets should not mimic the Spotify interface or otherwise mislead or trick users into interacting with an ad
