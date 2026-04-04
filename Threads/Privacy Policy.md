@@ -1,16 +1,6 @@
 Threads Supplemental Privacy Policy
 ===================================
 
-What information is collected?
-
-How is my data shared?
-
-Delete my Threads profile
-
-Manage my Threads data
-
-I have a different question
-
 Effective January 21, 2026
 --------------------------
 
