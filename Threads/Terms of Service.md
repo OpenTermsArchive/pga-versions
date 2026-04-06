@@ -1,16 +1,6 @@
 Threads Terms of Use and Impressum
 ==================================
 
-What are Threads Terms?
-
-Instagram Terms of Use
-
-Delete my Threads profile
-
-What is Threads Content?
-
-I have a different question
-
 Threads Terms of Use and Impressum
 
 Welcome to the Threads Service. These Threads Terms of Use (the “**Terms**”) primarily govern your use of the Threads Service. The Threads Service is built by Instagram and is one of the “[Meta Products](https://www.facebook.com/help/1561485474074139?helpref=faq_content)”, so the [Instagram Terms of Use](https://help.instagram.com/termsofuse) (“**Instagram Terms**”) and the [Meta Community Standards](https://help.instagram.com/477434105621119?ref=igtos&helpref=faq_content) also apply to your use of the Threads Service. Any capitalized terms we use here, but do not define below, have the meaning given to them in the Instagram Terms. By using the Threads Service, you agree to these Terms and the Instagram Terms. If there is any conflict between these Terms and separate terms that may apply to you, then these Terms will prevail with respect to your use of the Threads Service and solely to the extent of the conflict.
