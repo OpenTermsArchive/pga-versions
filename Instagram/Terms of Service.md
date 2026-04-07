@@ -5,6 +5,14 @@ Terms and Imprint
 
 Copy link
 
+What is the Instagram Service?
+
+How is Instagram funded?
+
+What is the Privacy Policy?
+
+I have a different question
+
 Terms and Imprint
 
 Welcome to Instagram!
