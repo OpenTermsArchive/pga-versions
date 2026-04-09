@@ -560,7 +560,7 @@ Learn what you can do if you see something on Facebook that goes against our Com
 
 [Community Standards](https://transparency.fb.com/policies/community-standards/)
 
-Coordinating Harm Promoting Crime
+Coordinating Harm and Promoting Crime
 
 Coordinating Harm and Promoting Crime
 =====================================
