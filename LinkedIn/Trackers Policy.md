@@ -12,6 +12,8 @@ What technologies are used?
 
 ENTER A SUMMARY
 
+|     |     |
+| --- | --- |ENTER A SUMMARY
 | Type of technology | Description |
 | --- | --- |
 | Cookies | A cookie is a small file placed onto your device that enables LinkedIn features and functionality. Any browser visiting our sites may receive cookies from us or cookies from third parties such as our customers, partners or service providers. We or third parties may also place cookies in your browser when you visit non-LinkedIn sites that display ads or that host our plugins or [tags](https://www.linkedin.com/help/linkedin/answer/65521).<br><br>We use two types of cookies: persistent cookies and session cookies. A persistent cookie lasts beyond the current session and is used for many purposes, such as recognizing you as an existing user, so it’s easier to return to LinkedIn and interact with our Services without signing in again. Since a persistent cookie stays in your browser, it will be read by LinkedIn when you return to one of our sites or visit a third party site that uses our Services. Session cookies last only as long as the session (usually the current visit to a website or a browser session). |
@@ -30,6 +32,8 @@ Below we describe the purposes for which we use these technologies.
 
 ENTER SUMMARY
 
+|     |     |
+| --- | --- |ENTER SUMMARY
 | Purpose | Description |
 | --- | --- |
 | Authentication | We use cookies and similar technologies to recognize you when you visit our Services.<br><br>If you’re signed into LinkedIn, these technologies help us show you the right information and personalize your experience in line with your settings. For example, cookies enable LinkedIn to identify you and verify your account. |
