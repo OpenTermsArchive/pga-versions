@@ -1,11 +1,3 @@
-Warning:
-
-The wait time to speak to an advisor is longer than usual.
-
-You might find a quicker solution on our [help site](https://support.spotify.com/creators/).
-
-Sun, 12 Apr 2026 12:50:40 GMT
-
 [Can't find what you're looking for?](https://support.spotify.com/creators/contact-spotify-anonymous/)
 
 Spotify Partner Program Monetization Policies
