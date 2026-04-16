@@ -164,6 +164,8 @@ Examples of deceptive, untrue, or misleading advertising:
 *   Unverifiable claims or statements
 *   False information passed off as fact or truth
 *   Withholding information on pricing, terms, or expenses
+*   Unidentifiable or disguised advertising
+*   Use of subliminal techniques
 
 - - -
 
