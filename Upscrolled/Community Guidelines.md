@@ -1,131 +1,252 @@
 Community Guidelines
 --------------------
 
-*   Effective since last update: **\[20/02/2026\]**
+*   Last updated: **15/04/2026**
 
-At UpScrolled we’re building a space where every voice has equal power — but always within a healthy, respectful, and welcoming environment. Our community thrives on free expression and user choice, yet we draw a clear line where safety, dignity, and trust are concerned. The guidelines below reflect the core principles that keep UpScrolled usable for everyone.
+At UpScrolled, we’re building a space based on three principles for our UpScrollers: you can connect safely, share freely, and build community on your own terms. We stand behind free expression and user choice, but that should not come at the cost of someone’s safety or dignity. The standards below explain how we try to hold that balance, transparently, so you always know where you stand. The Community Guidelines below reflect how we keep UpScrolled usable for everyone:
 
-These Community Guidelines (“Guidelines”) govern user conduct on the UpScrolled platform (“UpScrolled,” “we,” “us,” or “our”). These Guidelines apply to all users, creators, contributors, advertisers, and any other individuals or entities accessing or using UpScrolled (collectively, “Users”). By accessing or using UpScrolled, you agree to comply with these Guidelines, our Terms of Service, and our Privacy Policy. UpScrolled reserves the absolute right to remove content, restrict access, suspend features, or terminate accounts that violate these Guidelines, our policies, or applicable law.
+*   **Freedom with Responsibility** – Express opinions, identities, and creativity freely, but not in ways that incite violence, harassment, child sexual abuse, hate, or exploitation.
+*   **Prioritise Safety** – We remove any content that could cause physical danger, psychological harm, or intimidation. 
+*   **Least‑Restrictive, Transparent Action** – We apply the smallest effective measure (label → removal → Suspension → Deactivation) and always give the user the right to appeal.
+*   **User Control** – We give members tools to hide, block, report, and even label their own content, letting each person shape their own experience while respecting baseline safety rules.
+*   **Legal & Baseline Compliance** – Certain rules are required by law and by our commitment to a safe platform; they protect the community from violent speech, harassment, fraud, spam, sexual exploitation, CSAM, and threats.
 
-PURPOSE
--------
+**  
+How These Guidelines Work**
 
-UpScrolled is a platform for user-generated content, social engagement, and creative expression. These Guidelines are designed to promote a safe and respectful environment; prevent harm, abuse, and unlawful conduct; protect user privacy and intellectual property rights; preserve the integrity of the platform; and ensure compliance with applicable laws, regulations, and distribution platform requirements. While UpScrolled supports freedom of expression, such expression must not compromise user safety, legality, or community trust.
+These Community Guidelines (“Guidelines”) apply to everyone who uses UpScrolled, including users, creators, contributors, advertisers, and anyone else accessing the platform (collectively, “Users”). By using UpScrolled, you agree to follow these Guidelines, along with our [**Terms of Service**](https://upscrolled.com/en/terms-of-service/) and [**Privacy Policy**](https://upscrolled.com/en/privacy-policy/). UpScrolled may remove content, limit features, restrict access, suspend accounts, or permanently terminate accounts that violate these Guidelines, our policies, or applicable law.
 
-GENERAL STANDARDS OF CONDUCT
-----------------------------
+**General Standards of Conduct**
 
-Users must act lawfully and responsibly; respect the rights, dignity, and safety of others; provide accurate and truthful information; and refrain from conduct that undermines the safety, integrity, or reliability of the platform. Users are solely responsible for the content they create, upload, publish, transmit, stream, or otherwise make available on UpScrolled (“Content”). UpScrolled does not endorse user Content and disclaims liability to the maximum extent permitted by law. We have no tolerance for objectionable content or abusive behavior. Any content or conduct involving hate speech, harassment, sexual exploitation, violence, or threats will be removed, and the responsible accounts may be suspended or permanently banned.
+Users are responsible for the content they create, upload, post, stream, or otherwise make available on UpScrolled (“Content”). UpScrolled does not endorse user Content and disclaims liability to the maximum extent permitted by law. Content involving hate speech, harassment, sexual exploitation, violence, or credible threats and attacks may be removed, and accounts responsible for such conduct may be suspended or permanently banned. When using UpScrolled, you agree to:
 
-FREE SPEECH PROTECTIONS
------------------------
+*   Respect the rights, dignity, and safety of others;
+*   Provide truthful and accurate information; 
+*   Avoid behavior that harms the platform or other users; and
+*   Follow applicable laws.
 
-UpScrolled recognizes the importance of political discourse, human rights reporting, and journalistic documentation. Content discussing governments, armed conflicts, or political movements will not be removed solely because it is controversial or critical, provided it does not violate these Guidelines. UpScrolled does not engage in viewpoint-based censorship. Enforcement decisions are based on conduct, not political perspective.
+**  
+Free Expression and Public Interest**
 
-HARASSMENT AND ABUSIVE CONDUCT
-------------------------------
+We recognise and respect the importance of political discussion, journalism, and human-rights reporting. Content discussing governments, armed conflicts, elections, or political movements will **not be removed simply because it is controversial or critical**, as long as it does not violate these Guidelines. Moderation decisions are based on **conduct and rule violations**, not political viewpoints.
 
-UpScrolled prohibits harassment, bullying, intimidation, threats, and abusive behavior. Users may not engage in repeated unwanted contact, targeted harassment campaigns, coordinated attacks, or conduct intended to degrade, shame, or silence others. Content that encourages violence, celebrates harm, or incites hostility toward an individual or group is strictly prohibited. We reserve the right to remove abusive Content and take enforcement action, including suspension or permanent termination.
+**Harassment and Abusive Conduct**
 
-HATE SPEECH AND DISCRIMINATION
-------------------------------
+We don’t allow content that promotes violence, celebrates harm, or incites hostility toward individuals or groups. Accounts engaging in abusive behavior may be suspended or permanently terminated. Harassment and abusive behavior are strictly prohibited. This includes:
 
-UpScrolled does not permit Content that attacks, dehumanizes, threatens, or promotes discrimination against individuals or groups based on protected characteristics, including but not limited to race, ethnicity, national origin, religion, disability, serious medical condition, gender, gender identity, sexual orientation, age, or veteran status. This includes slurs, supremacist ideology, and calls for segregation or exclusion. Violations may result in immediate and permanent removal from the platform.
+*   Repeated unwanted contact;
+*   Targeted harassment or bullying;
+*   Coordinated harassment campaigns; and
+*   Attempts to intimidate, shame, or silence others.
 
-VIOLENCE AND DANGEROUS ACTIVITIES
----------------------------------
+**  
+Hate Speech and Discrimination**
 
-Users may not post Content that threatens or promotes violence; provides instructions for harming others; depicts graphic violence without legitimate context; glorifies extremist or terrorist organizations; or encourages participation in dangerous activities likely to result in serious injury or death. Graphic content shared for the purpose of documenting human rights abuses, war crimes, or news events may be allowed with appropriate warnings. Users may not organize, coordinate, or disseminate campaigns intended to disrupt elections, civic participation, or democratic processes.
+We don’t allow content that attacks, dehumanises, threatens, or promotes discrimination against individuals or groups based on protected characteristics. This includes slurs, supremacist ideology, and calls for segregation or exclusion. Violations may result in immediate and permanent removal from the platform. Protected characteristics include, but are not limited to:
 
-SELF-HARM AND SUICIDE
----------------------
+*   race or ethnicity;
+*   national origin;
+*   religion;
+*   disability or serious medical condition;
+*   gender or gender identity;
+*   sexual orientation;
+*   age; 
+*   Migration status, or
+*   veteran status.
 
-UpScrolled prohibits Content that encourages, instructs, glorifies, or romanticizes self-harm, suicide, eating disorders, or other self-destructive behavior. Where appropriate, UpScrolled may provide crisis support information. Content intended to seek support or recovery may be reviewed contextually.
+**  
+Violence and Dangerous Activities**
 
-SEXUAL CONTENT AND NUDITY
--------------------------
+We recognise our users need to share graphic content documenting human rights abuses, war crimes, or newsworthy events; therefore, we allow this content to be shared with appropriate warnings. Users may not organise or coordinate campaigns intended to disrupt elections, civic participation, or democratic processes. You may not post content that:
 
-UpScrolled is not a pornography platform. Users may not post explicit sexual acts, graphic sexual content, sexual services solicitation, fetish content intended for arousal, or non-consensual intimate imagery. Sexually explicit deepfakes or manipulated content are strictly prohibited. Sexual Content involving minors is strictly forbidden and will result in immediate account termination and referral to appropriate authorities. Limited non-graphic nudity in artistic, documentary, or educational contexts may be reviewed on a case-by-case basis.
+*   Threatens or promotes violence;
+*   Provides instructions for harming others;
+*   Coordinate attacks on the platform;
+*   Glorifies extremist or terrorist organisations; or
+*   Encourages dangerous activities likely to cause serious injury or death.
 
-CHILD SAFETY
-------------
+**  
+Self-Harm and Suicide**
 
-UpScrolled maintains a zero-tolerance policy regarding child exploitation. Users may not create, share, solicit, or distribute sexual content involving minors; attempt to groom minors; engage in inappropriate communications with minors, minor sexualization, sextortion, trafficking, or the livestreaming of abusive content. Any suspected child exploitation will be reported in accordance with applicable law.
+We don’t allow any content that encourages, glorifies, or instructs self-harm, suicide, eating disorders, or other self-destructive behavior. Content seeking support or discussing recovery or raising awareness may be allowed in context. When appropriate, UpScrolled may provide crisis support resources.
 
-MISINFORMATION AND DECEPTIVE PRACTICES
---------------------------------------
+**Sexual Content and Nudity**
 
-Users may not disseminate false information that may cause real-world harm; spread harmful medical misinformation; impersonate public officials; manipulate civic or electoral processes; or create deceptive synthetic media intended to mislead others. UpScrolled reserves the right to remove, reduce the visibility of, or label misleading Content.
+We don’t allow sexual content on our platform. Users who publish such content will face immediate account termination and referral to appropriate authorities when applicable. Limited non-graphic nudity in artistic, documentary, or educational contexts may be allowed on a case-by-case basis.
 
-AUTHENTICITY AND IMPERSONATION
-------------------------------
+UpScrolled is not a pornography platform. Therefore, the following content is not allowed:
 
-Users must represent themselves honestly. Impersonation of individuals, brands, organizations, or public figures is prohibited. Users may not create fake accounts to deceive others, artificially inflate engagement, manipulate trends, or coordinate inauthentic behavior. Parody, fan, or commentary accounts must clearly disclose their nature. While UpScrolled supports open discussion of developing events, Content that knowingly disseminates demonstrably false information likely to cause imminent harm may be removed.
+*   Explicit sexual acts;
+*   Graphic sexual content;
+*   Sexual services solicitation;
+*   Links to sexual services platform;
+*   Fetish content intended for sexual arousal;
+*   Non-consensual intimate imagery; or
+*   Sexually explicit deepfakes.
 
-AI-GENERATED AND SYNTHETIC MEDIA
---------------------------------
+**  
+Child Safety**
 
-AI-generated Content is permitted only if it complies with these Guidelines and applicable law. Users are required to provide a clear disclosure that it was edited or created by artificial intelligence. If a User fails to indicate that the material is AI‑generated, Upscrolled will label the content as such. Users may not use synthetic media to impersonate real individuals without disclosure, fabricate real-world events, or create deceptive deepfakes intended to mislead. UpScrolled reserves the right to remove synthetic media that poses a risk of harm or deception.
+We are committed to protecting children and maintaining **a zero-tolerance policy** for child exploitation. Suspected child exploitation will be reported in accordance with applicable law including to any government authorities as required. Accordingly, users may not:
 
-PRIVACY AND PERSONAL INFORMATION
---------------------------------
+*    Create, share, or distribute sexual content involving minors;
+*   Attempt to groom minors;
+*   Engage in sexually inappropriate communications with minors;
+*   Engage in sextortion, trafficking, or exploitation; or
+*   Livestream abusive content involving minors.
 
-Users may not share private or personally identifiable information about others without consent, including home addresses, personal phone numbers, financial information, government identification numbers, or private communications. Doxxing, stalking, or revealing another person’s sensitive information without authorization is strictly prohibited. Users may not engage in hacking, unauthorized access, account takeover, credential abuse, or data misuse of other Users or platform systems.
+**  
+Animal Exploitation** 
 
-ILLEGAL ACTIVITIES
-------------------
+We don’t allow any content that shows animal abuse, torture, fighting, staged rescues, sexualisation, or wildlife exploitation.
 
-UpScrolled may not be used to facilitate unlawful activity, including fraud, scams, distribution of illegal drugs, sale of controlled substances without authorization, distribution of stolen goods, money laundering, hacking services, or promotion of terrorist organizations. UpScrolled recognizes the vital role of journalists, citizen reporters, and human rights defenders in documenting events of public interest. Content shared for legitimate documentation purposes will be evaluated with contextual consideration.
+**Misinformation and Deceptive Practices**
 
-SCAMS AND FINANCIAL MISCONDUCT
-------------------------------
+We may remove, label, or reduce the visibility of misleading content. You may not share false or misleading information that could cause real-world harm. This includes:
 
-Users may not engage in deceptive financial practices, including investment scams, pump-and-dump schemes, pyramid schemes, phishing attempts, fake giveaways, false sponsorship claims, or romance scams. Accounts engaged in financial misconduct may be permanently terminated.
+*   Harmful medical misinformation;
+*   Impersonation of public officials;
+*   Manipulation of civic or electoral processes; or
+*   Deceptive synthetic media intended to mislead others.
 
-SPAM AND PLATFORM ABUSE
------------------------
+**  
+Authenticity and Impersonation**
 
-Users may not distribute repetitive promotional Content, send unsolicited bulk messages, manipulate hashtags or trending systems, use unauthorized automation tools, scrape platform data, or interfere with platform functionality. UpScrolled may limit reach, restrict features, or suspend accounts engaged in platform abuse.
+Parody or commentary accounts are allowed but have to clearly disclose their nature. Content that knowingly spreads demonstrably false information likely to cause imminent harm may be removed. Users must represent themselves honestly. The following are not allowed:
 
-INTELLECTUAL PROPERTY
----------------------
+*   Impersonating individuals, organisations, brands, or public figures;
+*   Creating fake accounts to deceive others; or
+*   Manipulating engagement or trends through coordinated inauthentic activity.
 
-Users must have the legal right to share the Content they post. Uploading copyrighted material without authorization, reposting others’ Content without permission, selling counterfeit goods, or misusing trademarks is prohibited. UpScrolled will respond to valid intellectual property complaints in accordance with applicable law.
+**  
+AI-Generated and Synthetic Media**
 
-ADVERTISING AND DISCLOSURES
----------------------------
+UpScrolled values authentic, human-created content. We discourage the use of AI to generate posts and believe our users deserve a platform free from synthetic media. We allow AI-generated content only if it follows these Guidelines and applicable law. Users should clearly disclose when content has been created or significantly altered using artificial intelligence. UpScrolled may label AI-generated content when necessary and may remove synthetic media that poses a risk of harm or deception. Users may not use synthetic media to:
 
-Sponsored or promotional Content must be clearly disclosed and comply with applicable advertising and consumer protection laws. Users are responsible for ensuring that endorsements, reviews, and promotional statements are truthful and not misleading.
+*   Impersonate real individuals without disclosure;
+*   Fabricate real-world events; or
+*   Create deceptive deepfakes intended to mislead.
 
-REGULATED GOODS AND SERVICES
-----------------------------
+**  
+Privacy and Personal Information**
 
-Users may not promote or sell regulated goods or services in violation of applicable law, including firearms, tobacco products, prescription drugs, unlicensed financial products, or gambling services targeting minors. Additional restrictions may apply depending on jurisdiction.
+Users may share publicly available information and engage with platform data in ways that are authorised and consistent with applicable terms of use. 
 
-PLATFORM SECURITY
------------------
+Users may not attempt hacking, unauthorised access, credential abuse, or misuse of platform data, and must not engage in doxxing or stalking. Private or personally identifiable information about others must not be shared without consent. This includes:
 
-Users may not attempt to access restricted areas of the platform, reverse engineer the platform, exploit vulnerabilities, bypass moderation systems, or engage in unauthorized data extraction.
+*   Home addresses;
+*   Personal phone numbers;
+*   Financial information;
+*   Government identification numbers; or
+*   Private communications.
 
-AGE REQUIREMENTS
-----------------
+**  
+Illegal Activities**
 
-Users must be at least 16 years old to use UpScrolled. Accounts that misrepresent age will be removed. Additional restrictions may still apply to users under the age of eighteen (18).
+UpScrolled may not be used to facilitate illegal activity. Content shared for legitimate journalism, documentation, or human-rights reporting may be reviewed with contextual consideration.
 
-ENFORCEMENT
------------
+This includes:
 
-UpScrolled reserves the absolute right to enforce these Guidelines at its sole discretion. Enforcement actions may include content removal, warnings, temporary suspension, permanent termination, or disabling of monetization features. Repeated or severe violations may result in immediate and permanent account termination.
+*   Fraud or scams;
+*   Distribution or promotion of illegal drugs;
+*   Sale of stolen goods;
+*   Money laundering;
+*   Controlling or coercive behaviour;
+*   Human trafficking;
+*   Unlawful immigration offences;
+*   Handling or concealing proceeds of crime;
+*   Sale or promotion of knives or other offensive weapons; 
+*   Foreign interference offences;
+*   Hacking services; or
+*   Promotion of terrorist organisations.
 
-REPORTING AND APPEALS
----------------------
+**  
+Scams and Financial Misconduct**
 
-Users may report violations through in-app reporting tools or designated support channels. If Content is removed or an account is restricted, the affected User may request review through the established appeals process by contacting [safety@upscrolled.com](mailto:safety@upscrolled.com). UpScrolled reserves the right to uphold, modify, or reverse enforcement decisions.
+We don’t allow scams and financial misconduct, or fraudulent fundraising on our platform. Accounts involved in financial misconduct may be permanently terminated. Users may not engage in deceptive financial practices, including:
 
-MODIFICATIONS
--------------
+*   Investment scams;
+*   Pump-and-dump schemes;
+*   Pyramid schemes;
+*   Phishing attempts;
+*   Fake giveaways;
+*   Romance scams; 
+*   False sponsorship claims; or
+*   Fraudulent fundraising.
 
-UpScrolled may update these Guidelines at any time. Continued use of the platform following any modification constitutes acceptance of the revised Guidelines.
+**  
+Spam and Platform Abuse**
+
+UpScrolled may remove, restrict features, or suspend accounts involved in platform abuse. You may not abuse the platform through:
+
+*   Repetitive promotional content;
+*   Unsolicited bulk messaging;
+*   Manipulation of hashtags or trending systems;
+*   Submitting reports, notices, or complaints about content or users that you know to be unfounded or made in bad faith;
+*   Unauthorised automation tools;
+*   Scraping platform data; 
+*   Attempts to disrupt platform functionality; or
+*   Creation of bot accounts. 
+
+**  
+Intellectual Property**
+
+We respond to valid intellectual property complaints in accordance with applicable law. You must have the legal right to share the content you post. The following are prohibited:
+
+*   Uploading copyrighted material without permission;
+*   Reposting others’ content without authorisation;
+*   Selling counterfeit goods; or
+*   Misuse of trademarks.
+
+**  
+Advertising and Disclosures**
+
+We ask our users to disclose sponsored or promotional content and comply with applicable advertising and consumer protection laws. Users are responsible for ensuring endorsements and promotional statements are truthful and not misleading.
+
+**Regulated Goods and Services**
+
+Users may not promote or sell regulated goods or services in violation of applicable law, including:
+
+*   Firearms;
+*   Tobacco products;
+*   Prescription drugs;
+*   Unlicensed financial products; or
+*   Unlicensed or illegal gambling services, and gambling targeting minors.
+
+**  
+Platform Security**
+
+Users may not attempt to:
+
+*   Access restricted areas of the platform;
+*   Reverse engineer the platform;
+*   Exploit vulnerabilities;
+*   Bypass moderation systems; or
+*   Extract platform data without authorisation.
+
+**  
+Age Requirements**
+
+Users must be **at least 16 years old** to use UpScrolled. Accounts that misrepresent age may be removed. 
+
+**Enforcement**
+
+Repeated or severe violations may result in immediate and permanent account removal. UpScrolled may enforce these Guidelines at its discretion. Enforcement actions may include:
+
+*   Content removal;
+*   Warnings;
+*   Temporary suspension;
+*   Permanent account termination; or
+*   Disabling monetisation features.
+
+**  
+Reporting and Appeals**
+
+Users can report violations through in-app reporting tools or support channels. If content is removed or an account is restricted, the affected user may request a review through the appeals process by contacting [**safety@upscrolled.com**](mailto:safety@upscrolled.com). UpScrolled may uphold, modify, or reverse enforcement decisions after review.
+
+**Updates to These Guidelines**
+
+UpScrolled may update these Guidelines from time to time. Continued use of the platform after changes are published constitutes acceptance of the updated Guidelines.
 
 ### غابرييلا بورد
 
