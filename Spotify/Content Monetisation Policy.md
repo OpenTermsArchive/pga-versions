@@ -1,5 +1,3 @@
-[Can't find what you're looking for?](https://support.spotify.com/creators/contact-spotify-anonymous/)
-
 Spotify Partner Program Monetization Policies
 =============================================
 
@@ -25,45 +23,3 @@ If you’re applying to the Spotify Partner Program, you’ll be notified via em
 If we reasonably suspect abuse of our services in any way or see that your content has violated our rules and policies, we reserve the right to remove access to the Spotify Partner Program, withhold accrued earnings, and/or remove your account or content.
 
 Was this article helpful?
-
-Yes
-
-No
-
-*   Account help
-    ------------
-    
-*   Publishing audio and video
-    --------------------------
-    
-*   Comments and polls
-    ------------------
-    
-*   Distributing and managing your show
-    -----------------------------------
-    
-*   Promo and analytics
-    -------------------
-    
-*   Monetizing your show
-    --------------------
-    
-    *   ### Spotify Partner Program
-        
-        *   [Spotify Partner Program](https://support.spotify.com/us/creators/article/spotify-partner-program/)
-        *   [Monetizing your show with Spotify for Creators](https://support.spotify.com/us/creators/article/monetizing-your-show-with-spotify-for-creators/)
-        *   [Managing your ads and ad breaks](https://support.spotify.com/us/creators/article/managing-your-ads-and-ad-breaks/)
-        *   [Understanding your Spotify Partner Program analytics](https://support.spotify.com/us/creators/article/spotify-partner-program-analytics/)
-        *   [Spotify Partner Program Monetization Policies](https://support.spotify.com/us/creators/article/spotify-partner-program-monetization-policies/)
-        *   [Spotify Partner Program Terms](https://support.spotify.com/us/creators/article/spotify-partner-program-terms/)
-        
-    *   ### Subscriptions & donations
-        
-    *   ### Payouts
-        
-    
-*   Switching hosts
-    ---------------
-    
-*   Terms & Conditions
-    ------------------
