@@ -449,6 +449,34 @@ To the extent permitted by law, you waive the right to participate as a plaintif
 
 The UpScrolled User Agreement is drafted in Arabic and English but may be translated into multiple languages in the future. While UpScrolled endeavours to ensure the accuracy of translations, in case of any discrepancies or inconsistencies, the Arabic and English language versions of the UpScrolled User Agreement shall prevail. You acknowledge that English shall serve as the primary reference languages for interpreting and construing the terms of the UpScrolled User Agreement.
 
+### أمير ناثو
+
+الشريك المؤسِّس لشركة Outschool
+
+[](#elementor-action%3Aaction%3Dpopup%3Aclose%26settings%3DeyJkb19ub3Rfc2hvd19hZ2FpbiI6IiJ9)
+
+### أمير ناثو
+
+الشريك المؤسِّس لشركة Outschool
+
+أمير ناثو هو رائد أعمال تقني ومؤسس مشارك والرئيس التنفيذي لشركة [Outschool](https://outschool.com/)، وهي منصة تعليمية عالمية عبر الإنترنت تقدم دروسًا مباشرة وتفاعلية لطلاب المرحلة المدرسية. وقد ساهم في توسيع المنصة لتصبح سوقًا رائدًا للتعليم يخدم عائلات في أكثر من ١٨٠ دولة.
+
+يقدّم أمير المشورة في مجالات النمو القائم على المنتج، ونماذج المنصات (Marketplace)، وبناء شركات تقنية عالية النمو ذات طابع رسالي.
+
+### Amir Nathoo
+
+Co-founder at Outschool
+
+[](#elementor-action%3Aaction%3Dpopup%3Aclose%26settings%3DeyJkb19ub3Rfc2hvd19hZ2FpbiI6IiJ9)
+
+### Amir Nathoo
+
+Co-founder at Outschool
+
+Amir Nathoo is a technology entrepreneur and Co-founder and CEO of [Outschool](https://outschool.com/), a global online learning platform offering live, interactive classes for K–12 students. He has helped scale the company into a leading marketplace for education, serving families across more than 180 countries.
+
+Amir advises on product-led growth, marketplace models, and building mission-driven technology companies at scale.
+
 ### غابرييلا بورد
 
 الشريك المؤسِّس لشركة DNA
@@ -463,19 +491,19 @@ The UpScrolled User Agreement is drafted in Arabic and English but may be transl
 
 وبفضل عملها مع علامات تجارية عالمية، إلى جانب دفاعها عن الحقوق الفلسطينية في الأوساط المهنية، تدرك غابرييلا قوة السرد الأصيل. فهي تدعم روّاد الأعمال والمبدعين والمجتمعات التي ترفض أن يُخرسها التحيّز الخوارزمي أو الرقابة الخفية.
 
-### عادل أبو بكر
+### بادي كوسغريف
 
-المؤسِّس لشركة INTELITÉGEN
+مؤسس مشارك والرئيس التنفيذي Web Summiut
 
 [](#elementor-action%3Aaction%3Dpopup%3Aclose%26settings%3DeyJkb19ub3Rfc2hvd19hZ2FpbiI6IiJ9)
 
-### عادل أبو بكر
+### بادي كوسغريف
 
-المؤسِّس لشركة INTELITÉGEN
+المؤسِّس لشركة Web Summit
 
-عادل أبو بكر، حاصل على شهادة CFA، هو خبير استثماري يتمتع بخبرة عالمية في تقييم الأعمال، النمذجة المالية، والتمويل المؤسسي. وهو مؤسس شركة [INTELITÉGEN](https://www.iegen.pro/) المتخصصة في تيسير الأعمال الأخلاقية، وقد شغل مناصب عليا في Notz Stucki Origins وECR Advisors وAfrAsia Bank.
+بادي كوسغريف هو رائد أعمال ومؤسس مؤتمر [Web Summit](https://websummit.com/)، أحد أكبر مؤتمرات التكنولوجيا في العالم. ساهم في تشكيل منظومات الشركات الناشئة عالميًا من خلال ربط المؤسسين بالمستثمرين وصنّاع القرار.
 
-بصفته حاملًا لشهادة المحلل المالي المعتمد (CFA)، يقدّم عادل الاستشارات للعملاء في استراتيجيات الاستثمار، جمع رؤوس الأموال، والحلول العابرة للحدود، مع تركيز على إطلاق القيمة، ودفع النمو، وتعزيز أسواق مالية أكثر عدلًا ومساواة.
+يقدّم بادي المشورة في مجالات النمو، التوسع الدولي، وبناء مجتمعات تكنولوجية عالية التأثير.
 
 ### Gabriella Bord
 
@@ -485,25 +513,25 @@ MD & Co-Founder at DNA
 
 ### Gabriella Bord
 
-MD & Co-Founder at DNA
+MD & Co-founder at DNA
 
 For Gabriella Bord, real connection starts with uncensored truth. As Co-Founder of [DNA](https://www.dna.online/)—the content agency with the content platform for brands—she helps corporations scale their content ecosystems. Yet her entrepreneurial journey, which has included building everything from content agencies to a helicopter company, has shown her how traditional platforms prioritise profit over people. That’s why she’s also a strategic partner to UpScrolled, creating digital spaces where marginalised communities can share their truth without filters or fear.
 
 Having worked with global brands while advocating for Palestinian rights in professional spaces, Gabriella understands the power of authentic storytelling. She champions the entrepreneurs, creators, and communities who refuse to be silenced by algorithmic censorship.
 
-### Adil Aboobakar
+### Paddy Cosgrave
 
-Founder of INTELITÉGEN
+Co-founder & CEO at Web Summit
 
 [](#elementor-action%3Aaction%3Dpopup%3Aclose%26settings%3DeyJkb19ub3Rfc2hvd19hZ2FpbiI6IiJ9)
 
-### Adil Aboobakar
+### Paddy Cosgrave
 
-Founder of INTELITÉGEN
+Co-founder & CEO at Web Summit
 
-Adil Aboobakar, CFA is an investment professional with global expertise in business valuation, financial modeling, and corporate finance. He is the Founder of [INTELITÉGEN](https://www.iegen.pro/), a firm dedicated to ethical business facilitation, and has held senior roles at Notz Stucki Origins, ECR Advisors, and AfrAsia Bank.
+Paddy Cosgrave is an entrepreneur and Founder of [Web Summit](https://websummit.com/), one of the world’s largest technology conferences. He has helped shape global startup ecosystems by connecting founders, investors, and policymakers.
 
-A CFA charterholder, Adil advises clients on investment strategy, capital raising, and cross-border solutions, with a focus on unlocking value, driving growth, and advancing fairer, more equitable capital markets.
+Paddy advises on growth, international expansion, and building high-impact technology communities.
 
 ### Paul Biggar
 
