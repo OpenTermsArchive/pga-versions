@@ -1,326 +1,80 @@
-◈ More than social media.
+Community Guidelines
+====================
 
-Your voice.  
-Your audience.  
-Your platform.
-=============================================
+UPDATED: March 17, 2025
 
-Social Media That Respects You
+Our Commitment to You
 
-Parler is the social platform for creators, brands, and communities who want stronger reach, real connection, and more control over what they build.
-
-Speak Freely
-------------
-
-Open expression matters.
-
-Connect Directly
-----------------
-
-Real people. Real community.
-
-Build Value
------------
-
-More than likes and views.
-
-[Join Parler](https://app.parler.com/)[Explore the ecosystem](#ecosystem)
-
-![Home screen](/_next/image?url=%2Fscreenshots%2FHome_Template.png&w=3840&q=75)
-
-HomeBurstsLoungesDMsProfile
-
-Discover
-
-A social home base for conversations, posts, and creators you actually follow.
-
-Our mission
-
-Different Communities, One Humanity
------------------------------------
-
-Real voices, real communities, real opportunity.
-
-Own your audience
------------------
-
-Build direct relationships that last.
-
-Speak freely
-------------
-
-Share ideas without invisible throttling.
-
-Monetize natively
------------------
-
-Turn attention into value inside one system.
-
-Keep your upside
-----------------
-
-Keep more control over what you build.
-
-◎ The Parler Shift
-
-We're Building A Platform  
-Where Humans Come First
----------------------------------------------------
-
-Community and creativity made the internet valuable. We think users should share in that value too.
-
-Platforms came first
-
-### The old way
-
-*   −Users created value, platforms kept it
-*   −Reach was rented
-*   −Community felt disposable
-*   −The internet felt noisy
-*   −Monetization required extra tools
-*   −Attention was borrowed
-*   −Growth depended on permission
-*   −Social became performative
-*   −Platforms extracted
-
-People come first
-
-### The Parler way
-
-*   Users share in the value they create
-*   Audience relationships are direct
-*   Community is the product
-*   The internet feels human again
-*   Monetization is built in
-*   Opportunity is built
-*   Growth compounds through connection
-*   Social becomes social again
-*   Platforms empower
-
-Parler Earn
-
-More ways to earn from the audience you build.
-----------------------------------------------
-
-Explore content revenue, products, premium access, Viral Inviter referrals, advertiser referrals, and the revenue share model behind the Parler creator economy.
-
-Content
-
-Products
-
-Network
-
-[Explore ways to earn](https://parler.com/earn)
-
-◎ Parler platform features
-
-Everything starts with  
-a better social layer.
------------------------------------------------
-
-Explore the core Parler surfaces built for discovery, conversation, community, and ownership.
-
-DiscoverHomeCreateBurstsGatherLoungesConnectDMsOwnProfile
-
-Discover
-
-### A social home base that puts people back in the feed.
-
-Parler brings posts, creators, and conversations into a cleaner daily surface built around direct connection.
-
-Follow creators and communities directly
-
-Discover posts without losing the human signal
-
-Move naturally from content to conversation
-
-![Home screen](/_next/image?url=%2Fscreenshots%2FHome_Template.png&w=3840&q=75)
-
-![](/_next/image?url=%2Fframes%2Fiphone-border-2.png&w=3840&q=75)
-
-◎ The ecosystem
-
-The connected ecosystem  
-built for direct relationships.
----------------------------------------------------------
-
-Individually powerful. Together, an interconnected experience where audience, content, commerce, payments, and infrastructure reinforce the same audience loop.
-
-![PARLER](/icons/parler-social.svg)
-
-PARLER
-
-audience
-
-![PLAY](/icons/play.svg)
-
-PLAY
-
-video
-
-![BLU](/icons/blu-icon.png)
-
-BLU
-
-conversation
-
-![STUDIO](/icons/studio-icon.png)
-
-STUDIO
-
-creation
-
-![SHOP](/icons/shop-icon.png)
-
-SHOP
-
-commerce
-
-![PAY](/icons/pay.svg)
-
-PAY
-
-value
-
-![TRITON](/icons/triton.svg)
-
-TRITON
-
-cloud
-
-![BLOCKCHAIN](/icons/blockchain-icon.png)
-
-BLOCKCHAIN
-
-ownership
-
-![Parler](/icons/parler-social.svg)PARLERcenter of gravity
-
-The system
-
-### Individually powerful.  
-Together, a system.
-
-Connected stack
-
-Not fragmented tools. Not disconnected platforms. A single architecture where every layer works together.
-
-Native value flow
-
-Content, community, commerce, and payments move together inside one system instead of being split across separate platforms.
-
-Independent rails
-
-Infrastructure is designed to be independently operated end to end, so the system is not dependent on someone else’s permission.
-
-Ownership by design
-
-Audience, data, and monetization stay connected and stay yours because ownership is built into the model itself.
-
-Built to last
-
-Independent, resilient, and fully integrated so no single dependency defines the outcome.
-
-◉ Ecosystem strength
-
-Parler at the center.  
-Everything else compounds around it.
-------------------------------------------------------------
-
-Parler is strongest when the social layer connects to the rest of the stack: video for deeper attention, Shop for native commerce, Pay for value flow, and Studio for creator operations.
-
-ParlerPlayShopPayStudio
-
-![Parler screenshot](/_next/image?url=%2Fscreenshots%2Fparler-home.png&w=3840&q=75)
-
-The social foundation
-
-### Start with the audience. Everything else gets stronger from there.
-
-Parler is the center of gravity. Your community, conversation, and distribution live here first, which makes every next move more valuable.
-
-Community feed, Lounges, and Bursts in one platform
-
-Distribution built around direct audience relationships
-
-A home base that connects naturally to monetization
-
-[Join Parler](https://app.parler.com/)
-
-◐ How it connects
-
-Create.  
-Grow.  
-Sell. Earn.
+Counter Speech vs. Censorship
 -----------------------------
 
-Most platforms stop at attention. Parler helps you turn attention into community, community into commerce, and commerce into income opportunities.
+We honor the ability of all users to freely express themselves without interference from oppressive censorship or manipulation. In the interest of cultivating a welcoming and inclusive community for all users, we simultaneously acknowledge the harmful impact of hate speech and reject censorship in favor of counter-speech. Users are encouraged to engage positively in discourse when confronted with hate speech, promoting the power of free speech to dissuade, debunk, and disarm hate speech. Creating a respectful and constructive dialogue is a collective responsibility.
 
-[Learn more about Create](https://parler.com/creators)
+Our commitment is to remain viewpoint neutral and objective, providing tools for users to manage content exposure. To tailor your own experience, we encourage you to mute or block followers to create your desired content flow.
 
-1
+We stress the importance of having boundaries to ensure a secure space for everyone to participate in constructive discussions. The following [Community Guidelines](https://parler.com/community-guidelines) detail the types of content and engagement that will not be tolerated on our Services and can result in account restrictions, deletions, and/or permanent bans in accordance with our Guidelines Compliance Process. However, the [Community Guidelines](https://parler.com/community-guidelines) are just that - guidelines. We may review any and all content and take any action that we deem appropriate to preserve our values and the integrity of the platform. We may also revise these [Community Guidelines](https://parler.com/community-guidelines) at any time at our sole and absolute discretion, with or without prior notice.
 
-### Create
+Prohibited Content
+------------------
 
-Publish on Parler and expand into Play with one identity.
+*   Intellectual Property Misuse or Theft: Unauthorized use of another's intellectual property without explicit written permission is strictly prohibited. This includes the unauthorized use of another's trademarks, music, images, videos, or other creative works.
+*   Spam: Disruptive, repetitive, and/or irrelevant, comments detracting from conversations are considered spam and are prohibited.
+*   Unsolicited Advertisements: Posting unsolicited advertisements irrelevant to the existing conversation is prohibited.
+*   Pornographic and Explicit Content: Content featuring pornographic images or depictions, nudity, explicit adult material or language, or any illegal activities is strictly prohibited.
+*   Fraud: Content employing deception to gain value is a violation.
+*   Threats: Serious expression of intent to commit unlawful acts towards individuals or groups are strictly prohibited.
+*   Incitement: Direct or implicit calls for lawless action with intent are prohibited.
+*   Criminal Solicitation: Content soliciting illegal goods, services, acts, or bribery is prohibited.
+*   Doxing: Sharing or threatening to share personally identifiable or private information with the intent to incite harm is prohibited.
+*   Sexualization of Minors: Regardless of intent, content sexualizing or exploiting minors is strictly prohibited.
+*   Impersonation: Users are prohibited from impersonating another individual or business or using their likeness without explicit prior written permission.
+*   Terrorism: Individuals, organizations, or ideology associated with terrorism or hate groups are not permitted on our platform. If they are discovered to exist on the platform, they will be removed immediately and reported to the proper law enforcement authorities. For a list of terrorist organizations, please consult the US Dept of State Website: [https://www.state.gov/foreign-terrorist-organizations/](https://www.state.gov/foreign-terrorist-organizations/)
+*   Automation or Bot Accounts: Accounts exhibiting automated or bot-like behavior that is disruptive to the Services are prohibited.
+*   Excessive Gore: Content that includes images or videos depicting excessive gore, blood, graphic injuries, visible innards, charred bodies, or deceased humans or animals is subject to filters or removal depending on severity and intent.
 
-2
+Child Sexual Abuse and Exploitation (CSAE) Policy and Guidelines
+----------------------------------------------------------------
 
-### Grow
+Parler strictly prohibits any form of child sexual abuse and exploitation (CSAE) on its platform. Content that promotes, depicts, or facilitates CSAE is not tolerated and will be removed immediately.
 
-Build direct relationships through community and conversation.
+Prohibited Content: Users may not upload, share, or distribute any material related to CSAE, including but not limited to images, videos, texts, or materials that promote, glorify, or facilitate such conduct.
 
-3
+Zero-Tolerance Enforcement: Any user found engaging in CSAE-related activities will have their account permanently terminated and may be reported to the appropriate law enforcement authorities.
 
-### Sell
+Automated and Human Moderation: Parler employs AI-based detection tools (via Hive Moderation), hash-matching technology, and human moderators to identify and remove CSAE content proactively. Any flagged content will be reviewed promptly.
 
-Monetize through products, subscriptions, and offers natively.
+Reporting Mechanism: Users are encouraged to report CSAE-related content or activities via the app feedback form, our support request form at [https://parler-support.zendesk.com/hc/en-us/requests/new,](https://parler-support.zendesk.com/hc/en-us/requests/new,) or by emailing [support@parler.com](mailto:support@parler.com). Reports are confidential and will be handled with urgency.
 
-4
+Law Enforcement Cooperation: Parler collaborates with law enforcement agencies, the National Center for Missing & Exploited Children (NCMEC), and other regulatory bodies to report and remove CSAE-related content.
 
-### Earn
-
-Get paid inside one connected system designed to help you keep more upside.
-
-Parler Ads
-
-A native ad network for the social commerce era.
-------------------------------------------------
-
-Parler Ads is being designed to help brands reach creators, communities, and shopping moments across the Parler ecosystem while keeping the experience native to the relationship.
-
-Social context
-
-Creator surfaces
-
-Commerce moments
-
-[Explore Parler Ads](https://parler.com/ads)
-
-◈ Built for a specific kind of ambition
-
-Not for everyone.  
-Exactly for the right people.
--------------------------------------------------
-
-### For creators building something bigger than views
-
-If you want direct audience relationships, cleaner monetization, and more leverage across your content, Parler is built for you.
-
-### For brands that want direct community, not borrowed attention
-
-Parler helps brands build more durable audience relationships instead of relying on a platform to mediate every touchpoint.
-
-### For communities that want stronger foundations
-
-This is for people who care about open dialogue, durable relationships, and community tools that can grow over time.
-
-![Parler](/_next/image?url=%2Flogos%2Fparler-alternate.png&w=640&q=75)
-
-Your voice matters.  
-Own what it builds.
+Moderator Training and Policy Enforcement
 -----------------------------------------
 
-Join the people, creators, brands, and communities who want a stronger home base, a cleaner system, and more control over what comes next.
+Parler has a strict CSAE moderation and enforcement policy in place. All moderators receive mandatory training to effectively identify, assess, and take immediate action on CSAE-related violations. This training ensures that moderators are equipped to:
 
-[Join Parler](https://app.parler.com/)[Contact](https://parler.com/contact)
+*   Recognize CSAE-related content and grooming behaviors.
+*   Use AI detection tools and reporting workflows effectively. (Hive Moderation)
+*   Enforce Parler's zero-tolerance CSAE policy in accordance with legal requirements.
+*   Work alongside compliance and law enforcement teams when necessary.
+
+Parler is committed to continuous improvement and ongoing training for its moderation team to ensure a safe and lawful platform for all users.
+
+Guideline Compliance Process
+----------------------------
+
+Sensitivity Filter: Parler reserves the right to place a Sensitivity Filter on potentially offensive or sensitive content in lieu of removing or banning the content. By implementing such a filter, Parler aims to uphold the tenets of free speech while also protecting users from encountering content that may be inappropriate or distressing. Users are able to choose to view the content anyways or continue scrolling past the post in their feed.
+
+Web-Only Filter: To keep Parler accessible to users on all available platforms, Parler reserves the right to add a Web-Only Filter to ensure compliance with app store policies. This means some content, while restricted on mobile apps, will still be accessible on our web version at app.parler.com. This filter is applied to adhere to app store regulations that all publicly available apps must abide by. We are committed to maintaining a platform that supports free speech within the framework set by external requirements.
+
+Permanent Content/User Removal: We believe in user autonomy, but content or users may be removed for Spam, Doxing, unauthorized Automation ("Bots"), or under conditions mandated by Federal Law. All other violations may result in a time-out.
+
+Time Out: Violations of these [Community Guidelines](https://parler.com/community-guidelines) may lead to content removal and a temporary suspension (a "Time Out"). This serves as an opportunity for users to reassess their actions, encouraging responsible behavior while upholding the values of our community. Repeated offenses could result in subsequent Time Outs or the responsible user account being banned and deleted.
+
+Pornography and Illegal Content: To maintain a safe and constructive platform, any user activity deemed by our moderation team to be pornographic, especially child pornography, exploitative, or in violation of federal law will not be tolerated. Users engaging in such behavior may face immediate deletion and expulsion from the platform, and if applicable, be reported to the proper law enforcement authorities.
+
+Compliance Appeal Process
+-------------------------
+
+If you believe a moderation decision was made in error, initiate an appeal through the app feedback form or by emailing [support@parler.com](mailto:support@parler.com). Our team will thoroughly review and consider your appeal.
+
+Thank you for your cooperation as we uphold community standards and strive to create a positive and secure environment for all users. For questions or assistance, contact us through the app feedback form or by emailing [support@parler.com](mailto:support@parler.com).
