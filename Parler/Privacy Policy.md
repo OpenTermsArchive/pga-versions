@@ -1,326 +1,84 @@
-◈ More than social media.
+Parler Privacy Policy
+=====================
 
-Your voice.  
-Your audience.  
-Your platform.
-=============================================
+Updated: October 29, 2025
 
-Social Media That Respects You
+Parler Technologies, Inc., and its affiliates ("Company," "Parler" "we," "our," and/or "us") value the privacy of individuals who use our social news applications, the websites where this [Privacy Policy](https://parler.com/privacy-policy) is posted ("Websites"), and related services (collectively, our "Services"). This privacy policy (the "[Privacy Policy](https://parler.com/privacy-policy)") explains how we collect, use, and share information from our users ("Users," "you," and/or "your") to facilitate your commenting, social news, and influencer networking experience.
 
-Parler is the social platform for creators, brands, and communities who want stronger reach, real connection, and more control over what they build.
+By using our Services, you agree to the collection, use, disclosure, and procedures this [Privacy Policy](https://parler.com/privacy-policy) describes. Beyond the [Privacy Policy](https://parler.com/privacy-policy), your use of our Services is also subject to our [Terms of Service](https://parler.com/terms-of-service).
 
-Speak Freely
-------------
+We neither sell your information to third parties nor share your information with governments except in the limited circumstances described in this [Privacy Policy](https://parler.com/privacy-policy).
 
-Open expression matters.
+Information We Collect
+----------------------
 
-Connect Directly
-----------------
+"Personal Information" is information that identifies, relates to, describes, or can be reasonably linked to, directly or indirectly, a particular individual or household. We may collect Personal Information from you on or through the Services in a variety of ways, including when you register on the Services, sign up for communications, or make any purchases.
 
-Real people. Real community.
-
-Build Value
------------
-
-More than likes and views.
-
-[Join Parler](https://app.parler.com/)[Explore the ecosystem](#ecosystem)
-
-![Home screen](/_next/image?url=%2Fscreenshots%2FHome_Template.png&w=3840&q=75)
-
-HomeBurstsLoungesDMsProfile
-
-Discover
-
-A social home base for conversations, posts, and creators you actually follow.
-
-Our mission
-
-Different Communities, One Humanity
------------------------------------
-
-Real voices, real communities, real opportunity.
-
-Own your audience
------------------
-
-Build direct relationships that last.
-
-Speak freely
-------------
-
-Share ideas without invisible throttling.
-
-Monetize natively
------------------
-
-Turn attention into value inside one system.
-
-Keep your upside
-----------------
-
-Keep more control over what you build.
-
-◎ The Parler Shift
-
-We're Building A Platform  
-Where Humans Come First
----------------------------------------------------
-
-Community and creativity made the internet valuable. We think users should share in that value too.
-
-Platforms came first
-
-### The old way
-
-*   −Users created value, platforms kept it
-*   −Reach was rented
-*   −Community felt disposable
-*   −The internet felt noisy
-*   −Monetization required extra tools
-*   −Attention was borrowed
-*   −Growth depended on permission
-*   −Social became performative
-*   −Platforms extracted
-
-People come first
-
-### The Parler way
-
-*   Users share in the value they create
-*   Audience relationships are direct
-*   Community is the product
-*   The internet feels human again
-*   Monetization is built in
-*   Opportunity is built
-*   Growth compounds through connection
-*   Social becomes social again
-*   Platforms empower
-
-Parler Earn
-
-More ways to earn from the audience you build.
-----------------------------------------------
-
-Explore content revenue, products, premium access, Viral Inviter referrals, advertiser referrals, and the revenue share model behind the Parler creator economy.
-
-Content
-
-Products
-
-Network
-
-[Explore ways to earn](https://parler.com/earn)
-
-◎ Parler platform features
-
-Everything starts with  
-a better social layer.
------------------------------------------------
-
-Explore the core Parler surfaces built for discovery, conversation, community, and ownership.
-
-DiscoverHomeCreateBurstsGatherLoungesConnectDMsOwnProfile
-
-Discover
-
-### A social home base that puts people back in the feed.
-
-Parler brings posts, creators, and conversations into a cleaner daily surface built around direct connection.
-
-Follow creators and communities directly
-
-Discover posts without losing the human signal
-
-Move naturally from content to conversation
-
-![Home screen](/_next/image?url=%2Fscreenshots%2FHome_Template.png&w=3840&q=75)
-
-![](/_next/image?url=%2Fframes%2Fiphone-border-2.png&w=3840&q=75)
-
-◎ The ecosystem
-
-The connected ecosystem  
-built for direct relationships.
----------------------------------------------------------
-
-Individually powerful. Together, an interconnected experience where audience, content, commerce, payments, and infrastructure reinforce the same audience loop.
-
-![PARLER](/icons/parler-social.svg)
-
-PARLER
-
-audience
-
-![PLAY](/icons/play.svg)
-
-PLAY
-
-video
-
-![BLU](/icons/blu-icon.png)
-
-BLU
-
-conversation
-
-![STUDIO](/icons/studio-icon.png)
-
-STUDIO
-
-creation
-
-![SHOP](/icons/shop-icon.png)
-
-SHOP
-
-commerce
-
-![PAY](/icons/pay.svg)
-
-PAY
-
-value
-
-![TRITON](/icons/triton.svg)
-
-TRITON
-
-cloud
-
-![BLOCKCHAIN](/icons/blockchain-icon.png)
-
-BLOCKCHAIN
-
-ownership
-
-![Parler](/icons/parler-social.svg)PARLERcenter of gravity
-
-The system
-
-### Individually powerful.  
-Together, a system.
-
-Connected stack
-
-Not fragmented tools. Not disconnected platforms. A single architecture where every layer works together.
-
-Native value flow
-
-Content, community, commerce, and payments move together inside one system instead of being split across separate platforms.
-
-Independent rails
-
-Infrastructure is designed to be independently operated end to end, so the system is not dependent on someone else’s permission.
-
-Ownership by design
-
-Audience, data, and monetization stay connected and stay yours because ownership is built into the model itself.
-
-Built to last
-
-Independent, resilient, and fully integrated so no single dependency defines the outcome.
-
-◉ Ecosystem strength
-
-Parler at the center.  
-Everything else compounds around it.
-------------------------------------------------------------
-
-Parler is strongest when the social layer connects to the rest of the stack: video for deeper attention, Shop for native commerce, Pay for value flow, and Studio for creator operations.
-
-ParlerPlayShopPayStudio
-
-![Parler screenshot](/_next/image?url=%2Fscreenshots%2Fparler-home.png&w=3840&q=75)
-
-The social foundation
-
-### Start with the audience. Everything else gets stronger from there.
-
-Parler is the center of gravity. Your community, conversation, and distribution live here first, which makes every next move more valuable.
-
-Community feed, Lounges, and Bursts in one platform
-
-Distribution built around direct audience relationships
-
-A home base that connects naturally to monetization
-
-[Join Parler](https://app.parler.com/)
-
-◐ How it connects
-
-Create.  
-Grow.  
-Sell. Earn.
+Information You Provide to Us
 -----------------------------
 
-Most platforms stop at attention. Parler helps you turn attention into community, community into commerce, and commerce into income opportunities.
+Registration and Profile Information. When you sign up for an account or update your profile information, we collect Personal Information you provide to us such as your name, email address, phone number, display name, profile photo, preferred language, date of birth, and any Personal Information you voluntarily provide in your profile biography.
 
-[Learn more about Create](https://parler.com/creators)
+Content you Share. We collect any information you choose to provide on our Services, such as posts, follows, photos, videos, gifs, comments, votes, and shares.
 
-1
+Payment Information. If you make a purchase through our Services, your payment-related Personal Information, such as your credit and debit card or ACH information, is collected and stored by our third-party payment processor on our behalf.
 
-### Create
+Communications. If you contact us directly, we receive additional Personal Information about you. For example, if you contact us for customer support, we may receive your name, email address, phone number, the contents of any message or attachments you may send to us.
 
-Publish on Parler and expand into Play with one identity.
-
-2
-
-### Grow
-
-Build direct relationships through community and conversation.
-
-3
-
-### Sell
-
-Monetize through products, subscriptions, and offers natively.
-
-4
-
-### Earn
-
-Get paid inside one connected system designed to help you keep more upside.
-
-Parler Ads
-
-A native ad network for the social commerce era.
+Information We Collect When You Use Our Services
 ------------------------------------------------
 
-Parler Ads is being designed to help brands reach creators, communities, and shopping moments across the Parler ecosystem while keeping the experience native to the relationship.
+Device and Location Information. We receive Device Identifiable Information about the device and software you use to access our Services, including IP address (from which approximate location may be inferred), device type, web browser type, operating system version, phone carrier and manufacturer.
 
-Social context
+Usage Information. We automatically receive Device Identifiable Information about your interactions with our Services, such as the posts or other content you view, the searches you conduct, the people you follow, and the dates and times of your visits.
 
-Creator surfaces
+Information from Cookies and Similar Technologies. We may collect information using cookies, pixel tags, and similar technologies. Cookies are small text files containing a string of alphanumeric characters.
 
-Commerce moments
+How We Use the Information We Collect
+-------------------------------------
 
-[Explore Parler Ads](https://parler.com/ads)
+*   To fulfill or meet requirements inherent in the reason you provided the information
+*   To create, customize, and secure your account for use of the Services
+*   To provide, maintain, and improve our Services
+*   To personalize your experience on our Services
+*   To understand and analyze how you use our Services
+*   To communicate with you and provide customer support
+*   For marketing and advertising purposes
+*   To facilitate transactions, redemptions, and payments
+*   To find and prevent fraud
+*   For compliance purposes
 
-◈ Built for a specific kind of ambition
+How We Share the Information We Collect
+---------------------------------------
 
-Not for everyone.  
-Exactly for the right people.
--------------------------------------------------
+Vendors and Service Providers. We may share any Personal Information we receive with vendors and service providers retained in connection with the provision of our Services.
 
-### For creators building something bigger than views
+Content you Share. Our Services are social services which allow you to find, enjoy, and share content. Your name, display name, profile photo, about me section, and contacts will always be viewable and/or searchable by other users.
 
-If you want direct audience relationships, cleaner monetization, and more leverage across your content, Parler is built for you.
+Marketing. We do not share personal data or Information about you with nonaffiliated third parties for their direct marketing purposes unless we have your affirmative express consent.
 
-### For brands that want direct community, not borrowed attention
+As Required By Law. We may access, preserve, and disclose your Personal Information if we believe doing so is required or appropriate to comply with law enforcement requests and legal process.
 
-Parler helps brands build more durable audience relationships instead of relying on a platform to mediate every touchpoint.
+Your Choices
+------------
 
-### For communities that want stronger foundations
+Sharing Preferences. We provide you with settings to allow you to set your sharing preferences for content you post to our Services.
 
-This is for people who care about open dialogue, durable relationships, and community tools that can grow over time.
+Marketing Communications. You can unsubscribe from our promotional emails by adjusting your account settings or via the link provided in the emails.
 
-![Parler](/_next/image?url=%2Flogos%2Fparler-alternate.png&w=640&q=75)
+Notifications. You can opt-out of receiving notifications by adjusting your profile and/or operating system settings.
 
-Your voice matters.  
-Own what it builds.
------------------------------------------
+Security
+--------
 
-Join the people, creators, brands, and communities who want a stronger home base, a cleaner system, and more control over what comes next.
+We make reasonable efforts to protect your Personal Information by using physical and electronic safeguards designed to improve the security of the Personal Information we maintain. However, no method of transmission or storage of data is 100% secure.
 
-[Join Parler](https://app.parler.com/)[Contact](https://parler.com/contact)
+Children's Data
+---------------
+
+We do not knowingly collect, maintain, or use Personal Information from children under 18 years of age, and no part of our Services is directed to children.
+
+Contact Information
+-------------------
+
+If you have any questions, comments, or concerns about our processing activities, please email us at [support@parler.com](mailto:support@parler.com) or write to us at Parler Privacy Request, 2801 Network Boulevard, Suite 300, Frisco, TX 75034.
