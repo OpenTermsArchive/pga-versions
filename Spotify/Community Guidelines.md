@@ -911,7 +911,7 @@ Spotify’s Digital Services Act Transparency Report
 
 Spotify's Digital Services Act Transparency Report includes an overview of our approach, including policies, practices and actions related to users’ content across Spotify’s intermediary services. This report reflects Spotify’s transparency and accountability about our approach.
 
-Spotify’s [Platform Rules](https://www.spotify.com/safetyandprivacy/platform-rules/) outline what is and is not allowed across our services. We consistently work to address illegal and harmful content uploaded by users while protecting users’ data and fundamental rights.
+Spotify’s [Platform Rules](https://www.spotify.com/safetyandprivacy/platform-rules/) outline what is and is not allowed across our services. Spotify recognises the importance of internationally established human rights principles and is committed to respecting them. We strive to protect freedom of opinions and expression, privacy, safety and security in the development and enforcement of our Platform Rules so we can provide an enjoyable experience for our global community. We consistently work to address illegal and harmful content uploaded by users while protecting users’ data and fundamental rights.
 
 [**Spotify Digital Services Act Transparency Report 2024**](https://www.spotify.com/safetyandprivacy/file/eu_2024_dsa_report_spotify)
 
