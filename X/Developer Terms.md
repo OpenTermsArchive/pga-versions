@@ -1,6 +1,13 @@
 X Developer Agreement
 =====================
 
+> Documentation Index
+> -------------------
+> 
+> Fetch the complete documentation index at: [https://docs.x.com/llms.txt](https://docs.x.com/llms.txt)
+> 
+> Use this file to discover all available pages before exploring further.
+
 Last Updated: April 27, 2026 By clicking “Accept & Subscribe”, continuing to pay the recurring subscription fee for Paid Services, or by otherwise accessing or using any Licensed Material, you agree to the terms of our Agreement. Subscriptions auto-renew until canceled, as described below. A verified phone number is required to subscribe. If you’ve subscribed through another platform, manage your subscription through that platform. This X Developer Agreement (“**Agreement**”) is a binding legal agreement between you (referred to in this Agreement as “**you**”) and X and governs your access to and use of the Licensed Material (defined below), including any Paid Services (defined below). By accessing or using any Licensed Material (defined below), or clicking on a button to accept the terms of this Agreement or recurring subscription payment for Paid Services, you agree to be bound by the terms of this Agreement. If you do not understand the terms herein or do not accept any part of them, then you may not use or access any Licensed Material. You may not use the Licensed Material or accept this Agreement if you are not of legal age to form a binding contract with X or if you are barred from using or receiving the Licensed Material under applicable law. To purchase and use a Paid Service you must: (i) be at least 18 years old or the age of majority as determined by the laws of the jurisdiction in which you live or (ii) have the express consent of your parent or guardian to purchase and use that Paid Service. If you are a parent or legal guardian and you allow your child (or a child that you are a guardian of) to purchase or use a Paid Service, you agree that the terms of this Agreement apply to you, you will abide by this Agreement, and you are responsible for the child’s activity on the Paid Services and for ensuring that the child also abides by the terms of this Agreement. In any case, as stated in the Who May Use the Services section of the [**X Terms of Service**](https://x.com/tos), you must be at least 13 years old to use the “Services” as defined in the X Terms of Service. If you are accepting this Agreement or using the Licensed Material on behalf of a company, organization, government, or other legal entity, you represent and warrant that you have the authority to bind such company, organization, government, or other legal entity to this Agreement, in which case the words “you” and “your” as used in this Agreement shall refer to such entity. If you do not agree to the terms of this Agreement, you may not (and you may not allow any of your personnel to) access or use the Licensed Material.\*\*\*\* **I. Definitions.** In this Agreement, the following definitions apply:
 
 1.  “**Developer Site**” means X’s developer site located at [**https://developer.x.com/**](https://developer.x.com/)
@@ -66,6 +73,13 @@ Ctrl+I
 
 X Developer Policy
 ==================
+
+> Documentation Index
+> -------------------
+> 
+> Fetch the complete documentation index at: [https://docs.x.com/llms.txt](https://docs.x.com/llms.txt)
+> 
+> Use this file to discover all available pages before exploring further.
 
 [​](#x-+-developers)
 
@@ -324,6 +338,13 @@ Ctrl+I
 
 Ads API Agreement
 =================
+
+> Documentation Index
+> -------------------
+> 
+> Fetch the complete documentation index at: [https://docs.x.com/llms.txt](https://docs.x.com/llms.txt)
+> 
+> Use this file to discover all available pages before exploring further.
 
 We have updated our Ads API Agreement. The changes below are effective as of February 23, 2025.
 
@@ -748,6 +769,13 @@ Ctrl+I
 X Developer PPU Agreement
 =========================
 
+> Documentation Index
+> -------------------
+> 
+> Fetch the complete documentation index at: [https://docs.x.com/llms.txt](https://docs.x.com/llms.txt)
+> 
+> Use this file to discover all available pages before exploring further.
+
 By clicking “Pay,” and purchasing credits for use on Paid Services, or by otherwise accessing or using any Licensed Material, you agree to the terms of our Agreement. Credits do not expire unless otherwise specified, and are not transferable or refundable except as required by law. A verified phone number is required to purchase Credits. This X Developer PPU Agreement (“**Agreement**”) is a binding legal agreement between you (referred to in this Agreement as “**you**”) and X and governs your access to and use of the Licensed Material (defined below), including any Paid Services (defined below). By accessing or using any Licensed Material (defined below), or clicking on a button to accept the terms of this Agreement or purchase credits for Paid Services, you agree to be bound by the terms of this Agreement. If you do not understand the terms herein or do not accept any part of them, then you may not use or access any Licensed Material. You may not use the Licensed Material or accept this Agreement if you are not of legal age to form a binding contract with X or if you are barred from using or receiving the Licensed Material under applicable law. To purchase and use a Paid Service you must: (i) be at least 18 years old or the age of majority as determined by the laws of the jurisdiction in which you live or (ii) have the express consent of your parent or guardian to purchase and use that Paid Service. If you are a parent or legal guardian and you allow your child (or a child that you are a guardian of) to purchase or use a Paid Service, you agree that the terms of this Agreement apply to you, you will abide by this Agreement, and you are responsible for the child’s activity on the Paid Services and for ensuring that the child also abides by the terms of this Agreement. In any case, as stated in the Who May Use the Services section of the [**X Terms of Service**](https://x.com/tos), you must be at least 13 years old to use the “Services” as defined in the X Terms of Service. If you are accepting this Agreement or using the Licensed Material on behalf of a company, organization, government, or other legal entity, you represent and warrant that you have the authority to bind such company, organization, government, or other legal entity to this Agreement, in which case the words “you” and “your” as used in this Agreement shall refer to such entity. If you do not agree to the terms of this Agreement, you may not (and you may not allow any of your personnel to) access or use the Licensed Material. I. **Definitions**. In this Agreement, the following definitions apply:
 
 1.  **“Credits”** means virtual units purchased by you to enable usage of Paid Services, with each API call or action deducting a specific number of Credits based on the Pricing Schedule. Credits are not refundable except as required by law, non-transferable, and do not expire unless otherwise specified.
@@ -760,6 +788,13 @@ Ctrl+I
 
 More about restricted uses of the X APIs
 ========================================
+
+> Documentation Index
+> -------------------
+> 
+> Fetch the complete documentation index at: [https://docs.x.com/llms.txt](https://docs.x.com/llms.txt)
+> 
+> Use this file to discover all available pages before exploring further.
 
 Use of our developer platform requires that you review and agree to our [Developer Agreement and Policy](https://docs.x.com/developer-terms/agreement), as well as our related policies, including the [Display Requirements](https://docs.x.com/developer-terms/display-requirements) and [Automation Rules](https://help.x.com/en/rules-and-policies/twitter-automation). Among other things, our agreements and policies provide guidance about several restricted use cases. We’ve provided additional information about some of these restrictions below.
 
@@ -861,6 +896,13 @@ Ctrl+I
 Geo guidelines
 ==============
 
+> Documentation Index
+> -------------------
+> 
+> Fetch the complete documentation index at: [https://docs.x.com/llms.txt](https://docs.x.com/llms.txt)
+> 
+> Use this file to discover all available pages before exploring further.
+
 Last Update: October 22, 2014.
 
 [​](#introduction)
@@ -927,6 +969,13 @@ Ctrl+I
 
 Display requirements: Posts
 ===========================
+
+> Documentation Index
+> -------------------
+> 
+> Fetch the complete documentation index at: [https://docs.x.com/llms.txt](https://docs.x.com/llms.txt)
+> 
+> Use this file to discover all available pages before exploring further.
 
 [​](#general-principles-and-post-anatomy)
 
