@@ -2085,7 +2085,7 @@ Information categories we use (see '[What Information do we collect?](https://pr
 
 [Information from partners, vendors and third parties](https://privacycenter.instagram.com/policy/?subpage=1.subpage.4-InformationFromPartnersVendors)
 
-                                              
+                                                                      
 
 Accept cookies from Instagram on this browser?
 
