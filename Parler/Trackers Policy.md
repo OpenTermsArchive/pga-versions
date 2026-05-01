@@ -26,13 +26,22 @@ More than likes and views.
 
 [Join Parler](https://app.parler.com/)[Explore the ecosystem](#ecosystem)
 
-![Home screen](/_next/image?url=%2Fscreenshots%2FHome_Template.png&w=3840&q=75)
+![Home screen](/_next/image?url=%2Fscreenshots%2FHome_Template.png&w=3840&q=75&dpl=dpl_CrmvBBj89bZC8MKn5xkbGX57ScDh)
 
 HomeBurstsLoungesDMsProfile
 
 Discover
 
 A social home base for conversations, posts, and creators you actually follow.
+
+Free guide
+
+The Creator Income Playbook
+---------------------------
+
+A practical, no-hype guide to the ten income streams modern creators stack: ad share, subscriptions, paid access, digital + physical products, referrals, and the tools that tie it all together.
+
+[Read the free guide](https://www.parler.com/guide)[Send me the PDF](https://www.parler.com/guide#get-playbook-pdf)
 
 Our mission
 
@@ -134,9 +143,9 @@ Discover posts without losing the human signal
 
 Move naturally from content to conversation
 
-![Home screen](/_next/image?url=%2Fscreenshots%2FHome_Template.png&w=3840&q=75)
+![Home screen](/_next/image?url=%2Fscreenshots%2FHome_Template.png&w=3840&q=75&dpl=dpl_CrmvBBj89bZC8MKn5xkbGX57ScDh)
 
-![](/_next/image?url=%2Fframes%2Fiphone-border-2.png&w=3840&q=75)
+![](/_next/image?url=%2Fframes%2Fiphone-border-2.png&w=3840&q=75&dpl=dpl_CrmvBBj89bZC8MKn5xkbGX57ScDh)
 
 ◎ The ecosystem
 
@@ -231,7 +240,7 @@ Parler is strongest when the social layer connects to the rest of the stack: vid
 
 ParlerPlayShopPayStudio
 
-![Parler screenshot](/_next/image?url=%2Fscreenshots%2Fparler-home.png&w=3840&q=75)
+![Parler screenshot](/_next/image?url=%2Fscreenshots%2Fparler-home.png&w=3840&q=75&dpl=dpl_CrmvBBj89bZC8MKn5xkbGX57ScDh)
 
 The social foundation
 
@@ -315,7 +324,7 @@ Parler helps brands build more durable audience relationships instead of relying
 
 This is for people who care about open dialogue, durable relationships, and community tools that can grow over time.
 
-![Parler](/_next/image?url=%2Flogos%2Fparler-alternate.png&w=640&q=75)
+![Parler](/_next/image?url=%2Flogos%2Fparler-alternate.png&w=640&q=75&dpl=dpl_CrmvBBj89bZC8MKn5xkbGX57ScDh)
 
 Your voice matters.  
 Own what it builds.
