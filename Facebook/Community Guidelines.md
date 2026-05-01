@@ -2538,7 +2538,9 @@ Content that shares or asks for private information, either on our services or t
 
 **Residential information**
 
-*   Content sharing full private residential addresses of others, including building name or pins on a map identifying the address (even if the pins are in an off-platform link), except in the following contexts:
+Content sharing information that makes a residence reasonably identifiable, such as:
+
+*   Content sharing full private residential addresses of others, including building name or pins on a map identifying the address (even if the information is in an off-platform link), except in the following contexts:
     
 
 *   when shared to promote charitable causes, facilitate finding missing people, animals, or owners of missing objects, or contact a business or service providers
@@ -2585,9 +2587,11 @@ Content that shares or asks for private information, either on our services or t
 *   The imagery of the residence is not being shared because the residence is the focus of a news story (except when shared in the context of organizing protests against the resident)
     
 
+Content asking for the following information:
+
 *   Content asking for private residential information of others (except when the residence is an official residence or embassy provided to a high-ranking public official)
     
-*   Content asking for location of safe houses or exposes information about safe houses by sharing any of the below (except when the safe house is actively promoting information about their facility)
+*   Content asking for location of safe houses or exposing information about safe houses by sharing any of the below (except when the safe house is actively promoting information about their facility)
     
 
 *   Actual address (Note: "Post Box only" is allowed)
