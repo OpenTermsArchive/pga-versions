@@ -411,9 +411,9 @@ Don’t post content on YouTube if it fits any of the descriptions below.
     *   Content that targets young minors and families with age-inappropriate themes within an educational, documentary, scientific, or artistic context may receive an exception. This is not a pass to target young minors and families with mature themes intended to shock young audiences.
     *   Family friendly cartoons that target young minors and contain adult or age-inappropriate themes such as violence, sex, death, drugs, and more. We don’t allow content labeled as suitable for kids in the video's title, description, tags, or in the audience selection if it contains age-inappropriate themes.
     *   Make sure your titles, descriptions, and tags match the audience you're targeting. In addition, ensure your [audience selection](https://support.google.com/youtube/answer/9528076) accurately represents the audience your content is suitable for. You can also age restrict your content upon upload if it’s intended for [mature audiences](https://support.google.com/youtube/answer/2950063).
-*   **Cyberbullying and harassment involving minors:** Content that:
+*   **Cyberbullying, harassment, and doxxing of minors:** Content that:
     *   Intends to shame, deceive or insult a minor
-    *   Reveals personal information like email addresses or bank account numbers
+    *   Reveals a minor’s personal information, such as email addresses or phone numbers, regardless of whether it is shared by others or the minor themself.
     *   Contains sexualization
     *   Encourages others to bully or harass
 
