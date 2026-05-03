@@ -841,17 +841,26 @@ Tobacco
 
 **Principle:** Products and services advertised on Reddit, regardless of their legality, should not have the potential to sicken, injure, or be addictive in a way that can adversely impact our users.
 
-**Policy:** Reddit prohibits ads promoting the use, sale, manufacturing, and branding of tobacco, tobacco alternatives, and other tobacco-related products and services.
+**Policy:** Reddit prohibits ads promoting the use, sale, manufacturing, and branding of tobacco, tobacco alternatives, and other tobacco-related products and services. Reddit allows ads promoting smoking cessation products and anti-smoking public safety announcements, with restrictions. Some of these products and services require direct management from a Reddit Sales Representative. [Contact Reddit sales](https://www.redditforbusiness.com/contact-us), or [schedule a call with us](https://www.redditforbusiness.com/book-a-meeting?utm_source=ads.reddit.com&utm_medium=referral&utm_campaign=expert-cta_rejection-notifications_product).
 
-Prohibited Tobacco and Related Products and Services
-----------------------------------------------------
+Prohibited Tobacco Related Products and Services
+------------------------------------------------
 
 *   Tobacco products e.g. cigarettes, cigars, snus, chewing tobacco, flavored tobacco
-*   Alternative tobacco products and tobacco substitutes e.g. electronic cigarettes, vaporizers, hookahs
+*   Alternative tobacco products and tobacco substitutes e.g. electronic cigarettes, vapes, hookahs
 *   All related and associated products e.g. rolling papers, vape dispensers
 *   Tobacco manufacturers
 *   Events and research sponsored by tobacco manufacturers
-*   Smoking cessation programs and products
+
+Permitted Tobacco Related Products and Services
+-----------------------------------------------
+
+*   Over the Counter Smoking Cessation Products
+    *   **Available Markets:** US, UK, France, Italy, Spain, Germany, Canada, Ireland, Netherlands, New Zealand, and Australia
+*   Prescription-only smoking cessation products
+    *   **Available Market:** US only
+*   Cessation Services e.g. for counseling and quitlines offering support
+*   Public Safety Announcements (PSAs) from government entities, public health organization, established non-profit organizations
 
 - - -
 
