@@ -451,14 +451,6 @@ Although we allow a variety of content to be shown on Twitch, content that featu
 
 *   Show content with death or extreme injury
 *   Browse 4chan, the dark web, or porn on Twitch
-*   Use randomized video chat services
-
-  Enforcement Notes and Clarifications:
-
-_Enforcement Notes are additional examples of what is and isn’t allowed on Twitch, focused on clarifying existing policies already being enforced. Updates here do not indicate a change in policy, but are additional examples of existing enforcements._
-
-*   Randomized video content that you can not control is never allowed under any circumstances due to the risks it poses to viewers of the stream.
-    *   Prohibited example: streaming Ome.tv interactions.
 
 ### Sexual Content
 
@@ -706,7 +698,6 @@ User accounts broadcasting or uploading content that feature gameplay from these
 This list is not exhaustive. We regularly update this list and games may be added or removed if the game's official ESRB rating changes or if the content of an unrated game changes. 
 
 *   3DXChat
-*   All Randomized Video Chat Platforms
 *   Artificial Girl 1, 2, & 3
 *   Artificial Academy 1 & 2
 *   Battle Rape
