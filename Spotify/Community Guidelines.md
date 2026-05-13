@@ -416,7 +416,7 @@ Spotify offers personalised listening to music, podcasts and audiobooks for user
 
 We are committed to providing age-appropriate experiences, and we have a long history of building with safety by design, thanks to partnerships with industry experts like Thorn, the Tech Coalition, WeProtect Alliance and the Internet Watch Foundation.
 
-We are now expanding testing of improved age-assurance technologies to selected markets, utilising our own internal age-estimation technology and partnering with Yoti, a trusted digital identity company. This technology will help us identify if users are of eligible age to access some Spotify content and features.
+We are now expanding testing of improved age assurance technologies to selected markets, utilising our own internal age estimation technology and partnering with Yoti, a trusted digital identity company. This technology will help us identify if users are of eligible age to access some Spotify content and features. This technology also supports our parental consent process for managed accounts, helping us verify that a parent or guardian is of eligible age to provide consent on behalf of a child.
 
 Some users will now have to confirm their age by going through an age-assurance process. For example, when a user attempts to watch a music video that has been labelled 18+ by the rights holder for that video, Spotify may serve a prompt for that user to confirm the user’s age. To do so, these users can use facial age-estimation technology or ID document verification through Yoti’s technology integrated into the Spotify app, built with privacy and security in mind.
 
