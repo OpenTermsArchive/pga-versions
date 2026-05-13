@@ -1,11 +1,3 @@
-Warning:
-
-The wait time to speak to an advisor is longer than usual.
-
-You might find a quicker solution on our [help site](https://support.spotify.com/creators/).
-
-Tue, 12 May 2026 11:58:49 GMT
-
 Spotify Partner Program Monetization Policies
 =============================================
 
@@ -34,14 +26,6 @@ Was this article helpful?
 
 - - -
 
-Warning:
-
-The wait time to speak to an advisor is longer than usual.
-
-You might find a quicker solution on our [help site](https://support.spotify.com/creators/).
-
-Tue, 12 May 2026 11:58:49 GMT
-
 Spotify Partner Program Monetization Policies
 =============================================
 
@@ -69,14 +53,6 @@ If we reasonably suspect abuse of our services in any way or see that your conte
 Was this article helpful?
 
 - - -
-
-Warning:
-
-The wait time to speak to an advisor is longer than usual.
-
-You might find a quicker solution on our [help site](https://support.spotify.com/creators/).
-
-Tue, 12 May 2026 11:58:49 GMT
 
 Spotify Partner Program Terms
 =============================
