@@ -1320,6 +1320,7 @@ Here are some examples of content that’s not allowed on YouTube.
 *   Footage filmed by the perpetrator during a deadly or major violent event, in which weapons, violence, or injured victims are visible or audible
 *   Links to external sites that contain manifestos of violent attackers
 *   Video game content which has been developed or modified (“modded”) to glorify a violent event, its perpetrators, or support violent criminal or terrorist organizations
+*   Inciting others to commit violent acts against individuals or a defined group of people
 *   Glorifying violence against civilians
 *   Fundraising for violent criminal, extremist, or terrorist organizations
 
