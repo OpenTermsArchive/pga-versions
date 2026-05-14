@@ -5,43 +5,11 @@ Your audience.
 Your platform.
 =============================================
 
-Social Media That Respects You
-
-Parler is the social platform for creators, brands, and communities who want stronger reach, real connection, and more control over what they build.
-
-Speak Freely
-------------
-
-Open expression matters.
-
-Connect Directly
-----------------
-
-Real people. Real community.
-
-Build Value
------------
-
-More than likes and views.
+Social media that respects you. Built for creators, brands, and communities who want real reach, real connection, and real ownership.
 
 [Join Parler](https://app.parler.com/)[Explore the ecosystem](#ecosystem)
 
-![Home screen](/_next/image?url=%2Fscreenshots%2FHome_Template.png&w=3840&q=75&dpl=dpl_CrmvBBj89bZC8MKn5xkbGX57ScDh)
-
-HomeBurstsLoungesDMsProfile
-
-Discover
-
-A social home base for conversations, posts, and creators you actually follow.
-
-Free guide
-
-The Creator Income Playbook
----------------------------
-
-A practical, no-hype guide to the ten income streams modern creators stack: ad share, subscriptions, paid access, digital + physical products, referrals, and the tools that tie it all together.
-
-[Read the free guide](https://www.parler.com/guide)[Send me the PDF](https://www.parler.com/guide#get-playbook-pdf)
+![Home screen](/_next/image?url=%2Fscreenshots%2FHome_Template.png&w=3840&q=75&dpl=dpl_A3FAB71jn2KwCxTjV6XRyLo5fSyd)
 
 Our mission
 
@@ -108,10 +76,10 @@ People come first
 
 Parler Earn
 
-More ways to earn from the audience you build.
-----------------------------------------------
+More ways to get paid for the audience you build.
+-------------------------------------------------
 
-Explore content revenue, products, premium access, Viral Inviter referrals, advertiser referrals, and the revenue share model behind the Parler creator economy.
+Content, products, and referral programs. Multiple ways to earn in one creator economy.
 
 Content
 
@@ -127,7 +95,7 @@ Everything starts with
 a better social layer.
 -----------------------------------------------
 
-Explore the core Parler surfaces built for discovery, conversation, community, and ownership.
+Discovery, conversation, community, and ownership — built in.
 
 DiscoverHomeCreateBurstsGatherLoungesConnectDMsOwnProfile
 
@@ -143,17 +111,17 @@ Discover posts without losing the human signal
 
 Move naturally from content to conversation
 
-![Home screen](/_next/image?url=%2Fscreenshots%2FHome_Template.png&w=3840&q=75&dpl=dpl_CrmvBBj89bZC8MKn5xkbGX57ScDh)
+![Home screen](/_next/image?url=%2Fscreenshots%2FHome_Template.png&w=3840&q=75&dpl=dpl_A3FAB71jn2KwCxTjV6XRyLo5fSyd)
 
-![](/_next/image?url=%2Fframes%2Fiphone-border-2.png&w=3840&q=75&dpl=dpl_CrmvBBj89bZC8MKn5xkbGX57ScDh)
+![](/_next/image?url=%2Fframes%2Fiphone-border-2.png&w=3840&q=75&dpl=dpl_A3FAB71jn2KwCxTjV6XRyLo5fSyd)
 
 ◎ The ecosystem
 
-The connected ecosystem  
-built for direct relationships.
----------------------------------------------------------
+You at the center.  
+Everything else compounds around you.
+----------------------------------------------------------
 
-Individually powerful. Together, an interconnected experience where audience, content, commerce, payments, and infrastructure reinforce the same audience loop.
+Audience, content, commerce, and payments — one connected loop.
 
 ![PARLER](/icons/parler-social.svg)
 
@@ -203,7 +171,7 @@ BLOCKCHAIN
 
 ownership
 
-![Parler](/icons/parler-social.svg)PARLERcenter of gravity
+YOUthe center
 
 The system
 
@@ -212,47 +180,47 @@ Together, a system.
 
 Connected stack
 
-Not fragmented tools. Not disconnected platforms. A single architecture where every layer works together.
+One architecture. Every layer works together.
 
 Native value flow
 
-Content, community, commerce, and payments move together inside one system instead of being split across separate platforms.
+Content, community, commerce, and payments — in one system.
 
 Independent rails
 
-Infrastructure is designed to be independently operated end to end, so the system is not dependent on someone else’s permission.
+End-to-end infrastructure. No outside permission required.
 
 Ownership by design
 
-Audience, data, and monetization stay connected and stay yours because ownership is built into the model itself.
+Audience, data, and monetization stay yours.
 
 Built to last
 
-Independent, resilient, and fully integrated so no single dependency defines the outcome.
+Independent, resilient, fully integrated.
 
 ◉ Ecosystem strength
 
-Parler at the center.  
-Everything else compounds around it.
-------------------------------------------------------------
+One identity.  
+A stack that compounds around you.
+--------------------------------------------------
 
-Parler is strongest when the social layer connects to the rest of the stack: video for deeper attention, Shop for native commerce, Pay for value flow, and Studio for creator operations.
+Social, video, commerce, payments, and creator tools — connected.
 
 ParlerPlayShopPayStudio
 
-![Parler screenshot](/_next/image?url=%2Fscreenshots%2Fparler-home.png&w=3840&q=75&dpl=dpl_CrmvBBj89bZC8MKn5xkbGX57ScDh)
+![Parler screenshot](/_next/image?url=%2Fscreenshots%2Fparler-home.png&w=3840&q=75&dpl=dpl_A3FAB71jn2KwCxTjV6XRyLo5fSyd)
 
 The social foundation
 
-### Start with the audience. Everything else gets stronger from there.
+### Start with the audience.
 
-Parler is the center of gravity. Your community, conversation, and distribution live here first, which makes every next move more valuable.
+Community, conversation, and distribution — all in one place.
 
-Community feed, Lounges, and Bursts in one platform
+Feed, Lounges, and Bursts
 
-Distribution built around direct audience relationships
+Direct audience relationships
 
-A home base that connects naturally to monetization
+Built-in path to monetization
 
 [Join Parler](https://app.parler.com/)
 
@@ -263,7 +231,7 @@ Grow.
 Sell. Earn.
 -----------------------------
 
-Most platforms stop at attention. Parler helps you turn attention into community, community into commerce, and commerce into income opportunities.
+Attention into community. Community into commerce. Commerce into income.
 
 [Learn more about Create](https://www.parler.com/creators)
 
@@ -296,7 +264,7 @@ Parler Ads
 A native ad network for the social commerce era.
 ------------------------------------------------
 
-Parler Ads is being designed to help brands reach creators, communities, and shopping moments across the Parler ecosystem while keeping the experience native to the relationship.
+Reach creators, communities, and shopping moments — natively, across the ecosystem.
 
 Social context
 
@@ -314,22 +282,35 @@ Exactly for the right people.
 
 ### For creators building something bigger than views
 
-If you want direct audience relationships, cleaner monetization, and more leverage across your content, Parler is built for you.
+Direct audience relationships and cleaner monetization.
 
 ### For brands that want direct community, not borrowed attention
 
-Parler helps brands build more durable audience relationships instead of relying on a platform to mediate every touchpoint.
+Durable relationships, not platform-mediated touchpoints.
 
 ### For communities that want stronger foundations
 
-This is for people who care about open dialogue, durable relationships, and community tools that can grow over time.
+Open dialogue and tools that grow with you.
 
-![Parler](/_next/image?url=%2Flogos%2Fparler-alternate.png&w=640&q=75&dpl=dpl_CrmvBBj89bZC8MKn5xkbGX57ScDh)
+Free guide
+
+The Creator Income Playbook
+---------------------------
+
+Ten ways creators earn online today. Free PDF, straight to your inbox.
+
+Educational. Not financial advice.
+
+Email addressGet the guide
+
+We'll send the PDF and occasional creator updates. Unsubscribe anytime.
+
+![Parler](/_next/image?url=%2Flogos%2Fparler-alternate.png&w=640&q=75&dpl=dpl_A3FAB71jn2KwCxTjV6XRyLo5fSyd)
 
 Your voice matters.  
 Own what it builds.
 -----------------------------------------
 
-Join the people, creators, brands, and communities who want a stronger home base, a cleaner system, and more control over what comes next.
+A stronger home base. A cleaner system. More control.
 
 [Join Parler](https://app.parler.com/)[Contact](https://www.parler.com/contact)
