@@ -9,7 +9,7 @@ Social media that respects you. Built for creators, brands, and communities who 
 
 [Join Parler](https://app.parler.com/)[Explore the ecosystem](#ecosystem)
 
-![Home screen](/_next/image?url=%2Fscreenshots%2FHome_Template.png&w=3840&q=75&dpl=dpl_A3FAB71jn2KwCxTjV6XRyLo5fSyd)
+![Home screen](/_next/image?url=%2Fscreenshots%2FHome_Template.png&w=3840&q=75&dpl=dpl_GuwPLXUzHmir27sW3rvruka17z3N)
 
 Our mission
 
@@ -111,9 +111,9 @@ Discover posts without losing the human signal
 
 Move naturally from content to conversation
 
-![Home screen](/_next/image?url=%2Fscreenshots%2FHome_Template.png&w=3840&q=75&dpl=dpl_A3FAB71jn2KwCxTjV6XRyLo5fSyd)
+![Home screen](/_next/image?url=%2Fscreenshots%2FHome_Template.png&w=3840&q=75&dpl=dpl_GuwPLXUzHmir27sW3rvruka17z3N)
 
-![](/_next/image?url=%2Fframes%2Fiphone-border-2.png&w=3840&q=75&dpl=dpl_A3FAB71jn2KwCxTjV6XRyLo5fSyd)
+![](/_next/image?url=%2Fframes%2Fiphone-border-2.png&w=3840&q=75&dpl=dpl_GuwPLXUzHmir27sW3rvruka17z3N)
 
 ◎ The ecosystem
 
@@ -208,7 +208,7 @@ Social, video, commerce, payments, and creator tools — connected.
 
 ParlerPlayShopPayStudio
 
-![Parler screenshot](/_next/image?url=%2Fscreenshots%2Fparler-home.png&w=3840&q=75&dpl=dpl_A3FAB71jn2KwCxTjV6XRyLo5fSyd)
+![Parler screenshot](/_next/image?url=%2Fscreenshots%2Fparler-home.png&w=3840&q=75&dpl=dpl_GuwPLXUzHmir27sW3rvruka17z3N)
 
 The social foundation
 
@@ -305,7 +305,7 @@ Email addressGet the guide
 
 We'll send the PDF and occasional creator updates. Unsubscribe anytime.
 
-![Parler](/_next/image?url=%2Flogos%2Fparler-alternate.png&w=640&q=75&dpl=dpl_A3FAB71jn2KwCxTjV6XRyLo5fSyd)
+![Parler](/_next/image?url=%2Flogos%2Fparler-alternate.png&w=640&q=75&dpl=dpl_GuwPLXUzHmir27sW3rvruka17z3N)
 
 Your voice matters.  
 Own what it builds.
