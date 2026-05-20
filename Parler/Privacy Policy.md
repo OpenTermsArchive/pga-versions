@@ -3,11 +3,11 @@ Parler Privacy Policy
 
 Updated: October 29, 2025
 
-Parler Technologies, Inc., and its affiliates ("Company," "Parler" "we," "our," and/or "us") value the privacy of individuals who use our social news applications, the websites where this [Privacy Policy](https://parler.com/privacy-policy) is posted ("Websites"), and related services (collectively, our "Services"). This privacy policy (the "[Privacy Policy](https://parler.com/privacy-policy)") explains how we collect, use, and share information from our users ("Users," "you," and/or "your") to facilitate your commenting, social news, and influencer networking experience.
+Parler Technologies, Inc., and its affiliates ("Company," "Parler" "we," "our," and/or "us") value the privacy of individuals who use our social news applications, the websites where this Privacy Policy is posted ("Websites"), and related services (collectively, our "Services"). This privacy policy (the "Privacy Policy") explains how we collect, use, and share information from our users ("Users," "you," and/or "your") to facilitate your commenting, social news, and influencer networking experience.
 
-By using our Services, you agree to the collection, use, disclosure, and procedures this [Privacy Policy](https://parler.com/privacy-policy) describes. Beyond the [Privacy Policy](https://parler.com/privacy-policy), your use of our Services is also subject to our [Terms of Service](https://parler.com/terms-of-service).
+By using our Services, you agree to the collection, use, disclosure, and procedures this Privacy Policy describes. Beyond the Privacy Policy, your use of our Services is also subject to our Terms of Service.
 
-We neither sell your information to third parties nor share your information with governments except in the limited circumstances described in this [Privacy Policy](https://parler.com/privacy-policy).
+We neither sell your information to third parties nor share your information with governments except in the limited circumstances described in this Privacy Policy.
 
 Information We Collect
 ----------------------
@@ -81,4 +81,4 @@ We do not knowingly collect, maintain, or use Personal Information from children
 Contact Information
 -------------------
 
-If you have any questions, comments, or concerns about our processing activities, please email us at [support@parler.com](mailto:support@parler.com) or write to us at Parler Privacy Request, 2801 Network Boulevard, Suite 300, Frisco, TX 75034.
+If you have any questions, comments, or concerns about our processing activities, please email us at support@parler.com or write to us at Parler Privacy Request, 2801 Network Boulevard, Suite 300, Frisco, TX 75034.
