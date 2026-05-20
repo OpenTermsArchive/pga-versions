@@ -3,7 +3,7 @@ Parler Terms of Service
 
 Modified: January 6, 2026
 
-These terms govern your relationship with Parler Technologies, Inc. ("Parler") and your use of and access to all services, websites, and products provided by Parler (collectively, the Services). You agree that by accessing or using any part of the Services you are bound by the terms of this Agreement (the Terms), including the applicable [Privacy Policy](https://parler.com/privacy-policy) and [Community Guidelines](https://parler.com/community-guidelines) incorporated herein.
+These terms govern your relationship with Parler Technologies, Inc. ("Parler") and your use of and access to all services, websites, and products provided by Parler (collectively, the Services). You agree that by accessing or using any part of the Services you are bound by the terms of this Agreement (the Terms), including the applicable Privacy Policy and Community Guidelines incorporated herein.
 
 You may not use the Services unless all of the following apply to you, and you affirm that all of the following apply to you:
 
@@ -15,7 +15,7 @@ You may not use the Services unless all of the following apply to you, and you a
 User Content and Privacy
 ------------------------
 
-The Parler [Privacy Policy](https://parler.com/privacy-policy) describes what Parler can do with information about you received by Parler when you use the Services. You agree to the terms of the [Privacy Policy](https://parler.com/privacy-policy), including the transfer of information to other countries for storage, processing, and use, if applicable.
+The Parler Privacy Policy describes what Parler can do with information about you received by Parler when you use the Services. You agree to the terms of the Privacy Policy, including the transfer of information to other countries for storage, processing, and use, if applicable.
 
 Any content that you post to the Services must satisfy all of the following criteria, and you affirm that any content posted, submitted, or otherwise provided by you to the Services satisfies these criteria:
 
@@ -23,14 +23,14 @@ Any content that you post to the Services must satisfy all of the following crit
 *   The content and the purpose for posting it complies with all laws, rules, and regulations that may apply.
 *   The content does not infringe the intellectual property rights (such as copyrights and trademark rights) of any other person or entity.
 *   The content does not include non-public personal private information belonging to someone else, such as another person's birthdate, home address, or telephone number.
-*   The content complies with the Parler [Community Guidelines](https://parler.com/community-guidelines).
+*   The content complies with the Parler Community Guidelines.
 
 You are responsible for your use of the Services and for any content that you post. Parler does not endorse, support, represent, or affirm the completeness, truthfulness, accuracy, or reliability of any of the content posted through the Services, nor does Parler endorse any opinions expressed through the Services. All content is the sole responsibility of the person who originated the content, and Parler does not take responsibility for such content.
 
 YouTube Content
 ---------------
 
-With respect to any content you contribute that uses YouTube services via Parler, you affirm that—in addition to complying with Parler's own Terms and [Community Guidelines](https://parler.com/community-guidelines)—you are also complying with YouTube's more restrictive Terms. Users are encouraged to use Parler's own native video capabilities whenever they wish to avoid the application of these more restrictive terms.
+With respect to any content you contribute that uses YouTube services via Parler, you affirm that—in addition to complying with Parler's own Terms and Community Guidelines—you are also complying with YouTube's more restrictive Terms. Users are encouraged to use Parler's own native video capabilities whenever they wish to avoid the application of these more restrictive terms.
 
 Blockchain Integration
 ----------------------
@@ -66,7 +66,7 @@ CSAE Compliance
 
 Parler is committed to ensuring the safety and security of its users by strictly prohibiting any content, activities, or behaviors related to child sexual abuse and exploitation (CSAE). Parler does not tolerate content that promotes, depicts, or facilitates CSAE and will take immediate action against users who violate this policy.
 
-Any user found engaging in CSAE-related activities will have their account permanently terminated and may be reported to the appropriate law enforcement authorities. Parler utilizes automated detection tools via Hive Moderation tools and human moderation to proactively identify and remove CSAE content. Users are encouraged to report any CSAE-related content or activities via [support@parler.com](mailto:support@parler.com).
+Any user found engaging in CSAE-related activities will have their account permanently terminated and may be reported to the appropriate law enforcement authorities. Parler utilizes automated detection tools via Hive Moderation tools and human moderation to proactively identify and remove CSAE content. Users are encouraged to report any CSAE-related content or activities via support@parler.com.
 
 Intellectual Property and DMCA
 ------------------------------
@@ -75,7 +75,7 @@ Parler's Intellectual Property. The Services and any related content, features, 
 
 Right to Distribute. You grant to Parler a license to any content posted by you to the Services, including a worldwide, non-exclusive, royalty-free license (with the right to sublicense) to use, copy, reproduce, process, adapt, modify, publish, transmit, display and distribute your content.
 
-Copyright infringement is not allowed on the Services. If your copyright has been infringed by any content on the Services and you did not grant a license for this use by uploading your copyrighted work to the Services, you may submit a notice that meets all of the requirements of the Digital Millennium Copyright Act (DMCA), 17 U.S.C. 512(c)(3), to Darin Deaver at [dmca@plunksmith.com](mailto:dmca@plunksmith.com) or 2801 Network Boulevard Suite 300, Frisco, TX 75034.
+Copyright infringement is not allowed on the Services. If your copyright has been infringed by any content on the Services and you did not grant a license for this use by uploading your copyrighted work to the Services, you may submit a notice that meets all of the requirements of the Digital Millennium Copyright Act (DMCA), 17 U.S.C. 512(c)(3), to Darin Deaver at dmca@plunksmith.com or 2801 Network Boulevard Suite 300, Frisco, TX 75034.
 
 Access, Accounts, and Service Availability
 ------------------------------------------
@@ -89,7 +89,7 @@ If you choose, or are provided with, a username, password, or any other piece of
 Termination and Communications
 ------------------------------
 
-Parler may remove any content and terminate your access to the Services at any time and for any reason, including without limitation, to the extent Parler reasonably believes you have violated these Terms or Parler's [Community Guidelines](https://parler.com/community-guidelines), you create risk or possible legal exposure for Parler, or you are otherwise engaging in unlawful conduct.
+Parler may remove any content and terminate your access to the Services at any time and for any reason, including without limitation, to the extent Parler reasonably believes you have violated these Terms or Parler's Community Guidelines, you create risk or possible legal exposure for Parler, or you are otherwise engaging in unlawful conduct.
 
 You agree to receive communications from Parler, including communications sent by phone, email, text message, or other means of communication. If you provided a phone number to Parler, you are required to notify Parler when you cease to own or control that number to help prevent Parler from sending communications to others who may acquire that number.
 
