@@ -14,11 +14,11 @@ The safety of our creators, viewers, and partners is our highest priority. We lo
 
 YouTube doesn’t allow anything that artificially increases the number of views, likes, comments, or other metrics either by using automatic systems or serving up videos to unsuspecting viewers. Also, content that solely exists to incentivize viewers for engagement (views, likes, comments, etc) is prohibited.
 
-Content and channels that don't follow this policy may be terminated and removed from YouTube.
+Content and channels that don't follow this policy may be terminated and removed from YouTube.
 
-**Important:**  If you hire someone to promote your channel, their decisions may impact your channel. Any method that violates our policies may result in content removal or a channel takedown, whether it's an action taken by you or someone you've hired.
+**Important:** If you hire someone to promote your channel, their decisions may impact your channel. Any method that violates our policies may result in content removal or a channel takedown, whether it's an action taken by you or someone you've hired.
 
-We consider engagement to be legitimate when a human user’s primary intent is to authentically interact with the content. We consider engagement illegitimate, for example, when it results from coercion or deception, or when the sole purpose of the engagement is financial gain.  
+We consider engagement to be legitimate when a human user’s primary intent is to authentically interact with the content. We consider engagement illegitimate, for example, when it results from coercion or deception, or when the sole purpose of the engagement is financial gain.
 
 If you find content that violates this policy, report it. Instructions for reporting violations of our Community Guidelines [are available here](https://support.google.com/youtube/answer/2802027). If you've found a few videos or comments that you would like to report, you can [report the channel](https://support.google.com/youtube/answer/2802027#report_channel).
 
@@ -32,7 +32,7 @@ Don’t post content on YouTube if it fits any of the descriptions noted below.
 *   Links to or promotes third-party services that artificially inflate metrics like views, likes, and subscribers
 *   Content linking to or promoting third-party view count or subscriber gaming websites or services
 *   Offering to subscribe to another creator’s channel only if they subscribe to your channel (“sub4sub”)
-    *   **Note**: You're allowed to encourage viewers to subscribe, hit the like button, share, or leave a comment
+    *   **Note:** You're allowed to encourage viewers to subscribe, hit the like button, share, or leave a comment
 *   Content featuring a creator purchasing their views from a third party with the intent of promoting the service
 
 This policy applies to videos, video descriptions, comments, live streams, and any other YouTube product or feature. Keep in mind that this isn't a complete list.
@@ -47,9 +47,9 @@ Subscriber numbers displayed in the following places update in real time:
 *   Video watch page
 *   Third-party sites and apps using the [YouTube Data API](https://developers.google.com/youtube/v3/)
 
-The number of subscribers in YouTube Analytics may be different than the subscriber count on your YouTube channel. The number in YouTube Analytics is approximately 48 hours behind. The delay lets us perform extra verification and spam reviews so the numbers are accurate.
+The number of subscribers in YouTube Analytics may be different than the subscriber count on your YouTube channel. The number in YouTube Analytics is approximately 48 hours behind. The delay lets us perform extra verification and spam reviews so the numbers are accurate.
 
-Page traffic found to be artificial will not be counted on YouTube and can lead to strikes on your account. Terminated accounts and subscribers that are identified as spam will not count toward your total number of subscribers or views. These aren't active viewers, so their removal shouldn’t impact your views or watch time.
+Page traffic found to be artificial will not be counted on YouTube and can lead to strikes on your account. Terminated accounts and subscribers that are identified as spam will not count toward your total number of subscribers or views. These aren't active viewers, so their removal shouldn’t impact your views or watch time.
 
 If you've had a video removed for view count gaming, check out [this page](https://support.google.com/youtube/contact/tou_removal_appeal) in the Help Center to learn more.
 
@@ -58,10 +58,11 @@ Examples
 
 Here are some examples of content that’s not allowed on YouTube.
 
-*   A video testimonial in which a creator shows themselves successfully purchasing artificial page traffic from a third party
+*   A video testimonial in which a creator shows themselves successfully purchasing artificial page traffic from a third party.
 *   A video in which a creator links to a third party artificial page traffic provider in a promotional or supportive context. For example: “I got 1 million subscribers on this video in a day and you can too!”
-*   A video that tries to force or trick viewers into watching another video through deceptive means (for example: a misleadingly labeled info card)
-*   Channels dedicated to artificial channel engagement traffic or promoting businesses that exist for this sole purpose
+*   A video that tries to force or trick viewers into watching another video through deceptive means (for example: a misleadingly labeled info card).
+*   Channels dedicated to artificial channel engagement traffic or promoting businesses that exist for this sole purpose.
+*   Any content that knowingly uses a service to artificially inflate live traffic (‘viewbotting’).
 
 Remember these are just some examples, and don't post content if you think it might violate this policy.
 
