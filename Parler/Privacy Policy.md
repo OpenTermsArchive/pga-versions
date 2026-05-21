@@ -1,3 +1,5 @@
+[Parler](https://parler.com/privacy-policy)[Parler Play](https://parler.com/privacy-policy/parler-play)
+
 Parler Privacy Policy
 =====================
 
