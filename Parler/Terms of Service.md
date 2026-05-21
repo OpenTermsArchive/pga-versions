@@ -1,3 +1,5 @@
+[Parler](https://parler.com/terms-of-service)[Parler Play](https://parler.com/terms-of-service/parler-play)
+
 Parler Terms of Service
 =======================
 
