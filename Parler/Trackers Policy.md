@@ -9,7 +9,7 @@ Social media that respects you. Built for creators, brands, and communities who 
 
 [Join Parler](https://app.parler.com/)[Explore the ecosystem](#ecosystem)
 
-![Home screen](/_next/image?url=%2Fscreenshots%2FHome_Template.png&w=3840&q=75&dpl=dpl_Fwrzyn6sG3tDFko6hRNbDtzGxx4c)
+![Home screen](/_next/image?url=%2Fscreenshots%2FHome_Template.png&w=3840&q=75&dpl=dpl_84NBbgnf2SAxSpV4Mdj33eiczvu8)
 
 Our mission
 
@@ -95,7 +95,7 @@ Everything starts with
 a better social layer.
 -----------------------------------------------
 
-Discovery, conversation, community, and ownership — built in.
+Discovery, conversation, community, and ownership, built in.
 
 DiscoverHomeCreateBurstsGatherLoungesConnectDMsOwnProfile
 
@@ -111,9 +111,9 @@ Discover posts without losing the human signal
 
 Move naturally from content to conversation
 
-![Home screen](/_next/image?url=%2Fscreenshots%2FHome_Template.png&w=3840&q=75&dpl=dpl_Fwrzyn6sG3tDFko6hRNbDtzGxx4c)
+![Home screen](/_next/image?url=%2Fscreenshots%2FHome_Template.png&w=3840&q=75&dpl=dpl_84NBbgnf2SAxSpV4Mdj33eiczvu8)
 
-![](/_next/image?url=%2Fframes%2Fiphone-border-2.png&w=3840&q=75&dpl=dpl_Fwrzyn6sG3tDFko6hRNbDtzGxx4c)
+![](/_next/image?url=%2Fframes%2Fiphone-border-2.png&w=3840&q=75&dpl=dpl_84NBbgnf2SAxSpV4Mdj33eiczvu8)
 
 ◎ The ecosystem
 
@@ -121,7 +121,7 @@ You at the center.
 Everything else compounds around you.
 ----------------------------------------------------------
 
-Audience, content, commerce, and payments — one connected loop.
+Audience, content, commerce, and payments, one connected loop.
 
 ![PARLER](/icons/parler-social.svg)
 
@@ -184,7 +184,7 @@ One architecture. Every layer works together.
 
 Native value flow
 
-Content, community, commerce, and payments — in one system.
+Content, community, commerce, and payments, in one system.
 
 Independent rails
 
@@ -204,17 +204,17 @@ One identity.
 A stack that compounds around you.
 --------------------------------------------------
 
-Social, video, commerce, payments, and creator tools — connected.
+Social, video, commerce, payments, and creator tools, connected.
 
 ParlerPlayShopPayStudio
 
-![Parler screenshot](/_next/image?url=%2Fscreenshots%2Fparler-home.png&w=3840&q=75&dpl=dpl_Fwrzyn6sG3tDFko6hRNbDtzGxx4c)
+![Parler screenshot](/_next/image?url=%2Fscreenshots%2Fparler-home.png&w=3840&q=75&dpl=dpl_84NBbgnf2SAxSpV4Mdj33eiczvu8)
 
 The social foundation
 
 ### Start with the audience.
 
-Community, conversation, and distribution — all in one place.
+Community, conversation, and distribution, all in one place.
 
 Feed, Lounges, and Bursts
 
@@ -264,7 +264,7 @@ Parler Ads
 A native ad network for the social commerce era.
 ------------------------------------------------
 
-Reach creators, communities, and shopping moments — natively, across the ecosystem.
+Reach creators, communities, and shopping moments, natively, across the ecosystem.
 
 Social context
 
@@ -301,11 +301,11 @@ Ten ways creators earn online today. Free PDF, straight to your inbox.
 
 Educational. Not financial advice.
 
-Email addressGet the guide
+Full nameEmail address
 
-We'll send the PDF and occasional creator updates. Unsubscribe anytime.
+Yes, send me the PDF and occasional creator updates. Unsubscribe anytime.Get the guide
 
-![Parler](/_next/image?url=%2Flogos%2Fparler-alternate.png&w=640&q=75&dpl=dpl_Fwrzyn6sG3tDFko6hRNbDtzGxx4c)
+![Parler](/_next/image?url=%2Flogos%2Fparler-alternate.png&w=640&q=75&dpl=dpl_84NBbgnf2SAxSpV4Mdj33eiczvu8)
 
 Your voice matters.  
 Own what it builds.
