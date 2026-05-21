@@ -1,3 +1,5 @@
+[Parler](https://parler.com/community-guidelines)[Parler Play](https://parler.com/community-guidelines/parler-play)
+
 Community Guidelines
 ====================
 
