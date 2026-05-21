@@ -1,6 +1,8 @@
 X Developer Agreement
 =====================
 
+The X Developer Agreement sets the legal terms for using the X API and developer platform, covering licensing, restrictions, and compliance obligations.
+
 > Documentation Index
 > -------------------
 > 
@@ -73,6 +75,8 @@ Ctrl+I
 
 X Developer Policy
 ==================
+
+The X Developer Policy outlines acceptable use of the X API, including rules around content, automation, privacy, security, and prohibited behaviors.
 
 > Documentation Index
 > -------------------
@@ -338,6 +342,8 @@ Ctrl+I
 
 Ads API Agreement
 =================
+
+The X Ads API Agreement governs use of X advertising endpoints, including allowed integrations, restrictions, and obligations for advertising partners.
 
 > Documentation Index
 > -------------------
@@ -673,7 +679,7 @@ Notwithstanding anything to the contrary set forth in Section 1.1 hereinabove, a
 Exhibit C: Individual Product Terms/X Marketing Partner (TMP) Program
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
-Capitalized terms not defined in these Individual Product Terms have the meaning set forth in the main body of the Agreement. To the extent that Company participates in the “X Marketing Partner program (the “**TMP**”), the following terms and conditions of this Exhibit C (including Exhibit C-1) will apply:
+Capitalized terms not defined in these Individual Product Terms have the meaning set forth in the main body of the Agreement. To the extent that Company participates in the “X Marketing Partner program” (the “**TMP**”), the following terms and conditions of this Exhibit C (including Exhibit C-1) will apply:
 
 ### 
 
@@ -769,6 +775,8 @@ Ctrl+I
 X Developer PPU Agreement
 =========================
 
+The X Developer Pay-Per-Use Agreement covers terms for purchasing and using credits on paid X API services, including billing and usage rules.
+
 > Documentation Index
 > -------------------
 > 
@@ -786,8 +794,10 @@ Ctrl+I
 
 - - -
 
-More about restricted uses of the X APIs
-========================================
+Restricted uses of the X API
+============================
+
+Details on restricted use cases for the X API, including off-platform tracking, government surveillance, sensitive data handling, and prohibited tools.
 
 > Documentation Index
 > -------------------
@@ -848,7 +858,7 @@ Off-X matching involves associating X content, including a X username or user ID
 Redistribution of X content
 ----------------------------------------------------------------
 
-If you need to share X content you obtained via the X APIs with another party, the best way to do so is by sharing Post IDs, Direct Message IDs, and/or User IDs, which the end user of the content can then rehydrate (i.e. request the full Post, User, or Direct Message content) using the X APIs. This helps ensure that end users of X content always always get the most current information directly from us. We permit limited redistribution of hydrated X content via non-automated means. If you choose to share hydrated X content with another party in this way, you may only share up to 50,000 hydrated public Post Objects and/or User Objects per recipient, per day, and should not make this data publicly available (for example, as an attachment to a blog post or in a public Github repository). There are a few other points to keep in mind about redistributing X content:
+If you need to share X content you obtained via the X APIs with another party, the best way to do so is by sharing Post IDs, Direct Message IDs, and/or User IDs, which the end user of the content can then rehydrate (i.e. request the full Post, User, or Direct Message content) using the X APIs. This helps ensure that end users of X content always get the most current information directly from us. We permit limited redistribution of hydrated X content via non-automated means. If you choose to share hydrated X content with another party in this way, you may only share up to 50,000 hydrated public Post Objects and/or User Objects per recipient, per day, and should not make this data publicly available (for example, as an attachment to a blog post or in a public Github repository). There are a few other points to keep in mind about redistributing X content:
 
 *   You may only distribute up to a total of 1,500,000 Post IDs to a single entity within a 30 day period unless you’ve received prior express written permission from X.
 *   Individuals redistributing Post IDs and/or User IDs on behalf of an academic institution for the sole purpose of non-commercial research are permitted to redistribute an unlimited number of Post IDs and/or User IDs.
@@ -895,6 +905,8 @@ Ctrl+I
 
 Geo guidelines
 ==============
+
+Guidelines for handling geotagged Posts and location data from the X API, including geo features, place objects, and user privacy considerations.
 
 > Documentation Index
 > -------------------
@@ -969,6 +981,8 @@ Ctrl+I
 
 Display requirements: Posts
 ===========================
+
+Display requirements for showing X Posts in your app, including branding, attribution, anatomy of a Post, interactivity, and metadata to render.
 
 > Documentation Index
 > -------------------
