@@ -238,7 +238,7 @@ Learn more about [how we enforce violations of our Professional Community Polici
 - - -
 
 False or misleading content
----------------------------
+===========================
 
 It is a violation of [LinkedIn’s Professional Community Policies](https://www.linkedin.com/legal/professional-community-policies) to post false or misleading content. We remove specific claims, presented as fact, that are demonstrably false or substantially misleading and likely to cause harm. We also remove content that is synthetic or manipulated in a way to misrepresent or distort real-life events without clear disclosure of the fake or altered nature of the material. Content that is false or substantially misleading but not likely to cause harm is not eligible for distribution beyond the author’s network.
 
@@ -388,7 +388,7 @@ Learn more about [how we enforce violations of our Professional Community Polici
 - - -
 
 Spam
-----
+====
 
 The quality of conversations on LinkedIn depends on healthy, relevant content. We may remove or limit the distribution of content designed to artificially increase engagement through misuse or misrepresentation of LinkedIn’s features.
 
