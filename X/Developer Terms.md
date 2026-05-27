@@ -966,7 +966,7 @@ X Storage Of User Location Data
 
 X will store data passed by the client as follows:
 
-*   X will save all the data that a user chooses to publicly display to his/her followers. This is similar to how X stores the time stamp that says when the post was made, meaning if a user posts with their exact coordinates, X will store this exact location along with the post for as long as the post exists. Users can clear location data from their posts by clicking the “clear my location history” button on the Settings page as described [here](https://support.twitter.com/articles/122236-how-to-tweet-with-your-location)).
+*   X will save all the data that a user chooses to publicly display to his/her followers. This is similar to how X stores the time stamp that says when the post was made, meaning if a user posts with their exact coordinates, X will store this exact location along with the post for as long as the post exists. Users can clear location data from their posts by clicking the “clear my location history” button on the Settings page as described [here](https://support.twitter.com/articles/122236-how-to-tweet-with-your-location).
 
 [​](#summary)
 
