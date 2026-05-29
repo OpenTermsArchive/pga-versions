@@ -9,7 +9,7 @@ Social media that respects you. Built for creators, brands, and communities who 
 
 [Join Parler](https://app.parler.com/)[Explore the ecosystem](#ecosystem)
 
-![Home screen](/_next/image?url=%2Fscreenshots%2FHome_Template.png&w=3840&q=75&dpl=dpl_81ypN1RrTZorcbQBEZxhBf455GU9)
+![Parler Home screen](/_next/image?url=%2Fscreenshots%2Fparler-home.webp&w=3840&q=75&dpl=dpl_AXCwr8jxSTzm9wqPWaXEQCJw9SXs)
 
 Our mission
 
@@ -97,7 +97,7 @@ a better social layer.
 
 Discovery, conversation, community, and ownership, built in.
 
-DiscoverHomeCreateBurstsGatherLoungesConnectDMsOwnProfile
+DiscoverHomeFindSearchWatchPlayGatherLoungesBuyShop
 
 Discover
 
@@ -111,9 +111,9 @@ Discover posts without losing the human signal
 
 Move naturally from content to conversation
 
-![Home screen](/_next/image?url=%2Fscreenshots%2FHome_Template.png&w=3840&q=75&dpl=dpl_81ypN1RrTZorcbQBEZxhBf455GU9)
+![Home screen](/_next/image?url=%2Fscreenshots%2Fparler-home.webp&w=3840&q=75&dpl=dpl_AXCwr8jxSTzm9wqPWaXEQCJw9SXs)
 
-![](/_next/image?url=%2Fframes%2Fiphone-border-2.png&w=3840&q=75&dpl=dpl_81ypN1RrTZorcbQBEZxhBf455GU9)
+![](/_next/image?url=%2Fframes%2Fiphone-border-2.png&w=3840&q=75&dpl=dpl_AXCwr8jxSTzm9wqPWaXEQCJw9SXs)
 
 ◎ The ecosystem
 
@@ -208,7 +208,7 @@ Social, video, commerce, payments, and creator tools, connected.
 
 ParlerPlayShopPayStudio
 
-![Parler screenshot](/_next/image?url=%2Fscreenshots%2Fparler-home.png&w=3840&q=75&dpl=dpl_81ypN1RrTZorcbQBEZxhBf455GU9)
+![Parler screenshot](/_next/image?url=%2Fscreenshots%2Fparler-ecosystem.webp&w=3840&q=75&dpl=dpl_AXCwr8jxSTzm9wqPWaXEQCJw9SXs)
 
 The social foundation
 
@@ -216,7 +216,7 @@ The social foundation
 
 Community, conversation, and distribution, all in one place.
 
-Feed, Lounges, and Bursts
+Feed, Lounges, Play, and Shop
 
 Direct audience relationships
 
@@ -305,7 +305,7 @@ Full nameEmail address
 
 Yes, send me the PDF and occasional creator updates. Unsubscribe anytime.Get the guide
 
-![Parler](/_next/image?url=%2Flogos%2Fparler-alternate.png&w=640&q=75&dpl=dpl_81ypN1RrTZorcbQBEZxhBf455GU9)
+![Parler](/_next/image?url=%2Flogos%2Fparler-alternate.png&w=640&q=75&dpl=dpl_AXCwr8jxSTzm9wqPWaXEQCJw9SXs)
 
 Your voice matters.  
 Own what it builds.
