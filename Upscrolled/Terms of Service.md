@@ -1,10 +1,7 @@
 Terms of Service
 ----------------
 
-*   The following terms of service agreement will take effect on **30 May 2026**.  
-      
-    The [previous terms of service agreement](#previous) was posted on 20 January 2026.
-    
+*   Last updated **30 May 2026**
 
 Welcome to UpScrolled! At UpScrolled, we’re building a space based on three principles for our UpScrollers: you can connect safely, share freely, and build community on your own terms. These Terms of Service (“Terms”) are meant to do just that. Please read these Terms carefully. These Terms are a legally binding agreement. See you on UpScrolled! 
 
