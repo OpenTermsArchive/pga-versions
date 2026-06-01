@@ -1,10 +1,7 @@
 Privacy Policy
 --------------
 
-*   The following privacy policy will take effect on **30 May 2026**.  
-      
-    The [previous privacy policy](#previous) was posted on 12 September 2025.
-    
+*   Last updated **30 May 2026**
 
 UpScrolled believes privacy is a fundamental right, not a feature, of a digital platform. This Privacy Policy explains how **UpScrolled B.V.** operating as UpScrolled (“UpScrolled,” “we,” “us,” or “our”) collects, uses, shares, and protects your information when you use our platform. This policy applies to information we collect when you use our websites, mobile apps, and other services that link to this Privacy Policy (collectively, the “Services”), as well as when you interact with us through support channels or other communications.
 
