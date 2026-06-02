@@ -57,7 +57,7 @@ This policy applies to your channel as a whole. In other words, if you have vide
 
 #### What is allowed to monetize
 
-This policy makes sure monetized content offers viewers something appealing and interesting to watch. In other words, if the average viewer can clearly tell that content on your channel differs from video to video, it's fine to monetize. We know many channels create content that follows a similar pattern. What’s important is that the substance of each video should be relatively varied.
+This policy makes sure monetized content offers viewers something appealing and interesting to watch. In other words, if the average viewer can clearly tell that content on your channel differs from video to video, it's fine to monetize. We know many channels create content that follows a similar pattern. What’s important is that the substance of each video should be materially varied.
 
 Examples of what is allowed to monetize (including but not limited to):
 
@@ -67,15 +67,16 @@ Examples of what is allowed to monetize (including but not limited to):
 
 #### Content that violates this guideline
 
-When a channel’s content consists of similar content, it can frustrate viewers who come to YouTube for appealing and interesting videos. That means channels where content is only slightly different from video to video are not allowed to monetize. In other words, your channel shouldn’t have content that's produced using a template and repeated at scale.
+When a channel’s content consists of similar content, it can frustrate viewers who come to YouTube for appealing and interesting videos. That means channels where content is only slightly different from video to video are not allowed to monetize. In other words, your channel shouldn’t have content that appears to be produced using a template and can be repeated at scale.
 
 Examples of what’s not allowed to monetize (this list is not exhaustive):
 
 *   Content that exclusively features readings of other materials you did not originally create, like text from websites or news feeds
 *   Songs modified to change the pitch or speed, but are otherwise identical to the original song
 *   Similar repetitive content with low educational value, commentary, narratives, or minimal variation across videos
-*   Mass-produced content using a similar template across multiple videos
-*   Image slideshows or scrolling text with minimal or no narrative, commentary, or educational value
+*   Mass-produced content using a similar or unoriginal template across multiple videos
+*   Image slideshows, templated storylines, or scrolling text with minimal or no narrative, commentary, or educational value
+*   AI-generated content made with generic templates giving the impression of mass production without adding the creator’s original, authentic insights or perspective 
 
 ### Reused content
 
@@ -128,7 +129,7 @@ Our aim is to provide kids and families with a safe and enriching experience on 
 
 If your channel has ["made for kids” content](https://support.google.com/youtube/answer/9528076), we’ll use YouTube’s [quality principles for kids and family content](https://support.google.com/youtube/answer/10774223) to determine the monetization status of that content.
 
-If a channel is found to have a strong focus on low-quality “made for kids” content, it may be [suspended](https://support.google.com/youtube/answer/1727191#ypp-participation-suspended) from the YouTube Partner Program. If an individual video is found to violate these quality principles, it may see [limited or no ads](https://support.google.com/youtube/answer/9208564).
+If a channel is found to have a strong focus on low-quality “made for kids” content, it may be [suspended](https://support.google.com/youtube/answer/1727191#ypp-participation-suspended) from the YouTube Partner Program. If an individual video is found to violate these quality principles, it may see [limited ad earnings or no ad earnings](https://support.google.com/youtube/answer/9208564).
 
 When checking to see if your “made for kids” content is of low or high quality, nuances and context are important. Visit our [best practices for kids and family content](https://support.google.com/youtube/answer/10774223) page for guides and examples.
 
@@ -196,12 +197,12 @@ If your channel is [terminated](https://support.google.com/youtube/answer/280216
 
 We’ll inform you in writing by email or in product when we have to enforce our policies. We will also let you know what options are available to you.
 
-Limit ad revenue from your videos
----------------------------------
+Limit ad earnings from your videos
+----------------------------------
 
-As a member of the YouTube Partner Program, you can make your videos eligible to earn ad revenue if they meet our [advertiser-friendly content guidelines](https://support.google.com/youtube/answer/6162278). However, if your videos are found to not meet our advertiser-friendly guidelines, or if they violate other policies, such as our [age restriction](https://support.google.com/youtube/answer/2802167) or [copyright guidelines](https://support.google.com/youtube/answer/2797466), your videos may earn limited or no ad revenue.
+As a member of the YouTube Partner Program, you can make your videos eligible to earn ad revenue if they meet our [advertiser-friendly content guidelines](https://support.google.com/youtube/answer/6162278). However, if your videos are found to not meet our advertiser-friendly guidelines, or if they violate other policies, such as our [age restriction](https://support.google.com/youtube/answer/2802167) or [copyright guidelines](https://support.google.com/youtube/answer/2797466), your videos may have limited ad earnings or no ad earnings.
 
-For more information about reasons why content may not be eligible for monetization, see: [Monetization icon guide for YouTube Studio](https://support.google.com/youtube/answer/9208564)
+For more information about reasons why content may not be eligible for monetization, see: [Understand your Content tab & manage notices on your video content](https://support.google.com/youtube/answer/9208564).
 
 Suspend your participation in the YouTube Partner Program
 
