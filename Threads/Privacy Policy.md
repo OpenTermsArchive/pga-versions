@@ -142,3 +142,6 @@ Related Articles
 [Review and export your Threads information](https://help.instagram.com/259803026523198/?helpref=related_articles)
 
 [Threads and the fediverse](https://help.instagram.com/1766646354051423/?helpref=related_articles)
+
+Other ways to get help
+----------------------
