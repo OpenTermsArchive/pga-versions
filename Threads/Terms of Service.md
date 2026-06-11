@@ -133,6 +133,3 @@ Related Articles
 [Interact with Threads posts](https://help.instagram.com/1545551826583604/?helpref=related_articles)
 
 [Your Threads posts](https://help.instagram.com/391254440276136/?helpref=related_articles)
-
-Other ways to get help
-----------------------
