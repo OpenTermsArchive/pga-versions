@@ -112,13 +112,13 @@ Related Articles
 
 [Threads Policies and Terms](https://help.instagram.com/280495901606863/?helpref=related_articles)
 
+[About Threads and the fediverse](https://help.instagram.com/169559812696339/?helpref=related_articles)
+
 [About using Threads with or without a profile](https://help.instagram.com/1666837803804595/?helpref=related_articles)
 
 [Your Threads settings](https://help.instagram.com/313609505054371/?helpref=related_articles)
 
-[Interact with Threads posts](https://help.instagram.com/1545551826583604/?helpref=related_articles)
-
-[Your Threads posts](https://help.instagram.com/391254440276136/?helpref=related_articles)
+[Threads in Türkiye](https://help.instagram.com/714235914122776/?helpref=related_articles)
 
 Related Articles
 
@@ -126,10 +126,10 @@ Related Articles
 
 [Threads Policies and Terms](https://help.instagram.com/280495901606863/?helpref=related_articles)
 
+[About Threads and the fediverse](https://help.instagram.com/169559812696339/?helpref=related_articles)
+
 [About using Threads with or without a profile](https://help.instagram.com/1666837803804595/?helpref=related_articles)
 
 [Your Threads settings](https://help.instagram.com/313609505054371/?helpref=related_articles)
 
-[Interact with Threads posts](https://help.instagram.com/1545551826583604/?helpref=related_articles)
-
-[Your Threads posts](https://help.instagram.com/391254440276136/?helpref=related_articles)
+[Threads in Türkiye](https://help.instagram.com/714235914122776/?helpref=related_articles)
