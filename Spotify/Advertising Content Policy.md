@@ -173,3 +173,13 @@ Media:
 *   Visual assets should be suitable for all targeted users
 *   Avoid repetitive, gimmicky, or otherwise low quality media assets
 *   Media assets should not mimic the Spotify interface or otherwise mislead or trick users into interacting with an ad
+
+* * *
+
+Prohibited Targeting
+
+We don’t permit the use of any data that directly identifies, infers, or is intended to identify sensitive personal characteristics for targeting purposes. This includes audience selection, audience matching, audience expansion, retargeting, optimization, and ad delivery.
+
+Sensitive personal characteristics include race, ethnicity, nationality, religion or belief system (including political beliefs), gender identity, sexual orientation, marital status, age, health conditions or treatments, or other actual or inferred characteristics associated with systemic discrimination or marginalization.
+
+We reserve the right to reject, suspend, remove, restrict, or require modification of any campaign, audience, targeting strategy, or advertising activity that violates this policy.
