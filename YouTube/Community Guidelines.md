@@ -152,7 +152,7 @@ Don’t post links in your content on YouTube if they direct users to content th
 
 This policy applies to video, audio, channel, comments, pinned comments, live streams, and any other YouTube product or feature. Links can take any form that would direct a user to a site off YouTube. These links include: clickable URLs, showing text of URLs in videos or images, and obfuscated URLs (such as writing “dot com” instead of “.com”). These links can also include verbally directing users to other sites, encouraging viewers to visit creator profiles or pages on other sites, or promising violative content on other sites. This list is not complete.
 
-**Note:** Affiliate content doesn't violate YouTube’s Terms of Use. Excessively posting affiliate content in dedicated accounts may violate our policies around spam. You can learn more about what's allowed in our [Spam, deceptive practices & scams policies](https://support.google.com/youtube/answer/2801973).
+**Note:** Affiliate content doesn't violate YouTube’s Terms of Use. Excessively posting affiliate content in dedicated accounts may violate our policies around spam. You can learn more about what's allowed in our [Spam policy](https://support.google.com/youtube/answer/2801973).
 
 Examples
 --------
