@@ -133,6 +133,3 @@ Related Articles
 [Your Threads settings](https://help.instagram.com/313609505054371/?helpref=related_articles)
 
 [Threads in Türkiye](https://help.instagram.com/714235914122776/?helpref=related_articles)
-
-Other ways to get help
-----------------------
