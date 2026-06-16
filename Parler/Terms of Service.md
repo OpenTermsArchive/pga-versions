@@ -3,9 +3,9 @@
 Parler Terms of Service
 =======================
 
-Modified: January 6, 2026
+Modified: April 28, 2026
 
-These terms govern your relationship with Parler Technologies, Inc. ("Parler") and your use of and access to all services, websites, and products provided by Parler (collectively, the Services). You agree that by accessing or using any part of the Services you are bound by the terms of this Agreement (the Terms), including the applicable Privacy Policy and Community Guidelines incorporated herein.
+These terms govern your relationship with Sovren Technologies, Inc. ("Sovren," "Parler," "we," "our," or "us") and your use of and access to all services, websites, and products provided under the Parler brand (collectively, the Services). Parler is a service operated by Sovren Technologies, Inc. You agree that by accessing or using any part of the Services you are bound by the terms of this Agreement (the Terms), including the applicable [Privacy Policy](https://parler.com/privacy-policy) and [Community Guidelines](https://parler.com/community-guidelines) incorporated herein.
 
 You may not use the Services unless all of the following apply to you, and you affirm that all of the following apply to you:
 
@@ -17,7 +17,7 @@ You may not use the Services unless all of the following apply to you, and you a
 User Content and Privacy
 ------------------------
 
-The Parler Privacy Policy describes what Parler can do with information about you received by Parler when you use the Services. You agree to the terms of the Privacy Policy, including the transfer of information to other countries for storage, processing, and use, if applicable.
+The Parler [Privacy Policy](https://parler.com/privacy-policy) describes what Parler can do with information about you received by Parler when you use the Services. You agree to the terms of the [Privacy Policy](https://parler.com/privacy-policy), including the transfer of information to other countries for storage, processing, and use, if applicable.
 
 Any content that you post to the Services must satisfy all of the following criteria, and you affirm that any content posted, submitted, or otherwise provided by you to the Services satisfies these criteria:
 
@@ -25,19 +25,19 @@ Any content that you post to the Services must satisfy all of the following crit
 *   The content and the purpose for posting it complies with all laws, rules, and regulations that may apply.
 *   The content does not infringe the intellectual property rights (such as copyrights and trademark rights) of any other person or entity.
 *   The content does not include non-public personal private information belonging to someone else, such as another person's birthdate, home address, or telephone number.
-*   The content complies with the Parler Community Guidelines.
+*   The content complies with the Parler [Community Guidelines](https://parler.com/community-guidelines).
 
 You are responsible for your use of the Services and for any content that you post. Parler does not endorse, support, represent, or affirm the completeness, truthfulness, accuracy, or reliability of any of the content posted through the Services, nor does Parler endorse any opinions expressed through the Services. All content is the sole responsibility of the person who originated the content, and Parler does not take responsibility for such content.
 
 YouTube Content
 ---------------
 
-With respect to any content you contribute that uses YouTube services via Parler, you affirm that—in addition to complying with Parler's own Terms and Community Guidelines—you are also complying with YouTube's more restrictive Terms. Users are encouraged to use Parler's own native video capabilities whenever they wish to avoid the application of these more restrictive terms.
+With respect to any content you contribute that uses YouTube services via Parler, you affirm that, in addition to complying with Parler's own Terms and [Community Guidelines](https://parler.com/community-guidelines), you are also complying with YouTube's more restrictive Terms. Users are encouraged to use Parler's own native video capabilities whenever they wish to avoid the application of these more restrictive terms.
 
 Blockchain Integration
 ----------------------
 
-Parler has integrated blockchain technology into some of its products and services. Blockchain technology provides transparency, security, and decentralization, enabling enhanced user experiences. This integration allows users to actively participate in blockchain-enabled features, such as earning digital rewards for specific actions.
+Parler has integrated blockchain technology into some of its products and services. Blockchain technology provides transparency, security, and decentralization, enabling enhanced user experiences. This integration allows users to actively participate in blockchain-enabled features, such as receiving digital rewards through participation in supported features.
 
 Users acknowledge and agree that blockchain-related features involve emerging technologies and may carry certain risks, including but not limited to potential technical errors, transaction delays, or issues related to blockchain network stability. Parler does not guarantee the performance or outcomes of these blockchain features and is not responsible for losses incurred from blockchain-related actions.
 
@@ -50,72 +50,179 @@ Boosted Posts
 
 Parler offers users the optional ability to "Boost" their posts for increased visibility across the Parler platform. Users may elect to pay for a Boosted Post either by (a) paying a flat fee in United States Dollars (USD) or (b) using OPT digital rewards based on the current market value of OPT as determined by CoinStore, an independent third-party digital asset exchange.
 
-By choosing to Boost a post, users acknowledge and agree that use of OPT for Boosted Posts is entirely voluntary and at their sole discretion; OPT is a utility token earned through participation and contribution to the decentralized Optio blockchain network; Parler does not operate or control CoinStore or any other third-party exchange; Parler makes no warranties regarding the value, performance, or future price of OPT; users are solely responsible for verifying the current value of OPT and making an informed decision prior to completing any Boosted Post transaction using OPT; Parler is not a digital asset exchange and does not engage in the sale, trading, or transfer of OPT; and all Boosted Post transactions are final, non-refundable, and subject to these Terms.
+By choosing to Boost a post, users acknowledge and agree that:
 
-There can be no guarantee that Boosted Posts will be successful, or achieve particular success. Neither Parler nor Optio is responsible for any aspect of a user's content, website, or applications with which Boosted Posts may be associated.
+*   Use of OPT for Boosted Posts is entirely voluntary and at their sole discretion.
+*   OPT is a utility token earned through participation and contribution to the decentralized Optio blockchain network. It is intended for use within supported platform features and is not offered as an investment or financial instrument.
+*   Parler does not operate or control CoinStore or any other third-party exchange and is not responsible for any changes in the market valuation of OPT.
+*   Parler makes no warranties, representations, or guarantees regarding the value, performance, or future price of OPT.
+*   Users are solely responsible for verifying the current value of OPT and making an informed decision prior to completing any Boosted Post transaction using OPT.
+*   Parler is not a digital asset exchange and does not engage in the sale, trading, custody, or transfer of digital assets.
+
+All Boosted Post transactions are final, non-refundable, and subject to the Terms and Conditions herein.
+
+There can be no guarantee that Boosted Posts will be successful or achieve particular success. Neither Parler nor Optio is responsible for any aspect of a user's content, website, or applications with which Boosted Posts may be associated. User represents, warrants, and covenants that (i) all Posts are, and will be updated to remain, current and accurate; (ii) your Posts are either original to you or you have secured all necessary rights, consents, waivers and licenses for their use as contemplated by the Agreement, and you are responsible for all royalties, payments, and fees with respect thereto (e.g., performing rights society fees); and (iii) if your Post is an advertisement, you will clearly and conspicuously disclose that such Post is an advertisement within the content of that Post as required by applicable laws and regulations, including all advertising laws and, where applicable, FTC regulations including the FTC's Guides Concerning the Use of Endorsements and Testimonials in Advertising, 16 C.F.R. Part 255.
+
+At any time, for any or no reason, we may terminate Boosted Posts, and you or we may terminate this Agreement. At any time and at our sole discretion, we may update or modify the features or functionality of Boosted Posts, or this Agreement. We may also, at our sole discretion, terminate your participation in or suspend and/or limit your participation in Boosted Posts, including suspending or removing your associated Post(s). Neither Parler nor Optio will have any liability regarding the foregoing decisions.
 
 Tipping (USD and OPT)
 ---------------------
 
 Parler may provide an optional tipping feature that allows users to send paid interactions, comments, or other paid messages ("Tips") to creators or other users where enabled. Tip amounts and associated messages may be displayed publicly within comment feeds or alongside content.
 
-Users may fund Tips using either fiat currency (USD) through third-party payment processors integrated into Parler, or OPT tokens, with token valuations determined solely by independent third-party digital asset exchanges at the time of transaction.
+Users may fund Tips using either:
 
-Parler does not control or guarantee the value, availability, liquidity, or price of OPT tokens, and users assume all risks relating to fluctuations or volatility of any digital asset. All tipping transactions are final and non-refundable.
+*   Fiat currency (USD) through third-party payment processors integrated into Parler; or
+*   OPT tokens, with token valuations determined solely by independent third-party digital asset exchanges at the time of transaction.
 
-CSAE Compliance
----------------
+Parler does not control or guarantee the value, availability, liquidity, or price of OPT tokens, and users assume all risks relating to fluctuations or volatility of any digital asset.
+
+All tipping transactions are final and non-refundable. Users acknowledge and agree that:
+
+*   Parler is not responsible for payment errors, processing delays, chargebacks, or third-party transaction failures; and
+*   Parler does not mediate disputes between users and creators regarding tipping amounts, content, or expectations.
+
+When a Tip is funded using OPT, certain transaction data may be recorded on a blockchain or distributed ledger, which may be public and immutable. Users should not include sensitive personal information in any content or message that could be associated with an on-chain transaction.
+
+Parler does not store, manage, or recover user wallets, private keys, seed phrases, or other digital asset credentials. Users are solely responsible for managing their digital assets and securing their credentials.
+
+Users are solely responsible for ensuring compliance with all applicable laws, including tax reporting obligations related to tipping transactions, whether made in USD or OPT. Parler does not provide tax advice.
+
+Users acknowledge and agree that:
+
+*   OPT tokens are utility tokens for use within supported Parler features;
+*   OPT tokens are not securities, investments, or financial instruments regulated under U.S. or international securities laws;
+*   Parler makes no promises regarding the future value, liquidity, or tradability of OPT tokens; and
+*   All transactions involving OPT tokens are at the user's own risk, and Parler is not responsible for any losses resulting from third-party exchange issues, wallet mismanagement, or market conditions.
+
+Child Sexual Abuse and Exploitation (CSAE) Compliance
+-----------------------------------------------------
 
 Parler is committed to ensuring the safety and security of its users by strictly prohibiting any content, activities, or behaviors related to child sexual abuse and exploitation (CSAE). Parler does not tolerate content that promotes, depicts, or facilitates CSAE and will take immediate action against users who violate this policy.
 
-Any user found engaging in CSAE-related activities will have their account permanently terminated and may be reported to the appropriate law enforcement authorities. Parler utilizes automated detection tools via Hive Moderation tools and human moderation to proactively identify and remove CSAE content. Users are encouraged to report any CSAE-related content or activities via support@parler.com.
+Prohibited Content: Users may not upload, share, or distribute content that involves the sexual exploitation of minors, including but not limited to images, videos, texts, or any material that promotes, glorifies, or facilitates such conduct.
 
-Intellectual Property and DMCA
-------------------------------
+Zero-Tolerance Policy: Any user found engaging in CSAE-related activities will have their account permanently terminated and may be reported to the appropriate law enforcement authorities.
 
-Parler's Intellectual Property. The Services and any related content, features, and functionality are owned by Parler, Parler's licensors, or other providers of such material and are protected by United States and international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws.
+Automated and Human Review: Parler utilizes automated detection tools via Hive Moderation tools and human moderation to proactively identify and remove CSAE content. Content suspected of violating CSAE laws will be immediately flagged and reviewed by our compliance team.
 
-Right to Distribute. You grant to Parler a license to any content posted by you to the Services, including a worldwide, non-exclusive, royalty-free license (with the right to sublicense) to use, copy, reproduce, process, adapt, modify, publish, transmit, display and distribute your content.
+Reporting Mechanism: Users are encouraged to report any CSAE-related content or activities through the in-app reporting tools or by emailing [support@parler.com](mailto:support@parler.com). Reports will be reviewed promptly, and appropriate actions will be taken, including reporting to the National Center for Missing & Exploited Children (NCMEC) where required by law.
 
-Copyright infringement is not allowed on the Services. If your copyright has been infringed by any content on the Services and you did not grant a license for this use by uploading your copyrighted work to the Services, you may submit a notice that meets all of the requirements of the Digital Millennium Copyright Act (DMCA), 17 U.S.C. 512(c)(3), to Darin Deaver at dmca@plunksmith.com or 2801 Network Boulevard Suite 300, Frisco, TX 75034.
+Law Enforcement Cooperation: Parler cooperates with law enforcement agencies, the National Center for Missing & Exploited Children (NCMEC), and other relevant authorities to report and prevent the dissemination of CSAE content.
+
+Parler's CSAE Policy: For more details on Parler's CSAE enforcement procedures, moderator guidelines, and compliance framework, please review the Parler [Community Guidelines](https://parler.com/community-guidelines).
+
+Intellectual Property
+---------------------
+
+Parler's Intellectual Property. The Services and any related content, features, and functionality (including but not limited to all information, software, text, displays, images, video, and audio, and the design, selection, and arrangement thereof) are owned by Parler, Parler's licensors, or other providers of such material and are protected by United States and international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws. Parler's name, and all related names, logos, product and service names, designs, and slogans are trademarks that are owned by Parler, Parler's affiliates, or Parler's licensors. You must not use such marks without our prior written permission. All other names, logos, product and service names, designs, and slogans are the trademarks of their respective owners.
+
+Right to Distribute. You grant to Parler a license to any content posted by you to the Services, including a worldwide, non-exclusive, royalty-free license (with the right to sublicense) to use, copy, reproduce, process, adapt, modify, publish, transmit, display, distribute, promote, market, advertise, feature, and otherwise use your content in connection with the Services and related business operations. This license includes the right to resize, crop, reformat, encode, transcode, excerpt, create thumbnails from, and otherwise technically modify content as necessary for display, compatibility, promotion, distribution, and operation of the Services across devices, applications, and media formats. You agree that Parler or its service providers or partners may display advertising in connection with your content and otherwise monetize your content without compensation to you, unless you are a participant in our Influencer Network and then you will be compensated according to the terms of that program. You warrant that you have all rights necessary to grant these rights to Parler and other members of the Parler community. You also grant a limited non-exclusive, royalty-free license to any Parler community member to use, copy, reproduce, process, adapt, modify, publish, transmit, display, and distribute any content posted by you to the Services solely in connection with that member's use of the Services. The licenses granted by you hereunder do not include any moral rights or right of attribution.
+
+Direct Messages
+---------------
+
+Parler provides direct messaging features that allow users to send private messages to other users. Direct messages are not end-to-end encrypted. Parler may access, review, and retain direct message content and metadata as needed to operate the Services, enforce these Terms and the [Community Guidelines](https://parler.com/community-guidelines), comply with legal obligations, respond to user reports, and protect the safety of users.
+
+Users may report direct messages that violate these Terms or the [Community Guidelines](https://parler.com/community-guidelines) through the in-app reporting tools. Parler may remove direct messages, restrict messaging features, or terminate accounts in accordance with these Terms. Users are responsible for the content of their direct messages.
+
+Stories
+-------
+
+Parler offers a Stories feature that allows users to post temporary content to their followers or to a selected audience such as Close Friends. Stories may include interactive elements such as polls, quizzes, sliders, questions, and countdowns.
+
+When you respond to an interactive Story element, your response, including in some cases your username, may be visible to the user who posted the Story. View counts and reactions to Stories may be visible to the Story owner. Stories may be reported through the in-app reporting tools and are subject to these Terms and the [Community Guidelines](https://parler.com/community-guidelines).
+
+Lounges
+-------
+
+Parler offers Lounges, which are user-created community spaces with channels, moderators, and member management features. Lounge creators and designated moderators are responsible for managing membership, channels, and content posted in their Lounge in accordance with these Terms and the [Community Guidelines](https://parler.com/community-guidelines). Lounge creators may invite, remove, or ban members and may set channel-specific rules.
+
+Content posted in a Lounge is governed by these Terms, including the license set forth in the Right to Distribute section. Parler may remove Lounges, channels, or content, and may terminate Lounge creator or member accounts, where Parler determines that a Lounge or its content violates these Terms or the [Community Guidelines](https://parler.com/community-guidelines). Users joining a Lounge acknowledge that Lounge creators and moderators may have access to information about member activity within the Lounge.
+
+Shop/Commerce
+-------------
+
+Parler offers a Shop feature that allows users to view, select, and purchase products. Payments are processed by third-party payment processors, including Stripe. By making a purchase, you agree to the applicable payment processor's terms and authorize Parler and the payment processor to charge your selected payment method for the purchase amount, including any applicable taxes and shipping fees.
+
+Products in the Parler Shop are sold by third-party sellers. The seller of record for each product is identified at checkout. Disputes regarding marketplace purchases are handled directly with the seller, except where required by law.
+
+Refunds and returns are governed by Parler's Refund Policy, which is incorporated by reference into these Terms. Sales taxes will be collected as required by applicable law. Shipping availability and timing are determined at the time of purchase. Parler is not responsible for the products themselves or for any disputes between buyers and third-party sellers, except as required by applicable law.
+
+DMCA
+----
+
+Copyright infringement is not allowed on the Services, and Parler will, in appropriate circumstances, terminate the account of any repeat infringer. If your copyright has been infringed by any content on the Services and you did not grant a license for this use by uploading your copyrighted work to the Services, you may submit a notice that meets all of the requirements of the Digital Millennium Copyright Act (DMCA), 17 U.S.C. 512(c)(3), to Darin Deaver at [dmca@plunksmith.com](mailto:dmca@plunksmith.com) or 2801 Network Boulevard Suite 300, Frisco, TX 75034. Your notice must include: (1) electronic or physical signature of the copyrighted work owner (or person authorized by the copyright owner), (2) a description of the copyrighted work, including the URL where the infringing content is available, or a copy of it, (3) contact details of the person submitting the notice, including email address, telephone, and mailing address, (4) statement in "good faith belief" that the work is not authorized by the copyright owner, and (5) a statement by the sender that all of the above information is accurate, and that the person sending the notice is either the copyright owner or is authorized to act on behalf of the copyright owner. Upon receiving a notice satisfying these requirements, Parler will take whatever action, in its sole discretion, it deems appropriate, including removal of the challenged content from the services.
 
 Access, Accounts, and Service Availability
 ------------------------------------------
 
 You may not interfere with the Services in any way, such as by accessing the Services through automated means in a manner that puts excessive demand on the Services; by hacking the Services; by accessing without authorization areas of the Services that are protected by technical measures designed to prevent unauthorized access; by testing the vulnerability of the Services; by impersonating Parler on the Services; by accessing the Services for any purpose that competes with the interests of Parler; by spamming Parler community members; by failing to respond to operational communications or requests from Parler; or through any other type of interference with the Services or Parler's relationships with others.
 
-Parler reserves the right to withdraw or amend the Services, in our sole discretion without notice. To access the Services, you may be asked to provide certain registration details or other information, and it is a condition of your use that all such information is correct, current, and complete.
+Parler reserves the right to withdraw or amend the Services, in our sole discretion without notice. Parler will not be liable if for any reason all or any part of the Services are unavailable at any time or for any period. From time to time, we may restrict access to all or some parts of Services.
 
-If you choose, or are provided with, a username, password, or any other piece of information as part of our security procedures, you must treat such information as confidential. Parler has the right to disable any username, password, or other identifier at any time in Parler's sole discretion for any or no reason, including if, in Parler's opinion, you have violated any provision of these Terms of Use.
+To access the Services, you may be asked to provide certain registration details or other information. It is a condition of your use of the Services that all the information you provide to Parler is correct, current, and complete. You agree that all information that you provide to or is otherwise collected by Parler through the Services is governed by our [Privacy Policy](https://parler.com/privacy-policy), and you consent to all actions Parler may take with respect to your information consistent with our [Privacy Policy](https://parler.com/privacy-policy).
+
+If you choose, or are provided with, a username, password, or any other piece of information as part of our security procedures, you must treat such information as confidential, and you must not disclose it to any other person or entity. You also acknowledge that your account is personal to you and agree not to provide any other person with access to this Services or portions of it using your username, password, or other security information. You agree to notify Parler immediately of any unauthorized access to or use of your username or password or any other breach of security. Parler has the right to disable any username, password, or other identifier, whether chosen by you or provided by Parler, at any time in Parler's sole discretion for any or no reason, including if, in Parler's opinion, you have violated any provision of these Terms of Use.
+
+Guest Access
+------------
+
+Parler allows limited browsing of the Services without creating an account. By using Parler in guest mode, you agree to these Terms and the [Privacy Policy](https://parler.com/privacy-policy). Certain features, including posting, messaging, commerce, and interactions with other users, require account creation.
+
+Parler is operated from and primarily intended for users in the United States. Parler makes no representation that the Services or their content are appropriate or available for use in other locations, and access from certain jurisdictions may be restricted. If you access the Services from outside the United States, you do so on your own initiative and at your own risk, and you are responsible for compliance with all applicable local laws. Certain features, including blockchain-related features and commerce features, may not be available in all locations.
 
 Termination and Communications
 ------------------------------
 
-Parler may remove any content and terminate your access to the Services at any time and for any reason, including without limitation, to the extent Parler reasonably believes you have violated these Terms or Parler's Community Guidelines, you create risk or possible legal exposure for Parler, or you are otherwise engaging in unlawful conduct.
+Parler may remove any content and terminate your access to the Services at any time and for any reason, including without limitation, to the extent Parler reasonably believes (a) you have violated these Terms or Parler's [Community Guidelines](https://parler.com/community-guidelines), (b) you create risk or possible legal exposure for Parler, or (c) you are otherwise engaging in unlawful conduct, although Parler endeavors to allow all free speech that is lawful and does not infringe the legal rights of others. Any invitation made by Parler to you to use the Services or submit content to the Services, or the fact that Parler may receive a benefit from your use of the Services or provision of content to the Services, will not obligate Parler to maintain any content or maintain your access to the Services. Parler will have no liability to you for removing any content, for terminating your access to the Services, or for modifying or terminating the Services. In addition, accounts which are inactive (without login) for nine (9) months are subject to username relinquishment or account removal.
 
-You agree to receive communications from Parler, including communications sent by phone, email, text message, or other means of communication. If you provided a phone number to Parler, you are required to notify Parler when you cease to own or control that number to help prevent Parler from sending communications to others who may acquire that number.
+If you provide a phone number to Parler, you agree that Parler may send you transactional text messages, including one-time verification codes, account alerts, and security notices. Standard message and data rates may apply. Where Parler offers marketing text messages, separate consent will be obtained at the point of sign-up, and you may opt out of marketing messages at any time by replying STOP. Opting out of transactional messages may limit your ability to access certain features. You agree to notify Parler when you no longer own or control any phone number you have provided so that communications are not sent to others who may acquire that number.
 
-SMS Invitations: Parler processes SMS invitations solely to deliver your invitation to the intended recipient. We do not store recipient phone numbers or share them with any third parties.
+SMS Invitations
+---------------
+
+Parler processes SMS invitations solely to deliver your invitation to the intended recipient. We do not store recipient phone numbers or share them with any third parties. Parler is committed to maintaining the privacy and confidentiality of all data related to SMS invitations, ensuring compliance with applicable privacy laws.
+
+Account Deletion
+----------------
+
+You may delete your account at any time through the account settings in the app. When you delete your account, your profile, posts, and direct messages will be removed from active display on the Services within a reasonable period. Parler may retain certain information after account deletion as required to comply with legal obligations, resolve disputes, prevent fraud, enforce agreements, or as otherwise described in the [Privacy Policy](https://parler.com/privacy-policy). Some content you have shared with other users, including direct messages received by other users and content reposted or saved by others, may remain on the Services after your account is deleted.
 
 Disclaimers and Limitation of Liability
 ---------------------------------------
 
 The Services are provided to you as-is and at your own risk. The Services come with no express or implied warranties, except those that cannot be disclaimed under the law.
 
+You understand that Parler cannot and does not guarantee or warrant that files available for downloading through the Services will be free of viruses or other destructive code. You are responsible for implementing sufficient procedures and checkpoints to satisfy your particular requirements for anti-virus protection and accuracy of data input and output, and for maintaining a means external to the Services for any reconstruction of any lost data.
+
 TO THE FULLEST EXTENT PROVIDED BY LAW, PARLER WILL NOT BE LIABLE FOR ANY LOSS OR DAMAGE CAUSED BY A DISTRIBUTED DENIAL-OF-SERVICE ATTACK, VIRUSES, OR OTHER TECHNOLOGICALLY HARMFUL MATERIAL THAT MAY INFECT YOUR COMPUTER EQUIPMENT, COMPUTER PROGRAMS, DATA, OR OTHER PROPRIETARY MATERIAL DUE TO YOUR USE OF THE SERVICES.
 
-TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, AND REGARDLESS OF THE NATURE OF THE CAUSE OF ACTION, PARLER WILL NOT BE LIABLE TO YOU FOR ANY DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, OR PUNITIVE DAMAGES, OR FOR ANY LOST PROFITS, WHETHER INCURRED DIRECTLY OR INDIRECTLY, OR FOR INTANGIBLE LOSSES. IN NO EVENT SHALL THE AGGREGATE LIABILITY OF PARLER ARISING OUT OF OR RELATING TO THESE TERMS OR THE SERVICES EXCEED THE GREATER OF TWO HUNDRED U.S. DOLLARS (U.S. $200.00) OR THE AMOUNT YOU PAID PARLER, IF ANY, IN THE PAST SIX MONTHS FOR THE SERVICES GIVING RISE TO THE CLAIM.
+PARLER DISCLAIMS ALL EXPRESS OR IMPLIED WARRANTIES AND CONDITIONS, SUCH AS MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. Parler makes no representation or endorsement about the function of the Services or any content available through the Services. Parler has no responsibility or liability to you arising from your use of the Services. Parler has no responsibility or liability to you arising from content provided by you or any other person, even if such content is untrue, harmful, damaging, offensive, inappropriate, fraudulent, tortious, unlawful, contrary to social norms, etc. Although Parler may make efforts to review or monitor content, you agree that you will not rely on this fact for any purpose. Parler has no responsibility or liability to you arising from hacking event, data breach, theft, misuse of information, conspiracy, racket, fraud, act of terrorism, misappropriation of information, technical malfunction, interruption of service, or similar event that may cause you to suffer damage, loss, or injury, including without limitation any damage to or loss of your personal property, data, operations, information, reputation, goodwill, profits, etc.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, AND REGARDLESS OF THE NATURE OF THE CAUSE OF ACTION, PARLER WILL NOT BE LIABLE TO YOU FOR ANY DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, OR PUNITIVE DAMAGES, OR FOR ANY LOST PROFITS, WHETHER INCURRED DIRECTLY OR INDIRECTLY, OR FOR INTANGIBLE LOSSES, ARISING FROM (a) YOUR ACCESS TO OR USE OF (OR INABILITY TO ACCESS OR USE) THE SERVICES; (b) FROM THE ACTS OR OMISSIONS OF ANY OTHER PERSON OR THIRD PARTY, INCLUDING, WITHOUT LIMITATION, ANY DEFAMATORY, OFFENSIVE, OR ILLEGAL CONDUCT OF OTHER PERSONS OR THIRD PARTIES; (c) ANY CONTENT OBTAINED FROM THE SERVICES; OR (d) UNAUTHORIZED ACCESS, USE, OR ALTERATION OF YOUR CONTENT OR COMMUNICATIONS THROUGH THE SERVICES. IN NO EVENT SHALL THE AGGREGATE LIABILITY OF PARLER ARISING OUT OF OR RELATING TO THESE TERMS OR THE SERVICES EXCEED THE GREATER OF TWO HUNDRED U.S. DOLLARS (U.S. $200.00) OR THE AMOUNT YOU PAID PARLER, IF ANY, IN THE PAST SIX MONTHS FOR THE SERVICES GIVING RISE TO THE CLAIM. THE LIMITATIONS OF THIS SECTION SHALL APPLY TO ANY THEORY OF LIABILITY, WHETHER BASED ON WARRANTY, CONTRACT, STATUTE, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE, AND SHALL FURTHER APPLY WHETHER OR NOT PARLER HAS BEEN INFORMED OF THE POSSIBILITY OF ANY SUCH DAMAGES AND EVEN IF A REMEDY LAID OUT IN THESE TERMS IS FOUND TO HAVE FAILED ITS ESSENTIAL PURPOSE.
+
+You agree to defend, indemnify, and hold Parler harmless, along with Parler's affiliates, licensors, and service providers, and our and their respective officers, directors, employees, contractors, agents, licensors, suppliers, successors, and assigns from and against any claims, liabilities, damages, judgments, awards, losses, costs, expenses, or fees (including reasonable attorneys' fees) arising out of or relating to your violation of these Terms of Use or your use of the Services.
 
 Applicable Law and Dispute Resolution
 -------------------------------------
 
-The laws of Nevada will govern these Terms and any dispute that arises between you and Parler. You agree that all disputes related to these Terms or the Services will first be mediated, in good faith, within sixty (60) days of the demanding party's provision of a written demand, unless expressly agreed otherwise in a signed writing.
+The laws of Nevada will govern these Terms and any dispute that arises between you and Parler. You agree that all disputes related to these Terms or the Services will first be mediated, in good faith, within sixty (60) days of the demanding party's provision of a written demand, unless expressly agreed otherwise in a signed writing. In the event that a full settlement is not achieved during mediation, you agree that any dispute, action or proceeding seeking to enforce any provision of, or based on any right arising out of these Terms or otherwise, shall then be settled exclusively by arbitration as set forth hereunder and you hereby waive the right to a jury trial before any court of competent jurisdiction.
 
-In the event that a full settlement is not achieved during mediation, you agree that any dispute, action or proceeding seeking to enforce any provision of, or based on any right arising out of these Terms or otherwise, shall then be settled exclusively by arbitration in Nevada, USA, and you hereby waive the right to a jury trial before any court of competent jurisdiction.
+Jury Trial Waiver. BY USING THE SERVICES, YOU WAIVE A TRIAL BY JURY IN ANY ACTION, PROCEEDING, OR COUNTER-CLAIM BROUGHT OR ASSERTED BY EITHER YOU OR PARLER AGAINST THE OTHER ON ANY MATTERS WHATSOEVER RELATING TO OR ARISING OUT OF THESE TERMS, INCLUDING THE FORMATION OF AN AGREEMENT BETWEEN THE PARTIES BASED ON THESE TERMS.
 
-You affirm that you are competent to agree to be bound by this Agreement, meaning that you are over the age of 18 and, if applicable, have the consent of any designated guardian. In addition to the NSFW filters made available by Parler, there are "Parental Control" products and features available on the market which can help you tailor your experience on our platform.
+ARBITRATION REQUIREMENT. At PARLER'S sole discretion, Parler may require all claims, controversies, disputes and other matters in question arising out of, or relating to these Terms, the breach hereof or the rights, privileges, responsibilities or duties between or among you and Parler, to be decided by confidential arbitration in Nevada, USA in accordance with the Commercial Arbitration Rules of the American Arbitration Association ("AAA") then existing, unless all parties to any such claim, controversy or dispute, or other matter in question, unanimously agree to the contrary. The provisions contained in this Paragraph shall be specifically enforceable under the prevailing arbitration law.
+
+The arbitrator or arbitrators for any proceeding conducted hereunder shall be a person or persons with experience in the social media business, selected in accordance with the AAA's Commercial Arbitration Rules then in effect. The parties will be entitled to conduct discovery in accordance with the provisions of Nevada's or applicable code of civil procedure. The remedial authority of the arbitrator or arbitrators will be the same as, but no greater than, would be the remedial power of a court having jurisdiction over the Parties and their dispute. The arbitrator or arbitrators will render a written opinion based on Nevada law, and specify an award, which will be final and binding upon the Parties.
+
+You affirm that you are competent to agree to be bound by this Agreement, meaning that you are over the age of 18 and, if applicable, have the consent of any designated guardian. In addition to the NSFW filters made available by Parler, there are "Parental Control" products and features available on the market, which can help you tailor your experience on our platform.
+
+Waiver
+------
+
+Parler cannot waive any right to enforce this Agreement, unless it does so expressly in writing. No waiver of any part of this Agreement will be a further or continuing waiver of that part or any other part, and no failure to enforce any part of this Agreement will be deemed a waiver of any kind.
 
 Modifications
 -------------
 
-Parler may modify the Terms of this Agreement in any way and at any time by posting such modifications through the Services. All changes are effective immediately when we post them, and you agree to be responsible for making yourself aware of any modification of the Terms and to be bound by any modification of the Terms when you continue to access or use the Services after any such modification.
+Parler may modify the Terms of this Agreement in any way and at any time by posting such modifications through the Services. All changes are effective immediately when we post them, and you agree to be responsible for making yourself aware of any modification of the Terms and to be bound by any modification of the Terms when you continue to access or use the Services after any such modification. As a matter of courtesy, Parler endeavors to inform its community members of any such changes. These Terms supersede all prior agreements between you and Parler pertaining to the Services. Except for the statements in this document and the documents expressly incorporated herein by reference, no statement by Parler or anyone associated with Parler, whether verbal or written, can modify or supplement the Terms of this Agreement unless the modification or supplement is stated expressly in writing by referring to this Agreement. If any of the Terms in the Agreement are held to be invalid or unenforceable by a court or arbitrator or by operation of law, the remaining Terms will remain in effect.
