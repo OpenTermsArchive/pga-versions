@@ -9,6 +9,8 @@ Welcome to Instagram!
 
 These Terms of Use (or “Terms”) govern your access and use of Instagram, except where we expressly state that separate terms (and not these) apply, and provide information about the Instagram Service (the “Service”), outlined below. The Meta Terms of Service do not apply to this Service.
 
+You can read a summary of the terms here.
+
 Click here for a Contract Summary and here for other information we are required by the European Electronic Communications Code to provide.
 
 If you are a “business user” of our online social networking core platform service(s), you can learn more about your commercial relationship with us under Article 6(12) of the DMA by reviewing this notice which supplements our Terms of Use. “Business user” is defined under Article 2 paragraph (21) of Regulation (EU) 2022/1925 (“Digital Markets Act” or “DMA”).
@@ -215,6 +217,3 @@ We always appreciate feedback or other suggestions, but may use them without any
 We may change our Service and policies, and we may need to make changes to these Terms so that they accurately reflect our Service and policies. We will only make changes if the provisions are not appropriate anymore or if they are incomplete, and only if the changes are reasonable for you in consideration to your interests. Unless otherwise required by law, we will notify you of the changes and choices you have (for example, through our Service) at least 30 days before we update the Terms, and we will give you an opportunity to review them before they go into effect. Then, if you continue to access or use the Service you will be bound by the updated Terms. If you do not agree to any updated Terms or wish to terminate your agreement to this contract, you can do so by deleting your account here and no longer accessing or using any part of the Instagram Service.  
 
 Effective Date: 1 January 2025
-
-Other ways to get help
-----------------------
