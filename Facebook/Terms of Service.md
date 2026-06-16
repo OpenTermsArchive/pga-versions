@@ -3,6 +3,8 @@ Overview
 
 Effective January 1, 2025
 
+You can read a summary of our terms .
+
 For messaging, voice and video calling services included in Meta Products, please click for a contract summary and for other information required by the European Electronic Communications Code.
 
 Meta builds technologies and services that enable people to connect with each other, build communities, and grow businesses. These Terms of Service (the "Terms") govern your access and use of Facebook, Messenger, and the other products, websites, features, apps, services, technologies, and software we offer (the or Products), except where we expressly state that separate terms (and not these) apply. (For example, your use of Instagram is subject to the Instagram Terms of Use). If we show you ads on Meta Products, these Terms also govern how Meta uses information to show you ads that businesses and organizations pay us to promote. These Products are provided to you by Meta Platforms Ireland Limited. These Terms therefore constitute an agreement between you and Meta Platforms Ireland Limited. If you do not agree to these Terms, then do not access or use Facebook or the other products and services covered by these Terms.
