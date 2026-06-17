@@ -217,6 +217,3 @@ We always appreciate feedback or other suggestions, but may use them without any
 We may change our Service and policies, and we may need to make changes to these Terms so that they accurately reflect our Service and policies. We will only make changes if the provisions are not appropriate anymore or if they are incomplete, and only if the changes are reasonable for you in consideration to your interests. Unless otherwise required by law, we will notify you of the changes and choices you have (for example, through our Service) at least 30 days before we update the Terms, and we will give you an opportunity to review them before they go into effect. Then, if you continue to access or use the Service you will be bound by the updated Terms. If you do not agree to any updated Terms or wish to terminate your agreement to this contract, you can do so by deleting your account here and no longer accessing or using any part of the Instagram Service.  
 
 Effective Date: 1 January 2025
-
-Other ways to get help
-----------------------
