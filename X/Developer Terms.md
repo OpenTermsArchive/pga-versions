@@ -884,14 +884,14 @@ Posting With Location is the geotagging feature in the X API. This feature helps
 
 [​](#user-privacy-and-user-control-of-their-location-information)
 
-User Privacy And User Control Of Their Location Information
+User privacy and user control of their location information
 --------------------------------------------------------------------------------------------------------------------------------
 
 To ensure a good and safe experience, developers should be sensitive to user privacy when dealing with their location as well as provide baseline consistency in the “Posting with Location” experience. Here are some key things to keep in mind that help protect user privacy and ensure users understand the impact of their actions:
 
 [​](#general-guidelines)
 
-General Guidelines
+General guidelines
 ----------------------------------------------
 
 *   Users must opt-in to use the Posting With Location feature (turn location “on”).
@@ -903,7 +903,7 @@ General Guidelines
 
 [​](#specific-examples)
 
-Specific Examples
+Specific examples
 --------------------------------------------
 
 Example 1: _No addition of explicit latitude and longitude (this is the current X Web Client UI)_
@@ -919,7 +919,7 @@ Example 2: _Existing geotagging implementations_ A number of X client apps have 
 
 [​](#x-storage-of-user-location-data)
 
-X Storage Of User Location Data
+X storage of user location data
 ------------------------------------------------------------------------
 
 X will store data passed by the client as follows:
