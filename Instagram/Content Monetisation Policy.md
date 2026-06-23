@@ -232,6 +232,17 @@ Content may not be monetized if it displays or discusses gore or bodily conditio
 *   Decay
     
 *   Infestation
+    
+
+![](https://static.xx.fbcdn.net/rsrc.php/yZ/r/HKn8jf_T3_F.svg)
+
+#### Have a moment?
+
+Tell us how we're doing
+
+Take Survey
+
+![](https://static.xx.fbcdn.net/rsrc.php/yG/r/kfua4ByQYQH.webp)
 
 - - -
 
