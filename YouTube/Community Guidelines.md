@@ -104,6 +104,8 @@ Don’t post content on YouTube if it fits any of the descriptions noted below:
 
 If you operate a fan channel, make sure you state so explicitly in your channel name or [handle](https://support.google.com/youtube/answer/11585688). It should be obvious to your viewers that your channel doesn't represent the original creator, artist, or entity.
 
+Creators should disclose when content is generated or meaningfully altered with AI, but this disclosure is not a free pass to impersonate a person, entity, or channel. Our Community Guidelines, including our impersonation policy, apply to all content regardless of how it is made.
+
 Examples
 --------
 
