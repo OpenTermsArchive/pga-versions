@@ -1,6 +1,6 @@
 Creator code of conduct
 
-Views: 2.2MLast updated: May 18, 2026
+Views: 2.2MLast updated: Jun 26, 2026
 
 It's our priority to maintain a safe and welcoming environment for everyone on TikTok. We expect all creators to follow our Community Guidelines, Terms of Service, and any other agreed-upon creator terms or program terms, so we can all stay protected and keep fostering community on our platform.
 
@@ -20,7 +20,7 @@ Bullying or harassing others, such as sexual harassment, stalking, doxxing, blac
 
 Harmful or Violent Behavior
 
-Promoting, encouraging, or engaging in behavior that could harm others, animals, or involve environmental destruction. This includes inciting violence, organizing dangerous activities or harmful imitable behaviors, animal cruelty, human exploitation, or risking the safety and well-being of minors.
+Promoting, encouraging, or engaging in behavior that could harm others, animals, or involve environmental destruction. This includes inciting violence, organizing dangerous activities or harmful imitable behaviors, animal cruelty, human exploitation, or risking the safety and well-being of minors, such as promoting or facilitating child labour, mistreatment or abuse. All such conduct must comply with applicable laws and regulations in local jurisdictions.
 
 Sexual Misconduct
 
