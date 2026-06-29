@@ -23,7 +23,7 @@ Creators who monetize on X must meet the following requirements:
     *   You have not repeatedly violated the [X User Agreement](https://x.com/en/tos.html) or X’s Content Monetization Standards. 
     *   You have not previously been removed as an advertiser on X for violations of our Ads policies or as an Amplify publisher on X for violations of our [Amplify Pre-Roll Guidelines](https://business.x.com/en/help/troubleshooting/amplify-publisher-faqs.html)
 *   You must have an active Premium, Premium Business, or Premium Organizations subscription. 
-*   You must connect a verified Stripe account.
+*   You must connect an X Money account or verified Stripe account.
 *   You must complete [identity verification](https://help.x.com/en/forms/creator-id-verification.html).
 *    Subscriptions additional criteria (Learn more about [Subscriptions](https://help.x.com/en/using-twitter/subscriptions-creator.html))
     *   You maintain 2,000 or more active followers with Premium, Premium Business, or Premium Oganizations subscriptions.
