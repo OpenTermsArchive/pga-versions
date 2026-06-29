@@ -271,7 +271,7 @@ To report content that you believe infringes on your intellectual property right
 
 Abuse of our reporting process can lead to restrictions on your ability to submit reports in the future, and repeated violations of the [Spotify Terms of Use](https://www.spotify.com/legal/end-user-agreement/), including our [Platform Rules](https://www.spotify.com/safetyandprivacy/platform-rules/), may result in your account being suspended or terminated.
 
-Authorities listed in the Official Journal of the European Union can report content for the purposes of the [Regulation (EU) 2021/784 on addressing the dissemination of terrorist content online](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A32021R0784) by [emailing us](mailto:<eu-terreg@spotify.com>). We will not respond to requests sent by anyone other than relevant authorities.
+Authorities listed in the Official Journal of the European Union can report content for the purposes of the [Regulation (EU) 2021/784 on addressing the dissemination of terrorist content online](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A32021R0784) by [emailing us](mailto:\<eu-terreg@spotify.com\>). We will not respond to requests sent by anyone other than relevant authorities.
 
 Who can report content?
 -----------------------
@@ -750,8 +750,8 @@ Support for EU authorities
 
 Relevant national judicial or administrative authorities can contact us directly for the purposes of the DSA:
 
-*   For orders to act against illegal content or for other communication from regulatory authorities, please [\>email us](mailto:<dsa-govt@spotify.com).
-*   To request information about one or more specific individual recipients of Spotify’s services, please [\>contact us](mailto:<law-enforcement@spotify.com).
+*   For orders to act against illegal content or for other communication from regulatory authorities, please [\>email us](mailto:\<dsa-govt@spotify.com).
+*   To request information about one or more specific individual recipients of Spotify’s services, please [\>contact us](mailto:\<law-enforcement@spotify.com).
 
 Communications to the above email addresses can be either in English or Swedish. Note that we will not respond to requests sent to these addresses by anyone other than the European Member States’ authorities, the European Commission and the European Board for Digital Services.
 
