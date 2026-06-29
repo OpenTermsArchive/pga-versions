@@ -58,63 +58,173 @@ We have a variety of ways of enforcing our rules, including, but not limited to
 
 - - -
 
-**We do not tolerate the harassment, threatening, or bullying of people on our site; nor do we tolerate communities dedicated to this behavior.**
+**Remember that there are real people behind the usernames. Do not engage in behavior that bullies, intimidates, or targets other people or communities with abuse.**
 
-Reddit is a place for conversation, and in that context, we define this behavior as anything that works to shut someone out of the conversation through intimidation or abuse, online or off. Depending on the context, this can take on a range of forms and could include directing unwanted invective at someone, sexualizing someone without their consent, or following them from community to community, just to name a few. Behavior can be harassing or abusive regardless of whether it occurs in public content (e.g. a post, comment, username, community name, community styling, sidebar materials, etc.) or chat.
+This policy is designed to protect people from targeted personal abuse, not to shield ideas, beliefs, organizations, or public figures from criticism, even if it's harsh. Passionate debate and disagreement are a natural part of the human experience, including on Reddit, and it’s not against our rules to have a strong opinion, criticize someone’s actions, or downvote others’ content. However, we prohibit behavior that crosses the line into targeted, severe, or patterned abuse, including encouraging others to engage in abuse.  
+ 
 
-Being annoying, downvoting, or disagreeing with someone, even strongly, is not harassment. However, menacing someone, directing abuse at a person or group, following them around the site, encouraging others to do any of these actions, or otherwise behaving in a way that would discourage a reasonable person from participating on Reddit crosses the line.
+What are some things that may violate this policy?
+--------------------------------------------------
 
-**To report Harassment, please visit [this page](https://www.reddit.com/report).**
+It is not allowed to single out an individual or group for harassment. This policy focuses on patterns of behavior and targeted actions, not just individual insults. This includes, but is not limited to:
+
+*   Severe personal attacks, such as wishing or hoping for serious harm (e.g., death, severe illness) to fall upon another person, or using graphic insults to attack someone's dignity.
+*   Targeting personal vulnerabilities, such as attacking someone on the basis of disclosed health conditions, past traumas, personal hardships, or physical appearance.
+*   Antagonizing communities, which could include repeatedly “trolling” subreddits with off-topic posts or undermining the purpose of the community. 
+*   Sexualizing someone without their consent, sending unsolicited sexual content, or other unwanted sexualization.
+*   A sustained campaign of unwanted contact, such as following a user across the platform to repeatedly antagonize them, or creating accounts specifically to abuse an individual.
+
+Note: Public figures may be subject to robust criticism and scrutiny related to their public role or persona, but this does not permit harassment campaigns that directly target their family, compromise their personal safety, or incite serious harm upon them.
+
+Some examples of policy violations
+
+*   A comment wishing, directly or indirectly, that someone gets cancer and dies.
+*   Directing others to pile negative comments onto someone else's post.
+*   Following a user from one community to another to continue a previous argument on unrelated posts.
+*   Contacting a user in a private, unsolicited chat with insults or degrading comments.
+*   Creating a community dedicated to sharing and sexualizing individuals’ nonsexual media without their consent. 
+*   Creating an account with an abusive username that targets another individual (e.g., u/IHateUserName) and using it to reply to their comments.
+*   Flooding a user's inbox with dozens of messages containing only a greeting or emoji to overwhelm them.
+
+Some examples that do NOT violate this policy
+
+*   A comment in a heated debate calling someone a jerk or an idiot.
+*   A post criticizing a public figure’s voting record or public statements.
+*   A community dedicated to sarcastic commentary about an influencer's social media content.
+*   Sharing your own personal story about a negative interaction you had, without directing others to take action against the person involved.
+*   A consensual sexual conversation between adult users in chat or in an appropriate community.
+
+How can I report potential violations of this policy?
+-----------------------------------------------------
+
+To report content that potentially violates this policy, you can use the [report button](https://support.reddithelp.com/hc/articles/360058309512-How-do-I-report-a-post-or-comment) next to the content you’d like to report in the app or on reddit.com (if you have a Reddit account) or you can file a report [here](https://support.reddithelp.com/hc/requests/new?ticket_form_id=15968767746196&tf_15968861076756=report_content_policy_violation) (if you do not have a Reddit account).
+
+To find out more about Reddit's enforcement philosophy, please click [here](https://support.reddithelp.com/hc/articles/23511059871252-Content-Moderation-Enforcement-and-Appeals). You can also learn about our policy enforcement data in the latest [Reddit Transparency Report](https://www.redditinc.com/policies/transparency).
 
 - - -
 
-_Rule 1: Remember the human. … Everyone has a right to use Reddit free of harassment, bullying, and threats of violence.  
+**Remember the human and do not threaten, encourage, or glorify violence on Reddit.**
+
   
-_Do not post content that encourages, glorifies, incites, or calls for violence or physical harm against an individual (including oneself) or a group of people; likewise, do not post content that glorifies or encourages the abuse of animals. We understand there are sometimes reasons to post violent content (e.g., educational, newsworthy, artistic, satire, documentary, etc.) so if you’re going to post something violent in nature that does not violate these terms, ensure you provide context to the viewer so the reason for posting is clear.
+This policy focuses on credible risks of real-world harm (including to oneself) or speech that genuinely makes others feel unsafe, while maintaining space for legitimate discussions in various contexts. We understand there are sometimes reasons to post violent content (e.g., educational, newsworthy, artistic, satire, documentary, etc.) so if you’re going to post something violent in nature that does not violate these terms, ensure you provide context to the viewer so the reason for posting is clear.   
+ 
 
-If your content is borderline, please use a NSFW tag. Even mild violence can be difficult for someone to explain to others if they open it unexpectedly.
+What are some things that may violate this policy?
+--------------------------------------------------
 
-Some examples of violent content that would violate the Rule:
+*   Threatening violence, such as directly or indirectly stating an intent to physically harm or attack an individual, a group, or a location.
+*   Inciting or encouraging violence, such as calling for others to commit violent acts, including through the use of coded references or memes with a known violent meaning.
+*   Glorifying or celebrating violent events, such as praising perpetrators of mass violence (e.g., mass shooters), sharing killers’ manifestos, or mocking the victims of violent tragedies.
+*   [Terrorist content](https://support.reddithelp.com/hc/articles/19003525756564).
+*   Posting graphic or disturbing content purely to disgust or horrify users, such as sharing real-world gore without context or in unrelated communities, or sharing footage filmed by a perpetrator during an attack.
+*   Encouraging or glorifying suicide or self-harm. Importantly, while discussions about mental health struggles are allowed, it is a violation to promote self harm through imagery or text, or request or give instructions on how to self-harm.
+*   Promoting real-world sexual violence or sexual activity that involves severe physical injury or risk of death.
+*   Depicting or encouraging the malicious abuse or suffering of animals for entertainment.
 
-*   Post or comment with a credible threat of violence against an individual or group of people.
-*   Post containing mass killer manifestos or imagery of their violence.
-*   [Terrorist content](https://support.reddithelp.com/hc/en-us/articles/19003525756564), including propaganda.
-*   Post containing imagery or text that incites, glorifies, or encourages self-harm or suicide.
-*   Post that requests, or gives instructions on, ways to self-harm or commit suicide.
-*   Graphic violence, image, or video without appropriate context.
+Note: Content that depicts violence but doesn't violate this policy (as described above) should be labeled Not Safe for Work (“NSFW”). Additionally, we may allow appropriately labelled graphic content that has public interest value, such as legitimate news reporting, historical documentation, or citizen journalism, provided it is not used to mock victims, celebrate violence, or promote a perpetrator’s message or ideology.
 
-**To report Violent Content, please visit** [**this page**](https://www.reddit.com/report)**.  
-**
+Some examples of policy violations
 
-[**What do I do if someone talks about seriously hurting themselves or is considering suicide?**](https://www.reddithelp.com/hc/en-us/articles/360043513931-What-do-I-do-if-someone-talks-about-seriously-hurting-themselves-or-is-considering-suicide-)
+*   A post including violent imagery that encourages others to take action against an individual or a group.
+*   Creating a community that praises a mass shooter as a hero.
+*   Posting threats against protest participants, counter-protesters, or law enforcement agents.
+*   Posting a graphic image of a car crash victim with a title that makes fun of them.
+*   A post that provides instructions on methods of self-harm.
+*   A video showing a person intentionally harming a stray cat.
+*   A post using a seemingly artistic or hand-drawn illustration to make a death threat against a specific real-world person.
+*   A post sharing a meme or image meant to celebrate a known killer. 
 
-When you see a post or comment about suicidal feelings in a community, it can be overwhelming, and you may feel like you don’t know what to do. But you can help, and there are resources available for you and the person you’re worried about.  Reddit has partnered with [Crisis Text Line](https://www.crisistextline.org/) to provide redditors who may be considering suicide or seriously hurting themselves with support from trained Crisis Counselors.
+Some examples that do NOT violate this policy
+
+*   A post discussing a war, with graphic images from the event correctly labeled as NSFW.
+*   A user expressing thoughts of self-harm in the context of seeking help in a support community.
+*   A post showing a picture of a legally hunted animal.
+*   A comment saying, “people who leave the toilet seat up should get shot.”
+*   A post sharing a music video or piece of performance art that depicts violence as part of a creative or narrative story, provided it is appropriately labeled and does not contain real-world gore, credible threats, or incitement to violence.
+*   A satirical political cartoon or illustration using metaphorical imagery to criticize a public institution or social issue.
+
+  
+How can I report potential violations of this policy?
+--------------------------------------------------------
+
+To report content that potentially violates this policy, you can use the [report button](https://support.reddithelp.com/hc/articles/360058309512-How-do-I-report-a-post-or-comment) next to the content you’d like to report in the app or on reddit.com (if you have a Reddit account) or you can file a report [here](https://support.reddithelp.com/hc/requests/new?ticket_form_id=15968767746196&tf_15968861076756=report_content_policy_violation) (if you do not have a Reddit account).
+
+To find out more about Reddit's enforcement philosophy, please click [here](https://support.reddithelp.com/hc/articles/23511059871252-Content-Moderation-Enforcement-and-Appeals). You can also learn about our policy enforcement data in the latest [Reddit Transparency Report.](https://www.redditinc.com/policies/transparency)
 
 - - -
 
-_Rule 1: Remember the human. Reddit is a place for creating community and belonging, not for attacking marginalized or vulnerable groups of people. Everyone has a right to use Reddit free of harassment, bullying, and threats of violence. Communities and people that incite violence or that promote hate based on identity or vulnerability will be banned._
+**Do not attack, incite harm, or discriminate against any individual or group based on their identity or vulnerability.**
 
-Marginalized or vulnerable groups include, but are not limited to, groups based on their actual and perceived race, color, religion, national origin, ethnicity, immigration status, gender, gender identity, sexual orientation, pregnancy, or disability. These include victims of a major violent event and their families. 
+  
+Who is covered?
+------------------
 
-While the rule on hate protects such groups, it does not protect those who promote attacks of hate or who try to hide their hate in bad faith claims of discrimination.
+Individuals and groups marginalized or attacked on the basis of the following factors, or any other actual or perceived attributes used to reinforce existing inequality or promote exclusion:
 
-Some examples of hateful activities that would violate the rule:
+*   Race, color, ethnicity, national origin, caste
+*   Religion
+*   Immigration status
+*   Gender, gender identity, sex, sexual orientation
+*   Disability
+*   Pregnancy
+*   Housing status, veteran status
+*   Victims of violent crimes and their families
 
-*   Community dedicated to mocking people with physical disabilities. 
-*   Post describing a racial minority as sub-human and inferior to the racial majority.
-*   Comment arguing that rape of women should be acceptable and not a crime.
-*   Meme declaring that it is sickening that people of color have the right to vote.
-*   Post promoting harmful tropes or generalizations based on religion (e.g. a certain religious group controls the media, or consists entirely of terrorists). 
-*   A comment denying or minimizing the scale of a hate-based violent event. 
+  
+What are some things that may violate this policy?
+-----------------------------------------------------
 
-Additionally, when evaluating the activity of a community or an individual user, we consider both the context as well as the pattern of behavior.
+The following are some examples of violations that apply under this policy when targeting others based on their identity or vulnerability as described above. 
+
+*   Hateful violent rhetoric, which could include: 
+    *   Calling for violence against individuals or groups. 
+    *   Wishing for their death or injury. 
+    *   Encouraging others to engage in targeted, violent acts.
+*   Hateful ideologies and denial, which may include: 
+    *   Endorsing or glorifying hateful symbols or ideologies that promote group supremacy. 
+    *   Denying or minimizing established hate-based violent events.
+*   Reducing a group to something non-human (e.g., comparing them to animals or filth), or calling for their exclusion or segregation from political or economic life.
+*   Engaging in a pattern of abuse, site-stalking, or coordinating attacks to intimidate an individual or antagonize a community of people, on the basis of their identity or vulnerability.
+*   Hateful tropes and inferiority claims, which may include but are not limited to: 
+    *   Alleging physical, moral, or mental inferiority. 
+    *   Resharing harmful narratives and stereotypes to reinforce prejudice against an individual or group.
+
+Note: Context is critical. When evaluating a report, we assess the activity of a community or an individual user, their pattern of behavior, and the content itself. This allows us to distinguish genuine hateful attacks, bad faith “humor,” or coded language from content shared for purposes like social or political commentary, educational uses, or condemnation of hate.
+
+Some examples of policy violations
+
+*   A comment alleging that an ethnic group is disgusting and shouldn't exist.
+*   Posting an image of a hateful symbol (e.g., swastika) without context.
+*   Promoting that a certain religious group controls the media or is entirely composed of terrorists.
+*   A meme declaring that it is sickening that people of color have the right to vote.
+*   A community dedicated to mocking people with physical disabilities.
+*   Directly replying to someone's post to attack their gender.
+*   A comment arguing that raping women should be acceptable and not a crime.
+*   A comment stating that a specific individual is too stupid to lead a country because of their gender or racial identity.
+*   Creating an account with a hateful username that targets a protected group (e.g., u/KillAll\[EthnicGroup\]).
+
+Some examples that do NOT violate this policy
+
+*   A comment in a heated debate insulting one's political party.
+*   Reposting (fka crossposting) a news article to a relevant community to discuss a statement made by a public official.
+*   Sharing your own personal story about experiencing discrimination in the workplace.
+*   A post criticizing a government's policy on migration.
+*   An offensive image shared with a post caption clearly indicating an educational, documentary, or scientific purpose. 
+
+  
+How can I report potential violations of this policy? 
+---------------------------------------------------------
+
+To report content that potentially violates this policy, you can use the [report button](https://support.reddithelp.com/hc/articles/360058309512-How-do-I-report-a-post-or-comment) next to the content you’d like to report in the app or on reddit.com (if you have a Reddit account) or you can file a report [here](https://support.reddithelp.com/hc/requests/new?ticket_form_id=15968767746196&tf_15968861076756=report_content_policy_violation) (if you do not have a Reddit account).
+
+To find out more about Reddit's enforcement philosophy, please click [here](https://support.reddithelp.com/hc/articles/23511059871252-Content-Moderation-Enforcement-and-Appeals). You can also learn about our policy enforcement data in the latest [Reddit Transparency Report](https://redditinc.com/policies/transparency).
 
 - - -
 
 **Do not use Reddit for repeated or unsolicited mass engagement.** 
 
 Spam – defined as repeated or unsolicited actions (whether automated or manual) that negatively affect redditors, communities, and/or Reddit itself – is never allowed. Spammers compromise everyone's use of Reddit by artificially inflating exposure to unwanted or irrelevant content.   
-  
+ 
 
 What are some things that may violate this policy?
 --------------------------------------------------
@@ -141,8 +251,7 @@ How do I avoid being labeled as a spammer?
 *   Post authentic content into communities where you have a personal interest.  
 *   If your contributions to Reddit consist primarily of links to a business that you run, own, or otherwise benefit from, please be thoughtful about the frequency of posting, or consider advertising opportunities using our [self-serve platform](https://www.business.reddit.com/).
 *   If you’re unsure if your content is considered spam, check to see if the community you want to engage with has specific rules in addition to the guidelines above. (Note that community moderators adjudicate what constitutes unwanted/spammy content in their communities and may take action accordingly.) You may also contact the moderators of the community if you need additional clarifications.  
-      
-    
+     
 
 How can I report potential spam/spammers? 
 ------------------------------------------
@@ -274,40 +383,28 @@ What are some things that may violate this policy?
 -----------------------------------------------------
 
 *   Pretending to be or represent an existing individual or organization in order to mislead or confuse others.
-    
 *   Posing as an individual or organization that does not exist in order to make others believe they are engaging with a real entity.
-    
 
   
 What are some of the criteria taken into consideration when determining violations?
 --------------------------------------------------------------------------------------
 
 *   Elements of a user profile or community such as name, description, profile picture, and activity may all be indicators of impersonation.
-    
 
 Some examples of policy violations
 
 *   Using the name of a business and offering deals to redditors on its behalf without authorization.
-    
 *   Creating an account with a username almost identical to another account's username to confuse others about which account they are interacting with. 
-    
 *   Offering an AMA with an account pretending to be the spokesperson for an established organization.
-    
 *   Creating a community posing as the job listing community for a fictional recruitment agency.
-    
 *   Using an account that poses as an official government agency and engages users on public matters.
-    
 *   Misrepresenting yourself as a Reddit admin with an account that uses the Reddit name and branding.
-    
 
 Some examples that DO NOT violate this policy
 
 *   Using a company's name for the purpose of discussing its products, services, or business practices.
-    
 *   Using the name of a celebrity for a fan account that doesn't assume that identity in interactions with others.
-    
 *   Creating your brand's official community to directly engage with redditors.
-    
 
   
 How can I report potential violations of this policy?
@@ -322,7 +419,7 @@ For more information, please visit Reddit's [enforcement philosophy](https://sup
 **Do not use Reddit to exchange illegal or prohibited goods and services with other redditors.** 
 
 You are free to discuss all sorts of products and services, including those that may not be legal where you are, but keep in mind that certain user-to-user transactions are not allowed.  
-  
+ 
 
 What are some things that may violate this policy?
 --------------------------------------------------
@@ -362,13 +459,34 @@ Some examples that do NOT violate this policy
 *   A post seeking to buy a holster or shooting glasses.
 *   A community dedicated to discussions about firearm ownership or shooting sports.
 
- Where can I report potential violations of this policy?
---------------------------------------------------------
+   
+Where can I report potential violations of this policy?
+-----------------------------------------------------------
 
-To report content that violates this policy, you can use the [report button](https://support.reddithelp.com/hc/articles/360058309512-How-do-I-report-a-post-or-comment) next to the content you’d like to report in the app or on reddit.com (if you have a Reddit account) or you can [file a report](https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=15968767746196&tf_15968861076756=report_content_policy_violation) (if you do not have a Reddit account).  
+To report content that violates this policy, you can use the [report button](https://support.reddithelp.com/hc/articles/360058309512-How-do-I-report-a-post-or-comment) next to the content you’d like to report in the app or on reddit.com (if you have a Reddit account) or you can [file a report](https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=15968767746196&tf_15968861076756=report_content_policy_violation) (if you do not have a Reddit account).  
 
 For more information, please visit Reddit's [enforcement philosophy](https://support.reddithelp.com/hc/articles/23511059871252-Content-Moderation-Enforcement-and-Appeals). You can also learn about our policy enforcement data in the latest [Reddit Transparency Report](https://redditinc.com/transparency).
 
 - - -
 
-Don't break the site or do anything that interferes with normal use of the site. Do not interrupt the serving of Reddit, introduce malicious code onto Reddit, make it difficult for anyone else to use Reddit due to your actions, block sponsored headlines, create programs that violate any of our other API rules, or assist anyone in misusing Reddit in any way.
+**Don't break Reddit, interfere with its normal use, or create programs or applications (“apps”) that violate our API rules.** 
+
+This rule applies to all users or entities accessing or interacting with Reddit’s services. This includes API access and the behavior of apps –including bots, AI agents, and non-human operated accounts– to ensure that they are transparent, accountable, and do not degrade the experience for redditors.
+
+What are some things that may violate this policy?
+--------------------------------------------------
+
+*   Bypassing security, safety, or technical guardrails, including evading enforcement, exceeding access limits, or assisting anyone in misusing the platform.
+*   Scraping Reddit or its services without an authorized agreement.
+*   Disrupting or interrupting Reddit's services, such as by degrading platform performance, introducing malicious code, or exploiting bugs and vulnerabilities.
+*   Accessing or collecting data from Reddit or its users [without permission.](https://support.reddithelp.com/hc/articles/42728983564564-Responsible-Builder-Policy)
+*   Creating or operating apps that: 
+    *   Continue to use or display public content deleted by redditors or removed for [Reddit Rules](https://redditinc.com/policies/reddit-rules) violations;
+    *   Mask as a human or fail to [register as an app](https://support.reddithelp.com/hc/articles/45376380316052-Apps-on-Reddit-and-how-to-get-a-label-for-your-app);
+    *   Use developer credentials for unauthorized purposes;
+    *   Intentionally remove or hide Reddit’s promoted posts or sponsored headlines;
+    *   Use automation for unsolicited outreach (e.g., unprompted DMs or Chat requests).
+*   Creating accounts through automated or agentic means.
+*   Misusing platform features in a way that disrupts the experience for others.
+
+**Note:** Apps must [register](https://developers.reddit.com/app-registration) and comply with our [](https://redditinc.com/policies/user-agreement)[Developer Terms](https://redditinc.com/policies/developer-terms) (including the [Data API Terms](https://redditinc.com/policies/data-api-terms)) and [Responsible Builder Policy](https://support.reddithelp.com/hc/articles/42728983564564-Responsible-Builder-Policy).
