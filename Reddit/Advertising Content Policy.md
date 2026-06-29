@@ -637,7 +637,7 @@ US
 *   Reddit Certification
 *   Information regarding the purchasing individual or organization to be publicly disclosed in Reddit’s [transparency subreddit](https://reddit.com/r/redditpoliticalads "https://reddit.com/r/redditpoliticalads")
 *   US-based and about US elections, campaigns, or issues at the federal level only
-*   Political ads may never target audiences using zip code or gender, and must follow Reddit's [Targeting Guidelines](https://business.reddithelp.com/s/article/Reddit-Advertising-Policy-Targeting-Guidelines "https://business.reddithelp.com/s/article/Reddit-Advertising-Policy-Targeting-Guidelines")
+*   Political ads may never target audiences using postal code or gender, and must follow Reddit's [Targeting Guidelines](https://business.reddithelp.com/s/article/Reddit-Advertising-Policy-Targeting-Guidelines "https://business.reddithelp.com/s/article/Reddit-Advertising-Policy-Targeting-Guidelines")
 *   Messaging intended to undermine public confidence in an election is prohibited
 *   Compliance with the [Reddit Rules](https://redditinc.com/policies/reddit-rules "https://redditinc.com/policies/reddit-rules"), including the prohibition of deep fakes or other manipulated content presented to mislead is prohibited
 *   Ads containing synthetic content that has been digitally altered or generated but does otherwise not violate this policy must include a clear and conspicuous disclosure of this fact. (e.g., “This ad contains AI-generated content.")
@@ -723,7 +723,7 @@ Reddit allows ads for topical and non-ingestible hemp-derived CBD products. Ads 
 *   Advertisers may only advertise non-ingestible CBD products intended for topical use, containing hemp-derived CBD that has been legally grown, extracted, processed, and manufactured;
 *   Advertisers may not target states where topical CBD products remain illegal (Hawaii, Idaho, Kansas, Mississippi, Missouri, and South Dakota);
 *   Advertisers may only target users aged 21 years and older;
-*   Advertisers may not target audiences using Zip Code or Gender, in addition to Reddit's [Targeting Guideline](https://business.reddithelp.com/s/article/Reddit-Advertising-Policy-Targeting-Guidelines "https://business.reddithelp.com/s/article/Reddit-Advertising-Policy-Targeting-Guidelines");
+*   Advertisers may not target audiences using Postal Code or Gender, in addition to Reddit's [Targeting Guideline](https://business.reddithelp.com/s/article/Reddit-Advertising-Policy-Targeting-Guidelines "https://business.reddithelp.com/s/article/Reddit-Advertising-Policy-Targeting-Guidelines");
 *   Ad landing pages cannot advertise or sell products or services prohibited by other Reddit policies;
 *   Advertisements and product landing pages cannot make health, medical, or therapeutic claims;
 *   Advertisers and any products advertised must be compliant with any federal, state, and/or local laws, regulations, and/or rules applicable in the jurisdiction in which they are targeting (including but not limited to any laws, regulations, and/or rules relating to labeling, testing, manufacturing, product registration, licensing, and/or permitting).
@@ -743,7 +743,7 @@ Reddit allows ads for cannabis products and services. Ads for these products and
     
     *   Make health, medical, or therapeutic claims
     *   Appeal to people under the age of 18, vulnerable or sensitive groups
-    *   Target audiences using Zip Code or Gender, in addition to Reddit's [Targeting Guidelines](https://business.reddithelp.com/s/article/Reddit-Advertising-Policy-Targeting-Guidelines "https://business.reddithelp.com/s/article/Reddit-Advertising-Policy-Targeting-Guidelines")
+    *   Target audiences using Postal Code or Gender, in addition to Reddit's [Targeting Guidelines](https://business.reddithelp.com/s/article/Reddit-Advertising-Policy-Targeting-Guidelines "https://business.reddithelp.com/s/article/Reddit-Advertising-Policy-Targeting-Guidelines")
     *   Discuss prices or distribution
     *   Display reckless, dangerous, or otherwise irresponsible behavior;
 *   Advertisers and any products or services advertised must be compliant with any federal, provincial, and/or local laws, regulations, and/or rules applicable in the jurisdiction in which they are targeting (including but not limited to any laws, regulations, and/or rules relating to labeling, testing, manufacturing, product registration, licensing, and/or permitting).
