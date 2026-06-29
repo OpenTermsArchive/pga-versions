@@ -26,7 +26,7 @@ Creators who monetize on X must meet the following requirements:
 *   You must connect a verified Stripe account.
 *   You must complete [identity verification](https://help.x.com/en/forms/creator-id-verification.html).
 *    Subscriptions additional criteria (Learn more about [Subscriptions](https://help.x.com/en/using-twitter/subscriptions-creator.html))
-    *   You maintain 2,000 or more active followers with Premium or Verified Oganization subscriptions.
+    *   You maintain 2,000 or more active followers with Premium, Premium Business, or Premium Oganizations subscriptions.
     *   Your posts have 5,000,000 or more organic impressions within the last 3 months.
     *   Have posted posts in the past 30 days.
     *   Comply with the [Subscriptions Creator Terms](https://legal.x.com/en/subscriptions-creator-terms.html). 
@@ -43,6 +43,8 @@ Creators participating in X’s monetization products are prohibited from engagi
     *   You must not use X features that enable payments or the monetization of content as a required entry method for a contest, sweepstake, or other promotion. To learn more, see our [Promotions policy](https://help.x.com/en/rules-and-policies/twitter-contest-rules.html). 
 *   **Fraud and deception:** You must not mislead people into engaging with or compensating you, including deception about which people or what entities are receiving compensation associated with your account.
 *   **Platform manipulation and spam:** you must not engage in the type of behavior that is prohibited by our [platform manipulation and spam policy](https://help.x.com/en/rules-and-policies/authenticity.html). This includes attempting to artificially inflate engagement or misuse X product features to disrupt others’ experience. 
+*   **Videos depicting armed conflict:** For any AI generated content depicting armed conflict, you must add a clear disclosure that it is AI generated. Additionally, you must also label realistic video game depictions of armed conflict as a synthetic video. You may not attempt to mislead people about the origin of any depictions of armed conflict, including by claiming they are from a different armed conflict or a different time period. We may adjust our policy as the armed conflict situation evolves.
+    
 *   **Local law:** You are responsible for complying with applicable local laws and regulations while earning revenue on X. 
 
 Content Standards
