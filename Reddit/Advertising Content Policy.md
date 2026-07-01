@@ -1,9 +1,6 @@
 Reddit Ads Policy: Overview
 ===========================
 
-Stay up to date on our Advertising Policy which links out to other important, very official resources.
-------------------------------------------------------------------------------------------------------
-
 The Reddit Advertising Policy (the “Policy”) governs all native ads published on Reddit and applies to all advertisers. If you would like to advertise on Reddit, please contact our Sales teams [here](https://www.redditinc.com/advertising/best-practices#managed-services "https://www.redditinc.com/advertising/best-practices#managed-services").
 
 The Policy provides guidance to advertisers to publish high quality, honest, and useful ads to Reddit users. Advertisers are responsible for the content of their ads. In addition to compliance with the Policy, ads published on Reddit are required to comply with all known and relevant local laws and regulations along with the [Reddit Rules](https://redditinc.com/policies/reddit-rules "https://redditinc.com/policies/reddit-rules"), [Privacy Policy](https://www.redditinc.com/policies/privacy-policy "https://www.redditinc.com/policies/privacy-policy"), [User Agreement](https://www.redditinc.com/policies/user-agreement "https://www.redditinc.com/policies/user-agreement"), and [Ad Platform Terms](https://business.reddithelp.com/s/article/REDDIT-ADVERTISING-PLATFORM-TERMS "https://business.reddithelp.com/s/article/REDDIT-ADVERTISING-PLATFORM-TERMS"). This Policy is not legal advice.
@@ -192,9 +189,6 @@ Dynamic Product Ads
 
 Editorial Requirements
 ======================
-
-Get acquainted with guidelines we follow when we review your ads.
------------------------------------------------------------------
 
 *   [Video Advertisements](#video-advertisements "#video-advertisements") 
 *   [Style Policies](#style-policies "#style-policies")
@@ -755,9 +749,6 @@ To see if you’re eligible to run CBD (US) or cannabis (CA) ads with us, [Cont
 
 Targeting Guidelines
 ====================
-
-Get familiar with the types of targeting we don’t tolerate including general rules and a list of sensitive groups you can never target here.
---------------------------------------------------------------------------------------------------------------------------------------------
 
 General Rules and Prohibitions
 ------------------------------
