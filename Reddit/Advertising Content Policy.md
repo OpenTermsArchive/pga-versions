@@ -661,13 +661,6 @@ EU
 
 - - -
 
-Products or Services in Violation of Trade Policies
-===================================================
-
-> **Note:** This policy is deprecated. .
-
-- - -
-
 Products or Services that Facilitate Illegal, Fraudulent or Misleading Behavior
 ===============================================================================
 
