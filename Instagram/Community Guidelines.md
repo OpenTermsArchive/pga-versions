@@ -601,7 +601,9 @@ We Remove:
 
 *   Coordinating, threatening, supporting, or admitting to swatting except in the context of awareness raising or condemnation, fictional or staged settings or redemption.
     
-*   Depicting, promoting, advocating for or encouraging participation in a high-risk viral challenge except in the context of awareness raising or condemnation. Where imagery is depicted in these contexts, we include a label so that people are aware that the content may be sensitive.
+*   Promoting, advocating for or encouraging participation in a high-risk viral challenge except in the context of awareness raising or condemnation.
+    
+*   Imagery depicting high-risk viral challenges, regardless of context.
     
 
 **Harm against animals**
@@ -658,11 +660,6 @@ We Remove:
 *   Offers to buy or sell votes with cash, gifts, services or other material goods, except if shared in condemning, awareness raising, news reporting, or humorous or satirical contexts.
     
 *   Advocating, providing instructions for, or demonstrating explicit intent to illegally participate in a voting (for example, voting twice or fabricating your voting eligibility) or census process (for example, misrepresenting demographic information or how many people are in your household), except if shared in condemning, awareness raising, news reporting, or humorous or satirical contexts.
-    
-
-For the following content, we include a label so that people are aware the content may be sensitive:
-
-*   Imagery depicting a high-risk viral challenge if shared condemning or raising awareness of the associated risks.
     
 
 For the following content, we limit the ability to view the content to adults aged 18 and older:
