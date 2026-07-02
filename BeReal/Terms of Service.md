@@ -1,177 +1,174 @@
-Terms
-=====
+### TERMS OF SERVICE
+
+_Last updated: June 30, 2026_
 
   
 
-**Last Updated: March 12, 2026**
+**Welcome to BeReal!**
+
+Our mission is to create services and technologies that allow you to live your real life and share that reality with your real friends. We want to create services and technologies that allow you to live your true life and share that reality with your real friends.
+
+To achieve this, we want to be very clear about what it means to be part of the BeReal community. We want you to know what you can expect from us, what we expect from you and how, together, we can improve BeReal for you and your friends.
+
+To do this, we have created these terms of service ("terms"), our Privacy Policy and Rules (together, the "user agreement"). In the user agreement, certain words have specific meanings and must be interpreted in the same way, wherever they are used. If something is not clear, or if you do not understand what we are saying, please do not hesitate to contact us. Our goal is to maximize transparency and understanding of how BeReal works.
+
+If you think it is difficult to read all of this, imagine having to write it! But we wrote it for you because it is important to you and to us. We therefore invite you to read it.
+
+If you do not wish to read or accept the terms of service, do not use our services, but if you use our services, you agree to be bound by the terms of service.
 
   
 
-Welcome to BeReal! 
+**1\. Who can use our services?**
 
-Your friends for real is our mission. We want to build services and technologies that allow you to live your real life and share that reality with your real friends. 
+Our services refer to all aspects of the BeReal mobile applications, our websites and the software and systems that power the applications and our website.
 
-To help that happen, we want to be extra clear about what it means to be part of the BeReal community. We want you to know what you can expect from us, what we expect from you, and how together we can make BeReal better for you and your friends.
+ChatGPT is cool but our Services must not be used by AIs or bots. To use our services, you must be a REAL human (because feelings matter):
 
-To do that we created these Terms of Service (“Terms”), our [Privacy Policy](https://bereal.com/privacy/), and [Community Standards](https://help.bereal.com/hc/articles/10268394348317) (together the “User Agreement”). Throughout the User Agreement some words have specific meanings and they should be interpreted the same way wherever they are used. If anything is unclear, or you don’t understand what we’re saying – don’t hesitate to reach out. Our goal is to maximize transparency and understanding about how BeReal works.
-
-If you think reading all of this is hard, imagine having to write it! But we wrote it for you because it’s important for you and us. So please read it. 
-
-If you don’t want to read or agree to the User Agreement then don’t use our Services but if you use our Services understand that you are agreeing to be bound by the User Agreement.
-
-1\. Who can use our Services
-----------------------------
-
-Our Services means all aspects of the BeReal mobile applications, our [website](https://bereal.com/) and the software and systems powering the applications and our website.
-
-ChatGPT is cool but our Services are not to be used by AI or bots. To use our Services you must be a REAL human (because feelings matter):
-
-*   who is at least 13 years old. Depending on where you live, if you are under the age of consent in your country, a parent or guardian may also have to provide consent for you to use our Services; or
+*   who is at least 13 years old. Depending on where you live, if you have not reached the age of consent in your country, a parent or guardian may also need to give their consent for you to use our services; or
     
-*   who has the legal authority to create an account on behalf of another person, company, organization, government or other legal entity, if you’re not creating an account for yourself. 
+*   who has the legal authority to create an account on behalf of another person, a company, an organisation, a government or another legal entity, if you are not creating an account for yourself.
     
 
-All references to “you” and “your” in the User Agreement will mean both you, the end user and/or for accounts created on behalf of another person, company, organization, government or other legal entity, the person who has legal authority to create and/or operate the account. 
+All references to "you" and "your" in the user agreement mean both you, the end user and/or, for accounts created on behalf of another person, a company, an organisation, a government or another legal entity, the person who has the legal authority to create and/or operate the account.
 
-2\. Data Protection and Privacy
--------------------------------
-
-Our [Privacy Policy](https://bereal.com/privacy/) describes what information you share with us, when it is shared, and how we handle it when you use our Services. By using our Services you understand and consent that we must collect, use, store, process, share, and transfer this information to countries where we operate our Services and to partners who help us provide our Services.
-
-### 2.1 “Phone Number Update Requirements” 
-
-You are required to update your phone number immediately upon any change to your contact information. 
-
-Maintaining current contact data is mandatory for account verification, security and privacy purposes.  
   
-To do so, you must submit a [request](https://help.bereal.com/hc/en-us/articles/7285146266269-Contact-us) containing the following details:
 
-*   Previous phone number (including country code)
+**2\. Data protection and privacy**
+
+Our Privacy Policy describes the information you share with us, when it is shared and how we process it when you use our services. By using our services, you understand and agree that we must collect, use, store, process, share and transfer this information in the countries where we operate our services and to the partners who help us provide our services.
+
+**2.1 Updating your phone number**
+
+You are required to update your phone number immediately after any change to your contact details. Keeping your phone number up to date is essential for account verification, security and data protection reasons. To do this, you must contact us and provide the following information:
+
+*   Your old phone number (including country code);
     
-*   New phone number (including country code)
+*   Your new phone number (including country code);
     
-*   The BeReal username associated with the original account
+*   The BeReal username associated with your account;
     
-*   Date of birth
-    
-
-BeReal shall not be held liable for any consequences, including loss of account access, arising from your failure to comply with this requirement.
-
-3\. Text Message Communications from BeReal
--------------------------------------------
-
-By creating an account, accepting these Terms, and providing your phone number, you acknowledge and agree that you may receive certain text messages (SMS) from BeReal at the number you provide. Message frequency will vary and mobile carrier message and data rates may apply. 
-
-**Account-Related Text Messages.** We will send you messages that are related to your account and the performance of our contract with you, such as security alerts, interruptions or maintenance, information about account deletion, etc. 
-
-**Promotional Text Messages.** We may occasionally send you promotional text messages, such as special events or offers from BeReal, etc. By opting in or otherwise consenting to receive these promotional text messages, you acknowledge and agree that they may be delivered at any time and outside of standard "quiet hours" or restricted communication periods that might apply in your local jurisdiction, to the maximum extent permitted by applicable law. Messages may be sent using an automated system for the selection or dialing of numbers or other delivery technology.
-
-**Managing Your Preferences.** You can withdraw your consent or opt-out of receiving **promotional** text messages at any time by turning them off in your account settings directly within the App. You may also opt-out by replying "STOP" to any text message received. For support, you can contact us at dpo@bere.al. Choosing to opt-out or withdraw your consent for promotional text messages will not affect your access to the App or your ability to use our Services.
-
-For more information on how we process your personal data and to understand your rights, please consult our Privacy Policy.
-
-4\. Content
------------
-
-No one likes people who steal Content or people who disrespect others. Don’t be that person. Be authentic. Be kind. Be respectful. Be you. BeReal. 
-
-Content means profile photos, photos, videos, RealMojis, emojis, captions, comments, or messages, shared through our Services.
-
-You are responsible for the Content you share through our Services including ensuring that you have the right to use the Content, and that it complies with laws, rules, regulations and the User Agreement.
-
-If you share Content that you do not have the right to use or that violates laws, rules, regulations or the User Agreement, we have the right to remove it and we will remove it. No complaints. 
-
-We do not tolerate harassment, intimidation, defamation, threats, hateful content, child sexual exploitation, sexual abuse, promotion of suicide or self harm, intellectual property theft, or other illegal activities. For detailed information see our [Community Standards](https://help.bereal.com/hc/articles/10268394348317), which are part of the User Agreement. 
-
-You own the Content you share through our Services and grant BeReal a license to use the Content under the following conditions: 
-
-*   Friends Only Content means Content you shared only with your friends on BeReal. On a voluntary basis, some people may choose to share their Friend Only Content with BeReal so that it can be used for communication, commercial and marketing purposes. For instance on billboards, other advertising, Apple’s App Store or Google’s Play Store. If you decide to do that you will need to give BeReal a license to use your Friends Only Content. 
-    
-*   Globally Shared Content means Content you shared with everyone on BeReal. In exchange for using our Services, you grant us a worldwide, non-exclusive, royalty-free, sublicensable license to use, copy, reproduce, process, adapt, modify, publish, transmit, display and distribute the content you share with a Globally Shared Content in any and all media or distribution methods. This license authorizes us to make your Globally Shared Content available to the rest of the world and to let others do the same. You agree that this license includes the right for BeReal to provide, promote, and improve our Services and to make Globally Shared Content available to other companies, organizations or individuals for the syndication, broadcast, distribution, promotion or publication on other media and services. Such additional uses by BeReal, or other companies, organizations or individuals, is made with no compensation paid to you with respect to the Globally Shared Content as the use of our Services by you is hereby agreed as being sufficient compensation.
+*   Your date of birth.
     
 
-5\. Reporting Violative Content 
---------------------------------
+BeReal cannot be held responsible for the consequences, including loss of access to your account, resulting from failure to update your phone number.
 
-We are not under an obligation to monitor the Content people share through our Services.  Nevertheless, we want our Services to be a place where people can have fun and express their real selves while feeling safe. Content that violates another person’s rights, or does not comply with laws, rules, regulations or the User Agreement (“Violative Content”) is prohibited. If you see Violative Content, you can report it to us through the reporting feature in the applications or by visiting the reporting form on our website.  
+  
 
-If you believe your Content has been copied in a way that infringes your intellectual property rights, you can report this directly in the application or by visiting our intellectual property reporting form on our website.
+**3\. BeReal SMS Communications**
 
-6\. Ending our Services
------------------------
+By creating a BeReal account, accepting these Terms of Service and providing your phone number, you agree to receive certain SMS messages from BeReal at the number provided. Message frequency may vary and your mobile carrier's messaging or data rates may apply. BeReal will send you SMS messages related to your account and the execution of these Terms of Service, such as security alerts, service interruption or maintenance notifications, information relating to the deletion of your account, etc.
 
-**6.1. Termination by You**. We get it, sometimes things just aren't meant to be. You can terminate this agreement and delete your BeReal account at any time. To do so, simply go into your account settings within the App and choose the account deletion option. Once your account is deleted, your profile and associated content will be permanently removed in accordance with our [Privacy Policy](https://bereal.com/terms/privacy).
+Promotional SMS. BeReal may occasionally send you promotional SMS messages, for example to inform you of special events or exclusive offers. By accepting these communications, you understand that they may be sent to you at any time, including outside quiet hours or local restriction periods, to the extent permitted by law. These messages may be sent via an automated system or any other broadcasting technology.
 
-**6.2. BeReal's Three-Strike Policy and Account Suspension and/or Termination by Us**. We may temporarily or permanently suspend your account and prevent your use of our Services if we have determined or have grounds to believe that you have shared Violative Content or used our Services in a way that violates another person’s rights, or does not comply with laws, rules, regulations or the User Agreement, or if we are legally required to do so.
+Managing your preferences. You can withdraw your consent or unsubscribe from promotional SMS at any time by disabling them directly in your account settings within the Application. You can also unsubscribe by replying "STOP" to the SMS. For assistance, contact us at dpo@bere.al. Choosing to unsubscribe or withdraw your consent to promotional SMS will not affect your access to the Application or your ability to use our Services.
 
-We operate a 3 strike policy in most instances. That means if you share Violative Content, we will suspend your account for 30 days, during which you will not be able to share Content or see other Content on our Services. If this happens 3 times, you’re out of here! We will permanently suspend you from our Services. 
+For more information on how we process your personal data and to learn about your rights, please consult our Privacy Policy.
 
-Note that severe Violative Content (e.g., Child Sexual Abuse Material (CSAM)) will result in your immediate and permanent suspension from our Services.  
-In all cases of permanent suspension, we will also prevent you from creating a new BeReal account.
+  
 
-To protect you, other users and our Services, we may temporarily suspend your account in the event that we detect abnormal activity which could present technical or security risks to you, other users or our Services.
+**4\. Content**
 
-You may appeal a suspension by contacting our [customer support](mailto:contact@bere.al).
+Nobody likes people who steal content or disrespect others. Do not be that person. Be authentic. Be kind. Be respectful. Be yourself. Be real.
 
-**6.3. Account Deletion Due to Inactivity**. In compliance with our legal obligations regarding data protection and as further detailed in our [Privacy Policy](https://bereal.com/terms/privacy), BeReal reserves the right to permanently delete your account in the event of prolonged inactivity. For the purposes of this section, the period of inactivity is calculated from the date of your last activity, which is strictly defined as your most recent login or connection to the application. Specifically, to minimize data retention, your account may be deleted after three (3) years of continuous inactivity if you are located in the United States, or after two (2) years of continuous inactivity if you are located in Europe or any other jurisdiction outside of the United States. BeReal may send you a prior notice via text message (SMS) to the phone number associated with your account before the scheduled deletion, giving you the opportunity to log in and keep your account active.
+Content means profile pictures, photos, videos, RealMojis, emojis, captions, comments or messages shared through our services.
 
-**6.4. Effect of Termination**. Upon the termination, suspension, or deletion of your account, whether initiated by you or by BeReal, your right to access and use our Services will immediately cease. Please note that certain provisions of this User Agreement, which by their nature should survive termination (including but not limited to intellectual property rights, limitation of liability, and applicable law), will remain in full force and effect even after your account is closed.
+You are responsible for the content you share through our services, including ensuring that you have the right to use that content and that it complies with laws, rules, regulations and the user agreement.
 
-7\. License to use our Services
--------------------------------
+If you share content that you do not have the right to use or that violates laws, rules, regulations or the user agreement, we have the right to remove it and we will.
 
-Our Services are protected by copyright, trademark, trade secret and other laws around the world. As tempting as it may be, nothing in the User Agreement gives you a right to use the BeReal name or any of the BeReal trademarks, logos, domain names, other distinctive brand features, and other proprietary rights. 
+We do not tolerate harassment, bullying, defamation, threats, hate content, child sexual exploitation, sexual abuse, promotion of suicide or self-harm, intellectual property theft or other illegal activities. For more information, see our Rules which are part of the user agreement.
 
-During the time you are using our Services, BeReal gives you a personal, worldwide, royalty-free, non-assignable and non-exclusive license to use the software provided to you as part of our Services. This license has the sole purpose of enabling you to use and enjoy our Services in a manner consistent with the User Agreement. This license comes to an end when you stop using our Services.
+You own the content you share through our services and grant BeReal a licence to use the content under the following conditions:
 
-BeReal is free to use any feedback, comments or suggestions you may provide regarding our Services.
+*   Friends-only Content: refers to content you have shared only with your friends on BeReal. On a voluntary basis, some people may choose to share their friends-only content with BeReal so that it can be used for communication, commerce and marketing purposes. If you decide to do so, you will need to grant BeReal a licence to use your Friends-only Content.
+    
+*   Globally Shared Content: refers to content you have shared with everyone on BeReal. In exchange for using our services, you grant us a worldwide, non-exclusive, royalty-free and sublicensable licence to use, copy, reproduce, process, adapt, modify, publish, transmit, display and distribute the content you share globally in any media or distribution methods. This licence authorises us to make your globally shared content available to the rest of the world and to allow others to do the same. These additional uses are made without any compensation paid with respect to Globally Shared Content, as your use of our Services is hereby accepted as sufficient compensation.
+    
 
-8\. In-App Purchases
---------------------
+  
 
-BeReal may, from time to time, make available to users certain in-app purchases within the application.
+**5\. Reporting illegal content**
 
-**Streaks.** Streaks are consumable digital content provided as one-time, immediate-use virtual items designed solely to restore a specific expired Streak. A purchase restores only the single past gap identified at the time of transaction and provides no protection or guarantee against future Streak lapses. Due to the nature of this immediate consumption, and to the fullest extent permitted by law, you understand and agree that Streaks are non-refundable once the restoration is applied to your account.
+We are not required to monitor the content that users share through our services. Nevertheless, we want our services to be a place where people can have fun and express their true personality while feeling safe. Content that violates another person's rights or does not comply with laws, rules, regulations or the user agreement ("harmful content") is prohibited. If you see harmful content, you can report it to us through the reporting feature in the applications or by visiting the reporting form on our website.
 
-While we strive for a seamless experience, we do not warrant that the restoration process will be error-free. In the event of a technical failure attributable to our service, our liability is limited to providing a corrective update or a replacement Streak.
+If you believe your content has been copied in a way that infringes your intellectual property rights, you can report it directly in the app or by consulting our intellectual property reporting form on our website.
 
-All transactions are managed by third-party platforms (incl. Apple App Store or Google Play); any refund requests must be directed to them.
+  
 
-We reserve the right to modify the price of Streaks at any time.
+**6\. Termination of Services**
 
-9\. Limitation of Liability
----------------------------
+**6.1. Termination by the user.**
 
-By using our Services you agree that BeReal, its affiliates, related companies, officers, directors, employees, agents representatives, partners and licensors, liability is limited to the maximum extent permissible in your country of residence. 
+You can delete your BeReal account at any time. This procedure is carried out through the Application settings by selecting the account deletion option. This results in the permanent deletion of the profile and content associated with your account, in accordance with the provisions of our Privacy Policy.
 
-10\. Applicable law and jurisdiction
-------------------------------------
+**6.2. Suspension and/or termination of accounts by BeReal.**
 
-To the extent that these Terms allow you or BeReal to initiate litigation in a court, both you and BeReal consent to the exclusive jurisdiction of the Paris courts and French law. You and BeReal agree that all claims and disputes (whether contractual or otherwise), arising out of or relating to the Terms or User Agreement will be litigated exclusively in the courts of Paris, France and that such disputes will be governed by French law, unless this is prohibited by the laws of the country where you reside. 
+BeReal may suspend a user account temporarily or permanently and prevent you from using our Services if we determine, or have reason to believe, that you have shared Unauthorised Content, used our Services in a way that infringes the rights of third parties or laws, regulations or the Terms of Service, or if we are legally required to do so.
 
-11\. General
-------------
+In most cases, we apply a three (3) strike rule. In the event of sharing Unauthorised Content, we suspend your account for 30 days, during which you cannot see or share Content on BeReal. If this happens three (3) times, the suspension of your account becomes permanent.
 
-BeReal may update the User Agreement at any time. If we make an update that impacts either parties rights or obligations, we will let you know approximately 30 days before the update goes into effect. If you keep using our services after the 30 days, you are agreeing to our updated User Agreement. If you do not want to agree, you must stop using our Services.  
+Please note that posting any Unauthorised Content of particular severity, including child sexual abuse material, will result in the immediate and permanent suspension of your account from our Services. Any permanent suspension of a BeReal account results in a ban from creating a new account. BeReal also reserves the right to temporarily suspend your account if abnormal activity detected on it is likely to pose technical or security risks to our users. You can contest any account suspension by contacting our customer support.
 
-In the event that any part of these Terms or User Agreement are found to be unenforceable, our lawyers will probably panic, but all of the other provisions will remain applicable. 
+**6.3. Account deletion for inactivity.**
 
-The User Agreement is between you and BeReal SAS, with a registered office located at 30/32 Boulevard Sébastopol 75004 Paris, FRANCE, and which is registered under number 881 079 685 with the Paris Trade and Companies Registry. 
+In accordance with our legal data protection obligations, BeReal reserves the right to permanently delete your account in the event of prolonged inactivity. The inactivity period is calculated from the date of your last login to the Application. Your account may be deleted after three (3) years of continuous inactivity if you are located in the United States, or after two (2) years of continuous inactivity if you are located in Europe or any other jurisdiction outside the United States. BeReal may send you a prior SMS notification before the scheduled deletion, giving you the opportunity to log in to keep your account active.
 
-12\. Contact or Questions
--------------------------
+**6.4. Effects of termination.**
 
-Hearing from you makes us and our Services better. Whether you have a question about any part of the User Agreement, a comment or feedback about our Services, we want to hear from you. 
+Upon termination, suspension or deletion of your account, your right to access and use our Services ends immediately. Notwithstanding the closure of your account, the provisions of these Terms of Service which, by their nature, are intended to survive (including intellectual property, limitations of liability and applicable law) shall remain in full force and effect.
 
-You can reach us by postal mail at:
+  
 
-BeReal SAS  
-30/32 Boulevard Sébastopol  
-75004 Paris, FRANCE
+**7\. Licence to use our services**
 
-You can also submit questions through our help center [here](https://help.bereal.com/hc/requests/new) or contact us by [email](mailto:contact@bere.al). 
+Our services are protected by copyright, trademarks, trade secrets and other laws worldwide. Nothing in the user agreement gives you the right to use the BeReal name or any of BeReal's trademarks, logos, domain names, other distinctive brand features and other proprietary rights.
 
-Previous Terms:
----------------
+During the period of your use of our Services, BeReal grants you a personal, worldwide, royalty-free, non-transferable and non-exclusive licence to use the software provided to you as part of our Services. This licence is for the sole purpose of enabling you to use and enjoy our Services in a manner consistent with the User Agreement. This licence ends when you stop using our services.
 
-[Effective from 02-08-2021 to 24-05-2023](https://bereal.com/wp-content/uploads/2023/04/Effective-from-02-08-2021-to-24-05-2023.pdf)
+BeReal is free to use any feedback, comments or suggestions you may provide regarding our services.
+
+  
+
+**8\. In-app Purchases**
+
+**"No Ads" Subscription**
+
+BeReal offers a "No Ads" paid subscription, currently available to users located in the United States, allowing the removal of all advertisements shown in the Application. BeReal reserves the right to extend this offer to other markets.
+
+The subscription is taken out and managed by the relevant app store (Apple App Store or Google Play Store).
+
+BeReal reserves the right to modify the price of the "No Ads" subscription at any time. In the event of a price change, users will be notified before the new pricing takes effect.
+
+  
+
+**9\. Limitation of liability**
+
+By using our services, you agree that the liability of BeReal, its affiliates, related companies, officers, directors, employees, agents, representatives, partners and licensors is limited to the maximum extent permitted in your country of residence.
+
+  
+
+**10\. Applicable law and jurisdiction**
+
+To the extent these Terms allow you or BeReal to initiate litigation before a court, you and BeReal consent to the exclusive jurisdiction of the courts of Paris and French law. You and BeReal agree that all claims and disputes (whether contractual or otherwise), arising from or related to the Terms or the User Agreement, shall be submitted exclusively to the courts of Paris, France, and that such disputes shall be governed by French law, unless prohibited by the laws of the country in which you reside.
+
+  
+
+**11\. General provisions**
+
+BeReal may update the user agreement at any time. If we make an update that impacts the rights or obligations of either party, we will notify you within a reasonable time before the update takes effect, unless the update is required for security or legal compliance reasons. If you continue to use our services after the effective date, you accept the updated user agreement. If you do not wish to accept it, you must stop using our services.
+
+If any part of these terms or the user agreement is found to be unenforceable, all other provisions will remain applicable.
+
+The User Agreement is between you and BeReal SAS, whose registered office is located at 59 rue Jean-Jacques Rousseau, 75001 Paris, FRANCE, and which is registered under number 881 079 685 in the Paris Trade and Companies Register.
+
+  
+
+**12\. Contact or questions**
+
+Your feedback helps us improve our services. Whether you have a question about any part of the user agreement, a comment or feedback about our services, we want to hear from you.
+
+You can contact us by postal mail at the following address:
+
+BeReal SAS 59 rue Jean-Jacques Rousseau 75001 Paris, FRANCE
+
+You can also ask questions through our help centre or contact us by email at contact@bere.al.
