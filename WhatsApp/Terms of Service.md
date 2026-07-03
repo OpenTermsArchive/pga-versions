@@ -1,4 +1,4 @@
-Last updated: February 16, 2024 ([archived versions](https://www.whatsapp.com/legal/terms-of-service-eea/revisions))  
+Effective August 17, 2026 ([archived versions](https://www.whatsapp.com/legal/terms-of-service-eea/revisions))
 
   
 
@@ -46,7 +46,7 @@ WhatsApp Ireland Limited ("WhatsApp," "our," "we," or "us") provides the service
 
 **Address Book**. You can use the contact upload feature and provide us, if permitted by applicable laws, with the phone numbers in your mobile address book on a regular basis, including those of both the users of our Services and your other contacts. Learn more about our contact upload feature [here](https://faq.whatsapp.com/general/contacts/about-contact-upload).
 
-**Age**. You must be at least 13 years old to use our Services or such greater age required in your country or territory. If you are under 18, please ask your parent or guardian to read these Terms with you. Learn more about the minimum age to use our Services [here](https://faq.whatsapp.com/695318248185629/).
+**Age**. You must be at least 13 years old to use our Services or such greater age required in your country or territory on your own. If you are under this age, your parent or guardian can create a parent-managed account for you if it is available in your country or territory. If you are creating a parent-managed account, you must read these Terms with your child and ensure that you both understand them. If you are under 18, please ask your parent or guardian to read these Terms with you. Learn more about the minimum age to use our Services [here](https://faq.whatsapp.com/695318248185629/).
 
 **Devices And Software**. You must provide certain devices, software, and data connections to use our Services, which we otherwise do not supply. In order to use our Services, you consent to manually or automatically download and install updates to our Services. You also consent to our sending you notifications via our Services from time to time, as necessary to provide our Services to you.
 
@@ -121,7 +121,8 @@ In accordance with this "[Termination](https://www.whatsapp.com/legal/terms-of-s
 *   Any amendment to or waiver of our Terms proposed by you requires our express consent.
 *   We are constantly working to improve our Services and develop new features to make our products even better for you and our community. Therefore, we may need to update these Terms from time to time to reflect our Services and practices correctly. We will only make changes if the provisions are no longer appropriate or incomplete. Unless otherwise required by law, we will provide you at least 30 days' advance notice of changes to our Terms (e.g., by e-mail or through the Services), which will give you the opportunity to review the revised Terms before they become effective, and we will ensure that any such changes are reasonable for you, taking into consideration your interests. We will also update the "Effective Date" at the top of our Terms. Changes to these Terms shall become effective no sooner than 30 days after we provide notice of planned changes. Once updated Terms come into effect, you will be bound by them if you continue to use our Services. We hope you will continue using our Services, but if you do not agree to our Terms, as amended, you must stop using our Services by deleting your account.
 *   All of our rights and obligations under our Terms are freely assignable by us to any of our affiliates or in connection with a merger, acquisition, restructuring, or sale of assets, or by operation of law or otherwise. In the event of such an assignment, we will only transfer your information in compliance with applicable laws, and ask for your consent where required; these Terms will continue to govern your relationship with such third-party. We hope you will continue using WhatsApp, but if you do not agree to such an assignment, you must stop using our Services by deleting your account after having been notified about the assignment.
-*   You will not transfer any of your rights or obligations under our Terms to anyone else without our prior written consent.
+*   You will not transfer any of your rights or obligations under our Terms to anyone else without our prior written consent. When a child reaches 13 (or the minimum age required in their country or territory), they are permitted to manage their own account.
+*   If you created a parent-managed account for a user under 13 (or the minimum age required in your country) and allow them to use our Services, you are subject to the terms of this Agreement and responsible for your child’s activity on our Services.
 *   Nothing in our Terms will prevent us from complying with the law.
 *   Except as contemplated herein, our Terms do not give any third-party beneficiary rights.
 *   If we fail to enforce any of our Terms, it will not be considered a waiver.
