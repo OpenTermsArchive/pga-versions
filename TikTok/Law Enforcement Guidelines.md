@@ -1,30 +1,16 @@
 TikTok Law Enforcement Guidelines
+=================================
 
 _Last updated: January 22, 2026_
 
-  
+These guidelines (“**Guidelines**”) are a reference for law enforcement officials seeking the data of users of the TikTok (the “**Platform**”) from any of the TikTok entities listed in Section 1 below (together “**TikTok**”). For additional information, see our [Law Enforcement FAQS](#law-enforcement-guidelines-rich-text-faq).  
+In line with our [human rights statement](https://www.tiktok.com/safety/en/policies-and-engagement/upholding-human-rights), TikTok is committed to cooperating with law enforcement while respecting the privacy, freedom of expression, and other rights of its users.  
+To achieve this, in addition to these Guidelines, TikTok has internal policies and procedures governing how TikTok handles and responds to law enforcement requests. These procedures are informed by legal and human rights standards and have been developed in a way that seeks to limit adverse human rights impacts, while enabling TikTok to comply with legitimate, valid legal requests from law enforcement (including regulatory authorities, where relevant) to disclose user data.  
+If your request relates to TikTok Shop data, please refer to the [TikTok Shop Law Enforcement & Regulatory Disclosure Guidelines](https://www.tiktok.com/safety/en/tools-and-guides/tiktok-shop-law-enforcement-and-regulatory-disclosure-guidelines). We reject requests which go against our policies and procedures.
 
-These guidelines (“**Guidelines**”) are a reference for law enforcement officials seeking the data of users of the TikTok (the “**Platform**”) from any of the TikTok entities listed in Section 1 below (together “**TikTok**”). For additional information, see our [Law Enforcement FAQS](#FAQ).
-
-In line with our [human rights statement](https://www.tiktok.com/transparency/en-us/upholding-human-rights/), TikTok is committed to cooperating with law enforcement while respecting the privacy, freedom of expression, and other rights of its users.
-
-To achieve this, in addition to these Guidelines, TikTok has internal policies and procedures governing how TikTok handles and responds to law enforcement requests. These procedures are informed by legal and human rights standards and have been developed in a way that seeks to limit adverse human rights impacts, while enabling TikTok to comply with legitimate, valid legal requests from law enforcement (including regulatory authorities, where relevant) to disclose user data.
-
-If your request relates to TikTok Shop data, please refer to the [TikTok Shop Law Enforcement & Regulatory Disclosure Guidelines](https://www.tiktok.com/legal/shop-law-enforcement-regulatory-disclosure-guidelines).
-
-We reject requests which go against our policies and procedures.
-
-**1\. Basic Requirements**
---------------------------
+### **1\. Basic requirements**
 
 First, requests must be addressed to the correct TikTok entity\*. This is based on the location of the relevant user as follows:
-
-|     |     |
-| --- | --- |
-| TikTok USDS Joint Venture LLC  <br>5800 Bristol Parkway, Suite 300  <br>Culver City, CA 90230  <br>UNITED STATES | Requests for data of users located in the United States |
-| TikTok Information Technologies UK Limited  <br>4 Lindsey Street  <br>Barbican, London  <br>EC1A 9HP  <br>UNITED KINGDOM | Requests for data of users located in the United Kingdom |
-| TikTok Technology Limited  <br>The Sorting Office,  <br>Ropemaker Place, Dublin 2, D02 HD23, Dublin  <br>IRELAND | Requests for data of users located in the European Economic Area (EU Member States, plus Iceland, Liechtenstein, and Norway) and Switzerland. |
-| TikTok Pte. Limited  <br>One Raffles Quay,  <br>#26-10, South Tower,  <br>SINGAPORE 048583 | Requests for data of users located outside the US, the UK, EEA or Switzerland. |
 
 Please note that requests addressed to the incorrect TikTok entity may not be processed until this has been rectified, which may cause unnecessary delay.
 
@@ -32,24 +18,26 @@ Second, requests must be submitted to our webform: [www.tiktok.com/legal/report/
 
 Any confirmation of receipt of correspondence is for convenience only and, in doing so, TikTok does not waive any right of objection (including for lack of jurisdiction, invalid legal process or lack of proper service). All requests to TikTok and any supporting documents (including orders, warrants, and/or subpoenas or equivalent) must be provided in English or with a translation. TikTok will not respond to requests for user data sent by non-law enforcement officials or when they are sent through informal channels (such as personal email addresses).
 
-**2\. Types of User Data**
---------------------------
+  
 
-TikTok may hold the following user data which can be the subject of a valid law enforcement request:
+### **2\. Types of user data**
 
-|     |     |
-| --- | --- |
-| **Data type** | **Examples (non-exhaustive)** |
-| Subscriber information | TikTok username  <br>Email address (depending on user’s sign-up method)  <br>Phone number (depending on user’s sign-up method)  <br>Account creation date  <br>IP address at account creation  <br>Device information |
-| Log-in / log-out data | IP address of account login / logouts |
-| Interaction data  <br>(non-content) | IP address logs for interactions (for a specified period only)  <br>Video creation time / date |
-| Content data | Video content  <br>Comments  <br>Direct message content |
-| Transaction data | Payment information such debit/credit card information  <br>Gift received/sent |
+TikTok may hold the following user data, which can be the subject of a valid law enforcement request:
+
+Subscriber information
+
+Log-in / log-out data
+
+Interaction data (non-content)
+
+Content data
+
+Transaction data
 
 Each request must clearly specify the type of data requested and the legal basis for requesting it. If the request does not meet the applicable legal requirements for the requested data (as listed in Section 3 below), the data will not be disclosed. This is in particular the case for requests relating to content data (which generally require a domestic court / judicial order, warrant or equivalent).
 
-**3\. Requirements When Making a Request**
-------------------------------------------
+###   
+**3\. Requirements when making a request**
 
 Each request must be signed, dated, sent on law enforcement letterhead and include the following information:
 
@@ -77,13 +65,13 @@ Each request must be signed, dated, sent on law enforcement letterhead and inclu
 *   **Context and Offence(s) under investigation**: The request should separately indicate the type of offence(s) under investigation (citing the relevant article or section of Act / Statute / Code), the circumstances of the offence and in what way it is connected to the Platform.
 *   **User notification**: Please indicate whether user notification is permitted (see Section 4 below).
 
-**4\. User Notifications**
---------------------------
+###   
+**4\. User notifications**
 
 Where required by law, we will notify TikTok users if we disclose their data to law enforcement. We may not provide such notice where it: (a) is prohibited under applicable law; (b) would jeopardize an investigation; and/or (c) would put individuals at risk of harm. TikTok will rely on the requesting law enforcement authority to clearly indicate that their request has met with the criteria set out in these Law Enforcement Guidelines.
 
-**5\. Preservation Requests**
------------------------------
+###   
+**5\. Preservation requests**
 
 TikTok will honor formal requests to preserve user data for 90 days only if it fulfils the criteria above. Please submit all preservation requests to our webform: [www.tiktok.com/legal/report/lawenforcementrequest](https://www.tiktok.com/legal/report/lawenforcementrequest) with your preservation request attached in PDF format.
 
@@ -91,169 +79,91 @@ Preservation requests must be sent on law enforcement letterhead, signed, and mu
 
 Overly broad or unspecific preservation requests will not be actioned. To seek disclosure of preserved data, the requirements set out in Sections 1 and 3 of these Guidelines will apply.
 
-**6\. Emergency Requests**
---------------------------
+###   
+**6\. Emergency requests**
 
-TikTok has processes in place to handle emergency requests. Such requests are evaluated on a case-by-case basis: if as part of an emergency request we receive information that is sufficient in our assessment to establish a good faith belief that there is an emergency involving imminent harm or the risk of death or serious physical injury to a person, we may provide user data necessary to prevent that harm, as permitted by applicable law.
-
-**_To request this data, you must submit your request through our webform: [www.tiktok.com/legal/report/lawenforcementrequest](https://www.tiktok.com/legal/report/lawenforcementrequest) ._**
-
+TikTok has processes in place to handle emergency requests. Such requests are evaluated on a case-by-case basis: if as part of an emergency request we receive information that is sufficient in our assessment to establish a good faith belief that there is an emergency involving imminent harm or the risk of death or serious physical injury to a person, we may provide user data necessary to prevent that harm, as permitted by applicable law.  
+**_To request this data, you must submit your request through our web form: [www.tiktok.com/legal/report/lawenforcementrequest](https://www.tiktok.com/legal/report/lawenforcementrequest)_**  
 All emergency requests must be made by a sworn law enforcement official, and come from an official law enforcement email domain (if sent via email). Non-law enforcement personnel aware of an emergency situation should immediately and directly contact local law enforcement officials.
 
+###   
 **7\. Other**
--------------
 
-It may be necessary for a law enforcement authority to submit a request for legal assistance to designated government authorities under the Mutual Legal Assistance Treaty (“**MLAT**”) framework, or by letters rogatory. For instance, this may arise in circumstances where the requesting law enforcement authority is located in a different country to the TikTok entity that provides the service to the relevant user whose data is requested (refer to Section 1 above). See our [Law Enforcement FAQs](#FAQ) for more information in relation to MLAT.
-
-In submitting a request, law enforcement officials are required to ensure that any information provided is complete and accurate to the best of their knowledge and good faith belief, and that the disclosure (or other action) requested is necessary and proportionate for the purposes of the prevention, detection or investigation of offences, or to prevent an emergency. Once received by law enforcement, the law enforcement authority is required to handle such data in accordance with applicable laws, including relevant data protection laws.
-
-TikTok reserves the right to seek reimbursement for the costs associated with responding to law enforcement requests.
-
+It may be necessary for a law enforcement authority to submit a request for legal assistance to designated government authorities under the Mutual Legal Assistance Treaty (“**MLAT**”) framework, or by letters rogatory. For instance, this may arise in circumstances where the requesting law enforcement authority is located in a different country to the TikTok entity that provides the service to the relevant user whose data is requested (refer to Section 1 above). See our [Law Enforcement FAQs](#law-enforcement-guidelines-rich-text-faq) for more information in relation to MLAT.  
+In submitting a request, law enforcement officials are required to ensure that any information provided is complete and accurate to the best of their knowledge and good faith belief, and that the disclosure (or other action) requested is necessary and proportionate for the purposes of the prevention, detection or investigation of offences, or to prevent an emergency. Once received by law enforcement, the law enforcement authority is required to handle such data in accordance with applicable laws, including relevant data protection laws.  
+TikTok reserves the right to seek reimbursement for the costs associated with responding to law enforcement requests.  
 TikTok may update these Guidelines from time to time, and such changes may be informed by a range of factors, including legal or human rights developments, operational and/or product changes to the Platform. All relevant updates will be reflected on the TikTok website.
 
-  
+### **TikTok Law Enforcement Frequently Asked Questions (“FAQS”)**
 
-**TikTok Law Enforcement Frequently Asked Questions (“FAQS”)**
---------------------------------------------------------------
+These FAQS should be read together with TikTok’s [Law Enforcement Guidelines](https://www.tiktok.com/safety/en/tools-and-guides/tiktok-law-enforcement-guidelines).
 
-  
+What is TikTok’s approach to handling data requests from law enforcement authorities?
 
-_These FAQS should be read together with TikTok’s_ [Law Enforcement Guidelines](#Guidelines)
+What are TikTok’s requirements for disclosing user data to law enforcement authorities?
 
-  
+How do I find a TikTok username?
 
-### **Q: What is TikTok’s approach to handling data requests from law enforcement authorities?**
+Does TikTok ever reject data requests from law enforcement authorities?
 
-TikTok is committed to cooperating with law enforcement while respecting the privacy, freedom of expression, and other rights of our users. To achieve this, in addition to these Guidelines, TikTok has internal policies and procedures governing how TikTok handles and responds to law enforcement requests. These procedures are informed by legal and human rights standards and have been developed in a way that seeks to limit adverse human rights impacts, while enabling TikTok to comply with legitimate, valid legal requests from law enforcement to disclose user data.
+How else does TikTok ensure that requests from law enforcement authorities are valid?
 
-All requests received undergo a case-by-case assessment by TikTok’s dedicated law enforcement response team before any user data is disclosed. This team is trained to evaluate requests from law enforcement authorities and frequently engages in outreach to communicate TikTok’s requirements for disclosing user data to law enforcement authorities.
+Does TikTok ever disclose user data outside of formal legal requests?
 
-### **Q: What are TikTok’s requirements for disclosing user data to law enforcement authorities?**
+What types of scenarios would constitute an emergency?
 
-TikTok’s requirements for disclosing user data to law enforcement authorities are clearly set out in our [Law Enforcement Guidelines](#Guidelines) (in particular see Sections 1 and 3). These requirements reflect our internal policies and procedures for handling requests from law enforcement authorities, and are based on applicable legal requirements and our commitment to international human rights, including the International Bill of Human Rights. Because the applicable laws vary from one country to another, the rules on when data can legally be disclosed will also vary to some extent and our internal policies and procedures reflect this while at the same time reflecting our global commitments to freedom of expression and privacy.
+Does TikTok accept data requests from law enforcement authorities in all countries?
 
-### **Q: How do I find the TikTok username?**
+What is a Mutual Legal Assistance Treaty (“MLAT”)?
 
-### **Q: Does TikTok ever reject data requests from law enforcement authorities?**
+In what circumstances may it be necessary for law enforcement authorities to rely on the MLAT process?
 
-TikTok may reject data requests from law enforcement authorities where they do not meet the requirements that are clearly set out in our [Law Enforcement Guidelines](#Guidelines). The most common examples are as follows:
+Where should non-law enforcement requests be sent?
 
-*   Requests that are not addressed to the correct TikTok entity;
-*   Requests that do not specify the legal process which authorizes law enforcement to request and collect information;
-*   Requests that do not indicate the type of offence(s) under investigation, the circumstances of the offence(s) and in what way it/they are connected to TikTok; and
-*   Overly broad requests for “all user data” or where there are no date ranges indicated.
+How quickly does TikTok process requests?
 
-### **Q: How else does TikTok ensure that requests from law enforcement authorities are valid?**
-
-Aside from rejecting requests from law enforcement authorities that are not made in accordance with the relevant legal processes and requirements, TikTok will in accordance with applicable law:
-
-*   Seek to narrow the scope of data requests in terms of the volume of data requested, the number of users they relate to and/or the time period to which they relate;
-*   Ask for further information in support of the request (in particular, for details of the relevant legal process and/or the type of offence(s) under investigation); or
-*   Communicate to the requesting law enforcement authorities that a request via the Mutual Legal Assistance Treaty (“**MLAT**”) process is necessary to obtain disclosure of the requested data.
-
-TikTok may report any fraudulent attempts to obtain user data information to relevant authorities.
-
-### **Q: Does TikTok ever disclose user data outside of formal legal requests?**
-
-TikTok may disclose user data without receiving a formal legal request (based on valid legal process) in the following cases:
-
-*   **Emergency circumstances**: As explained in Section 5 of our [Law Enforcement Guidelines](#Guidelines), where satisfied there is an emergency involving imminent harm or risk of death or serious physical injury to a person, we may provide user data necessary to prevent that harm, as permitted by applicable law.
-*   **Proactive reports obligations**: In limited circumstances, including where TikTok is subject to legal obligations, TikTok reports certain user data either to law enforcement authorities or to designated bodies. Examples include reporting suspected child exploitation to the U.S. National Center for Missing and Exploited Children (“**NCMEC**”) for child safeguarding purposes and reporting suspicious financial transactions to relevant authorities.
-
-### **Q: What type of scenarios would constitute an emergency?**
-
-All emergency disclosure requests undergo a case-by-case assessment and each request will be evaluated by our law enforcement response team based on its particular circumstances. However, the following are some examples that may constitute an emergency:
-
-*   Cases of child safety and exploitation;
-*   Missing persons;
-*   Suicide and self-injury scenarios;
-*   Imminent threats of violence (including terrorism); or
-*   Natural or man-made disaster situations (such as fires, floods, earthquakes, etc).
-
-### **Q: Does TikTok accept data requests from law enforcement authorities in all countries?**
-
-While law enforcement authorities in any country can submit a request to TikTok, the requirements for data disclosure will vary depending on the location of the user, the location of the requesting law enforcement authority and, in certain cases, the type of data requested. In certain circumstances, TikTok will communicate to a law enforcement authority that a request via the Mutual Legal Assistance Treaty process (known as “**MLAT**”) is necessary to obtain disclosure of the requested data. TikTok publishes Transparency Reports with information on the number of requests received from each country.
-
-### **Q: What is a Mutual Legal Assistance Treaty (“MLAT”)?**
-
-An MLAT is a treaty between two or more countries that defines how each will assist in legal matters, such as in criminal investigations. Through an MLAT, the government of one country can seek assistance from the government of another country in obtaining information from companies located in the other country.
-
-### **Q: In what circumstances may it be necessary for law enforcement authorities to rely on the MLAT process?**
-
-It may be necessary in circumstances where the requesting law enforcement authority is located in a different country to the TikTok entity that provides the service to the relevant user (see Section 1 of our [Law Enforcement Guidelines](#Guidelines)). If law enforcement are unclear as to whether they should rely on MLAT, they can contact TikTok. On receipt of such a request, TikTok will endeavour to communicate to the law enforcement authority whether MLAT is appropriate and to direct them to the designated “central authority” for MLAT purposes in the appropriate country.
-
-### **Q: Where should non-law enforcement requests be sent?**
-
-Non-law enforcement requests should be directed as follows:
-
-*   **Report Content**: Details of how to report various types of content that may be in breach of TikTok’s Community Guidelines are available [here](https://support.tiktok.com/en/safety-hc/report-a-problem).
-*   **Report IP infringement**: Reports of alleged copyright or trademark infringement should be made in accordance with TikTok’s [Intellectual Property Policy](https://www.tiktok.com/legal/copyright-policy) and can be filed as a [Copyright Infringement Report](https://www.tiktok.com/legal/report/Copyright) or as a [Trademark Infringement Report](https://www.tiktok.com/legal/report/Trademark).
-
-### **Q: How quickly does TikTok process requests?**
-
-TikTok’s dedicated law enforcement response team endeavours to respond to all requests in a timely manner but response times can vary in particular due to the caseload volume at a given time and the complexity of a request. If a particular request is time-sensitive, we would ask the requesting law enforcement officer to note this in the request (explaining the reasons). Longer response times can be expected where the request does not meet the requirements set out in our [Law Enforcement Guidelines](#Guidelines) and these [Law Enforcement FAQS](#FAQ).
-
-### **Q: What do I do if I receive a Cybertip report made by TikTok to NCMEC?**
-
-If law enforcement has received a Cybertip report made by TikTok to NCMEC, and is now requesting further user data in connection with an investigation, the request must meet the requirements set out in our [Law Enforcement Guidelines](#Guidelines) and these [Law Enforcement FAQS](#FAQ). To help us more efficiently process your request, please specify in your request the report number assigned to the Cybertip report by NCMEC.
+What do I do if I receive a Cybertip report made by TikTok to NCMEC?
 
 - - -
 
 TikTok Shop Law Enforcement & Regulatory Disclosure Guidelines
+==============================================================
 
 _Last updated 27 August 2025_
 
   
 
-These guidelines (“**TikTok Shop Guidelines**”) are supplementary to the [<TikTok Law Enforcement Guidelines>](https://www.tiktok.com/legal/law-enforcement), and are a reference for law enforcement and regulatory officials seeking disclosure of TikTok Shop data from the relevant provider of the TikTok Shop service ("**TikTok Shop**").
+These guidelines (“**TikTok Shop Guidelines**”) are supplementary to the [<TikTok Law Enforcement Guidelines>](https://www.tiktok.com/safety/en/tools-and-guides/tiktok-law-enforcement-guidelines), and are a reference for law enforcement and regulatory officials seeking disclosure of TikTok Shop data from the relevant provider of the TikTok Shop service ("**TikTok Shop**").  
+Requests must be submitted to our webform: [www.tiktok.com/legal/report/lawenforcementrequest](https://www.tiktok.com/legal/report/lawenforcementrequest) with any attachments (for example, official warrant, court order, or other documentation supporting the request) in PDF format (i.e., word format will not be accepted).
 
-Requests must be submitted to our webform: [www.tiktok.com/legal/report/lawenforcementrequest](https://www.tiktok.com/legal/report/lawenforcementrequest) with any attachments (for example, official warrant, court order, or other documentation supporting the request) in PDF format (i.e. word format will not be accepted).
-
+###   
 **1.** **Relevant TikTok Shop entity**
---------------------------------------
 
 A basic requirement is that any request for TikTok Shop data must be addressed to the correct TikTok Shop entity. When submitting your request using the above webform, please ensure that any documentation is addressed to the correct TikTok Shop entity.
 
-For example, if your request relates to TikTok Shop data concerning goods offered for sale in Country A, your request (including relevant documents) must be addressed to the TikTok Shop entity that provides the TikTok Shop service in Country A. For a complete list of relevant TikTok Shop entities, see Appendix A.
+For example, if your request relates to TikTok Shop data concerning goods offered for sale in Country A, your request (including relevant documents) must be addressed to the TikTok Shop entity that provides the TikTok Shop service in Country A. For a complete list of relevant TikTok Shop entities, see [Appendix A](#tiktok-shop-law-enforcement-and-regulatory-rich-text-3).
 
 _Please note that only those countries where TikTok Shop is available are listed._
 
+###   
 **2\. Types of TikTok Shop data**
----------------------------------
 
 TikTok may hold the following TikTok Shop data which can be the subject of a valid law enforcement or regulatory disclosure request:
 
-**Data type (examples - non exhaustive)**
+Basic seller information
 
-*   Basic seller information
+IP address data
 
-*   Seller name/business name
-*   Email address
-*   Phone number
-*   Seller registration details
-*   Business address
+Transaction/listing information
 
-*   IP address data
+Other
 
-*   IP address at registration
-*   IP address logs (for a specific and limited time period only)
+Each request must clearly specify the data requested and the legal basis for requesting it. If the request does not meet the applicable legal requirements for the requested data (as listed in Section 3 of the [<TikTok Law Enforcement Guidelines>](https://www.tiktok.com/safety/en/tools-and-guides/tiktok-law-enforcement-guidelines)), the data will not be disclosed. In particular, this is the case for requests for financial data (which generally require a domestic court / judicial order, warrant or equivalent).
 
-*   Transaction / listing information
-
-*   Order / transaction information
-*   Product / listing information (i.e. Product Name, Sale Status, Price, etc)
-*   Transaction data, such as payments received
-
-*   Other
-
-*   _If your request relates to other information, please specify those other data types precisely._
-
-Each request must clearly specify the data requested and the legal basis for requesting it. If the request does not meet the applicable legal requirements for the requested data (as listed in Section 3 of the [<TikTok Law Enforcement Guidelines>](https://www.tiktok.com/legal/law-enforcement)), the data will not be disclosed. In particular, this is the case for requests for financial data (which generally require a domestic court / judicial order, warrant or equivalent).
-
+###   
 **3\. Requirements when making a request for TikTok Shop data**
----------------------------------------------------------------
 
-In addition to the requirements listed in Section 3 of the [<TikTok Law Enforcement Guidelines>](https://www.tiktok.com/legal/law-enforcement), please note the following specific requirements:
+In addition to the requirements listed in Section 3 of the [<TikTok Law Enforcement Guidelines>](https://www.tiktok.com/safety/en/tools-and-guides/tiktok-law-enforcement-guidelines), please note the following specific requirements:
 
 *   **Details of relevant Product listing or seller name**:
 
@@ -271,89 +181,23 @@ In addition to the requirements listed in Section 3 of the [<TikTok Law Enforcem
 *   **Relevant legal process**: The request should clearly specify the legal process (i.e. citing the relevant article or section of an Act / Statute / Code), which authorizes the law enforcement or regulatory authority to request and collect information for the purposes of prevention, detection or investigation of relevant criminal or regulatory offences.
 *   **Context and Offence(s) under investigation**: The request should separately indicate the type of offence(s) under investigation (citing the relevant article or section of Act / Statute / Code), the circumstances of the offence and in what way it is connected to TikTok Shop.
 
+###   
 **4\. Other**
--------------
 
-It may be necessary for a law enforcement or regulatory authority to submit a request for legal assistance to designated government authorities under the Mutual Legal Assistance Treaty (“**MLAT**”) framework, or by letters rogatory. For instance, this may arise in circumstances where the requesting law enforcement authority is located in a different country to the TikTok entity that provides the TikTok Shop (refer to Section 1 above). See our [Law Enforcement FAQs](https://www.tiktok.com/legal/law-enforcement) for more information in relation to MLAT.
+It may be necessary for a law enforcement or regulatory authority to submit a request for legal assistance to designated government authorities under the Mutual Legal Assistance Treaty (“**MLAT**”) framework, or by letters rogatory. For instance, this may arise in circumstances where the requesting law enforcement authority is located in a different country to the TikTok entity that provides the TikTok Shop (refer to Section 1 above). See our [Law Enforcement FAQs](#law-enforcement-guidelines-rich-text-faq) for more information in relation to MLAT.
 
 TikTok may update these TikTok Shop Guidelines from time to time, and such changes may be informed by a range of factors, including legal or human rights developments, operational and/or product changes to the TikTok Shop service. All relevant updates will be reflected on the TikTok website.
 
-**Frequently Asked Questions (“FAQS”)**
----------------------------------------
+### **Frequently Asked Questions (“FAQS”)**
 
-_These FAQS should be read together with TikTok’s [Law Enforcement Guidelines](https://www.tiktok.com/legal/law-enforcement)._
+These FAQS should be read together with TikTok’s [Law Enforcement Guidelines](https://www.tiktok.com/safety/en/tools-and-guides/tiktok-law-enforcement-guidelines).
 
-### **Q: How do I find the Product Listing ID?**
+How do I find the product listing ID?
 
-Many product listings may share the same or a similar name. To obtain a unique product listing link/product listing ID, follow these instructions.
+How do I find the TikTok Shop seller name and seller link?
 
-On the Product Listing page, click the "Share" icon, followed by "Copy link". This will provide a link to a specific product listing link / product listing ID.
+Does TikTok Shop ever reject requests for TikTok Shop data?
 
-### **Q: How do I find the TikTok Shop Seller Name and Seller Link?**
+### **Appendix A**
 
-On the Product Listing page, click the "Shop" icon at the bottom lefthand corner. The shop page has the seller name (although other sellers may register accounts with similar names).
-
-Click on the "Share" icon followed by "Copy link". This will provide a link to a unique seller link / unique seller ID.
-
-### **Q: Does TikTok Shop ever reject requests for TikTok Shop data?**
-
-TikTok may reject data requests from authorities where they do not meet the requirements that are clearly set out above or in our [Law Enforcement Guidelines](https://www.tiktok.com/legal/law-enforcement). The most common examples are as follows:
-
-*   Requests that are not addressed to the correct TikTok Shop entity;
-*   Requests that do not specify the legal process which authorizes law enforcement to request and collect information;
-*   Requests that do not indicate the type of offence(s) under investigation, the circumstances of the offence(s) and in what way it/they are connected to TikTok Shop;
-*   Requests are not sent through appropriate electronic channels (e.g. requests are sent in hard copy); or
-*   Overly broad requests for “all user data” or where there are no date ranges indicated.
-
-**Appendix A:**
----------------
-
-### **Country / TikTok Shop Entity**
-
-### **European Union**
-
-TikTok Technology Limited
-
-### **UK**
-
-TikTok Information Technologies UK Limited
-
-### **Singapore**
-
-TikTok Pte. Ltd.
-
-### **Thailand**
-
-TikTok Shop (Thailand) Ltd.
-
-### **Vietnam**
-
-TikTok Pte. Ltd.
-
-### **Philippines**
-
-ByteDance Philippines Inc.
-
-### **Malaysia**
-
-TikTok Shop (Malaysia) Sdn. Bhd.
-
-### **Indonesia**
-
-PT. Tokopedia
-
-### **United States**
-
-BD TikTok USA LLC
-
-### **Mexico**
-
-TikTok Pte. Ltd.
-
-### **Brazil**
-
-TikTok Pte. Ltd.
-
-### **Japan**
-
-ByteDance KK
+#### Country / TikTok Shop Entity
