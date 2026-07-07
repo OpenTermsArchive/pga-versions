@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Last updated: May 13, 2026
+Last updated: June 30, 2026
 
 If you are a minor, and are not sure you understand everything in this Policy, please make sure to speak with a trusted adult before using BeReal. Please also remember that BeReal is not meant to be used if you are under 13. 
 
@@ -19,7 +19,7 @@ The table below details the categories of personal data that you directly and vo
 |     |     |
 | --- | --- |
 | **Data Category** | **Description & Context of Collection** |
-| **Account Creation Data** | When you create an account on our App, we will ask you for the following information: your phone number, full name, date of birth and username. Without it, we cannot provide you access to the App. During (or after) account creation there is also some additional information you can decide to share with us: a biography, your location (as precise as you want), and a profile picture. |
+| **Account Creation Data** | When you create an account on our App, we will ask you for the following information: your phone number, full name, email address, date of birth and username. During (or after) account creation there is also some additional information you can decide to share with us: a biography, your location (as precise as you want), and a profile picture. |
 | **Content Data** | When you use the App, you can decide to share the following data:<br><br>*   Photos and videos that you take (“Content”) using the App or photos that you share from your library. You can create an account without allowing us to access and collect data from your device’s camera or photo library. However, you will only be able to see your friends’ Content when you have posted your own BeReal. It’s a foundational part of how BeReal works.<br>    <br>*   Your GPS location: you can decide to share your GPS location when you share Content through our App. If you choose to share your location and you are not a minor, by default, your precise location (street level) is shared but you can switch it to your approximate location (city level). If you are a minor, your approximate location is shared by default and only if you choose to share it.<br>    <br>*   Your reaction to your friends’ Content: RealMojis, emojis, captions and comments. |
 | **Chat Data** | When you use the BeReals chat function, we collect the messages, photos and videos you share with your friends within the chat. |
 | **Transaction Data** | When you make an in-app purchase, your payment is processed directly by the relevant app store (Apple App Store or Google Play Store). We do not collect or store your credit card details or billing address. <br><br>  <br>  <br><br>However, to fulfill your order, grant you access to the purchased features, and maintain our financial records, we receive and process the following data: <br><br>*   Transaction IDs and digital receipt tokens. <br>    <br>*   Purchase history. <br>    <br>*   The specific virtual goods you purchased and the date of purchase. |
@@ -35,18 +35,23 @@ Like all internet based services, as you use our App or visit our website, we au
 | **Connection and Technical Data** | Through the use of our website: IP address, device type, operating system version, browser, language preference, and browsing data<br><br>  <br>  <br><br>Through your use of our App: <br><br>*   IP address, account creation date, last login, terminal equipment and port, operating system, system configuration data, device type, operating system version, browser, language preference, and applications.<br>    <br>*   user\_id (unique identifier generated at account creation), device\_id (unique identifier generated when connecting on new device) and Amplitude ID. |
 | **Mobile advertising IDs and device identifiers** | We collect technical identifiers developed by mobile operating systems for advertising purposes which remain under your control and can be reset or erased at any time through your device settings:<br><br>*   Mobile advertising IDs (e.g., Apple IDFA if you use iOS or Google AAID if you use Android).<br>    <br>*   Device identifiers (e.g., IDFV for iOS devices and Android ID for Android devices). |
 | **Interaction Data** | Friend (number of friends, friend invitations, the friends with whom you interact the most). |
-| **Inferred Information** | We will analyse Account Creation Data and the Content Data to infer information about you:<br><br>*   Your time zone.<br>    <br>*   Your interests derived from the visual elements of your photos, used exclusively as internal targeting criteria. |
+| **Inferred Information** | We will analyse Account Creation Data and the Content Data to infer information about you:<br><br>*   Your time zone.<br>    <br>*   Your likely interests derived from the visual elements of your photos, used exclusively as internal targeting criteria.<br>    <br>*   Your likely gender, inferred via AI from your username, first name and biography, used exclusively as internal targeting criteria. |
 | **Usage Data** | Actions performed on the App or our website, time of posting Content, how many times you retook a photo before posting, number of BeReal posts, Content viewed, Content interactions, the fact that you deleted Content, or that you blocked users, when you take a screenshot in our App, App crashes, pages visited and event logs. |
 | **Geolocation Data** | When you use our App, we infer your country, city, region based on your IP address. |
 | **Address Book Data** | You can decide to allow BeReal to access your address book to identify the friends in your Address Book who may already be on BeReal or to recommend you new friends. We do not access your Address Book without your permission. Bear in mind that even if you don’t agree to share your Address Book with us, we can still make personalized friends’ suggestions to you based on your contact details that we received from your friends who use our App (see below). You can revoke your permission to access your Address Book Data at any time through your device settings. Once access is revoked, we will no longer collect or update contact information from your address book, and previously uploaded contact data will be deleted within a reasonable time. |
-| **Integrations with Partners** | When you decide to connect a partner application (for example Spotify) to use a specific integration on BeReal, we receive information that allows us to bring that feature to you. This will include all necessary device data, and other optional data that you may choose to share as part of the integration. |
-| **UX Interaction Recordings** | For a randomized sample of users (0.001%), we record technical interactions with the App interface, such as touching and swiping. This is conducted through our analytic partner to help us visualize how users navigate the App and improve the overall user interface. This data is kept for a maximum of 90 days from the time of collection and is then automatically deleted. |
+| **UX Interaction Recordings** | For a randomized sample of users (0.001%), we record technical interactions with the App interface, such as touching and swiping. This is conducted through our analytic partner to help us visualize how users navigate the App and improve the overall user interface. This processing is not deployed in all geographic regions and may not apply depending on your location. This data is kept for a maximum of 90 days from the time of collection and is then automatically deleted. |
 
 ### 1.3. Information about you provided by third parties
 
-We may receive information about you from other users of our App. For instance, if other users know you and choose to use contact importing, they may share your contact details such as your phone number with us, just as you may share theirs. Where friends of yours use contact importing, we may suggest you as a friend to them, and them as a friend to you or they can find you via our search tool.
+The table below details the categories of personal data that we receive about you from third parties, and the context in which we receive them.
 
-We will also receive the information about where you came from to download the App (for example, if you clicked on an ad on another social media) from our partners.
+|     |     |
+| --- | --- |
+| **Source** | **Description & Context of Collection** |
+| **Other users of the App** | We may receive information about you from other users of our App. For instance, if other users know you and choose to use contact importing, they may share your contact details, such as your phone number, with us, just as you may share theirs. Where friends of yours use contact importing, we may suggest you as a friend to them, and them as a friend to you, or they can find you via our search tool. |
+| **Integrations with Partners** | When you decide to connect a partner application (for example Spotify) to use a specific integration on BeReal, we receive information that allows us to bring that feature to you. This will include all necessary device data, and other optional data that you may choose to share as part of the integration. |
+| **Our partners** | We receive information about where you came from to download the App (for example, if you clicked on an ad on another social media). |
+| **Advertisers** | When an advertiser runs a campaign with us, it may provide us with a hashed (pseudonymized) list of phone numbers of its own customers. We match this list against hashed phone numbers associated with BeReal user accounts in order to display that advertiser’s ads to the relevant users on BeReal. We do not receive phone numbers in clear text from advertisers, and hashed values provided for matching are not kept beyond the matching operation. |
 
 2\. How we use information we receive about you
 -----------------------------------------------
@@ -56,31 +61,28 @@ The table below outlines the purposes for which we process your personal data, t
 |     |     |     |
 | --- | --- | --- |
 | **Purpose of Processing** | **Categories of Personal Data** | **Legal Basis** |
-| So you can create and keep your account and so we can identify you when you log in | Account Creation Data | Performance of the contract between you and BeReal |
-| So you can publish, see and react to Content on the BeReal App and use BeReal’s chat | Content Data, Chat Data, Communications with BeReal, Usage Data, Connection and Technical Data | Performance of the contract between you and BeReal |
-| So we can process and manage your in-app purchases, provide access to paid features or subscriptions, and handle related billing inquiries | Account Creation Data, Transaction Data, Communications with BeReal, Connection and Technical Data | Performance of the contract between you and BeReal.<br><br>  <br>  <br><br>Compliance with our legal obligations (e.g., accounting and consumer laws for retaining transaction records) |
-| So we can determine your time zone and inform you of the time to post your Content | Connection and Technical Data | Our legitimate interests to provide you with our App (you can change your time zone at any time in the settings of the App) |
-| So we can process your or other users’ requests, complaints and reports | Content Data, Communications with BeReal | Our legitimate interests to provide answers to users regarding our App or the Content displayed |
-| So we can moderate Content in accordance with the law (prevention of illegal activities, fraud, cyber harassment, etc.) and our Terms | Content Data, Usage Data, Chat Data | Compliance with our legal obligations (i.e., required by law for BeReal to keep this information in certain cases) |
-| So we can suspend accounts or keep certain users from using the App after violation of applicable law or our Terms | Account Creation Data, Interaction Data | Our legitimate interest to provide a safe and secure environment to our users according to our Terms |
-| So we can connect you with your friends | Address Book Data, Interaction Data | Consent to access your Address Book Data and our legitimate interest in using the data received to provide you with personalized friend suggestions, show you which contacts to invite to the App, or recommend new friends and make your use of our App easier |
-| So we can communicate with you within the App. This can happen when we need to communicate with you about a feature of our App | Account Creation Data, Content Data | Consent |
-| So we can send you account-related text messages (SMS) such as security alerts, interruptions or maintenance, information about account deletion | Account Creation Data | Performance of the contract between You and BeReal |
-| So we can send you promotional text messages (SMS) such as special events or offers from BeReal | Account Creation Data | Consent, where required by applicable laws. Legitimate interest, in countries where consent is not required |
-| To make sure the App or the website is running smoothly for you | Connection and Technical Data, Usage Data | Our legitimate interest to provide a working App or website to you |
-| So we can identify you to your account when you have lost access | Communications with BeReal | Our legitimate interest to let you back on the App |
-| So we can infer preferences and interest of our users | Account Creation Data, Content Data, Connection and Technical Data, Interaction Data, Mobile advertising IDs and device identifiers, Geolocation Data, Inferred Information | Consent |
-| So we can train our advertising models | Account Creation Data, Content Data, Connection and Technical Data, Interaction Data, Mobile advertising IDs and device identifiers, Geolocation Data, Inferred Information | Consent |
-| So we can recognize you across several devices | Connection and Technical Data | Our legitimate interest to ensure that you are the one connecting to your account |
-| So we can serve advertising tailored to the preference and interests of our users (i.e.: select the most relevant advertising for you, display advertising on our App, our website or on third parties websites or applications and to measure advertising performance) | Connection and Technical Data, Inferred Information, Mobile advertising IDs and device identifiers | Consent, where required by applicable laws. Legitimate interest, in countries where consent is not required |
-| So we can measure our App’s and website’s effectiveness, the performance of the App (e.g., crashes and causes of crashes) or our website, and its stability, your usage for recommendations of both accounts and Content | Usage Data, Connection and Technical Data, Mobile advertising IDs and device identifiers, Geolocation Data, Interaction Data, Inferred information | Our legitimate interest to provide you with a functional App or website that meets your expectations |
-| So we can choose and publish Content on BeReal’s discovery feed | Content Data, Interaction Data | Our legitimate interest to provide a public feed (but you can choose each time you post whether you want your post to be visible on the public feed or not) |
-| So we can carry out surveys and get your feedback for research or product testing purposes | Communications with BeReal | Our legitimate interest to make our App better (but you can choose each time if you want to participate in a survey or not) |
-| So we can ensure your and other users safety and security, the security of our App or website, our partners, and compliance with relevant laws and regulations | Content Data, Chat Data, Communications with BeReal, Usage Data, Connection and Technical Data | Our legitimate interest to provide a safe and secure environment to our users according to our Terms |
-| So we can respond to requests from national authorities | Account Creation Data, Content Data, Connection and Technical Data, Interaction Data, Mobile advertising IDs and device identifiers, Geolocation Data | Our legal obligations<br><br>If there is no direct legal obligation, our legitimate interest to cooperate with national authorities |
-| So we can defend and assert our rights before the authorities (civil, criminal or administrative) | All categories of data | Our legitimate interest in asserting and defending our rights |
-| To analyze your photos via machine learning to infer your interests, which are used as criteria to select relevant ads for you on the App. | Content Data, Inferred Information, Mobile advertising IDs and device identifiers. | Consent, where required by applicable laws. Legitimate interest, in countries where consent is not required |
-| So we can improve the user experience (UX) by analyzing how users interact with our features and interface | UX Interaction Recordings, Usage Data, Connection and Technical Data | Consent, where required by applicable laws. Legitimate interest, in countries where consent is not required |
+| Creating and maintaining your account, and identifying you when you log in | Account Creation Data | Performance of our contract with you |
+| Enabling you to publish, see and react to Content on the BeReal App and use BeReal’s chat | Content Data, Chat Data, Communications with BeReal, Usage Data, Connection and Technical Data | Performance of our contract with you |
+| Processing and managing your in-app purchases, providing access to paid features or subscriptions, and handling related billing inquiries | Account Creation Data, Transaction Data, Communications with BeReal, Connection and Technical Data | Performance of our contract with you, and compliance with our legal obligations (e.g., accounting and consumer protection laws for retaining transaction records) |
+| Determining your time zone and informing you of the time to post your Content | Connection and Technical Data | Our legitimate interest in providing you with our App (you can change your time zone at any time in the settings of the App) |
+| Processing your or other users’ requests, complaints and reports | Content Data, Communications with BeReal | Our legitimate interest in responding to requests regarding our App or the Content displayed |
+| Moderating Content in accordance with the law (prevention of illegal activities, fraud, cyber harassment, etc.) and our Terms | Content Data, Usage Data, Chat Data | Compliance with our legal obligations (BeReal is required by law to retain this information in certain cases) |
+| Suspending accounts or preventing certain users from using the App after a violation of applicable law or our Terms | Account Creation Data, Interaction Data | Our legitimate interest in providing a safe and secure environment in accordance with our Terms |
+| Connecting you with your friends by providing you with personalized friend suggestions, showing you which contacts to invite to the App and recommending new friends | Address Book Data, Interaction Data | Your consent to access your Address Book Data, and our legitimate interest in using the data received |
+| Communicating with you within the App, for example about a feature of our App | Account Creation Data, Content Data | Your consent (managed through your device settings, as for notifications) |
+| Sending you account-related text messages (SMS) such as security alerts, interruptions or maintenance, and information about account deletion | Account Creation Data | Performance of our contract with you |
+| Sending you promotional text messages (SMS) such as special events or offers from BeReal | Account Creation Data | Your consent, where required by applicable law; otherwise, our legitimate interest |
+| Ensuring the App or the website runs smoothly for you | Connection and Technical Data, Usage Data | Our legitimate interest in providing a working App and website |
+| Identifying you to your account when you have lost access | Communications with BeReal | Our legitimate interest in restoring your access to your account |
+| Inferring your likely interests from your pictures and gender from your username, first name and biography, used as criteria to select relevant ads for you on the App | Content Data, Account Creation Data | Your consent, where required by applicable law; otherwise, our legitimate interest |
+| Serving advertising tailored to your preferences and interests, whether the ads are selected by our ad network partners or us (i.e.: selecting the most relevant advertising for you, including by matching hashed audience lists provided by advertisers against your account, displaying advertising on our App, and measuring advertising performance) | Connection and Technical Data, Inferred Information, phone number from Account Creation Data (hashed for this purpose), hashed phone-number lists provided by advertisers, Mobile advertising IDs and device identifiers | Your consent, where required by applicable law; otherwise, our legitimate interest |
+| Measuring our App’s and website’s effectiveness, the performance of the App (e.g., crashes and causes of crashes) or our website, and its stability | Usage Data, Connection and Technical Data | Our legitimate interest in providing a functional App and website that meets your expectations |
+| Choosing and publishing Content on BeReal’s discovery feed | Content Data, Interaction Data | Our legitimate interest in providing a public feed (you can choose, each time you post, whether your post is visible on the public feed) |
+| Carrying out surveys and gathering your feedback for research or product testing purposes | Communications with BeReal | Our legitimate interest in improving our App (you can choose, each time, whether to participate in a survey) |
+| Ensuring your and other users’ safety and security, the security of our App or website and our partners, and compliance with relevant laws and regulations | Content Data, Chat Data, Communications with BeReal, Usage Data, Connection and Technical Data | Our legitimate interest in providing a safe and secure environment in accordance with our Terms |
+| Responding to requests from national authorities | Account Creation Data, Content Data, Connection and Technical Data, Interaction Data, Mobile advertising IDs and device identifiers, Geolocation Data | Compliance with our legal obligations, or where there is no direct legal obligation, our legitimate interest in cooperating with national authorities |
+| Defending and asserting our rights before the authorities (civil, criminal or administrative) | All categories of data | Our legitimate interest in asserting and defending our rights |
+| Improving your experience (UX) by analyzing how you interact with our features and interface | UX Interaction Recordings, Usage Data, Connection and Technical Data | Your consent, where required by applicable law; otherwise, our legitimate interest |
 
 3\. When we share information about you
 ---------------------------------------
@@ -96,7 +98,7 @@ We share information about you with our employees and service providers, who wil
 
 We also share information about you to third parties, who will process it under their own control:
 
-*   **Ad Partners**: To allow us to monetize the ad inventory of our App and provide users with free products and services, we can share your information with our partners. Those partners usually collect data via their own tools (Software development Kits or “SDK” and cookies) but we can also provide them with supplemental information relating to you that we hold. You will find a list of our partners and their privacy policies that describe their practices and allow you to exercise your rights directly toward them [here](https://help.bereal.com/hc/en-us/articles/19494197955101-Ad-Partners). 
+*   **Ad Partners**: To allow us to monetize the ad inventory of our App and provide users with free products and services, we work with advertising networks and mediation partners. These partners may collect information directly from your device or your use of the App through their own tools, such as software development kits (“SDKs”) or cookies, in accordance with their own privacy policies. You will find a list of our partners and their privacy policies that describe their practices and allow you to exercise your rights directly toward them [here](https://help.bereal.com/hc/en-us/articles/19494197955101-Ad-Partners). 
     
 *   **Commercial partners**: From time to time, we may share some Content data to promote our services to our commercial partners.
     
@@ -138,7 +140,7 @@ Certain information may be archived for a longer period if BeReal received a val
 
 At BeReal we have implemented features to ensure that you remain in control of your personal data.
 
-**Notification**: In the settings of the App you can choose and control which notifications you receive about our App.
+**Notification**: You grant permission to receive notifications at the level of your device settings, and you can withdraw it there at any time. In the settings of the App, you can also choose and control which notifications you receive about our App.
 
 **Block or Hide Users**: To make sure you have a great experience when using our App, you can block or hide users who you do not want to receive Content from or who you do not want to see your Content. If you block or hide a user, at any time you can go into the settings of the App and view who you have blocked or hidden. You can also unblock or unhide them at any time.
 
@@ -152,7 +154,7 @@ At BeReal we have implemented features to ensure that you remain in control of y
 
 **Delete Your Account**: In the settings of the App, you can choose to delete your account at any time. If you choose to delete your account, your account will be scheduled for deletion. This process takes approximately 15 days. If you log back into your account during that 15 day period, it will stop the deletion request. If you do not log back in, your account and all of your information will be permanently deleted. Note, information will not be deleted where BeReal has received a valid legal request requiring us to preserve your information.
 
-**Consent :** When we rely on your consent, you can withdraw your consent at any time from the App settings. Specifically, to exercise your choices regarding the sharing of your data with Ad Partners and the use of machine learning to analyze your photos for internal ad targeting, you can go to the "Privacy" settings within the App and select "Modify my consents".
+**Consent :** When we rely on your consent, you can withdraw your consent at any time from the App settings. Specifically, to exercise your choices regarding the sharing of your data with Ad Partners and the use of machine learning to analyze your photos and profile information for internal ad targeting, you can go to the "Privacy" settings within the App and select "Modify my consents".
 
 **SMS Communications**: You can choose to stop receiving promotional text messages (SMS) from us at any time. To opt-out, you can simply reply "STOP" to any promotional message you receive or update your communication preferences directly in the settings of the App. Please note that even if you opt-out of promotional messages, we may still send you non-promotional, account-related text messages, such as security alerts, interruptions or maintenance, information about account deletion, etc.
 
@@ -202,7 +204,7 @@ The categories of personal information we collect are described in Section 1, "I
 | Internet or other electronic network activity information | App and website usage, event logs, content viewed, content interactions, screenshots taken in the App, retakes, crashes, pages visited and similar technical activity. |
 | Geolocation information | Approximate location inferred from your IP address and, if you choose to share it, GPS location attached to Content. |
 | Audio, electronic, visual or similar information | Photos, videos, profile pictures, RealMojis, captions, comments, chat messages and other Content you choose to create or share. |
-| Inferences | Time zone, interests or preferences inferred from your activity, Content or other signals, including interests inferred from visual elements of photos for internal ad selection. |
+| Inferences | Time zone, interests or preferences inferred from your activity, Content or other signals, including interests inferred from visual elements of photos and likely gender inferred from your profile information (username, name, biography) for internal ad selection. |
 | Sensitive personal information, where applicable | Precise GPS location if you choose to share it, government-issued identification if strictly required to verify your identity, contents of private communications where treated as sensitive by applicable law, and any other information treated as sensitive under applicable law. |
 
 We do not seek to infer sensitive characteristics from your photos, videos or other Content for advertising purposes.
@@ -220,6 +222,8 @@ We collect personal information from:
 *   App stores and payment providers, for in-app purchase records;
     
 *   Partners and service providers, for example analytics, attribution, advertising, security, hosting, support and technical service providers.
+    
+*   Advertisers, when they provide hashed lists of their own customers’ phone numbers for advertising matching campaigns on BeReal.
     
 
 ### 9.3. How We Use Personal Information
@@ -247,7 +251,9 @@ We disclose personal information to the categories of recipients described in Se
 
 We do not sell personal information as traditionally understood. However, under some U.S. state privacy laws, certain advertising or measurement activities may be considered a "sale", "sharing" or processing for "targeted advertising".
 
-In the last twelve (12) months, we may have sold, shared or processed for targeted advertising the following categories of personal information: identifiers, device identifiers, mobile advertising IDs, internet or other electronic network activity information, approximate geolocation information, and advertising-related inferences. We use interest categories inferred from photos for internal ad selection, but we do not sell or share those specific interest categories with advertisers. We do not sell or share your private chat messages, government-issued identification or precise GPS location with advertisers.
+In the last twelve (12) months, we may have sold, shared or processed for targeted advertising the following categories of personal information: identifiers, device identifiers, mobile advertising IDs, internet or other electronic network activity information, approximate geolocation information, and advertising-related inferences. We use interest categories and inferred gender for internal ad selection, but we do not sell or share those specific categories with advertisers. We do not sell or share your private chat messages, government-issued identification or precise GPS location with advertisers.
+
+For advertiser audience matching based on phone numbers, advertisers provide us with hashed phone-number lists, and we do not disclose BeReal users’ phone numbers or matched audience lists back to advertisers.
 
 You can opt out of sale, sharing and targeted advertising by going to the "Privacy" settings within the App and selecting "Modify my consents", or by contacting us at [dpo@bere.al](mailto:dpo@bere.al).
 
@@ -293,7 +299,7 @@ If your state gives you a right to appeal and you wish to appeal our decision on
 10\. Contact
 ------------
 
-The data controller for our App is BeReal SAS, with a registered office located at 12 Place Dauphine, 75001 - Paris (France), and which is registered under number 881 079 685 with the Paris Trade and Companies Registry.
+The data controller for our App is BeReal SAS, with a registered office located at 59 Rue Jean-Jacques Rousseau 75001 - Paris (France), and which is registered under number 881 079 685 with the Paris Trade and Companies Registry.
 
 If you have a question about our Privacy Policy, you can reach our Data Protection Team at [dpo@bere.al](mailto:dpo@bere.al).
 
