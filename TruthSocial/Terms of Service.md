@@ -358,7 +358,7 @@ Email: [\[email protected\]](https://help.truthsocial.com/cdn-cgi/l/email-prote
 
 ### B. Counter Notification
 
-If you believe your own copyrighted material has been removed from the Site as a result of a mistake or misidentification, you may submit a written counter notification to \[us/our Designated Copyright Agent\] using the contact information provided below (a "Counter Notification").
+If you believe your own copyrighted material has been removed from the Site as a result of a mistake or misidentification, you may submit a written counter notification to us using the contact information provided below (a "Counter Notification").
 
 To be an effective Counter Notification under the DMCA, your Counter Notification must include substantially the following:
 
