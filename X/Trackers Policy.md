@@ -4154,3 +4154,75 @@ https://x.com/privacy
 Web Domain
 
 studio.x.com
+
+Name
+
+lsid
+
+Description
+
+Signed (HMAC) session identifier set after Google OAuth sign-in; identifies the authenticated user to the app. HttpOnly, Secure.
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://x.com/en/privacy
+
+Web Domain
+
+localizer.x.com
+
+Name
+
+loauth\_state
+
+Description
+
+Single-use CSRF state, PKCE verifier, and return-path for the Google OAuth roundtrip. HttpOnly, Secure.
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://x.com/en/privacy
+
+Web Domain
+
+localizer.x.com
+
+Name
+
+loauth\_verifier
+
+Description
+
+Single-use CSRF state, PKCE verifier, and return-path for the Google OAuth roundtrip. HttpOnly, Secure.
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://x.com/en/privacy
+
+Web Domain
+
+localizer.x.com
+
+Name
+
+loauth\_return
+
+Description
+
+Single-use CSRF state, PKCE verifier, and return-path for the Google OAuth roundtrip. HttpOnly, Secure.
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://x.com/en/privacy
+
+Web Domain
+
+localizer.x.com
