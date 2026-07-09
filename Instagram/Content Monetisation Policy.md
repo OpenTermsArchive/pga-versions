@@ -299,9 +299,3 @@ Communications that are regulated as political advertising under applicable law 
 Monetized creators and publishers, and those that have not been onboarded to a monetization product, may lose the ability to monetize if an entity connected to it has repeatedly violated these policies.
 
 **Instagram from Meta reserves the right to modify, suspend or terminate access to, or discontinue the availability of, its content monetization features at any time.**
-
-#### Have a moment?
-
-Tell us how we're doing
-
-Take Survey
