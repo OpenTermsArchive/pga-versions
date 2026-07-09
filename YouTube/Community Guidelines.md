@@ -182,6 +182,14 @@ If you get 3 strikes within 90 days, your channel may be terminated. Learn more 
 
 We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. Learn more about [channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
+FAQs
+----
+
+My external brand deal link was just removed from my Short. What does this mean?
+--------------------------------------------------------------------------------
+
+If a brand deal link was removed from your Short, the link may have failed YouTube's automated safety check or it was flagged for a policy violation after initial approval. [Learn more](https://support.google.com/youtube/answer/17081657).
+
 - - -
 
 Spam Policy
