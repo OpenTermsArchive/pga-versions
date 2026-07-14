@@ -1,7 +1,7 @@
 TikTok Law Enforcement Guidelines
 =================================
 
-_Last updated: January 22, 2026_
+_Last updated: 13 July 2026_
 
 These guidelines (“**Guidelines**”) are a reference for law enforcement officials seeking the data of users of the TikTok (the “**Platform**”) from any of the TikTok entities listed in Section 1 below (together “**TikTok**”). For additional information, see our [Law Enforcement FAQS](#law-enforcement-guidelines-rich-text-faq).  
 In line with our [human rights statement](https://www.tiktok.com/safety/en/policies-and-engagement/upholding-human-rights), TikTok is committed to cooperating with law enforcement while respecting the privacy, freedom of expression, and other rights of its users.  
@@ -129,9 +129,7 @@ What do I do if I receive a Cybertip report made by TikTok to NCMEC?
 TikTok Shop Law Enforcement & Regulatory Disclosure Guidelines
 ==============================================================
 
-_Last updated 27 August 2025_
-
-  
+_Last updated: 13 July 2026_
 
 These guidelines (“**TikTok Shop Guidelines**”) are supplementary to the [<TikTok Law Enforcement Guidelines>](https://www.tiktok.com/safety/en/tools-and-guides/tiktok-law-enforcement-guidelines), and are a reference for law enforcement and regulatory officials seeking disclosure of TikTok Shop data from the relevant provider of the TikTok Shop service ("**TikTok Shop**").  
 Requests must be submitted to our webform: [www.tiktok.com/legal/report/lawenforcementrequest](https://www.tiktok.com/legal/report/lawenforcementrequest) with any attachments (for example, official warrant, court order, or other documentation supporting the request) in PDF format (i.e., word format will not be accepted).
