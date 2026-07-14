@@ -50,7 +50,11 @@ YouTube has worked directly with rightsholders to ensure that copyrighted materi
     
 
 How YouTube Addresses Copyright Claims Appeals
-----------------------------------------------
+
+
+
+
+----------------------------------------------------
 
 The majority of copyright claims and removal requests on YouTube come from our automatic detection technology.
 
