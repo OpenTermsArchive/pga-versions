@@ -25,7 +25,7 @@ What we check when we review your channel
 If you’re [making money on YouTube](https://support.google.com/youtube/answer/72857), your content should be original and "authentic." This means that we expect your content to:
 
 *   Be your original creation. If you borrow content from someone else, you need to change it significantly to make it your own.
-*   Not be mass-produced or repetitive. It should be made for the enjoyment or education of viewers, rather than for the sole purpose of getting views.
+*   Not be mass-produced, generic, repetitive, or manipulative. It should be made for the enjoyment or education of viewers, rather than for the sole purpose of getting views.
 
 Our reviewers will check your channel and content against our policies. Since they can’t check every video, our reviewers may focus on your channel’s:
 
@@ -49,34 +49,31 @@ Follow our program policies
 
 AdSense for YouTube allows YouTube partners to get paid for monetizing their videos. Make sure to follow our [program policies](https://support.google.com/adsense/answer/48182?ctx=checklist) and YouTube’s [Terms of Service](https://www.youtube.com/static?template=terms).
 
-### Inauthentic Content
+### Generic or Repetitive Content
 
-Inauthentic content refers to mass-produced or repetitive content. This includes content that looks like it’s made with a template with little to no variation across videos, or content that’s easily replicable at scale.
+Generic or repetitive content includes content that looks like it’s made with a template, or that may feel repetitive to viewers after watching several videos in a row from the same channel.
 
-This policy applies to your channel as a whole. In other words, if you have videos that violate our guidelines, monetization may be removed from your entire channel.
+Monetizing through the YouTube Partner Program requires that your channel be in compliance with all YouTube policies. If your channel is found to be violative of any other policies, you will not be able to access monetization through the YouTube Partner Program.
 
 #### What is allowed to monetize
 
-This policy makes sure monetized content offers viewers something appealing and interesting to watch. In other words, if the average viewer can clearly tell that content on your channel differs from video to video, it's fine to monetize. We know many channels create content that follows a similar pattern. What’s important is that the substance of each video should be materially varied.
+This policy makes sure monetized content offers viewers something appealing and interesting to watch. We know many channels create content that follows a similar pattern. What’s important is that the substance of each video should be materially varied and deliver creative, educational, or other value.
 
 Examples of what is allowed to monetize (including but not limited to):
 
 *   Same intro and outro for your videos, but the bulk of your content is different
-*   Similar content, where each video talks specifically about the qualities of the subject you’re featuring
-*   Short clips of similar objects edited together where you explain how they’re connected
+*   Similar content, like a series following a set of characters across episodes or a channel that does product reviews, but in which each video has a distinct storyline, focus, or concept
 
 #### Content that violates this guideline
 
-When a channel’s content consists of similar content, it can frustrate viewers who come to YouTube for appealing and interesting videos. That means channels where content is only slightly different from video to video are not allowed to monetize. In other words, your channel shouldn’t have content that appears to be produced using a template and can be repeated at scale.
+When a channel’s content consists of highly repetitive content, it can disappoint viewers who come to YouTube for appealing and interesting videos. That means channels where content feels interchangeable from video to video are not allowed to monetize. In other words, your channel shouldn’t have content that appears to be produced using a template or where each video doesn’t deliver creative, educational, or other value to the viewer.
 
 Examples of what’s not allowed to monetize (this list is not exhaustive):
 
-*   Content that exclusively features readings of other materials you did not originally create, like text from websites or news feeds
-*   Songs modified to change the pitch or speed, but are otherwise identical to the original song
-*   Similar repetitive content with low educational value, commentary, narratives, or minimal variation across videos
-*   Mass-produced content using a similar or unoriginal template across multiple videos
+*   Similar or repetitive content with low educational value, commentary, narratives, or minimal variation across videos
+*   Videos where characters are put in the same situation over and over again with the same outcome (i.e., using a highly similar storyline template across multiple videos)
 *   Image slideshows, templated storylines, or scrolling text with minimal or no narrative, commentary, or educational value
-*   AI-generated content made with generic templates giving the impression of mass production without adding the creator’s original, authentic insights or perspective 
+*   AI-generated content made with generic or unoriginal templates giving the impression of mass production without adding the creator’s original, authentic insights or perspective
 
 ### Reused content
 
@@ -122,6 +119,46 @@ More examples of what’s not allowed to monetize (this list is not exhaustive):
 *   Promotion of other people’s content (even if you have permission)
 *   Content downloaded or copied from another online source without any substantive modifications
 *   Content that gets views from mostly non-verbal reactions to your videos without added voice commentary
+*   Content that exclusively features readings of other materials you did not originally create, like text from websites or news feeds
+*   Songs modified to change the pitch or speed, but are otherwise identical to the original song
+
+### Unsatisfying or Off-putting Content
+
+Unsatisfying or off-putting content refers to content that relies heavily on emotionally manipulative formulas, mimics existing formats or stories to a degree that the videos feel interchangeable, or appears designed to shock or surprise viewers for the sole purpose of getting views. This content may feel unsatisfying or off-putting to viewers who come to YouTube looking for content with unique, original substance.
+
+Monetizing through the YouTube Partner Program requires that your channel be in compliance with all YouTube policies. If your channel is found to be violative of any other policies, you will not be able to access monetization through the YouTube Partner Program.
+
+#### What is allowed to monetize
+
+What's important is that the substance of the video feels original and provides a satisfying experience for the viewer. If you use automated tools or templates to help create your content, the final product must still demonstrate your creative vision and provide educational or entertainment value.
+
+Examples of what is allowed to monetize (including but not limited to):
+
+*   Content with a cohesive storyline that doesn’t rely solely on shock value to generate views
+*   Content that showcases your authentic perspective when building on a popular video format or theme, like a Short that puts your own personalized spin on a trend
+*   Content that expresses your unique creative voice, like using AI to visualize a unique character and narrative you invented
+*   Content that utilizes creative tools to assist in delivering a unique, well-researched, or creative narrative, like using AI to edit your video scripts or generate a unique background visual for your content
+
+#### Content that violates this guideline
+
+Our policies are designed to reward channels that offer original, satisfying content. Channels that do not meet that bar will not be eligible for the YouTube Partner Program.
+
+Examples of what’s not allowed to monetize (this list is not exhaustive):
+
+*   Content that repeatedly uses disturbing themes (such as violence or loss) without building a cohesive narrative
+*   Channels that heavily rely on generic templates or emotionally manipulative themes, like a series showing repetitive scenarios of animals in exaggerated distress or peril
+*   Content that lacks a clear narrative arc or logical progression, such as videos that stitch together unrelated or inconsistent AI clips to surprise or shock viewers
+*   Content that uses deceptive or misleading imagery or narratives, such as realistic visuals tricking viewers into believing a fake celebrity death or natural disaster has occurred
+
+### AI Personas Related to Sensitive Topics
+
+This policy refers to channels that use AI-generated personas to deliver information on sensitive topics. This includes any content that presents itself as a human expert providing advice to viewers on topics such as health, legal issues, finances, or politics. To protect viewers who may be confused or otherwise negatively impacted by this content, channels uploading this content will not be allowed to monetize.
+
+Examples of what’s not allowed to monetize (this list is not exhaustive):
+
+*   An AI “doctor” providing medical diagnoses, health advice, or wellness remedies
+*   AI-generated podcast hosts offering financial guidance, investment tips, or wealth management advice
+*   AI personas giving legal advice or interpreting laws
 
 Quality principles for kids and family content
 
