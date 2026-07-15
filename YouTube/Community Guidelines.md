@@ -1429,10 +1429,12 @@ What this means for you
 
 Don’t post content on YouTube if the purpose is to do one or more of the following:
 
-*   Sell firearms or certain firearms accessories through direct sales (e.g. private sales by individuals) or links to sites that sell these items. These accessories may include:
-    *   Accessories that enable a firearm to simulate automatic fire,
-    *   Accessories that convert a firearm to automatic fire, such as: bump stocks, gatling triggers, drop-in auto sears, or conversion kits,
-    *   High capacity magazines or belts carrying more than 30 rounds.
+*   Direct sales (e.g., private sales by individuals) or links to retail sites, platforms, marketplaces, or peer-to-peer forums that sell:
+    *   Firearms
+    *   Certain firearms accessories. These may include:
+        *   Accessories that enable a firearm to simulate automatic fire,
+        *   Accessories that convert a firearm to automatic fire, such as: bump stocks, gatling triggers, drop-in auto sears, or conversion kits,
+        *   High capacity magazines or belts carrying more than 30 rounds.
 *   Provide instructions on manufacturing any of the following:
     *   Firearms,
     *   Ammunition,
@@ -1473,7 +1475,7 @@ Examples
 
 Here are some examples of content that isn’t allowed on YouTube.
 
-*   Links in the title or description of your video to sites where firearms or the accessories noted above are sold. You can link to sites that discuss or review the items as long as those sites don’t sell or give away those items directly.
+*   Links in the title or description of your video to retail sites, platforms, marketplaces, or peer-to-peer forums where firearms or the accessories noted above are sold. You can link to sites that discuss or review the items as long as those sites don’t sell or give away those items directly.
 *   Displaying a firearm with the intention to sell that firearm via private sale. This includes giving the seller’s phone number, email address, or other contact information.
 *   Showing users step-by-step instructions on how to finish a lower receiver in order to complete fabrication of a firearm.
 *   Showing users how to make a silencer out of a flashlight, oil can, solvent catcher or other parts.
