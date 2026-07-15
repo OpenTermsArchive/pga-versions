@@ -379,12 +379,12 @@ Children's Privacy Policy
 *   For Children
 *   For Parents, Guardians, and Other Adults
 
-_Last updated: January 22, 2026_
+_Last updated: July 15, 2026_
 
 **_For Children_**
 ------------------
 
-TikTok cares about your privacy. Children under the age of 13 in the United States can use TikTok in the Under 13 Experience. When you use the Under 13 Experience, we collect some information from you. This page explains what information we get and how we use it.
+TikTok cares about your privacy. Children under the age of 13 in the United States (as well as users who are 13 years old in Florida) can use TikTok in the Under 13 Experience. When you use the Under 13 Experience, we collect some information from you. This page explains what information we get and how we use it.
 
 ### **What Information Do We Collect from You?**
 
@@ -410,7 +410,7 @@ How long we keep your information depends on several things, such as the type of
 
 ### **What Rights Do You Have?**
 
-You have the right to know, access, correct or delete your information. You can submit a request at [https://www.tiktok.com/legal/report/privacy](https://www.tiktok.com/legal/report/privacy) or by sending your request to the address provided in the “[Contact Us](#contactus)” section below. Depending on where you live, your parent or guardian can also make these requests for you. If you, or your parent or guardian, do make such a request, we will respond appropriately and will not penalize you for it.
+You have the right to know, access, correct or delete your information. You can submit a request at [https://www.tiktok.com/legal/report/privacy](https://www.tiktok.com/legal/report/privacy) or by sending your request to the address provided in the “[Contact Us](https://www.tiktok.com/legal/page/global/childrens-privacy-policy/en#contactus)” section below. Depending on where you live, your parent or guardian can also make these requests for you. If you, or your parent or guardian, do make such a request, we will respond appropriately and will not penalize you for it.
 
 ### **Do You Ever Update This Privacy Policy?**
 
@@ -420,52 +420,54 @@ Yes, we may update this page from time to time, so please check back.
 
 For more information, please review the rest of this Privacy Policy with your parent or guardian.
 
+  
+
 **_For Parents, Guardians, and Other Adults_**
 ----------------------------------------------
 
-TikTok USDS Joint Venture LLC (“TikTok USDS Joint Venture”, “we” or “us”) is committed to protecting the privacy of children. This Children’s Privacy Policy explains how we collect, use, share, and otherwise process the personal information of users under the age of 13 (“Children” or “Child”) on a separate experience of the TikTok services for Children in the United States (the “Under 13 Experience”).
+TikTok USDS Joint Venture LLC (“TikTok USDS Joint Venture”, “we” or “us”) is committed to protecting the privacy of children. This Children’s Privacy Policy explains how we collect, use, share, and otherwise process the personal information of users under the age of 13 (“Children” or “Child”) (as well as users who are 13 years old in Florida) on a separate experience of the TikTok services in the United States (the “Under 13 Experience”).
 
-The Under 13 Experience is designed for Children residing in the United States. It allows Children to engage with TikTok’s fun video features while limiting the information collected from them. Children can view videos from other creators and explore their creativity by capturing their own videos with music and special effects. While Children may save these videos directly to their device, the videos will not be collected by us or viewable by other users. Children also have a more limited interactive experience; for example, they cannot exchange messages with other users, and other users cannot view their profiles.
+The Under 13 Experience allows its users to engage with TikTok’s fun video features while limiting the information collected from them. Users of this experience can view videos from other creators and explore their creativity by capturing their own videos with music and special effects. While users of this experience may save these videos directly to their device, the videos will not be collected by us or viewable by other users. Users of this experience also have a more limited interactive experience; for example, they cannot exchange messages with other users, and other users cannot view their profiles.
 
-### **What Information We Collect from Children**
+### **What Information We Collect from Users of This Experience**
 
-When a Child registers for TikTok, we collect only limited information, including username, password, and birthday.
+When a user registers for the Under 13 Experience on TikTok, we collect only limited information, including username, password, and birthday.
 
-We may also collect certain information automatically from the Child’s device or network, including internet or other network activity information such as IP address, web browser type and version, country-level location, as well as certain usage information, such as video watched and time in the app.
+We may also collect certain information automatically from such a user's device or network, including internet or other network activity information such as IP address, web browser type and version, country-level location, as well as certain usage information, such as video watched and time in the app.
 
-If a Child reaches out to us via the in-app feedback form, we collect the email address that the Child provides solely for the purpose of responding to the inquiry.
+If a user of the Under 13 Experience reaches out to us via the in-app feedback form, we collect the email address that the user provides solely for the purpose of responding to the inquiry.
 
-While certain information we collect from children and subsequently use and disclose may constitute sensitive personal information under applicable state privacy laws, we only process such information in order to provide the Under 13 Experience and within other exemptions under applicable law.
+While certain information we collect from the Under 13 Experience and subsequently use and disclose may constitute sensitive personal information under applicable state privacy laws, we only process such information in order to provide the Under 13 Experience and within other exemptions under applicable law.
 
-### **How We Use Children’s Information**
+### **How We Use Information of Users of This Experience**
 
-We use the information we collect to provide and support our services. For example, we use username and password to authenticate Children. We may use the information that is collected automatically to provide personalized content; serve contextual advertising; perform analytics and troubleshoot; protect the security and integrity of the user and our services; and ensure legal and regulatory compliance. We have technical, contractual, and other reasonable controls in place to help ensure persistent identifiers are used for these permitted purposes.
+We use the information we collect to provide and support our services. For example, we use username and password to authenticate users of the Under 13 Experience. We may use the information that is collected automatically to provide personalized content; serve contextual advertising; perform analytics and troubleshoot; protect the security and integrity of the user and our services; and ensure legal and regulatory compliance. We have technical, contractual, and other reasonable controls in place to help ensure persistent identifiers are used for these permitted purposes.
 
-Children cannot publicly share personal information on the Under 13 Experience, including videos or profile information.
+Users cannot publicly share personal information on the Under 13 Experience, including videos or profile information.
 
 We do not engage in profiling which results in legal or similarly significant effects, as defined under applicable law.
 
-### **How We Share Children’s Information**
+### **How We Share Information of Users of the Under 13 Experience**
 
 We may share the information that we collect as permitted by applicable law. Recipients may include affiliates controlled by, or under common control with, TikTok USDS Joint Venture as necessary for the purposes set forth within this Children’s Privacy Policy, and our service providers as necessary for them to support the internal operations of the Under 13 Experience. We may also share the information that we collect including in connection with a sale, merger or other business transfer, and for legal reasons, to enforce our Terms, and to protect our interests and safety, and those of our service providers, business partners, and community.
 
-TikTok does not sell information from Children to third parties and does not share such information with third parties for the purposes of cross-context behavioral advertising.
+TikTok does not sell information from users of the Under 13 Experience to third parties and does not share such information with third parties for the purposes of cross-context behavioral advertising.
 
 ### **Data Security and Retention**
 
-We make efforts to treat Children’s information securely and in accordance with this policy. Unfortunately, the transmission of information via the internet is not completely secure. Although we take steps to protect this information, we cannot guarantee the security of information transmitted through the TikTok services; any transmission is at the user’s own risk.
+We make efforts to treat user information securely and in accordance with this policy. Unfortunately, the transmission of information via the internet is not completely secure. Although we take steps to protect this information, we cannot guarantee the security of information transmitted through the TikTok services; any transmission is at the user’s own risk.
 
 We employ technical and organizational measures designed to achieve a level of security appropriate to risks of varying likelihood and severity and that take into account the rights and freedoms of users. We maintain these technical and organizational measures and will amend them from time to time to maintain or improve the overall security of our systems.
 
-We retain Children’s information for as long as reasonably necessary to fulfill the purpose for which the information was collected. The retention periods are different depending on different criteria, such as the type of information and the purposes for which we use the information.
+We retain user information for as long as reasonably necessary to fulfill the purpose for which the information was collected. The retention periods are different depending on different criteria, such as the type of information and the purposes for which we use the information.
 
 Subject to applicable laws, including Executive Order 14352 and any compliance obligations thereunder, TikTok USDS Joint Venture may transmit Children’s information outside of the United States, including for purposes of sharing with recipients as described in this Children’s Privacy Policy.
 
 ### **Your Rights**
 
-A parent or guardian may submit a request to access or delete the information of their Child, as well as a request to appeal a decision we have made about such a request, by contacting us via the webform or the physical address provided in the [Contact Us](#contactus) section below.
+A parent or guardian may submit a request to access or delete the information of their Child, as well as a request to appeal a decision we have made about such a request, by contacting us via the webform or the physical address provided in the [Contact Us](https://www.tiktok.com/legal/page/global/childrens-privacy-policy/en#contactus) section below.
 
-Depending on your state of residence, you (as a parent or guardian) may have the ability to exercise certain rights over your Child's account. For example, you may download account data or exercise other rights in connection with your Child by contacting us via the webform or physical address provided in the [Contact Us](#contactus) section below. We will address these requests in accordance with applicable law and subject to proper validation. We will not retaliate against you or your Child for exercising such rights and choices, although some aspects of the Under 13 Experience may no longer be available to your Child.
+Depending on your state of residence, you (as a parent or guardian) may have the ability to exercise certain rights over your Child's account. For example, you may download account data or exercise other rights in connection with your Child by contacting us via the webform or physical address provided in the [Contact Us](https://www.tiktok.com/legal/page/global/childrens-privacy-policy/en#contactus) section below. We will address these requests in accordance with applicable law and subject to proper validation. We will not retaliate against you or your Child for exercising such rights and choices, although some aspects of the Under 13 Experience may no longer be available to your Child.
 
 ### **Privacy Policy Updates**
 
