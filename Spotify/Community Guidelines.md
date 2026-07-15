@@ -332,29 +332,30 @@ _Child safety expert_
 Our commitment to young listeners
 ---------------------------------
 
-Spotify is a digital music, podcast and audiobook service that provides access to millions of songs and other content from creators all over the world. We understand that navigating the digital world can be challenging for parents and that decisions around the content and experiences that are right for your family are often personal. To help craft an experience for young listeners that is engaging and designed with them in mind, we have developed an array of important measures. They include:
+Spotify is a digital music, podcast and audiobook service that provides access to millions of songs and other content from creators all over the world. We understand that navigating the digital world can be challenging for parents and caregivers and that decisions around the content and experiences that are right for your family are often personal. To help craft an experience for young listeners that is engaging and designed with them in mind, we have developed an array of measures and protections. They include:
 
-*   Establishing a zero-tolerance policy against content that exploits children and [Platform Rules](https://www.spotify.com/safetyandprivacy/platform-rules/) ban illegal and/or abusive behaviours that harm children
-*   Leveraging [machine-learning signals](https://www.spotify.com/safetyandprivacy/understanding-recommendations) and establishing [user-reporting mechanisms](https://support.spotify.com/content-policy-reporting/) to detect to potential policy violations
-*   Staffing teams to review and promptly action violative content around the clock
-*   Connecting potentially vulnerable users’ to [mental health resources](https://www.spotify.com/safetyandprivacy/mental-health-resources) when they search for content related to suicide, self-harm and disordered eating content
-*   Providing parental controls so that parents and guardians can design the most appropriate experience for their family
-*   Proactively seeking feedback from experts on our [Spotify Safety Advisory Council](https://newsroom.spotify.com/2023-05-05/thorn-joins-the-spotify-safety-advisory-council/), such as [Thorn](https://www.thorn.org/) and the [Diana Award](https://diana-award.org.uk/), and partners at the [Jed Foundation](https://jedfoundation.org/resource/understanding-eating-disorders/), [Tech Coalition](https://www.technologycoalition.org/) and [WeProtect Alliance](https://www.weprotect.org/) to ensure that our teams stay up to date with emerging threats and mitigation techniques.
+*   A zero-tolerance policy to content that exploits children
+*   [Platform Rules](https://www.spotify.com/safetyandprivacy/platform-rules/) which ban illegal and/or abusive behaviours that harm children
+*   [Machine-learning signals](https://www.spotify.com/safetyandprivacy/understanding-recommendations) and [user-reporting mechanisms](https://support.spotify.com/content-policy-reporting/) to detect potential violations of our [Platform Rules](https://www.spotify.com/safetyandprivacy/platform-rules/)
+*   Teams who work round the clock to review and rapidly take action against content that violates our [Platform Rules](https://www.spotify.com/safetyandprivacy/platform-rules/)
+*   [Mental health resources](https://www.spotify.com/safetyandprivacy/mental-health-resources) to connect potentially vulnerable users to when they search for content related to suicide, self-harm and disordered eating
+*   Parental controls for parents and caregivers to design the most appropriate experience for their family
+*   We work with the [Spotify Safety Advisory Council](https://newsroom.spotify.com/2023-05-05/thorn-joins-the-spotify-safety-advisory-council/) to stay up to date with emerging threats and mitigation techniques. We proactively seek feedback from child safety organisations such as [Thorn](https://www.thorn.org/), the [Diana Award](https://diana-award.org.uk/), [Project RockIT](https://www.projectrockit.com.au/), the [Jed Foundation](https://jedfoundation.org/resource/understanding-eating-disorders/), [Tech Coalition](https://www.technologycoalition.org/) and the [WeProtect Alliance](https://www.weprotect.org/)
 
-As the child safety landscape evolves, we will continue refining our policies, tools and capabilities. In the meantime, please read on to learn more about the steps that you can take as a parent or guardian to help create a better experience for young listeners.
+As the child safety landscape evolves, we will continue refining our policies, tools and capabilities. In the meantime, please read on to learn more about the steps that you can take as a parent or caregiver to help create a better experience for young listeners.
 
 Your child’s experience on Spotify
 ----------------------------------
 
 ### Creating an account
 
-All users must meet the [minimum age requirement](https://www.spotify.com/legal/end-user-agreement/) for the country associated with their account. If your child is under the minimum age to use Spotify or does not otherwise meet the requirements of our [Terms of Use](https://www.spotify.com/legal/end-user-agreement), their account must be closed or be a managed account.
+All users must meet the [minimum age requirement](https://www.spotify.com/legal/end-user-agreement/) for the country associated with their account. If your child is under the minimum age to use Spotify or does not otherwise meet the requirements of our [Terms of Use](https://www.spotify.com/us/legal/end-user-agreement/), their account must be closed or be a managed account.
 
 When creating an account, it’s important to represent your child’s age accurately. This helps to ensure compliance with local laws and helps us deliver the right product experience.
 
 ### Managed accounts
 
-Managed accounts offer a music experience that is designed for children to explore independently, while giving parents and guardians tools to guide and shape their listening environment. This account for listeners under 13 (or local equivalent) allows them to discover new sounds and start shaping their own tastes through our rich catalog of music. The following features apply to all managed accounts by default:
+[Managed accounts](https://support.spotify.com/us/article/managed-accounts/) offer a music experience that is designed for kids to explore independently, while giving parents and guardians tools to guide and shape their listening environment. This account for listeners under 13 (or local equivalent) allows them to discover new sounds and start shaping their own tastes through our rich catalogue of music. Managed Accounts are available within [Premium Family](https://newsroom.spotify.com/2025-10-14/spotify-family-plan-managed-accounts/) and the [Free tier](https://newsroom.spotify.com/2026-05-13/managed-accounts-free-tier-expansion/), in certain markets. The following features apply to all managed accounts by default:
 
 *   Music only: Audiobooks and podcasts are not available to managed accounts. Additionally, certain songs may be unavailable, for example those with sexually explicit lyrics, reflecting an approach shaped with our [Spotify Safety Advisory Council](https://newsroom.spotify.com/2022-06-13/introducing-the-spotify-safety-advisory-council/).
 *   Limited interactivity: Managed account profiles are private and not searchable or discoverable. They also cannot search for or discover other Spotify users or take part in Jam and Blend.
@@ -362,20 +363,17 @@ Managed accounts offer a music experience that is designed for children to explo
 *   Automatic search protection: Searches and search suggestions for terms commonly associated with age-inappropriate content are prevented.
 *   Advertising: Managed accounts on our [Premium Family](https://www.spotify.com/family/) plan have ad-free music listening. While managed accounts on our free service do have advertising, the experience is limited to informational ads about Spotify features and there are no direct purchase links.
 
-Additionally, parents/guardians can use our in-app controls to guide what young listeners can access. Every child is different and every family’s journey is unique, so we’re committed to evolving our tools to help parents and guardians share music in the way that feels right for them. These tools currently include:
+Additionally, parents or carers can use our in-app controls to guide what young listeners can access. Every child is different and every family’s journey is unique, so we’re committed to evolving our tools to help parents and carers share music in the way that feels right for them. These tools currently include:
 
-*   Controlling the playback of specific artists and songs: Parents/guardians can disable specific artists or tracks.
-*   The explicit content filter: Parents/guardians can turn off songs that are tagged as explicit by creators and rightsholders. Explicit content is automatically turned off for managed accounts, with an option for parents/guardians to change this via their Settings.
-*   Controls for videos and Canvas: Parents/guardians can control young listeners’ access to Canvas (short, looping visuals accompanying songs) and video across all Spotify surfaces. Videos and Canvas are automatically turned off for managed accounts, with an option for parents/guardians to change this via their Settings.
-
-Additional information
-----------------------
+*   Controlling the playback of specific artists and songs: Parents/carers can disable specific artists or tracks through the Parental controls page in Settings.
+*   The Explicit Content filter: Parents/carers can turn off songs that are tagged as explicit by creators and rightsholders. Explicit content is automatically turned off for managed accounts, with an option for parents/carers to change this via their Settings.
+*   Controls for videos and Canvas: Parents/carers can control young listeners’ access to Canvas (short, looping visuals accompanying songs) and video across all Spotify surfaces. Videos and Canvas are automatically turned off for managed accounts, with an option for parents/carers to change this via their Settings.
 
 ### Spotify Kids
 
 A stand-alone app that offers a curated experience and includes content that may resonate more with younger children. To learn more, click [here](https://www.spotify.com/kids/).
 
-### Reporting violative content
+### Reporting content
 
 All content on Spotify must comply with local laws and our [Platform Rules](https://www.spotify.com/safetyandprivacy/platform-rules/). These Rules were developed by our in-house team of safety policy experts with feedback from trusted global safety experts, including our [Spotify Safety Advisory Council](https://newsroom.spotify.com/2022-06-13/introducing-the-spotify-safety-advisory-council/). We also have teams staffed globally around the clock to help ensure that content is promptly reviewed and [actioned](https://www.spotify.com/safetyandprivacy/content-actions/) appropriately.
 
@@ -387,7 +385,20 @@ If you encounter content that you believe may violate our [Platform Rules](https
 
 We’re committed to protecting our users’ personal data, including that of children, and have put mechanisms in place to help ensure that users’ information is safe. Some ways in which we might use personal data are to provide recommendations in your language, suggest a song that we think you might enjoy or help you discover your new favourite artist.
 
-To learn more about how we use your data, your privacy rights and choices, and how to adjust your settings, please see our [Safety and Privacy Centre](https://www.spotify.com/safetyandprivacy/learn-more-about-privacy) and read our [Privacy Policy](https://www.spotify.com/legal/privacy-policy/). If you are a parent or guardian of a young listener on a managed account, please also refer to our [Privacy Notice for Parents and Guardians of Managed Accounts](https://www.spotify.com/legal/managed-account-parent-guardian-privacy-policy) and our [Young Listener Privacy Policy](https://www.spotify.com/legal/managed-account-young-listener-privacy-policy/).
+To learn more about how we use your data, your privacy rights and choices, and how to adjust your settings, please see our [Safety and Privacy Centre](https://www.spotify.com/safetyandprivacy/learn-more-about-privacy) and read our [Privacy Policy](https://www.spotify.com/legal/privacy-policy/). If you are a parent or carer of a young listener on a managed account, please also refer to our [Privacy Notice for Parents and Guardians of Managed Accounts](https://www.spotify.com/legal/managed-account-parent-guardian-privacy-policy) and our [Young Listener Privacy Policy](https://www.spotify.com/legal/managed-account-young-listener-privacy-policy/).
+
+### Age-appropriate experiences
+
+Some Spotify features are only available to users who meet a minimum age. If young listeners do not meet the requirement for a specific feature, they will not be able to access it. These currently include:
+
+*   **Music and podcast videos:** Some music videos are tagged as 18+ by rights holders and are unavailable to users aged under 18
+*   **Messages:** Spotify’s messaging feature is only available to users aged 16 and over
+
+If it’s confirmed that a young listener is below the minimum age requirement for the Spotify service in your country, the account will be deactivated and eventually deleted.
+
+_Pro tip:_ The easiest way to see exactly what young listeners can and can’t access is to review their account settings together, or manage their experience through a [managed account](https://www.spotify.com/family/).
+
+You can read more about age assurance [here](https://www.spotify.com/safetyandprivacy/age-assurance).
 
 - - -
 
