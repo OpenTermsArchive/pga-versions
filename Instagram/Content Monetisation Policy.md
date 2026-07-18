@@ -232,6 +232,11 @@ Content may not be monetized if it displays or discusses gore or bodily conditio
 *   Decay
     
 *   Infestation
+    
+
+#### Have a moment?
+
+Tell us how we're doing
 
 - - -
 
