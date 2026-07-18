@@ -1,7 +1,7 @@
 YouTube channel monetization policies
 =====================================
 
-![](//lh3.googleusercontent.com/gZJkLK0_Bw16E4nKtoh9SN-B37WMUk1ID1dbRP1fN_RXQ0jR5Hvgop0CAiShvwHD8w=w895)
+![](//storage.googleapis.com/support-kms-prod/3gqynDEORpTmOvDwv156D69K5bcKgUCq3UcV)
 
 **July 15, 2025:** We’re making a minor update to our “repetitious content” policy to better clarify this includes content that is repetitive or mass-produced. We are also renaming this policy from  “repetitious content” to “inauthentic content.” This type of content has always been ineligible for monetization under our existing policies, where creators are rewarded for original and authentic content. There is no change to our reused content policy which reviews content like commentary, clips, compilations, and reaction videos.
 
