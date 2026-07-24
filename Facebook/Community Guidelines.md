@@ -19,7 +19,7 @@ Meta recognizes how important it is for Facebook, Instagram, Messenger and Threa
 
 **Please note that the US English version of the Community Standards reflects the most up to date set of the policies and should be used as the primary document.**
 
-0:00 / 1:00
+0:00 / 0:00
 
 Our commitment to voice
 
@@ -1032,17 +1032,21 @@ Health and Wellness
 
 For the following content, we restrict visibility to adults 18 years of age and older:
 
-Weight loss products or services
+Weight loss or weight gain products or services
 
 Content that:
 
-*   Attempts to buy, sell, trade, donate, gift, mention or ask for weight loss products or services.
+*   Attempts to buy, sell, trade, donate, gift, mention or ask for weight loss or weight gain products or services.
     
-*   Admits to or depicts using a weight loss product, in a favorable context or discusses its side effects.
+*   Admits to or depicts using a weight loss or weight gain product, in a favorable context or discusses its side effects.
     
 *   Shows coordination or promotion (by which we mean speaks positively, encourages the use of or provides instructions to use or make) a diet product.
     
-*   Depict a before and after body-change comparison in the context of weight loss, showcasing weight loss after using a product in a manner that may make people feel bad about their appearance or imply negative self-perception.
+*   Contains statements of inferiority about physical appearance (i.e., terms, descriptions, or questions that are negative and attack an individual’s appearance, specific body parts, or hygiene), or depictions of close ups of a specific body area showing pinched fat.
+    
+*   Claims that results can be achieved solely by using wearable products, such as jewelry or patches.
+    
+*   Employs clickbait tactics in a weight loss or weight gain context, such as sensational language with exaggerated or extreme health claims, or promises of specific outcomes within a set timeframe without disclaimers or qualifiers.
     
 
 Cosmetic Products, Procedures, or Surgeries
@@ -1061,10 +1065,41 @@ Content that:
     
 *   Shows coordination or promotion (by which we mean speaks positively, encourages the use of or provides instructions to use or perform) of a cosmetic procedure or surgery.
     
-*   Depict the before and after transformation of skin conditions after the usage of a cosmetic product, procedure, or surgery in a manner that may make people feel bad about their appearance or imply negative self-perception.
+*   Contains statements of inferiority about physical appearance, (i.e., terms, descriptions, or questions that are negative and attack an individual’s appearance, specific body parts, or hygiene)
     
 
-Note: Fitness services such as Pilates, and temporary cosmetics such as makeup are not covered by this policy.
+Note: The promotion of workout methods (such as Pilates) or temporary cosmetics (such as makeup) are not covered by this policy.
+
+Misleading Health Practices
+
+*   Claims (including those from health professionals or health organizations) to cure, heal, or eliminate any of the following incurable diseases and/or terminal illnesses (exhaustive list): Note: This does not apply to claims about treating or managing symptoms of these conditions.
+    
+
+*   Diabetes
+    
+*   Herpes
+    
+*   Thyroid
+    
+*   Psoriasis
+    
+*   Ebola
+    
+*   Cancer
+    
+*   Autism
+    
+*   Alzheimer's
+    
+*   Parkinson's
+    
+*   Amyotrophic Lateral Sclerosis (ALS)
+    
+*   Human immunodeficiency virus (HIV)
+    
+
+*   Employs clickbait tactics in a health context, such as sensational language with exaggerated or extreme health claims, or promises of specific health-related results within a set timeframe without disclaimers or qualifiers.
+    
 
 Adult sexual arousal products
 
@@ -1088,18 +1123,20 @@ Reproductive Health or Wellness Products
 
 Content that:
 
-*   Attempts to buy, sell, promote, trade, donate, gift or ask for reproductive health or wellness products, where the primary focus is on sexual pleasure and not medical benefits. This includes:
+*   Attempts to buy, sell, promote, trade, donate, gift or ask for reproductive health or wellness products. This includes:
     
 
-*   Reproductive Health or Wellness products when focused on sexual pleasure and containing phallic or yonic objects
+*   Reproductive Health or Wellness products when focused on sexual pleasure and not medical benefits, including those containing phallic or yonic objects
     
-*   Products addressing sexual reproductive disorders, where the primary focus is on sexual pleasure and not medical benefits
+*   Products addressing sexual reproductive disorders
     
 *   Cosmetic genital surgeries
     
 *   Adult genital surgeries
     
 *   Sex education with focus on sexual pleasure
+    
+*   Hormone products (e.g., testosterone boosters)
     
 
 Adult sexual businesses
@@ -1543,21 +1580,6 @@ Content that:
     
     *   Offers or asks for products that facilitate or encourage access to digital content in an unauthorized manner. These include but are not limited to: augmented set top boxes, fully loaded/KODI installed boxes and KODI services.
         
-    
-
-**Deceptive and Misleading Practices**
-
-*   _Misleading Health Practices._ Content that
-    
-    *   Promotes false or misleading health claims or guarantees in a weight loss context by employing click-bait tactics, such as the use of sensational language that make exaggerated or extreme claims
-        
-    
-
-For the following content, we limit the ability to view the content to adults, ages 18 and older:
-
-Content that
-
-*   Promises specific weight-loss results in specific time with no qualifying or disclaimer language.
     
 
 Notwithstanding the above, we do not prohibit content that condemns, raises awareness of or educates others about fraud and scams, without either revealing sensitive information or promoting fraud or scams
