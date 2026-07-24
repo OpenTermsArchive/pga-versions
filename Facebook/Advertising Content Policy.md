@@ -198,11 +198,11 @@ Ads must not promote the sale of hazardous goods and materials. Advertisers must
 
 Health and Wellness
 
-This policy covers two categories of ads: Weight Loss and Cosmetic Products and Procedures, and Adult Products and Reproductive Health.Ads promoting or marketing dietary, health or weight loss products and services must be targeted to people at least 18 years or older.
+This policy covers two categories of ads: Adult Products and Reproductive Health.Ads promoting or marketing dietary, health or weight loss or weight gain products and services must be targeted to people at least 18 years or older.
 
 Ads promoting or marketing cosmetic products, procedures or surgeries, must be targeted to people at least 18 years or older.
 
-Ads must not imply or attempt to generate negative self-perception or declare there is a perfect body type or appearance one should aspire to in order to promote diet, weight loss, cosmetic procedures or any other health-related products.
+Ads must not contain certain claims prohibited by our policy, as outlined below.
 
 Historical Artifacts
 
