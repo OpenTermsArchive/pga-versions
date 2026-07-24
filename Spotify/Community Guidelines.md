@@ -349,13 +349,13 @@ Your child’s experience on Spotify
 
 ### Creating an account
 
-All users must meet the [minimum age requirement](https://www.spotify.com/legal/end-user-agreement/) for the country associated with their account. If your child is under the minimum age to use Spotify or does not otherwise meet the requirements of our [Terms of Use](https://www.spotify.com/us/legal/end-user-agreement/), their account must be closed or be a managed account.
+All users must meet the [minimum age requirement](https://www.spotify.com/legal/end-user-agreement/) for the country associated with their account. If your child is under the minimum age to use Spotify or does not otherwise meet the requirements of our [Terms of Use](https://www.spotify.com/legal/end-user-agreement/), their account must be closed or be a managed account.
 
 When creating an account, it’s important to represent your child’s age accurately. This helps to ensure compliance with local laws and helps us deliver the right product experience.
 
 ### Managed accounts
 
-[Managed accounts](https://support.spotify.com/us/article/managed-accounts/) offer a music experience that is designed for kids to explore independently, while giving parents and guardians tools to guide and shape their listening environment. This account for listeners under 13 (or local equivalent) allows them to discover new sounds and start shaping their own tastes through our rich catalogue of music. Managed Accounts are available within [Premium Family](https://newsroom.spotify.com/2025-10-14/spotify-family-plan-managed-accounts/) and the [Free tier](https://newsroom.spotify.com/2026-05-13/managed-accounts-free-tier-expansion/), in certain markets. The following features apply to all managed accounts by default:
+[Managed accounts](https://support.spotify.com/us/article/managed-accounts/) offer a music experience that is designed for children to explore independently, while giving parents and guardians tools to guide and shape their listening environment. This account for listeners under 13 (or local equivalent) allows them to discover new sounds and start shaping their own tastes through our rich catalogue of music. Managed accounts are available within [Premium Family](https://newsroom.spotify.com/2025-10-14/spotify-family-plan-managed-accounts/) and the [Free tier](https://newsroom.spotify.com/2026-05-13/managed-accounts-free-tier-expansion/), in certain markets. The following features apply to all managed accounts by default:
 
 *   Music only: Audiobooks and podcasts are not available to managed accounts. Additionally, certain songs may be unavailable, for example those with sexually explicit lyrics, reflecting an approach shaped with our [Spotify Safety Advisory Council](https://newsroom.spotify.com/2022-06-13/introducing-the-spotify-safety-advisory-council/).
 *   Limited interactivity: Managed account profiles are private and not searchable or discoverable. They also cannot search for or discover other Spotify users or take part in Jam and Blend.
