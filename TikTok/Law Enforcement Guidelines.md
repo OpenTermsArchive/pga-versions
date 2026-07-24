@@ -124,6 +124,12 @@ How quickly does TikTok process requests?
 
 What do I do if I receive a Cybertip report made by TikTok to NCMEC?
 
+* * *
+
+### Was it helpful?
+
+YesNo
+
 - - -
 
 TikTok Shop Law Enforcement & Regulatory Disclosure Guidelines
@@ -199,3 +205,9 @@ Does TikTok Shop ever reject requests for TikTok Shop data?
 ### **Appendix A**
 
 #### Country / TikTok Shop Entity
+
+* * *
+
+### Was it helpful?
+
+YesNo
