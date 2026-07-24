@@ -1609,6 +1609,8 @@ Examples of age-restricted content
 *   Content that reviews brands of nicotine e-liquid.
 *   Content that facilitates access to, promotes, or depicts online gambling, and social/sweepstakes casinos, including content from certified sites.
 
+**Note**: We may make exceptions for some betting content under certain circumstances. For example, content featuring sports betting from Google-certified providers or promotion of Google-certified online gambling sites during the course of a live sporting event, may be allowed for all audiences. Creators should ensure all relevant local regulations and platform restrictions are followed.
+
 Educational, documentary, scientific, or artistic content
 ---------------------------------------------------------
 
