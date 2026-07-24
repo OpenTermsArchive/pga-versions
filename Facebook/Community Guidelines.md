@@ -19,7 +19,7 @@ Meta recognizes how important it is for Facebook, Instagram, Messenger and Threa
 
 **Please note that the US English version of the Community Standards reflects the most up to date set of the policies and should be used as the primary document.**
 
-0:00 / 0:00
+0:00 / 1:00
 
 Our commitment to voice
 
