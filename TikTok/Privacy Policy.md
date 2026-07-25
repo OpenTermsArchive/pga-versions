@@ -1,20 +1,6 @@
-EEA/UK/CH
-
 Privacy Policy
 
 Last updated: _30 November 2025_
-
-*   Introduction
-*   What Information We Collect
-*   How We Use Your Information
-*   How We Share Your Information
-*   Our Legal Bases and How We Process Your Information
-*   Your Rights and Choices
-*   Data Security and Retention
-*   Our Global Operations and Data Transfers
-*   Younger Users
-*   Privacy Policy Updates
-*   Contact Us
 
 **Introduction**
 ----------------
@@ -375,9 +361,6 @@ You can also contact us at the following postal address.
 - - -
 
 Children's Privacy Policy
-
-*   For Children
-*   For Parents, Guardians, and Other Adults
 
 _Last updated: July 15, 2026_
 
