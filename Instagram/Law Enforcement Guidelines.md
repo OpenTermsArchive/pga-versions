@@ -99,3 +99,38 @@ Law enforcement officials who do not submit requests through the Law Enforcement
 
 Other ways to get help
 ----------------------
+
+- - -
+
+Dissemination of Terrorist Content Online
+=========================================
+
+This article is only relevant to people in the European Union.
+
+This page explains the Regulation Addressing Dissemination of Terrorist Content Online (EU 2021/784) (TCO), and provides information for EU Member State competent authorities on how to report terrorist content. The full language of TCO can be found [in the Official Journal of the European Union](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A32021R0784&from=EN). **A list of Member State competent authorities authorised to use this reporting form can also be found in the** **_Official Journal of the European Union_****.**
+
+TCO does not cover all types of unlawful content that may be posted on Instagram or Threads. If you are an authorised competent authority and believe content on Instagram or Threads falls under one of the terrorist content provisions covered by the TCO, please report it using this dedicated reporting form. The form should not be used for content that is not included within the TCO.
+
+Under TCO, reasons for considering material to be terrorist content are that such material:
+
+*   Incites others to commit terrorist offences, such as by glorifying terrorist acts, by advocating the commission of such offences;
+*   Solicits others to commit or to contribute to the commission of terrorist offences;
+*   Provides instruction on the making or use of explosives, firearms or other weapons or noxious or hazardous substances, or on other specific methods or techniques for the purpose of committing or contributing to the commission of terrorist offences; or
+*   Constitutes a threat to commit one of the terrorist offences.
+
+More information on terrorist offences can be found in Article 3(1) of Directive (EU) 2017/541 (available in the Official Journal of the European Union).
+
+If you submit a report through the TCO reporting form, you’ll receive an automated email that has information about your report, including a unique report number. You should save this number in case you need to contact us about your report. We may respond to your report and ask for more information. If you receive an email from us, please respond directly to that email so that our team can continue to look into your report.
+
+When we remove access to content in response to a report under TCO, we will inform you and the person who posted the content of our decision and the reasons for that decision. Please note that we may provide information related to your request to the person who posted the content unless your report requires otherwise.
+
+Please note that Meta separately maintains Community Standards that do not allow certain types of content.
+
+Our Community Standards apply to content worldwide and are integral to protecting both expression and personal safety on Instagram and Threads. A wide range of objectionable or harmful content is prohibited under the Community Standards including content that promotes violent and criminal behavior, content that threatens the safety of others, hateful conduct, graphic content, spam and content that is harmful to minors. **You can report content which you think violates Meta's** [**Community Standards**](https://transparency.meta.com/policies/community-standards) **by using the Report link that appears in the dropdown options near the content itself. You can find more information in the** [**Help Center**](https://help.instagram.com/527320407282978?helpref=faq_content)**.**
+
+If you are an authorized competent authority and would like to submit a report under TCO, you may do so by clicking on the button below. Submitting reports in accordance with TCO is only available in the European Union. If you are not an authorized competent authority under this regulation, you may report content which you believe is unlawful directly from the [Legal Removal Request form](https://help.instagram.com/contact/406206379945942).
+
+[Submit Report](https://www.facebook.com/records/login/)
+
+Other ways to get help
+----------------------
