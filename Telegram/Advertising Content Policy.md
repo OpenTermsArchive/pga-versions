@@ -20,7 +20,7 @@ Each ad consists of an ad text and a button that opens a link to the advertised 
 
 Standard requirements of style, clarity, spelling and punctuation apply to all ads. Numbers, marks and symbols must be used properly. The following is not allowed:
 
-*   Profanity or vulgarity, _including slur acronyms and spelling variations, in any language, and masked vulgarity (e.g., f\*\*k)_
+*   Profanity or vulgarity, \*including slur acronyms and spelling variations, in any language, and masked vulgarity (e.g., f—k)
 *   Unrecognizable or unclear meaning, _such as overbroad or vague descriptions, repetition of words and phrases_
 *   Excessive or gimmicky use of CaPiTaLiZaTiOn, **highlighting**, s p a c i n g and s,y,m,b,o,l,s, _including Unicode art, ASCII art and box-drawing_
 *   Intrusive, excessive or gimmicky use of **emoji** and other emoticons
@@ -35,24 +35,19 @@ Links must be used properly. Particularly, the following is not allowed:
 *   Using more than one link in the ad text
 *   Using any unacceptable link formats, _such as URL shorteners or an IP-address in the place of the link, even if it ultimately leads to a valid destination_
 
-### [](#4-destination-requirements)4\. Destination requirements
+### [](#4-destination-and-targeting-requirements)4\. Destination and targeting requirements
 
-To keep all ads beneficial for both Telegram users and advertisers, these Ad Policies and Guidelines set out requirements for proper destinations.
+To maintain all ads as beneficial for both Telegram users and advertisers, these Ad Policies and Guidelines set out requirements for proper destinations and targeting. Ad destinations must have original content and provide a proper user experience.
 
-#### [](#4-1-destination-quality)4.1. Destination quality
+#### [](#4-1-profile-details)4.1. Profile details
 
-Ad destinations must have quality, original content and provide a proper user experience. Particularly, the following applies:
-
-*   Telegram channels and bots must have both a profile image and a complete text in their ‘about’ or ‘description’ section.
-*   Bots must be _beneficial_ to the user and are expected to provide a user experience and interfaces that are consistent with the capabilities of the [Bot Platform](https://core.telegram.org/bots/features).
-*   Destinations using excessive CAPITALIZATION, **highlighting**, emoji, punctuation (exclamation marks etc.) or strong language are not allowed.
+Promoted channels, bots, and accounts must have both a profile image and a complete text in their ‘about’ or ‘description’ section.
 
 #### [](#4-2-destination-functionality)4.2. Destination functionality
 
-Ad destinations must be functional, technically complete, and active. Particularly, the following applies:
+Ad destinations must be functional, technically complete, and active. Bots must respond to commands properly. Particularly, the following applies:
 
-*   Empty or abandoned Telegram channels are not allowed as destinations.
-*   Telegram channels must have had some activity at least once in the two weeks prior to review.
+*   Bots must be beneficial to the user and are expected to provide a user experience and interfaces that are consistent with the capabilities and quality of the [Bot Platform](https://core.telegram.org/bots/features).
 *   Destination bots must respond to commands properly on both mobile and desktop devices.
 *   Inactive, expired and inaccessible websites are not allowed. This covers websites “under construction”, websites returning error codes, preventing access by a paywall or login form, websites unavailable from targeted locations, and websites that fail to load.
 
@@ -60,18 +55,33 @@ Ad destinations must be functional, technically complete, and active. Particular
 
 Destinations must match the ad text and may not be used only for redirecting to other landing pages. Particularly, the following is not allowed:
 
-*   The **language** of the targeted channel must be the same as the language of the ad and of the destination.
-*   Destinations not corresponding with the ad text, _e.g., cat food ads with links to an online clothing store_
+*   Destinations not corresponding with the ad text, e.g., _cat food ads with links to an online clothing store_
 *   Mock destinations created solely for displaying other ads or collecting user data with “call me back” forms or similar
 *   Mostly noninteractive bots designed to redirect elsewhere
-*   Websites that automatically redirect users to a different webpage or domain, _e.g., through 302-redirect or .htaccess-redirect_
+*   Websites that automatically redirect users to a different webpage or domain, e.g., _through 302-redirect or .htaccess-redirect_
 
 #### [](#4-4-manipulation-of-content)4.4. Manipulation of content
 
 The contents of a destination may not be altered to scam users or evade moderation review. Advertisers using manipulated destinations may be suspended without notice. Particularly, the following is not allowed:
 
-*   Concealing or replacing the content of the destination to pass the ad review
-*   Spoofing and cloaking, _such as when a destination imitates a legitimate website or uses names of other brands to mislead visitors_
+*   Concealing or replacing the content of the destination to pass the ad review.
+*   Spoofing and cloaking, such as when a destination imitates a legitimate website or uses names of other brands to mislead visitors.
+
+#### [](#4-5-empty-destinations)4.5. Empty destinations
+
+Empty or abandoned Telegram channels, bots, and accounts are not allowed as destinations. Telegram channels must have at least one post published within the two weeks prior to review.
+
+#### [](#4-6-destination-style)4.6. Destination style
+
+Destinations containing profane language or with excessive or gimmicky use of capitalization or highlighting are not allowed.
+
+#### [](#4-7-language-mismatch)4.7. Language mismatch
+
+The language of the targeted channel should match the language of the ad and of the destination.
+
+#### [](#4-8-keyword-requirements)4.8. Keyword requirements
+
+Search keywords selected for ad placement must not exploit harmful, prohibited or sensitive topics to attract clicks or bait users.
 
 ### [](#5-prohibited-content)5\. Prohibited content
 
