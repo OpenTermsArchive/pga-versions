@@ -16,6 +16,17 @@ While we encourage you to read these Terms in full, click [here](https://www.tik
 
 _In short: This is a contract between you and TikTok. You should read it and any other terms that apply to you._
 
+*   1\. Who your contract is with
+*   2\. The services covered by these Terms
+*   3\. Additional terms that apply if you use certain features
+*   4\. Using the Platform
+*   5\. What we promise to you
+*   6\. Restricting, suspending or ending our relationship
+*   7\. Changes to these Terms or the Platform
+*   8\. Resolving disputes
+*   9\. Other
+*   10\. Contacting TikTok
+
 **1\. Who your contract is with**
 ---------------------------------
 
