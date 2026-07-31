@@ -209,9 +209,7 @@ The purposes of use of Personal Data include, for example, the following.
 
 ### 4.a.Examples of Provision and maintenance of our Services
 
-We will use information required for providing our Services, answering your inquiries, hosting promotional events, and sending announcements regarding our Services and those of our Partners.
-
-For example, in the following cases, we will use Personal Data for the provision and maintenance of our Services.
+We will use information required for providing our Services, answering your inquiries, hosting promotional events, and sending announcements regarding our Services and those of our Partners. For example, in the following cases, we will use Personal Data for the provision and maintenance of our Services.
 
 *   To verify your identity, through comparison with your registered information, when succeeding the account upon logging in or changing your device, when using certain Services which require identity verification, or when receiving inquiries from users;
 *   To send or post messages and contents, and convey the status of the sent or posted messages, etc.;
@@ -226,8 +224,7 @@ For example, in the following cases, we will use Personal Data for the provision
 
 ### 4.b.Examples of Development and improvement of our Services
 
-We will use Personal Data for the development and improvement of our Services for providing better services, products and contents to users toward the future.  
-For example, in the following cases, we will use Personal Data for the development and improvement of our Services:
+We will use Personal Data for the development and improvement of our Services for providing better services, products and contents to users toward the future. For example, in the following cases, we will use Personal Data for the development and improvement of our Services:
 
 *   To develop and improve our Services by surveying and analyzing your attribute information, number of users and number of viewers of our Services, and number of views and number of taps and clicks of ads which we and our Partners distribute;
 *   To improve our Services by creating statistics and models related to the use of our Services;
@@ -237,9 +234,7 @@ For example, in the following cases, we will use Personal Data for the developme
 
 ### 4.c.Examples of Security and prevention of and measures against unauthorized use
 
-We will use Personal Data and take security measures and measures against unauthorized use to maintain an environment where our Services can be used at all times, and users can use our Services with a sense of security on a daily basis.
-
-For example, in the following cases, we will use Personal Data for the security and prevention of and measures against unauthorized use:
+We will use Personal Data and take security measures and measures against unauthorized use to maintain an environment where our Services can be used at all times, and users can use our Services with a sense of security on a daily basis. For example, in the following cases, we will use Personal Data for the security and prevention of and measures against unauthorized use:
 
 *   To confirm whether there is any breach of terms of use, any illegal act, unauthorized access or any other unauthorized use;
 *   To monitor and confirm the details of reports and illegal postings, etc., and to develop tools for preventing unauthorized use by ways such as analyzing the details of such reports and illegal postings, etc.; or
@@ -247,8 +242,7 @@ For example, in the following cases, we will use Personal Data for the security 
 
 ### 4.d.Examples of Provisions of our Services optimized for you
 
-We will utilize Personal Data for providing recommended contents, including ads, to each user.  
-For example, in the following cases, we will use Personal Data for providing optimized contents to users:
+We will utilize Personal Data for providing recommended contents, including ads, to each user. For example, in the following cases, we will use Personal Data for providing optimized contents to users:
 
 *   To provide recommendations to you such as introducing recommended products and news articles based such as on your gender and purchase history;
 *   To measure the effectiveness of the distributed ad; or
@@ -383,9 +377,9 @@ To help protect your privacy and confidentiality of your Personal Data, we also 
 
 ### 6.b.Storage location of Personal Data
 
-We are storing the Personal Data of Japanese users in our data centers located in Japan, the United States and South Korea.
+We are storing the Personal Data of Japanese users in our data centers located in Japan and the United States.
 
-Japan, the United States, and South Korea are participating in APEC’s Cross Border Privacy Rules (CBPR System), and Japan and South Korea have received adequacy certification from the European Commission.
+Japan and the United States are participating in APEC’s Cross Border Privacy Rules (CBPR System).
 
 For details regarding the storage location of your Personal Data, please also read “[Safety Management Measures for Personal Data.](https://privacy.lycorp.co.jp/en/safety.html)”
 
@@ -469,8 +463,7 @@ With regard to your Personal Data that is processed by a third-party through a m
 
 ### 8.b.Cookie and other analytical tools
 
-A cookie is a small text file that is stored on your computer when visiting a website. This text file stores information that can be read by the website operator when visiting the website again at a later date.  
-For example, we may use cookies and similar web tracking technologies (web beacon, pixel etc.) for the following purposes:
+A cookie is a small text file that is stored on your computer when visiting a website. This text file stores information that can be read by the website operator when visiting the website again at a later date. For example, we may use cookies and similar web tracking technologies (web beacon, pixel etc.) for the following purposes:
 
 *   to store your login state, authenticate visitors, maintain sessions and take security measures;
 *   to store language settings and latest date and time of access, and improve user-friendliness;
@@ -598,4 +591,4 @@ Inquiries and allegations regarding the processing of Personal Data
 [Yahoo! JAPAN Terms of Use Part 1 Chapter 2 Privacy Policy ![pdf](https://www.lycorp.co.jp/assets/images/icon_pdf.svg)](https://www.lycorp.co.jp/assets/pdf/y_chapert1_en.pdf#y_privacypolicy_en) 
 
 Formulated on October 1, 2023  
-Date of last update: July 31, 2025
+Date of last update: July 31, 2026
