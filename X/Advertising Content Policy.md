@@ -1075,8 +1075,7 @@ This policy applies, but is not limited, to:
 *   Sites or services providing tips, odds, handicapping, sports picks, forecasts, or poker odds calculators
 *   Scratch games
 *   Lotteries
-*   Games or apps played for money\*  
-    
+*   Games or apps played for money\*
 
 \*For games involving NFTs or cryptocurrency tokens, please refer to our [Financial Products & Services Policy](https://business.twitter.com/en/help/ads-policies/ads-content-policies/financial-services.html).
 
@@ -1092,7 +1091,7 @@ This policy generally does not prohibit:
 
 Advertisers targeting the countries below must obtain pre-approval to run Gambling Content ads by first getting [certified](https://ads.twitter.com/en/help).
 
-**Brick-and-mortar casinos**  
+**Brick-and-mortar casinos**
 
 Advertisements for licensed brick-and-mortar casinos are globally prohibited, except when targeting the countries listed below:
 
@@ -1219,8 +1218,7 @@ The following additional requirements apply to gambling content advertisements t
 
 *   Online casino games, sports betting, and lottery ads are permitted provided advertisers targeting France are licensed by the Autorité de Régulation des Jeux en Ligne ([ARJEL](http://www.arjel.fr/-Liste-des-operateurs-agrees-.html)). These advertisers are only allowed with prior authorization from X.
 *   Fantasy sports ads are permitted.
-*   Sites driving traffic to gambling operators in France -- (except lottery aggregators) such as affiliates, tips or odds sites -- are permitted, as long as they do not require a license or other permission for their activities. If an advertiser’s status changes in this regard, or they are the subject of any ruling of a legal, regulatory authority, or industry body pertinent to their activities, they must inform X immediately. These advertisers are only allowed with prior authorization from X.   
-    
+*   Sites driving traffic to gambling operators in France -- (except lottery aggregators) such as affiliates, tips or odds sites -- are permitted, as long as they do not require a license or other permission for their activities. If an advertiser’s status changes in this regard, or they are the subject of any ruling of a legal, regulatory authority, or industry body pertinent to their activities, they must inform X immediately. These advertisers are only allowed with prior authorization from X. 
 *   Advertisers are responsible for ensuring that their landing pages provide a warning against excessive or pathological gambling, and that their websites operate on a “.fr” domain
 
 **Germany**
@@ -1332,7 +1330,7 @@ The following additional requirements apply to gambling content advertisements t
 
 **Nigeria**
 
-*   Gambling advertisements such as brick & mortar casinos, online casinos, lotteries and sports betting are permitted in Nigeria, provided they are authorized by the relevant Nigerian Gambling and Gaming Authorities.
+*   Gambling advertisements such as brick & mortar casinos, online casinos, lotteries and sports betting are permitted in Nigeria, provided they are authorized by the relevant Gaming Authority.
     
 *   Advertising must comply with State gaming laws, the Advertising Regulatory Council of Nigeria (ARCON) Act 2022, and the Federal Competition and Consumer Protection Act (FCCPA) 2018.
     
@@ -1382,7 +1380,7 @@ The following additional requirements apply to gambling content advertisements t
 *   All advertising must conform to the provisions of the Audiovisual Law no. 504/2002 and the Audiovisual Code, including the designated time slots for gambling advertisements.
     
 
-**Serbia**  
+**Serbia**
 
 *   Offline gambling: Brick and mortar casinos ads are permitted if the advertiser holds a license or authorization issued by the Serbian Government
     
