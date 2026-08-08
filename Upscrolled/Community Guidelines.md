@@ -236,3 +236,5 @@ Updates to These Guidelines
 ---------------------------
 
 UpScrolled may update these Guidelines from time to time. Continued use of the platform after changes are published constitutes acceptance of the updated Guidelines.
+
+These Community Guidelines are written in English, which is the version of reference. Translations into other languages are provided for convenience only. In the case of any discrepancies or inconsistencies, the English language version of the UpScrolled Community Guidelines shall prevail.
