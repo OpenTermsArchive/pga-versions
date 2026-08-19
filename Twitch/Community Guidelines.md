@@ -934,7 +934,9 @@ If you are a monetized streamer who receives an indefinite suspension, you will 
 
 ### Expiration
 
-Most violations will expire and drop off of your account after a set period of time. Lower severity violations will expire in 90 days, and higher severity violations expire in 1 or 2 years. You can track when your violations will expire in the [Appeals Portal](https://appeals.twitch.tv/).
+**Expiration is different from your suspension duration.** Your suspension duration is how long you lose access to specific features (between 24 hours and 30 days). Expiration is how long the violation remains on your account record. Your suspension ends first, and you regain access to your account, but the violation stays on your record until it expires.
+
+Most violations will expire and drop off of your account after a set period of time. Lower severity violations will expire in 90 days, and higher severity violations expire in 1 or 2 years. You can track when your violations will expire in the [Appeals Portal](https://appeals.twitch.tv/). The expiration date shown in the Appeals Portal refers to when the violation is removed from your record, not when your suspension ends.
 
 ### Escalating Consequences
 
