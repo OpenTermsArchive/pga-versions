@@ -7,8 +7,6 @@
 Privacy Policy
 --------------
 
-Policy updated on Jul 23, 2026.
-
 How to manage the info we use
 
 We collect information about you from different sources. You can choose whether we use certain information by visiting:
