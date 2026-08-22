@@ -11,7 +11,7 @@ Diese Datenschutzerklärung beschreibt, wie wir, Telegram Messenger Inc. **(“T
 
 Telegram hat zwei grundlegende Prinzipien, wenn es um die Erhebung und Verarbeitung personenbezogener Daten von Nutzern geht:
 
-*   Wir verwenden deine Daten nicht, um dir Werbeanzeigen anzuzeigen.
+*   Wir verwenden weder die Inhalte deiner Chats noch deine Kontaktlisten, um dir Werbung anzuzeigen.
 *   Wir speichern nur die Daten, die Telegram benötigt, um ein sicherer und funktionsreicher Messaging-Dienst zu sein und diesen Dienst unseren Nutzern zur Verfügung zu stellen.
 
 #### [](#1-2-nutzungsbedingungen)1.2. Nutzungsbedingungen
@@ -138,11 +138,25 @@ Wir können auch einige aggregierte Metadaten speichern, um Telegram-Funktionen 
 
 Wir können bestimmte aggregierte Daten darüber verwenden, wie du Telegram nutzt, um nützliche Funktionen zu erstellen. Wenn du beispielsweise das Menü ‚Suchen‘ öffnest, zeigt Telegram in einem Kasten oben auf dem Bildschirm die Personen an, die du mit größerer Wahrscheinlichkeit ansprechen möchtest. Zu diesem Zweck berechnen wir eine Bewertung, die anzeigt, welche Personen du häufig anschreibst. Eine ähnliche Bewertung wird für Inline-Bots berechnet, sodass die App die Bots vorschlagen kann, die du am ehesten im Anlage-Menü verwendest (oder wenn du eine neue Nachricht mit “@” startest). Um diese Funktion zu deaktivieren und die relevanten Daten zu löschen, gehe zu _Einstellungen > Privatsphäre und Sicherheit_ (bei iOS zusätzlich _Dateneinstellungen_) und deaktiviere “Häufige Kontakte vorschlagen”.
 
-#### [](#5-6-keine-werbung-aufgrund-von-nutzerdaten)5.6. Keine Werbung aufgrund von Nutzerdaten
+#### [](#5-6-keine-werbung-auf-grundlage-von-chat-inhalten-oder-kontaktli)5.6. Keine Werbung auf Grundlage von Chat-Inhalten oder Kontaktlisten
 
-Im Gegensatz zu anderen Diensten verwenden wir deine Daten nicht für die Zielgruppenansprache von Werbung oder andere kommerzielle Zwecke. Telegram speichert nur die Informationen, die benötigt werden, um die Dienste zu erbringen und ein sicherer und funktionsreicher Cloud-Dienst zu sein.
+Im Gegensatz zu anderen Diensten verwenden wir weder die Inhalte Ihrer privaten Chats noch Ihre Kontaktlisten für zielgerichtete Werbung oder sonstige kommerzielle Zwecke. Telegram speichert ausschließlich die Informationen, die notwendig sind, um als sicherer und funktionsreicher Cloud-Dienst zu funktionieren.
 
-In einigen Gebieten bietet Telegram Werbetreibenden ein [Werkzeug](https://promote.telegram.org/), um ihre Nachrichten in öffentlichen Kanälen zu bewerben, aber diese gesponserten Nachrichten basieren ausschließlich auf Themen der öffentlichen [Kanäle](https://telegram.org/tour/channels), in denen sie gezeigt werden. Es werden keine Nutzerdaten extrahiert oder analysiert, um Werbeanzeigen oder gesponserte Nachrichten anzuzeigen.
+Telegram bietet Werbetreibenden ein [Werkzeug](https://promote.telegram.org/), mit dem sie ihre Nachrichten in [öffentlichen Kanälen für ein großes Publikum](https://telegram.org/tour/channels) (mit mindestens 1.000 Abonnenten) sowie in Bots, Storys und der öffentlichen Suche von Telegram bewerben können. Standardmäßig basieren diese gesponserten Nachrichten ausschließlich auf dem Thema der öffentlichen Kanäle oder den Suchbegriffen, bei denen sie angezeigt werden. Inhalte privater Chats oder Kontaktlisten werden weder ausgewertet noch analysiert, um Werbung oder gesponserte Nachrichten anzuzeigen.
+
+> Nutzer von Telegram Premium sehen keine Werbung und sind von der [Telegram Ad Platform](https://ads.telegram.org/) nicht betroffen.
+
+##### [](#5-6-1-zusatzliche-werbewerkzeuge)5.6.1. Zusätzliche Werbewerkzeuge
+
+> Unaufdringliche Werbemodelle helfen uns dabei, unsere Dienste dauerhaft anzubieten. Die zur Anzeige von Werbung herangezogenen Daten werden auf Grundlage des berechtigten Interesses von Telegram verarbeitet, dir effektive und innovative Dienste bereitzustellen. Diese Daten dürfen nicht an Dritte weitergegeben werden, auch nicht an Werbetreibende.
+> 
+> Nutzer von Telegram Premium sehen keine Werbung und sind von der Werbeplattform nicht betroffen. Die in diesem Abschnitt genannten Daten zur zielgerichteten Werbung werden für diese Nutzer nicht verarbeitet.
+
+In großen öffentlichen Kanälen für ein großes Publikum (mit **mindestens 1.000 Abonnenten**) und in öffentlichen Suchergebnissen kann Werbung auf Grundlage der Sprache der Inhalte angezeigt werden. Diese Sprache kann jedoch in mehreren verschiedenen Ländern verbreitet sein. Um die Relevanz der Werbung zu gewährleisten, kann Werbung in einem **bestimmten Land und einer bestimmten Stadt** angezeigt werden, wobei der ungefähre Standort anhand des Landes und der Vorwahl der Telefonnummer eines Nutzers oder anhand seiner IP-Adresse bestimmt wird. Diese Daten werden niemals an Werbetreibende weitergegeben. Andere Standortdaten werden hierfür nicht verwendet und eine genaue Standortverfolgung findet zu diesen Zwecken nicht statt. Dadurch können Werbetreibende die Sichtbarkeit ihrer Werbung auf bestimmte Länder oder Regionen beschränken. Beispielsweise können sie eine Anzeige für ein spanischsprachiges Publikum erstellen, diese jedoch nicht innerhalb Spaniens anzeigen lassen.
+
+Nutzer, die einer ausreichenden Anzahl großer öffentlicher Kanäle für ein großes Publikum folgen (z. B. _Finanzen, Wirtschaft & Unternehmertum oder Humor & Memes_), können auch in anderen großen öffentlichen Kanälen oder anderen Bots Werbung aus der entsprechenden Kategorie sehen. Nutzern kann außerdem Werbung auf Grundlage der von ihnen abonnierten Kanäle angezeigt werden. Diese Daten werden niemals an Werbetreibende weitergegeben.
+
+> Deine in Abschnitt 9 unten beschriebenen Rechte bleiben hiervon unberührt.
 
 ### [](#6-bot-nachrichten)6\. Bot-Nachrichten
 
@@ -324,6 +338,10 @@ Wir werden diese Datenschutzerklärung von gelegentlich überprüfen und gegeben
 **September 29, 2024**
 
 *   [10.4](#10-4-selbstloschung-des-kontos) aktualisiert, um den neuen Standardzeitraum für die Selbstzerstörung von Konten anzuzeigen.
+
+**21\. August 2026**
+
+*   Die Datenschutzerklärung wurde überarbeitet, um geografische Einschränkungen sowie zusätzliche Werbewerkzeuge zu erläutern, die Einfluss darauf haben können, wie Werbung dargestellt wird.
 
 Wesentliche Änderungen an dieser Datenschutzerklärung werden über Telegram mitgeteilt.
 
