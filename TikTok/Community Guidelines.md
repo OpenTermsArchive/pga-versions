@@ -16,6 +16,10 @@ Community Guidelines
 *   Accounts and Features
 *   Enforcement
 
+On September 24, 2026, we are updating our Community Guidelines so you can continue to create, discover, and share safely on TikTok. Check out the new Community Guidelines [here](https://www.tiktok.com/safety/en/policies-and-engagement/overview?cgversion=2026H2update).
+
+  
+
 Released August 14, 2025
 
 Effective September 13, 2025
@@ -131,6 +135,8 @@ Community Guidelines
 *   Accounts and Features
 *   Enforcement
 
+On September 24, 2026, we are updating our Community Guidelines so you can continue to create, discover, and share safely on TikTok. Check out the new Community Guidelines [here](https://www.tiktok.com/safety/en/policies-and-engagement/overview?cgversion=2026H2update).
+
 Released August 14, 2025
 
 Effective September 13, 2025
@@ -181,6 +187,8 @@ Community Guidelines
 *   For You feed Eligibility Standards
 *   Accounts and Features
 *   Enforcement
+
+On September 24, 2026, we are updating our Community Guidelines so you can continue to create, discover, and share safely on TikTok. Check out the new Community Guidelines [here](https://www.tiktok.com/safety/en/policies-and-engagement/overview?cgversion=2026H2update).
 
 Released August 14, 2025
 
@@ -237,6 +245,8 @@ Community Guidelines
 *   For You feed Eligibility Standards
 *   Accounts and Features
 *   Enforcement
+
+On September 24, 2026, we are updating our Community Guidelines so you can continue to create, discover, and share safely on TikTok. Check out the new Community Guidelines [here](https://www.tiktok.com/safety/en/policies-and-engagement/overview?cgversion=2026H2update).
 
 Released August 14, 2025
 
@@ -377,6 +387,8 @@ Community Guidelines
 *   Accounts and Features
 *   Enforcement
 
+On September 24, 2026, we are updating our Community Guidelines so you can continue to create, discover, and share safely on TikTok. Check out the new Community Guidelines [here](https://www.tiktok.com/safety/en/policies-and-engagement/overview?cgversion=2026H2update).
+
 Released August 14, 2025
 
 Effective September 13, 2025
@@ -442,6 +454,8 @@ Community Guidelines
 *   For You feed Eligibility Standards
 *   Accounts and Features
 *   Enforcement
+
+On September 24, 2026, we are updating our Community Guidelines so you can continue to create, discover, and share safely on TikTok. Check out the new Community Guidelines [here](https://www.tiktok.com/safety/en/policies-and-engagement/overview?cgversion=2026H2update).
 
 Released August 14, 2025
 
@@ -518,6 +532,8 @@ Community Guidelines
 *   For You feed Eligibility Standards
 *   Accounts and Features
 *   Enforcement
+
+On September 24, 2026, we are updating our Community Guidelines so you can continue to create, discover, and share safely on TikTok. Check out the new Community Guidelines [here](https://www.tiktok.com/safety/en/policies-and-engagement/overview?cgversion=2026H2update).
 
 Released August 14, 2025
 
@@ -613,6 +629,8 @@ Community Guidelines
 *   Accounts and Features
 *   Enforcement
 
+On September 24, 2026, we are updating our Community Guidelines so you can continue to create, discover, and share safely on TikTok. Check out the new Community Guidelines [here](https://www.tiktok.com/safety/en/policies-and-engagement/overview?cgversion=2026H2update).
+
 Released August 14, 2025
 
 Effective September 13, 2025
@@ -684,6 +702,8 @@ Community Guidelines
 *   Accounts and Features
 *   Enforcement
 
+On September 24, 2026, we are updating our Community Guidelines so you can continue to create, discover, and share safely on TikTok. Check out the new Community Guidelines [here](https://www.tiktok.com/safety/en/policies-and-engagement/overview?cgversion=2026H2update).
+
 Released August 14, 2025
 
 Effective September 13, 2025
@@ -739,6 +759,8 @@ Community Guidelines
 *   Accounts and Features
 *   Enforcement
 
+On September 24, 2026, we are updating our Community Guidelines so you can continue to create, discover, and share safely on TikTok. Check out the new Community Guidelines [here](https://www.tiktok.com/safety/en/policies-and-engagement/overview?cgversion=2026H2update).
+
 Released August 14, 2025
 
 Effective September 13, 2025
@@ -776,6 +798,8 @@ Community Guidelines
 *   For You feed Eligibility Standards
 *   Accounts and Features
 *   Enforcement
+
+On September 24, 2026, we are updating our Community Guidelines so you can continue to create, discover, and share safely on TikTok. Check out the new Community Guidelines [here](https://www.tiktok.com/safety/en/policies-and-engagement/overview?cgversion=2026H2update).
 
 Released August 14, 2025
 
@@ -932,6 +956,8 @@ Community Guidelines
 *   For You feed Eligibility Standards
 *   Accounts and Features
 *   Enforcement
+
+On September 24, 2026, we are updating our Community Guidelines so you can continue to create, discover, and share safely on TikTok. Check out the new Community Guidelines [here](https://www.tiktok.com/safety/en/policies-and-engagement/overview?cgversion=2026H2update).
 
 Released August 14, 2025
 
