@@ -3025,6 +3025,8 @@ Imagery depicting human waste and bodily fluids (e.g., feces, urine, vomit, earw
 
 Imagery depicting vehicles that are burning or exploding, or depicting the moment or aftermath of speeding vehicles’ impact with other objects where the vehicle is dislodged from its path and / or the vehicle’s driver or passenger compartments are severely damaged.
 
+Imagery of physical fights between two or more people, except in a sports context.
+
 **Imagery of animals**
 
 Imagery depicting animals, living or dead, where visible blood is present.
