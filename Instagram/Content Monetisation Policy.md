@@ -1,6 +1,8 @@
 Instagram Content Monetization Policies
 =======================================
 
+Chat with Meta AI business assistant for support around the clockStill need help? Your business assistant can help resolve account issues and unblock your business.
+
 We offer features and products that help creators and publishers earn money from their content. This content has to follow certain rules.
 
 All content on Instagram must comply with our Terms of Use and Community Standards. These are our high-level rules against sexual, violent, profane or hateful content. However, content appropriate for Instagram in general is not necessarily appropriate for monetization.
@@ -232,16 +234,15 @@ Content may not be monetized if it displays or discusses gore or bodily conditio
 *   Decay
     
 *   Infestation
-    
-
-#### Have a moment?
-
-Tell us how we're doing
 
 - - -
 
 Instagram Partner Monetization Policies
 =======================================
+
+Chat with Meta AI business assistant for support around the clockStill need help? Your business assistant can help resolve account issues and unblock your business.
+
+Start chat
 
 Eligibility Standards for Promotional Tools are now called Instagram Partner Monetization Policies. This is still the best place to learn about the rules for using Instagram's monetization tools.
 
