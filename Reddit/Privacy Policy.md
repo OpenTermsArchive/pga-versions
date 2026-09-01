@@ -142,4 +142,176 @@ You have choices about how to protect and limit the collection, use, and sharing
 |     | _Controlling Mobile Notifications_ |     | With your consent, we may send promotional and non-promotional push notifications or alerts to your mobile device. You can deactivate these messages at any time by changing the notification settings on your mobile device. |     |
 |     | _Controlling Location Information_ |     | You can control how we use location information for feed and recommendations customization via the [Location Customization](https://www.reddit.com/settings/account) setting in your Account Settings. |     |
 
-If you have questions or are not able to submit a request to exercise your rights using the mechanisms above, you may also email us at
+If you have questions or are not able to submit a request to exercise your rights using the mechanisms above, you may also email us at redditdatarequests@reddit.com from the email address that you have verified with your Reddit account, or submit your requests [here](https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=360001370251).
+
+Before we process a request from you about your personal information, we need to verify the request via your access to your Reddit account or to a verified email address associated with your Reddit account. If we deny your request, you may appeal our decision by contacting us at redditdatarequests@reddit.com.
+
+International Data Transfers
+----------------------------
+
+Reddit is a global platform with operations across the world. We process and store information on servers located in the United States, and we may transfer it to our affiliates, service providers, and other third parties located in various countries depending on factors such as the locations of our users and operational needs.
+
+When we transfer the personal data of users in the EEA, UK and/or Switzerland to countries outside these regions, we ensure an adequate level of protection through mechanisms such as adequacy decisions and the Standard Contractual Clauses (with the UK Addendum or Swiss equivalent where applicable), along with the supplementary measures where required.
+
+EU-U.S., UK Extension, and Swiss-U.S. Data Privacy Frameworks Disclosure
+------------------------------------------------------------------------
+
+Reddit, Inc., complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Reddit, Inc., has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union and the United Kingdom in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF. Reddit, Inc., has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) Program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).
+
+Reddit, Inc.’s compliance with the DPF is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. In accordance with the DPF, Reddit, Inc., is also liable for onward transfers to third parties that process personal information in a way that does not follow the DPF unless Reddit, Inc., was not responsible for the event giving rise to any alleged damage.
+
+In some situations, the DPF Framework gives you the right to invoke binding arbitration. You can do this to resolve complaints not resolved by other means, as described in Annex I to the [DPF framework](https://www.dataprivacyframework.gov/s/framework-text). In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Reddit, Inc., commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF to JAMS, an alternative dispute resolution provider based in the United States. If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit [https://www.jamsadr.com/dpf-dispute-resolution](https://www.jamsadr.com/dpf-dispute-resolution) for more information or to file a complaint. The services of JAMS are provided at no cost to you.
+
+Additional Information for EEA, Swiss, and UK Users
+---------------------------------------------------
+
+If you live in the European Economic Area (“EEA”) or Switzerland, Reddit Netherlands B.V. is the controller of information processed in connection with the Reddit platform and this policy. If you live in the United Kingdom (“UK”), Reddit, Inc., is the data controller and Reddit UK Limited is Reddit’s UK GDPR Article 27 Representative.
+
+Users in the EEA, Switzerland, and UK have the right to request access to, rectification of, or erasure of their personal data; to data portability in certain circumstances; to request restriction of processing; to object to processing; and to withdraw consent for processing where they have previously provided consent. These rights can be exercised as described in the “[Your Rights and Choices"](#rights-and-choices) section above. EEA and Swiss users also have the right to lodge a complaint with their local supervisory authority.
+
+As required by applicable law, we collect and process information about individuals in the EEA, Switzerland, and UK only where we have a legal basis for doing so. Our legal bases depend on the Services you use and how you use them.
+
+Similarly, depending on the services, we may also process the same information for different purposes. We explain below these processing purposes, the categories of data processed and the legal basis for processing this data, in more detail:
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|     | **Performance of Contract** |     |     |     |
+|     | How We Use Your Information |     | Information Categories Used |     |
+|     | _Provide, maintain, and improve the Services, when you access or use Reddit and its features, which includes searching or submitting content (for example, a post, comment, or chat message), we process data as necessary to fulfill our contractual obligations according to our [User Agreement](https://redditinc.com/policies/user-agreement), [Public Content](https://support.reddithelp.com/hc/en-us/articles/26410290525844-Public-Content-Policy) and [other policies](https://redditinc.com/policies)._ |     | _Information You Provide Us_<br><br>*   Account Information<br>*   Public Content You Submit<br>*   Non-Public Content You Submit<br>*   Actions You Take<br>*   Transactional Information<br>*   Other Information (e.g. user defined location)<br><br>_Information We Collect As You Use Our Services_<br><br>*   Public Information Related to You<br>*   Logs Data<br>*   Usage Information<br>*   Information collected from cookies and similar technologies<br>*   Location Information (IP based only)<br><br>_Information Collected from Other Sources_<br><br>*   Linked Services<br>*   Information collected from Integrations<br><br>_Information Collected by Third Parties_<br><br>*   Embedded Content<br>*   Audience Measurement |     |
+|     | _Help protect the safety of Reddit and our users, which includes blocking suspected spammers, addressing abuse, age restricting certain content and enforcing our rights, the Reddit User Agreement and our other terms and policies_ |     | _Information You Provide Us_<br><br>*   Account Information<br>*   Public Content You Submit<br>*   Non-Public Content You Submit<br>*   Actions You Take<br>*   Transactional Information<br>*   Other Information<br><br>_Information We Collect As You Use Our Services_<br><br>*   Public Information Related to You<br>*   Logs Data<br>*   Usage Information<br>*   Information collected from cookies and similar technologies<br>*   Location Information (IP based only) |     |
+|     | _Send you technical notices, updates, security alerts, invoices, and other support and administrative messages_ |     | _Information You Provide Us_<br><br>*   Account Information<br>*   Transactional Information |     |
+|     | _Provide customer service_ |     | _Information You Provide Us_<br><br>*   Account Information<br>*   Non-Public Content You Submit<br>*   Actions You Take<br>*   Transactional Information<br>*   Other Information<br><br>_Information We Collect As You Use Our Services_<br><br>*   Logs Data<br>*   Usage Information<br>*   Location Information (IP based only)<br><br>_Information Collected from Other Sources_<br><br>*   Linked Services |     |
+|     | _Monitor and analyze trends, usage, and activities in connection with our Services_ |     | _Information You Provide Us_<br><br>*   Account Information<br>*   Public Content You Submit<br>*   Non-Public Content You Submit<br>*   Actions You Take<br>*   Transactional Information<br>*   Other Information<br><br>_Information We Collect As You Use Our Services_<br><br>*   Logs Data<br>*   Usage Information<br>*   Information collected from cookies and similar technologies<br>*   Location Information (IP based only)<br><br>_Information Collected from Other Sources_<br><br>*   Linked Services<br>*   Information collected from Integrations<br><br>_Information Collected by Third Parties_<br><br>*   Embedded Content<br>*   Audience measurement |     |
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|     | **Legitimate Interest** |     |     |     |
+|     | How We Use Your Information |     | Information Categories Used |     |
+|     | _Provide, maintain, and improve the Services Legitimate Interest relied on: To provide Reddit services: to support, maintain and improve the Reddit services for users, to foster innovation that benefits our user community The users interest in accessing the Reddit services: to provide new features and/or products for users and customers, and advance research-driven product enhancements._ |     | _Information You Provide Us_<br><br>*   Account Information<br>*   Public Content You Submit<br>*   Non-Public Content You Submit<br>*   Actions You Take<br>*   Transactional Information<br>*   Other Information (e.g. user defined location)<br><br>_Information We Collect As You Use Our Services_<br><br>*   Public Information Related to You<br>*   Logs Data<br>*   Usage Information<br>*   Information collected from cookies and similar technologies<br>*   Location Information (IP based only)<br><br>_Information Collected from Other Sources_<br><br>*   Linked Services<br>*   Information collected from Integrations<br><br>_Information Collected by Third Parties_<br><br>*   Embedded Content<br>*   Audience Measurement |     |
+|     | _Provide you personalized, age-appropriate, services, content, and features Legitimate Interest relied on: to provide age-appropriate services, this measure supports Reddit’s legitimate interest in enforcing content policies, mitigating regulatory risk, and ensuring an appropriate user experience. to enhance user experience by tailoring services to individual preferences_ |     | _Information You Provide Us_<br><br>*   Account Information<br>*   Public Content You Submit<br>*   Non-Public Content You Submit<br>*   Actions You Take<br>*   Other Information<br><br>_Information We Collect As You Use Our Services_<br><br>*   Public Information Related to You<br>*   Logs Data<br>*   Usage Information<br>*   Information collected from cookies and similar technologies<br>*   Location Information (IP based only) |     |
+|     | _Provide you with relevant advertising, including non- personalized advertising on Reddit Legitimate Interest relied on: to deliver advertising that is more likely to be relevant to users such as based on your approximate location_ |     | _Information You Provide Us_<br><br>*   Account Information<br>*   Actions You Take<br>*   Other Information<br><br>_Information We Collect As You Use Our Services_<br><br>*   Log Data<br>*   Usage information<br>*   Information collected from cookies and similar technologies<br>*   Location Information (IP based only) |     |
+|     | _Optimize and measure the effectiveness of ads shown on our Services, and our ads on other sites and apps Legitimate Interest relied on: to evaluate the performance of advertising campaigns and improve the relevance and quality of ads shown to users. to promote our services and evaluate the success of our marketing campaigns_ |     | _Information You Provide Us_<br><br>*   Account Information<br>*   Actions You Take<br>*   Other Information<br><br>_Information We Collect As You Use Our Services_<br><br>*   Logs Data<br>*   Usage Information<br>*   Information collected from cookies and similar technologies<br>*   Location Information (IP based only)<br><br>_Information Collected from Other Sources_<br><br>*   Information collected from Integrations<br><br>_Information Collected by Third Parties_<br><br>*   Embedded Content<br>*   Audience Measurement |     |
+|     | _Help protect the safety of Reddit and our users, which includes blocking suspected spammers, addressing abuse, age restricting certain content and enforcing our rights, the Reddit User Agreement and our other terms and policies, as well as comply with applicable law Legitimate Interest relied on: to maintain a safe and trustworthy site for our users and to protect our services, rights and legal interests_ |     | _Information You Provide Us_<br><br>*   Account Information<br>*   Public Content You Submit<br>*   Non-Public Content You Submit<br>*   Actions You Take<br>*   Transactional Information<br>*   Other Information<br><br>_Information We Collect As You Use Our Services_<br><br>*   Public Information Related to You<br>*   Logs Data<br>*   Usage Information<br>*   Information collected from cookies and similar technologies<br>*   Location Information (IP based only) |     |
+|     | _Research and develop new services Legitimate Interest relied on: to innovate and improve our service offerings by understanding user needs and behaviours_ |     | _Information You Provide Us_<br><br>*   Account Information<br>*   Non-Public Content You Submit<br>*   Actions You Take<br>*   Transactional Information<br>*   Other Information<br><br>_Information We Collect As You Use Our Services_<br><br>*   Logs Data<br>*   Usage Information<br>*   Information collected from cookies and similar technologies<br>*   Location Information (IP based only)<br><br>_Information Collected from Other Sources_<br><br>*   Information collected from Integrations<br><br>_Information Collected by Third Parties_<br><br>*   Embedded Content<br>*   Audience Measurement |     |
+|     | _Communicate with you about products, services, offers, promotions, events, and programs, and provide other news and information we think will be of interest to you Legitimate Interest relied on: e.g., for user communication, to keep users informed about relevant updates and offerings related to their use of our services_ |     | _Information You Provide Us_<br><br>*   Account Information<br><br>_Information We Collect As You Use Our Services_<br><br>*   Logs Data<br>*   Usage Information<br>*   Information collected from cookies and similar technologies<br>*   Location Information (IP based only) |     |
+|     | _Monitor and analyze trends, usage, and activities in connection with our Services Legitimate Interest relied on: to understand how our services are used and improve functionality_ |     | _Information You Provide Us_<br><br>*   Account Information<br>*   Public Content You Submit<br>*   Non-Public Content You Submit<br>*   Actions You Take<br>*   Transactional Information<br>*   Other Information<br><br>_Information We Collect As You Use Our Services_<br><br>*   Logs Data<br>*   Usage Information<br>*   Information collected from cookies and similar technologies<br>*   Location Information (IP based only)<br><br>_Information Collected from Other Sources_<br><br>*   Linked Services<br>*   Information collected from Integrations<br><br>_Information Collected by Third Parties_<br><br>*   Embedded Content<br>*   Audience measurement |     |
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|     | **Legal Obligation** |     |     |     |
+|     | How We Use Your Information |     | Information Categories Used |     |
+|     | _Help protect the safety of Reddit and our users, which includes blocking suspected spammers, addressing abuse, age restricting certain content and enforcing our rights, the Reddit User Agreement and our other terms and policies, as well as comply with applicable law_ |     | _Information You Provide Us_<br><br>*   Account Information<br>*   Public Content You Submit<br>*   Non-Public Content You Submit<br>*   Actions You Take<br>*   Transactional Information<br>*   Other Information<br><br>_Information We Collect As You Use Our Services_<br><br>*   Public Information Related to You<br>*   Logs Data<br>*   Usage Information<br>*   Information collected from cookies and similar technologies<br>*   Location Information (IP based only) |     |
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|     | **Consent** |     |     |     |
+|     | How We Use Your Information |     | Information Categories Used |     |
+|     | _Provide you personalized, age-appropriate, services, content, and features_ |     | _Information You Provide Us_<br><br>*   Account Information<br>*   Public Content You Submit<br>*   Non-Public Content You Submit<br>*   Actions You Take<br>*   Other Information<br><br>_Information We Collect As You Use Our Services_<br><br>*   Public Information Related to You<br>*   Logs Data<br>*   Usage Information<br>*   Information collected from cookies and similar technologies<br>*   Location Information (IP based only) |     |
+|     | _Provide you with relevant advertising, including personalized advertising on Reddit_<br><br>*   Consent to deliver advertising that is more likely to be relevant to users |     | _Information You Provide Us_<br><br>*   Account Information<br>*   Public Content You Submit<br>*   Actions You Take<br>*   Other Information<br><br>_Information We Collect As You Use Our Services_<br><br>*   Logs Data<br>*   Usage information<br>*   Information collected from cookies and similar technologies<br>*   Location Information (IP based only) |     |
+|     | _Research and develop new services_<br><br>*   _Consent for user surveys._ |     | _Information You Provide Us_<br><br>*   Account Information<br>*   Non-Public Content You Submit<br>*   Actions You Take<br>*   Transactional Information<br>*   Other Information<br><br>_Information We Collect As You Use Our Services_<br><br>*   Logs Data<br>*   Usage Information<br>*   Information collected from cookies and similar technologies<br>*   Location Information (IP based only)<br><br>_Information Collected from Other Sources_<br><br>*   Information collected from Integrations<br><br>_Information Collected by Third Parties_<br><br>*   Embedded Content<br>*   Audience Measurement |     |
+|     | _Communicate with you about products, services, offers, promotions, events, and programs, and provide other news and information we think will be of interest to you_ |     | _Information You Provide Us_<br><br>*   Account Information<br><br>_Information We Collect As You Use Our Services_<br><br>*   Logs Data<br>*   Usage Information<br>*   Information collected from cookies and similar technologies<br>*   Location Information (IP based only) |     |
+
+Additional Information for California & Other US State Users
+------------------------------------------------------------
+
+Some US state laws, including the California Consumer Privacy Act (“CCPA”), as amended, require us to provide residents with some additional information and rights, which we address in this section.
+
+In the last 12 months, we collected the following categories of personal information from residents, depending on the Services used:
+
+*   Identifiers and account information, like your Reddit username, email address, phone number, IP address, and cookie information.
+*   Commercial information, including information about transactions you undertake with us.
+*   Internet or other electronic network activity information, such as information about your activity on our Services and limited information about your activity on the services of advertisers who use our advertising technology.
+*   Geolocation information based on your IP address.
+*   Your messages with other users (for example, private messages, private chats, and modmail).
+*   Audiovisual information in pictures, audio, or video content submitted to Reddit.
+*   Professional or employment-related information or demographic information, but only if you explicitly provide it to us, such as by filling out a survey.
+*   Inferences we make based on other collected data, for purposes such as recommending content, advertising, and analytics.
+
+You can find more information about (a) what we collect and sources of that information in the “What Information We Collect” section of this notice, (b) the business and commercial purposes for collecting that information in the “How We Use Your Information” section, and (c) the categories of third parties with whom we share that information and the purpose for sharing that information in the “How We Share Your Information” section.
+
+Depending on your jurisdiction, and subject to exceptions and limitations provided by local law, in addition to the rights listed in “[Your Rights and Choices](#rights-and-choices)” above, you may have: the right to opt out of any sales or sharing of your personal information, to request access to and information about our data practices, and to request deletion or correction of your personal information, as well as the right not to be discriminated against for exercising your privacy rights. For users in states with applicable privacy laws, you may exercise your rights via your [Privacy Settings](https://www.reddit.com/settings/privacy). You can opt out of the sharing of your personal information with third-party partners, used to measure the effectiveness of Reddit's advertisements on other platforms by toggling the “Ads off Reddit” setting to off in your privacy preferences. Reddit does not “sell” personal information as those terms are defined under applicable state privacy laws. Reddit does not have knowledge that it “sells” or “shares” the personal information of users under 16 years of age. We do not use or disclose sensitive personal information except to provide you the Services or as otherwise permitted by applicable regulations. We do not engage in profiling of consumers in furtherance of automated decisions that produce legal or similarly significant effects as those terms are defined in applicable regulations.
+
+You may exercise your rights to access, delete, or correct your personal information as described in the “[Your Rights and Choices](#rights-and-choices)” section of this notice. When you make a request, we will verify your identity by asking you to sign into your account or if necessary by requesting additional information from you. You may also make a rights request using an authorized agent. If you submit a rights request from an authorized agent who does not provide a valid power of attorney, we may ask the authorized agent to provide proof that you gave the agent signed permission to submit the request to exercise rights on your behalf. In the absence of a valid power of attorney, we may also require you to verify your own identity directly with us or confirm to us that you otherwise provided the authorized agent permission to submit the request. If you have any questions or concerns, you may reach us using the methods described under “[Your Rights and Choices](#rights-and-choices)” or by emailing us at [redditdatarequests@reddit.com](mailto:redditdatarequests@reddit.com).
+
+The CCPA requires us to disclose certain metrics about the various requests we receive, such as how many specific requests we received from California residents in the last calendar year. See our [CCPA Metrics Disclosure](https://redditinc.com/policies/transparency).
+
+Additional Information for Brazilian Users
+------------------------------------------
+
+All information regarding the processing of your personal data is detailed in the Privacy Policy, and any differences arising from the application of Law No. 13,709/18 ("Brazilian General Data Protection Law" or "LGPD") will be addressed in this section.
+
+In case of conflict between the Privacy Policy and this section, this section shall prevail for users in Brazil.
+
+Identification of the Controller  
+For all processing activities related to users in Brazil, the controller is Reddit, Inc., located at 548 Market St. #16093, San Francisco, California 94104, United States.
+
+Your Rights  
+The LGPD grants certain rights regarding your personal data, which are not absolute and may be subject to restrictions. Your rights under the LGPD are the following:
+
+*   Confirmation on whether your data is being processed.
+*   Access to your data.
+*   Correction of incomplete, inaccurate, or outdated data.
+*   Anonymization, blocking, or erasure of data, when applicable.
+*   Deletion of personal data processed on the basis of consent, when you choose to withdraw it.
+*   Portability of personal data to a third party.
+*   Information on the sharing of your personal data.
+*   Information about the possibility of refusing to provide consent and the respective consequences, when applicable.
+*   Withdrawing your consent.
+*   Request a review of decisions made solely based on automated processing of personal data.
+
+Please note that these rights are not absolute and may not apply in certain circumstances.
+
+Fulfilling Your Rights  
+Before responding to any request to exercise the rights mentioned above, we may ask you to provide certain information so that we can confirm your identity. We will comply with your request after your identity has been verified, in accordance with applicable law.
+
+International Data Transfers  
+In order to facilitate our operations and provide you with the requested Services, certain personal data will be transferred to, used, accessed, processed, and stored in other countries, including the United States. Privacy and data protection laws in these countries may not be equivalent to the laws of Brazil.
+
+If your personal information is shared with corporate affiliates or third-party service providers outside of Brazil, we will implement the necessary safeguards to uphold an adequate level of data protection for the period necessary to fulfill the purposes described in our Privacy Policy. These international transfers are carried out using one of the valid mechanisms provided for in the LGPD and in regulations issued by the Brazilian Data Protection Agency (ANPD). All recipients are subject to appropriate technical, administrative, and contractual measures to ensure the security, confidentiality, and integrity of the information, in accordance with applicable legislation.
+
+Data Protection Officer (DPO)  
+In accordance with Article 41 of the LGPD, our Data Protection Officer (DPO) for Brazil acts as the communication channel between Reddit, data subjects in Brazil, and the ANPD. You can contact the DPO directly for any questions, requests, or appeals related to your Personal Information.
+
+If you have questions regarding your rights or wish to make a request related to your personal data, you can contact the Controller or the Data Protection Officer by emailing us at [dpo@reddit.com](mailto:dpo@reddit.com).
+
+Changes to This Policy
+----------------------
+
+We may change this Privacy Policy from time to time. If we do, we will let you know by revising the date at the top of the policy. If the changes, in our sole discretion, are material, we may also notify you by sending an email to the address associated with your account (if you have chosen to provide a verified email address) or by otherwise providing notice through our Services. We encourage you to review the Privacy Policy regularly to stay informed about our information practices and the ways you can help protect your privacy. By continuing to use our Services after Privacy Policy changes go into effect, you agree to be bound by the revised policy.
+
+Contact Us
+----------
+
+If you have other questions about this Privacy Policy, please contact us at:
+
+Reddit, Inc.  
+548 Market St. #16093  
+San Francisco, California 94104
+
+If you live in the United States, the data controller responsible for your information is Reddit, Inc.
+
+For email inquiries, you may email us at [redditdatarequests@reddit.com](mailto:redditdatarequests@reddit.com) or reach our Data Protection Office at [dpo@reddit.com](mailto:dpo@reddit.com).
+
+Users in the European Economic Area or Switzerland may contact us at:
+
+Reddit Netherlands B.V.  
+Euro Business Center  
+Looiersgracht 43, 1016 VR Amsterdam  
+Netherlands  
+[dpo@reddit.com](mailto:dpo@reddit.com)
+
+United Kingdom users may contact us at:
+
+Reddit UK Limited  
+5 New Street Square  
+London, United Kingdom  
+EC4A 3TW  
+[ukrepresentative@reddit.com](mailto:ukrepresentative@reddit.com)
+
+Users in Brazil may contact us at:
+
+Reddit Rede de Comunidades do Brasil Ltda  
+Rua Barão de Itapetininga, 37  
+Edifício Barão III – Sala 104  
+República 01042-916 São Paulo  
+[dpo@reddit.com](mailto:dpo@reddit.com)
