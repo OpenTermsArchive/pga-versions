@@ -254,7 +254,7 @@ When you or others use, or exchange information with these features, or when the
 *   Responses and other information you receive from these features. Sometimes these are provided with the help of our [AI integrations](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_ANNOTATION%3A1.ex.62-InformationYouOrOthersExchange#4.subpage.15-AiIntegrations)
 *   Information from third-party apps and services you choose to connect to these features to do things like help manage your calendar and emails
 *   Feedback you give to these features and responses to your feedback
-*   [Information we collect](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_ANNOTATION%3A1.ex.62-InformationYouOrOthersExchange#1-WhatInformationDoWe) to personalize these features. [See examples](https://mbasic.facebook.com/privacy/policy/printable/?annotations%5B0%5D=1.ex.63-PersonalizeAIFeatures&entry=0&entry_point=POLICY_ANNOTATION%3A1.ex.62-InformationYouOrOthersExchange)
+*   [Information we collect](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_ANNOTATION%3A1.ex.62-InformationYouOrOthersExchange#1-WhatInformationDoWe) to personalize these features. [See examples](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_ANNOTATION%3A1.ex.62-InformationYouOrOthersExchange#2.subpage.5-HowWeUseInformationAI)
 *   Information about you and others from third party apps and services that you connect to Meta Products to enhance your experience, including our features that are part of AI at Meta. [Learn more](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_ANNOTATION%3A1.ex.62-InformationYouOrOthersExchange#4.subpage.15-AiIntegrations)
 
 Apps and features you use, and how you use them
@@ -1054,7 +1054,7 @@ When you or others use, or exchange information with these features, or when the
 *   Responses and other information you receive from these features. Sometimes these are provided with the help of our [AI integrations](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_ANNOTATION%3A1.ex.62-InformationYouOrOthersExchange#4.subpage.15-AiIntegrations)
 *   Information from third-party apps and services you choose to connect to these features to do things like help manage your calendar and emails
 *   Feedback you give to these features and responses to your feedback
-*   [Information we collect](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_ANNOTATION%3A1.ex.62-InformationYouOrOthersExchange#1-WhatInformationDoWe) to personalize these features. [See examples](https://mbasic.facebook.com/privacy/policy/printable/?annotations%5B0%5D=1.ex.63-PersonalizeAIFeatures&entry=0&entry_point=POLICY_ANNOTATION%3A1.ex.62-InformationYouOrOthersExchange)
+*   [Information we collect](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_ANNOTATION%3A1.ex.62-InformationYouOrOthersExchange#1-WhatInformationDoWe) to personalize these features. [See examples](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_ANNOTATION%3A1.ex.62-InformationYouOrOthersExchange#2.subpage.5-HowWeUseInformationAI)
 *   Information about you and others from third party apps and services that you connect to Meta Products to enhance your experience, including our features that are part of AI at Meta. [Learn more](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_ANNOTATION%3A1.ex.62-InformationYouOrOthersExchange#4.subpage.15-AiIntegrations)
 
 Search engines
