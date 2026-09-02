@@ -5,6 +5,8 @@ Privacy Policy
 
 Table of contents
 
+_We're updating our Privacy Policy, effective 12 November 2026. You can preview the updated Privacy Policy ._
+
 State Privacy Law Disclosure & Notice at Collection
 ===================================================
 
