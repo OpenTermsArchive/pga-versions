@@ -5,6 +5,8 @@ Terms of Service
 
 Table of contents
 
+_We're updating our Terms of Service, effective 12 November 2026. You can preview the updated Terms of Service ._
+
 Thank you for using Pinterest!
 ==============================
 
@@ -26,7 +28,7 @@ Every company has its terms. These are ours. They include these Terms of Service
 1\. The Service
 ===============
 
-Pinterest helps to bring everyone the inspiration to create a life they love. To do that, we show you things we think will be relevant, interesting and personal to you based on your onsite and offsite activity. To provide the Service, we need to be able to identify you and your interests, and we use your personal data to do this. For more information, please read our . Some of the things we show you are promoted by advertisers. As part of the Service, we try to ensure that even promoted content is relevant and interesting to you. You can identify promoted content because it will be clearly labelled.
+Pinterest helps to bring everyone the inspiration to create a life they love. To do that, we show you things we think will be relevant, interesting and personal to you based on your on-site and off-site activity. To provide the Service, we need to be able to identify you and your interests, and we use your personal data to do this. For more information, please read our . Some of the things we show you are promoted by advertisers. As part of the Service, we try to ensure that even promoted content is relevant and interesting to you. You can identify promoted content because it will be clearly labelled.
 
 More simply put
 
