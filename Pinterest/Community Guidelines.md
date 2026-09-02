@@ -5,6 +5,8 @@ Community Guidelines
 
 Table of contents
 
+_We're updating our Community Guidelines, effective 12 November 2026. You can preview the updated Community Guidelines ._
+
 Our mission
 ===========
 
@@ -52,7 +54,7 @@ Pinterest isn’t a place for offering, manufacturing or promoting substances, p
 
 Pinterest isn’t a place for practices and products that may be harmful or deceptive. We remove or limit the distribution of such content and accounts, including instructions and offers or promotion of:
 
-*   Counterfeit documents or currency.
+*   Counterfeit products, documents or currency.
 *   Stolen bank account or other personal information.
 *   Social media or similar accounts and account credentials.
 *   Hacking, cracking or bypassing safety or security measures.
@@ -298,4 +300,4 @@ Our guidelines around spam are:
 *   Don't attempt to evade our anti-spam systems. For example, don’t use redirection to attempt to link to a site that is not permitted on Pinterest.
     *   With respect to redirection, we encourage you to follow a “no surprises” principle – Pinners should be able to reasonably anticipate where your link will take them. Links that exhibit excessive or deceptive redirection, as well as shortener services that are abused for spam, may be blocked.
 
-Last updated: December 2025
+Last updated: May 2026
