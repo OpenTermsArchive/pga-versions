@@ -5,6 +5,8 @@ Advertising guidelines
 
 Table of contents
 
+_We're updating our Advertising Guidelines, effective 12 November 2026. You can preview the updated Advertising Guidelines ._
+
 Our mission
 ===========
 
@@ -517,7 +519,9 @@ If your ad is shown in Armenia, we allow the following with restrictions:
     *   Ads can only target Pinners aged 18 years or older
 *   Energy drinks
     *   Ads can only target Pinners aged 18 years or older
-    *   Must include relevant disclaimers**Australia**
+    *   Must include the relevant disclaimers
+
+**Australia**
 
 If your ad is shown in Australia, we allow the following with restrictions:
 
