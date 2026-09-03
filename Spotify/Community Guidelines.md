@@ -11,7 +11,9 @@ Safety and Privacy Centre
     
      [Collecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/personal-data-collected) [Protecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/protecting-personal-data) [Your privacy controls](https://www.spotify.com/de-en/safetyandprivacy/privacy-controls) [Learn more about privacy](https://www.spotify.com/de-en/safetyandprivacy/learn-more-about-privacy)
     
-*   Regulatory and transparency reports
+*   Regulatory and Transparency Reports
+    
+     [Digital Services Act Reporting](https://www.spotify.com/de-en/safetyandprivacy/dsa-transparency-report) [Terrorist Content Online Transparency Report](https://www.spotify.com/de-en/safetyandprivacy/tco-transparency-report)
     
 *   Mental health and crisis resources
     
@@ -168,7 +170,9 @@ Safety and Privacy Centre
     
      [Collecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/personal-data-collected) [Protecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/protecting-personal-data) [Your privacy controls](https://www.spotify.com/de-en/safetyandprivacy/privacy-controls) [Learn more about privacy](https://www.spotify.com/de-en/safetyandprivacy/learn-more-about-privacy)
     
-*   Regulatory and transparency reports
+*   Regulatory and Transparency Reports
+    
+     [Digital Services Act Reporting](https://www.spotify.com/de-en/safetyandprivacy/dsa-transparency-report) [Terrorist Content Online Transparency Report](https://www.spotify.com/de-en/safetyandprivacy/tco-transparency-report)
     
 *   Mental health and crisis resources
     
@@ -242,7 +246,9 @@ Safety and Privacy Centre
     
      [Collecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/personal-data-collected) [Protecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/protecting-personal-data) [Your privacy controls](https://www.spotify.com/de-en/safetyandprivacy/privacy-controls) [Learn more about privacy](https://www.spotify.com/de-en/safetyandprivacy/learn-more-about-privacy)
     
-*   Regulatory and transparency reports
+*   Regulatory and Transparency Reports
+    
+     [Digital Services Act Reporting](https://www.spotify.com/de-en/safetyandprivacy/dsa-transparency-report) [Terrorist Content Online Transparency Report](https://www.spotify.com/de-en/safetyandprivacy/tco-transparency-report)
     
 *   Mental health and crisis resources
     
@@ -305,7 +311,9 @@ Safety and Privacy Centre
     
      [Collecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/personal-data-collected) [Protecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/protecting-personal-data) [Your privacy controls](https://www.spotify.com/de-en/safetyandprivacy/privacy-controls) [Learn more about privacy](https://www.spotify.com/de-en/safetyandprivacy/learn-more-about-privacy)
     
-*   Regulatory and transparency reports
+*   Regulatory and Transparency Reports
+    
+     [Digital Services Act Reporting](https://www.spotify.com/de-en/safetyandprivacy/dsa-transparency-report) [Terrorist Content Online Transparency Report](https://www.spotify.com/de-en/safetyandprivacy/tco-transparency-report)
     
 *   Mental health and crisis resources
     
@@ -415,7 +423,9 @@ Safety and Privacy Centre
     
      [Collecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/personal-data-collected) [Protecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/protecting-personal-data) [Your privacy controls](https://www.spotify.com/de-en/safetyandprivacy/privacy-controls) [Learn more about privacy](https://www.spotify.com/de-en/safetyandprivacy/learn-more-about-privacy)
     
-*   Regulatory and transparency reports
+*   Regulatory and Transparency Reports
+    
+     [Digital Services Act Reporting](https://www.spotify.com/de-en/safetyandprivacy/dsa-transparency-report) [Terrorist Content Online Transparency Report](https://www.spotify.com/de-en/safetyandprivacy/tco-transparency-report)
     
 *   Mental health and crisis resources
     
@@ -454,7 +464,9 @@ Safety and Privacy Centre
     
      [Collecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/personal-data-collected) [Protecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/protecting-personal-data) [Your privacy controls](https://www.spotify.com/de-en/safetyandprivacy/privacy-controls) [Learn more about privacy](https://www.spotify.com/de-en/safetyandprivacy/learn-more-about-privacy)
     
-*   Regulatory and transparency reports
+*   Regulatory and Transparency Reports
+    
+     [Digital Services Act Reporting](https://www.spotify.com/de-en/safetyandprivacy/dsa-transparency-report) [Terrorist Content Online Transparency Report](https://www.spotify.com/de-en/safetyandprivacy/tco-transparency-report)
     
 *   Mental health and crisis resources
     
@@ -519,7 +531,9 @@ Safety and Privacy Centre
     
      [Collecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/personal-data-collected) [Protecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/protecting-personal-data) [Your privacy controls](https://www.spotify.com/de-en/safetyandprivacy/privacy-controls) [Learn more about privacy](https://www.spotify.com/de-en/safetyandprivacy/learn-more-about-privacy)
     
-*   Regulatory and transparency reports
+*   Regulatory and Transparency Reports
+    
+     [Digital Services Act Reporting](https://www.spotify.com/de-en/safetyandprivacy/dsa-transparency-report) [Terrorist Content Online Transparency Report](https://www.spotify.com/de-en/safetyandprivacy/tco-transparency-report)
     
 *   Mental health and crisis resources
     
@@ -569,7 +583,9 @@ Safety and Privacy Centre
     
      [Collecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/personal-data-collected) [Protecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/protecting-personal-data) [Your privacy controls](https://www.spotify.com/de-en/safetyandprivacy/privacy-controls) [Learn more about privacy](https://www.spotify.com/de-en/safetyandprivacy/learn-more-about-privacy)
     
-*   Regulatory and transparency reports
+*   Regulatory and Transparency Reports
+    
+     [Digital Services Act Reporting](https://www.spotify.com/de-en/safetyandprivacy/dsa-transparency-report) [Terrorist Content Online Transparency Report](https://www.spotify.com/de-en/safetyandprivacy/tco-transparency-report)
     
 *   Mental health and crisis resources
     
@@ -618,7 +634,9 @@ Safety and Privacy Centre
     
      [Collecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/personal-data-collected) [Protecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/protecting-personal-data) [Your privacy controls](https://www.spotify.com/de-en/safetyandprivacy/privacy-controls) [Learn more about privacy](https://www.spotify.com/de-en/safetyandprivacy/learn-more-about-privacy)
     
-*   Regulatory and transparency reports
+*   Regulatory and Transparency Reports
+    
+     [Digital Services Act Reporting](https://www.spotify.com/de-en/safetyandprivacy/dsa-transparency-report) [Terrorist Content Online Transparency Report](https://www.spotify.com/de-en/safetyandprivacy/tco-transparency-report)
     
 *   Mental health and crisis resources
     
@@ -727,7 +745,9 @@ Safety and Privacy Centre
     
      [Collecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/personal-data-collected) [Protecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/protecting-personal-data) [Your privacy controls](https://www.spotify.com/de-en/safetyandprivacy/privacy-controls) [Learn more about privacy](https://www.spotify.com/de-en/safetyandprivacy/learn-more-about-privacy)
     
-*   Regulatory and transparency reports
+*   Regulatory and Transparency Reports
+    
+     [Digital Services Act Reporting](https://www.spotify.com/de-en/safetyandprivacy/dsa-transparency-report) [Terrorist Content Online Transparency Report](https://www.spotify.com/de-en/safetyandprivacy/tco-transparency-report)
     
 *   Mental health and crisis resources
     
@@ -781,7 +801,9 @@ Safety and Privacy Centre
     
      [Collecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/personal-data-collected) [Protecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/protecting-personal-data) [Your privacy controls](https://www.spotify.com/de-en/safetyandprivacy/privacy-controls) [Learn more about privacy](https://www.spotify.com/de-en/safetyandprivacy/learn-more-about-privacy)
     
-*   Regulatory and transparency reports
+*   Regulatory and Transparency Reports
+    
+     [Digital Services Act Reporting](https://www.spotify.com/de-en/safetyandprivacy/dsa-transparency-report) [Terrorist Content Online Transparency Report](https://www.spotify.com/de-en/safetyandprivacy/tco-transparency-report)
     
 *   Mental health and crisis resources
     
@@ -816,7 +838,9 @@ Safety and Privacy Centre
     
      [Collecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/personal-data-collected) [Protecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/protecting-personal-data) [Your privacy controls](https://www.spotify.com/de-en/safetyandprivacy/privacy-controls) [Learn more about privacy](https://www.spotify.com/de-en/safetyandprivacy/learn-more-about-privacy)
     
-*   Regulatory and transparency reports
+*   Regulatory and Transparency Reports
+    
+     [Digital Services Act Reporting](https://www.spotify.com/de-en/safetyandprivacy/dsa-transparency-report) [Terrorist Content Online Transparency Report](https://www.spotify.com/de-en/safetyandprivacy/tco-transparency-report)
     
 *   Mental health and crisis resources
     
@@ -856,7 +880,9 @@ Safety and Privacy Centre
     
      [Collecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/personal-data-collected) [Protecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/protecting-personal-data) [Your privacy controls](https://www.spotify.com/de-en/safetyandprivacy/privacy-controls) [Learn more about privacy](https://www.spotify.com/de-en/safetyandprivacy/learn-more-about-privacy)
     
-*   Regulatory and transparency reports
+*   Regulatory and Transparency Reports
+    
+     [Digital Services Act Reporting](https://www.spotify.com/de-en/safetyandprivacy/dsa-transparency-report) [Terrorist Content Online Transparency Report](https://www.spotify.com/de-en/safetyandprivacy/tco-transparency-report)
     
 *   Mental health and crisis resources
     
@@ -886,7 +912,9 @@ Safety and Privacy Centre
     
      [Collecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/personal-data-collected) [Protecting your personal data](https://www.spotify.com/de-en/safetyandprivacy/protecting-personal-data) [Your privacy controls](https://www.spotify.com/de-en/safetyandprivacy/privacy-controls) [Learn more about privacy](https://www.spotify.com/de-en/safetyandprivacy/learn-more-about-privacy)
     
-*   Regulatory and transparency reports
+*   Regulatory and Transparency Reports
+    
+     [Digital Services Act Reporting](https://www.spotify.com/de-en/safetyandprivacy/dsa-transparency-report) [Terrorist Content Online Transparency Report](https://www.spotify.com/de-en/safetyandprivacy/tco-transparency-report)
     
 *   Mental health and crisis resources
     
@@ -909,14 +937,3 @@ Spotify’s [Platform Rules](https://www.spotify.com/safetyandprivacy/platform-r
 [**Spotify for Authors Digital Services Act Transparency Report 2025 (XLSX, download)**](https://www.spotify.com/safetyandprivacy/file/eu_2025_dsa_report_spotify_for_authors)
 
 [**Spotify for Creators Digital Services Act Transparency Report 2025 (XLSX, download)**](https://www.spotify.com/safetyandprivacy/file/eu_2025_dsa_report_spotify_for_creators)
-
-Spotify’s Terrorist Content Online Transparency Report
-======================================================
-
-Spotify works to combat harmful terrorist content if it is found to be on the platform. We collaborate with trusted authorities and partners to combat this industry-wide issue and constantly refine our internal processes to address evolving threats.
-
-In compliance with the TCO, Spotify’s Terrorist Content Online Transparency Report gives an overview of our approach to terrorist content, including how we identify and enforce against it and respond to removal orders from national competent authorities in the EU.
-
-[**Spotify Terrorist Content Online Transparency Report 2024**](https://www.spotify.com/safetyandprivacy/file/EU_Terrorist_Content_Online_Transparency_Report_2024)
-
-[**Spotify Terrorist Content Online Transparency Report 2025**](https://www.spotify.com/safetyandprivacy/file/EU_Terrorist_Content_Online_Transparency_Report_2025)
