@@ -210,3 +210,108 @@ Similarly, depending on the services, we may also process the same information f
 |     | _Provide you with relevant advertising, including personalized advertising on Reddit_<br><br>*   Consent to deliver advertising that is more likely to be relevant to users |     | _Information You Provide Us_<br><br>*   Account Information<br>*   Public Content You Submit<br>*   Actions You Take<br>*   Other Information<br><br>_Information We Collect As You Use Our Services_<br><br>*   Logs Data<br>*   Usage information<br>*   Information collected from cookies and similar technologies<br>*   Location Information (IP based only) |     |
 |     | _Research and develop new services_<br><br>*   _Consent for user surveys._ |     | _Information You Provide Us_<br><br>*   Account Information<br>*   Non-Public Content You Submit<br>*   Actions You Take<br>*   Transactional Information<br>*   Other Information<br><br>_Information We Collect As You Use Our Services_<br><br>*   Logs Data<br>*   Usage Information<br>*   Information collected from cookies and similar technologies<br>*   Location Information (IP based only)<br><br>_Information Collected from Other Sources_<br><br>*   Information collected from Integrations<br><br>_Information Collected by Third Parties_<br><br>*   Embedded Content<br>*   Audience Measurement |     |
 |     | _Communicate with you about products, services, offers, promotions, events, and programs, and provide other news and information we think will be of interest to you_ |     | _Information You Provide Us_<br><br>*   Account Information<br><br>_Information We Collect As You Use Our Services_<br><br>*   Logs Data<br>*   Usage Information<br>*   Information collected from cookies and similar technologies<br>*   Location Information (IP based only) |     |
+
+Additional Information for California & Other US State Users
+------------------------------------------------------------
+
+Some US state laws, including the California Consumer Privacy Act (“CCPA”), as amended, require us to provide residents with some additional information and rights, which we address in this section.
+
+In the last 12 months, we collected the following categories of personal information from residents, depending on the Services used:
+
+*   Identifiers and account information, like your Reddit username, email address, phone number, IP address, and cookie information.
+*   Commercial information, including information about transactions you undertake with us.
+*   Internet or other electronic network activity information, such as information about your activity on our Services and limited information about your activity on the services of advertisers who use our advertising technology.
+*   Geolocation information based on your IP address.
+*   Your messages with other users (for example, private messages, private chats, and modmail).
+*   Audiovisual information in pictures, audio, or video content submitted to Reddit.
+*   Professional or employment-related information or demographic information, but only if you explicitly provide it to us, such as by filling out a survey.
+*   Inferences we make based on other collected data, for purposes such as recommending content, advertising, and analytics.
+
+You can find more information about (a) what we collect and sources of that information in the “What Information We Collect” section of this notice, (b) the business and commercial purposes for collecting that information in the “How We Use Your Information” section, and (c) the categories of third parties with whom we share that information and the purpose for sharing that information in the “How We Share Your Information” section.
+
+Depending on your jurisdiction, and subject to exceptions and limitations provided by local law, in addition to the rights listed in “[Your Rights and Choices](#rights-and-choices)” above, you may have: the right to opt out of any sales or sharing of your personal information, to request access to and information about our data practices, and to request deletion or correction of your personal information, as well as the right not to be discriminated against for exercising your privacy rights. For users in states with applicable privacy laws, you may exercise your rights via your [Privacy Settings](https://www.reddit.com/settings/privacy). You can opt out of the sharing of your personal information with third-party partners, used to measure the effectiveness of Reddit's advertisements on other platforms by toggling the “Ads off Reddit” setting to off in your privacy preferences. Reddit does not “sell” personal information as those terms are defined under applicable state privacy laws. Reddit does not have knowledge that it “sells” or “shares” the personal information of users under 16 years of age. We do not use or disclose sensitive personal information except to provide you the Services or as otherwise permitted by applicable regulations. We do not engage in profiling of consumers in furtherance of automated decisions that produce legal or similarly significant effects as those terms are defined in applicable regulations.
+
+You may exercise your rights to access, delete, or correct your personal information as described in the “[Your Rights and Choices](#rights-and-choices)” section of this notice. When you make a request, we will verify your identity by asking you to sign into your account or if necessary by requesting additional information from you. You may also make a rights request using an authorized agent. If you submit a rights request from an authorized agent who does not provide a valid power of attorney, we may ask the authorized agent to provide proof that you gave the agent signed permission to submit the request to exercise rights on your behalf. In the absence of a valid power of attorney, we may also require you to verify your own identity directly with us or confirm to us that you otherwise provided the authorized agent permission to submit the request. If you have any questions or concerns, you may reach us using the methods described under “[Your Rights and Choices](#rights-and-choices)” or by emailing us at [redditdatarequests@reddit.com](mailto:redditdatarequests@reddit.com).
+
+The CCPA requires us to disclose certain metrics about the various requests we receive, such as how many specific requests we received from California residents in the last calendar year. See our [CCPA Metrics Disclosure](https://redditinc.com/policies/transparency).
+
+Additional Information for Brazilian Users
+------------------------------------------
+
+All information regarding the processing of your personal data is detailed in the Privacy Policy, and any differences arising from the application of Law No. 13,709/18 ("Brazilian General Data Protection Law" or "LGPD") will be addressed in this section.
+
+In case of conflict between the Privacy Policy and this section, this section shall prevail for users in Brazil.
+
+Identification of the Controller  
+For all processing activities related to users in Brazil, the controller is Reddit, Inc., located at 548 Market St. #16093, San Francisco, California 94104, United States.
+
+Your Rights  
+The LGPD grants certain rights regarding your personal data, which are not absolute and may be subject to restrictions. Your rights under the LGPD are the following:
+
+*   Confirmation on whether your data is being processed.
+*   Access to your data.
+*   Correction of incomplete, inaccurate, or outdated data.
+*   Anonymization, blocking, or erasure of data, when applicable.
+*   Deletion of personal data processed on the basis of consent, when you choose to withdraw it.
+*   Portability of personal data to a third party.
+*   Information on the sharing of your personal data.
+*   Information about the possibility of refusing to provide consent and the respective consequences, when applicable.
+*   Withdrawing your consent.
+*   Request a review of decisions made solely based on automated processing of personal data.
+
+Please note that these rights are not absolute and may not apply in certain circumstances.
+
+Fulfilling Your Rights  
+Before responding to any request to exercise the rights mentioned above, we may ask you to provide certain information so that we can confirm your identity. We will comply with your request after your identity has been verified, in accordance with applicable law.
+
+International Data Transfers  
+In order to facilitate our operations and provide you with the requested Services, certain personal data will be transferred to, used, accessed, processed, and stored in other countries, including the United States. Privacy and data protection laws in these countries may not be equivalent to the laws of Brazil.
+
+If your personal information is shared with corporate affiliates or third-party service providers outside of Brazil, we will implement the necessary safeguards to uphold an adequate level of data protection for the period necessary to fulfill the purposes described in our Privacy Policy. These international transfers are carried out using one of the valid mechanisms provided for in the LGPD and in regulations issued by the Brazilian Data Protection Agency (ANPD). All recipients are subject to appropriate technical, administrative, and contractual measures to ensure the security, confidentiality, and integrity of the information, in accordance with applicable legislation.
+
+Data Protection Officer (DPO)  
+In accordance with Article 41 of the LGPD, our Data Protection Officer (DPO) for Brazil acts as the communication channel between Reddit, data subjects in Brazil, and the ANPD. You can contact the DPO directly for any questions, requests, or appeals related to your Personal Information.
+
+If you have questions regarding your rights or wish to make a request related to your personal data, you can contact the Controller or the Data Protection Officer by emailing us at [dpo@reddit.com](mailto:dpo@reddit.com).
+
+Changes to This Policy
+----------------------
+
+We may change this Privacy Policy from time to time. If we do, we will let you know by revising the date at the top of the policy. If the changes, in our sole discretion, are material, we may also notify you by sending an email to the address associated with your account (if you have chosen to provide a verified email address) or by otherwise providing notice through our Services. We encourage you to review the Privacy Policy regularly to stay informed about our information practices and the ways you can help protect your privacy. By continuing to use our Services after Privacy Policy changes go into effect, you agree to be bound by the revised policy.
+
+Contact Us
+----------
+
+If you have other questions about this Privacy Policy, please contact us at:
+
+Reddit, Inc.  
+548 Market St. #16093  
+San Francisco, California 94104
+
+If you live in the United States, the data controller responsible for your information is Reddit, Inc.
+
+For email inquiries, you may email us at [redditdatarequests@reddit.com](mailto:redditdatarequests@reddit.com) or reach our Data Protection Office at [dpo@reddit.com](mailto:dpo@reddit.com).
+
+Users in the European Economic Area or Switzerland may contact us at:
+
+Reddit Netherlands B.V.  
+Euro Business Center  
+Looiersgracht 43, 1016 VR Amsterdam  
+Netherlands  
+[dpo@reddit.com](mailto:dpo@reddit.com)
+
+United Kingdom users may contact us at:
+
+Reddit UK Limited  
+5 New Street Square  
+London, United Kingdom  
+EC4A 3TW  
+[ukrepresentative@reddit.com](mailto:ukrepresentative@reddit.com)
+
+Users in Brazil may contact us at:
+
+Reddit Rede de Comunidades do Brasil Ltda  
+Rua Barão de Itapetininga, 37  
+Edifício Barão III – Sala 104  
+República 01042-916 São Paulo  
+[dpo@reddit.com](mailto:dpo@reddit.com)
