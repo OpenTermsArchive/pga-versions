@@ -484,3 +484,6 @@ The best way to get in touch with us or to exercise your options described above
 You can also contact our .
 
 Effective date: 30 April 2025
+
+Table of contents
+-----------------
