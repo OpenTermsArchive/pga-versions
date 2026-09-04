@@ -301,3 +301,6 @@ Our guidelines around spam are:
     *   With respect to redirection, we encourage you to follow a “no surprises” principle – Pinners should be able to reasonably anticipate where your link will take them. Links that exhibit excessive or deceptive redirection, as well as shortener services that are abused for spam, may be blocked.
 
 Last updated: May 2026
+
+Table of contents
+-----------------
