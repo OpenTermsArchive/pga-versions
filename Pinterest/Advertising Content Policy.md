@@ -1923,3 +1923,6 @@ Bear in mind...
 You need to make sure your ads follow our standard ad guidelines and any country-specific guidelines. You need to follow all applicable local laws, regulations and industry codes, and obtain any necessary permits or permissions for any area where your ads will be shown. Pinterest reserves the right to request these permits/permissions should we require them. You must also follow our Community Guidelines, Terms and the above Advertising Guidelines, including our Targeting Guidelines. These Advertising Guidelines apply to all parts of your promoted content, including the image, description and destination. They also apply to targeting features such as keyword and audience targeting.
 
 We reserve the right to reject or remove any ad that negatively affects our relationship with people on Pinterest or that goes against our interests. We may also remove ads, categories of ads or advertisers that get lots of negative feedback from people on Pinterest. These rules may change at any time.
+
+Table of contents
+-----------------
