@@ -271,3 +271,6 @@ More simply put
 Who you deal with depends on where you live.
 
 Effective date: 30 April 2025
+
+Table of contents
+-----------------
