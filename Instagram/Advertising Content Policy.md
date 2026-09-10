@@ -81,7 +81,7 @@ Content that is illegal or otherwise considered unacceptable to people who use o
 
 * * *
 
-Fraud, Scams, and Deceptive Practices
+Prohibited Commercial Practices
 
 Content that may deceive or mislead people.
 
