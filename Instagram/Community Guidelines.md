@@ -57,7 +57,7 @@ Content that requires additional information or context to enforce on, content t
 
 [Dangerous Organizations and Individuals](https://transparency.fb.com/policies/community-standards/dangerous-individuals-organizations/)
 
-[Fraud, Scams, and Deceptive Practices](https://transparency.fb.com/policies/community-standards/fraud-scams/)
+[Prohibited Commercial Practices](https://transparency.fb.com/policies/community-standards/prohibited-commercial-practices/)
 
 [Restricted Goods and Services](https://transparency.fb.com/policies/community-standards/regulated-goods/)
 
@@ -783,7 +783,7 @@ CHANGE LOG
 
 Policy Rationale
 
-To encourage safety and deter potentially harmful activities, we prohibit attempts by individuals, manufacturers, and retailers to purchase, sell, raffle, gift, transfer or trade certain goods and services on our platform. We do not tolerate the exchange or sale of any drugs that may result in substance abuse covered under our policies below. Brick-and-mortar and online retailers may promote firearms, alcohol, and tobacco items available for sale off of our services; however, we restrict visibility of this content for minors. We allow discussions about the sale of these goods in stores or by online retailers, advocating for changes to regulations of goods and services covered in this policy, and advocating for or concerning the use of pharmaceutical drugs in the context of medical treatment, including discussion of physical or mental side effects.
+To encourage safety and deter potentially harmful activities, we prohibit attempts by individuals, manufacturers, and retailers to purchase, sell, raffle, gift, transfer or trade certain goods and services on our platform. We do not tolerate the exchange or sale of any drugs that may result in substance abuse covered under our policies below. Brick-and-mortar and online retailers may promote firearms, alcohol, and tobacco items available for sale off of our services; however, we restrict visibility of this content for minors. We also prohibit the exchange of prohibited documents and the facilitation of prohibited financial services. We allow discussions about the sale of these goods in stores or by online retailers, advocating for changes to regulations of goods and services covered in this policy, and advocating for or concerning the use of pharmaceutical drugs in the context of medical treatment, including discussion of physical or mental side effects.
 
 **Restricted Goods and Services consist of the following categories:**
 
@@ -806,6 +806,10 @@ To encourage safety and deter potentially harmful activities, we prohibit attemp
 *   Hazardous Goods and Materials
     
 *   Body Parts and Fluids
+    
+*   Recalled Goods
+    
+*   Prohibited Documents and Financial Services
     
 
 Each category is detailed below.
@@ -1257,6 +1261,101 @@ We do not allow:
 
 Content that attempts to buy, sell, trade, coordinate the trade of, donate, gift or ask for recalled goods.
 
+* * *
+
+Prohibited Documents and Financial Services
+
+We do not allow:
+
+Content that facilitates or offers the solicitation, creation, sale, purchase or trade of the following:
+
+*   Fake, Forged, or Stolen Documents, including but not limited to:
+
+*   Government identification documents, such as passports, driving licenses, visas or green cards.
+    
+*   Financial documents.
+    
+*   Currency, except board-game currency if there is clear context that it is for board-game purposes.
+    
+*   Vouchers and coupons, both physical and digital, including those used to purchase items for which they were not intended or if they are expired.
+    
+*   Educational documents and professional certificates.
+    
+
+*   Fake, Forged, or Stolen Goods and Services, including but not limited to:
+    
+
+*   Financial Instruments, including stolen credit cards or other financial instruments that can be used for unauthorized purchases.
+    
+*   Fake reviews, implicitly or explicitly incentivising users to provide reviews in exchange for discounts, refunds or free items.
+    
+*   Stolen goods and services, including physical and digital.
+    
+
+*   Devices and subscriptions that are manipulated or used in an unauthorised manner, including but not limited to:
+    
+
+*   Device manipulation to provide unauthorized access, streaming, or recording of digital content.
+    
+*   Unauthorized streaming subscriptions.
+    
+*   Jailbroken and loaded devices or unlocked TV boxes.
+    
+*   Offers to buy, sell, or trade login credentials for paywalled online subscription services.
+    
+*   Access codes to circumvent security measures.
+    
+*   Manipulated, altered, or fake measurement devices.
+    
+*   Admits to, promotes or solicits use of physical manipulation of devices to achieve inaccurate pricing.
+    
+
+*   Personal Identifiable or Other Personal Information, including but not limited to:
+    
+
+*   Personal identification numbers and identity documents, including digital identity, except if it belongs to a fictional character.
+    
+
+*   Products that enable cheating, including but not limited to:
+    
+
+*   Future exam papers or answer sheets.
+    
+*   Products, services, or devices that enable cheating in exams.
+    
+*   Products or services that enable passing drug tests in an unauthorized manner.
+    
+*   Services that offer to write papers on behalf of the user.
+    
+
+**Content that coordinates, offers, or solicits the facilitation of fraudulent activities for commercial or financial gain, such as:**
+
+*   Money Muling, including content that:
+    
+
+*   Offers or asks for money muling (causing victims to be unknowing participants in money laundering by offering money or share of profits in exchange for allowing others to use their bank accounts or transferring money on behalf of others).
+    
+*   Offers or asks for money muling by offering employment to accept and transfer money to third parties using the victim’s bank account.
+    
+
+*   Money Laundering, including content that:
+    
+
+*   Requests, solicits, or offers to facilitate money laundering, which is an attempt to make illegally obtained money appear legitimate by disguising the origin of the money through a complex sequence of financial transactions, including through any of the following means:
+    
+
+*   Seeking transfer of funds through SWIFT (Society for Worldwide Interbank Financial Telecommunications) or similar methods,
+    
+*   Seeking or offering details on types of bank accounts available to support receipt or transfer of cash.
+    
+
+For the following Community Standards, we require additional information and/or context to enforce:
+
+We may remove content that:
+
+*   Offers or asks for products or services designed to facilitate the surreptitious viewing or recording of individuals, e.g., spy cams, mobile phone trackers (including those that allow tracing unknown phone numbers), or other hidden surveillance equipment.
+    
+
 User experiences
 
 See some examples of what enforcement looks like for people on Facebook, such as: what it looks like to report something you don’t think should be on Facebook, to be told you’ve violated our Community Standards and to see a warning screen over certain content.
@@ -1309,347 +1408,201 @@ Learn what you can do if you see something on Facebook that goes against our Com
 
 [Community Standards](https://transparency.fb.com/policies/community-standards/)
 
-Fraud, Scams, and Deceptive Practices
+Prohibited Commercial Practices
 
-Fraud, Scams, and Deceptive Practices
-=====================================
+Prohibited Commercial Practices
+===============================
 
 [Policy Details](#policy-details)
 
 [User Experiences](#user-experiences)
 
+[Data](#data)
+
 CHANGE LOG
 
 Policy Rationale
 
-We aim to protect users and businesses from being deceived out of their money, property or personal information. We achieve this by removing content and combatting behavior that purposefully employs deceptive means - such as wilful misrepresentation, stolen information and exaggerated claims - to either scam or defraud users and businesses, or to drive engagement. This includes content that seeks to coordinate or promote those activities using our services. We allow people to raise awareness and educate others as well as condemn these activities.
+We aim to protect users and businesses from being deceived out of their money, property, or personal information. To do so, we prohibit content and behavior that employ prohibited commercial practices. This includes false job or government program offers, celebrity and brand bait, investment schemes (including guaranteed returns), debt relief and credit repair schemes, get-rich-quick and giveaway schemes, romance schemes, and charity schemes.
+
+We allow people to raise awareness of, educate others about, and condemn scams and other prohibited commercial practices, provided they do not reveal sensitive information or promote them.
+
+For policies related to Prohibited Documents and Financial Services, see the [Restricted Goods and Services Community Standards](https://transparency.fb.com/policies/community-standards/restricted-goods-services/).
+
+Our enforcement isn’t perfect, and we may not detect all policy violations. To learn more about how to spot deceptive content and what you can do to help protect yourself, visit our [Scam Protection Center](https://www.meta.com/safety/scam-prevention/education/?srsltid=AfmBOoqfONxdyDCcOJQZJinpAeY0c2vj-rQXy2s0zyfDgpVI7ytdI3K_).
+
+**Enforcement**
+
+We may take a range of enforcement actions, including but not limited to removing content and ads, reducing distribution, restricting advertising accounts, limiting features, requiring verification, or disabling accounts. These actions may result from our own proactive detection, or be informed by reports from trusted entities and user feedback (described below).
+
+**User Feedback**
+
+User feedback helps us identify commercial practices that create poor user experiences. We consider signals such as consistent patterns or disproportionate volumes of negative feedback, and we share relevant feedback with advertisers and sellers so they can improve their content and customer satisfaction. Where negative feedback persists despite warnings, we may take the actions above, up to restricting or disabling the responsible accounts or entities. This includes taking enforcement on practices such as:
+
+*   Misleading or unreasonable pricing.
+    
+*   Non-delivery: failure to deliver purchased products or services after payment has been made.
+    
+*   Product misrepresentation: promoting products or services that materially differ from what was advertised, including significant discrepancies in quality or incorrect items.
+    
+*   Unauthorized charges: charging a customer’s payment method without prior authorization or clear disclosure.
+    
+*   Violation of return or refund policies: failure to honor stated refund or return policies.
+    
+*   Deceptive subscription practices: enrolling customers in recurring payment plans or subscription services without clear disclosure of terms.
+    
+*   Links that appear to lead to legitimate commercial sites but instead lead to scam sites.
+    
 
 We do not allow:
 
-Content that attempts to scam or defraud users and/or businesses by means of:
+Content that uses deceptive tactics to mislead people or businesses for commercial or financial gain, including but not limited to:
 
-**Loan Fraud and Scams**
+**Prohibited Loan Content**
 
-Content that:
+This includes:
 
-*   Offers loans requiring the user to pay an advance fee to obtain a loan.
+*   Loan offers requiring the user to pay an upfront fee to obtain a loan.
+
+*   Loan offers that guarantee approval without any mention of standard approval criteria, such as financial information from the borrower.
+
+**Prohibited Gambling Content**
+
+This includes:
+
+*   Offers of real money gambling services (“Real money” is real-world currency that can be used to buy goods or services in the real world, including national currencies such as U.S. Dollars and virtual currencies such as Bitcoin):
+
+*   with a guarantee of winning.
+
+*   implying or admitting to have rigged the outcome of a game or match
+
+*   soliciting people to enable match fixing or looking for help or tips on how to fix a match or game
+
+*   promoting gambling services in deceptive or obfuscated ways (such as unrelated text paired with a gambling promo image/video)
+
+*   Offers that promote services from known deceptive gambling vendors.
+
+Social casino games that simulate gambling with no opportunity to win real money are covered by our .
+
+**Prohibited Investment Content**
+
+This includes:
+
+*   Offers of investment opportunities where returns on investment are guaranteed or risk-free.
     
-*   Offers loans with guarantee or near-guarantee of approval, either explicitly stated or implicitly understood based on context (such as claims to approve loan without asking for financial information).
+*   Offers of investment opportunities where returns on investment or compensation is partly or fully based on recruitment of others to participate in the scheme.
     
-*   Note: We also look for other signals to determine if an entity is posting legitimate, non-fraudulent content, such as when it is a verified entity and a bank or financial institution.
+*   Offers of investment opportunities claiming or referencing successful past performance or returns to create an expectation of similar future results.
     
-
-**Gambling Fraud and Scams**
-
-Content that:
-
-*   Offers real money gambling services (“Real money” is real-world currency that can be used to buy goods or services in the real world, including national currencies such as U.S. Dollars and virtual currencies such as Bitcoin):
+*   Offers of investment opportunities that claim quick returns (such as under 24 hours).
     
-    *   with a guarantee of winning.
-        
-    *   implying or admitting to have rigged the outcome of a game or match.
-        
-    *   soliciting people to enable match fixing or looking for help or tips on how to fix a match or game.
-        
-    
-
-Social casino games that simulate gambling with no opportunity to win real money fall under our .
-
-**Investment or Financial Fraud and Scams**
-
-*   _Investment Opportunities._ Content that:
-    
-    *   Offers investment opportunities where returns on investment are guaranteed or risk-free.
-        
-    *   Offers investment opportunities where returns on investment or compensation is partly or fully based on recruitment of others to participate in the scheme.
-        
-    *   Offers investment opportunities where the opportunity is of a “get-rich-quick” nature and/or claims that a small investment can be turned into a large amount.
-        
-    
-
-*   _Money/Cash Flip._ Content that:
-    
-    *   Offers to turn a certain sum of money into a larger one through flipping or trick or strategy involving explicit mentions of ”cash flip,” "money flip,” or similar terminology.
-        
+*   Offers to turn a certain sum of money into a larger one through flipping or trick or strategy involving explicit mentions of “cash flip,” "money flip,” or similar terminology.
     
 
-**Money Muling and Laundering Fraud and Scams**
+**Prohibited Charity Content**
 
-*   _Money Muling._ Content that:
-    
-    *   Offers or asks for money muling (causing victims to be unknowing participants in money laundering by offering money or share of profits in exchange for allowing others to use their bank accounts or transferring money on behalf of others).
-        
-    *   Offers or asks for money muling by offering employment to accept and transfer money to third parties using the victim’s bank account.
-        
+This includes:
+
+*   Fraudulent requests for money or donations for charitable causes.
     
 
-*   _Money Laundering._ Content that:
-    
-    *   Requests, solicits, or offers to facilitate money laundering, which is an attempt to make illegally obtained money appear legitimate by disguising the origin of the money through a complex sequence of financial transactions, including through any of the following means:
-        
-        *   Seeking transfer of funds through SWIFT (Society for Worldwide Interbank Financial Telecommunications) or similar methods,
-            
-        *   Seeking or offering details on types of bank accounts available to support receipt or transfer of cash.
-            
-        
+**Prohibited Romance Content**
+
+This includes:
+
+*   Fraudulent attempts to establish online romantic relationships by seeking non-sexual companionship or relationship and offering or asking for money or its equivalent in exchange.
     
 
-**Inauthentic Identity Fraud and Scams**
+**Prohibited Brand or Celebrity-Bait Content**
 
-Content that:
+This includes:
 
-*   Attempts to scam or defraud users by misrepresenting the identity of the poster or nature of a request:
+*   Brand-bait scams, which involve falsely claiming to represent, or speak in the voice of, an established business or entity, together with misleading tactics to bait people into engaging with the content in an attempt to scam or defraud.
     
-    *   Charity Fraud and Scam, which are fraudulent requests for money or donations for charitable causes together with claims that the donation is urgent and includes information, such as bank accounts, where money can be sent.
-        
-    *   Romance Fraud and Scam, which are fraudulent attempts to establish online romantic relationships by seeking non-sexual companionship or relationship and offering or asking for money or its equivalent in exchange.
-        
-    *   Established Business/Entity Fraud and Scams, which involve falsely claiming to represent, or speak in the voice of, an established business or entity, in an attempt to scam or defraud.
-        
+*   Celebrity-bait scams, which involve falsely using the name, likeness, or imagery of a public figure, together with misleading tactics to bait people into engaging with the content in an attempt to scam or defraud.
     
 
-**Product or Reward Fraud and Scams**
+**Prohibited Get Rich Quick Content**
 
-*   _Government Grant Fraud and Scam._ Content that:
-    
-    *   Falsely offers money from government grants or any other governmental source of funding. We consider various signals to determine if an entity is posting legitimate, non-fraudulent content, such as when it comes from a verified entity.
-        
-    
+This includes:
 
-*   _Tangible, Spiritual or Illuminati Fraud and Scam._ Content that:
-    
-    *   Offers tangible rewards, such as money, goods, or services that have a monetary value including physical, digital and virtual currencies, and physical or digital goods and services for membership in or joining an association, cult, religious sect (for example, the Illuminati brotherhood).
-        
-    *   Offers tangible rewards for using black magic or spells or magical items (for example, spells, lucky charms, amulets, tokens, potions, magic wallet, etc.).
-        
+*   Offers of opportunities of unrealistic financial reward for unclear or minimal effort.
     
 
-*   _Insurance Fraud and Scams._ Content that:
+**Prohibited Tangible, Spiritual or Illuminati Content**
+
+This includes:
+
+*   Offers tangible rewards, such as money, goods, or services that have a monetary value including physical, digital and virtual currencies, and physical or digital goods and services for membership in or joining an association, cult, religious sect (for example, the Illuminati brotherhood).
     
-    *   Offers false, heavily discounted insurance with requests for an up-front fee (admin fee, or deposit, or otherwise).
-        
-    *   Offers false, heavily discounted insurance with promises of large savings on insurance compared to conventional insurance providers (at least 30% less).
-        
-    *   Note: We also look for other signals to determine if an entity is posting legitimate, non-fraudulent content, such as when it is a verified entity and a bank or financial institution
-        
+*   Offers tangible rewards for using black magic or spells or magical items (for example, spells, lucky charms, amulets, tokens, potions, magic wallet, etc.).
     
 
-*   _Job Fraud and Scams._ Content that:
+**Prohibited Insurance Content**
+
+This includes:
+
+*   Offers of false, heavily discounted insurance with requests for an up-front fee, such as an administration fee or deposit.
     
-    *   Offers jobs with an unclear or vague job description and get-rich-quick opportunities promising money with little time investment or effort.
-        
-    *   Offers jobs containing no job information, simply referencing job vacancies.
-        
-    *   Offers work from home but the job title implies the employee cannot WFH.
-        
-    *   Offers jobs with advance promises of salary.
-        
-    *   Offers guaranteed jobs.
-        
-    *   Offers jobs with a demand for an advance fee before the job is granted.
-        
-    *   Note: We also look for other signals to determine if an entity is posting legitimate, non-fraudulent content, such as when it is a verified entity
-        
+*   Offers of false, heavily discounted insurance with promises of significant savings on insurance compared to conventional insurance providers.
     
 
-*   _Debt Relief and Credit Repair Fraud and Scam._ Content that:
+**Prohibited Job Content**
+
+This includes:
+
+*   Offers of jobs containing no information about the employer and job specifications, simply referencing job vacancies.
     
-    *   Promises to delete or eliminate or reduce debt by a particular amount in a set period of time.
-        
-    *   Promises to stop or delete all debt collections or lawsuits.
-        
-    *   Promises to forgive or cancel debt through "new government program” or change in law or equivalent statement.
-        
-    *   Promises to delete or remove credit information from credit reports or create new "credit identity".
-        
-    *   Note: We also look for other signals to determine an entity is posting legitimate, non-fraudulent content, such as when it is a verified entity and a bank or financial institution
-        
+*   Offers of work from home but the job title implies the employee cannot WFH.
+    
+*   Offers of jobs with advance promises of salary.
+    
+*   Offers of guaranteed jobs.
+    
+*   Offers of jobs with a demand for an advance fee before the job is granted.
     
 
-*   _Giveaway Fraud and Scam._ Content that:
+**Prohibited Debt Relief and Credit Repair Content**
+
+This includes:
+
+*   Promises to eliminate or reduce debt by a particular amount in a set period of time.
     
-    *   Offers a guaranteed reward of real money in exchange for users needing to:
-        
-        *   Register at an off-site link.
-            
-        *   Share Personal Identifiable Information (PII) or Other Personal Information.
-            
-        *   Contact off-platform or on-platform via private message.
-            
-        *   Take no action.
-            
-        
+*   Promises to stop all debt collections or lawsuits.
+    
+*   Promises to remove credit information from credit reports or create new "credit identity."
     
 
-*   _Advance Fee Fraud and Scam._ Content that:
+**Prohibited Giveaway Content**
+
+This includes:
+
+*   False offers of a guaranteed reward of real money or consumer goods (such as electronics, vehicles, or jewelry) without any action required by the user beyond sharing personal or financial information.
     
-    *   Falsely promises money in exchange for an up-front fee/wire transfer/payment.
-        
+*   False offers of money from government grants or programs.
     
 
-**Fake Documents Fraud and Scams**
+**Prohibited Advance Fee Content**
 
-*   _Fake or Forged Documents._ Content that:
-    
-    *   Offers solicitation, creation, sale, purchase or trade of fake or forged documents.
-        
-    *   Offers sale of visas or green cards.
-        
-    *   Guarantees visa or green card approval.
-        
-    *   Enables users to get visa approvals without fulfilling normal requirements.
-        
+This includes:
+
+*   Falsely promises money in exchange for an up-front fee/wire transfer/payment.
     
 
-*   _Fake or Counterfeit Currency._ Content that:
-    
-    *   Offers sale, purchase or trade of fake or counterfeit currency, except board-game currency (e.g., Monopoly money) if there is clear context that it is for board-game purposes.
-        
-    
-
-*   _Fake or Counterfeit Vouchers._ Content that:
-    
-    *   Offers sharing, sale, purchase or trade of fake or counterfeit vouchers.
-        
-    *   Admits to, promotes, or solicits the use of physical or digital coupons or vouchers to achieve atypical pricing by either:
-        
-        *   using coupons or vouchers to purchase items those coupons or vouchers are not intended for; or
-            
-        *   by using expired coupons or vouchers.
-            
-        
-    
-
-*   _Fake or forged educational and professional certificates._ Content that:
-    
-    *   Offers sale, purchase or trade of fake or forged educational and professional certificates.
-        
-    
-
-**Stolen Information, Goods or Services Fraud and Scam**
-
-*   _Carding Fraud and Scam._ Content that:
-    
-    *   Involves buying, selling or trading of stolen credit cards or other financial instruments that can be used for unauthorized purchases (also known as "carding").
-        
-    
-
-*   _PII Fraud and Scam._ Content that:
-    
-    *   Offers buying, selling or trading of Personal Identifiable Information (PII) or Other Personal Information except if it belongs to a fictional character.
-        
-    
-
-*   _Fake Review Fraud and Scam._ Content that:
-    
-    *   Calls for buying, selling or trading of product reviews/ratings.
-        
-    *   Implicitly or explicitly incentivises users to provide reviews in exchange for discounts, refunds or free items.
-        
-    
-
-*   _Subscription Fraud and Scam._ Content that:
-    
-    *   Offers buying, selling or trading of credentials for subscription services (login credentials to online services which require a recurring payment at regular intervals) by making references to a paid online service, either by naming it or by sharing its logo.
-        
-    *   Note: We also look for other signals to determine if an entity is posting legitimate, non-fraudulent content, such as when it is a verified entity and a bank or financial institution.
-        
-    
-
-*   _Cheating Fraud and Scam._ Content that:
-    
-    *   Involves sharing, selling, trading, or buying of:
-        
-        *   future exam papers or answer sheets.
-            
-        *   Products or services that enable cheating in exams.
-            
-        *   Products or services that enable passing drug tests in an unauthorized manner
-            
-        
-    
-
-**Unauthorized Use of Devices Fraud and Scam**
-
-*   _Device Manipulation Fraud and Scam._ Content that
-    
-    *   Calls for buying, selling, trading or sharing of any manipulated, altered, or fake measurement devices.
-        
-    *   Admits to, promotes or solicits use of physical manipulation of devices to achieve inaccurate pricing.
-        
-    
-
-*   _Digital Content Fraud and Scam._ Content that
-    
-    *   Offers or asks for products that facilitate or encourage access to digital content in an unauthorized manner. These include but are not limited to: augmented set top boxes, fully loaded/KODI installed boxes and KODI services.
-        
-    
-
-Notwithstanding the above, we do not prohibit content that condemns, raises awareness of or educates others about fraud and scams, without either revealing sensitive information or promoting fraud or scams
+Notwithstanding the above, we do not prohibit content that condemns, raises awareness of, or educates others about scams or other prohibited commercial practices, without either revealing sensitive information or promoting them.
 
 For the following Community Standards, we require additional information and/or context to enforce:
 
-*   We may remove content:
+We may remove content that:
+
+*   Involves frauds or scams that have been reported by a trusted entity.
     
-    *   Involving fraud/scam that have been reported by a trusted entity.
-        
-    *   Related to bribery or embezzlement.
-        
-    *   That offers vaccines in an attempt to scam or defraud users.
-        
-    *   That attempts to establish a fake persona, pretends to be a famous person, or makes unauthorized use of an image of a famous person in an attempt to scam or defraud.
-        
-    *   That offers or asks for products or services designed to facilitate the surreptitious viewing or recording of individuals, e.g., spy cams, mobile phone trackers (including those that allow tracing unknown phone numbers), or other hidden surveillance equipment.
-        
-    *   That offers litigant recruitment opportunities for people to participate in class action lawsuits by impersonating a government entity or a news outlet, by using sensationalist language, or by using exaggerated claims.
-        
-    *   That offers subscription services that prompt users to enter Personal Information.
-        
-    *   We do not allow entities to participate in or claim to engage in organized Fraud or Scam behavior, including the use of multiple accounts on our services in concert to perpetrate fraudulent behaviors.
-        
+*   Recruits people to participate in class action lawsuits using deceptive tactics, such as impersonating a government entity or news outlet, or using sensationalist or exaggerated claims.
+    
+*   Involves entities participating in or claiming to engage in organized fraud or scam behavior, including the use of multiple accounts on our services in concert to perpetrate fraudulent behaviors.
     
 
-In certain cases, we allow content that may otherwise violate the Community Standards when it is determined that the content is satirical. Content will only be allowed if the violating elements of the content are being satirized or attributed to something or someone else in order to mock or criticize them.
-
-User experiences
-
-See some examples of what enforcement looks like for people on Facebook, such as: what it looks like to report something you don’t think should be on Facebook, to be told you’ve violated our Community Standards and to see a warning screen over certain content.
-
-**Note:** We’re always improving, so what you see here may be slightly outdated compared to what we currently use.
-
-USER EXPERIENCE
-
-Reporting
-
-USER EXPERIENCE
-
-Post-report communication
-
-USER EXPERIENCE
-
-Takedown experience
-
-USER EXPERIENCE
-
-Warning screens
-
-[Enforcement](https://transparency.fb.com/enforcement/)
-
-We have the same policies around the world, for everyone on Facebook.
-
-[Review teams](https://transparency.fb.com/enforcement/detecting-violations/how-review-teams-work/)
-
-Our global team of over 15,000 reviewers work every day to keep people on Facebook safe.
-
-[Stakeholder engagement](https://transparency.fb.com/policies/improving/stakeholders-help-us-develop-community-standards/)
-
-Outside experts, academics, NGOs and policymakers help inform the Facebook Community Standards.
-
-Get help with fraud, scams, and deceptive practices
-
-Learn what you can do if you see something on Facebook that goes against our Community Standards.
-
-[Visit our Help Center](https://www.facebook.com/help/263149623790594?ref=tc)
+We allow content that is otherwise covered by this policy when posted in condemnation, educational, awareness raising, or news reporting contexts.
 
 - - -
 
