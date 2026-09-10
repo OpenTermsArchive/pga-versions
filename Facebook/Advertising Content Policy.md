@@ -160,17 +160,13 @@ Ads must not discourage people from vaccination or advocate against vaccines.
 
 * * *
 
-Fraud, Scams, and Deceptive Practices
+Prohibited Commercial Practices
 
 Content that may deceive or mislead people.
 
-Fraud, Scams and Deceptive Practices
+Prohibited Commercial Practices
 
 Ads Must Comply with the Community Standard on .
-
-Unacceptable Business Practices
-
-Ads must not promote products, services, schemes or offers using identified deceptive or misleading practices, including those meant to scam people out of money or personal information. When we detect that advertisers are engaging in potentially suspicious behavior, including potential inauthentic behavior, or are running ads in certain categories likely to be targeted by scammers, we may require those advertisers to complete additional verification processes.
 
 * * *
 
@@ -261,6 +257,10 @@ Ads may not promote cryptocurrency trading platforms, software and related servi
 Online Gambling and Games
 
 Meta defines online gambling and games as any product or service where anything of monetary value is included as part of a method of entry and prize. Ads that promote online gambling and gaming are only allowed with our prior written permission. Authorized advertisers must follow all applicable laws and include targeting criteria consistent with Meta’s targeting requirements. At a minimum, ads may not be targeted to people under 18 years of age. Learn more in our .
+
+Prohibited Documents and Financial Services
+
+Ads must comply with the Community Standards on Prohibited Documents and Financial Services (under Restricted Goods and Services) and must not promote content that facilitates or offers the solicitation, creation, sale, purchase, or trade of fake, forged, or stolen documents, goods, or services; devices or subscriptions that are manipulated or used in an unauthorized manner; personally identifiable or other personal information; products that enable cheating; money muling; or money laundering.
 
 * * *
 
