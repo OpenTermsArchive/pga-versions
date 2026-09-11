@@ -3590,6 +3590,8 @@ Authenticity is the cornerstone of our community. We believe that authenticity h
 
 On Facebook, we require people to create one account using the name they go by in everyday life that represents their authentic identity. We created [Additional Profiles](https://www.facebook.com/help/967154637433480) to help people express different parts of their identity, such as their interests or businesses.
 
+_**Policy Changes:** We may require you to verify your identity to access or continue using certain products and features. If verification is not completed, we may take actions including but not limited to - restricting access or permanently disabling accounts._
+
 We do not allow the use of our services and will restrict or disable Facebook, Instagram, and Threads accounts or other Facebook entities (such as Pages, groups) that:
 
 *   Belong to underage children
