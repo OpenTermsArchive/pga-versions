@@ -1,4 +1,7 @@
-### TERMS OF SERVICE
+TERMS OF SERVICE
+================
+
+  
 
 Last updated: September 11, 2026
 
