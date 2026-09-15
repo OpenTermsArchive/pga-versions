@@ -289,7 +289,7 @@ If you’re in the YouTube Partner Program, you can share revenue from ads. This
 
 Our systems don't always get it right, but you can [request human review](https://support.google.com/youtube/answer/7083671?hl=en) of decisions made by our automated systems.
 
-[Advertiser-friendly Content Guidelines & Yellow Monetization Icons](https://www.youtube.com/watch?v=shmGG87ZELI)
+[Advertiser-friendly Content Guidelines & Notice Icons](https://www.youtube.com/watch?v=shmGG87ZELI)
 
 Subscribe to the [YouTube Creators channel](https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ) for the latest news, updates, and tips.
 
