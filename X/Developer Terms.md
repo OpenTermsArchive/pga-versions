@@ -27,7 +27,7 @@ Last Updated: April 27, 2026 By clicking “Accept & Subscribe”, continuing to
 3.  Modify X Content only to format it for display on your Services; and
 4.  Use and display X Marks to attribute X Applications as the source of the X Content, as set forth in this Agreement.
 
-**B. License to X.** You hereby grant X a non-exclusive, royalty free, non-transferable, and non-sublicensable revocable license to access, index, and cache by any means, including web spiders and/or crawlers, any webpage or applications on which you display X Content using [**embedded Posts**](https://developer.x.com/docs/twitter-for-websites/embedded-tweets/overview) or [**embedded timelines**](https://developer.x.com/docs/twitter-for-websites/timelines/overview). **C. Incorporated Terms.** Your access to and use of the Licensed Material is also subject to, and you shall comply with, the following additional terms and policies (collectively, “**Incorporated Developer Terms**”):
+**B. License to X.** You hereby grant X a non-exclusive, royalty free, non-transferable, and non-sublicensable revocable license to access, index, and cache by any means, including web spiders and/or crawlers, any webpage or applications on which you display X Content using [**embedded Posts**](https://docs.x.com/x-for-websites/embedded-posts/overview) or [**embedded timelines**](https://docs.x.com/x-for-websites/timelines/overview). **C. Incorporated Terms.** Your access to and use of the Licensed Material is also subject to, and you shall comply with, the following additional terms and policies (collectively, “**Incorporated Developer Terms**”):
 
 1.  the [**X Developer Policy**](https://docs.x.com/developer-terms/policy);
 2.  the [**API Restricted Use Rules**](https://docs.x.com/developer-terms/restricted-use-cases);
@@ -105,10 +105,10 @@ Spam, bots, and automation
 
 **The use of the X API and developer products to create spam, or engage in any form of platform manipulation, is prohibited.** You should review the X Rules on [platform manipulation and spam](https://help.x.com/rules-and-policies/platform-manipulation), and ensure that your service does not, and does not enable people to, violate our policies. [**Services that perform write actions, including posting Posts, following accounts, or sending Direct Messages, must follow the Automation Rules.**](https://help.x.com/rules-and-policies/x-automation) In particular, you should:
 
-*   Always get explicit consent before sending people [automated replies or Direct Messages](https://twittercommunity.com/t/policy-clarification-automated-replies-and-mentions/94444)
+*   Always get explicit consent before sending people [automated replies or Direct Messages](https://devcommunity.x.com/t/policy-clarification-automated-replies-and-mentions/94444)
 *   Immediately respect requests to opt-out of being contacted by you
-*   Never perform bulk, aggressive, or spammy actions, including [bulk following](https://twittercommunity.com/t/policy-clarification-aggressive-following-and-inorganic-following-behavior/92769)
-*   Never post identical or substantially similar content across [multiple accounts](https://blog.twitter.com/developer/en_us/topics/tips/2018/automation-and-the-use-of-multiple-accounts.html)
+*   Never perform bulk, aggressive, or spammy actions, including [bulk following](https://devcommunity.x.com/t/policy-clarification-aggressive-following-and-inorganic-following-behavior/92769)
+*   Never post identical or substantially similar content across [multiple accounts](https://blog.x.com/developer/en_us/topics/tips/2018/automation-and-the-use-of-multiple-accounts)
 
 **If you’re operating an API-based bot account you must clearly indicate what the account is and who is responsible for it.** You should never mislead or confuse people about whether your account is or is not a bot. A good way to do this is by including a statement that the account is a bot in the profile bio.
 
@@ -131,7 +131,7 @@ X performance benchmarking
 Public display of Posts
 --------------------------------------------------------
 
-**You must maintain the integrity of all X Content that you display publicly or to people who use your service.** If you don’t use [X for Websites](https://developer.x.com/docs/twitter-for-websites/overview) to display content, then you must use the X API to retrieve the most current version available for display. If displayed content ceases to be available through the X API, then you must remove it from your service as soon as reasonably possible, or within 24 hours after the receipt of a removal request from X, or the applicable X account owner, or as otherwise required by applicable law. **There are specific rules you must follow if you display X Content offline.** Follow the [guidelines](https://developer.x.com/developer-terms/display-requirements) for using Posts in broadcast if you display Posts offline. **If you embed or display Posts, you must contact us about your X API access if your site exceeds 10 million daily impressions.** X reserves the right to require additional terms as a condition to your use of the X API. Additional restrictions on X for Websites developer use include:
+**You must maintain the integrity of all X Content that you display publicly or to people who use your service.** If you don’t use [X for Websites](https://help.x.com/en/x-for-websites-ads-info-and-privacy) to display content, then you must use the X API to retrieve the most current version available for display. If displayed content ceases to be available through the X API, then you must remove it from your service as soon as reasonably possible, or within 24 hours after the receipt of a removal request from X, or the applicable X account owner, or as otherwise required by applicable law. **There are specific rules you must follow if you display X Content offline.** Follow the [guidelines](https://developer.x.com/developer-terms/display-requirements) for using Posts in broadcast if you display Posts offline. **If you embed or display Posts, you must contact us about your X API access if your site exceeds 10 million daily impressions.** X reserves the right to require additional terms as a condition to your use of the X API. Additional restrictions on X for Websites developer use include:
 
 *   **Embedded Posts and/or embedded timelines**
     *   You must provide people with legally sufficient notice that fully discloses X’s collection and use of data about browsing activities on your website, including for interest-based advertising and personalization. You must also obtain legally sufficient consent from people for such collection and use
@@ -139,7 +139,7 @@ Public display of Posts
 *   **X for Websites widgets**
     *   You must ensure that people are provided with clear and comprehensive information about, and consent to, the storing and accessing of cookies or other information on their devices as described in X’s [cookie use](https://help.x.com/rules-and-policies/x-cookies), where providing such information and obtaining such consent is required by law
 *   **Services targeted to children under 13**
-    *   Services targeted to children under 13 must opt out of tailoring X in any embedded Post and/or embedded timelines by setting the opt-out parameter to be ‘true’ as described [here](https://developer.x.com/docs/twitter-for-websites/privacy)
+    *   Services targeted to children under 13 must opt out of tailoring X in any embedded Post and/or embedded timelines by setting the opt-out parameter to be ‘true’ as described [here](https://docs.x.com/x-for-websites/webpage-properties#do-not-track-parameter)
 
 [​](#content-redistribution)
 
@@ -780,9 +780,9 @@ Automation, spam, and auto-responses
 
 The use of X’s APIs and developer products to create spam, or engage in spammy behavior, is prohibited. You should review the [X Rules](https://t.co/rules) on spam, and ensure that your application does not, and does not enable users to, violate our policies. If your application will be used to perform write actions on the X service, including posting Posts, following accounts, or sending Direct Messages, you should carefully review the [Automation Rules](https://support.x.com/articles/76915) to ensure your service complies with our guidelines. In particular, you should:
 
-*   Always get a user’s explicit consent before sending them [automated replies or messages](https://twittercommunity.com/t/policy-clarification-automated-replies-and-mentions/94444)
+*   Always get a user’s explicit consent before sending them [automated replies or messages](https://devcommunity.x.com/t/policy-clarification-automated-replies-and-mentions/94444)
 *   Immediately respect user requests to opt-out of being contacted by you
-*   Never perform bulk, aggressive, or spammy actions, including [bulk following](https://twittercommunity.com/t/policy-clarification-aggressive-following-and-inorganic-following-behavior/92769)
+*   Never perform bulk, aggressive, or spammy actions, including [bulk following](https://devcommunity.x.com/t/policy-clarification-aggressive-following-and-inorganic-following-behavior/92769)
 *   Never post identical or substantially similar content across [multiple accounts](https://blog.x.com/developer/en_us/topics/tips/2018/automation-and-the-use-of-multiple-accounts.html)
 
 [​](#sensitive-information)
@@ -836,7 +836,7 @@ To the extent you are permitted to distribute X content to a third party, note t
 Multiple applications
 ----------------------------------------------------
 
-You are not permitted to register multiple applications for a single use case, or substantially similar or overlapping use cases. Learn more about these policies [here](https://twittercommunity.com/t/policy-clarification-multiple-applications-for-the-same-use-case/92080). In this context, we define “use case” as a consistent set of analyses, displays, or actions performed via an application. Providing the same service or application to different end users counts as a single use case: however, “white label” versions of a tool or service are not included. If you plan to “white label” versions of your application, you must notify and receive separate approval from us. These rules apply both to applications you register, and to applications registered by the end users of your tool or service; requiring your end users to register applications for the purpose of using your tool or service could result in enforcement actions against you, your applications, your customers, and/or the end users of your tool or service. The only exception to this rule is to create development (“dev”), staging, and production (“prod”) instances of the same service. Ensure that these applications are clearly labeled (for instance, in the application name or description), and that you do not use development or staging applications for production purposes.
+You are not permitted to register multiple applications for a single use case, or substantially similar or overlapping use cases. Learn more about these policies [here](https://devcommunity.x.com/t/policy-clarification-multiple-applications-for-the-same-use-case/92080). In this context, we define “use case” as a consistent set of analyses, displays, or actions performed via an application. Providing the same service or application to different end users counts as a single use case: however, “white label” versions of a tool or service are not included. If you plan to “white label” versions of your application, you must notify and receive separate approval from us. These rules apply both to applications you register, and to applications registered by the end users of your tool or service; requiring your end users to register applications for the purpose of using your tool or service could result in enforcement actions against you, your applications, your customers, and/or the end users of your tool or service. The only exception to this rule is to create development (“dev”), staging, and production (“prod”) instances of the same service. Ensure that these applications are clearly labeled (for instance, in the application name or description), and that you do not use development or staging applications for production purposes.
 
 [​](#measuring-the-x-service)
 
@@ -924,14 +924,14 @@ X storage of user location data
 
 X will store data passed by the client as follows:
 
-*   X will save all the data that a user chooses to publicly display to his/her followers. This is similar to how X stores the time stamp that says when the post was made, meaning if a user posts with their exact coordinates, X will store this exact location along with the post for as long as the post exists. Users can clear location data from their posts by clicking the “clear my location history” button on the Settings page as described [here](https://support.twitter.com/articles/122236-how-to-tweet-with-your-location).
+*   X will save all the data that a user chooses to publicly display to his/her followers. This is similar to how X stores the time stamp that says when the post was made, meaning if a user posts with their exact coordinates, X will store this exact location along with the post for as long as the post exists. Users can clear location data from their posts by clicking the “clear my location history” button on the Settings page as described [here](https://help.x.com/en/using-x/post-location).
 
 [​](#summary)
 
 Summary
 ------------------------
 
-The addition of location to a post adds an enormous amount of context and value from a user perspective. However, implementations of location in your client should be careful to take privacy and user transparency as a key consideration in designing a location-focused product. If you have any questions or comments about privacy, location, and other geo features, please [contact us.](https://support.twitter.com/forms/platform)
+The addition of location to a post adds an enormous amount of context and value from a user perspective. However, implementations of location in your client should be careful to take privacy and user transparency as a key consideration in designing a location-focused product. If you have any questions or comments about privacy, location, and other geo features, please [contact us.](https://help.x.com/forms/platform)
 
 Ctrl+I
 
