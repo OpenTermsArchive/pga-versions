@@ -723,19 +723,19 @@ This policy applies to monetization on X and X’s paid advertising products.
 
 X allows the promotion of financial products and services with restrictions. This includes financial entities, products and services, cryptocurrency products and services, non-fungible tokens (NFTs) and related products. The restrictions are based on the specific product or service being promoted as well as the region or country being targeted.
 
-**Note**: _Please refer to the country-specific policies section to determine restrictions which may be applicable per jurisdiction and obtain a prior authorization from X by getting_ [certified](https://ads.twitter.com/en/help?ref=BTC)_._    
+**Note**: _Please refer to the country-specific policies section to determine restrictions which may be applicable per jurisdiction and obtain a prior authorization from X by getting_ [certified](https://ads.twitter.com/en/help?ref=BTC)_._  
 
 _A new certification request should be submitted for advertising different categories of content covered under this policy. Example: approval for NFTs and related products does not extend to cryptocurrency products or services; that request should be submitted separately._
 
-Advertisements for financial products and services can target the below countries:  
+Advertisements for financial products and services can target the below countries:
 
 **Asia Pacific**: Australia, Hong Kong, India, Indonesia, Japan, Malaysia, New Zealand, Philippines, Singapore\*, South Korea, Taiwan, Thailand, Vietnam
 
-**Europe, Middle East, and Africa**: Austria, Belgium\*, Bosnia and Herzegovina, Bulgaria, Croatia, Czech Republic, Denmark, Egypt, France, Germany, Ghana, Greece\*, Finland, Ireland, Israel, Italy, Kenya, Kuwait, Macedonia, Morocco, Netherlands, Nigeria, Norway, Oman, Pakistan, Poland, Portugal, Qatar\*, Romania, Russia\*, Saudi Arabia, Slovenia\*, Serbia, South Africa, Spain, Switzerland, Sweden, Tanzania, Turkey, Uganda, United Arab Emirates, UK and jurisdictions, Ukraine\*, Zambia.
+**Europe, Middle East, and Africa**: Austria, Belgium\*, Bosnia and Herzegovina, Bulgaria, Croatia, Czech Republic, Denmark, Egypt, France, Finland, Germany, Ghana, Greece_,_ Hungary\*, Ireland, Israel, Italy, Kenya, Kuwait, Macedonia, Morocco, Netherlands, Nigeria, Norway, Oman, Pakistan, Poland, Portugal, Qatar\*, Romania, Russia\*, Saudi Arabia, Slovenia\*, Serbia, South Africa, Spain, Switzerland, Sweden, Tanzania, Turkey, Uganda, United Arab Emirates, UK and jurisdictions, Ukraine\*, Zambia.
 
 **North America and Latin America**: Argentina, Aruba, The Bahamas, Barbados, Bermuda, Brazil, Canada, Chile, Colombia, Costa Rica, Curacao, Dominican Republic, Ecuador, El Salvador, Guatemala, Honduras, Jamaica, Mexico, Nicaragua, Panama, Paraguay, Peru, Trinidad & Tobago, U.S., Uruguay, Venezuela
 
-_\*Belgium, Greece, Qatar, Russia, Singapore, Slovenia and Ukraine are not available for advertising cryptocurrency & DeFi products and services_
+_\*Belgium, Greece, Hungary, Qatar, Russia, Singapore, Slovenia and Ukraine are not available for advertising cryptocurrency & DeFi products and services_
 
 #### What products or services are subject to this policy?
 
@@ -791,6 +791,9 @@ _\* Financial Aggregators are only permitted in Australia, France, Japan, South 
     *   Advertiser holds a license from the Hong Kong Monetary Authority (“HKMA”)
 *   Financial instruments such as securities, trading services, asset management, and credit rating services
     *   Advertiser holds a license from the Hong Kong Securities and Futures Commission (“HSFC”)
+
+*   Banking, financial entities, credit and investment products/services
+    *   Advertiser holds the relevant authorisation for the activity advertised (Magyar Nemzeti Bank authorisation, or EU/EEA authorisation that validly passports that activity into Hungary).
 
 *   Promotion of securities is prohibited.
 *   Peer to peer lending
