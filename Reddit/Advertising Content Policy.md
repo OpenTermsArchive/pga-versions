@@ -568,11 +568,11 @@ Examples include:
 Lead Generation Ads Policy
 ==========================
 
-**Principle:** Lead Generation campaigns on Reddit may not inappropriately target or collect Reddit user data.
+**Principle:** Lead Generation campaigns on Reddit may not inappropriately target or collect Reddit user data.  
 
-**Policy:** The use of this ad format to gather sensitive categories of user data, to gather user data via deceptive means, or to gather data users do not expressly agree to share, is prohibited. User information gathered via this product may not be used to inappropriately build profiles of Reddit users. Advertisers using Lead Generation Ads must have a privacy policy on their landing page. Ads must comply with all of , as well as the additional restrictions stated below.
+**Policy:** The use of this ad format to gather sensitive categories of user data, to gather user data via deceptive means, or to gather data users do not expressly agree to share, is prohibited. User information gathered via this product may not be used to inappropriately build profiles of Reddit users. Advertisers using Lead Generation Ads must have a privacy policy on their landing page. Ads must comply with all of , as well as the additional restrictions stated below. 
 
-[Lead Generation ads](https://www.business.reddit.com/advertise/ad-types/lead-gen) are prohibited for the following products and services:
+Lead Generation ads are prohibited for the following products and services: 
 
 *   Dating Services
 *   Financial/crypto products and services
@@ -581,7 +581,7 @@ Lead Generation Ads Policy
 *   Political ads
 *   Recreational drugs and related products and services
 
-All advertisers utilizing this ad format must work directly with a Reddit Sales Representative. To contact Reddit Sales, please click [here](https://www.redditforbusiness.com/advertise#managed-services).
+All advertisers utilizing this ad format must work directly with a Reddit Sales Representative. To contact Reddit Sales, please click [here](https://www.redditforbusiness.com/advertise#managed-services).
 
 - - -
 
