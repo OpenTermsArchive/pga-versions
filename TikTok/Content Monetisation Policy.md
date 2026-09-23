@@ -1,6 +1,6 @@
-Creator code of conduct
+Creator Code of Conduct
 
-Views: 2.6MLast updated: Sep 10, 2026
+Views: 2.6MLast updated: Sep 23, 2026
 
 It's our priority to maintain a safe and welcoming environment for everyone on TikTok. We expect all creators to follow our Community Guidelines, Terms of Service, and any other agreed-upon creator terms or program terms, so we can all stay protected and keep fostering community on our platform.
 
@@ -18,7 +18,7 @@ Bullying or Harassment
 
 Bullying or harassing others, such as sexual harassment, stalking, doxxing, blackmail, or physical threats, or mocking victims of tragedies.
 
-Harmful or Violent Behavior
+Harmful, Violent, or Criminal Behavior
 
 Promoting, encouraging, or engaging in behavior that could harm others, animals, or involve environmental destruction. This includes inciting violence, organizing dangerous activities or harmful imitable behaviors, animal cruelty, human exploitation, or risking the safety and well-being of minors, such as promoting or facilitating child labour, mistreatment or abuse. All such conduct must comply with applicable laws and regulations in local jurisdictions.
 
@@ -56,7 +56,7 @@ If we find verifiable claims related to your conduct on or off our platform, lik
 
 As outlined in our Community Guidelines and Terms of Service, we may also suspend or permanently restrict TikTok accounts for violating our policies. All enforcement actions taken under the Creator Code of Conduct will apply to future participation in Creator Programs and will not restrict contractual compensation from past engagements.
 
-We may exercise our judgment to determine whether a creator's behavior threatens the safety of our community or displays any of the behavior noted above.. If we find a violation but are satisfied that the account no longer poses a danger or threat of damage to TikTok, we may choose not to suspend or remove their access to Creator Programs, or to reinstate access if it was previously removed. We reserve the right to periodically review accounts and content for adherence to these standards.
+We may exercise our judgment to determine whether a creator's behavior threatens the safety of our community or displays any of the behavior noted above. If we find a violation but are satisfied that the account no longer poses a danger or threat of damage to TikTok, we may choose not to suspend or remove their access to Creator Programs, or to reinstate access if it was previously removed. We reserve the right to periodically review accounts and content for adherence to these standards.
 
 If you believe your account has been restricted in error, you can appeal the decision.
 
