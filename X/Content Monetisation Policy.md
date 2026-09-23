@@ -1,7 +1,7 @@
 \>x<’s Creator Monetization Standards
 =====================================
 
-To earn money on >x<, you must meet eligibility standards and comply with our policies. This article outlines the requirements for creators, advertisers, and publishers in our monetization programs.
+To earn money on \>x<, you must meet eligibility standards and comply with our policies. This article outlines the requirements for creators, advertisers, and publishers in our monetization programs.
 
 **All content on \>x< is subject to the [\>x<’s User Agreement](https://x.com/en/tos.html), including the [\>x< Rules](https://help.x.com/en/rules-and-policies/x-rules). As you seek to get paid from \>x< for your content on the platform, remember that monetized content, like other content on \>x<, must be in compliance with our rules on [Safety, Authenticity, and Privacy](https://help.x.com/en/rules-and-policies/x-rules).**
 
