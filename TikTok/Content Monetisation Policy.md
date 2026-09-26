@@ -1,6 +1,6 @@
 Creator Code of Conduct
 
-Views: 2.6MLast updated: Sep 23, 2026
+Views: 2.6MLast updated: Sep 26, 2026
 
 It's our priority to maintain a safe and welcoming environment for everyone on TikTok. We expect all creators to follow our Community Guidelines, Terms of Service, and any other agreed-upon creator terms or program terms, so we can all stay protected and keep fostering community on our platform.
 
