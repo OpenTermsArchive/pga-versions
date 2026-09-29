@@ -356,37 +356,6 @@ Learn more about [how we enforce violations of our Professional Community Polici
 
 - - -
 
-Violent and graphic content
-===========================
-
-We remove depictions of extreme violence, along with image or video content that is excessively gory, gruesome, or disturbingly shocking.
-
-Examples of violent and graphic content
-
-*   Depictions of mutilated and/or deceased persons or body parts (including scenes of crimes or accidents)
-    
-*   Blood, gore, and human or animal fluids or waste
-    
-*   Depictions of animal cruelty
-    
-*   Realistic depictions of severe physical violence against a human being, including:
-    
-    *   Murder or attempted murder
-    *   Rape
-    *   Torture
-    *   Beatings
-    *   Mass shootings
-    *   Extreme brutality
-    
-
-Conversations on LinkedIn are often reflective of the world around us; which means that at any given time, our global member base may be impacted by military conflict, state actor violence, natural disasters, or catastrophic incidents. In cases where violent or graphic content is shared in connection with a newsworthy event, we may label such content instead of removing it from LinkedIn.
-
-We also recognize that graphic content or content that may otherwise be sensitive for some members, may be shared to raise awareness or condemn. We won’t penalize members for posting content in these circumstances, but we may take steps to limit its distribution to protect other members who may not wish to see it.
-
-Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
-
-- - -
-
 Spam
 ====
 
