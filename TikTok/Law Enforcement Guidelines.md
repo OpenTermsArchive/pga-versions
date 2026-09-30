@@ -1,7 +1,7 @@
 TikTok Law Enforcement Guidelines
 =================================
 
-_Last updated: 13 July 2026_
+_Last updated: 6 October 2026_
 
 These guidelines (“**Guidelines**”) are a reference for law enforcement officials seeking the data of users of the TikTok (the “**Platform**”) from any of the TikTok entities listed in Section 1 below (together “**TikTok**”). For additional information, see our [Law Enforcement FAQS](#law-enforcement-guidelines-rich-text-faq).  
 In line with our [human rights statement](https://www.tiktok.com/safety/en/policies-and-engagement/upholding-human-rights), TikTok is committed to cooperating with law enforcement while respecting the privacy, freedom of expression, and other rights of its users.  
@@ -11,6 +11,8 @@ If your request relates to TikTok Shop data, please refer to the [TikTok Shop La
 ### **1\. Basic requirements**
 
 First, requests must be addressed to the correct TikTok entity\*. This is based on the location of the relevant user as follows:
+
+**Note**: For requests for data of users located in the **United States**, refer to the U.S. version of the [TikTok Law Enforcement Guidelines](http://usdsjv.tiktok.com/law-enforcement-guidelines).
 
 Please note that requests addressed to the incorrect TikTok entity may not be processed until this has been rectified, which may cause unnecessary delay.
 
