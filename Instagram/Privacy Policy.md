@@ -18,6 +18,10 @@ What is the Privacy Policy and what does it cover?
 
 Effective July 23, 2026 | [View printable version](https://mbasic.facebook.com/privacy/policy/printable/version/26776488768644674/) | [See previous versions](https://privacycenter.instagram.com/policy/version/26776488768644674/?show_versions=1)
 
+### 
+
+Highlights
+
 We at Meta want you to understand what information we collect, and how we use and share it. That’s why we encourage you to read our Privacy Policy. This helps you use [Meta Products](https://privacycenter.instagram.com/policy/?annotations[0]=0.ex.0-WhatProductsDoesThis) in the way that’s right for you.
 
 In the Privacy Policy, we explain how we collect, use, share, retain and transfer information. We also let you know your rights. Each section of this Policy includes helpful examples and simpler language to make our practices easier to understand. We’ve also added links to resources where you can learn more about the privacy topics that interest you.
@@ -33,6 +37,10 @@ Read the full Policy below.
 [Learn more in Privacy Center about managing your privacy](https://privacycenter.instagram.com/)
 
 What information do we collect?
+
+### 
+
+Highlights
 
 The information we collect and process about you depends on how you use our [Products](https://privacycenter.instagram.com/policy/?annotations[0]=0.ex.0-WhatProductsDoesThis). For example, we collect different information if you sell furniture on Marketplace than if you ask Meta AI to write a joke for you. When you use our Products, we collect some information about you [even if you don't have an account](https://privacycenter.instagram.com/policy/?annotations[0]=1.ex.41-InformationWeCollectIf).
 
@@ -69,6 +77,10 @@ Take control
 Privacy Center](https://privacycenter.instagram.com/guide/collection/)
 
 How do we use your information?
+
+### 
+
+Highlights
 
 We use [information we collect](https://privacycenter.instagram.com/policy/?section_id=1-WhatInformationDoWe) to provide a personalized experience to you, including ads (if we show you ads), along with the other purposes we explain in detail below.
 
@@ -129,6 +141,10 @@ We use information we have, information from researchers and datasets from publi
 
 How is your information shared on Meta Products or with integrated partners?
 
+### 
+
+Highlights
+
 On Meta Products
 
 Learn more about the different cases when your information can be shared on our [Products](https://privacycenter.instagram.com/policy/?annotations[0]=0.ex.0-WhatProductsDoesThis):
@@ -168,6 +184,10 @@ Privacy Center](https://privacycenter.instagram.com/guide/sharing/)
 [Manage apps and websites](https://privacycenter.instagram.com/policy/?link_dialog=MANAGE_APPS)
 
 How do we share information with third parties?
+
+### 
+
+Highlights
 
 We don't sell any of your information to anyone, and we never will. We also require [partners](https://privacycenter.instagram.com/policy/?annotations[0]=Definition-Partner) and other [third parties](https://privacycenter.instagram.com/policy/?annotations[0]=Definition-ThirdParty) to follow rules about how they can and cannot use and disclose the information we provide.
 
@@ -217,6 +237,10 @@ And if we sell or transfer all or part of our business to someone else, in some 
 
 How do the Meta Companies work together?
 
+### 
+
+Highlights
+
 We are part of the [Meta Companies](https://www.facebook.com/legal/meta-companies) that provide Meta Company Products. [Meta Company Products](https://www.facebook.com/legal/meta-company-products) include all the [Meta Products](https://privacycenter.instagram.com/policy/?annotations[0]=0.ex.0-WhatProductsDoesThis) covered by this Policy, plus other products like WhatsApp and more.
 
 We share information we collect, infrastructure, systems and technology with the other Meta Companies. [Learn more](https://privacycenter.instagram.com/policy/?section_id=9-HowDoWeTransfer) about how we transfer information to other countries.
@@ -240,6 +264,10 @@ More resources
 Facebook Help Center](https://www.facebook.com/legal/meta-companies)
 
 What is our legal basis for processing your information, and what are your rights?
+
+### 
+
+Highlights
 
 Under applicable data protection law, companies must have a legal basis to process personal data. When we talk about "processing personal data," we mean the ways we collect, use and share your information, as we described in the other sections of this Policy above.
 
@@ -275,6 +303,10 @@ You have the following rights under GDPR and other relevant data protection laws
 
 How long do we keep your information?
 
+### 
+
+Highlights
+
 We keep information as long as we need it to provide our Products, comply with legal obligations or protect our or other’s interests. We decide how long we need information on a case-by-case basis. Here’s what we consider when we decide:
 
 *   If we need it to operate or provide our Products. For example, we need to keep some of your information to maintain your account. [Learn more](https://privacycenter.instagram.com/policy/?annotations[0]=8.ex.1-IfWeNeedIt).
@@ -285,6 +317,10 @@ We keep information as long as we need it to provide our Products, comply with l
 In some instances and for specific reasons, we’ll keep information for an extended period of time. [Read our Policy](https://privacycenter.instagram.com/policy/?annotations[0]=8.ex.3-WhyWeMayPreserve) about when we may preserve your information.
 
 How do we transfer information?
+
+### 
+
+Highlights
 
 [Why is information transferred to other countries?](https://privacycenter.instagram.com/policy/?subpage=9.subpage.1-WhyIsInformationTransferred)
 
@@ -297,6 +333,10 @@ How do we transfer information?
 [How do we safeguard your information?](https://privacycenter.instagram.com/policy/?subpage=9.subpage.3-HowDoWeSafeguard)
 
 How do we respond to legal requests, comply with applicable law and prevent harm?
+
+### 
+
+Highlights
 
 We access, preserve, use and share your information:
 
