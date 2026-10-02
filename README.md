@@ -57,7 +57,7 @@ PGA v2 is made available under the [Open Data Commons Attribution License](http:
 **Recommended Citation for Dataset** 
 Katzenbach, C., Dergachava, D., Fischer, A., Kopps, A., Kolesnikov, S., Redeker. D., Viejo Otero, P. (2023). Platform Governance Archive (PGA): Dataset PGA v2. https://doi.org/10.26092/elib/2373.
 
-**Recommind Citation for Single Policy Document**
+**Recommended Citation for Single Policy Document**
 Name of platform. (Date of version). Name of policy. *Platform Governance Archive*. Direct URL.
 
 
