@@ -223,14 +223,14 @@ To find out more about Reddit's enforcement philosophy, please click [here](http
 
 **Do not use Reddit for repeated or unsolicited mass engagement.** 
 
-Spam – defined as repeated or unsolicited actions (whether automated or manual) that negatively affect redditors, communities, and/or Reddit itself – is never allowed. Spammers compromise everyone's use of Reddit by artificially inflating exposure to unwanted or irrelevant content.   
+Spam – defined as repeated or unsolicited actions (whether automated or manual) that negatively affect users, communities, and/or Reddit itself – is never allowed. Spammers compromise everyone's use of Reddit by artificially inflating exposure to unwanted or irrelevant content.   
  
 
 What are some things that may violate this policy?
 --------------------------------------------------
 
 *   Mass-posting repetitive content for the purpose of exposure or financial gain.
-*   Mass-tagging other redditors or sending large amounts of unsolicited chat or private messages. 
+*   Mass-tagging other users or sending large amounts of unsolicited chat or private messages. 
 *   Repeatedly posting or sharing old content for the purpose of rapidly gaining [karma](https://support.reddithelp.com/hc/articles/204511829-What-is-karma).
 *   Using tools (e.g., bots, generative AI tools) that may break Reddit or facilitate the proliferation of spam. 
 *   Link-masking or redirecting to harmful domains.
@@ -393,7 +393,7 @@ What are some of the criteria taken into consideration when determining violatio
 
 Some examples of policy violations
 
-*   Using the name of a business and offering deals to redditors on its behalf without authorization.
+*   Using the name of a business and offering deals to users on its behalf without authorization.
 *   Creating an account with a username almost identical to another account's username to confuse others about which account they are interacting with. 
 *   Offering an AMA with an account pretending to be the spokesperson for an established organization.
 *   Creating a community posing as the job listing community for a fictional recruitment agency.
@@ -404,7 +404,7 @@ Some examples that DO NOT violate this policy
 
 *   Using a company's name for the purpose of discussing its products, services, or business practices.
 *   Using the name of a celebrity for a fan account that doesn't assume that identity in interactions with others.
-*   Creating your brand's official community to directly engage with redditors.
+*   Creating your brand's official community to directly engage with users.
 
   
 How can I report potential violations of this policy?
@@ -416,7 +416,7 @@ For more information, please visit Reddit's [enforcement philosophy](https://sup
 
 - - -
 
-**Do not use Reddit to exchange illegal or prohibited goods and services with other redditors.** 
+**Do not use Reddit to exchange illegal or prohibited goods and services with other users.** 
 
 You are free to discuss all sorts of products and services, including those that may not be legal where you are, but keep in mind that certain user-to-user transactions are not allowed.  
  
@@ -424,7 +424,7 @@ You are free to discuss all sorts of products and services, including those that
 What are some things that may violate this policy?
 --------------------------------------------------
 
-It is not allowed to buy, sell, gift, or encourage the transaction of the following goods or services with other redditors, whether implicitly or explicitly:
+It is not allowed to buy, sell, gift, or encourage the transaction of the following goods or services with other users, whether implicitly or explicitly:
 
 *   Recreational drugs and/or precursor chemicals specifically used to manufacture them
 *   Alcohol, tobacco or vaping products, pharmaceutical drugs (including prescription or over the counter medicines), or other controlled substances
@@ -437,7 +437,7 @@ It is not allowed to buy, sell, gift, or encourage the transaction of the follow
 *   Fraudulent goods or activities (e.g. falsified documents or certifications, fake fiat or digital currency, deceptive investment schemes, etc.)
 *   Services or goods obtained through fraudulent or illegal access (e.g., hacked information)
 
-Note: **Discussing how to legally access controlled goods or sharing external links to appropriately licensed vendors of legal goods and services are allowed**. This includes, for example, licensed pharmacies filling valid prescriptions, licensed vendors of controlled substances, online or offline firearm dealers  holding the necessary government-issued license, or licensed animal welfare organizations providing adoption services. If you decide to arrange non-prohibited transactions (e.g., selling camping gear, photography shoot, etc.) with other redditors, please understand that you're doing so at your own risk.
+Note: **Discussing how to legally access controlled goods or sharing external links to appropriately licensed vendors of legal goods and services are allowed**. This includes, for example, licensed pharmacies filling valid prescriptions, licensed vendors of controlled substances, online or offline firearm dealers  holding the necessary government-issued license, or licensed animal welfare organizations providing adoption services. If you decide to arrange non-prohibited transactions (e.g., selling camping gear, photography shoot, etc.) with other users, please understand that you're doing so at your own risk.
 
 Some examples of policy violations
 
@@ -471,7 +471,7 @@ For more information, please visit Reddit's [enforcement philosophy](https://sup
 
 **Don't break Reddit, interfere with its normal use, or create programs or applications (“apps”) that violate our API rules.** 
 
-This rule applies to all users or entities accessing or interacting with Reddit’s services. This includes API access and the behavior of apps –including bots, AI agents, and non-human operated accounts– to ensure that they are transparent, accountable, and do not degrade the experience for redditors.
+This rule applies to all users or entities accessing or interacting with Reddit’s services. This includes API access and the behavior of apps –including bots, AI agents, and non-human operated accounts– to ensure that they are transparent, accountable, and do not degrade the experience for users.
 
 What are some things that may violate this policy?
 --------------------------------------------------
@@ -481,7 +481,7 @@ What are some things that may violate this policy?
 *   Disrupting or interrupting Reddit's services, such as by degrading platform performance, introducing malicious code, or exploiting bugs and vulnerabilities.
 *   Accessing or collecting data from Reddit or its users [without permission.](https://support.reddithelp.com/hc/articles/42728983564564-Responsible-Builder-Policy)
 *   Creating or operating apps that: 
-    *   Continue to use or display public content deleted by redditors or removed for [Reddit Rules](https://redditinc.com/policies/reddit-rules) violations;
+    *   Continue to use or display public content deleted by users or removed for [Reddit Rules](https://redditinc.com/policies/reddit-rules) violations;
     *   Mask as a human or fail to [register as an app](https://support.reddithelp.com/hc/articles/45376380316052-Apps-on-Reddit-and-how-to-get-a-label-for-your-app);
     *   Use developer credentials for unauthorized purposes;
     *   Intentionally remove or hide Reddit’s promoted posts or sponsored headlines;
