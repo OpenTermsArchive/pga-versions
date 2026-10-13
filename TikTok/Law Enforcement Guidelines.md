@@ -137,7 +137,7 @@ YesNo
 TikTok Shop Law Enforcement & Regulatory Disclosure Guidelines
 ==============================================================
 
-_Last updated: 13 July 2026_
+_Last updated: 12 October 2026_
 
 These guidelines (“**TikTok Shop Guidelines**”) are supplementary to the [<TikTok Law Enforcement Guidelines>](https://www.tiktok.com/safety/en/tools-and-guides/tiktok-law-enforcement-guidelines), and are a reference for law enforcement and regulatory officials seeking disclosure of TikTok Shop data from the relevant provider of the TikTok Shop service ("**TikTok Shop**").  
 Requests must be submitted to our webform: [www.tiktok.com/legal/report/lawenforcementrequest](https://www.tiktok.com/legal/report/lawenforcementrequest) with any attachments (for example, official warrant, court order, or other documentation supporting the request) in PDF format (i.e., word format will not be accepted).
