@@ -42,7 +42,7 @@ We care about data privacy and security. We have developed a Privacy Policy in o
 
 If you access the Service from the European Union, Asia, or any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in the United States, then through your continued use of the Service, if applicable, you are transferring your data to the United States, and you expressly consent to have your data transferred to and processed in the United States. Please review our Data Privacy Policy (GDPR) as to data collection and processing for all users, including those outside the United States.
 
-Further, we do not knowingly accept, request, target or solicit information from children or knowingly market to children. Therefore, in accordance with the U.S. Children's Online Privacy Protection Act, if we receive actual knowledge that anyone under the age of 18 has provided personal information to us without the requisite and verifiable parental consent, we will delete that information from the Site as quickly as is reasonably practical. To contact us: Please email us at [\[email protected\]](https://help.truthsocial.com/cdn-cgi/l/email-protection) and provide the username and other details as to any underage information.
+Further, we do not knowingly accept, request, target or solicit information from children or knowingly market to children. Therefore, in accordance with the U.S. Children's Online Privacy Protection Act, if we receive actual knowledge that anyone under the age of 18 has provided personal information to us without the requisite and verifiable parental consent, we will delete that information from the Site as quickly as is reasonably practical. To contact us: Please email us at [legal@tmediatech.com](mailto:legal@tmediatech.com) and provide the username and other details as to any underage information.
 
 4\. USER REPRESENTATIONS
 ------------------------
@@ -354,7 +354,7 @@ All Notifications should meet the requirements of DMCA 17 U.S.C. § 512(c)(3) an
 
 Attn: Copyright Agent
 
-Email: [\[email protected\]](https://help.truthsocial.com/cdn-cgi/l/email-protection)
+Email: [legal@tmediatech.com](mailto:legal@tmediatech.com)
 
 ### B. Counter Notification
 
@@ -380,7 +380,7 @@ Please note that if you materially misrepresent that the disabled or removed con
 
 Attn: Copyright Agent
 
-Email: [\[email protected\]](https://help.truthsocial.com/cdn-cgi/l/email-protection)
+Email: [legal@tmediatech.com](mailto:legal@tmediatech.com)
 
 18\. COPYRIGHT INFRINGEMENTS
 ----------------------------
@@ -494,7 +494,7 @@ You hereby waive any and all defenses you may have based on the electronic form 
 33\. CONTACT US
 ---------------
 
-In order to resolve a complaint regarding the Service or any Content or to receive further information regarding use of the Service or Content, please contact us at [\[email protected\]](https://help.truthsocial.com/cdn-cgi/l/email-protection) Users may report "hateful conduct," as defined by New York law, to [\[email protected\]](https://help.truthsocial.com/cdn-cgi/l/email-protection).
+In order to resolve a complaint regarding the Service or any Content or to receive further information regarding use of the Service or Content, please contact us at [support@truthsocial.com.](mailto:support@truthsocial.com.) Users may report "hateful conduct," as defined by New York law, to [legal@tmediatech.com](mailto:legal@tmediatech.com).
 
 34\. SMS Terms and Conditions
 -----------------------------
