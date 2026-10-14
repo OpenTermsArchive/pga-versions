@@ -1,214 +1,228 @@
 Guidelines for law enforcement
 ==============================
 
-These guidelines are intended for law enforcement authorities seeking information about X accounts. Information concerning requests to [withhold content on X](https://help.x.com/rules-and-policies/tweet-withheld-by-country) is available. More general information is available in our [Privacy Policy](https://twitter.com/en/privacy), [Terms of Service](https://twitter.com/en/tos), and [X Rules](https://help.x.com/en/rules-and-policies/twitter-rules.html).   
+These guidelines help law enforcement authorities request user information from >x<. Understand what we can provide, what legal processes apply, and how to submit a request.
 
-### What is X?
+These guidelines are intended for law enforcement authorities seeking information about \>x< accounts. Information concerning requests to [withhold content on \>x<](https://help.x.com/en/rules-and-policies/post-withheld-by-country) is available. More general information is available in our [Privacy Policy](https://x.com/en/privacy), [Terms of Service](https://x.com/en/tos), and [\>x< Rules](https://help.x.com/en/rules-and-policies/x-rules).
 
-  
-X is a real-time global information network that lets users create and share ideas and information instantly to serve the public conversation. X is what’s happening in the world and what people are talking about right now. When it happens, it happens on X.
+Topics Covered:
+---------------
 
-For more information, please visit [about.x.com](https://about.twitter.com/). For the latest on X's features and functionality, please visit our [Help Center](https://help.x.com/en.html).  
- 
+*   [What is \>x<?](#what-is-x)
+*   [Account information requests](#account-information-requests)
+    *   [What account information does \>x< have?](#what-account-information-does-x-have)
+        *   [Does \>x< have access to user-generated photos or videos?](#does-x-have-access-to-user-generated-photos-or-videos)
+        *   [What is Periscope?](#what-is-periscope)
+    *   [Data retention information](#data-retention-information)
+        *   [Data controller](#data-controller)
+    *   [Preservation requests](#preservation-requests)
+    *   [Requests for \>x< account information](#requests-for-x-account-information)
+        *   [Private information requires a subpoena or court order](#private-information-requires-a-subpoena-or-court-order)
+        *   [Contents of communications requires a search warrant](#contents-of-communications-requires-a-search-warrant)
+        *   [Will \>x< notify users of requests for account information?](#will-x-notify-users-of-requests-for-account-information)
+        *   [What details must be included in account information requests?](#what-details-must-be-included-in-account-information-requests)
+        *   [Production of records](#production-of-records)
+        *   [Records authentication](#records-authentication)
+        *   [Cost Reimbursement](#cost-reimbursement)
+    *   [Emergency disclosure requests](#emergency-disclosure-requests)
+        *   [How to make an emergency disclosure request](#how-to-make-an-emergency-disclosure-request)
+    *   [Mutual legal assistance treaties](#mutual-legal-assistance-treaties)
+*   [Content removal requests](#content-removal-requests)
+*   [Assisting a \>x< user](#assisting-an-x-user)
+*   [Where to submit requests](#where-to-submit-requests)
+*   [Contact information](#contact-information)
 
-### Account Information Requests
+What is \>x<?
+-------------
 
-### What account information does X have?  
+\>x< is a real-time global information network that lets users create and share ideas and information instantly to serve the public conversation. \>x< is what’s happening in the world and what people are talking about right now. When it happens, it happens on \>x<.
 
-  
-A X account profile often contains a profile photo, header photo, background image, and status updates, called posts. In addition, the account holder has the option to fill out a location (e.g., San Francisco), a URL (e.g., X.com), and a short "bio" section about the account for display on their public profile. We offer strong privacy controls for everyone. Please see our [Privacy Policy](https://twitter.com/en/privacy) for more information on the data we collect from and about users.
+For more information, please visit [about.x.com](https://about.x.com/). For the latest on \>x<'s features and functionality, please visit our [Help Center](https://help.x.com/en.html).
 
-### Does X have access to user-generated photos or videos?  
+Account Information Requests
+----------------------------
 
-  
-X provides photo hosting for some image uploads (i.e., pic.x.com images) as well as X account profile photos, and header photos. However, X is not the sole photo provider for images that may appear on the X platform. More information about [posting photos on X](https://help.x.com/en/using-twitter/tweeting-gifs-and-pictures.html).
+### What account information does \>x< have?
 
-X provides video hosting for some videos uploaded to X (i.e., pic.xr.com videos) as well as those posted to Periscope. Please note that X is not the sole video provider for videos that may appear on the X platform.
+A \>x< account profile often contains a profile photo, header photo, background image, and status updates, called posts. In addition, the account holder has the option to fill out a location (e.g., San Francisco), a URL (e.g., \>x<.com), and a short "bio" section about the account for display on their public profile. We offer strong privacy controls for everyone. Please see our [Privacy Policy](https://x.com/en/privacy) for more information on the data we collect from and about users.
 
-Links shared on X, including links shared in Direct Messages, will automatically be processed and shortened to an [https://t.co](https://t.co/) link. When you see a [https://t.co](https://t.co/) link, this is not an indication that the video or image is hosted by X.
+#### Does \>x< have access to user-generated photos or videos?
 
-### **What is Periscope?**  
+\>x< provides photo hosting for some image uploads (i.e., pic.x.com images) as well as \>x< account profile photos, and header photos. However, \>x< is not the sole photo provider for images that may appear on the \>x< platform. More information about [posting photos on \>x<](https://help.x.com/en/using-x/posting-gifs-and-pictures).
 
-Periscope is a standalone mobile service that lets users create and share real-time video broadcasts. Please see the [Periscope Privacy Statement](https://www.pscp.tv/privacy) for more information on the data we collect from and about Periscope users, and visit the [Periscope Help Center](https://help.pscp.tv/) for more information about Periscope. Users may sign up for a Periscope account without having or associating a corresponding X account.
+\>x< provides video hosting for some videos uploaded to \>x< (i.e., pic.xr.com videos) as well as those posted to Periscope. Please note that \>x< is not the sole video provider for videos that may appear on the \>x< platform.
 
-Read our instructions on [how to locate a Periscope username](https://help.x.com/en/rules-and-policies/twitter-report-violation#periscope-info).
+Links shared on \>x<, including links shared in Direct Messages, will automatically be processed and shortened to an [https://t.co](https://t.co/) link. When you see a [https://t.co](https://t.co/) link, this is not an indication that the video or image is hosted by \>x<.
 
-### Data retention information  
+#### What is Periscope?
 
-**  
-X**
+Periscope is a standalone mobile service that lets users create and share real-time video broadcasts. Please see the [Periscope Privacy Statement](https://www.pscp.tv/privacy) for more information on the data we collect from and about Periscope users, and visit the [Periscope Help Center](https://help.pscp.tv/) for more information about Periscope. Users may sign up for a Periscope account without having or associating a corresponding \>x< account.
 
-X retains different types of information for different lengths of time, and in accordance with our [Terms of Service](https://twitter.com/en/tos) and [Privacy Policy](https://twitter.com/en/privacy). Given X's real-time nature, some information (e.g., IP logs) may only be stored for a very brief period of time.
+Read our instructions on [how to locate a Periscope username](https://help.x.com/en/rules-and-policies/x-report-violation#periscope-info).
 
-Some information we store is automatically collected, while other information is provided at the user’s discretion. Though we do store this information, we cannot guarantee its accuracy. For example, the user may have created a fake or anonymous profile. X doesn’t require real name use, email verification, or identity authentication. More information on X’s retention policies can be found in our [Privacy Policy](https://twitter.com/en/privacy).  
+### Data retention information
 
-NOTE: Once an account has been deactivated, there is a very brief period in which we may be able to access account information, including posts. More information about [deactivated accounts](https://help.x.com/en/managing-your-account/how-to-deactivate-twitter-account) is available here. Content removed by account holders (e.g., posts) is generally not available.  
- 
+#### \>x<
 
-**Periscope**
+\>x< retains different types of information for different lengths of time, and in accordance with our [Terms of Service](https://x.com/en/tos) and [Privacy Policy](https://x.com/en/privacy). Given \>x<'s real-time nature, some information (e.g., IP logs) may only be stored for a very brief period of time.
+
+Some information we store is automatically collected, while other information is provided at the user’s discretion. Though we do store this information, we cannot guarantee its accuracy. For example, the user may have created a fake or anonymous profile. \>x< doesn’t require real name use, email verification, or identity authentication. More information on \>x<’s retention policies can be found in our [Privacy Policy](https://x.com/en/privacy).
+
+NOTE
+
+Once an account has been deactivated, there is a very brief period in which we may be able to access account information, including posts. More information about [deactivated accounts](https://help.x.com/en/managing-your-account/how-to-deactivate-x-account) is available here. Content removed by account holders (e.g., posts) is generally not available.
+
+#### Periscope
 
 Periscope retains different types of information for different time periods. Broadcasts and broadcast information may only be stored for a brief period of time. Information on the availability of broadcasts can be found in the [Periscope Help Center](https://help.pscp.tv/customer/en/portal/articles/2017799-how-long-are-broadcasts-available-). More information on our retention policies can be found in [Periscope's Privacy Policy](https://www.periscope.tv/privacy).
 
-### Data Controller  
+#### Data Controller
 
-  
-For people who live in the United States or any other country outside of the European Union or the European Economic Area, the data controller responsible for personal data is X Corp. based in Austin, Texas. For people who live in the European Union or the European Economic Area, the data controller is X Internet Unlimited Company based in Dublin, Ireland.
+For people who live in the United States or any other country outside of the European Union or the European Economic Area, the data controller responsible for personal data is \>x< Corp. based in Austin, Texas. For people who live in the European Union or the European Economic Area, the data controller is \>x< Internet Unlimited Company based in Dublin, Ireland.
 
 ### Preservation requests
 
-  
-Where legally appropriate, we accept requests from law enforcement to preserve records that constitute potentially relevant evidence in legal proceedings. We will preserve, but not disclose, a temporary snapshot of the relevant account records for 90 days pending service of valid legal process. 
+Where legally appropriate, we accept requests from law enforcement to preserve records that constitute potentially relevant evidence in legal proceedings. We will preserve, but not disclose, a temporary snapshot of the relevant account records for 90 days pending service of valid legal process.
 
 Preservation requests, in accordance with applicable law, should:
 
 *   be signed by the requesting official;
 *   have a valid return official email address;
 *   be sent on law enforcement letterhead in a non-editable format;
-*   include the @username and URL of the subject X profile (e.g. [https://x.com/safety](https://twitter.com/Safety) (@safety), and/or the X account's unique, public user identification number (UID) or a Periscope username and URL. To locate a X UID see [here](https://help.x.com/en/rules-and-policies/twitter-law-enforcement-support#5.7) or to locate a Periscope username see [here](https://help.x.com/en/rules-and-policies/twitter-law-enforcement-support#5.7).  
-     
+*   include the @username and URL of the subject \>x< profile (e.g. [https://x.com/safety](https://x.com/Safety) (@safety), and/or the \>x< account's unique, public user identification number (UID) or a Periscope username and URL. To locate a \>x< UID see [here](#5.7) or to locate a Periscope username see [here](#5.7).
 
 We may honor requests for extensions of preservation requests, but encourage law enforcement agencies to seek records through the appropriate channels in a timely manner, as we cannot guarantee that requested information will be available.
 
 If you will be submitting a preservation extension request, we recommend that you submit it at least a week (7 days) prior to the end of the preservation period, to allow for sufficient processing time.
 
-Law enforcement and government preservation requests for user information may be submitted through our Legal Request Submissions site (t.co/lr or [http://legalrequests.x.com](https://legalrequests.twitter.com/forms/landing_disclaimer)). Please submit preservation extensions as a separate request. You can find further instructions [below](https://help.x.com/en/rules-and-policies/twitter-law-enforcement-support#17.5).
+Law enforcement and government preservation requests for user information may be submitted through our Legal Request Submissions site (t.co/lr or [http://legalrequests.x.com](https://legalrequests.x.com/forms/landing_disclaimer)). Please submit preservation extensions as a separate request. You can find further instructions [below](#17.5).
 
-### Requests for X account information  
+### Requests for \>x< account information
 
-  
-Requests for user account information from law enforcement should be directed to X Corp. in Austin, Texas or X Internet Unlimited Company in Dublin, Ireland. X responds to valid legal process issued in compliance with applicable law.
+Requests for user account information from law enforcement should be directed to \>x< Corp. in Austin, Texas or \>x< Internet Unlimited Company in Dublin, Ireland. \>x< responds to valid legal process issued in compliance with applicable law.
 
-### **Private information requires a subpoena or court order**  
+#### Private information requires a subpoena or court order
 
-Non-public information about X users will not be released to law enforcement except in response to appropriate legal process such as a subpoena, court order, other valid legal process, or in response to a valid emergency request, as described below.
+Non-public information about \>x< users will not be released to law enforcement except in response to appropriate legal process such as a subpoena, court order, other valid legal process, or in response to a valid emergency request, as described below.
 
-### **Contents of communications requires a search warrant**  
+#### Contents of communications requires a search warrant
 
-Requests for the contents of communications (e.g., posts or photos) require a valid search warrant or equivalent from an agency with proper jurisdiction over X.
+Requests for the contents of communications (e.g., posts or photos) require a valid search warrant or equivalent from an agency with proper jurisdiction over \>x<.
 
-### **Will X notify users of requests for account information?**  
+#### Will \>x< notify users of requests for account information?
 
-Yes. For purposes of [transparency and due process](https://help.x.com/en/rules-and-policies/defending-and-respecting-our-users-voice), X's policy is to notify users (e.g., prior to disclosure of account information) of requests for their X or Periscope account information, including a copy of the request, unless we are prohibited from doing so (e.g., an order under [18 U.S.C. § 2705(b)](https://www.law.cornell.edu/uscode/text/18/2705)). We ask that any non-disclosure provisions include a specified duration (e.g., 90 days) during which X is prohibited from notifying the user. Exceptions to our user notice policy may include exigent or counterproductive circumstances, such as emergencies regarding imminent threat to life, child sexual exploitation, or terrorism.
+Yes. For purposes of [transparency and due process](https://help.x.com/en/rules-and-policies/defending-and-respecting-our-users-voice), \>x<'s policy is to notify users (e.g., prior to disclosure of account information) of requests for their \>x< or Periscope account information, including a copy of the request, unless we are prohibited from doing so (e.g., an order under [18 U.S.C. § 2705(b)](https://www.law.cornell.edu/uscode/text/18/2705)). We ask that any non-disclosure provisions include a specified duration (e.g., 90 days) during which \>x< is prohibited from notifying the user. Exceptions to our user notice policy may include exigent or counterproductive circumstances, such as emergencies regarding imminent threat to life, child sexual exploitation, or terrorism.
 
-### **What details must be included in account information requests?**  
+#### What details must be included in account information requests?
 
 Requests for user account information in accordance with applicable law, are required to include the following information:
 
-*   Include the X @username and URL of the subject X account in question (e.g., [https://x.com/Safety](https://twitter.com/TwitterSafety) (@Safety) or an account's unique, public user identification number or UID;
-*   And/or include the valid Periscope username and URL. Find instructions on [locating a Periscope username](https://help.x.com/en/rules-and-policies/twitter-report-violation#periscope-info) here;
+*   Include the \>x< @username and URL of the subject \>x< account in question (e.g., [https://x.com/Safety](https://x.com/TwitterSafety) (@Safety) or an account's unique, public user identification number or UID;
+*   And/or include the valid Periscope username and URL. Find instructions on [locating a Periscope username](https://help.x.com/en/rules-and-policies/x-report-violation#periscope-info) here;
 *   Provide details about what specific information is requested (e.g., basic subscriber information) and its relationship to your investigation;
     *   **NOTE**: Please ensure that the information you seek is not publicly available (e.g., posts that are not protected). We are unable to process overly broad or vague requests.
-*   Include a **valid official email address** (e.g., name@agency.gov) so we may get back in touch with you upon receipt of your legal process;
-*   Be issued on law enforcement letterhead.  
-     
+*   Include a **valid official email address** (e.g., name@agency.gov) so we may get back in touch with you upon receipt of your legal process;
+*   Be issued on law enforcement letterhead.
 
-Law enforcement and government requests for user information may be submitted through our Legal Request Submissions site (https://t.co/lr or [https://legalrequests.x.com](https://legalrequests.twitter.com/forms/landing_disclaimer)). You can find further instructions below.
+Law enforcement and government requests for user information may be submitted through our Legal Request Submissions site (https://t.co/lr or [https://legalrequests.x.com](https://legalrequests.x.com/forms/landing_disclaimer)). You can find further instructions below.
 
-### **Production of records**  
+#### Production of records
 
 Unless otherwise agreed upon, we provide responsive records in electronic format (i.e., text files that can be opened with any word processing software such as Word or TextEdit).
 
-### **Records authentication**  
+#### Records authentication
 
 The records that we produce are electronically signed to ensure their integrity at the time of production. If you require a declaration, please indicate it in your submission.
 
-### **Cost reimbursement**  
+#### Cost reimbursement
 
-X may seek reimbursement for costs associated with information produced pursuant to legal process and as permitted by law (e.g., [under 18 U.S.C. §2706](https://www.law.cornell.edu/uscode/text/18/2706)).
+\>x< may seek reimbursement for costs associated with information produced pursuant to legal process and as permitted by law (e.g., [under 18 U.S.C. §2706](https://www.law.cornell.edu/uscode/text/18/2706)).
 
 ### Emergency disclosure requests
 
-  
-In line with our [Privacy Policy](https://twitter.com/en/privacy), we may disclose account information to law enforcement in response to a valid emergency disclosure request.
+In line with our [Privacy Policy](https://x.com/en/privacy), we may disclose account information to law enforcement in response to a valid emergency disclosure request.
 
-X evaluates emergency disclosure requests on a case-by-case basis in compliance with relevant law. If we receive information that provides us with a good faith belief that there is an exigent emergency involving a danger of death or serious physical injury to a person, we may provide any available information necessary to prevent that harm.
+\>x< evaluates emergency disclosure requests on a case-by-case basis in compliance with relevant law. If we receive information that provides us with a good faith belief that there is an exigent emergency involving a danger of death or serious physical injury to a person, we may provide any available information necessary to prevent that harm.
 
-### **How to make an emergency disclosure request**  
+#### How to make an emergency disclosure request
 
-If there is an exigent emergency that involves the danger of death or serious physical injury to a person that X may have information necessary to prevent, **law enforcement officers can submit an emergency disclosure request through our [Legal Request Submissions site](https://legalrequests.twitter.com/forms/landing_disclaimer)** (the quickest and most efficient method).  
- 
+If there is an exigent emergency that involves the danger of death or serious physical injury to a person that \>x< may have information necessary to prevent, **law enforcement officers can submit an emergency disclosure request through our [Legal Request Submissions site](https://legalrequests.x.com/forms/landing_disclaimer)** (the quickest and most efficient method).
 
 Please include all of the following information:
 
-*   Indication on your cover sheet, which must be on law enforcement letterhead, that you're submitting an Emergency Disclosure Request;  
-    
+*   Indication on your cover sheet, which must be on law enforcement letterhead, that you're submitting an Emergency Disclosure Request;
 *   Identity of the person who is in danger of death or serious physical injury;
 *   The nature of the emergency (e.g., report of suicide, terrorist attack, bomb threat);
-*   X @username and URL (e.g., [https://x.com/Safety](https://twitter.com/Safety) (@Safety) of the subject account(s) whose information is necessary to prevent the emergency;
-*   Any [specific posts](https://help.x.com/en/using-twitter/tweet-and-moment-url) you would like us to review;
+*   \>x< @username and URL (e.g., [https://x.com/Safety](https://x.com/Safety) (@Safety) of the subject account(s) whose information is necessary to prevent the emergency;
+*   Any [specific posts](https://help.x.com/en/using-x/post-and-moment-url) you would like us to review;
 *   The specific information requested and why that information is necessary to prevent the emergency;
 *   The signature of the submitting law enforcement officer; and
 *   All other available details or context regarding the particular circumstances.
 
-### Mutual legal assistance treaties  
+### Mutual legal assistance treaties
 
-  
-X’s policy is to promptly respond to requests that are properly issued via mutual legal assistance treaty (“MLAT”) or letters rogatory, upon proper service of process. When submitting requests through an MLAT procedure, please make clear that the request is coming by way of MLAT and include the name of the originating country.
+\>x<’s policy is to promptly respond to requests that are properly issued via mutual legal assistance treaty (“MLAT”) or letters rogatory, upon proper service of process. When submitting requests through an MLAT procedure, please make clear that the request is coming by way of MLAT and include the name of the originating country.
 
-### Content removal requests  
+Content removal requests
+------------------------
 
-**  
-How to request a terms of service review**
+### How to request a terms of service review
 
-If you are a law enforcement agent or government official and have concerns about the content on X, please first review the [X Rules](https://help.x.com/en/rules-and-policies/twitter-rules) and, if applicable, submit a request to have the content reviewed for possible violations of our [Terms of Service](https://twitter.com/en/tos). An overview on [how to report potential violations](https://help.x.com/en/rules-and-policies/twitter-report-violation) of the [X Rules](https://help.x.com/en/rules-and-policies/twitter-rules) and [Terms of Service](https://twitter.com/en/tos) is available here. Reporting possible violations of our [Terms of Service](https://twitter.com/en/tos) will ensure that your request is routed to the appropriate team and processed expeditiously. We disclose this data every six months in the X Transparency Report.  
- 
+If you are a law enforcement agent or government official and have concerns about the content on \>x<, please first review the [\>x< Rules](https://help.x.com/en/rules-and-policies/x-rules) and, if applicable, submit a request to have the content reviewed for possible violations of our [Terms of Service](https://x.com/en/tos). An overview on [how to report potential violations](https://help.x.com/en/rules-and-policies/x-report-violation) of the [\>x< Rules](https://help.x.com/en/rules-and-policies/x-rules) and [Terms of Service](https://x.com/en/tos) is available here. Reporting possible violations of our [Terms of Service](https://x.com/en/tos) will ensure that your request is routed to the appropriate team and processed expeditiously. We disclose this data every six months in the \>x< Transparency Report.
 
-**How to submit a legal request to withhold content**
+### How to submit a legal request to withhold content
 
-If you have already submitted a request to have content reviewed for possible violations of our [Terms of Service](https://twitter.com/en/tos), and have received a response from X indicating that the reported content does not currently violate our Terms of Service, you can submit a valid and properly scoped legal request to ask for content to be withheld through our [Legal Request Submissions](https://legalrequests.twitter.com/forms/landing_disclaimer) site. This is the quickest and most efficient method for submitting a request to withhold content based on local law(s). Please do not submit a request to withhold content if you have not first reported it for a review of possible violations of our [Terms of Service](https://twitter.com/en/tos).
+If you have already submitted a request to have content reviewed for possible violations of our [Terms of Service](https://x.com/en/tos), and have received a response from \>x< indicating that the reported content does not currently violate our Terms of Service, you can submit a valid and properly scoped legal request to ask for content to be withheld through our [Legal Request Submissions](https://legalrequests.x.com/forms/landing_disclaimer) site. This is the quickest and most efficient method for submitting a request to withhold content based on local law(s). Please do not submit a request to withhold content if you have not first reported it for a review of possible violations of our [Terms of Service](https://x.com/en/tos).
 
 Along with identifying the specific post(s) or account(s) at issue, please identify the local law(s) that are deemed to have been violated by the reported content. If you have a court order or other relevant legal documentation, please attach a copy when submitting your request (see “File attachments” section). Please also provide any other potentially helpful context, which will assist in expediting the review of your request including any translations of legal documentation, if they aren’t in English. We also require an official government or law enforcement email address (e.g., name@agency.gov) so the appropriate team may get back in touch with you if necessary. We will process your request as soon as possible but please note that sending duplicates may delay our ability to process your request(s) efficiently.
 
-X will promptly notify affected users about legal requests to withhold content, including a copy of the original request, unless we are legally prohibited from doing so. If you believe X is prohibited from notifying the user, please state the reason in your request, including citations to relevant law (where applicable), and/or upload any documents supporting this prohibition in the "File attachments" section, if available.
+\>x< will promptly notify affected users about legal requests to withhold content, including a copy of the original request, unless we are legally prohibited from doing so. If you believe \>x< is prohibited from notifying the user, please state the reason in your request, including citations to relevant law (where applicable), and/or upload any documents supporting this prohibition in the "File attachments" section, if available.
 
-Government and law enforcement reporters may also request the withholding of content determined to be illegal in their jurisdiction by mailing a hard copy of your request to the contact information listed below. If you are based in the European Union or the European Economic Area, please mail your request to X Internet Unlimited Company in Ireland (see “Contact Information” section below). Requests submitted by mail should expect longer response times. 
+Government and law enforcement reporters may also request the withholding of content determined to be illegal in their jurisdiction by mailing a hard copy of your request to the contact information listed below. If you are based in the European Union or the European Economic Area, please mail your request to \>x< Internet Unlimited Company in Ireland (see “Contact Information” section below). Requests submitted by mail should expect longer response times.
 
-Find more information on our Country Withheld Content policy [here](https://help.x.com/en/rules-and-policies/tweet-withheld-by-country).
+Find more information on our Country Withheld Content policy [here](https://help.x.com/en/rules-and-policies/post-withheld-by-country).
 
-### Assisting an X user
+Assisting an \>x< user
+----------------------
 
-  
-Registered X users can obtain a download of their own account information, including posts posted to his or her X account. Directions on how a user can request that information are available in our [Help Center](https://help.x.com/en/managing-your-account/how-to-download-your-twitter-archive).
+Registered \>x< users can obtain a download of their own account information, including posts posted to his or her \>x< account. Directions on how a user can request that information are available in our [Help Center](https://help.x.com/en/managing-your-account/how-to-download-your-x-archive).
 
-Users may also obtain IP logs and other data directly via his or her X account, as explained in our [Help Center](https://help.x.com/en/managing-your-account/accessing-your-twitter-data). If a X user has attempted, unsuccessfully, to self-download the data they seek, please direct the user to send a request to X via our [privacy form](https://help.x.com/forms/privacy).  
- 
+Users may also obtain IP logs and other data directly via his or her \>x< account, as explained in our [Help Center](https://help.x.com/en/managing-your-account/accessing-your-x-data). If a \>x< user has attempted, unsuccessfully, to self-download the data they seek, please direct the user to send a request to \>x< via our [privacy form](https://help.x.com/forms/privacy).
 
-**Other issues**
+### Other issues
 
-Most issues can be resolved by having X account holders submit inquiries directly to us through our Help Center. More information on how to report violations is available [here](https://help.x.com/en/rules-and-policies/twitter-report-violation).  
- 
+Most issues can be resolved by having \>x< account holders submit inquiries directly to us through our Help Center. More information on how to report violations is available [here](https://help.x.com/en/rules-and-policies/x-report-violation).
 
-**General inquiries**
+### General inquiries
 
-General inquiries from law enforcement or government officials (not requesting user data or content removal) can be submitted through our [web form](https://support.twitter.com/forms/lawenforcement).
+General inquiries from law enforcement or government officials (not requesting user data or content removal) can be submitted through our [web form](https://support.x.com/forms/lawenforcement).
 
-### Where to submit requests
+Where to submit requests
+------------------------
 
-  
-All legal requests, including preservations, requests for account information (routine and emergency), and content removal requests may be submitted via X’s Legal Request Submissions site available at: t.co/lr or [legalrequests.x.com](https://legalrequests.twitter.com/forms/landing_disclaimer).
+All legal requests, including preservations, requests for account information (routine and emergency), and content removal requests may be submitted via \>x<’s Legal Request Submissions site available at: t.co/lr or [legalrequests.x.com](https://legalrequests.x.com/forms/landing_disclaimer).
 
-X’s Legal Request Submission site is the designated single point of contact for EU member States’ authorities as provided under Article 11 of Regulation (EU) 2022/2065 (Digital Services Act).
+\>x<’s Legal Request Submission site is the designated single point of contact for EU member States’ authorities as provided under Article 11 of Regulation (EU) 2022/2065 (Digital Services Act).
 
 All legal requests made under Articles 9 and 10 of the Digital Services Act must be provided in English.
 
-If you experience issues or are requesting access to our Legal Request Submissions site, you may ask for assistance through our [web form](https://support.twitter.com/forms/lawenforcement) by selecting “other inquiries” for the type of request.  
+If you experience issues or are requesting access to our Legal Request Submissions site, you may ask for assistance through our [web form](https://support.x.com/forms/lawenforcement) by selecting “other inquiries” for the type of request.
 
 Receipt of correspondence by this means does not waive any objections, including the lack of jurisdiction or proper service.
 
-**Non-law enforcement requests should be submitted through our Help Center.  
-**
+**Non-law enforcement requests should be submitted through our Help Center.**
 
-### Contact information  
+Contact information
+-------------------
 
-  
 Our address details are:
 
-**X Corp.  
+**\>x< Corp.  
 **Attn: Safety - Legal Policy  
 800 W Cesar Chavez St  
 Austin, TX 78701
 
-**X Internet Unlimited Company**  
+**\>x< Internet Unlimited Company**  
 One Cumberland Place,  
 Fenian Street,  
 Dublin 2,  
@@ -218,6 +232,6 @@ Ireland
 **Colorado SB 26-011 Law Enforcement Hotline:**  
 938-300-4347
 
-This hotline is exclusively for Colorado law enforcement personnel. Call the number to submit an inquiry. For security reasons, X will respond only by email to an authenticated law enforcement email address.
+This hotline is exclusively for Colorado law enforcement personnel. Call the number to submit an inquiry. For security reasons, \>x< will respond only by email to an authenticated law enforcement email address.
 
 Receipt of correspondence by any of these means is for convenience only and does not waive any objections, including the lack of jurisdiction or proper service. Governmental entities who do not submit legal requests through the Legal Request Submissions site should expect longer response times.
