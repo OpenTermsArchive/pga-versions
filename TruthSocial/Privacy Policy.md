@@ -15,7 +15,7 @@ The words of which the initial letter is capitalized have meanings defined under
 
 **CCPA**, means the California Consumer Privacy Act of 2018, Cal. Civ. Code §§ 1798.100–1798.199, as amended by the California Privacy Rights Act, and implementing Final Regulations from the California Privacy Protection Agency.
 
-**Company** (referred to as either “the Company,” “we,” “us” or “our” in this Policy) refers to Trump Media & Technology Corp. and its wholly-owned subsidiary T Media Tech, LLC (collectively, “TMTG”). Email: [\[email protected\]](https://help.truthsocial.com/cdn-cgi/l/email-protection). For the purpose of the GDPR, the Company is the Data Controller and Data Processor.
+**Company** (referred to as either “the Company,” “we,” “us” or “our” in this Policy) refers to Trump Media & Technology Corp. and its wholly-owned subsidiary T Media Tech, LLC (collectively, “TMTG”). Email: [legal@tmediatech.com](mailto:legal@tmediatech.com). For the purpose of the GDPR, the Company is the Data Controller and Data Processor.
 
 **Consumer**, means a resident of a particular jurisdiction with applicable data protection laws.
 
@@ -306,7 +306,7 @@ We do not provide these access and data portability rights for business-to-busin
 *   Providing a different level or quality of goods or services to Consumers.
 *   Suggesting that Consumers will receive a different price or rate for goods or services or a different level or quality of goods or service.
 
-**g) Exercising Consumer CCPA Data Protection Rights** In order to exercise any of Consumer rights under the CCPA, a California resident can contact us: By email: [\[email protected\]](https://help.truthsocial.com/cdn-cgi/l/email-protection)
+**g) Exercising Consumer CCPA Data Protection Rights** In order to exercise any of Consumer rights under the CCPA, a California resident can contact us: By email: [support@truthsocial.com](mailto:support@truthsocial.com)
 
 Only a Consumer, or a person registered with the California Secretary of State that a Consumer authorizes to act on his or her behalf, may make a verifiable request related to a Consumer’s Personal Information. A Consumer’s request to us must:
 
@@ -350,4 +350,4 @@ Any complaints or disputes as to collection or use of Personal Information or Pe
 Q. Contact Us
 =============
 
-If you have any questions about this Privacy Policy, our privacy practices or how we collect or process your personal data, please contact us - Attn: User Support at [\[email protected\]](https://help.truthsocial.com/cdn-cgi/l/email-protection)
+If you have any questions about this Privacy Policy, our privacy practices or how we collect or process your personal data, please contact us - Attn: User Support at [legal@tmediatech.com](mailto:legal@tmediatech.com)
