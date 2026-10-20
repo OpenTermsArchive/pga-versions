@@ -644,28 +644,25 @@ Safety and Privacy Centre
 Understanding recommendations on Spotify
 ========================================
 
-Last updated: 12 March 2026
+Last updated: 20 October 2026
 
 How do Spotify recommendations work?
 ------------------------------------
 
-At Spotify, we aim to create great and unique experiences for each user. Our goal is to connect everyone with what they love and help them discover something new. No two listeners are the same, so everyone’s Spotify experience, and many of our recommendations, is personalised. When asked what they like about Spotify, most listeners cite our personalisation as their top feature. You might wonder how we generate these recommendations across the Home feed, playlists, search results or other parts of the service, and we want to help demystify how they work.
+No two listeners are the same, so we personalise much of what you hear and see on Spotify. Our goal is simple: connect you with what you love and help you discover something new. This page explains how we make recommendations across Home, playlists, Search and the rest of the app.
 
 At Spotify, people and technology work together to deliver relevant recommendations. Some recommendations are based on editorial curation, like a pop playlist created by music editors. Other recommendations are tailored to each listener’s unique taste, like a personalised playlist powered by our expert-designed algorithms.
 
-We believe recommendations shouldn’t just optimise for the next click, but evolve with your taste. We have dedicated teams in place making sure your recommendations enable real engagement and cultivate meaningful connections. We’re always working on improving our recommendation systems to make sure we’re showing you relevant and enjoyable content.
+Spotify’s editors pair data insights with deep content knowledge and cultural expertise to programme content that will resonate with fans around the world. Curation decisions are made with the audience in mind, with the goal of creating the best listener experiences. Editors make these decisions independently, guided by their knowledge of local culture and a close understanding of users in their region.
 
-Editorial curation
-------------------
-
-Editors at Spotify use data insights, sharp ears and an understanding of cultural trends to place content where it’s likely to resonate most with fans around the world. They employ thoughtful curation to recommend content on Spotify, like in editorial playlists. Around the world, editors at Spotify have extensive knowledge about local music and culture, which allows them to make their programming decisions with the best listener experiences in mind.
+Your taste changes over time, and your recommendations should change with it. Dedicated teams work to connect you with the music, podcasts, audiobooks and videos you love, and with what you might want next. We improve these systems continuously.
 
 Personalised recommendations
 ----------------------------
 
-Spotify offers algorithmic recommendations that are relevant, unique and specific to each user. Our algorithms select and order content across each listener’s Spotify experience, including in Search, Home and in personalised playlists.
+Spotify offers recommendations that are relevant, unique and specific to each user. Our algorithms select and order content across each listener’s Spotify experience, including in Search, Home and in personalised playlists.
 
-To make these recommendations, our algorithms rely on a number of inputs. The importance of these inputs may vary over time, depending on your individual use of Spotify. We believe that your taste profile is the most important input for creating the best overall user experience. Below, you’ll find more details on the most significant inputs and how they work.
+To make these recommendations, our systems rely on a number of inputs. The importance of these inputs may vary over time, depending on your individual use of Spotify. We believe that your taste profile is the most important input for creating the best overall user experience. Below, you’ll find more details on the most significant inputs and how they work.
 
 ### Your “taste profile”
 
@@ -678,11 +675,12 @@ As you engage with Spotify, actions such as searching, listening, skipping or sa
 
 ### Information we learn about you
 
-Recommendations are also based on information you share with Spotify, like your general (non-precise) location, your device, your language, your age and who you follow. This gives our algorithms signals about what topics you’re interested in or which artists you want to keep up to date with.
+Recommendations are also based on information you give us, like your age and who you follow, and information we receive when you use Spotify, like your device, your language and your location (precise location only if you opt in). This gives our algorithms signals about what topics you’re interested in or which artists you want to keep up to date with.
 
 *   Example: If you follow a certain podcast, we might recommend an episode from that podcast.
 *   Example: If you choose German as your language on Spotify, we might recommend German-speaking podcasts.
 *   Example: If you listen to classical music while using the Spotify Desktop client, we might recommend similar music on your desktop Home page.
+*   Example: If you opt in to precise location sharing, we can show you songs that are trending near you.
 
 ### Trends
 
@@ -692,7 +690,7 @@ Our algorithms consider trends and the general tastes and behaviours of users to
 
 ### Information about the content
 
-Our algorithms take into account the characteristics of the content itself, such as its genre, release date, podcast category, etc. This allows us to identify which content has similar characteristics and might be enjoyed by similar listeners.
+Our systems consider characteristics of the content itself, such as genre, release date, podcast category and signals about whether it may be AI-generated. This helps us find content that listeners might enjoy. It also helps us keep content that disrupts your listening out of your recommendations, such as spam or slop tracks.
 
 *   Example: If you listen to a lot of pop music, we might recommend other pop songs that are similar.
 *   Example: If you listen to a lot of crime audiobooks, we might recommend other crime audiobooks.
@@ -701,27 +699,30 @@ Our algorithms take into account the characteristics of the content itself, such
 
 ### Listener safety
 
-As a platform, we evaluate the impact that we have on creators, listeners and communities. Spotify works to ensure that appropriate safety measures and processes are in place, including measures to prevent exposure to harmful content. We take [algorithmic responsibility](https://research.atspotify.com/algorithmic-responsibility/) seriously and collaborate between policy, product and research teams, as well as consult with external experts such as the [Spotify Safety Advisory Council](https://newsroom.spotify.com/2022-06-13/introducing-the-spotify-safety-advisory-council/).
+We take our responsibility for how our recommendations affect creators, listeners and communities seriously. Our policy, product and research teams work together to reduce exposure to harmful content, and we consult outside experts, including the [Spotify Safety Advisory Council](https://newsroom.spotify.com/2022-06-13/introducing-the-spotify-safety-advisory-council/).
 
 Spotify’s [Platform Rules](https://www.spotify.com/safetyandprivacy/platform-rules/) apply to all content on the platform, including recommended content. These rules were developed by internal teams with input from a wide range of outside experts. When we become aware of potentially violating content, that content is reviewed against our policies and the appropriate [action](https://www.spotify.com/safetyandprivacy/content-actions/) will be taken. These actions include, for example, restricting the violating content from being recommended.
 
 How can you influence what your recommendations are based on?
 -------------------------------------------------------------
 
-Your recommendations are constantly influenced by your engagement with content on Spotify. The more you listen to content you like and the more you interact with the app, the more we think you’ll enjoy your recommendations.
+Your recommendations are continuously influenced by your engagement with content on Spotify. The more you listen to content you like and the more you interact with the app, the more we think you’ll enjoy your recommendations.
 
 We also offer ways for you to influence and give feedback on what shows up in your recommendations and see less of something specific. Some examples are listed below (availability depends on your country and subscription plan):
 
-*   **Exclude from taste profile:** When you [exclude a playlist or a track](https://support.spotify.com/us/article/your-taste-profile/) from your taste profile, that playlist or track will have less influence on your future recommendations.
-*   **Giving feedback on recommendations:** When you tap \[not interested/thumbs down/X\] for a recommendation on Spotify, you’ll be given fewer recommendations that are similar to it.
-*   **Steer your listening:** You can [ask DJ](https://newsroom.spotify.com/2025-05-13/dj-voice-requests/) for a recommendation, pick [genres for Discover Weekly](https://newsroom.spotify.com/2025-06-30/discover-weekly-turns-10-celebrating-100-billion-tracks-streamed-and-a-decade-of-personalized-discovery/), genre mixes, mood mixes and decade mixes, or chat with our AI Playlist builder to guide the vibe of your session.
+*   **Exclude from taste profile:** When you exclude content from your taste profile, it will have less influence on your future recommendations. You can exclude [tracks, playlists](https://support.spotify.com/article/exclude-playlists-or-tracks-from-your-taste-profile/?ref=related) or [children and family music](https://support.spotify.com/article/kids-and-family-music/).
+*   **Add notes to your Taste Profile (Beta):** Where [Taste Profile](https://support.spotify.com/article/your-taste-profile/) (Beta) is available, you can read a snapshot of what we've understood about your listening. You can add notes to shape it so your Home recommendations better reflect what you want to hear.
+*   **Give feedback on recommendations:** When you tap \[not interested/thumbs down/hide\] for a recommendation on Spotify, you’ll be given fewer recommendations that are similar to it.
+*   **Steer your listening:** You can [ask DJ](https://newsroom.spotify.com/2025-05-13/dj-voice-requests/) for a recommendation or chat with Spotify to guide your session. On some personalised playlists you can use on-playlist controls to choose a genre, ask for more discovery or remove personalisation.
 *   **Choose your shuffle mode:** Shuffle controls how your music is mixed during playback.
-    *   **Default shuffle:** Playback that randomises tracks while remembering recent plays, making songs you just heard less likely to repeat.
     *   **Smart Shuffle:** Get recommended tracks added to your listening session. Premium users can manage feature availability from their Settings.
+    *   **Fewer Repeats:** Playback that randomises tracks while remembering recent plays, making songs you just heard less likely to repeat.
     *   **Standard shuffle:** Completely random playback with no repeat-reduction logic. Choose this in your settings.
 *   **Hide or snooze:** Tap the [hide button](https://newsroom.spotify.com/2025-09-05/new-user-controls-personalize-listening/) for a single track and it will be hidden from that playlist across all devices, so we won’t play it again in that playlist. If you’re a Premium user, after you hide a track you can also choose to snooze it, and it won’t be suggested anywhere on Spotify for 30 days.
 *   **Turn off Autoplay:** If you want to stop getting additional recommendations when you reach the end of your playlist or album, you can turn off autoplay in your settings.
-*   **Explicit content filter:** When you turn off [explicit content](https://support.spotify.com/article/explicit-content/), anything with an explicit tag will be greyed out and you won’t be able to play it.
+*   **Content and video filters**: When you turn off [explicit content](https://support.spotify.com/article/explicit-content/), anything with an explicit tag will be greyed out and you won’t be able to play it. You can also [choose which video formats](https://support.spotify.com/article/video-settings/) (music video, canvas, other videos) you see on Spotify.
+*   **Following Feeds:** On your Home Music and Podcast subfeeds, you can filter to only see content from creators you follow.
+*   **Managed Accounts:** For users under 13 years old, we offer parental controls for explicit content, videos, specific artists or songs and more through [managed accounts](https://support.spotify.com/article/managed-accounts/).
 
 In some cases, you can also organise and filter your recommendations based on what you most want to see. For example, you can filter your Home page to only see podcasts, or only see music.
 
