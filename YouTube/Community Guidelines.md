@@ -1,9 +1,6 @@
-Our Policies
-
-
-
-
-==================
+*   [How our guidelines work](#section-how-community-ad-friendly-guidelines-work)
+*   [How we support creators](#section-how-we-support-creators)
+*   [Combating abuse](#section-the-output-of-thriving-ecosystem-of)
 
 - - -
 
