@@ -644,7 +644,7 @@ Safety and Privacy Centre
 Understanding recommendations on Spotify
 ========================================
 
-Last updated: 20 October 2026
+Last updated: 23 October 2026
 
 How do Spotify recommendations work?
 ------------------------------------
@@ -722,7 +722,7 @@ We also offer ways for you to influence and give feedback on what shows up in yo
 *   **Turn off Autoplay:** If you want to stop getting additional recommendations when you reach the end of your playlist or album, you can turn off autoplay in your settings.
 *   **Content and video filters**: When you turn off [explicit content](https://support.spotify.com/article/explicit-content/), anything with an explicit tag will be greyed out and you won’t be able to play it. You can also [choose which video formats](https://support.spotify.com/article/video-settings/) (music video, canvas, other videos) you see on Spotify.
 *   **Following Feeds:** On your Home Music and Podcast subfeeds, you can filter to only see content from creators you follow.
-*   **Managed Accounts:** For users under 13 years old, we offer parental controls for explicit content, videos, specific artists or songs and more through [managed accounts](https://support.spotify.com/article/managed-accounts/).
+*   **Managed accounts:** For listeners under 13 years old (or local equivalent), we offer parental controls for explicit content, videos, specific artists or songs and more through [managed accounts](https://support.spotify.com/article/managed-accounts/).
 
 In some cases, you can also organise and filter your recommendations based on what you most want to see. For example, you can filter your Home page to only see podcasts, or only see music.
 
