@@ -99,13 +99,12 @@ How can I report potential violations of this policy?
 
 To report content that potentially violates this policy, you can use the [report button](https://support.reddithelp.com/hc/articles/360058309512-How-do-I-report-a-post-or-comment) next to the content you’d like to report in the app or on [reddit.com](https://www.reddit.com/).
 
-To find out more about Reddit's enforcement philosophy, please click [here](https://support.reddithelp.com/hc/articles/23511059871252-Content-Moderation-Enforcement-and-Appeals). You can also learn about our policy enforcement data in the latest [Reddit Transparency Report](https://www.redditinc.com/policies/transparency).
+For more information, please visit Reddit's [enforcement philosophy](https://support.reddithelp.com/hc/articles/23511059871252-Content-Moderation-Enforcement-and-Appeals). You can also learn about our policy enforcement data in the latest [Reddit Transparency Report](https://redditinc.com/transparency).
 
 - - -
 
 **Remember the human and do not threaten, encourage, or glorify violence on Reddit.**
 
-  
 This policy focuses on credible risks of real-world harm (including to oneself) or speech that genuinely makes others feel unsafe, while maintaining space for legitimate discussions in various contexts. We understand there are sometimes reasons to post violent content (e.g., educational, newsworthy, artistic, satire, documentary, etc.) so if you’re going to post something violent in nature that does not violate these terms, ensure you provide context to the viewer so the reason for posting is clear.   
  
 
@@ -149,15 +148,14 @@ How can I report potential violations of this policy?
 
 To report content that potentially violates this policy, you can use the [report button](https://support.reddithelp.com/hc/articles/360058309512-How-do-I-report-a-post-or-comment) next to the content you’d like to report in the app or on [reddit.com](https://www.reddit.com/).
 
-To find out more about Reddit's enforcement philosophy, please click [here](https://support.reddithelp.com/hc/articles/23511059871252-Content-Moderation-Enforcement-and-Appeals). You can also learn about our policy enforcement data in the latest [Reddit Transparency Report.](https://www.redditinc.com/policies/transparency)
+For more information, please visit Reddit's [enforcement philosophy](https://support.reddithelp.com/hc/articles/23511059871252-Content-Moderation-Enforcement-and-Appeals). You can also learn about our policy enforcement data in the latest [Reddit Transparency Report](https://redditinc.com/transparency).
 
 - - -
 
 **Do not attack, incite harm, or discriminate against any individual or group based on their identity or vulnerability.**
 
-  
 Who is covered?
-------------------
+---------------
 
 Individuals and groups marginalized or attacked on the basis of the following factors, or any other actual or perceived attributes used to reinforce existing inequality or promote exclusion:
 
@@ -217,7 +215,7 @@ How can I report potential violations of this policy? 
 
 To report content that potentially violates this policy, you can use the [report button](https://support.reddithelp.com/hc/articles/360058309512-How-do-I-report-a-post-or-comment) next to the content you’d like to report in the app or on [reddit.com](https://www.reddit.com/).
 
-To find out more about Reddit's enforcement philosophy, please click [here](https://support.reddithelp.com/hc/articles/23511059871252-Content-Moderation-Enforcement-and-Appeals). You can also learn about our policy enforcement data in the latest [Reddit Transparency Report](https://redditinc.com/policies/transparency).
+For more information, please visit Reddit's [enforcement philosophy](https://support.reddithelp.com/hc/articles/23511059871252-Content-Moderation-Enforcement-and-Appeals). You can also learn about our policy enforcement data in the latest [Reddit Transparency Report](https://redditinc.com/transparency).
 
 - - -
 
@@ -256,7 +254,7 @@ How do I avoid being labeled as a spammer?
 How can I report potential spam/spammers? 
 ------------------------------------------
 
-To report potential spam, please use the [report button](https://support.reddithelp.com/hc/articles/360058309512-How-do-I-report-a-post-or-comment) next to the content you’d like to report in the app or on Reddit.com.
+To report potential spam, please use the [report button](https://support.reddithelp.com/hc/articles/360058309512-How-do-I-report-a-post-or-comment) next to the content you’d like to report in the app or on [reddit.com](https://www.reddit.com/).
 
 For more information, please visit Reddit's [enforcement philosophy](https://support.reddithelp.com/hc/articles/23511059871252-Content-Moderation-Enforcement-and-Appeals). You can also learn about our policy enforcement data in the latest [Reddit Transparency Report](https://redditinc.com/transparency).
 
