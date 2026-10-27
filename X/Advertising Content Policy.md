@@ -1891,6 +1891,7 @@ Advertisements for licensed over-the-counter (“OTC”) medications are permitt
 ### Thailand
 
 *   Cosmetic procedures are permitted.
+*   Promotion of certain medical devices are permitted if the advertiser holds the necessary Thai FDA licenses.
 
 ### Tunisia
 
