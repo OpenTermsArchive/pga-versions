@@ -198,6 +198,8 @@ If you find content that violates this policy, [report it using these instructio
 
 This policy applies to all types of content on YouTube, including unlisted and private content, comments, links, posts and thumbnails, and coordinated networks of channels.
 
+Creators should disclose when content is generated or meaningfully altered with AI, but this disclosure is not a free pass to violate our policies. Remember, we apply our Community Guidelines to all content on YouTube, including content that is AI generated or altered using AI.
+
 What this policy means for you
 ------------------------------
 
@@ -365,6 +367,8 @@ This policy applies to videos, video descriptions, comments, posts, live streams
 
 Please note these policies also apply to [external links](https://support.google.com/youtube/answer/9054257) in your content. This can include clickable URLs, verbally directing users to other sites in video, as well as other forms.
 
+Creators should disclose when content is generated or meaningfully altered with AI, but this disclosure is not a free pass to violate our policies. Remember, we apply our Community Guidelines to all content on YouTube, including content that is AI generated or altered using AI.
+
 Age-restricted content
 
 We may add an age restriction to content that includes any of the following.
@@ -526,6 +530,8 @@ Don’t post content on YouTube if it shows:
 *   The depiction of clothed or unclothed genitals, breasts, or buttocks that are meant for sexual gratification.
 *   Pornography, the depiction of sexual acts, or fetishes that are meant for sexual gratification.
 
+Creators should disclose when content is generated or meaningfully altered with AI, but this disclosure is not a free pass to violate our policies. Remember, we apply our Community Guidelines to all content on YouTube, including content that is AI generated or altered using AI.
+
 Other types of content that violate this policy
 -----------------------------------------------
 
@@ -616,6 +622,8 @@ At YouTube, we take the health and well-being of all our creators and viewers se
 
 However, we do not allow content on YouTube that promotes suicide, self-harm, or eating disorders, that is intended to shock or disgust, or that poses a considerable risk to viewers. In some cases, we may make exceptions for content with [educational, documentary, scientific, or artistic context](https://support.google.com/youtube/answer/6345162), including content that is in the public’s interest.
 
+Creators should disclose when content is generated or meaningfully altered with AI, but this disclosure is not a free pass to violate our policies. Remember, we apply our Community Guidelines to all content on YouTube, including content that is AI generated or altered using AI.
+
 What to do if you find this content
 -----------------------------------
 
@@ -675,7 +683,7 @@ The websites [findahelpline.com](http://www.findahelpline.com/) and [www.wikiped
 | Taiwan | [生命線協談專線](http://www.life1995.org.tw/) | 1995 |
 | Thailand | [กรมสุขภาพจิต กระทรวงสาธารณสุข](https://www.dmh.go.th/service/view.asp?id=147) | 1323 |
 | United Kingdom | [Samaritans](https://www.samaritans.org/) | 116 123 |
-| United States of America | [Suicide & Crisis Lifeline](http://www.suicidepreventionlifeline.org./) | 988 /[Chat](https://988lifeline.org/chat/) |
+| United States of America | [Suicide & Crisis Lifeline](https://988lifeline.org/) | 988 /[Chat](https://988lifeline.org/chat/) |
 
 To read tips and watch videos that can help you feel safer on YouTube, visit the [Creator Safety Center](https://www.youtube.com/creators/safety).
 
@@ -811,6 +819,8 @@ This policy applies to videos, video descriptions, comments, live streams, audio
 
 We may allow vulgar language when the primary purpose is educational, documentary, scientific, or artistic, and it isn’t gratuitous. For example, the title of a song with a curse word or a song that contains large amounts of profanity. We may also make exceptions for content that is in the public’s interest, such as congressional or parliamentary proceedings, campaign speeches, or debates over ongoing government actions. This is not a pass to promote vulgar language. Remember that giving context in the content, title, and description will help us and your viewers determine the primary purpose of the video.
 
+Creators should disclose when content is generated or meaningfully altered with AI, but this disclosure is not a free pass to violate our policies. Remember, we apply our Community Guidelines to all content on YouTube, including content that is AI generated or altered using AI.
+
 What happens if content violates this policy
 --------------------------------------------
 
@@ -834,6 +844,8 @@ We don’t allow content that targets someone with prolonged insults or slurs ba
 We also don’t allow other harmful behaviors, like threats or doxxing. Keep in mind that we take a stricter approach on content that targets minors. For example, we don’t allow sharing a minor’s school name or school ID for malicious purposes. Third parties should not share someone else’s personal contact information, such as email, phone number, home address, or a minor’s social media handle or private messaging details. We also don't allow minors to share their own contact information. We may make exceptions for extracurricular activities for the purposes of school recruitment or applications, such as college sports.
 
 In some cases, we may make exceptions for content with [educational, documentary, scientific, or artistic context](https://support.google.com/youtube/answer/6345162), including content that is in the public’s interest.
+
+Creators should disclose when content is generated or meaningfully altered with AI, but this disclosure is not a free pass to violate our policies. Remember, we apply our Community Guidelines to all content on YouTube, including content that is AI generated or altered using AI.
 
 If you find content that violates this policy, report it. Instructions for reporting violations of our Community Guidelines [are available here](https://support.google.com/youtube/answer/2802027). If you find many videos or comments that you would like to report, you can [report the channel](https://support.google.com/youtube/answer/2802027#report_channel). For tips about how to stay safe, keep your account secure, and protect your privacy, check out the [Creator Safety Center](https://www.youtube.com/creators/safety/) and [Stay safe on YouTube](https://support.google.com/youtube/answer/9563682).
 
@@ -982,6 +994,8 @@ This content isn't allowed on YouTube:
 
 *   For more info, review our [Illegal or regulated goods or services policy](https://support.google.com/youtube/answer/9229611).
     
+
+Creators should disclose when content is generated or meaningfully altered with AI, but this disclosure is not a free pass to violate our policies. Remember, we apply our Community Guidelines to all content on YouTube, including content that is AI generated or altered using AI.
 
 Examples of harmful or dangerous content
 ----------------------------------------
@@ -1161,6 +1175,8 @@ This policy applies to videos, video descriptions, comments, live streams, and a
 
 For educational, documentary, scientific, or artistic content that includes hate speech, this context must appear in the images or audio of the video itself. Providing it in the title or description is insufficient.
 
+Creators should disclose when content is generated or meaningfully altered with AI, but this disclosure is not a free pass to violate our policies. Remember, we apply our Community Guidelines to all content on YouTube, including content that is AI generated or altered using AI.
+
 Monetization and other penalties
 --------------------------------
 
@@ -1252,6 +1268,8 @@ YouTube relies on many factors, including government and international organizat
 If posting content related to terrorism or crime for an educational, documentary, scientific, or artistic purpose, be mindful to provide enough information in the video or audio itself so viewers understand the context. Graphic or controversial footage with sufficient context may be subject to age-restrictions or a warning screen. We may also make exceptions for content that is in the public’s interest, such as congressional or parliamentary proceedings, campaign speeches, or debates over ongoing government actions. This is not a pass to praise, promote, or aid violent extremist or criminal organizations.
 
 This policy applies to videos, video descriptions, comments, live streams, and any other YouTube product or feature. Keep in mind that this isn't a complete list. Please note these policies also apply to [external links](https://support.google.com/youtube/answer/9054257) in your content. This can include clickable URLs, verbally directing users to other sites in video, as well as other forms.
+
+Creators should disclose when content is generated or meaningfully altered with AI, but this disclosure is not a free pass to violate our policies. Remember, we apply our Community Guidelines to all content on YouTube, including content that is AI generated or altered using AI.
 
 Examples
 --------
@@ -1419,6 +1437,8 @@ Content intended to sell firearms, instruct viewers on how to make firearms, amm
 
 Sometimes content doesn't violate our policies, but it may not be appropriate for viewers under 18. YouTube age restricts content showing the use of certain firearms and accessories also noted below (note: this restriction applies to real use of firearms only; details are below). In some cases, we may make exceptions for content with [educational, documentary, scientific, or artistic context](https://support.google.com/youtube/answer/6345162), including content that is in the public’s interest.
 
+Creators should disclose when content is generated or meaningfully altered with AI, but this disclosure is not a free pass to violate our policies. Remember, we apply our Community Guidelines to all content on YouTube, including content that is AI generated or altered using AI.
+
 What this means for you
 -----------------------
 
@@ -1541,6 +1561,8 @@ Additionally, the following content isn’t allowed on YouTube:
 
 This policy applies to videos, video descriptions, comments, live streams, and any other YouTube product or feature. Keep in mind that this isn't a complete list. Please note these policies also apply to [external links](https://support.google.com/youtube/answer/9054257) in your content. This can include clickable URLs, verbally directing users to other sites in video, as well as other forms.
 
+Creators should disclose when content is generated or meaningfully altered with AI, but this disclosure is not a free pass to violate our policies. Remember, we apply our Community Guidelines to all content on YouTube, including content that is AI generated or altered using AI.
+
 Examples
 --------
 
@@ -1644,6 +1666,8 @@ Don’t post content on YouTube if it fits any of the descriptions below.
 *   **Manipulated content:** Content that has been technically manipulated or doctored in a way that misleads users (usually beyond clips taken out of context) and may pose a serious risk of egregious harm.
 *   **Misattributed content:** Content that may pose a serious risk of egregious harm by falsely claiming that old footage from a past event is from a current event.
 
+Creators should disclose when content is generated or meaningfully altered with AI, but this disclosure is not a free pass to violate our policies. Remember, we apply our Community Guidelines to all content on YouTube, including content that is AI generated or altered using AI.
+
 Examples
 --------
 
@@ -1708,6 +1732,8 @@ These policies prohibit certain types of content relating to free and fair democ
 *   **Incitement to interfere with democratic processes:** Content encouraging others to interfere with democratic processes. This includes obstructing or interrupting voting procedures.
 
 Keep in mind that this isn't a complete list.
+
+Creators should disclose when content is generated or meaningfully altered with AI, but this disclosure is not a free pass to violate our policies. Remember, we apply our Community Guidelines to all content on YouTube, including content that is AI generated or altered using AI.
 
 Examples
 --------
@@ -1775,8 +1801,8 @@ YouTube doesn't allow content that poses a serious risk of egregious harm by spr
 
 **Note:** YouTube’s medical misinformation policies are subject to change in response to changes to guidance from health authorities. There may be a delay between new guidance and policy updates, and our policies may not cover all LHA guidance related to specific health conditions and substances.
 
-**What this policy means for you**
-----------------------------------
+What this policy means for you
+------------------------------
 
 **Don’t post content on YouTube if it includes any of the following:**
 
@@ -1786,12 +1812,14 @@ YouTube doesn't allow content that poses a serious risk of egregious harm by spr
 
 These policies apply to videos, video descriptions, comments, live streams, and any other YouTube product or feature. Keep in mind that this isn't a complete list. Please note these policies also apply to [external links](https://support.google.com/youtube/answer/9054257) in your content. This can include clickable URLs, verbally directing users to other sites in video, as well as other forms.
 
-**Examples**
-------------
+Creators should disclose when content is generated or meaningfully altered with AI, but this disclosure is not a free pass to violate our policies. Remember, we apply our Community Guidelines to all content on YouTube, including content that is AI generated or altered using AI.
+
+Examples
+--------
 
 Here are some examples of content that’s not allowed on YouTube. This isn't a complete list.
 
-#### **Prevention misinformation**
+#### Prevention misinformation
 
 Harmful substances & practices as prevention methods
 
@@ -1853,7 +1881,7 @@ Transmission information
 
 *   Content that promotes transmission information that contradicts local health authorities.
 
-#### **Treatment misinformation**
+#### Treatment misinformation
 
 Harmful substances & practices as treatment methods
 ---------------------------------------------------
@@ -1897,15 +1925,15 @@ Harmful alternative methods & discouragement of professional treatment
 *   Promotion of alternative abortion methods in place of chemical or surgical methods deemed safe by health authorities.
 *   Promotion of alternative formulas for infants in place of breast milk or commercial formula.
 
-**Educational, documentary, scientific or artistic content**
-------------------------------------------------------------
+Educational, documentary, scientific or artistic content
+--------------------------------------------------------
 
 We may allow content that violates the misinformation policies noted on this page if that content includes additional context in the video, audio, title, or description. We may also make exceptions for content that is in the public’s interest, such as congressional or parliamentary proceedings, campaign speeches, or debates over ongoing government actions. This is not a pass to promote misinformation. Additional context may include countervailing views from local health authorities or medical experts. We may also make exceptions if the purpose of the content is to condemn, dispute, or satirize misinformation that violates our policies. We may also make exceptions for content discussing the results of a specific medical study, or showing an open public forum, like a protest or public hearing, provided the content does not aim to promote misinformation that violates our policies.
 
 YouTube also believes people should be able to share their own experiences, including personal experiences with vaccinations, for example. This means we may make exceptions for content in which creators describe firsthand experiences from themselves or their family. At the same time, we recognize there is a difference between sharing personal experiences and promoting misinformation. To address this balance, we will still remove content or channels if they include other policy violations or demonstrate a pattern of promoting medical misinformation.
 
-**What happens if content violates this policy**
-------------------------------------------------
+What happens if content violates this policy
+--------------------------------------------
 
 If your content violates this policy, we’ll remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
 
@@ -1927,8 +1955,8 @@ YouTube doesn't allow content that poses a serious risk of egregious harm by spr
 
 **Note:** YouTube’s medical misinformation policies are subject to change in response to changes to guidance from health authorities. There may be a delay between new guidance and policy updates, and our policies may not cover all LHA guidance related to specific health conditions and substances.
 
-**What this policy means for you**
-----------------------------------
+What this policy means for you
+------------------------------
 
 **Don’t post content on YouTube if it includes any of the following:**
 
@@ -1938,12 +1966,14 @@ YouTube doesn't allow content that poses a serious risk of egregious harm by spr
 
 These policies apply to videos, video descriptions, comments, live streams, and any other YouTube product or feature. Keep in mind that this isn't a complete list. Please note these policies also apply to [external links](https://support.google.com/youtube/answer/9054257) in your content. This can include clickable URLs, verbally directing users to other sites in video, as well as other forms.
 
-**Examples**
-------------
+Creators should disclose when content is generated or meaningfully altered with AI, but this disclosure is not a free pass to violate our policies. Remember, we apply our Community Guidelines to all content on YouTube, including content that is AI generated or altered using AI.
+
+Examples
+--------
 
 Here are some examples of content that’s not allowed on YouTube. This isn't a complete list.
 
-#### **Prevention misinformation**
+#### Prevention misinformation
 
 Harmful substances & practices as prevention methods
 
@@ -2005,7 +2035,7 @@ Transmission information
 
 *   Content that promotes transmission information that contradicts local health authorities.
 
-#### **Treatment misinformation**
+#### Treatment misinformation
 
 Harmful substances & practices as treatment methods
 ---------------------------------------------------
@@ -2049,15 +2079,15 @@ Harmful alternative methods & discouragement of professional treatment
 *   Promotion of alternative abortion methods in place of chemical or surgical methods deemed safe by health authorities.
 *   Promotion of alternative formulas for infants in place of breast milk or commercial formula.
 
-**Educational, documentary, scientific or artistic content**
-------------------------------------------------------------
+Educational, documentary, scientific or artistic content
+--------------------------------------------------------
 
 We may allow content that violates the misinformation policies noted on this page if that content includes additional context in the video, audio, title, or description. We may also make exceptions for content that is in the public’s interest, such as congressional or parliamentary proceedings, campaign speeches, or debates over ongoing government actions. This is not a pass to promote misinformation. Additional context may include countervailing views from local health authorities or medical experts. We may also make exceptions if the purpose of the content is to condemn, dispute, or satirize misinformation that violates our policies. We may also make exceptions for content discussing the results of a specific medical study, or showing an open public forum, like a protest or public hearing, provided the content does not aim to promote misinformation that violates our policies.
 
 YouTube also believes people should be able to share their own experiences, including personal experiences with vaccinations, for example. This means we may make exceptions for content in which creators describe firsthand experiences from themselves or their family. At the same time, we recognize there is a difference between sharing personal experiences and promoting misinformation. To address this balance, we will still remove content or channels if they include other policy violations or demonstrate a pattern of promoting medical misinformation.
 
-**What happens if content violates this policy**
-------------------------------------------------
+What happens if content violates this policy
+--------------------------------------------
 
 If your content violates this policy, we’ll remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
 
