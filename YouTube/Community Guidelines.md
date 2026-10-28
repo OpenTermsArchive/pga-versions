@@ -1352,6 +1352,8 @@ Please note that this is not a complete list.
 
 Keep in mind that this policy also applies to videos, video descriptions, thumbnails, comments, live streams, and any other YouTube product or feature. Please note these policies also apply to [external links](https://support.google.com/youtube/answer/9054257) in your content. This can include clickable URLs, verbally directing users to other sites in video, as well as other forms.
 
+Creators should disclose when content is generated or meaningfully altered with AI, but this disclosure is not a free pass to violate our policies. Remember, we apply our Community Guidelines to all content on YouTube, including content that is AI generated or altered using AI.
+
 Educational content
 
 We may allow the kinds of violent or graphic content noted above in some cases in educational, documentary, scientific, or artistic content. This is not a pass to upload content meant to shock or disgust, or encourage others to commit violent acts, and we may not make these exceptions for certain kinds of content, like footage of violent physical sexual assault. For educational content containing the kinds of violent or graphic content noted above, this context must appear in the images or audio of the video itself. Providing it in the title or description is insufficient.
