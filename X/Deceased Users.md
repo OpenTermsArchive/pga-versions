@@ -1,7 +1,7 @@
 How to contact \>x< about a deceased family member's account
 ============================================================
 
-If a loved one passes away, an authorized family member or estate representative can request to have their >x< account deactivated. This article explains the process for account removal and important information about account access.
+If a loved one passes away, an authorized family member or estate representative can request to have their \>x< account deactivated. This article explains the process for account removal and important information about account access.
 
 Deceased User
 -------------
