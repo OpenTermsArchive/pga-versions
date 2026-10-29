@@ -1,7 +1,7 @@
 Guidelines for law enforcement
 ==============================
 
-These guidelines help law enforcement authorities request user information from >x<. Understand what we can provide, what legal processes apply, and how to submit a request.
+These guidelines help law enforcement authorities request user information from \>x<. Understand what we can provide, what legal processes apply, and how to submit a request.
 
 These guidelines are intended for law enforcement authorities seeking information about \>x< accounts. Information concerning requests to [withhold content on \>x<](https://help.x.com/en/rules-and-policies/post-withheld-by-country) is available. More general information is available in our [Privacy Policy](https://x.com/en/privacy), [Terms of Service](https://x.com/en/tos), and [\>x< Rules](https://help.x.com/en/rules-and-policies/x-rules).
 
