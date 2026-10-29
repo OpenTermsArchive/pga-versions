@@ -1,9 +1,9 @@
 Copyright policy
 ================
 
-\>x< is committed to respecting copyright. This article explains how >x< responds to copyright complaints under the Digital Millennium Copyright Act and the procedures for reporting infringement and submitting counter-notices.
+\>x< is committed to respecting copyright. This article explains how \>x< responds to copyright complaints under the Digital Millennium Copyright Act and the procedures for reporting infringement and submitting counter-notices.
 
-*   \>x< responds to copyright complaints submitted under the Digital Millennium Copyright Act (“DMCA”). Section 512 of the DMCA outlines the statutory requirements necessary for formally reporting copyright infringement, as well as providing instructions on how an affected party can appeal a removal by submitting a compliant counter-notice.
+*   \>x< responds to copyright complaints submitted under the Digital Millennium Copyright Act (“DMCA”) or other applicable copyright notice-and-takedown laws. For example, Section 512 of the DMCA outlines the statutory requirements necessary for formally reporting copyright infringement, as well as providing instructions on how an affected party can appeal a removal by submitting a compliant counter-notice. Similar requirements are provided under various notice-and-takedown laws.
     
     \>x< will respond to reports of alleged copyright infringement, such as allegations concerning the unauthorized use of a copyrighted image as a profile or header photo, allegations concerning the unauthorized use of a copyrighted video or image uploaded through our media hosting services, or posts containing links to allegedly infringing materials. Note that not all unauthorized uses of copyrighted materials are infringements (see our [fair use](https://help.x.com/en/rules-and-policies/fair-use-policy.html) article for more information).
     
