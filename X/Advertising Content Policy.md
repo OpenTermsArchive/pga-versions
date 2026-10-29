@@ -90,7 +90,7 @@ Ready to get started?
 Quality Policy
 ==============
 
-This policy applies to monetization on >x< and >x<’s paid advertising products.
+This policy applies to monetization on \>x< and \>x<’s paid advertising products.
 
 What's the policy?
 ------------------
@@ -137,7 +137,7 @@ If you are an advertiser whose account or Posts are under review and you would l
 Prohibited Content for Minors
 =============================
 
-This policy applies to monetization on >x< and >x<’s paid advertising products.
+This policy applies to monetization on \>x< and \>x<’s paid advertising products.
 
 What's the policy?
 ------------------
@@ -272,7 +272,7 @@ If you are an advertiser whose account or Posts are under review and you would l
 Weapons and weapon accessories
 ==============================
 
-This policy applies to monetization on >x< and >x<’s paid advertising products.
+This policy applies to monetization on \>x< and \>x<’s paid advertising products.
 
 What's the policy?
 ------------------
@@ -309,7 +309,7 @@ If you are an advertiser whose account or posts are under review and you would l
 Adult or sexual products and services
 =====================================
 
-Understand >x< Ads policies on adult and sexually explicit content, and learn how to promote age-restricted products appropriately.
+Understand \>x< Ads policies on adult and sexually explicit content, and learn how to promote age-restricted products appropriately.
 
 Adult Sexual Content
 --------------------
@@ -875,7 +875,7 @@ If you are an advertiser whose account or Posts are under review and you would l
 Financial services
 ==================
 
-Advertising financial products, cryptocurrency, and NFTs on >x< is allowed but restricted by product type and the country or region you're targeting.
+Advertising financial products, cryptocurrency, and NFTs on \>x< is allowed but restricted by product type and the country or region you're targeting.
 
 Financial products and services
 -------------------------------
@@ -2079,7 +2079,7 @@ If you are an advertiser whose account or Posts are under review and you would l
 Tobacco and tobacco accessories
 ===============================
 
-This policy applies to monetization on >x< and >x<’s paid advertising products.
+This policy applies to monetization on \>x< and \>x<’s paid advertising products.
 
 What’s the policy?
 ------------------
