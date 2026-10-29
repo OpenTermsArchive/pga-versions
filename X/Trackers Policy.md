@@ -1,7 +1,7 @@
 How cookies are used on \>x<
 ============================
 
-Cookies and similar technologies like pixels and local storage provide you with a better, faster, and safer experience on >x<. Cookies are also used to operate our services, which include our websites, applications, APIs, pixels, embeds, and email communications. Specifically, >x< uses these technologies to:
+Cookies and similar technologies like pixels and local storage provide you with a better, faster, and safer experience on \>x<. Cookies are also used to operate our services, which include our websites, applications, APIs, pixels, embeds, and email communications. Specifically, \>x< uses these technologies to:
 
 *   Keep you logged in to \>x<.
 *   Deliver features and functionality of \>x< services.
