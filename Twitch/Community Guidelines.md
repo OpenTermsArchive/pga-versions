@@ -970,7 +970,7 @@ We will review and consider appeals that satisfy one of the following categories
 
 **For potential enforcement errors:**
 
-You can view enforcements applied to your account in our [appeals portal](https://appeals.twitch.tv/). From here, if you believe you did not violate our Community Guidelines, or if you believe we enforced against your account incorrectly, you can appeal your enforcement for up to 6 months following the enforcement. There is no waiting period required to submit appeals of this type.
+You can view [enforcements](https://safety.twitch.tv/s/article/Enforcement) applied to your account in our [appeals portal](https://appeals.twitch.tv/). From here, if you believe you did not violate our Community Guidelines, or if you believe we enforced against your account incorrectly, you can appeal your enforcement for up to 6 months following the enforcement. There is no waiting period required to submit appeals of this type.
 
 **For requests for reinstatement while serving indefinite suspensions:**
 
@@ -983,7 +983,9 @@ You are able to view [enforcements](https://safety.twitch.tv/s/article/Enforceme
 
 ### Appealing a Suspension or Warning
 
-To submit an appeal, go to our appeals portal located at [https://appeals.twitch.tv](https://link.twitch.tv/Appeals). Appeals can be requested for enforcements issued within the last six months, or for your most recent enforcement if you are currently serving an indefinite suspension. Appeals sent via any other means will **not** be considered.
+To submit an appeal, go to our appeals portal located at [https://appeals.twitch.tv](https://link.twitch.tv/Appeals). Appeals can be requested for enforcements issued within the last six months, or for your most recent enforcement if you are currently serving an indefinite suspension. Appeals sent via any other means will **not** be considered, except for suspensions related to your age (see below).
+
+If your account was suspended for a reason related to your age and you are older than the minimum age required in your region, appeal through our [contact form](https://link.twitch.tv/Contact-Us) using the **"Privacy Questions"** category and **"Age Suspension Appeal"** sub-category. Learn more in [Date of Birth Changes](https://help.twitch.tv/s/article/date-of-birth-changes#Appeal).
 
 Appeals are reviewed by our Safety Operations team in the order in which they are received. There is no guarantee that enforcements will be overturned. For suspensions of 30 days or less, you may only submit 1 appeal per enforcement. For indefinite suspensions, you may only submit 1 appeal in a 6-month period per indefinite enforcement. Only the owner of the account in question may appeal an account suspension or warning. Abusing or spamming the appeals process, including repeatedly submitting unfounded appeals, may lead to additional penalties, or revoking of appeal privileges.
 
