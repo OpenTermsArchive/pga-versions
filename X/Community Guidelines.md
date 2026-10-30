@@ -20,33 +20,25 @@ Safety
 
 **Private Information:** You may not publish or post other people's private information (such as home phone number and address) without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so. [Learn more](https://help.x.com/en/rules-and-policies/personal-information.html).
 
-**Abuse/Harassment:** You may not share abusive content, engage in the targeted harassment of someone, or incite other people to do so. [Learn more](https://help.x.com/en/rules-and-policies/abusive-behavior.html).
+**Abuse and Harassment:** You may not share abusive content, engage in the targeted harassment of someone, or incite other people to do so. [Learn more](https://help.x.com/en/rules-and-policies/abusive-behavior.html).
 
-**Hateful conduct:** You may not attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. [Learn more](https://help.x.com/en/rules-and-policies/hateful-conduct-policy.html).
+**Hateful Conduct:** You may not attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. [Learn more](https://help.x.com/en/rules-and-policies/hateful-conduct-policy.html).
 
 **Perpetrators of Violent Attacks:** We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, and may also remove posts disseminating manifestos or other content produced by perpetrators. [Learn more](https://help.x.com/en/rules-and-policies/perpetrators-of-violent-attacks.html).
 
 **Violent & Hateful Entities:** You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/rules-and-policies/violent-entities.html).
 
-Authenticity
-------------
+**Authenticity:** You may not engage in inauthentic activity that undermines the integrity of \>x<. [Learn more](https://help.x.com/en/rules-and-policies/authenticity.html).
 
-**Platform Manipulation and Spam:** You may not use \>x<’s services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience on \>x<. [Learn more](https://help.x.com/en/rules-and-policies/authenticity.html).
-
-**Civic Integrity:** You may not use \>x<’s services for the purpose of manipulating or interfering in elections or other civic processes. This includes posting or sharing content that may suppress participation or mislead people about when, where, or how to participate in a civic process. [Learn more](https://help.x.com/en/rules-and-policies/election-integrity-policy.html).
-
-**Misleading and Deceptive Identities:** You may not impersonate individuals, groups, or organizations to mislead, confuse, or deceive others, nor use a fake identity in a manner that disrupts the experience of others on \>x<. [Learn more](https://help.x.com/en/rules-and-policies/authenticity).
-
-**Synthetic and Manipulated Media:** You may not deceptively share synthetic or manipulated media that are likely to cause harm. In addition, we may label posts containing synthetic and manipulated media to help people understand their authenticity and to provide additional context. [Learn more](https://help.x.com/en/rules-and-policies/authenticity).
+*   **Platform Manipulation and Spam:** You may not use \>x<’s services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience on \>x<.
+*   **Civic Integrity:** You may not use \>x<’s services for the purpose of manipulating or interfering in elections or other civic processes. This includes posting or sharing content that may suppress participation or mislead people about when, where, or how to participate in a civic process.
+*   **Misleading and Deceptive Identities:** You may not impersonate individuals, groups, or organizations to mislead, confuse, or deceive others, nor use a fake identity in a manner that disrupts the experience of others on \>x<.
+*   **Synthetic and Manipulated Media:** You may not deceptively share synthetic or manipulated media that are likely to cause harm. In addition, we may label posts containing synthetic and manipulated media to help people understand their authenticity and to provide additional context.
+*   **Account Compromise:** You may not use or attempt to use credentials, passwords, tokens, keys, cookies or other data to log into or otherwise access, add, delete or modify the private information or account features of any \>x< account other than your own (or those you have been directly authorized to do so via \>x<’s Teams authorization, OAuth authorization or similar mechanism).
 
 **Copyright and Trademark:** You may not violate others’ intellectual property rights, including copyright and trademark. Learn more about our [trademark policy](https://help.x.com/en/rules-and-policies/x-trademark-policy) and [copyright policy](https://help.x.com/en/rules-and-policies/copyright-policy.html).
 
-**Account Compromise:** You may not use or attempt to use credentials, passwords, tokens, keys, cookies or other data to log into or otherwise access, add, delete or modify the private information or account features of any \>x< account other than your own (or those you have been directly authorized to do so via \>x<’s Teams authorization, OAuth authorization or similar mechanism).
-
-Third-party advertising in video content
-----------------------------------------
-
-You may not submit, post, or display any video content on or through our services that includes third-party advertising, such as pre-roll video ads or sponsorship graphics, without our prior consent.
+**Third-party advertising in video content:** You may not submit, post, or display any video content on or through our services that includes third-party advertising, such as pre-roll video ads or sponsorship graphics, without our prior consent.
 
 Enforcement and Appeals
 -----------------------
