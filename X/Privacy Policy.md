@@ -337,32 +337,106 @@ Take control of your privacy
 
 - - -
 
-Welcome to X's Privacy Hub
-==========================
+1.  [Privacy](https://gdpr.x.com/en)/
+2.  GDPR
 
-X’s approach to privacy:
-------------------------
+GDPR
+====
 
-Protecting and defending user privacy is at the heart of our work. From protecting user anonymity, to offering meaningful [privacy and security controls](https://privacy.twitter.com/en), and being [committed to transparency](https://transparency.twitter.com/), our foundational principles are built into X’s core DNA. 
+Table of contents
 
-Our approach to privacy compliance is broader than simply complying with the terms of the GDPR, the UK GDPR, the CCPA and the array of other data protection laws and regulations that apply to our global business. Rather, we think about how our work can benefit as many of our users as possible and work towards legal compliance in a way that strengthens our comprehensive data security and privacy program, and supports the evolution of our principles and overarching mission as a company.    
+*   [\>x<’s approach to privacy](#x-s-approach-to-privacy)
+*   [GDPR and the UK GDPR](#gdpr-and-the-uk-gdpr)
+*   [California and other US State Privacy Laws](#california-and-other-us-state-privacy-laws)
 
-We want to help people understand how we work to give them the transparency and tools they need to have meaningful controls over what data we collect about them, how it is used, and when it is shared. 
+\>x<’s approach to privacy
+--------------------------
 
-Our teams are consistently working behind the scenes to understand new legal requirements and user expectations to ensure X is prepared to meet the commitments we made to our users and to provide an industry-leading level of transparency and user control. You will continue to see us make updates across our core product, terms, policies, user functionality and operations to keep these commitments to the people who rely on us to engage in the public conversation. 
+Protecting and defending user privacy is at the heart of our work. From protecting user anonymity, to offering meaningful [privacy and security controls](https://gdpr.x.com/en), and being [committed to transparency](https://transparency.x.com/), our foundational principles are built into \>x<’s core DNA.
 
-**If you are a X user**, you can find out more information in our [privacy policy](https://twitter.com/en/privacy). 
+Our approach to privacy compliance is broader than simply complying with the terms of the GDPR, the UK GDPR, the CCPA and the array of other data protection laws and regulations that apply to our global business. Rather, we think about how our work can benefit as many of our users as possible and work towards legal compliance in a way that strengthens our comprehensive data security and privacy program, and supports the evolution of our principles and overarching mission as a company.
 
-**If you are a X for Business client** - Please refer to our [X for Business FAQs](https://gdpr.twitter.com/en/faq.html), which would likely include answers to a number of your questions including information about X’s compliance with specific laws that may also apply to your business, and X’s different Data Processing Agreements (DPAs).
+We want to help people understand how we work to give them the transparency and tools they need to have meaningful controls over what data we collect about them, how it is used, and when it is shared.
+
+Our teams are consistently working behind the scenes to understand new legal requirements and user expectations to ensure \>x< is prepared to meet the commitments we made to our users and to provide an industry-leading level of transparency and user control. You will continue to see us make updates across our core product, terms, policies, user functionality and operations to keep these commitments to the people who rely on us to engage in the public conversation.
+
+**If you are an \>x< user**, you can find out more information in our [privacy policy](https://x.com/en/privacy).
+
+**If you are an \>x< for Business client** - Please refer to our [\>x< for Business FAQs](https://gdpr.x.com/en/gdpr/faq), which would likely include answers to a number of your questions including information about \>x<’s compliance with specific laws that may also apply to your business, and \>x<’s different Data Processing Agreements (DPAs).
 
 GDPR and the UK GDPR
-====================
+--------------------
 
-The [General Data Protection Regulation](http://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32016R0679) (GDPR) has been in effect since 2018 but it built upon, standardized and modernized the European Union (EU)’s existing comprehensive approach to data privacy and protection. 
+The [General Data Protection Regulation](http://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32016R0679) (GDPR) has been in effect since 2018 but it built upon, standardized and modernized the European Union (EU)’s existing comprehensive approach to data privacy and protection.
 
-Since 2021, the United Kingdom (UK) is no longer part of the EU, but has adopted the UK General Data Protection Regulation (UK GDPR), which is similar to the GDPR. Both specifically address the export of personal data of their citizens outside their relative jurisdictions and set clear guidelines for companies who operate between their jurisdictions and other global markets with different legal structures. 
+Since 2021, the United Kingdom (UK) is no longer part of the EU, but has adopted the UK General Data Protection Regulation (UK GDPR), which is similar to the GDPR. Both specifically address the export of personal data of their citizens outside their relative jurisdictions and set clear guidelines for companies who operate between their jurisdictions and other global markets with different legal structures.
 
 California and other US State Privacy Laws
 ------------------------------------------
 
 In 2020, California was the first of a series of US States passing comprehensive state privacy legislation. With the [California Consumer Privacy Act of 2018 (CCPA)](http://leginfo.legislature.ca.gov/), Californians were granted individual (GDPR-like) privacy rights. A number of US States have since followed suit, creating a patchwork of different privacy regimes across the country. We continue to monitor this rapidly evolving space and nuances brought by these different pieces of legislation to make sure our products and services keep meeting what is expected and required of us.
+
+*   [\>x<’s approach to privacy](#x-s-approach-to-privacy)
+*   [GDPR and the UK GDPR](#gdpr-and-the-uk-gdpr)
+*   [California and other US State Privacy Laws](#california-and-other-us-state-privacy-laws)
+
+© 2026 \>x< Corp.
+
+Theme
+
+English
+
+\>x< Platform
+-------------
+
+*   [\>x<.com](https://x.com/)
+*   [Status](https://docs.x.com/status)
+*   [Accessibility](https://help.x.com/resources/accessibility)
+*   [Embed a post](https://publish.x.com/)
+*   [Privacy center](https://privacy.x.com/)
+*   [Transparency center](https://transparency.x.com/)
+*   [Download the \>x< app](https://x.com/download)
+*   [Try Grok.com](https://grok.com/)
+
+\>x< Corp
+---------
+
+*   [About the company](https://about.x.com/)
+*   [Company news](https://blog.x.com/)
+*   [Brand toolkit](https://about.x.com/en/who-we-are/brand-toolkit)
+*   [Jobs and internships](https://careers.x.com/)
+*   [Investors](https://investor.x.com/)
+
+Help
+----
+
+*   [Help Center](https://help.x.com/en/business-and-advertising)
+*   [Using \>x<](https://help.x.com/using-x)
+*   [Managing your account](https://help.x.com/managing-your-account)
+*   [Rules and policies](https://help.x.com/rules-and-policies)
+*   [Contact us](https://help.x.com/forms)
+
+Developer resources
+-------------------
+
+*   [Developer home](https://developer.x.com/)
+*   [Documentation](https://docs.x.com/)
+*   [Forums](https://devcommunity.x.com/)
+*   [Communities](https://developer.x.com/en/community)
+*   [Engineering blog](https://blog.x.com/engineering)
+*   [Developer terms](https://developer.x.com/en/developer-terms)
+
+Business resources
+------------------
+
+*   [Advertise](https://ads.x.com/)
+*   [\>x< for business](https://business.x.com/)
+*   [Resources and guides](https://business.x.com/resources)
+*   [1-833-GET-XADS](tel:+18334389237)
+
+Legal
+-----
+
+*   [Cookies](https://help.x.com/rules-and-policies/twitter-cookies)
+*   [Privacy](https://x.com/privacy)
+*   [Terms and conditions](https://x.com/tos)
