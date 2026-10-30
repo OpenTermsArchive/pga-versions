@@ -1591,6 +1591,11 @@ This includes:
 
 Notwithstanding the above, we do not prohibit content that condemns, raises awareness of, or educates others about scams or other prohibited commercial practices, without either revealing sensitive information or promoting them.
 
+In addition to removing accounts that violate our Prohibited Commercial Practices policy, our automated systems consider a range of behavioral signals to help identify and limit unwanted contact and exposure to potential scam activity.
+
+*   We may disable accounts or restrict access to products and features (e.g. the ability to message certain accounts) based on a combination of behaviors such as sending unsolicited messages to people who you do not follow, deliberately misrepresenting your location, or being an admin of communities (e.g. Pages) we have removed for violating our scam policies.
+    
+
 For the following Community Standards, we require additional information and/or context to enforce:
 
 We may remove content that:
@@ -1660,7 +1665,7 @@ We do not allow:
 *   Imagery depicting body modification (e.g., tattoo, piercing, scarification, self-flagellation, etc.) when shared in a suicide or self-injury context
     
 
-For the following content, we include a warning screen so that people are aware the content may be sensitive. We also limit the ability to view the content to adults, ages 18 and older:
+For the following content, we include a warning screen so that people are aware the content may be sensitive. We also limit the ability to view the content to adults, aged 18 and older:
 
 *   Photos or videos depicting a person who engaged in euthanasia/assisted suicide in a medical setting.
     
@@ -1671,9 +1676,7 @@ For the following content, we include a warning screen so that people are aware 
 
 For the following content, we provide resources to people and limit the ability to view the content to adults aged 18 and older:
 
-*   Written or verbal admission of suicide, self-injury or eating disorders.
-    
-*   Vague, potentially suicidal statements or references (including memes or stock imagery about sad mood depression, presenting death as an escape, or content from popular culture with emphasis on dark, depressive thoughts) in a suicide or self-injury context.
+*   Written or verbal admission of suicide, self-injury, suicidal ideation, or eating disorders.
     
 
 For the following content, we limit the ability to view the content to adults aged 18 and older:
@@ -1681,6 +1684,8 @@ For the following content, we limit the ability to view the content to adults ag
 *   Mocking or dismissing the concept of suicide, self-injury or eating disorders
     
 *   Narratives that contain a description of suicide with details that go beyond the mere naming or mentioning of the act or the aftermath
+    
+*   Content that idealizes despair, isolation or hopelessness
     
 *   Admitting to extreme weight loss behavior
     
@@ -1691,7 +1696,7 @@ For the following Community Standards, we require additional information and/or 
     
     *   Family or legal representative requests,
         
-    *   Reports from media, law enforcement, or other third party sources (e.g. government agencies, NGOs), or the [Suicidal Content Contact Form](https://www.facebook.com/help/contact/305410456169423/) or [Instagram Contact Form](https://help.instagram.com/contact/383679321740945/).
+    *   Reports from media, law enforcement, or other third party sources (e.g. government agencies, NGOs).
         
     *   We may take into account off-platform signals of admission to or promotion of suicide, self-injury, eating disorders or extreme weight-loss behaviors from a user to assess whether specific content posted by them on Meta platforms could present a risk to others.
 
@@ -2132,7 +2137,7 @@ Note: This policy does not apply to individuals who are part of designated organ
         
     *   Severe sexualized commentary.
         
-    *   Derogatory sexualized photoshop or drawings
+    *   Derogatory sexualized drawings or digitally created/altered content
         
     *   Attacks through derogatory terms related to sexual activity (for example: whore, slut).
         
