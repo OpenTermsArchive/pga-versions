@@ -6,45 +6,42 @@ The \>x< Rules
 Safety
 ------
 
-Violent Content: You may share graphic media if it is properly labeled, not prominently displayed and is not excessively gory or depicting sexual violence, but explicitly threatening, inciting, glorifying, or expressing desire for violence is not allowed. [Learn more](https://help.x.com/en/rules-and-policies/violent-content).
+**Child Safety:** We have zero tolerance for any forms of child sexual exploitation and remove certain media depicting physical child abuse to prevent the normalization of violence against children. [Learn more](https://help.x.com/en/rules-and-policies/child-safety).
 
-Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/rules-and-policies/violent-entities.html).
+**Non-Consensual Intimate Content:** You may not post or share intimate content of a real, identifiable person without their consent, including AI-generated or manipulated media, or threaten to share it. [Learn more](https://help.x.com/en/rules-and-policies/intimate-media.html).
 
-Child Safety: We have zero tolerance for any forms of child sexual exploitation and remove certain media depicting physical child abuse to prevent the normalization of violence against children. [Learn more](https://help.x.com/en/rules-and-policies/child-safety).
+**Violent Content:** You may share graphic media if it is properly labeled, not prominently displayed and is not excessively gory or depicting sexual violence, but explicitly threatening, inciting, glorifying, or expressing desire for violence is not allowed. [Learn more](https://help.x.com/en/rules-and-policies/violent-content).
 
-Abuse/Harassment: You may not share abusive content, engage in the targeted harassment of someone, or incite other people to do so. [Learn more](https://help.x.com/en/rules-and-policies/abusive-behavior.html).
+**Suicide and Self-Harm:** You may not promote or encourage suicide or self-harm. [Learn more](https://help.x.com/en/rules-and-policies/glorifying-self-harm.html).
 
-Hateful conduct: You may not attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. [Learn more](https://help.x.com/en/rules-and-policies/hateful-conduct-policy.html).
+**Adult Content:** You may share consensually produced and distributed adult nudity or sexual behavior, provided it's properly labeled and not prominently displayed. [Learn more](https://help.x.com/en/rules-and-policies/adult-content).
 
-Perpetrators of Violent Attacks: We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, and may also remove posts disseminating manifestos or other content produced by perpetrators. [Learn more](https://help.x.com/en/rules-and-policies/perpetrators-of-violent-attacks.html).
+**Illegal or Certain Regulated Goods or Services:** You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. [Learn more](https://help.x.com/en/rules-and-policies/illegal-regulated-behaviors.html).
 
-Suicide: You may not promote or encourage suicide or self-harm. [Learn more](https://help.x.com/en/rules-and-policies/glorifying-self-harm.html).
+**Private Information:** You may not publish or post other people's private information (such as home phone number and address) without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so. [Learn more](https://help.x.com/en/rules-and-policies/personal-information.html).
 
-Adult Content: You may share consensually produced and distributed adult nudity or sexual behavior, provided it's properly labeled and not prominently displayed. [Learn more](https://help.x.com/en/rules-and-policies/adult-content).
+**Abuse/Harassment:** You may not share abusive content, engage in the targeted harassment of someone, or incite other people to do so. [Learn more](https://help.x.com/en/rules-and-policies/abusive-behavior.html).
 
-Illegal or Certain Regulated Goods or Services: You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. [Learn more](https://help.x.com/en/rules-and-policies/illegal-regulated-behaviors.html).
+**Hateful conduct:** You may not attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. [Learn more](https://help.x.com/en/rules-and-policies/hateful-conduct-policy.html).
 
-Privacy
--------
+**Perpetrators of Violent Attacks:** We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, and may also remove posts disseminating manifestos or other content produced by perpetrators. [Learn more](https://help.x.com/en/rules-and-policies/perpetrators-of-violent-attacks.html).
 
-Private Information: You may not publish or post other people's private information (such as home phone number and address) without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so. [Learn more](https://help.x.com/en/rules-and-policies/personal-information.html).
-
-Non-Consensual Nudity: You may not post or share intimate photos or videos of someone that were produced or distributed without their consent. [Learn more](https://help.x.com/en/rules-and-policies/intimate-media.html).
-
-Account Compromise: You may not use or attempt to use credentials, passwords, tokens, keys, cookies or other data to log into or otherwise access, add, delete or modify the private information or account features of any \>x< account other than your own (or those you have been directly authorized to do so via \>x<’s Teams authorization, OAuth authorization or similar mechanism).
+**Violent & Hateful Entities:** You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/rules-and-policies/violent-entities.html).
 
 Authenticity
 ------------
 
-Platform Manipulation and Spam: You may not use \>x<’s services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience on \>x<. [Learn more](https://help.x.com/en/rules-and-policies/authenticity.html).
+**Platform Manipulation and Spam:** You may not use \>x<’s services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience on \>x<. [Learn more](https://help.x.com/en/rules-and-policies/authenticity.html).
 
-Civic Integrity: You may not use \>x<’s services for the purpose of manipulating or interfering in elections or other civic processes. This includes posting or sharing content that may suppress participation or mislead people about when, where, or how to participate in a civic process. [Learn more](https://help.x.com/en/rules-and-policies/election-integrity-policy.html).
+**Civic Integrity:** You may not use \>x<’s services for the purpose of manipulating or interfering in elections or other civic processes. This includes posting or sharing content that may suppress participation or mislead people about when, where, or how to participate in a civic process. [Learn more](https://help.x.com/en/rules-and-policies/election-integrity-policy.html).
 
-Misleading and Deceptive Identities: You may not impersonate individuals, groups, or organizations to mislead, confuse, or deceive others, nor use a fake identity in a manner that disrupts the experience of others on \>x<. [Learn more](https://help.x.com/en/rules-and-policies/authenticity).
+**Misleading and Deceptive Identities:** You may not impersonate individuals, groups, or organizations to mislead, confuse, or deceive others, nor use a fake identity in a manner that disrupts the experience of others on \>x<. [Learn more](https://help.x.com/en/rules-and-policies/authenticity).
 
-Synthetic and Manipulated Media: You may not deceptively share synthetic or manipulated media that are likely to cause harm. In addition, we may label posts containing synthetic and manipulated media to help people understand their authenticity and to provide additional context. [Learn more](#).
+**Synthetic and Manipulated Media:** You may not deceptively share synthetic or manipulated media that are likely to cause harm. In addition, we may label posts containing synthetic and manipulated media to help people understand their authenticity and to provide additional context. [Learn more](https://help.x.com/en/rules-and-policies/authenticity).
 
-Copyright and Trademark: You may not violate others’ intellectual property rights, including copyright and trademark. Learn more about our [trademark policy](https://help.x.com/en/rules-and-policies/x-trademark-policy) and [copyright policy](https://help.x.com/en/rules-and-policies/copyright-policy.html).
+**Copyright and Trademark:** You may not violate others’ intellectual property rights, including copyright and trademark. Learn more about our [trademark policy](https://help.x.com/en/rules-and-policies/x-trademark-policy) and [copyright policy](https://help.x.com/en/rules-and-policies/copyright-policy.html).
+
+**Account Compromise:** You may not use or attempt to use credentials, passwords, tokens, keys, cookies or other data to log into or otherwise access, add, delete or modify the private information or account features of any \>x< account other than your own (or those you have been directly authorized to do so via \>x<’s Teams authorization, OAuth authorization or similar mechanism).
 
 Third-party advertising in video content
 ----------------------------------------
@@ -1059,22 +1056,19 @@ Learn more about our [range of enforcement options](https://help.x.com/rules-and
 
 - - -
 
-Non-consensual nudity policy
-============================
+Non-Consensual Intimate Content policy
+======================================
 
 We prohibit sharing intimate photos or videos of someone without their consent. This content causes serious safety and privacy harm and violates our rules.
 
-Overview
---------
-
-**August 2026**
+**October 2026**
 
 **You may not share, create, manipulate, distribute or threaten to distribute content that sexualizes or exposes an identifiable real adult without their explicit consent.**
 
 Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [\>x< Rules](https://help.x.com/en/rules-and-policies/x-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.
 
-What is a violation of this policy?
------------------------------------
+**How we define Non-Consensual Intimate Content**
+-------------------------------------------------
 
 Any content that sexualizes or exposes an identifiable, real adult without their explicit consent. This includes both clearly explicit intimate imagery and sexually suggestive or manipulated content when shared without consent or in a harmful context. It covers:
 
@@ -1094,27 +1088,36 @@ Any content that sexualizes or exposes an identifiable, real adult without their
 *   Intimate or private-setting media (bedroom, bathroom, dressing room) not intended for public distribution
 *   Prompting, attempting to generate, generating or sharing non-consensual intimate content of real people using AI or other tools (even if unsuccessful)
 
-What is not a violation of this policy?
----------------------------------------
+### Not Allowed
 
-Content is **not** a violation if there are clear signals of explicit consent from the individual(s) featured, such as:
+When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations.
 
-*   The person themselves generating or posting the content with affirmative language
-*   The depicted individual directly replying, engaging positively or stating approval (e.g., “Love this! Make another one”)
+We may suspend any account that we identify as the original poster of intimate media that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images. Reshares, quotes, reposts of the same content are also considered as violations under this policy.
 
-We also allow:
-
-*   Images or videos taken in public or commercial settings, streams, conventions, events, performances, or voluntary on-camera appearances (including paparazzi or fan clips of celebrities/streamers in revealing attire)
-*   Widely circulated public or media-published photos of public figures/celebrities
-*   Political satire, memes, humor or non-sexual edits critical of public figures
-*   Consensual adult nudity or sexual acts provided it is marked as Adult Content
+In other cases, we may not suspend an account immediately. This is because some people may share such content inadvertently, to express shock, disbelief or to draw attention to an exploitative practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended.
 
 **Important note on minors**
 
 Any depiction, generation, or sexualization of a minor (any person under the age of 18) is always treated as the highest-severity violation and is routed to our dedicated Child Safety team for appropriate enforcement.
 
-How can I report violations of this policy?
--------------------------------------------
+### Restricted Reach
+
+Because X allows consensually produced and distributed adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.
+
+Where we’re unsure if the individual(s) featured is consenting or not (provided it’s not explicit or manipulated), we may need to hear directly from them (or an authorized representative) to ensure that we have sufficient context before removing the content.
+
+In those cases, we will limit visibility of the content until we hear from the victim.
+
+If there are clear signals of explicit consent from the individual(s) featured, content is allowed provided it’s properly [marked](https://help.x.com/en/rules-and-policies/media-settings) with a content warning so users who do not wish to see it can avoid it. This also means children below the age of 18 are not exposed to it.
+
+### Allowed
+
+*   Images or videos taken in public or commercial settings, streams, conventions, events, performances, or voluntary on-camera appearances (including paparazzi or fan clips of celebrities/streamers in revealing attire)
+*   Widely circulated public or media-published photos of public figures/celebrities
+*   Political satire, memes, humor or non-sexual edits critical of public figures
+
+How to report
+-------------
 
 We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report this type of content.
 
@@ -1144,32 +1147,10 @@ You can report this content for review via desktop as follows:
 3.  Submit your report.
     
 
-What happens if you violate this policy?
-----------------------------------------
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations.
-
-We may suspend any account that we identify as the original poster of intimate media that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images. Reshares, quotes, reposts of the same content are also considered as violations under this policy.
-
-In other cases, we may not suspend an account immediately. This is because some people may share such content inadvertently, to express shock, disbelief or to draw attention to an exploitative practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended.
-
-**Restricted**
-
-Because X allows consensually produced and distributed adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.
-
-Where we’re unsure if the individual(s) featured is consenting or not (provided it’s not explicit), we may need to hear directly from them (or an authorized representative) to ensure that we have sufficient context before removing the content.
-
-In those cases, we will limit visibility of the content until we hear from the victim.
-
 **Appeals**
 -----------
 
 If you believe we made a mistake, you can [submit an appeal](https://help.x.com/en/forms/account-access/appeals.html).
-
-Additional resources
---------------------
-
-Learn more about [our range of enforcement options](https://help.x.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.x.com/en/rules-and-policies/enforcement-philosophy.html).
 
 - - -
 
@@ -2820,9 +2801,9 @@ Table of contents
 *   #### What happens next?
     
 
-![](/_next/image?url=%2Fapi%2Fimage%2Fsanity%2F7cb0e371141497242440bc1e1798c5a00d9f2619-530x86.svg&w=3840&q=90&dpl=9ca4387c-0d5c-48a1-b2a4-bbb42012a0b8)![](/_next/image?url=%2Fapi%2Fimage%2Fsanity%2Fa920446b397c0970050d4846f5bd0838f5079417-530x86.svg&w=3840&q=90&dpl=9ca4387c-0d5c-48a1-b2a4-bbb42012a0b8)
+![](/_next/image?url=%2Fapi%2Fimage%2Fsanity%2F7cb0e371141497242440bc1e1798c5a00d9f2619-530x86.svg&w=3840&q=90&dpl=d80588d2-757f-4421-82bb-c27652466c64)![](/_next/image?url=%2Fapi%2Fimage%2Fsanity%2Fa920446b397c0970050d4846f5bd0838f5079417-530x86.svg&w=3840&q=90&dpl=d80588d2-757f-4421-82bb-c27652466c64)
 
-![](/_next/image?url=%2Fapi%2Fimage%2Fsanity%2Ff6c3c5d0c4344e1ea0408e9cfe5ca58add673241-356x359.svg&w=3840&q=90&dpl=9ca4387c-0d5c-48a1-b2a4-bbb42012a0b8)![](/_next/image?url=%2Fapi%2Fimage%2Fsanity%2F3e43d33e97e0ac44d6e8c0db84301298e3b5d5a6-356x359.svg&w=3840&q=90&dpl=9ca4387c-0d5c-48a1-b2a4-bbb42012a0b8)
+![](/_next/image?url=%2Fapi%2Fimage%2Fsanity%2Ff6c3c5d0c4344e1ea0408e9cfe5ca58add673241-356x359.svg&w=3840&q=90&dpl=d80588d2-757f-4421-82bb-c27652466c64)![](/_next/image?url=%2Fapi%2Fimage%2Fsanity%2F3e43d33e97e0ac44d6e8c0db84301298e3b5d5a6-356x359.svg&w=3840&q=90&dpl=d80588d2-757f-4421-82bb-c27652466c64)
 
 My content was removed from \>x<
 --------------------------------
