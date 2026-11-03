@@ -1,7 +1,11 @@
 Privacy Policy
 ==============
 
-Last updated: June 30, 2026
+  
+
+Last updated: November 3, 2026
+
+  
 
 If you are a minor, and are not sure you understand everything in this Policy, please make sure to speak with a trusted adult before using BeReal. Please also remember that BeReal is not meant to be used if you are under 13. 
 
@@ -76,6 +80,7 @@ The table below outlines the purposes for which we process your personal data, t
 | Identifying you to your account when you have lost access | Communications with BeReal | Our legitimate interest in restoring your access to your account |
 | Inferring your likely interests from your pictures and gender from your username, first name and biography, used as criteria to select relevant ads for you on the App | Content Data, Account Creation Data | Your consent, where required by applicable law; otherwise, our legitimate interest |
 | Serving advertising tailored to your preferences and interests, whether the ads are selected by our ad network partners or us (i.e.: selecting the most relevant advertising for you, including by matching hashed audience lists provided by advertisers against your account, displaying advertising on our App, and measuring advertising performance) | Connection and Technical Data, Inferred Information, phone number from Account Creation Data (hashed for this purpose), hashed phone-number lists provided by advertisers, Mobile advertising IDs and device identifiers | Your consent, where required by applicable law; otherwise, our legitimate interest |
+| Analyzing and improving our services, delivering advertisements and measuring the performance of advertising campaigns run by or for BeReal and its partners, including attributing app installs and other conversions following advertising exposure or interaction. And, where you agree, measuring whether advertising campaigns result in visits to physical locations. | Mobile advertising IDs and device identifiers, Account creation data, Connection and Technical Data, Usage Data, Geolocation Data, and advertising-exposure data. Visit and physical-location outcomes are derived by our measurement partners and provided to us in aggregated form. | Your consent, where required by applicable law; otherwise, our legitimate interest |
 | Measuring our App’s and website’s effectiveness, the performance of the App (e.g., crashes and causes of crashes) or our website, and its stability | Usage Data, Connection and Technical Data | Our legitimate interest in providing a functional App and website that meets your expectations |
 | Choosing and publishing Content on BeReal’s discovery feed | Content Data, Interaction Data | Our legitimate interest in providing a public feed (you can choose, each time you post, whether your post is visible on the public feed) |
 | Carrying out surveys and gathering your feedback for research or product testing purposes | Communications with BeReal | Our legitimate interest in improving our App (you can choose, each time, whether to participate in a survey) |
@@ -99,6 +104,8 @@ We share information about you with our employees and service providers, who wil
 We also share information about you to third parties, who will process it under their own control:
 
 *   **Ad Partners**: To allow us to monetize the ad inventory of our App and provide users with free products and services, we work with advertising networks and mediation partners. These partners may collect information directly from your device or your use of the App through their own tools, such as software development kits (“SDKs”) or cookies, in accordance with their own privacy policies. You will find a list of our partners and their privacy policies that describe their practices and allow you to exercise your rights directly toward them [here](https://help.bereal.com/hc/en-us/articles/19494197955101-Ad-Partners). 
+    
+*   **Advertising measurement partners**: To measure advertising performance, including app-install attribution and, where you agree, visits to physical locations following advertising exposure, we may share mobile advertising IDs, device identifiers and advertising-exposure data with measurement partners. You will find a list of our partners and their privacy policies that describe their practices and allow you to exercise your rights directly toward them [here](https://help.bereal.com/hc/en-us/articles/19494197955101-Ad-Partners).
     
 *   **Commercial partners**: From time to time, we may share some Content data to promote our services to our commercial partners.
     
@@ -131,7 +138,11 @@ In such case, we ensure that:
 
 We keep your information only for as long as it’s needed to provide our services to you, in line with legal requirements and data protection authorities guidelines.
 
-To minimize data retention, your account and associated data will be permanently deleted in the event of prolonged inactivity. For the purposes of this policy, the period of inactivity is calculated from the date of your last activity, which is strictly defined as your most recent login or connection to the App. Specifically, to minimize data retention, your account may be deleted after three (3) years of continuous inactivity if you are located in the United States, or after two (2) years of continuous inactivity if you are located in Europe or any other jurisdiction outside of the United States. BeReal may send you a prior notice via text message (SMS) to the phone number associated with your account before the scheduled deletion, giving you the opportunity to log in and keep your account active.
+Your account and associated data will be permanently deleted in the event of prolonged inactivity. For the purposes of this policy, the period of inactivity is calculated from the date of your last activity, which is strictly defined as your most recent login or connection to the App.
+
+Your account may be deleted after five (5) years of continuous inactivity. This period takes into account the fact that BeReal keeps the Content you have posted over time as a personal archive (the Memories feature), so that you can find it again whenever you come back to the App. If you do not wish to keep that archive, you can delete your Content or your account at any time in the App.
+
+Before your account is deleted, BeReal will send you a prior notice via text message (SMS) to the phone number associated with your account, giving you the opportunity to log in and keep your account active.
 
 Certain information may be archived for a longer period if BeReal received a valid legal request requiring us to preserve your information or to prevent permanently suspended users from creating new accounts. Additionally, we are legally required to retain Transaction Data and related financial records for a longer period (up to ten years) to comply with tax, accounting, and consumer protection laws. 
 
