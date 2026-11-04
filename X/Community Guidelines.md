@@ -2793,9 +2793,9 @@ Table of contents
 *   #### What happens next?
     
 
-![](/_next/image?url=%2Fapi%2Fimage%2Fsanity%2F7cb0e371141497242440bc1e1798c5a00d9f2619-530x86.svg&w=3840&q=90&dpl=36b01416-6d85-4e8a-b5b0-e16d97ab5cd7)![](/_next/image?url=%2Fapi%2Fimage%2Fsanity%2Fa920446b397c0970050d4846f5bd0838f5079417-530x86.svg&w=3840&q=90&dpl=36b01416-6d85-4e8a-b5b0-e16d97ab5cd7)
+![](/_next/image?url=%2Fapi%2Fimage%2Fsanity%2F7cb0e371141497242440bc1e1798c5a00d9f2619-530x86.svg&w=3840&q=90&dpl=6d2b28fe-7f00-4697-8ebb-c7975f4b9187)![](/_next/image?url=%2Fapi%2Fimage%2Fsanity%2Fa920446b397c0970050d4846f5bd0838f5079417-530x86.svg&w=3840&q=90&dpl=6d2b28fe-7f00-4697-8ebb-c7975f4b9187)
 
-![](/_next/image?url=%2Fapi%2Fimage%2Fsanity%2Ff6c3c5d0c4344e1ea0408e9cfe5ca58add673241-356x359.svg&w=3840&q=90&dpl=36b01416-6d85-4e8a-b5b0-e16d97ab5cd7)![](/_next/image?url=%2Fapi%2Fimage%2Fsanity%2F3e43d33e97e0ac44d6e8c0db84301298e3b5d5a6-356x359.svg&w=3840&q=90&dpl=36b01416-6d85-4e8a-b5b0-e16d97ab5cd7)
+![](/_next/image?url=%2Fapi%2Fimage%2Fsanity%2Ff6c3c5d0c4344e1ea0408e9cfe5ca58add673241-356x359.svg&w=3840&q=90&dpl=6d2b28fe-7f00-4697-8ebb-c7975f4b9187)![](/_next/image?url=%2Fapi%2Fimage%2Fsanity%2F3e43d33e97e0ac44d6e8c0db84301298e3b5d5a6-356x359.svg&w=3840&q=90&dpl=6d2b28fe-7f00-4697-8ebb-c7975f4b9187)
 
 My content was removed from \>x<
 --------------------------------
