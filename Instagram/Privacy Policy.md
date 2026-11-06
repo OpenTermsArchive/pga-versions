@@ -356,15 +356,7 @@ You can learn more about how privacy works on [Facebook](https://www.facebook.co
 
 The data controller responsible for your information is Meta Platforms Ireland Limited, which you can [contact online](https://help.meta.com/support/privacy/), or by mail at:
 
-Meta Platforms Ireland Limited
-
-ATTN: Privacy Operations
-
-Merrion Road
-
-Dublin 4
-
-D04 X2K5, Ireland
+Meta Platforms Ireland Limited ATTN: Privacy Operations Merrion Road Dublin 4 D04 X2K5, Ireland
 
 Contact the [Data Protection Officer](https://help.meta.com/support/privacy/) for Meta Platforms Ireland Limited.
 
