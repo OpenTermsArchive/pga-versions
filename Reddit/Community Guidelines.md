@@ -117,7 +117,7 @@ What are some things that may violate this policy?
 *   [Terrorist content](https://support.reddithelp.com/hc/articles/19003525756564).
 *   Posting graphic or disturbing content purely to disgust or horrify users, such as sharing real-world gore without context or in unrelated communities, or sharing footage filmed by a perpetrator during an attack.
 *   Encouraging or glorifying suicide or self-harm. Importantly, while discussions about mental health struggles are allowed, it is a violation to promote self harm through imagery or text, or request or give instructions on how to self-harm.
-*   Promoting real-world sexual violence or sexual activity that involves severe physical injury or risk of death.
+*   Promoting, condoning, or simulating real-world sexual violence or sexual activity that involves severe physical injury or risk of death.
 *   Depicting or encouraging the malicious abuse or suffering of animals for entertainment.
 
 Note: Content that depicts violence but doesn't violate this policy (as described above) should be labeled Not Safe for Work (“NSFW”). Additionally, we may allow appropriately labelled graphic content that has public interest value, such as legitimate news reporting, historical documentation, or citizen journalism, provided it is not used to mock victims, celebrate violence, or promote a perpetrator’s message or ideology.
@@ -132,6 +132,7 @@ Some examples of policy violations
 *   A video showing a person intentionally harming a stray cat.
 *   A post using a seemingly artistic or hand-drawn illustration to make a death threat against a specific real-world person.
 *   A post sharing a meme or image meant to celebrate a known killer. 
+*   A community dedicated to so-called consensual non-consent ("CNC") sexual interactions.
 
 Some examples that do NOT violate this policy
 
@@ -148,7 +149,7 @@ How can I report potential violations of this policy?
 
 To report content that potentially violates this policy, you can use the [report button](https://support.reddithelp.com/hc/articles/360058309512-How-do-I-report-a-post-or-comment) next to the content you’d like to report in the app or on [reddit.com](https://www.reddit.com/).
 
-For more information, please visit Reddit's [enforcement philosophy](https://support.reddithelp.com/hc/articles/23511059871252-Content-Moderation-Enforcement-and-Appeals). You can also learn about our policy enforcement data in the latest [Reddit Transparency Report](https://redditinc.com/transparency).
+For more information, please visit Reddit's [enforcement philosophy](https://support.reddithelp.com/hc/articles/23511059871252-Content-Moderation-Enforcement-and-Appeals). You can also learn about our policy enforcement data in the latest [Reddit Transparency Report](https://redditinc.com/policies/transparency).
 
 - - -
 
@@ -304,71 +305,154 @@ For more information, please visit Reddit's [enforcement philosophy](https://sup
 
 - - -
 
-No. Reddit is quite open and pro-free speech, but it is not okay to post someone's personal information or post links to personal information. This includes links to public Facebook pages and screenshots of Facebook pages with the names still legible.
+**Respect people’s privacy and do not share, seek, or expose personal information on Reddit.**
 
-Posting someone's personal information will get you banned. When posting screenshots, be sure to edit out any personally identifiable information to avoid running afoul of this rule.
+Most people use Reddit pseudonymously, and this policy prohibits sharing or helping others find private or personal information that may identify, track, or target someone without their consent. Exposing this information can create serious risks, including stalking, harassment, identity theft, financial harm, or other offline harms.  
+ 
 
-Public figures can be an exception to this rule, such as posting professional links to contact a congressman or the CEO of a company. But don't post anything inviting harassment, don't harass, and don't cheer on or upvote obvious vigilantism.
+What are some things that may violate this policy?
+--------------------------------------------------
 
-**To report a Personal Information violation, please visit [this page](https://www.reddit.com/report).**
+*   Sharing personally identifiable information, such as someone’s home address, precise residential location, government ID, financial account details, login credentials, private medical records, or realistic generated or manipulated versions of those materials.
+*   Sharing private contact information or personal profiles to identify, contact, or target someone.
+*   Connecting a Reddit username to their real-world identity, external profile, employer, school, or other identifying detail in a way that reveals who the account holder is.
+*   Sharing live or near-live locations that could enable the physical tracking or targeting of an individual outside of their public or official duties.
+*   Asking or coordinating with others to find, contact, or expose a specific person.
+*   Revealing sensitive personal details about an identifiable private person, such as health status, sexual orientation, gender identity, immigration status, or similar information.
+*   Compiling or crowdsourcing details to identify or expose someone without their consent.
+
+Note: Information being available somewhere else does not automatically make it okay to post on Reddit if doing so could create a safety risk for someone. Limited exceptions may apply to public figures, such as sharing links to official, public-facing professional contact channels for a public official or company CEO. These exceptions do not permit sharing private information about them or their families, such as their minor children’s locations, private medical details, real-time location, or private contact information. Even when discussing public figures, do not invite or encourage harassment, harass anyone, or cheer on or upvote obvious vigilantism.
+
+Some examples of policy violations
+
+*   Posting a photo of someone else’s passport with personal details visible.
+*   Posting “u/example is my coworker, Jane Smith” without a clear indication of consent from the identified redditor.
+*   Posting a stranger’s photo and asking, “Who is this, and where can I find them?”
+*   Naming the café someone is in right now and telling others to go find them.
+*   Sharing someone’s private phone number and telling others to call and complain.
+*   Asking for screenshots of someone’s social media posts after they made their account private.
+*   Posting “this is where she lives” with a link to a page showing someone’s home address.
+
+Some examples that do NOT violate this policy
+
+*   Sharing your own public-facing business contact or personal website.
+*   Broadly discussing someone’s whereabouts (e.g., city, state) without identifying where they could currently be found.
+*   Criticizing a business or someone’s professional conduct, including sharing public business contact information, but not private details such as a home address.
+*   Linking to professional news reporting that identifies someone by name about a matter of public interest.
+*   Sharing the publicly listed phone number of an elected representative’s office and encouraging others to call about a policy issue, without encouraging harassment or threats.
+
+  
+How can I report potential violations of this policy?
+--------------------------------------------------------
+
+To report content that potentially violates this policy, you can use the [report button](https://support.reddithelp.com/hc/articles/360058309512-How-do-I-report-a-post-or-comment) next to the content you’d like to report in the app or on [reddit.com](https://www.reddit.com/).
+
+For more information, please visit Reddit's [enforcement philosophy](https://support.reddithelp.com/hc/articles/23511059871252-Content-Moderation-Enforcement-and-Appeals). You can also learn about our policy enforcement data in the latest [Reddit Transparency Report](https://redditinc.com/policies/transparency).
 
 - - -
 
-Respecting the privacy of others means being mindful of the impact of posting someone’s picture or video. In particular, you can cause serious harm when posting something that was shared in private and wasn’t ever intended to be shared in public. 
+**Respect people’s privacy and do not seek, share or threaten to share someone’s intimate media without their consent.**
 
-Rule 3 prohibits sharing intimate or sexually explicit media of a person created or posted without their permission. 
+You can cause serious harm when posting something that was recorded privately or without consent, or shared in confidence by someone who never intended to share it publicly. Specifically, this policy aims to protect people from having their private, intimate images or likeness exposed without their permission or used to shame, pressure, or exploit them. 
 
-Intimate media include a depiction of the person in a state of nudity or engaged in any act of sexual conduct, including depictions that may have been AI-generated or faked. Images or video of intimate parts of a person's body, even if the person is clothed or in public, if contextualized in a salacious manner (e.g., "creepshots" or "upskirt" imagery), are also prohibited. 
+Intimate media includes a depiction of someone in a state of full or partial nudity, or engaged in sexual conduct, including depictions that may have been AI-generated or faked. Images or video of intimate parts of a person’s body, even if the person is clothed or in public, if contextualized in a salacious manner (e.g., “creepshots” or “upskirt” imagery), are also prohibited.  
+ 
 
-The Rule applies to leaked, stolen or privately-shared images of an individual where the individual, or their representative, reports that they do not consent to the public sharing of the images. Additionally, images or video of another person posted for the specific purpose of faking explicit content or soliciting “lookalike” pornography (e.g. “deepfakes” or "bubble porn") is also against the Rule. 
+What are some things that may violate this policy?
+--------------------------------------------------
 
-Some examples that violate the Rule:
+*   Sharing leaked, stolen, or privately-shared intimate media of an individual who did not consent to the recording and/or public sharing of this media.
+*   Offering, soliciting, trading, or facilitating the exchange of non-consensual intimate media.
+*   Creating, requesting, or resharing edited, manipulated, or AI-generated intimate media of a real identifiable person.
+*   Using a non-intimate image of a real person to request or create intimate media.
+*   Promoting, sharing links to, or providing instructions for tools that facilitate the creation of non-consensual intimate media.
+*   Threatening to share or create intimate media, real or fabricated, to pressure, punish, silence, or coerce someone.
+*   Sharing non-consensual media that focuses, zooms in, or crops someone’s intimate areas, including media taken in public places.
+*   Sharing media that depicts accidental nudity or non-sexual nudity in order to target, sexualize, humiliate, or expose someone.
 
-*   Private sexting photos reshared with anyone other than the intended recipient, regardless of whether there was an intent to humiliate, intimidate, or to violate the person’s privacy. 
-*   Topless image of someone sunbathing in their garden, apparently taken without their awareness.
-*   Accidental nip-slip moment of a person in public caught on camera.
-*   Sharing nude shots of a famous model taken with their consent if they indicate they do not want those images shared publicly.
-*   Offering or soliciting stolen intimate or sexually explicit images of somebody.
+Note: Context matters. This policy is not intended to prohibit consensual adult sexual expression, media distributed commercially with the consent of those depicted, artistic depictions (e.g., cartoons, anime, etc.), or AI-generated sexual media that depicts fictional people or characters – although keep in mind our rules regarding respecting the [intellectual property of others](https://support.reddithelp.com/hc/sections/360008810152-Intellectual-Property-issues). 
 
-Note that the rule does not apply to media distributed commercially with the consent of those depicted, AI-generated sexual media that depicts fictional people or characters, or artistic depictions (e.g., cartoons, anime, etc.) – although keep in mind our rules regarding respecting the intellectual property of others. 
+Some examples of policy violations
 
-To report non-consensual intimate media, you can use the inline report feature on the app or website, or you can visit [this page](https://www.reddit.com/report).
+*   Posting or resharing an intimate image that a romantic partner shared privately.
+*   Sharing intimate imagery of someone who appears to be sedated or unconscious.
+*   Posting a topless image of someone sunbathing in their garden without their consent.
+*   Asking someone in chat to send non-commercial, intimate media of someone else who isn’t a part of the conversation.
+*   Sharing a prompt that enables an AI tool to digitally “undress” or generate sexualized media of real people.
+*   Posting someone’s non-intimate image to share or request sexual “tributes”.
+*   Threatening to expose someone’s intimate media unless they send you money.
+*   Sharing nude shots of a famous model taken with their consent if they’ve confirmed they no longer want the content to be shared publicly.
 
-If somebody has shared intimate images of you or somebody you know, click [here](https://www.reddithelp.com/hc/en-us/articles/360043513951-What-should-I-do-if-someone-has-shared-or-threatened-to-share-intimate-images-of-me-or-somebody-I-know-) for more information and support.
+Some examples that do NOT violate this policy
+
+*   An adult content creator posting their own consensual content in a community that allows it.
+*   Asking a creator for their official subscription page or profile when they’ve invited those requests, in a community that allows it.
+*   Journalism, research, advocacy, moderator warnings, or survivor support discussing sextortion without sharing or requesting intimate media.
+*   Historical, documentary, or medical depictions of non-sexual nudity, such as clinical or anthropological practices.
+*   Sharing a breastfeeding photo in an educational or medical discussion with the consent of the person shown.
+
+  
+How can I report potential violations of this policy?
+--------------------------------------------------------
+
+To report content that potentially violates this policy, you can use the [report button](https://support.reddithelp.com/hc/articles/360058309512-How-do-I-report-a-post-or-comment) next to the content you’d like to report in the app or on [reddit.com](https://www.reddit.com/).
+
+For more information, please visit Reddit's [enforcement philosophy](https://support.reddithelp.com/hc/articles/23511059871252-Content-Moderation-Enforcement-and-Appeals). You can also learn about our policy enforcement data in the latest [Reddit Transparency Report](https://redditinc.com/policies/transparency).
 
 - - -
 
-Reddit prohibits any sexual or suggestive content, and predatory or inappropriate behavior, involving minors (i.e., people under 18 years old) or someone who appears to be a minor. 
+**Protect minors. Never sexualize, exploit, or seek sexual contact with anyone under 18.**
 
-This includes sharing, offering, or asking for child sexual exploitation content, including child sexual abuse material (CSAM). CSAM can be defined as a visual depiction of sexually explicit conduct involving a minor, including the display of a child’s nude body part in a sexual way. This prohibition applies even if the content is self-generated by a minor, shared with other minors, or reshared to criticize or denounce its existence. 
+Reddit has no tolerance for the sexual exploitation or sexualization of minors. Any form of predatory or inappropriate behavior involving a minor is also strictly prohibited. A minor is anyone under 18 years old, and this policy applies equally to minors, and people who appear to be minors. 
 
-[We report CSAM to the appropriate authorities](https://reddithelp.com/hc/en-us/articles/10654543840276-How-does-Reddit-fight-Child-Sexual-Exploitation-) and have active partnerships and collaborations with others in the industry, as well as organizations such as the National Center for Missing and Exploited Children (NCMEC). We also use industry-standard technologies to help us detect known illegal content that users attempt to share on the platform.
+Do not post, request, produce, or threaten to produce child sexual exploitation content, including child sexual abuse material (CSAM). CSAM can be defined as any visual depiction of sexually explicit conduct involving a minor, including a sexualized display of a child’s body. It is illegal and prohibited regardless of who created it, who is sharing it, or why. This prohibition also applies to content a minor made of themselves, content exchanged between minors, and content reposted in order to condemn it or denounce its perpetrators. 
 
-We generally prohibit fantasy or fictional content (e.g. stories, deepfakes, photoshopped media) that depicts, encourages, or normalizes child sexual exploitation, sexual interest in children, or otherwise sexualizes minors –although an exception may be made for genuine artistic expression that does not encourage or normalize the sexualization of children (for example, representations from popular movies, TV shows, paintings, etc.). Depending on the context, sexualization of minors can also include depictions of minors that are fully clothed and not engaged in explicit sexual acts.
+[We report CSAM to the appropriate authorities](https://reddithelp.com/hc/articles/10654543840276-How-does-Reddit-fight-Child-Sexual-Exploitation-) and have active preventive partnerships and collaborations with others in the industry, as well as organizations such as the National Center for Missing and Exploited Children (NCMEC). We also use industry-standard technologies to help us detect known illegal content that users attempt to share on the platform.
 
-Here's a non-exhaustive list of examples that violate this policy: 
+If you are unsure about a piece of content involving a minor, do not share it.  
+ 
 
-*   A cartoon depiction of a prepubescent child engaged in a sexual act  
-*   A comment sexualizing a non-sexual image or video of a minor
-*   A community sexualizing a celebrity who is younger than 18 y.o., or was younger than 18 y.o. in the content depicted
-*   A post encouraging or advocating to normalize paedophilia as a socially acceptable sexual orientation
-*   Soliciting or offering "nudes" of minors, whether the poster is an adult or a minor 
+What are some things that may violate this policy?
+--------------------------------------------------
 
-If you are unsure about a piece of content involving a minor, do not share it. 
+*   Posting, linking to, requesting, offering, trading, selling, or promoting child sexual abuse material, sexually suggestive content, or any other sexual exploitation content involving minors.
+*   Sexualizing a minor through comments, captions, ratings, polls, crops, edits, or compilations built from otherwise ordinary images or video, including where the minor is fully clothed or there is no sexual act depicted.
+*   Sexualizing the depiction of someone who was known to be a minor when the content was created (e.g., celebrities, performers, athletes, influencers).
+*   Creating, requesting, or sharing manipulated or synthetic sexual depictions of a minor, including edited photos, face swaps, AI-generated imagery, and any prompts, tools, or services built to produce such depictions.
+*   Fictional or fantasy material (e.g., stories, animated or digitally altered media, roleplay) that depicts, encourages, or normalizes child sexual exploitation, sexual interest in children, or otherwise sexualizes minors
+*   Sexual or romantic approaches to someone who is or appears to be a minor, including sexual conversation, requests for intimate images (which qualifies as CSAM solicitation), sexual roleplay, grooming behavior, and attempts to arrange contact online or in person.
+*   Coercing, pressuring, or blackmailing a minor over sexual content or information, including demands for more images, money, or silence.
+*   Using Reddit to facilitate inappropriate interactions with minors on other platforms or websites or via electronic devices.
+    
+*   Running accounts, profiles, usernames, or communities dedicated to any of the above, or using coded language, tags, or handles to signal availability of this material.
 
-Additionally, any form of predatory or inappropriate behavior involving a minor is strictly prohibited. This may include a variety of interactions such as asking a minor to engage in sexual conversations, asking a minor to produce or share nude or suggestive images of themselves (which qualifies at CSAM solicitation), an adult attempting to meet with a minor in real life, or engaging in sexual role-play where an adult might assume the role of a minor. Using Reddit to facilitate inappropriate interactions with minors on other platforms, websites or via electronic devices is also prohibited.
+Note: We enforce this policy against a range of harmful content and behaviors. Some of our prohibitions go above and beyond legally-defined requirements. However, in some cases, we do rely on contextual information or signals from the community to determine the inappropriate nature of the content or behaviors. We also recognize that child sexual exploitation and related topics may be discussed in the context of preventative education, news stories, or societal concern, and we may allow this discourse to happen as long as it does not violate the letter or spirit of the prohibitions listed above.
 
-Here's a non-exhaustive list of examples that violate this policy: 
+Some examples of policy violations
 
-*   Direct messaging nude or sexually-explicit images or videos to a minor
-*   Threatening a minor if they don't share nude images 
-*   An adult engaging a minor in sexually explicit conversation
-*   An adult requesting an intimate or sexual encounter off platform with a minor
-*   An exchange between an adult and a minor that may include a combination of flattery, offers of gifts, or requests for personal information or to meet privately online or in real life
+*   An animation depicting a child in a sexual act.
+*   A comment rating the attractiveness or sexual maturity of a child in a school photo or dance video.
+*   A community that collects and reposts swimwear or gymnastics clips of a teenage performer for sexual gratification.
+*   Using AI tools to create nude or sexually explicit images of a minor, even if the creator is another minor, such as a classmate.
+*   Asking for prompts or instructions to generate CSAM with an AI tool.
+*   An adult asking a minor for photos, or offering money, gift cards, or in-game currency in exchange for them.
+*   “Grooming” of a minor by an adult, such as through chat messages that may include a combination of flattery, requests for personal information, or to meet in person.
+*   A profile or username advertising access to “young” content, or a megathread of links described as under-18 material.
 
-We enforce Rule 4 against a range of harmful content and behaviors. Some of our prohibitions go above and beyond legally-defined requirements.  However, in some cases, we do rely on contextual information or signals from the community to determine the inappropriate nature of the content or behaviors. We also recognize that child sexual exploitation and related topics may be discussed in the context of news stories, societal concern, or preventative education, and we may allow this discourse to happen as long as it does not violate the letter or spirit of the prohibitions listed above.
+Some examples that do NOT violate this policy
 
-To report sexual or suggestive content or inappropriate behavior involving minors, you can use the in-line report feature on the app or website, or you can visit [this page](https://www.reddit.com/report).
+*   News reporting, court records, or documentary discussion of a child exploitation case, shared without exploitative imagery or sexualizing commentary.
+*   A survivor describing their own experience, or an adult recounting something that happened to them when they were underage.
+*   Minors asking age-appropriate questions about puberty, health, identity, relationships, or safety in a support or educational context.
+*   A recognized film, novel, painting, or performance that references child abuse without a sexual depiction and without endorsing it.
+
+  
+How can I report potential violations of this policy?
+--------------------------------------------------------
+
+To report content that potentially violates this policy, you can use the [report button](https://support.reddithelp.com/hc/articles/360058309512-How-do-I-report-a-post-or-comment) next to the content you’d like to report in the app or on [reddit.com](https://www.reddit.com/).
+
+For more information, please visit Reddit's [enforcement philosophy](https://support.reddithelp.com/hc/articles/23511059871252-Content-Moderation-Enforcement-and-Appeals). You can also learn about our policy enforcement data in the latest [Reddit Transparency Report](https://redditinc.com/policies/transparency).
 
 - - -
 
