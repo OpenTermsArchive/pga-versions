@@ -131,3 +131,6 @@ Our Community Standards apply to content worldwide and are integral to protectin
 If you are an authorized competent authority and would like to submit a report under TCO, you may do so by clicking on the button below. Submitting reports in accordance with TCO is only available in the European Union. If you are not an authorized competent authority under this regulation, you may report content which you believe is unlawful directly from the [Legal Removal Request form](https://help.instagram.com/contact/406206379945942).
 
 [Submit Report](https://www.facebook.com/records/login/)
+
+Other ways to get help
+----------------------
