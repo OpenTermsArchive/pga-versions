@@ -961,7 +961,7 @@ _\* Financial Aggregators are only permitted in Australia, France, Japan, South 
     *   Real estate investment firms
         *   Advertiser holds a license from the Ministry of Land, Infrastructure, Transport and Tourism (“MLIT”)
     *   Debt consolidation support and multi-loan advisory services
-        *   Advertiser holds a Judicial Scrivener's license.
+        *   Advertiser either holds a Judicial Scrivener's license or an attorney’s license.
     *   Banking products or services
         *   Advertiser holds a license from the Kenya Central Bank Authority (“CBK”)
     *   Foreign exchange products or services
