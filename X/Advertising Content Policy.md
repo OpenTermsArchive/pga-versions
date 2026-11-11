@@ -937,7 +937,7 @@ _\* Financial Aggregators are only permitted in Australia, France, Japan, South 
 
 \*\* _Cash loans are only permitted in Mexico with restrictions_
 
-\*\*\* _Peer to peer lending is only permitted in Indonesia and Mexico with restrictions_
+\*\*\* _Peer to peer lending is only permitted in Indonesia, Mexico and Saudi Arabia with restrictions_
 
 *   *   Financial aggregators, financial instruments such as securities or shares, or entities offering stock trading or brokerage services
         *   Advertiser holds a registration with the Australian Securities and Investment Commission ("ASIC")
