@@ -1,11 +1,9 @@
-Advertising guidelines
+Advertising Guidelines
 
 
 ==========================
 
 Table of contents
-
-_We're updating our Advertising Guidelines, effective 12 November 2026. You can preview the updated Advertising Guidelines ._
 
 Our mission
 ===========
@@ -52,7 +50,7 @@ Please note that the targeting of proxies for the sensitive categories above is 
 
 #### Protected groups
 
-Some ad categories have additional targeting restrictions. In addition to the sensitive targeting guidelines, in certain markets, ads in the following categories can’t use actalike, age, gender or postcode targeting options or exclude protected groups:
+Some ad categories have additional targeting restrictions. In addition to the sensitive targeting guidelines, in certain markets ads in the following categories cannot use actalike targeting, certain demographic targeting (such as age, gender or postcode) or exclude Protected groups:
 
 *   Credit: Ads promoting credit products such as credit cards, mortgages and loans.
 *   Employment: Ads promoting employment opportunities, including full-time jobs, part-time jobs and working from home.
@@ -173,7 +171,7 @@ Ads should adhere to the highest levels of editorial quality. We don’t allow a
 We care about the ad experience from start to finish, including the URL your ad links to. We want to make sure users find what they're looking for when they click through. We don’t allow landing pages that:
 
 *   Require people to take an action (such as signing up) before they can see certain content, unless your ad makes it clear that this is required
-*   Have pop-up ads or start automatic downloads on someone’s device
+*   Have non-dismissible pop-up ads or start automatic downloads on someone’s device
 *   Force people to visit another page
 *   Primarily contain advertising content (made-for-ads sites)
 *   Lead to inconsistent experiences
@@ -286,19 +284,15 @@ We also do not allow the advertising of hookahs, hookah bars, cigars or cigar ba
 
 We don't allow ads that promote the following products, services or business models:
 
-*   Penny or bidding fee auctions
-*   Payday loans
-*   Plaintiff recruitment services
-*   Bail bonds
-*   All cryptocurrency products and services except those explicitly allowed in our
-*   Services that promise large financial returns for minimal investment or effort, such as multilevel marketing models or get-rich-quick opportunities
-*   Fake online tech support
-*   Products or services that use hidden costs or bait and switch tactics
-*   Companies that offer homework or essay writing services for students (tutoring services are OK)
-*   Companies that sell social media followers
-*   Negative option billing services
-*   Products or services that make unrealistic or exaggerated claims or purport to have magical properties
-*   Ads that show a different product or service than the one being offered in an intentionally deceptive way
+*   Predatory financial products
+    *   Binary options
+    *   Payday loans
+    *   All cryptocurrency products and services except those explicitly allowed in our
+*   Exploitative schemes
+    *   Penny or bidding fee auctions
+*   Legal system exploitation
+    *   Plaintiff recruitment services
+    *   Bail bonds
 
 In addition to the above, promotions must adhere to the following:
 
@@ -318,6 +312,26 @@ In addition to the above, promotions must adhere to the following:
     *   Cannot contain repetitive words and/or phrases, or include any text that is unrelated or irrelevant to the custom promotion
 
 We expect our advertisers to be honest with their customers and set clear expectations about product quality, delivery times, return processes and services provided. We reserve the right to reject an advertiser based on poor third-party ratings or a record of complaints.
+
+### Scams, deceptive goods and practices
+
+We don't allow the advertising of anything that facilitates or promotes dishonest commerce, exploitative schemes or deceptive practices. This includes ads that use exaggerated claims, intentional misrepresentation, misleading pricing, bait-and-switch tactics, deceptive redirects or other deceptive methods to mislead people about the nature of the product, service or offer.
+
+We prohibit ads that promote:
+
+*   Products, services or offers misrepresented through synthetic media, manipulated content or other deceptive practices
+*   Products or services featuring hidden costs, misleading pricing or bait-and-switch tactics
+*   Tools or templates intended to facilitate, automate or scale scams or deceptive activities
+*   Ads that intentionally show a different product or service than the one being offered
+*   Fake or deceptive offers, grants, prizes or giveaways used to mislead people
+*   Fictitious or non-existent products, services or shopfronts
+*   Services that promise large financial returns for minimal investment or effort, such as multilevel marketing models or get-rich-quick opportunities
+*   Services that enable academic dishonesty, including homework or essay writing services for students (tutoring services are fine)
+*   Services that artificially inflate engagement metrics, including by selling social media followers
+*   Products or services making unrealistic or exaggerated claims or purport to have magical properties
+*   Fake online tech support
+*   Impersonation or social engineering used to deceive people or misrepresent an identity, brand or affiliation
+*   Negative option billing services
 
 ### Weapons and explosives
 
@@ -384,7 +398,7 @@ We don’t allow the advertising of:
 *   Gambling websites
 *   Fantasy sports or other online prize-based games that require payment for entry
 
-Ads for brick and mortar casinos that don't lead to online gambling, lotteries or games of skill are OK except where prohibited in our country-specific guidelines.
+Ads for brick-and-mortar casinos that don't lead to online gambling, lotteries or games of skill are fine, except where prohibited in our country-specific guidelines.
 
 With prior permission from Pinterest, ads promoting responsible gambling practices are allowed with restrictions in Canada (refer to country-specific guidelines for details).
 
