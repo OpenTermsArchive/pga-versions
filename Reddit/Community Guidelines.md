@@ -287,7 +287,7 @@ What are some things that may violate this policy?
 
 Note: The [Moderator Code of Conduct](https://www.redditinc.com/policies/moderator-code-of-conduct) also prohibits moderators from encouraging or allowing organized community interference. (_See Rule 3: Respect Your Neighbors_).
 
-Some examples that DO NOT violate this policy
+**Some examples that DO NOT violate this policy**
 
 *   Visiting a community you're not a member of to ask for advice or a recommendation.
 *   Downvoting a piece of content that is off topic in a community you are part of.
@@ -323,7 +323,7 @@ What are some things that may violate this policy?
 
 Note: Information being available somewhere else does not automatically make it okay to post on Reddit if doing so could create a safety risk for someone. Limited exceptions may apply to public figures, such as sharing links to official, public-facing professional contact channels for a public official or company CEO. These exceptions do not permit sharing private information about them or their families, such as their minor children’s locations, private medical details, real-time location, or private contact information. Even when discussing public figures, do not invite or encourage harassment, harass anyone, or cheer on or upvote obvious vigilantism.
 
-Some examples of policy violations
+**Some examples of policy violations**
 
 *   Posting a photo of someone else’s passport with personal details visible.
 *   Posting “u/example is my coworker, Jane Smith” without a clear indication of consent from the identified redditor.
@@ -333,7 +333,7 @@ Some examples of policy violations
 *   Asking for screenshots of someone’s social media posts after they made their account private.
 *   Posting “this is where she lives” with a link to a page showing someone’s home address.
 
-Some examples that do NOT violate this policy
+**Some examples that do NOT violate this policy**
 
 *   Sharing your own public-facing business contact or personal website.
 *   Broadly discussing someone’s whereabouts (e.g., city, state) without identifying where they could currently be found.
@@ -372,7 +372,7 @@ What are some things that may violate this policy?
 
 Note: Context matters. This policy is not intended to prohibit consensual adult sexual expression, media distributed commercially with the consent of those depicted, artistic depictions (e.g., cartoons, anime, etc.), or AI-generated sexual media that depicts fictional people or characters – although keep in mind our rules regarding respecting the [intellectual property of others](https://support.reddithelp.com/hc/sections/360008810152-Intellectual-Property-issues). 
 
-Some examples of policy violations
+**Some examples of policy violations**
 
 *   Posting or resharing an intimate image that a romantic partner shared privately.
 *   Sharing intimate imagery of someone who appears to be sedated or unconscious.
@@ -383,7 +383,7 @@ Some examples of policy violations
 *   Threatening to expose someone’s intimate media unless they send you money.
 *   Sharing nude shots of a famous model taken with their consent if they’ve confirmed they no longer want the content to be shared publicly.
 
-Some examples that do NOT violate this policy
+**Some examples that do NOT violate this policy**
 
 *   An adult content creator posting their own consensual content in a community that allows it.
 *   Asking a creator for their official subscription page or profile when they’ve invited those requests, in a community that allows it.
