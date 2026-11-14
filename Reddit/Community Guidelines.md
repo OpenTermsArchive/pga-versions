@@ -122,7 +122,7 @@ What are some things that may violate this policy?
 
 Note: Content that depicts violence but doesn't violate this policy (as described above) should be labeled Not Safe for Work (“NSFW”). Additionally, we may allow appropriately labelled graphic content that has public interest value, such as legitimate news reporting, historical documentation, or citizen journalism, provided it is not used to mock victims, celebrate violence, or promote a perpetrator’s message or ideology.
 
-Some examples of policy violations
+**Some examples of policy violations**
 
 *   A post including violent imagery that encourages others to take action against an individual or a group.
 *   Creating a community that praises a mass shooter as a hero.
@@ -134,7 +134,7 @@ Some examples of policy violations
 *   A post sharing a meme or image meant to celebrate a known killer. 
 *   A community dedicated to so-called consensual non-consent ("CNC") sexual interactions.
 
-Some examples that do NOT violate this policy
+**Some examples that do NOT violate this policy**
 
 *   A post discussing a war, with graphic images from the event correctly labeled as NSFW.
 *   A user expressing thoughts of self-harm in the context of seeking help in a support community.
@@ -372,7 +372,7 @@ What are some things that may violate this policy?
 
 Note: Context matters. This policy is not intended to prohibit consensual adult sexual expression, media distributed commercially with the consent of those depicted, artistic depictions (e.g., cartoons, anime, etc.), or AI-generated sexual media that depicts fictional people or characters – although keep in mind our rules regarding respecting the [intellectual property of others](https://support.reddithelp.com/hc/sections/360008810152-Intellectual-Property-issues). 
 
-Some examples of policy violations
+**Some examples of policy violations**
 
 *   Posting or resharing an intimate image that a romantic partner shared privately.
 *   Sharing intimate imagery of someone who appears to be sedated or unconscious.
@@ -383,7 +383,7 @@ Some examples of policy violations
 *   Threatening to expose someone’s intimate media unless they send you money.
 *   Sharing nude shots of a famous model taken with their consent if they’ve confirmed they no longer want the content to be shared publicly.
 
-Some examples that do NOT violate this policy
+**Some examples that do NOT violate this policy**
 
 *   An adult content creator posting their own consensual content in a community that allows it.
 *   Asking a creator for their official subscription page or profile when they’ve invited those requests, in a community that allows it.
@@ -473,7 +473,7 @@ What are some of the criteria taken into consideration when determining violatio
 
 *   Elements of a user profile or community such as name, description, profile picture, and activity may all be indicators of impersonation.
 
-Some examples of policy violations
+**Some examples of policy violations**
 
 *   Using the name of a business and offering deals to users on its behalf without authorization.
 *   Creating an account with a username almost identical to another account's username to confuse others about which account they are interacting with. 
@@ -482,7 +482,7 @@ Some examples of policy violations
 *   Using an account that poses as an official government agency and engages users on public matters.
 *   Misrepresenting yourself as a Reddit admin with an account that uses the Reddit name and branding.
 
-Some examples that DO NOT violate this policy
+**Some examples that DO NOT violate this policy**
 
 *   Using a company's name for the purpose of discussing its products, services, or business practices.
 *   Using the name of a celebrity for a fan account that doesn't assume that identity in interactions with others.
