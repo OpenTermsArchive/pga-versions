@@ -5,7 +5,7 @@ Community Guidelines
 
 Table of contents
 
-_We're updating our Community Guidelines, effective 12 November 2026. You can preview the updated Community Guidelines ._
+_These updated Community Guidelines will be effective from 12 November 2026. Until the effective date, you can view our current Community Guidelines ._
 
 Our mission
 ===========
@@ -37,7 +37,7 @@ Pinterest isn’t a place for sexual content or visible intimate body parts. We 
 *   Sexual enhancement products.
 *   Non-consensual creation and/or distribution of intimate images including intimate image abuse (referred to as “NCII” or “IBSA”), upskirting, down-blousing and hidden camera images, or the threat to do so (referred to as “sextortion”). We’ve put together and if you come across NCII, .
 
-### Prohibited and regulated goods, services and activities
+### Dangerous goods and activities
 
 Pinterest isn’t a place for offering, manufacturing or promoting substances, products, activities or exploitative practices that risk harm to humans or animals. We remove or limit the distribution of such content and accounts, including those involving instructions, offers, glorification or promotion of:
 
@@ -50,18 +50,16 @@ Pinterest isn’t a place for offering, manufacturing or promoting substances, p
 *   Firearms, attachments, components, ammunition and other regulated weapons.
 *   Explosives, chemical or biological weapons
 
-**Harmful or deceptive products and practices**
+**Harmful or prohibited products and practices**
 
-Pinterest isn’t a place for practices and products that may be harmful or deceptive. We remove or limit the distribution of such content and accounts, including instructions and offers or promotion of:
+Pinterest isn’t a place for practices and products that may be harmful or prohibited. We remove or limit the distribution of such content and accounts, including instructions, and offers or promotion of:
 
 *   Counterfeit products, documents or currency.
 *   Stolen bank account or other personal information.
-*   Social media or similar accounts and account credentials.
+*   Social media or similar accounts, usernames or credentials offered for sale, trade or transfer.
 *   Hacking, cracking or bypassing safety or security measures.
-*   Test cheating services or products.
-*   Products or services for evading detection, enabling deception or privacy violation.
-*   Exploitative financial practices including get-rich-quick schemes.
-*   Online gambling and lotteries.
+*   Products or services for evading detection or privacy violation.
+*   Organic promotion of online gambling, lotteries and betting services.
 
 **Dangerous activities**
 
@@ -83,26 +81,28 @@ Pinterest isn’t a place for practices and products that may be harmful or dece
 Pinterest isn’t a place for hateful content or the people and groups that promote hateful activities. We remove or limit the distribution of such content and accounts, including:
 
 *   Slurs or negative stereotypes, caricatures and generalisations
-*   Support for hate groups and people promoting hateful activities, prejudice and conspiracy theories
-*   Condoning or trivialising violence because of a victim’s membership in a vulnerable or protected group
+*   Support for hate groups and people promoting hateful activities, prejudice or conspiracy theories
+*   Condoning or trivializing violence because of a victim’s membership in a protected group
 *   Support for white supremacy, limiting women’s rights and other discriminatory ideas
-*   Hate-based conspiracy theories and misinformation, such as Holocaust denial
-*   Denial of an individual’s gender identity or sexual orientation, and support for conversion therapy and related programmes
-*   Attacks on individuals including public figures based on their membership in a vulnerable or protected group
-*   Mocking or attacking the beliefs, sacred symbols, movements or institutions of the protected or vulnerable groups identified below
+*   Hate-based conspiracy theories and misinformation
+*   Denial of an individual’s gender identity or sexual orientation
+*   Attacks on individuals including public figures based on their membership in a protected group
+*   Mocking or attacking the beliefs, sacred symbols, movements or institutions associated with the protected identified below
 
-Protected and vulnerable groups include people grouped together based on their actual or perceived race, colour, caste, ethnicity, immigration status, national origin, religion or faith, sex or gender identity, sexual orientation, disability or medical condition. It also includes people who are grouped together based on lower socio-economic status, age, weight or size, pregnancy or veteran status.
+Protected and vulnerable groups include: people grouped together based on their actual or perceived race, colour, caste, ethnicity, immigration status, national origin, religion or faith, sex or gender identity, sexual orientation, disability or medical condition. It also includes people who are grouped together based on lower socio-economic status, age, weight or size, pregnancy status, serious medical condition or veteran status.
 
 ### Harassment and criticism
 
-Pinterest isn’t a place to attack or antagonise individuals or groups of people. We may remove or limit the distribution of content including:
+Pinterest isn’t a place to attack, insult or antagonise individuals or groups of people. There are good reasons to express criticism, but we may remove or limit the distribution of insulting or harassing content to keep Pinterest a positive, inspiring place. This includes:
 
-*   Cyberbullying.
-*   Content that is synthetically generated or manipulated to degrade and/or shame.
-*   Shaming people for their bodies or assumed sexual or romantic history.
-*   Sexual remarks about people’s bodies and solicitations or offers of sexual acts
-*   Personal attacks with name calling, profanity and other insulting language or imagery.
-*   Mocking someone for experiencing sadness, grief, loss or outrage.
+*   Cyberbullying and other targeted harassment.
+*   Manipulated, fabricated or synthetic content used to degrade, shame, humiliate or sexualise an identifiable person or group.
+*   Appearance-based degradation and body shaming, including degrading language, humiliating comparisons or visual highlighting that insults a person’s body, physical features or overall appearance.
+*   Shaming a person for their actual or perceived sexual or romantic history.
+*   Unwanted sexual harassment, including unsolicited sexual commentary, objectification and non-commercial sexual advances or solicitations
+*   Personal attacks, including severe name-calling, profanity or other insulting language or imagery directed at a person or identifiable group.
+*   Mocking or shaming someone for experiencing grief, sadness, loss, outrage, illness, trauma or other personal hardship.
+*   Inciting or encouraging others to target a person or identifiable group with harassment.
 
 We’ve also put together for you to protect yourself.
 
@@ -160,10 +160,10 @@ Pinterest isn’t a place for content that displays, rationalises or encourages 
 Pinterest isn’t a place for graphic violence or threatening language. We remove or limit the distribution of such content, including:
 
 *   Content that shows the use of violence
-*   Content showing or purporting to show disturbing scenes from before, during or after violent events
-*   Threats or language that glorifies violence
+*   Gory content, including graphic images of blood and wounds
+*   Threats, and language that glorifies real-world violence
 
-In a few cases, we allow the saving of disturbing images dedicated to remembrance and advocacy, but limit distribution of such content in public parts of the platform.
+In a few cases, we allow the saving of images of violence when dedicated to remembrance and advocacy, but limit distribution of such content.
 
 ### Violent actors
 
@@ -230,6 +230,21 @@ We allow fan, parody or commentary accounts for public figures or brands in cert
 
 If you have identified an account you believe to be impersonating you or someone else, you can .
 
+### Scams, deceptive goods and practices
+
+Pinterest isn’t a place for exploitative schemes, coercive tactics or dishonest offers that trick users out of their money, assets or sensitive information, or into engaging with harmful content. We also don’t allow our platform to be used to facilitate deceptive commerce or to promote services that enable dishonest behaviour. This applies regardless of whether the interaction, exchange or resulting behaviour occurs on Pinterest, is facilitated through our platform or is finalised elsewhere. We remove or limit the distribution of such content and accounts, including those involving instructions, offers, glorification or promotion of:
+
+*   Social engineering or impersonation used to obtain sensitive, personal or account information.
+*   Tools or templates intended to facilitate, automate or scale scams or deceptive activities.
+*   Exploitative financial or investment schemes promising unrealistic returns or opportunities.
+*   Deceptive offers, grants, prizes or giveaways.
+*   Fictitious products or services.
+*   Misrepresented goods or services promoted through deceptive or exaggerated claims, unrealistic promises or misleading pricing.
+*   Synthetically generated or manipulated media used to misrepresent the appearance, efficacy or nature of a product.
+*   Deceptive redirection used to funnel users towards harmful or unrelated destinations.
+*   Academic or professional dishonesty services intended to bypass testing, certification or originality standards.
+*   Engagement manipulation, including the artificial inflation of metrics through automated, paid or incentivised means to mimic authentic activity.
+
 ### Comments
 
 All of our Community Guidelines apply in comments posted on Pins. In addition, comments should be relevant. We may remove comments that violate our guidelines, including those that contain:
@@ -284,23 +299,41 @@ You can’t use Pinterest if it would be prohibited by . Personal accounts and b
 Spam
 ====
 
-We want the inspiration and ideas on Pinterest to be high quality and useful, so we remove spam when we find it. We ask that you be considerate of others' experiences on Pinterest and don't spread spam or engage in spammy behaviour.
+To maintain an environment that empowers inspiration on Pinterest, we remove spam. Users must respect the community by avoiding spreading or engaging with spam content, demonstrating spammy behaviours or attempting to bypass our anti-spam systems.
 
-Our guidelines around spam are:
+Prohibited activities include:
 
+**Coordinated or scaled activity**
+
+We want activity on Pinterest to be trustworthy, inspirational and engaging. Coordinated or scaled activity that aims to manipulate search results, flood Pinterest with repetitive content or otherwise overwhelm our systems violates Spam policy.
+
+*   Don’t operate multiple accounts or coordinate with other people with the purpose of manipulating the Pinterest platform.
 *   Don't use automation that hasn't been explicitly approved by Pinterest. This includes unauthorised services that automatically perform actions on your behalf. You can find information on approved partner tools on our .
-*   Don't create or operate accounts that aren't authentic, create accounts en masse, or create new accounts for the purpose of violating these guidelines.
-*   Don't create or save content that is repetitive, deceptive or irrelevant in an attempt to make money. To learn how to make great Pins, you can always refer to our .
-*   In general, don't attempt to make money from Pinners or Pinner web traffic in ways that are misleading, detract from the Pinner experience or don't add value for Pinners.
-*   Don't link to websites that are unsafe, deceptive, untrustworthy, unoriginal, or that facilitate or encourage spam. Websites should have original content that adds unique value for Pinners.
-*   Don't send repeated, unsolicited messages, especially if your messages are commercial or deceptive in nature.
-*   Don’t make repetitive or irrelevant comments. Comments should be authentic and original. We also ask you to be kind to others by keeping your commentary respectful and constructive.
-*   Don't operate multiple accounts or coordinate with other people with the purpose of manipulating the Pinterest platform.
-*   Don’t use any other unscrupulous tactics to attempt to improperly influence distribution, clicks or other metrics, including buying or selling engagement, "stuffing" irrelevant keywords, generating inauthentic traffic, or redirecting existing Pins to new destinations.
-*   Don't attempt to evade our anti-spam systems. For example, don’t use redirection to attempt to link to a site that is not permitted on Pinterest.
-    *   With respect to redirection, we encourage you to follow a “no surprises” principle – Pinners should be able to reasonably anticipate where your link will take them. Links that exhibit excessive or deceptive redirection, as well as shortener services that are abused for spam, may be blocked.
 
-Last updated: May 2026
+**Mass comments and messaging**
+
+*   Don't send irrelevant repeated or unsolicited messages, especially if your messages are commercial or deceptive in nature.
+*   Don’t make repetitive or irrelevant comments. Comments should be authentic and original.
+
+**Inauthentic account activity**
+
+Content and activity should remain authentic, helpful and provide meaningful value to others.
+
+*   Don't create or operate accounts that aren't authentic, create accounts en masse, or create new accounts for the purpose of violating these guidelines.
+*   Don't attempt to make money from Pinners or Pinner web traffic in ways that are misleading, detract from the Pinner experience or don't add value for Pinners.
+*   Don't create, save or distribute content that is repetitive, deceptive or irrelevant in an attempt to make money. To learn how to make great Pins, please refer to our .
+*   Do not create Pins that cause deception or otherwise trick Pinners into engaging.
+*   Don’t use any other dishonest tactics to attempt to improperly influence distribution, clicks or other metrics, including: buying or selling engagement, "stuffing" irrelevant keywords or generating inauthentic traffic.
+
+**Harmful domains and deceptive linking**
+
+Websites should have original content that adds unique value for Pinners, including having a reasonable expectation where the link will lead.
+
+*   Don't link to websites that are unsafe, deceptive, untrustworthy, unoriginal, or that facilitate or encourage spam.
+*   Don’t use redirection to attempt to link to a site that is not permitted on Pinterest.
+*   When it comes to Pin links or URLs within user profiles, we encourage you to follow a “no surprises” principle – Pinners should be able to reasonably anticipate where your link will take them. Links that exhibit excessive or deceptive redirection, as well as shortener services that are abused for spam, may be blocked.
+
+Last updated: November 2026
 
 Table of contents
 -----------------
