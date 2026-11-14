@@ -83,7 +83,7 @@ YouTube does not allow unauthorized impersonation of a person, entity, or channe
 
 If you see content that violates this policy, [report it](https://support.google.com/youtube/answer/2802027).
 
-*   If you feel that yours or another creator's channel is being impersonated, you can [report the channel](https://support.google.com/youtube/contact/impersonation).
+*   If you feel that yours or another creator's channel is being impersonated, you can [report the channel](https://support.google.com/youtube/answer/2802027).
 *   If you find your personal information, a video featuring you, or AI-generated content mimicking your likeness or voice without your consent, you can file a [request for removal under our privacy guidelines](https://support.google.com/youtube/answer/7671399).
 
 We will consider a variety of factors when evaluating removal requests. These factors include whether the material is parody or satire, or whether it features public officials or well-known individuals.
