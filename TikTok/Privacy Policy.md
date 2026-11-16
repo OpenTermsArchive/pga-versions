@@ -1,7 +1,5 @@
 Privacy Policy
 
-_We are changing how we show ads to UK users. Our new [Privacy Policy for UK users](https://www.tiktok.com/legal/page/global/privacy-policy-eea-new/en) comes into effect on 30 June 2027 or, if you are in the UK, when you make a choice about ads._
-
   
 
 Last updated: _30 November 2025_
