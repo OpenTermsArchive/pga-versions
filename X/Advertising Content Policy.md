@@ -95,38 +95,121 @@ This policy applies to monetization on \>x< and \>x<’s paid advertising produc
 What's the policy?
 ------------------
 
-To ensure that customers have a positive experience on \>x<, advertisements must adhere to the following guidelines and comply with all applicable consumer and regulatory content standards and guidelines.
+To ensure people have a positive, trustworthy experience on X, ads must be clear, professional and consistent with the brand or product being promoted.
+
+Clear, well-made creative and working landing pages make ads easier to understand and use, and help build trust in advertising on X.
+
+All ads must also comply with applicable laws, regulations and consumer protection standards.
 
 Ad Consistency
 --------------
 
-*   Ads, including the ad creative, ad copy, ad images, ad videos, and ad call-to-action (CTA) should be consistent with the brand or product being promoted.
+Ads, including creative, copy, images, video, and call-to-action (CTA), should clearly match the brand or product shown on the landing page.
+
+| Allowed | Not Allowed |
+| --- | --- |
+| An ad for a brand’s running shoes, with a “Shop now” button that leads to where those shoes can be bought. | A “Shop now” button that opens an article with no way to buy the product. |
 
 Creative Quality
 ----------------
 
-Editorial
+##### **Editorial**
 
-*   Ads must use proper grammar and spelling.
-*   Ads should avoid punctuation mistakes, excessive use of capitalization, or symbols
-*   Ads must not include hashtags or urls in the ad text.
-*   Ads should not include more than one emoji. _\*Exception: Boosted Posts or ads only targeting Japan and/or Korea_
-*   Media
-*   Ads should avoid images, video or animations that are gimmicky, excessively cropped, or indecipherable.
-*   Ads should not contain disruptive content resulting in unexpected user experiences, aggressive flashing/effects or loud noises.
+*   **Spelling, grammar and capitals.** Ad text, including text in images and video, must use correct spelling and grammar. Capitals, punctuation and symbols must not be used in ways that make text hard to read.
+
+| Allowed | Not Allowed |
+| --- | --- |
+| Brand or product names in capitals, common acronyms, and conventional all-caps sports or entertainment partnership language that stays readable. | “HUGE SALE!!! ACT NOW!!!” or “BuY nOw FoR gReAt DeAlS”. |
+
+*   **Hashtags and web addresses.** Ad text must not include hashtags or web addresses (URLs). Add your link as the ad’s destination instead.
+*   **Emoji.** Ads must not include more than one emoji, counting the ad text, images and video. **Exception:** Boosted Posts, and ads that target only Japan, Korea or both.
+
+##### **Media**
+
+*   **Clear and finished.** Images, video and animations must be sharp, load or play, and look finished and professional. They must not be blurry, pixelated, gimmicky, indecipherable or cropped so the subject is cut off.
+
+| Allowed | Not Allowed |
+| --- | --- |
+| Intentional blurring that hides private details, such as an address or phone number. | Obvious editing or AI errors, such as warped hands, impossible physics or garbled text. |
+| Comic panels or artwork cropped on purpose. | Close-ups of body parts, such as feet, nails or skin, as the main image in a product demo. |
+| Stylized or hand-drawn animation that looks intentional and polished. | Crude sexual innuendo, including before-and-after images that rely on suggestive stand-ins. |
+
+*   **Readable text.** Text in images and video must be easy to read. It must not be too small to read, cut off, or cover the main content.
+
+| Allowed | Not Allowed |
+| --- | --- |
+| A short product name and price, with the product still clearly visible. | Fine print that can’t be read without zooming in. |
+
+*   **No disruptive effects.** Ads must not include aggressive flashing or strobing, sudden loud sounds, or jump scares.
+
+| Allowed | Not Allowed |
+| --- | --- |
+| A countdown graphic for an event that changes numbers without strobing or flashing. | A sudden scream in a video ad for a phone case. |
 
 Landing Pages
 -------------
 
-*   The landing page’s primary purpose cannot be advertising; it should be directly relevant to what is being advertised in the ad creative.
-*   The landing page must link to a working page and should be compliant with all ads policies.
-*   The landing page should not contain disruptive pop ups, or automatic downloads.
+Your landing page must follow all X ads policies.
 
-What do advertisers need to know about this policy?
+*   **Relevant.** Your landing page must be directly relevant to your ad and match the brand, product or offer your ad promotes. Its main purpose can’t be advertising.
 
-Review our guidelines and make sure you understand the requirements for your brand and business. You are responsible for all your promoted content on \>x<. This includes complying with applicable laws and regulations regarding advertisements.
+| Allowed | Not Allowed |
+| --- | --- |
+| An ad for a skincare serum that opens the product page for that same serum | An ad for one product that opens a page for a different, unrelated product. |
+| An ad for a seasonal sale that opens a page listing the brand's discounted products. | A page made up mostly of ads, links to other websites or search results. |
 
-If you are an advertiser whose account or Posts are under review and you would like to check on the status or request an expedited review, please log in to [ads.x.com](http://ads.x.com/) and file a support ticket using the Help button in the top right corner of your ads dashboard.
+*   **Link pages.** If your ad links to a page of links, such as a creator’s link-in-bio page, every link on that page must follow all X ads policies.
+*   **Visible.** People must be able to see the product, service or offer your ad promotes. If they need to sign in, subscribe, pay or download an app first, your ad must clearly say so.
+
+| Allowed | Not Allowed |
+| --- | --- |
+| A news ad that says “Subscribe to read” and opens a subscription page. | An article ad that opens a paywall with no mention of a subscription. |
+
+*   **Working.** Your landing page must load and work as expected. It must not start downloads automatically or show pop-ups or overlays that block the content or can’t be closed.
+
+| Allowed | Not Allowed |
+| --- | --- |
+| A newsletter sign-up pop-up with a clear close button. | A pop-up that covers the page and has no way to close it. |
+
+What do advertisers need to know?
+---------------------------------
+
+You're responsible for all your promoted content on X, including following applicable laws and regulations.
+
+Before you submit
+
+1.  Make your brand clearly visible in the ad.
+    
+2.  Make sure your landing page loads and works as expected.
+    
+3.  Make sure your landing page matches your ad and any sign-in, subscription or app requirement is stated in the ad.
+    
+
+### **If your ad is halted**
+
+You can fix the ad and resubmit it. If you believe your ad should not have been halted, you can appeal it.
+
+How to appeal an ad
+
+1.  Log in to Ads Manager at ads.x.com
+    
+2.  Open the ad that was halted
+    
+3.  Select the appeal button.
+    
+
+Appealed ads are reviewed against the X Ads policies, including the ad creative and landing page. Your ad won't be shown while your appeal is under review.
+
+*   If your appeal is accepted, the ad can run again.
+*   If your appeal is declined, you can fix the ad and resubmit it.
+
+If you don't see Appeal on a halted ad, contact X Ads Support using the Help button in [ads.x.com](https://ads.x.com/).
+
+### **If your ads account is halted**
+
+If your ads account is halted, contact X Ads Support to request a review of your account by logging into [ads.x.com](https://ads.x.com/) and file a support ticket using the Help button in the top right corner of your ads dashboard.
+
+If your account is reinstated, you'll need to fix or remove any ads that don't follow the X Ads policies before they can run again.
 
 ### Ready to get started?
 
