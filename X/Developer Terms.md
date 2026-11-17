@@ -583,7 +583,7 @@ If you need to share X content you obtained via the X APIs with another party, t
 
 *   You may only distribute up to a total of 1,500,000 Post IDs to a single entity within a 30 day period unless you’ve received prior express written permission from X.
 *   Individuals redistributing Post IDs and/or User IDs on behalf of an academic institution for the sole purpose of non-commercial research are permitted to redistribute an unlimited number of Post IDs and/or User IDs.
-*   To request permission to share X content as outlined above, please use the API Policy support form.
+*   To request permission to share X content as outlined above, please submit the [Enterprise API Interest form](https://docs.x.com/forms/enterprise-api-interest).
 
 To the extent you are permitted to distribute X content to a third party, note that this content remains subject to the Developer Agreement and Policy, and those third parties must agree to the X [Terms of Service](https://x.com/en/tos), [Privacy Policy](https://x.com/en/privacy), [Developer Agreement](https://docs.x.com/developer-terms/agreement), and [Developer Policy](https://docs.x.com/developer-terms/policy) before receiving X content.
 
@@ -695,7 +695,7 @@ X saves all the location data that a user chooses to publicly display with a Pos
 [](#summary)Summary
 -------------------
 
-The addition of location to a Post adds an enormous amount of context and value from a user perspective. However, implementations of location in your app should take privacy and user transparency as key considerations in designing a location-focused product. If you have any questions or comments about privacy, location, and other geo features, please [contact us](https://help.x.com/forms/platform).
+The addition of location to a Post adds an enormous amount of context and value from a user perspective. However, implementations of location in your app should take privacy and user transparency as key considerations in designing a location-focused product. If you have any questions or comments about privacy, location, and other geo features, please ask in the [Developer Forums](https://devcommunity.x.com/).
 
 Ctrl+I
 
@@ -779,7 +779,7 @@ When a post has been edited first, and then embedded, you must note in the times
 
 *   All timelines must allow users to view the details of an individual post (e.g., by linking the post timestamp or by linking the entire post area).
 
-If you plan any advertising near posts, please ensure it complies with the [Developer Policy](https://docs.x.com/developer-terms/policy). If for any reason you cannot comply with one or more of these rules, please contact us directly via our [Policy Support form](https://help.x.com/forms/platform) before displaying X content. For questions or further information about use of the X name and trademarks, please contact [trademarks@x.com](mailto:trademarks@x.com).
+If you plan any advertising near posts, please ensure it complies with the [Developer Policy](https://docs.x.com/developer-terms/policy). X does not make exceptions to these rules for self-serve customers. If you’re interested in becoming an Enterprise customer and need an exception for your use case, submit the [Enterprise API Interest form](https://docs.x.com/forms/enterprise-api-interest) before displaying X content. For questions or further information about use of the X name and trademarks, please contact [trademarks@x.com](mailto:trademarks@x.com).
 
 * * *
 
