@@ -440,6 +440,9 @@ Kindly refer to the Country Specific Policies section below for details.
 *   *   Offline dating / matching services are permitted.
     *   Marriage consulting services and online dating / matching services are permitted with prior authorization from \>x<. Advertisers must obtain a pre-approval by getting [certified](https://ads.x.com/en/help?ref=BTCScbhp1L0ttrA6xPjwt3ty5zN3euy3SLgrsTFC_o0KgHIKQaRg/viewform) if interested in promoting such services.
     
+*   *   Offline dating / matching services are permitted.
+    *   Marriage consulting services and online dating / matching services are permitted with prior authorization from \>x<. Advertisers must obtain a pre-approval by getting [certified](https://ads.x.com/en/help?ref=BTCScbhp1L0ttrA6xPjwt3ty5zN3euy3SLgrsTFC_o0KgHIKQaRg/viewform) if interested in promoting such services.
+    
 
 ### What other \>x< resources related to this policy?
 
@@ -1106,6 +1109,116 @@ _\* Financial Aggregators are only permitted in Australia, France, Japan, South 
     *   Banking, loan products or services, asset management, currency exchange, trading and related services, and financial products such as securities, shares
         *   Advertiser holds a license from the State Bank of Vietnam
     
+*   *   Financial aggregators, financial instruments such as securities or shares, or entities offering stock trading or brokerage services
+        *   Advertiser holds a registration with the Australian Securities and Investment Commission ("ASIC")
+    
+*   *   Financial instruments such as securities
+        *   Advertiser holds a license from the Canadian Securities Administrators ("CSA") or the Autorité des marchés financiers ("AMF")
+    
+*   *   Advertisers may only target Colombia if their business is based in Colombia
+    
+*   *   Financial aggregators
+        *   Advertisers hold necessary licenses.
+    
+*   *   Promotion of insurance products, services, and investment arrangements and products is prohibited
+    *   Banks and banking services
+        *   Advertiser holds a license from the Hong Kong Monetary Authority (“HKMA”)
+    *   Financial instruments such as securities, trading services, asset management, and credit rating services
+        *   Advertiser holds a license from the Hong Kong Securities and Futures Commission (“HSFC”)
+    
+*   *   Promotion of securities is prohibited.
+    *   Peer to peer lending
+        *   Advertiser holds an authorization from the Otoritas Jasa Keuangan (“OJK”)
+    
+*   *   Financial entities (such as banks), financial instruments such as securities, financial aggregators, firms offering investment advice, money lending institutions, and foreign exchange and insurance
+        *   Advertiser holds an authorization from the Financial Services Agency (“FSA”)
+    *   Credit card providers
+        *   Advertiser holds a license from the Japan Consumer Credit Association (“JCA”)
+    *   Real estate investment firms
+        *   Advertiser holds a license from the Ministry of Land, Infrastructure, Transport and Tourism (“MLIT”)
+    *   Debt consolidation support and multi-loan advisory services
+        *   Advertiser holds a Judicial Scrivener's license.
+    
+*   *   Banking products or services
+        *   Advertiser holds a license from the Kenya Central Bank Authority (“CBK”)
+    *   Foreign exchange products or services
+        *   Advertiser holds a license from the Kenya Capital Market Authority (“CMA”)
+    
+*   *   Money service businesses or information which may lead directly or indirectly to a transaction relating to a money services business, the promotion of securities and investment schemes, and the promotion of any form of financial speculation intended to promote or attract interest in stocks and shares (with the exception of ads for newly approved IPOs) are prohibited.
+    
+*   *   Advertisers may only target Mexico if their business is based in Mexico
+    *   Advertisers promoting cash loans or Peer to Peer lending must be registered with the Financial Services Consumer Protection Authority (“CONDUSEF”) for financial entities, or the Servicio de Administración Tributaria (“SAT”) for commercial entities
+    
+*   *   Promotion of securities is prohibited.
+    
+*   *   Credit card networks can offer its services; however, such networks offering products or services to collect money from the public, such as deposits, are prohibited
+    
+*   *   Financial entities
+        *   Advertiser holds a license from the Central Bank of the Russian Federation (“CBR”)
+    
+*   *   Peer to peer lending
+        *   Advertiser holds SAMA license or valid SAMA permission.
+        *   Advertising complies with SAMA's general advertising requirements.
+    
+*   *   Banking, moneylending, capital markets or securities, insurance, and financial advisory products or services
+        *   Advertiser holds a license from the Monetary Authority of Singapore (“MAS”)
+    
+*   *   Credit, lending, financial investment, and insurance services
+        *   Advertiser holds an authorization from a competent local authority or the Financial Supervisory Service
+    
+*   *   Only financial entities, including entities providing investment and Financial Instrument services:
+    *   Advertiser holds a license directly from a Spanish regulator, or,
+    *   Advertiser holds one of the approved EU/EEA countries authorisation/registration covered by the MIFID
+    
+*   *   Financial products and services
+        *   Advertiser holds a Financial license
+    
+*   *   Banking products and services
+        *   Advertiser holds an authorization from the Turkish Banking Regulation and Supervision Agency (BDDK)
+    *   Bank Name Handle
+        *   AKBANK T.A.Ş. @Akbank
+        *   ALTERNATİFBANK A.Ş. @AlternatifBank
+        *   ANADOLUBANK A.Ş. @Anadolubank\_TR
+        *   BURGAN BANK A.S. @BurganBankTR
+        *   DENİZBANK A.Ş. @DenizBank
+        *   DEUTSCHE BANK A.Ş. @DeutscheBank
+        *   FİBABANKA A.Ş. @fibabanka
+        *   HSBC BANK A.Ş. @HSBC\_TR
+        *   ING BANK A.Ş. @ingturkiye
+        *   ODEA BANK A.Ş. @odeabank
+        *   QNB FİNANSBANK A.Ş. @qnbfinansbank
+        *   ŞEKERBANK T.A.Ş. @sekerbank
+        *   T.C. ZİRAAT BANKASI A.Ş. @ziraatbankasi
+        *   TÜRK EKONOMİ BANKASI A.Ş. @TEB
+        *   TÜRKİYE GARANTİ BANKASI A.Ş. @GarantiBBVA
+        *   TÜRKİYE HALK BANKASI A.Ş. @Halkbank
+        *   TÜRKİYE İŞ BANKASI A.Ş. @isbankasi
+        *   TÜRKİYE VAKIFLAR BANKASI T.A.O. @VakifBank
+        *   YAPI VE KREDİ BANKASI A.Ş. @YapiKredi
+        *   PASHA YATIRIM BANKASI A.Ş. @PASHABankTR
+        *   TÜRKİYE SINAİ KALKINMA BANKASI A.Ş. @TSKB\_Turkey
+        *   ALBARAKA TÜRK KATILIM BANKASI A.Ş. @albarakacomtr
+        *   KUVEYT TÜRK KATILIM BANKASI A.Ş. @kuveytturk
+        *   TÜRKİYE EMLAK KATILIM BANKASI A.Ş. @TREmlakKatilim
+        *   TÜRKİYE FİNANS KATILIM BANKASI A.Ş. @TurkiyeFinans
+        *   VAKIF KATILIM BANKASI A.Ş. @VakifKatilim
+        *   ZİRAAT KATILIM BANKASI A.Ş. @ziraatkatilim
+    
+*   *   Promotion of speculative and illiquid securities is prohibited
+    *   Personal payment insurance refund services targeting the UK can only be advertised by the UK financial regulator, the Financial Conduct Authority (“FCA”).
+    *   Banking, brokerage, insurance, investment and savings, claims management, currency exchange and foreign exchange, fund management, investment management, financial advisory products and services
+        *   Advertiser holds a license from the Financial Conduct Authority (“FCA”) or the Gibraltar Financial Services Commission (“GFSC”)
+    
+*   *   Financial entities
+        *   Advertisers holds a license by the Securities and Commodities Authority (SCA) or the Central Bank of the U.A.E.
+    
+*   *   Financial aggregators are permitted with restrictions.
+    
+*   *   Advertisers may only target Venezuela if their business is based in Venezuela
+    
+*   *   Banking, loan products or services, asset management, currency exchange, trading and related services, and financial products such as securities, shares
+        *   Advertiser holds a license from the State Bank of Vietnam
+    
 
 ### Cryptocurrency and DeFi products and services
 
@@ -1172,6 +1285,69 @@ Advertising of below cryptocurrency and DeFI products or services is regulated a
     *   Promotion of crypto derivatives is prohibited
     *   Advertiser holds a proof of registration with the Securities Exchange Commission (“SEC”) or the Commodities Futures Trading Commision (“CFTC”) or Financial Crimes Enforcement Network (“FinCEN”)
     
+*   *   Advertiser holds a proof of enrollment and registration from AUSTRAC
+    *   Advertiser holds Australian Financial Services License (“AFSL”) or is under the exemption list
+    
+*   *   Advertiser is registered as a Money Services Business (“MSB”) with the FINTRAC or as a Securities Dealer or a Marketplace Platform
+    
+*   *   Advertiser holds a proof of registration with the Danish Financial Supervisory Authority
+    
+*   *   Advertiser holds a proof of registration from the Finnish Financial Supervisory Authority (the “FIN-FSA”)
+    
+*   *   Advertiser holds a Digital Asset Service Provider registration or license from the Autorité des marchés financiers (“AMF”)
+    
+*   *   Advertiser holds Bundesanstalt für Finanzdienstleistungsaufsicht (“BAFIN”) authorization
+    
+*   *   Advertiser holds a Securities and Futures Commission (“SFC”) license or registration
+    
+*   *   Cryptocurrency advertising must conform to the ASCI's guidelines for Virtual Digital Assets
+    
+*   *   Advertiser holds an authorization from the Otoritas Jasa Keuangan (“OJK”)
+    
+*   *   Advertiser holds a proof of registration from the Israel financial service providers
+    
+*   *   Advertiser holds an Crypto asset exchange service provider (“CAESP”) license issued by the Japanese Financial Services Agency (“FSA”)
+    
+*   *   Advertiser holds a securities license from Securities Commission, Malaysia
+    
+*   *   Advertiser holds a proof of registration with the Dutch National Bank (“DNB”)
+    
+*   *   Advertiser holds a proof of registration from the Financial Services Provider Register (“FSPR”) to either i) operate a money or value transfer service or ii) issue or manage the means of payment
+    *   Advertisers providing cryptocurrencies services must be registered for all applicable services and comply with fair dealing obligations.
+    *   Advertisers offering cryptocurrencies that are financial products must comply with applicable disclosure and fair dealing obligations and, where necessary, be licensed.
+    
+*   *   Advertiser holds a proof of registration with the Finanstilsynet
+    
+*   *   Advertiser holds a Certificate of Authority to operate as money service business from the Bangko Sentral ng Pilipinas (“BSP”)
+    
+*   *   Advertiser is registered in the Poland’s official registry
+    
+*   *   Advertiser holds a proof of registration with the Bank of Portugal
+    
+*   *   Advertiser must be licensed as a financial service provider by the competent local regulatory authority.
+    *   Advertiser must include its financial service provider number in advertisements.
+    
+*   *   Advertiser holds a Virtual Asset Service Provider (“VASP”) license
+    
+*   *   Advertiser holds a proof of registration with the Swedish Financial Supervisory Authority
+    
+*   *   Advertiser holds a Swiss Financial Market Supervisory Authority (“FINMA”) license
+    
+*   *   Advertisers holds a Financial license
+    
+*   *   Advertiser holds a license(s) from the Minister of Finance through the Securities and Exchange Commission (“SEC”)
+    
+*   *   Advertiser holds at least one of the below licenses:
+    *   Stored Value Facility license from Central Bank, UAE
+    *   Securities and Commodities Authority, UAE
+    *   Financial Services Regulatory Authority (“FSRA”)
+    *   Dubai Financial Services Authority (“DFSA”)
+    
+*   *   Advertiser holds a proof of registration or authorization with the Financial Conduct Authority (“FCA”)
+    *   Promotion of crypto derivatives is prohibited
+    
+*   *   Advertiser holds a proof of registration with the Securities Exchange Commission (“SEC”) or the Commodities Futures Trading Commision (“CFTC”) or Financial Crimes Enforcement Network (“FinCEN”)
+    
 
 ### Non-fungible tokens (NFTs) and related products
 
@@ -1186,6 +1362,8 @@ Note
 
 **Note**_: Advertisers also remain subject to all other Ads Policies, including the [Deceptive and Fraudulent Content](https://business.x.com/en/business-and-advertising/deceptive-and-fraudulent-content) Policy._
 
+*   *   NFT advertising must conform to the ASCI's guidelines for Virtual Digital Assets.
+    
 *   *   NFT advertising must conform to the ASCI's guidelines for Virtual Digital Assets.
     
 
@@ -1222,6 +1400,35 @@ Note
     *   Blockchain games based on chance or skill are permitted
     *   Advertiser holds a license from the UK Gambling Commission for advertising blockchain games based on chance
     *   Blockchain games based on chance are prohibited
+    *   Blockchain games based on skill are permitted
+    
+*   *   Pay-to-play Blockchain games based on chance are prohibited
+    *   Free-to-play Blockchain games based on chance are permitted
+    *   Blockchain games based on skill are permitted
+    
+*   *   Blockchain games based on chance are prohibited
+    *   Blockchain games based on skill are permitted
+    
+*   *   Blockchain games based on chance and skill are permitted
+    *   Advertiser holds a registration with Quebec's gaming and contests authority for advertising blockchain games based on skill targeting Quebec
+    
+*   *   Blockchain games based on chance or skill are permitted
+    *   Advertiser holds a German Gambling License for pay-to-play blockchain games
+    
+*   *   Pay-to-play Blockchain games are prohibited
+    *   Free-to-play Blockchain games are permitted
+    
+*   *   Blockchain games based on chance or skill are permitted
+    *   Advertiser holds necessary license / authorization from competent authority for advertising blockchain games based on chance
+    
+*   Blockchain games based on chance or skill are permitted
+    
+    Advertiser holds the permit or license from the General Directorate of the National Lottery (“GDNL”) for blockchain games based on chance
+    
+*   *   Blockchain games based on chance or skill are permitted
+    *   Advertiser holds a license from the UK Gambling Commission for advertising blockchain games based on chance
+    
+*   *   Blockchain games based on chance are prohibited
     *   Blockchain games based on skill are permitted
     
 
