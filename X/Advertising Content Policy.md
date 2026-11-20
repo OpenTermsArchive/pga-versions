@@ -2426,16 +2426,17 @@ Smoking Alternatives
 
 Smoking alternative ads promote products and services designed as less harmful substitutes for traditional tobacco smoking such as vapes or oral/topical nicotine solutions.
 
-These advertisements are allowed to target Argentina, Canada, Japan, Mexico, Philippines, Switzerland and the United States, subject to local restrictions. Approved advertisers running these ads must provide valid licenses from relevant regulatory authorities and comply with mandatory advertising compliance requirements.
+These advertisements are allowed to target Argentina, Canada, Japan, Mexico, Philippines, South Korea, Switzerland and the United States, subject to local restrictions. Approved advertisers running these ads must provide valid licenses from relevant regulatory authorities and comply with mandatory advertising compliance requirements.
 
 *   **Argentina:** Promotion of any form of vapes and e-cigarettes is prohibited.
 *   **Mexico:** Promotion of any form of vapes and e-cigarettes is prohibited.
 *   **Philippines**: Advertising must not feature cartoons, animated characters, minors, youth influencers, celebrities, or health professionals, nor include deceptive content, lifestyle depictions of vaping, or misleading, unsubstantiated, or reduced-risk health claims.
+*   **South Korea**: Only standalone vapes / e-cigarettes devices are permitted (i.e., e-liquids, cartridges, pre-filled pods and sticks are excluded, as well as devices that are integrated with foregoing disposable products). Vape device ads must not promote consumables (pods/sticks including nicotine), advertise devices integrated with disposables, or include links to buy nicotine/tobacco products online.
 
 Tobacco Accessories and Paraphernalia
 -------------------------------------
 
-Tobacco accessories and paraphernalia ads promote products used with tobacco or smoking alternatives, such as pipes, rolling papers, filters, or lighters. These ads are allowed in Japan, UK, and US, subject to local restrictions.
+Tobacco accessories and paraphernalia ads promote products used with tobacco or smoking alternatives, such as pipes, rolling papers, filters, or lighters. These ads are allowed in Japan and the US, subject to local restrictions.
 
 Need Help?
 ----------
