@@ -1853,9 +1853,9 @@ Please [file a ticket](https://ads.x.com/help) with our support team for any of 
 
 Learn more about blocking or dismissing ads by reading this article on “[How to report \>x< Ads](https://business.x.com/en/safety-and-security/reporting-x-ads)”. To report an ad that is potentially violating these policies, use the [Report an Ad](https://help.x.com/en/forms/safety-and-sensitive-content/ads) form.
 
-Using our [Ads Policy](https://www.google.com/url?q=https%3A%2F%2F%2Farticles%2F20169693-twitter-ads-policies&sa=D&sntz=1&usg=AFQjCNFo6IMUwkCJRKaQ85a5DFOftm9o-Q), [Rules](https://www.google.com/url?q=http%3A%2F%2Fwww.twitter.com%2Frules&sa=D&sntz=1&usg=AFQjCNHvu8Rnk8VFI1ytqbvwi9g1p3Apgg), and our [Terms of Service](https://www.google.com/url?q=http%3A%2F%2Fwww.twitter.com%2Ftos&sa=D&sntz=1&usg=AFQjCNF9_zUuizFJj2bP0VvshG2UmkOetg), we will examine reported violations and take appropriate action.
+Using our [Ads Policy](https://help.x.com/business-and-advertising/ads-policies), [Rules](https://help.x.com/rules-and-policies/x-rules), and our [Terms of Service](https://x.com/tos), we will examine reported violations and take appropriate action.
 
-If you are interested in advertising on \>x< and want to learn more, please visit [business.x.com](https://www.google.com/url?q=https%3A%2F%2Fbusiness.twitter.com%2F&sa=D&sntz=1&usg=AFQjCNGPyjOa9VMqVmXYTPcoS0sCML0dKQ).
+If you are interested in advertising on \>x< and want to learn more, please visit [business.x.com](https://business.x.com/).
 
 ### Ready to get started?
 
