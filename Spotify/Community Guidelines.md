@@ -373,8 +373,9 @@ When creating an account, it’s important to represent your child’s age accur
 
 Additionally, parents or carers can use our in-app controls to guide what young listeners can access. Every child is different and every family’s journey is unique, so we’re committed to evolving our tools to help parents and carers share music in the way that feels right for them. These tools currently include:
 
-*   Controlling the playback of specific artists and songs: Parents/carers can disable specific artists or tracks through the Parental controls page in Settings.
-*   The Explicit Content filter: Parents/carers can turn off songs that are tagged as explicit by creators and rightsholders. Explicit content is automatically turned off for managed accounts, with an option for parents/carers to change this via their Settings.
+*   The Explicit Content toggle: Songs tagged as explicit by creators and rightsholders are turned off by default for managed accounts, but young listeners can send you a request to play an explicit song.
+*   Approve specific songs or artists: You can approve explicit songs or an artist by adding it to the ‘Approved’ list. This will mean young listeners can play approved explicit content, even if the explicit content toggle remains off.
+*   Don’t play specific music: You can turn off playback of songs or artists by adding them to the ‘Don’t play’ list.
 *   Controls for videos and Canvas: Parents/carers can control young listeners’ access to Canvas (short, looping visuals accompanying songs) and video across all Spotify surfaces. Videos and Canvas are automatically turned off for managed accounts, with an option for parents/carers to change this via their Settings.
 
 ### Spotify Kids
