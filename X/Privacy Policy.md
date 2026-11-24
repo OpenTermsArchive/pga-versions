@@ -382,6 +382,8 @@ In 2020, California was the first of a series of US States passing comprehensive
 
 © 2026 \>x< Corp.
 
+Your privacy choices
+
 Theme
 
 English
