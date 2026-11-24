@@ -2910,6 +2910,8 @@ Share this Article
 
 © 2026 \>x< Corp.
 
+Your privacy choices
+
 Theme
 
 English
